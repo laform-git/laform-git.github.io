@@ -1,0 +1,36 @@
+name: Add reading tools
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'reader/reader.html'
+      - '.github/workflows/reader.yml'
+permissions:
+  contents: write
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Insert reader/reader.html into each study page
+        shell: python
+        run: |
+          import re, pathlib
+          snip = pathlib.Path("reader/reader.html").read_text(encoding="utf-8")
+          for p in ["index.html", "bikman/index.html", "christianity-and-islam/index.html"]:
+              f = pathlib.Path(p)
+              if not f.exists():
+                  continue
+              t = f.read_text(encoding="utf-8")
+              t = re.sub(r'<!--reader-->.*?<!--/reader-->\n?', "", t, flags=re.S)
+              t = re.sub(r'<div class="fsctl".*?</script>\n?', "", t, flags=re.S)
+              t = t.replace("</body>", "<!--reader-->" + snip + "<!--/reader--></body>", 1)
+              f.write_text(t, encoding="utf-8")
+              print("updated", p)
+      - name: Save
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html bikman christianity-and-islam
+          git diff --cached --quiet || git commit -m "Add reading tools"
+          git push

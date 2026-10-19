@@ -1,0 +1,17 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>:root{--body:"Atkinson Hyperlegible",-apple-system,"Segoe UI",system-ui,sans-serif}body{font-family:var(--body);font-size:19px;line-height:1.6}article.note{font-size:19px}article.note li{margin:6px 0}.site .s,.course .s,.chcard .s,.seccard p{font-size:17px}</style>
+<div class="fsctl" role="group" aria-label="Reading tools"><button type="button" class="tts" aria-label="Read this page aloud">▶ Listen</button><button type="button" data-d="-1" aria-label="Smaller text">A−</button><button type="button" data-d="1" aria-label="Larger text">A+</button></div>
+<style>.fsctl{position:fixed;right:max(12px,env(safe-area-inset-right,0px));bottom:max(12px,env(safe-area-inset-bottom,0px));display:flex;gap:2px;background:var(--surface);border:1px solid var(--rule);border-radius:999px;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:50}
+.fsctl button{font:700 15px/1 var(--display);color:var(--ink);background:transparent;border:0;border-radius:999px;padding:9px 12px;cursor:pointer;min-width:44px;min-height:40px;white-space:nowrap}
+.fsctl button:hover,.fsctl button:focus-visible{background:var(--accent-soft,rgba(0,0,0,.06));outline:none}
+.fsctl .tts.on{background:var(--accent);color:var(--surface)}</style>
+<script>(function(){var s=[.85,1,1.15,1.3,1.5,1.75],i=1;try{var v=parseFloat(localStorage.getItem("fs"));if(s.indexOf(v)>-1)i=s.indexOf(v)}catch(e){}function a(){document.querySelector(".wrap").style.zoom=s[i];try{localStorage.setItem("fs",s[i])}catch(e){}}a();document.querySelectorAll(".fsctl button[data-d]").forEach(function(b){b.addEventListener("click",function(){i=Math.max(0,Math.min(s.length-1,i+(+b.dataset.d)));a()})});
+var t=document.querySelector(".fsctl .tts"),ss=window.speechSynthesis;if(!ss){t.hidden=true;return}
+var vb=null;function pick(){var vs=ss.getVoices().filter(function(v){return /^en/i.test(v.lang)});var pr=[/Natural/i,/Online/i,/Premium/i,/Enhanced/i,/Siri/i,/Google US English/i,/Google UK English/i,/Ava|Zoe|Evan|Nathan|Samantha/i];for(var k=0;k<pr.length;k++){var m=vs.filter(function(v){return pr[k].test(v.name)})[0];if(m)return m}return vs.filter(function(v){return v.localService===false})[0]||vs[0]||null}ss.onvoiceschanged=function(){vb=pick()};vb=pick();
+function stop(){ss.cancel();t.classList.remove("on");t.textContent="▶ Listen"}
+function root(){var v=[].filter.call(document.querySelectorAll(".view"),function(x){return !x.hidden})[0]||document.querySelector(".wrap");return v.querySelector("article")||v}
+t.addEventListener("click",function(){if(t.classList.contains("on")){stop();return}
+var parts=[].map.call(root().querySelectorAll("h1,h2,h3,h4,p,li,td,blockquote,.t,.s"),function(e){return e.innerText.replace(/[✅🟢🟡🔴🕯]/g,"").trim()}).filter(Boolean);
+if(!parts.length)return;ss.cancel();t.classList.add("on");t.textContent="■ Stop";
+parts.forEach(function(x,k){var u=new SpeechSynthesisUtterance(x);u.rate=1;if(vb)u.voice=vb;if(k==parts.length-1)u.onend=stop;ss.speak(u)})});
+window.addEventListener("hashchange",stop);window.addEventListener("pagehide",stop)})();</script>
