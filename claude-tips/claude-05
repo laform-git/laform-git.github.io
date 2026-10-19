@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=5de468b0-8024-45d9-b56a-30e0af8e7403
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. --><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-05 Project Instructions and Notion · Claude Tips</title><link rel="stylesheet" href="style.css"></head><body><div class="wrap">
+<div class="top"><a href='/'>← All guides</a><span>Guide 4 of 4</span><a class='lang' href='/claude-05-es'>Español</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-05</div><h1>Project Instructions and Notion</h1><p>One set of rules for every chat, kept on a page you can edit.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">Why a project needs instructions</div><div class="cb">
+<div class="row">
+<div class="box rd"><h3>Without instructions</h3>
+<ul class="list"><li>Every chat starts from zero</li><li>You repeat the same background</li><li>Answers drift from chat to chat</li></ul></div>
+<div class="arrow">→</div>
+<div class="box grn"><h3>With instructions</h3>
+<ul class="list"><li>Write your rules once</li><li>Every chat in the project reads them first</li><li>Same style, same facts, every time</li></ul></div>
+</div>
+</div></div>
+
+<div class="card"><div class="ch orange">The wiring map</div><div class="cb">
+<div class="wire">
+<div class="box purple"><h3>Project instructions</h3><p>A short list: each chat and the link to its page. Like a building directory.</p></div>
+<div class="arrow">→</div>
+<div><div class="wrow"><div class="box blue wsm"><p><b>Chat: Home</b></p></div><div class="arrow sm">→</div><div class="box grn wsm"><p><b>Notion page: Home</b></p></div></div><div class="wrow"><div class="box blue wsm"><p><b>Chat: Travel</b></p></div><div class="arrow sm">→</div><div class="box grn wsm"><p><b>Notion page: Travel</b></p></div></div><div class="wrow"><div class="box blue wsm"><p><b>Chat: Health</b></p></div><div class="arrow sm">→</div><div class="box grn wsm"><p><b>Notion page: Health</b></p></div></div></div>
+</div><p class="cap">The instructions only point the way. Each Notion page holds that chat's details: <b>what it covers</b>, <b>how it works</b>, and <b>what's happening now</b>.</p>
+</div></div>
+
+<div class="card"><div class="ch green">How to set it up</div><div class="cb">
+<div class="row">
+<div class="box gry"><h3><span class="n" style="background:#475569">1</span>Make the pages</h3><p>One Notion page per chat, with the three parts above.</p></div>
+<div class="box gry"><h3><span class="n" style="background:#475569">2</span>Write the list</h3><p>In the project's Instructions, list each chat with its page link.</p></div>
+<div class="box gry"><h3><span class="n" style="background:#475569">3</span>Connect Notion</h3><p>Turn on the Notion connector in Claude's settings.</p></div>
+<div class="box gry"><h3><span class="n" style="background:#475569">4</span>Open and save</h3><p>Start with "open" so Claude reads the page. Say "save that" to update it.</p></div>
+</div>
+</div></div>
+
+<div class="rem"><div class="k">REMEMBER</div><div class="m">Instructions point the way. Notion keeps the facts.</div></div>
+<div class="pn"><a href='/claude-03'><small>← Previous</small>Using Claude Well</a><a class='next' href='/'><small>Done →</small>All guides</a></div>
+<div class="foot">Claude Tips · Claude-05</div></div></body></html><script async src="/.netlify/scripts/hud?variant=public" data-nf-variant="public" data-netlify-site-id="5de468b0-8024-45d9-b56a-30e0af8e7403" data-app-host="app.netlify.com" data-account-tier="free"></script>

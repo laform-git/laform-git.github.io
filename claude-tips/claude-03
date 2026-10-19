@@ -1,0 +1,47 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=5de468b0-8024-45d9-b56a-30e0af8e7403
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. --><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-03 Using Claude Well · Claude Tips</title><link rel="stylesheet" href="style.css"></head><body><div class="wrap">
+<div class="top"><a href='/'>← All guides</a><span>Guide 3 of 4</span><a class='lang' href='/claude-03-es'>Español</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-03</div><h1>Using Claude Well</h1><p>AI is more than one-off questions. Here is how far it goes.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">The ladder: from simple to powerful</div><div class="cb">
+<p style="margin:0 0 10px;color:#C2410C;font-style:italic">Most people stop at step 1.</p>
+<div class="row">
+<div class="box gry"><h3><span class="n" style="background:#475569">1</span>Ask</h3><p>One question, one answer.</p></div>
+<div class="box blue"><h3><span class="n" style="background:#2563EB">2</span>Chat</h3><p>Keep talking. Guide it step by step.</p><div class="lab" style="color:#1D4ED8">GOOD FOR</div><p>Questions, ideas, edits, voice</p></div>
+<div class="box purple"><h3><span class="n" style="background:#7C3AED">3</span>Project</h3><p>A folder for ongoing work. Every chat inside shares your files and instructions.</p><div class="lab" style="color:#6D28D9">NOTION TIP</div><p>Keep its instructions on a Notion page</p></div>
+<div class="box grn"><h3><span class="n" style="background:#16A34A">4</span>Task</h3><p>One instruction. It runs on its own, later or on a schedule.</p><div class="lab" style="color:#15803D">GOOD FOR</div><p>Recurring jobs, reminders, reports</p></div>
+</div>
+<div class="row" style="margin-top:14px">
+<div class="box gry"><h3>Loose chat (steps 1–2)</h3><p>Stand-alone. Remembers nothing from your other chats. Best for one-off questions.</p></div>
+<div class="box purple"><h3>Project chat (step 3)</h3><p>Lives inside a Project. Shares files and instructions with all its chats. Best for ongoing work.</p></div>
+</div>
+</div></div>
+
+<div class="card"><div class="ch orange">The one rule: every chat is a notebook</div><div class="cb">
+<p style="margin:0 0 8px;font-weight:700">Each chat is a notebook with a fixed number of pages.</p>
+<ul style="margin:0;padding-left:20px">
+<li>Everything fills pages: what you type, what Claude writes, and anything you paste.</li>
+<li>It is big: up to about 1 million tokens on paid plans (a token is about 3/4 of a word). Some models are smaller.</li>
+<li>When it is nearly full, Claude remembers the first pages less well, and answers can get worse.</li>
+</ul>
+<div class="bar"><div style="background:#16A34A"></div><div style="background:#D97706"></div><div style="background:#DC2626"></div></div>
+<div class="barl"><span style="color:#15803D">Fresh: works best</span><span style="color:#B45309">Filling up: details fade</span><span style="color:#B91C1C">Nearly full: start fresh</span></div>
+</div></div>
+
+<div class="card"><div class="ch red">Start fresh</div><div class="cb">
+<p style="margin:0 0 12px;font-weight:700">A new chat is a new, empty notebook. Claude forgets the old one unless you carry it over.</p>
+<div class="row">
+<div class="box amb" style="text-align:center"><h3>Old chat</h3><p>nearly full</p></div>
+<div class="arrow">→</div>
+<div class="box amb" style="text-align:center"><h3>Key facts</h3><p>or a short summary</p></div>
+<div class="arrow">→</div>
+<div class="box grn" style="text-align:center"><h3>New chat</h3><p>fresh and sharp</p></div>
+</div>
+</div></div>
+
+
+<div class="pn"><a href='/claude-02'><small>← Previous</small>Ask Well, Check, Stay Safe</a><a class='next' href='/claude-05'><small>Next →</small>Project Instructions and Notion</a></div>
+<div class="foot">Claude Tips · Claude-03</div></div></body></html><script async src="/.netlify/scripts/hud?variant=public" data-nf-variant="public" data-netlify-site-id="5de468b0-8024-45d9-b56a-30e0af8e7403" data-app-host="app.netlify.com" data-account-tier="free"></script>

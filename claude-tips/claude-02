@@ -1,0 +1,43 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=5de468b0-8024-45d9-b56a-30e0af8e7403
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. --><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-02 Ask Well, Check, Stay Safe · Claude Tips</title><link rel="stylesheet" href="style.css"></head><body><div class="wrap">
+<div class="top"><a href='/'>← All guides</a><span>Guide 2 of 4</span><a class='lang' href='/claude-02-es'>Español</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-02</div><h1>Ask Well, Check, Stay Safe</h1><p>How to get good answers, and when to be careful.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">How to ask</div><div class="cb">
+<div class="row">
+<div class="box blue"><h3>What</h3><p>What do you need?</p></div>
+<div class="arrow">+</div>
+<div class="box purple"><h3>For whom</h3><p>Who is it for, and why?</p></div>
+<div class="arrow">+</div>
+<div class="box amb"><h3>How</h3><p>Short or long? Formal or friendly? A list?</p></div>
+<div class="arrow">=</div>
+<div class="box grn"><h3>Better answer</h3><p>The more it knows, the better it fits.</p></div>
+</div>
+<p class="cap"><b>Not right?</b> Don't start over. Just reply: "shorter," "simpler," "more formal," "give me other options," "try again."</p>
+</div></div>
+
+<div class="card"><div class="ch orange">The traffic light</div><div class="cb">
+<div class="row">
+<div class="box grn"><h3>● Go ahead</h3>
+<ul class="list"><li>Writing and rewriting</li><li>Explaining things simply</li><li>Summarizing long text</li><li>Ideas and plans</li><li>Translating</li></ul></div>
+<div class="box amb"><h3>● Double-check</h3>
+<ul class="list"><li>Facts, dates and numbers</li><li>Health, legal or money</li><li>Very recent news</li><li>Links and quotes</li></ul></div>
+<div class="box rd"><h3>● Never share</h3>
+<ul class="list"><li>Passwords and PINs</li><li>Bank and card numbers</li><li>ID or Social Security numbers</li><li>Other people's private info</li></ul></div>
+</div>
+</div></div>
+
+<div class="card"><div class="ch green">It can sound sure and still be wrong</div><div class="cb">
+<div class="row">
+<div class="box gry"><h3>Does it make sense?</h3><p>If something seems off, ask: "How sure are you?"</p></div>
+<div class="box gry"><h3>Can you confirm it?</h3><p>Check anything important with the source: the store, the bank, the office.</p></div>
+<div class="box gry"><h3>Is it serious?</h3><p>For health, legal or money decisions, ask a professional too.</p></div>
+</div>
+</div></div>
+
+<div class="rem"><div class="k">REMEMBER</div><div class="m">Green: go ahead. Yellow: double-check. Red: never type it.</div></div>
+<div class="pn"><a href='/claude-01'><small>← Previous</small>What AI Is and How Chats Work</a><a class='next' href='/claude-03'><small>Next →</small>Using Claude Well</a></div>
+<div class="foot">Claude Tips · Claude-02</div></div></body></html><script async src="/.netlify/scripts/hud?variant=public" data-nf-variant="public" data-netlify-site-id="5de468b0-8024-45d9-b56a-30e0af8e7403" data-app-host="app.netlify.com" data-account-tier="free"></script>
