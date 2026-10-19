@@ -1,0 +1,33 @@
+name: Copy sites
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'sites.txt'
+      - '.github/workflows/sites.yml'
+permissions:
+  contents: write
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Copy each site listed in sites.txt
+        run: |
+          grep -v '^[[:space:]]*#' sites.txt | while read -r folder url; do
+            [ -z "$folder" ] && continue
+            tmp=$(mktemp -d)
+            wget -q -r -l inf -np -p -nH -e robots=off -P "$tmp" "$url/" || true
+            if [ -s "$tmp/index.html" ]; then
+              rm -rf "$folder"
+              mv "$tmp" "$folder"
+              echo "Copied $url into $folder"
+            else
+              echo "Skipped $url (could not download); kept existing $folder"
+            fi
+          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Copy sites"
+          git push
