@@ -84,3 +84,17 @@ article.note h2{font-size:21px}
  .tocbtn+.langs{margin-left:0}}
 @media (max-width:520px){.tocbtn{padding:7px 13px;font-size:18px}.tocbtn .lbl{display:none}.crumbs.sticky{flex-wrap:nowrap}}
 @media (min-width:981px){body .fsctl{right:auto;left:max(16px,env(safe-area-inset-left,0px))}.toc{max-height:calc(100vh - 180px)}}
+/* text size: A−/A+ set --fs (works on iPhone/iPad Safari too); no zoom on booklets */
+.wrap{zoom:1!important}
+html body article.note{font-size:calc(19px*var(--fs,1))}
+html body article.note h1.nt{font-size:calc(clamp(30px,5vw,46px)*var(--fs,1))}
+html body article.note h2{font-size:calc(21px*var(--fs,1))}
+html body article.note h3{font-size:calc(20px*var(--fs,1))}
+html body article.note h4{font-size:calc(18px*var(--fs,1))}
+html body article.note table{font-size:calc(16px*var(--fs,1))}
+/* language switch 25% smaller */
+.crumbs .langs{font-size:13px;border-width:1.5px}
+.crumbs .langs a,.crumbs .langs .on{padding:8px 14px;min-height:34px}
+.crumbs.sticky .langs{font-size:12px}
+.crumbs.sticky .langs a,.crumbs.sticky .langs .on{padding:5px 11px;min-height:30px}
+@media (max-width:520px){.crumbs:not(.sticky) .langs{width:auto;margin-left:auto;order:0}.crumbs.sticky .langs a,.crumbs.sticky .langs .on{padding:5px 9px;font-size:12px}.tocbtn{padding:4px 11px;font-size:16px;min-height:30px}}
