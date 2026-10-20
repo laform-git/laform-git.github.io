@@ -1,0 +1,13 @@
+{
+ "langs": ["en", "es"],
+ "title": {"en": "Insulin Resistance", "es": "Resistencia a la Insulina"},
+ "titleHtml": {"en": "Insulin <span>Resistance</span>", "es": "Resistencia a la <span>Insulina</span>"},
+ "eyebrow": {"en": "Study notes · Health", "es": "Notas de estudio · Salud"},
+ "lede": {"en": "What insulin resistance is, why cells stop listening to insulin, how to measure it, and what it does to the rest of the body.", "es": "Qué es la resistencia a la insulina, por qué las células dejan de escuchar a la insulina, cómo medirla y qué le hace al resto del cuerpo."},
+ "sections": [
+  {"title": {"en": "Insulin Resistance", "es": "Resistencia a la Insulina"},
+   "notes": [{"id": "insulin-resistance",
+     "en": {"file": "en/insulin-resistance.md", "title": "Insulin Resistance", "aka": ["Insulin Resistance — Complete Study Notes"]},
+     "es": {"file": "es/resistencia-a-la-insulina.md", "title": "Resistencia a la Insulina"}}]}
+ ]
+}
