@@ -1,4 +1,5 @@
-# Insulin Resistance — Molecular Cascade
+# Insulin Signaling — Molecular Cascade
+*The molecular chain reaction from insulin binding its receptor through Akt activation to GLUT4 glucose uptake, and exactly where insulin resistance jams the cascade.*
 
 ## Why This Matters
 
@@ -9,7 +10,7 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 ## The Players — Quick Reference
 
 | Term | Plain English |
-| --- | --- |
+|---|---|
 | Insulin Receptor (IR) | The lock on the cell surface |
 | Phosphorylation | Sticking a phosphate tag onto a protein — turns it on or off |
 | IRS-1 | First relay inside the cell — the first domino |
@@ -64,23 +65,19 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 ### Step 6 — Akt fires 4 payoffs simultaneously
 
 **Payoff 1 — Glucose doors open**
-
 - Akt switches off brake AS160
 - GLUT4 vesicles fuse to cell surface — glucose flows in
 - ✅ Rock solid
 
 **Payoff 2 — Glycogen storage**
-
 - Akt blocks GSK3 → glycogen synthesis ramps up
 - ✅ Rock solid
 
 **Payoff 3 — Liver shuts off glucose production**
-
 - Akt ejects FOXO1 from nucleus → genes PEPCK and G6Pase go silent
 - ✅ Rock solid
 
 **Payoff 4 — Fat and protein synthesis**
-
 - Akt fires mTORC1 and SREBP-1c → storage and building mode
 - This branch stays partially active even in insulin resistance — IR blocks glucose uptake AND keeps promoting fat storage simultaneously
 - ✅ Rock solid
@@ -128,7 +125,6 @@ Insulin binds → receptor self-activates → IRS-1 tagged → PI3K lights PIP3 
 - All three activate AMPK — a parallel bypass that circumvents the jammed cascade
 - AMPK drives GLUT4 to the surface independently of IRS-1 and Akt
 - This is why they restore insulin sensitivity even when the top of the cascade is broken
-- See: [[Berberine — Mechanisms & Timing]]
 
 ---
 
@@ -149,37 +145,3 @@ Draining ectopic fat from muscle and liver — through exercise, caloric deficit
 - AMPK deep dive — how berberine, exercise, and fasting hit the same bypass
 - Full GLUT4 trafficking mechanism
 - mTORC1 vs mTORC2 — different roles in the same cascade
-
----
-
-*Date: 2026-06-20*
-
----
-
-## Addendum (2026-07-31): Selective Insulin Resistance — Why IR Makes MORE Fat, Not Less
-
-**The paradox**
-
-If insulin's job includes building fat, shouldn't resistance to insulin mean *less* fat gets made? It would — if resistance were uniform across the whole cascade. It isn't.
-
-**The mechanism: resistance is pathway-specific, not all-or-nothing**
-
-Looking back at Step 6 above: Akt fires 4 payoffs from one signal. In insulin resistance, the saboteurs (DAG at IRS-1, ceramide at Akt) don't disable all 4 payoffs equally.
-
-- **Payoff 1 (GLUT4/glucose uptake)** — becomes resistant early and severely. This is the pathway most sensitive to the DAG/ceramide jam. 🟢
-- **Payoff 4 (mTORC1/SREBP-1c → fat and protein synthesis)** — stays largely insulin-sensitive, sometimes indefinitely. This is documented in the literature as **"selective hepatic insulin resistance."** ✅ The liver becomes deaf to insulin's glucose-control message while remaining fully receptive to insulin's fat-building message.
-
-**Why this makes things worse, step by step**
-
-1. Payoff 1 is jammed → blood glucose stays elevated after meals.
-2. Pancreas responds the only way it can: secretes **more insulin** to try to force the resistant glucose pathway open (compensatory hyperinsulinemia).
-3. That extra insulin can't fix the jammed glucose pathway (Steps 3/5 are still blocked) — but it **fully reaches the still-sensitive fat-building pathway** (Payoff 4, SREBP-1c → ACC/FAS → de novo lipogenesis, see Lipid Triad note).
-4. Net result: elevated blood sugar **and** elevated triglyceride/fat production simultaneously — not despite the resistance, but *because of* the compensatory response to it.
-
-**The analogy**
-
-Two doors, same key. The glucose-door's lock wears out (resistant) — so the body cuts more keys (more insulin) to force it. The fat-door's lock never wore out. Now it's getting hit with far more keys than normal, and swings open harder and more often than before the resistance ever started.
-
-**Practical takeaway**
-
-This is why fixing insulin resistance can't be partial or glucose-only — as long as any compensatory hyperinsulinemia persists, it keeps fueling the fat-synthesis branch even on days when fasting glucose looks fine.
