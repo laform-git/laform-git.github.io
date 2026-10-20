@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=09cdde28-80b2-46b4-9b95-fbb497821817
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. --><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Theme preview · Christianity and Islam</title>
+<meta name="description" content="Study notes on Islam, the Crusades, and the Catholic response.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f3f5f4; --surface:#ffffff; --ink:#14201c; --muted:#56635e; --rule:#d5dcd8;
+  --accent:#0f6b55; --accent-soft:#dcefe8; --gold:#a07a12;
+  --display:"Bricolage Grotesque","Avenir Next","Segoe UI",sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e1513; --surface:#151f1c; --ink:#e4ece8; --muted:#97a6a0; --rule:#2a3733;
+  --accent:#5fcfab; --accent-soft:#16342b; --gold:#e3bf5c; color-scheme:dark}
+  article.note .card.c0{--frame:#5fcfab} article.note .card.c1{--frame:#7aa7e8} article.note .card.c2{--frame:#e3b45c} article.note .card.c3{--frame:#c08be0}}
+:root[data-theme="dark"]{
+  --bg:#0e1513; --surface:#151f1c; --ink:#e4ece8; --muted:#97a6a0; --rule:#2a3733;
+  --accent:#5fcfab; --accent-soft:#16342b; --gold:#e3bf5c; color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.6 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+a{color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.wrap{max-width:1120px;margin:0 auto}
+h1,h2,h3,h4{font-family:var(--display);line-height:1.15;text-wrap:balance}
+.eyebrow{font:500 12px/1.3 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+
+header.hero{padding-block:48px 36px;border-bottom:1px solid var(--rule);display:grid;gap:28px;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);align-items:end}
+.hero h1{font-size:clamp(40px,7vw,84px);font-weight:800;letter-spacing:-.02em;margin:10px 0 0}
+.hero h1 span{color:var(--accent)}
+.hero p.lede{font-size:20px;max-width:40ch;margin:16px 0 0}
+.byline{margin-top:16px;color:var(--muted);font-size:15.5px;max-width:62ch}
+.thesis{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:20px 22px}
+.thesis .q{font-family:var(--display);font-size:22px;font-weight:700;line-height:1.25}
+@media (max-width:760px){header.hero{grid-template-columns:1fr}}
+
+.block{padding-block:36px}
+h2.sec{font-size:26px;margin:0 0 18px}
+.courses{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.course{display:flex;flex-direction:column;gap:8px;text-decoration:none;color:var(--ink);background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:20px 22px}
+.course:hover{border-color:var(--accent)}
+.course .n{font:500 12px/1 var(--mono);color:var(--muted);letter-spacing:.08em;text-transform:uppercase}
+.course .t{font:800 26px/1.1 var(--display)}
+.course .s{font-size:15.5px}
+@media (max-width:700px){.courses{grid-template-columns:1fr}}
+.chlist{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.chcard{display:flex;flex-direction:column;gap:6px;text-decoration:none;color:var(--ink);background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:16px 18px}
+.chcard:hover{border-color:var(--accent)}
+.chcard .n{font:500 28px/1 var(--mono);color:var(--accent)}
+.chcard .t{font:700 18px/1.2 var(--display)}
+.chcard .s{font-size:14.5px;color:var(--muted)}
+@media (max-width:860px){.chlist{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.chlist{grid-template-columns:1fr}}
+
+.crumbs{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font:500 14px/1.3 var(--display);padding-block:18px;border-bottom:1px solid var(--rule)}
+.crumbs a{text-decoration:none}.crumbs .sep,.crumbs .here{color:var(--muted)}
+
+/* the note itself: a single reading column */
+article.note{max-width:760px;margin:0 auto;padding-block:32px 8px;overflow-wrap:break-word}
+article.note h1.nt{font-size:clamp(28px,4.4vw,42px);font-weight:800;letter-spacing:-.01em;margin:10px 0 18px}
+article.note h2{font-size:24px;margin:0 0 14px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+article.note .card{background:var(--surface);border:1.5px solid var(--frame);border-left-width:6px;border-radius:10px;padding:20px 22px 8px;margin:0 0 22px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+article.note .card.intro{--frame:var(--rule);border-left-width:1.5px;background:transparent;box-shadow:none}
+article.note .card.c0{--frame:#2f8f74} article.note .card.c1{--frame:#3b6fb6} article.note .card.c2{--frame:#b7791f} article.note .card.c3{--frame:#8a4fb0}
+article.note .card h2{color:var(--frame)}
+article.note .card hr{margin:18px 0}
+@media (max-width:520px){article.note .card{padding:16px 14px 6px;border-left-width:5px}}
+article.note h3{font-size:19px;margin:28px 0 8px}
+article.note h4{font-size:17px;margin:22px 0 6px}
+article.note p{margin:0 0 14px}
+article.note ul,article.note ol{margin:0 0 14px;padding-left:1.4em}
+article.note li{margin:4px 0}
+article.note li>ul,article.note li>ol{margin:4px 0}
+article.note blockquote{margin:0 0 14px;padding:4px 0 4px 18px;border-left:3px solid var(--gold);color:var(--ink)}
+article.note hr{border:0;border-top:1px solid var(--rule);margin:28px 0}
+article.note code{font:14px var(--mono);background:var(--accent-soft);padding:1px 5px;border-radius:3px}
+article.note table{display:block;overflow-x:auto;border-collapse:collapse;width:100%;max-width:100%;font-size:15px;margin:0 0 18px;background:var(--surface);border:1px solid var(--rule);border-radius:6px}
+article.note th,article.note td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top;min-width:120px}
+article.note th{font:500 12px/1.3 var(--mono);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+article.note tr:last-child td{border-bottom:0}
+article.note em{color:inherit}
+
+.pager{max-width:760px;margin:0 auto;display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:stretch;border-top:1px solid var(--rule);padding-block:24px 48px}
+.pager a{display:block;text-decoration:none;color:var(--ink);background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:12px 14px;min-width:0}
+.pager a:hover{border-color:var(--accent)}
+.pager .k{font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);display:block;margin-bottom:6px}
+.pager .t{font:700 15px/1.25 var(--display)}
+.pager .next{text-align:right}.pager .idx{text-align:center}
+@media (max-width:640px){.pager{grid-template-columns:1fr}.pager .next,.pager .idx{text-align:left}.pager .empty{display:none}}
+.view>.pager{max-width:none}
+footer.site{border-top:1px solid var(--rule);padding-block:24px 40px;color:var(--muted);font-size:14px}
+</style><style>
+.secgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;padding-block:32px}
+.seccard{background:var(--surface);border:1.5px solid var(--frame);border-left:6px solid var(--frame);border-radius:10px;padding:20px 22px}
+.seccard.c0{--frame:#2f8f74}.seccard.c1{--frame:#3b6fb6}.seccard.c2{--frame:#b7791f}.seccard.c3{--frame:#8a4fb0}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .seccard.c0{--frame:#5fcfab}:root:not([data-theme="light"]) .seccard.c1{--frame:#7aa7e8}:root:not([data-theme="light"]) .seccard.c2{--frame:#e3b45c}:root:not([data-theme="light"]) .seccard.c3{--frame:#c08be0}}
+.seccard .n{font:500 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.seccard h2{font:800 26px/1.1 var(--display);color:var(--frame);margin:10px 0 8px}
+.seccard p{margin:0 0 12px;font-size:15.5px}
+.seccard ol{margin:0;padding-left:1.3em}.seccard li{margin:4px 0}
+@media (max-width:700px){.secgrid{grid-template-columns:1fr}}
+</style><meta name="robots" content="noindex">
+<style id="skins">
+:root[data-skin="parchment"]{--bg:#f6efe1;--surface:#fffaf0;--ink:#3b2a1a;--muted:#7a6650;--rule:#e5d8c0;--accent:#a8641a;--accent-soft:#f3e3c8;--gold:#b8862b;color-scheme:light}
+:root[data-skin="parchment"] .card.c0,:root[data-skin="parchment"] article.note .card.c0{--frame:#b7791f}
+:root[data-skin="parchment"] .card.c1,:root[data-skin="parchment"] article.note .card.c1{--frame:#a3542c}
+:root[data-skin="parchment"] .card.c2,:root[data-skin="parchment"] article.note .card.c2{--frame:#7d7a2e}
+:root[data-skin="parchment"] .card.c3,:root[data-skin="parchment"] article.note .card.c3{--frame:#8a5a6b}
+:root[data-skin="linen"]{--bg:#f1efea;--surface:#fbfaf7;--ink:#2b2b2b;--muted:#6b6862;--rule:#dedad2;--accent:#8a6d2f;--accent-soft:#efe7d4;--gold:#a88a3d;color-scheme:light}
+:root[data-skin="linen"] .card.c0,:root[data-skin="linen"] article.note .card.c0{--frame:#8a6d2f}
+:root[data-skin="linen"] .card.c1,:root[data-skin="linen"] article.note .card.c1{--frame:#5b6b7a}
+:root[data-skin="linen"] .card.c2,:root[data-skin="linen"] article.note .card.c2{--frame:#7a5c4a}
+:root[data-skin="linen"] .card.c3,:root[data-skin="linen"] article.note .card.c3{--frame:#6a7a5a}
+:root[data-skin="sage"]{--bg:#eef2ec;--surface:#f9fbf7;--ink:#23302a;--muted:#5d6b62;--rule:#d4ddd2;--accent:#5e7a3a;--accent-soft:#e1ead5;--gold:#8a7a2e;color-scheme:light}
+:root[data-skin="sage"] .card.c0,:root[data-skin="sage"] article.note .card.c0{--frame:#5e7a3a}
+:root[data-skin="sage"] .card.c1,:root[data-skin="sage"] article.note .card.c1{--frame:#3f6e6a}
+:root[data-skin="sage"] .card.c2,:root[data-skin="sage"] article.note .card.c2{--frame:#8a7a2e}
+:root[data-skin="sage"] .card.c3,:root[data-skin="sage"] article.note .card.c3{--frame:#6b5e8a}
+:root[data-skin="things"]{--bg:#f5f6f8;--surface:#ffffff;--ink:#1d1d1f;--muted:#6e6e73;--rule:#e3e5e8;--accent:#1b6ef3;--accent-soft:#e6effd;--gold:#c98b00;color-scheme:light}
+:root[data-skin="things"] .card.c0,:root[data-skin="things"] article.note .card.c0{--frame:#1b6ef3}
+:root[data-skin="things"] .card.c1,:root[data-skin="things"] article.note .card.c1{--frame:#34a36b}
+:root[data-skin="things"] .card.c2,:root[data-skin="things"] article.note .card.c2{--frame:#e0912f}
+:root[data-skin="things"] .card.c3,:root[data-skin="things"] article.note .card.c3{--frame:#a35bd6}
+:root[data-skin="thingsdark"]{--bg:#1c1d1f;--surface:#242528;--ink:#e8e8ea;--muted:#9a9ba0;--rule:#34363a;--accent:#4a90f7;--accent-soft:#1f3352;--gold:#f0b84a;color-scheme:dark}
+:root[data-skin="thingsdark"] .card.c0,:root[data-skin="thingsdark"] article.note .card.c0{--frame:#4a90f7}
+:root[data-skin="thingsdark"] .card.c1,:root[data-skin="thingsdark"] article.note .card.c1{--frame:#4cc38a}
+:root[data-skin="thingsdark"] .card.c2,:root[data-skin="thingsdark"] article.note .card.c2{--frame:#f0a64a}
+:root[data-skin="thingsdark"] .card.c3,:root[data-skin="thingsdark"] article.note .card.c3{--frame:#c48af0}
+#skinbar{position:sticky;top:0;z-index:60;display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:center;padding:8px 12px;margin:0 -16px;background:var(--surface);border-bottom:1px solid var(--rule);font:600 13px/1 var(--display,system-ui)}
+#skinbar span{color:var(--muted);font:500 11px/1 var(--mono,monospace);letter-spacing:.1em;text-transform:uppercase;margin-right:4px}
+#skinbar button{font:inherit;cursor:pointer;border:1.5px solid var(--rule);background:var(--bg);color:var(--ink);border-radius:999px;padding:7px 12px;min-height:34px;display:inline-flex;gap:6px;align-items:center}
+#skinbar button i{width:12px;height:12px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.2)}
+#skinbar button[aria-pressed="true"]{border-color:var(--accent);background:var(--accent);color:var(--surface)}
+</style>
+</head>
+<body>
+<div id="skinbar" role="group" aria-label="Theme preview"><span>Theme preview</span><button type="button" data-k="parchment" aria-pressed="false"><i style="background:#f6efe1;box-shadow:inset -6px 0 0 #a8641a"></i>Parchment</button><button type="button" data-k="linen" aria-pressed="false"><i style="background:#f1efea;box-shadow:inset -6px 0 0 #8a6d2f"></i>Linen</button><button type="button" data-k="sage" aria-pressed="false"><i style="background:#eef2ec;box-shadow:inset -6px 0 0 #5e7a3a"></i>Sage</button><button type="button" data-k="things" aria-pressed="false"><i style="background:#f5f6f8;box-shadow:inset -6px 0 0 #1b6ef3"></i>Things light</button><button type="button" data-k="thingsdark" aria-pressed="false"><i style="background:#1c1d1f;box-shadow:inset -6px 0 0 #4a90f7"></i>Things dark</button></div>
+<div class="wrap">
+<div class="view" id="v-home" data-title="Christianity and Islam">
+<header class="hero"><div><div class="eyebrow">Study notes · 4 sections · 12 notes</div>
+<h1>Christianity <span>and Islam</span></h1><p class="lede">What Muslims believe, the history of the Crusades, the hard questions, and how the Church answers.</p>
+<div class="byline">Read in order. Previous and Next run through every note from start to finish.</div></div>
+<div class="thesis"><div class="eyebrow" style="margin-bottom:10px">Start here</div><div class="q"><a href="#q94" style="text-decoration:none">What Muslims Believe →</a></div></div></header>
+<div class="secgrid"><section class="seccard c0"><div class="n">Section 1 · 3 notes</div><h2>Understanding Islam</h2><p>What Muslims believe, and the faith in one God that Christians, Jews and Muslims all claim.</p><ol><li><a href="#q94">What Muslims Believe</a></li><li><a href="#islam">Islam</a></li><li><a href="#monotheism">Monotheism</a></li></ol></section><section class="seccard c1"><div class="n">Section 2 · 4 notes</div><h2>The Crusades</h2><p>Four centuries of conquest, the call at Clermont, and what each Crusade actually did.</p><ol><li><a href="#crusades">Historical Context and Islamic Expansion</a></li><li><a href="#q102">Why the Church Fought the Crusades</a></li><li><a href="#constantinople">Constantinople</a></li><li><a href="#knights">Knights of Saint John</a></li></ol></section><section class="seccard c2"><div class="n">Section 3 · 2 notes</div><h2>The Hard Questions</h2><p>Violence against Jews, and when war can be just at all.</p><ol><li><a href="#q104">Did the Church Persecute Jews?</a></li><li><a href="#q145">Just War and Self-Defense</a></li></ol></section><section class="seccard c3"><div class="n">Section 4 · 3 notes</div><h2>Catholic Responses</h2><p>Aquinas&#x27;s argument from signs, the Council&#x27;s esteem for Muslims, and one woman&#x27;s road from Islam to Christ.</p><ol><li><a href="#aquinas">Aquinas on Muhammad</a></li><li><a href="#nostra">Nostra Aetate</a></li><li><a href="#hirsi">Ayaan Hirsi Ali: From Submission to Surrender</a></li></ol></section></div></div>
+<div class="view" id="v-q94" data-title="What Muslims Believe · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Understanding Islam · 1 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 1 · Understanding Islam</div><h1 class="nt">Q94 - What do Muslims believe?</h1>
+<section class="card intro"><p>What do Muslims believe?</p>
+<p>Islam was founded by Muhammad, who lived from 570-632 A.D. Muhammad grew up an orphan and was raised by his uncle Abu Talib, and later married a wealthy widow, Kadijah. In 612 he experienced a revelation in a cave near Mecca, where he received the direct dictation of the Koran. Although he gathered followers almost immediately, he also incurred the local merchants' wrath because he criticized their polytheistic beliefs.</p>
+<p>After years of persecution by Meccans, Muhammad and his followers fled to Medina on Friday, July 16, 622. This event, called the Hijra, marks the beginning of the Islamic lunar calendar. (622 is Year 1 in the Muslim calendar.) In Medina many followed Muhammad, but the Jews there refused to recognize him as a prophet in line with their prophets.</p>
+<p>The years 627-629 saw the siege and military conquest of Mecca, which then became the center of Islam. In retaliation for having been rejected by the Jews in Medina, Muhammad ordered two Jewish tribes there to be expelled, and a third to be slaughtered (about 600-700 perished).</p>
+<p>Islam spread quickly in the 7th and 8th centuries by means of jihad, or holy war against the infidels, through Arabia, Jerusalem (conquered in 638), Egypt, Syria, Persia, North Africa, and Spain (conquered in 711). Many Jews and Christians died while trying to defend their cities from Muslim attack. However, contrary to popular belief, most Jews and Christians remaining in already-conquered cities were not converted at sword-point; rather, they were taxed heavily and denied civil rights.</p>
+<p>There are Five Pillars of Islam, such that faithful Muslims can be assured of salvation by fulfilling these requirements:</p>
+<p>Recitation of the Creed – "There is no God but Allah, and his prophet is Muhammad."</p>
+<p>Daily Prayer – 5 times a day facing Mecca ("Allahu akbar" is the call to prayer).</p>
+<p>Almsgiving – for the poor, orphans, beggars, and slaves.</p>
+<p>The Ramadan fast – no food or drink from sunrise to sunset, during the lunar month of Ramadan.</p>
+<p>Pilgrimage to Mecca – to be done at least once in a lifetime (although exceptions can be granted).</p>
+<p>For a Catholic perspective on engaging Muslim belief and practice, see <a href="https://www.catholic.com">Catholic Answers</a> and the Catholic Encyclopedia entries at <a href="https://www.newadvent.org">New Advent</a>.</p>
+<p>See also: <a href="#aquinas">Aquinas on Muhammad</a> · <a href="#aquinas">Islam</a> · <a href="#nostra">NostraAetate</a></p>
+<hr /></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#home"><span class="k">← Previous</span><span class="t">Contents</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#islam"><span class="k">Next →</span><span class="t">Islam</span></a></nav></div>
+<div class="view" id="v-islam" data-title="Islam · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Understanding Islam · 2 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 1 · Understanding Islam</div><h1 class="nt">Islam</h1>
+<section class="card intro"><p><em>"The monotheistic religion that traces itself to the preaching of Muhammad in seventh-century Arabia and holds the Qur'an to be God's final revelation."</em></p>
+<p>Muslims believe in one God, Creator and Judge, and hold that Muhammad (c. 570–632) is the last of the prophets. Their practice centers on the Five Pillars: the profession of faith (<em>shahada</em>), prayer five times a day (<em>salat</em>), almsgiving (<em>zakat</em>), the fast of Ramadan (<em>sawm</em>) and pilgrimage to Mecca (<em>hajj</em>). They honor Abraham, Moses and Jesus as prophets and hold Mary in high regard, but deny the Trinity and the divinity of Christ, and the Qur'an denies that Jesus was crucified (4:157).</p>
+<p>The Church's own teaching is set out in <em>Nostra Aetate</em> 3: she regards Muslims with esteem, as those who adore the one God, living and subsistent, merciful and almighty, who revere Jesus as a prophet, honor Mary, and await the day of judgment; and she urges that past quarrels be set aside for mutual understanding. CCC 841 (following <em>Lumen Gentium</em> 16) adds that Muslims, professing to hold the faith of Abraham, adore with us the one, merciful God. See also <a href="#q94">Q94 - What do Muslims believe</a> and <a href="#aquinas">Aquinas on Muhammad</a>.</p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#q94"><span class="k">← Previous</span><span class="t">What Muslims Believe</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#monotheism"><span class="k">Next →</span><span class="t">Monotheism</span></a></nav></div>
+<div class="view" id="v-monotheism" data-title="Monotheism · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Understanding Islam · 3 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 1 · Understanding Islam</div><h1 class="nt">Monotheism</h1>
+<section class="card intro"><p><em>"The belief in one God — the foundational affirmation of Jewish, Christian, and Islamic faith."</em></p>
+<p>Israel's monotheism was revolutionary in the ancient world: one God, not a pantheon; a personal God, not an impersonal force; a creator God who stands outside and above creation, not identified with it.</p>
+<p>Christian monotheism is Trinitarian: there is one God who is Father, Son, and Holy Spirit. This is not a compromise of monotheism but its deepest revelation — the one God is an eternal communion of love. The unity of God is the unity of three Persons in one nature.</p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#islam"><span class="k">← Previous</span><span class="t">Islam</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#crusades"><span class="k">Next →</span><span class="t">Historical Context and Islamic Expansion</span></a></nav></div>
+<div class="view" id="v-crusades" data-title="Historical Context and Islamic Expansion · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Crusades · 1 of 4</span></div>
+<article class="note"><div class="eyebrow">Section 2 · The Crusades</div><h1 class="nt">Crusades</h1>
+<section class="card c0"><h2>What Preceded the First Crusade (1096)</h2>
+<p>The Crusades did not emerge in a vacuum. Starting in the 7th century, Arab and Islamic armies had expanded across an enormous region — lands that had been Christian for centuries.</p>
+<p><strong>By 711 AD — before the First Crusade — these territories had been conquered:</strong></p>
+<ul>
+<li>Saudi Arabia (origin of the expansion)</li>
+<li>Syria (637), Iraq (637), Egypt (641)</li>
+<li>Libya, Tunisia (698), Algeria, Morocco (709)</li>
+<li>Spain and Portugal (711) — Islamic forces crossed into Western Europe</li>
+<li>Iran (651), Jordan, Israel/Palestine (636), Lebanon</li>
+<li>Afghanistan, Pakistan/Sindh (711)</li>
+<li>Armenia, Cyprus</li>
+</ul>
+<p>This represents the loss of the historic heartlands of Christianity — Jerusalem, Antioch, Alexandria, Carthage — to military conquest over roughly 80 years.</p>
+</section><section class="card c1"><h2>Why the Crusades Were Called</h2>
+<p>In 1095, Pope Urban II called the First Crusade in response to a request from the Byzantine Emperor Alexios I, whose empire was being overrun by Seljuk Turks. The goal was to recapture Jerusalem and restore access to Christian holy sites, which had been blocked or made dangerous for pilgrims.</p>
+<p>The Crusades were not initiated as an unprovoked offensive — they were a military response, however complex and at times brutal in execution, to centuries of Islamic expansion into Christian lands.</p>
+</section><section class="card c2"><h2>Historical Nuance</h2>
+<p>The Crusades were mixed in their conduct and motivation. Alongside genuine religious zeal were political ambition, violence against Jews and Eastern Christians, and military failures. They cannot be reduced to either pure heroism or pure villainy.</p>
+<p>Context matters: judging 11th–13th century military campaigns by 21st century moral standards, without accounting for the geopolitical realities that provoked them, distorts more than it illuminates.</p>
+</section><section class="card c3"><h2>Practical Takeaway</h2>
+<p>Knowing this history is essential for Catholic apologetics. The "Crusades were unprovoked Christian aggression" narrative ignores four centuries of Islamic military conquest of Christian lands. The more accurate question is: what took so long?</p>
+</section><section class="card c0"><h2>Open Threads</h2>
+<ul>
+<li>What were the lasting effects of the Crusades on Eastern Christianity (Orthodox churches)?</li>
+<li>How does this history inform current questions about Islam and the West?</li>
+</ul>
+<hr />
+<p><em>Date: 2026-06-25 | Source: Claude.ai — Apple Notes Import</em></p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#monotheism"><span class="k">← Previous</span><span class="t">Monotheism</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#q102"><span class="k">Next →</span><span class="t">Why the Church Fought the Crusades</span></a></nav></div>
+<div class="view" id="v-q102" data-title="Why the Church Fought the Crusades · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Crusades · 2 of 4</span></div>
+<article class="note"><div class="eyebrow">Section 2 · The Crusades</div><h1 class="nt">Q102 - Why did the Church wage the Crusades against Muslims?</h1>
+<section class="card intro"><p><strong>Short answer.</strong> The Crusades were not a war against the Muslim religion as such; they were a defensive response to Turkish aggression. After Muslims conquered Jerusalem in 638, roughly four centuries of uneasy but largely peaceful coexistence followed, with Muslim governors tolerating Christian residents and pilgrims (while taxing them more heavily and denying them political equality). The rise of the Fatimid Muslims and Seljuk Turks in the 11th century brought new persecution of Christians and closed the pilgrim roads. The Turks then expanded westward by force, crushing the Byzantine army at Manzikert in 1071 and setting their sights on Constantinople. The Eastern Emperor Alexius I Comnenus appealed to the West for help; Pope Urban II answered by proclaiming the First Crusade at the Council of Clermont in 1095, hoping also to heal the Great Schism of 1054. The legitimate self-defense of a threatened people is justified in principle, and individual crusaders' crimes do not make the venture itself unjust.</p>
+<p><strong>The longer history.</strong> After Clermont, Blessed Peter the Hermit recruited thousands of untrained peasants for the disastrous "People's Crusade" of 1096, most of whom never reached the Holy Land. Separately, Count Emicho of Leiningen led an army that robbed and murdered Jews along the Rhine to fund the campaign — an atrocity the Church never approved and local bishops tried in vain to stop.</p>
+<p>The official First Crusade succeeded where the People's Crusade failed: the conquered lands were divided into the Kingdom of Jerusalem, the Earldom of Tripoli, the Principality of Antioch, and the Earldom of Edessa, with Godfrey of Bouillon — too humble to call himself king in Christ's city — elected "Advocate of the Holy Sepulcher." The peace briefly enriched Western culture as pilgrims learned mathematics, medicine, and philosophy from Muslim scholars. But the new kingdoms proved hard to govern, and by 1144 the Turks under Zengi recaptured Edessa, prompting Pope Eugene III to call the Second Crusade, preached across Europe by St. Bernard of Clairvaux. St. Bernard also worked, imperfectly, to prevent renewed massacres of Jews, invoking the Psalms on their behalf — but in 1146 a rogue monk named Radulf incited fresh Rhineland attacks before St. Bernard personally intervened to stop them. The Second Crusade itself ended in a strategic blunder: crusader kings attacked Damascus, a former ally, lost it to the enemy, and returned home having gained nothing.</p>
+<p>The Third Crusade followed Saladin's 1187 recapture of Jerusalem. Emperor Frederick Barbarossa drowned en route; Kings Philip II of France and Richard I of England quarreled constantly, and Richard's brutal massacre of 3,000 prisoners at Acre in 1191 stains his record permanently. The Crusade ended with a treaty dividing the coast between the two sides.</p>
+<p>The Fourth Crusade (1201–1204) never even reached the Holy Land: diverted by a Byzantine succession dispute, the crusaders sacked Constantinople itself, deepening the rupture between East and West — a tragedy Pope Innocent III bitterly condemned. The unofficial "Children's Crusade" of 1212 ended in mass death and, for some, enslavement by unscrupulous merchants — again, wholly unintended by the Church. The Fifth through Eighth Crusades all likewise failed to hold Jerusalem, though St. Francis's peaceful 1219 visit to Sultan Malik al-Kamil during the Fifth Crusade led the Muslim rulers to entrust the Holy Land's Christian shrines to Franciscan custody, a role the order still fulfills today. The final Christian stronghold, Acre, fell to the Mamelukes in 1291 — a fall marked by a massacre of 60,000 residents, a century after Richard's own massacre in the same city.</p>
+<p><strong>Evaluating the Crusades.</strong> These points do not excuse every crusader or every atrocity, but they place the venture in context: the Crusades were a defensive response to real Turkish aggression, not an assault on Islam as a religion; most crusaders bore enormous personal cost, dying en route, in battle, or in poverty; more diplomacy might have been tried, though it likely would have failed against the Seljuks specifically; and massacres, while never approved by the Church or most commanders, were common practice in medieval siege warfare on both sides — the Mameluke sultan Baibars's slaughters of Christians were considerably larger and more brutal than anything committed by crusaders, a fact rarely mentioned by critics.</p>
+<p>The <a href="https://www.vatican.va/archive/ccc/index_en.htm">Just War Theory</a> that St. Augustine developed in <em>The City of God</em> and St. Thomas Aquinas refined in the <em>Summa Theologiae</em> offers the proper framework: just cause, legitimate authority, right intention (diplomacy attempted first, reasonable chance of success, proportionate means), and protection of non-combatants once war is underway. See CCC 2263-2265 and 2308-2317.</p>
+<p>Further reading: "<a href="https://crisismagazine.com/opinion/the-real-history-of-the-crusades">The Real History of the Crusades</a>" by Thomas Madden, and <em>Vatican Secret Archives: Unknown Pages of Church History</em> by Grzegorz Górny and Janusz Rosikoń.</p>
+<hr /></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#crusades"><span class="k">← Previous</span><span class="t">Historical Context and Islamic Expansion</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#constantinople"><span class="k">Next →</span><span class="t">Constantinople</span></a></nav></div>
+<div class="view" id="v-constantinople" data-title="Constantinople · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Crusades · 3 of 4</span></div>
+<article class="note"><div class="eyebrow">Section 2 · The Crusades</div><h1 class="nt">Constantinople</h1>
+<section class="card intro"><p><em>"The imperial city on the Bosphorus, refounded by Constantine in 330, and the patriarchal see and conciliar setting that shaped much of the Church's doctrinal and jurisdictional history."</em></p>
+<p>Four ecumenical councils were held there. The first, in 381, completed the Church's trinitarian confession by affirming the divinity of the Holy Spirit against those who denied it, and produced the creed the Church still recites at Mass, properly called the Niceno-Constantinopolitan. The second, in 553, addressed the christological controversies that followed Chalcedon in an attempt to reconcile the non-Chalcedonian churches. The third, in 680-681, condemned monothelitism and defined that Christ possesses two wills, human and divine, corresponding to his two natures — the necessary completion of Chalcedon, since a nature without a will is not a nature. The fourth, in 869-870, is counted ecumenical in the West and dealt with the Photian dispute.</p>
+<p>The see itself was a persistent source of tension. The council of 381 assigned the bishop of Constantinople a place of honor after Rome, on the ground that it was the new imperial capital; Chalcedon's canon 28 pressed the claim further and was not accepted by Rome, which held that Roman primacy rested on Peter and not on imperial status. That disagreement about the basis of primacy runs through everything that follows.</p>
+<p>The mutual excommunications of 1054 between the papal legates and the patriarch are the conventional marker of the East-West schism, though the estrangement was longer and the sack of the city by crusaders in 1204 did far more lasting damage. Constantinople fell to the Ottomans in 1453.</p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#q102"><span class="k">← Previous</span><span class="t">Why the Church Fought the Crusades</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#knights"><span class="k">Next →</span><span class="t">Knights of Saint John</span></a></nav></div>
+<div class="view" id="v-knights" data-title="Knights of Saint John · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Crusades · 4 of 4</span></div>
+<article class="note"><div class="eyebrow">Section 2 · The Crusades</div><h1 class="nt">KnightsOfSaintJohn</h1>
+<section class="card intro"><p><em>"The Knights Hospitaller: a religious order founded to run a hospital for pilgrims in Jerusalem, which became a military order and survives as the Order of Malta."</em></p>
+<p>The origin is medical, not martial. A hospice in Jerusalem cared for sick and destitute pilgrims; after the First Crusade it expanded, and in 1113 the pope recognised it as an independent religious order under vows. Military duties were added within a generation, as the order took on the defence of pilgrim roads, but the care of the sick — the knights called the patients "our lords the sick" — remained its constitutive work and its self-understanding.</p>
+<p>After the loss of the Holy Land the order relocated: Cyprus, then Rhodes from 1310, then Malta from 1530 after Suleiman expelled them. There it withstood the Ottoman siege of 1565, one of the decisive sieges of the century, and operated as a naval power and a hospital state until Napoleon took the island in 1798.</p>
+<p>It survives today as the Sovereign Military Order of Malta, a lay religious order with a peculiar status in international law, running hospitals, clinics and relief operations. Its interest is the combination the modern mind finds hardest to hold together: a body of armed men whose rule bound them primarily to nursing the poor.</p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#constantinople"><span class="k">← Previous</span><span class="t">Constantinople</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#q104"><span class="k">Next →</span><span class="t">Did the Church Persecute Jews?</span></a></nav></div>
+<div class="view" id="v-q104" data-title="Did the Church Persecute Jews? · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Hard Questions · 1 of 2</span></div>
+<article class="note"><div class="eyebrow">Section 3 · The Hard Questions</div><h1 class="nt">Q104 - Why did the Church persecute Jews?</h1>
+<section class="card intro"><p><em>Related: Pius XII and the Holocaust, <a href="#q102">Q102</a> (Crusades-era attacks on Jews), Anti-Catholic Charges</em></p>
+<p>The Church has been wrongly accused of anti-Semitism throughout the centuries. Critics often cite verses such as <a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A24-26">Matthew 27:24-26</a> ("his blood be on us and on our children"), <a href="https://www.biblegateway.com/passage/?search=Matthew+23%3A37">Matthew 23:37</a>, and <a href="https://www.biblegateway.com/passage/?search=John+5%3A16-18">John 5:16-18</a> — but these refer to the specific individuals who opposed Christ at the time, not a general condemnation of the Jewish people, whom the Church has always regarded as the chosen people of the Old Covenant.</p>
+<p>Bad Catholics have, regrettably, persecuted Jews at points in history, though the Church never condoned it. In the disorganized People's Crusade of 1096, untrained crusaders robbed and killed Jews to fund their venture; separately, Count Emicho of Leiningen launched his own attacks along the Rhine that year, killing hundreds in Worms alone despite local bishops sheltering as many Jews as they could. Hungarian Catholic knights eventually stopped the slaughter, and Pope Urban II — who had launched the First Crusade — condemned the attacks. Similar episodes recurred in 1146 (stopped by St. Bernard of Clairvaux), in the 13th century amid political instability, and after the 1347 Black Death, when Jews were falsely blamed for poisoning wells; Pope Clement IV issued a bull denouncing the theory and excommunicating the attackers. In every case, these were crimes committed by individuals against Church teaching, not policy of the Church itself.</p>
+<p>Pope Pius XII, sometimes labeled "Hitler's Pope" in anti-Catholic circles, in fact did the opposite of what the epithet suggests. Contemporary Jewish leaders praised him extensively: Chaim Weizmann, later Israel's first president, wrote in 1943 that "the Holy See is lending its powerful help wherever it can, to mitigate the fate of my persecuted co-religionists." Rabbi Israel Zolli, chief rabbi of Rome, said in 1944 that "the Vatican has always helped the Jews… the Pope and the Vatican were indefatigable in working to save Jews," and converted to Catholicism the following year, taking the baptismal name Eugenio in Pius XII's honor. Moshe Sharett, later Israel's foreign minister and prime minister, thanked Pius XII personally in 1945 "on behalf of the Jewish public for all they had done in various countries to rescue Jews," and Golda Meir called him "a great servant of peace" in 1958. Historian and former Israeli diplomat Pinchas Lapide estimated that Pius XII's interventions saved roughly 860,000 Jewish lives.</p>
+<p>The Vatican maintained official neutrality during World War II, which everyone — including Hitler — understood to favor the Allies unofficially; that neutrality also kept the Nazis from invading or bombing the Vatican, but the Church's later critics twisted it into a charge of collaboration. Rolf Hochhuth's 1963 play <em>The Deputy</em> first popularized the "silent pope" narrative, though qualified historians, prominent Jewish leaders, and the Anti-Defamation League all refuted it; the same slander resurfaced decades later in a wave of books beginning with John Cornwell's 1999 <em>Hitler's Pope</em>. In reality, Pius XII spoke openly against Nazism until Christmas 1942, when he judged that further public statements would provoke worse reprisals — a judgment borne out when Dutch bishops' July 1942 condemnation of Nazi persecution triggered harsh retaliation that claimed victims including Edith Stein and Anne Frank. Pius XII meanwhile sheltered Jews throughout Rome and the Vatican, even converting his own Castel Gandolfo bedroom into a maternity ward for Jewish women and infants.</p>
+<p>St. Augustine wrote in <em>Contra Faustum</em>: "Whoever destroys Jews in this way shall suffer sevenfold vengeance." Vatican II's <em><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html">Nostra Aetate</a></em> taught that "what happened in His passion cannot be charged against all the Jews, without distinction, then alive, nor against the Jews of today… the Church decries hatred, persecutions, displays of anti-Semitism, directed against Jews at any time and by anyone." And the International Theological Commission's <em>Memory and Reconciliation: The Church and the Faults of the Past</em> acknowledges soberly that "the balance of these relations over two thousand years has been quite negative," that Nazi persecution "was not made easier" only by Nazi ideology but also by "anti-Jewish prejudices embedded in some Christian minds and hearts," and calls Christians to an ongoing "act of repentance."</p>
+<p>Further reading: <em>Vatican Secret Archives: Unknown Pages of Church History</em> by Grzegorz Górny and Janusz Rosikoń, and <em>Bearing False Witness: Debunking Centuries of Anti-Catholic History</em> by Rodney Stark.</p>
+<hr /></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#knights"><span class="k">← Previous</span><span class="t">Knights of Saint John</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#q145"><span class="k">Next →</span><span class="t">Just War and Self-Defense</span></a></nav></div>
+<div class="view" id="v-q145" data-title="Just War and Self-Defense · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">The Hard Questions · 2 of 2</span></div>
+<article class="note"><div class="eyebrow">Section 3 · The Hard Questions</div><h1 class="nt">Q145 - Does the Church ever permit war and self-defense? What about &quot;turning the other cheek&quot;? (Matthew 5:39)</h1>
+<section class="card intro"><p>The Church does permit war and self-defense under strict conditions. "Turning the other cheek" (Matthew 5:39, <a href="https://www.biblegateway.com/passage/?search=Matthew+5:38-39">Bible Gateway</a>) addresses personal insult borne with humility, not the abandonment of the innocent to grave harm — Christ himself responded forcefully in driving the money-changers from the Temple (John 2:13-16).</p>
+<p>St. Augustine developed the Just War framework in <em>The City of God</em>, refined by St. Thomas Aquinas in the <em>Summa Theologiae</em>. Its conditions for entering a war justly (<em>ius ad bellum</em>) require: a just cause (defense against a lasting, grave, certain danger); legitimate authority declaring it; right intention, meaning war as a genuine last resort after diplomacy fails, a reasonable chance of success, and proportionate means that do not create evils worse than the danger being addressed. A separate set of conditions (<em>ius in bello</em>) governs the just conduct of a war already underway, chiefly the protection of non-combatants, the wounded, and prisoners.</p>
+<p>The Crusades are a useful test case: they largely satisfied the conditions for entering the conflict justly, but failed conspicuously on conduct within it, with documented massacres of non-combatants on both sides — atrocities the Church never condoned even when individual crusaders committed them. See the <a href="https://www.vatican.va/archive/ccc/index_en.htm">Catechism, paragraphs 2263-2265 and 2308-2317</a> for the full statement of these principles.</p>
+<hr /></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#q104"><span class="k">← Previous</span><span class="t">Did the Church Persecute Jews?</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#aquinas"><span class="k">Next →</span><span class="t">Aquinas on Muhammad</span></a></nav></div>
+<div class="view" id="v-aquinas" data-title="Aquinas on Muhammad · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Catholic Responses · 1 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 4 · Catholic Responses</div><h1 class="nt">Aquinas on Muhammad — The Argument from Signs (SCG I.6)</h1>
+<section class="card c0"><h2>The Text</h2>
+<blockquote>
+<p>"On the other hand those who introduced the errors of the sects proceeded in contrary fashion, as instanced by Mohammed, who enticed peoples with the promise of carnal pleasures, to the desire of which the concupiscence of the flesh instigates. He also delivered commandments in keeping with his promises, by giving the reins to carnal pleasure, wherein it is easy for carnal men to obey: and the lessons of truth which he inculcated were only such as can be easily known to any man of average wisdom by his natural powers: yea rather the truths which he taught were mingled by him with many fables and most false doctrines. Nor did he add any signs of supernatural agency, which alone are a fitting witness to divine inspiration, since a visible work that can be from God alone, proves the teacher of truth to be invisibly inspired: but he asserted that he was sent in the power of arms, a sign that is not lacking even to robbers and tyrants. Again, those who believed in him from the outset were not wise men practised in things divine and human, but beastlike men who dwelt in the wilds, utterly ignorant of all divine teaching; and it was by a multitude of such men and the force of arms that he compelled others to submit to his law. Lastly, no divine oracles of prophets in a previous age bore witness to him; rather did he corrupt almost all the teaching of the Old and New Testaments by a narrative replete with fables, as one may see by a perusal of his law. Hence by a cunning device, he did not commit the reading of the Old and New Testament Books to his followers, lest he should thereby be convicted of falsehood. Thus it is evident that those who believe his words believe foolishly."</p>
+</blockquote></section><section class="card c1"><h2>Where This Sits in the Summa Contra Gentiles</h2>
+<p>Chapter 6 of Book I carries the title <em>That to give assent to the truths of faith is not foolishness though they are above reason.</em> The paragraph on Muhammad is its second half, and it only makes sense read against the first. Aquinas has just argued that Christianity's claims, though they exceed reason, are credible because God confirmed them with works only God can do: healings, the raising of the dead, and above all the greatest miracle of all, the conversion of the world. Multitudes, the learned as well as the simple, embraced a faith that teaches things beyond understanding, restrains the pleasures of the flesh, and asks contempt for worldly goods, and they did so under persecution, with no promise of earthly reward. And all of this was foretold by the prophets centuries before.</p>
+<p>The Muhammad paragraph is built as a point-by-point inversion of that case. Where the Gospel promised spiritual goods, Aquinas sees a promise of carnal ones; where the Gospel's commands are hard, these are easy; where Christian teaching exceeds reason, this stays within what any sensible person already knows, mixed with fables; where Christ gave miracles, here the sign offered is military success; where the Church won the wise and the simple by persuasion under the sword of persecution, here the sword is on the other side; where Christ fulfilled prophecy, no prophet foretold this. The conclusion mirrors the chapter title: believing the Gospel is not foolish, but believing a revelation that lacks every one of these credentials is.</p>
+<p>🕯 <strong>Reflect:</strong> My faith rests on witnesses who gained nothing on earth and lost everything for it. Do I let that weigh on me when my own faith feels costly?</p></section><section class="card c2"><h2>The Durable Core — The Argument from Signs</h2>
+<p>Strip away the medieval polemic and a principle remains that the Church teaches as her own. ✅ Vatican I, <em>Dei Filius</em> ch. 3 (1870), teaches that God willed to join external proofs of his revelation to the interior help of the Holy Spirit, above all miracles and prophecies, which show forth God's omnipotence and infinite knowledge and are most certain signs of revelation suited to the understanding of all. CCC 156 restates it: the miracles of Christ and the saints, prophecies, the Church's growth and holiness, and her fruitfulness and stability are motives of credibility, showing that assent to faith is not a blind impulse of the mind.</p>
+<p>This is Aquinas's real point. A claim to speak for God needs credentials that only God can supply. Success, power, and the ability to compel are not such credentials, because tyrants have them too. The argument is aimed at the founder's warrant, not at the sincerity or worth of any Muslim who prays.</p>
+<p>The same test cuts in both directions. If force is no sign of God, then every Christian attempt to spread the faith by coercion was equally without warrant. 🟢 <em>Dignitatis Humanae</em> §10 (1965) teaches that the act of faith is by its very nature free and that no one may be forced to embrace the faith against his will. Benedict XVI made the same argument at Regensburg (12 September 2006): because God acts with <em>logos</em>, with reason, spreading faith through violence is contrary to God's nature. He framed this through a quotation from the Byzantine emperor Manuel II and afterward made clear the quoted words were not his own judgment on Islam.</p>
+<p>🕯 <strong>Reflect:</strong> Where do I try to win arguments about faith by pressure, volume, or cleverness, rather than by the witness of a changed life?</p></section><section class="card c3"><h2>Key Corrections</h2>
+<ul>
+<li><strong>This is not the Church's magisterial judgment on Islam.</strong> Aquinas is a Doctor of the Church, but SCG I.6 is theological argument, not a magisterial act. The Magisterium's own statement is <em>Nostra Aetate</em> §3 (1965): the Church regards Muslims with esteem; they adore the one God, living and subsistent, merciful and almighty, Creator of heaven and earth; they revere Jesus as a prophet, honor Mary, and await the day of judgment; the Council urges that past quarrels be set aside and mutual understanding be sought. CCC 841 adds that Muslims, professing the faith of Abraham, adore with us the one merciful God. Anyone teaching from Aquinas's paragraph must hold both texts together.</li>
+<li><strong>Aquinas's picture of Islam was limited.</strong> 🟡 He worked from secondhand Latin sources shaped by centuries of conflict. Some of his points have real textual grounding (the Qur'an's sensual depictions of paradise, the early military spread of Islam, the absence of claimed miracles in the Qur'an's own account of Muhammad). Others are polemical compression: "giving the reins to carnal pleasure" does not describe a religion of daily prayer, the Ramadan fast, and the prohibition of wine. "Beastlike men" is the language of medieval disputation and should never be repeated as a description of any people.</li>
+<li><strong>"He did not commit the reading of the Old and New Testament to his followers."</strong> This touches a live question. Islam holds that earlier scriptures were corrupted (<em>tahrif</em>), which in practice sets the Qur'an above the Bible as its judge. The apologetic point is fair; the claim of a deliberate "cunning device" is Aquinas's inference, not something he could demonstrate.</li>
+<li><strong>Do not use the argument as a club.</strong> Aquinas himself notes in SCG I.2 that Muslims do not accept the authority of Scripture, so with them one must argue from natural reason, which is why the whole Summa Contra Gentiles leans on philosophy. The method is respect for the listener's reason, not contempt.</li>
+</ul>
+<p>🕯 <strong>Reflect:</strong> Can I hold the truth of Aquinas's argument and the charity of <em>Nostra Aetate</em> at once, without letting either one cancel the other?</p></section><section class="card c0"><h2>Quick Reference</h2>
+<h3>Signs</h3>
+<ul>
+<li><strong>Claim:</strong> A prophet's authority is shown by success, power, and the spread of his movement.</li>
+<li><strong>Response:</strong> Only works God alone can do witness to divine inspiration; force is a sign "not lacking even to robbers and tyrants." ✅ Dei Filius ch. 3; CCC 156</li>
+</ul>
+<h3>Content of the message</h3>
+<ul>
+<li><strong>Claim:</strong> A true revelation will be easy to accept.</li>
+<li><strong>Response:</strong> The Gospel spread though it taught things above reason and demanded self-denial; ease of acceptance is no mark of God. 🟢 SCG I.6</li>
+</ul>
+<h3>Prior prophecy</h3>
+<ul>
+<li><strong>Claim:</strong> Muhammad is the prophet foretold in earlier scripture.</li>
+<li><strong>Response:</strong> No prophet of Israel bore witness to him, and his teaching contradicts the Scriptures it claims to complete. 🟢 SCG I.6</li>
+</ul>
+<h3>Force and faith</h3>
+<ul>
+<li><strong>Claim:</strong> Aquinas's argument justifies Christian triumphalism.</li>
+<li><strong>Response:</strong> The same test condemns every coerced conversion; faith must be free. ✅ Dignitatis Humanae §10</li>
+</ul>
+<h3>Attitude to Muslims</h3>
+<ul>
+<li><strong>Claim:</strong> Aquinas's polemic licenses contempt for Muslims.</li>
+<li><strong>Response:</strong> The Church regards Muslims with esteem as worshippers of the one God. ✅ Nostra Aetate §3; CCC 841</li>
+</ul></section><section class="card c1"><h2>Read the Sources</h2>
+<ul>
+<li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html">Nostra Aetate — vatican.va</a></li>
+<li><a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html">Dignitatis Humanae — vatican.va</a></li>
+<li><a href="https://www.vatican.va/content/benedict-xvi/en/speeches/2006/september/documents/hf_ben-xvi_spe_20060912_university-regensburg.html">Benedict XVI, Regensburg Address, 12 September 2006 — vatican.va</a></li>
+</ul>
+<hr />
+<hr />
+<p><em>Date: 2026-09-22 | Source: Aquinas, Summa Contra Gentiles I.2, I.6 (trans. English Dominican Fathers, 1924); Vatican I, Dei Filius ch. 3 (1870); CCC 156, 841; Vatican II, Nostra Aetate §3, Dignitatis Humanae §10 (1965); Benedict XVI, Regensburg Address (12 Sept 2006)</em></p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#q145"><span class="k">← Previous</span><span class="t">Just War and Self-Defense</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#nostra"><span class="k">Next →</span><span class="t">Nostra Aetate</span></a></nav></div>
+<div class="view" id="v-nostra" data-title="Nostra Aetate · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Catholic Responses · 2 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 4 · Catholic Responses</div><h1 class="nt">NostraAetate</h1>
+<section class="card intro"><p><em>"Vatican II's Declaration on the Relation of the Church to Non-Christian Religions, promulgated by Paul VI on 28 October 1965."</em></p>
+<p>The shortest document of the Council, it begins from the unity of the human race, which has one origin and one final end in God. It teaches that the Church "rejects nothing that is true and holy" in other religions, which "often reflect a ray of that Truth which enlightens all men," while she remains bound to proclaim Christ, "the way, the truth and the life" (n. 2).</p>
+<p>Its sections treat Hinduism and Buddhism (n. 2); Muslims, whom the Church regards with esteem as worshippers of the one God (n. 3); the Jewish people, rejecting the charge that Jews then or now bear collective guilt for Christ's death and deploring antisemitism (n. 4); and universal brotherhood, condemning discrimination on grounds of race, color, condition of life or religion (n. 5).</p>
+<p>External: <a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html">Nostra Aetate — full text (vatican.va)</a></p></section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#aquinas"><span class="k">← Previous</span><span class="t">Aquinas on Muhammad</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><a class="next" href="#hirsi"><span class="k">Next →</span><span class="t">Ayaan Hirsi Ali: From Submission to Surrender</span></a></nav></div>
+<div class="view" id="v-hirsi" data-title="Ayaan Hirsi Ali: From Submission to Surrender · Christianity and Islam" hidden>
+<div class="crumbs"><a href="#home">↑ Christianity and Islam</a><span class="sep">/</span><span class="here">Catholic Responses · 3 of 3</span></div>
+<article class="note"><div class="eyebrow">Section 4 · Catholic Responses</div><h1 class="nt">Ayaan Hirsi Ali — From Submission to Surrender</h1>
+<section class="card c0"><h2>Who She Is</h2>
+<p>Ayaan Hirsi Ali was born in Mogadishu, Somalia in 1969 into a clan-based Muslim family. She escaped a forced marriage at 22 by fleeing to the Netherlands, became a Dutch politician and public intellectual, co-produced the film <em>Submission</em> with director Theo van Gogh (who was subsequently murdered by an Islamist in 2004), lived under continuous death threats, declared herself an atheist activist, and in 2023 announced her conversion to Christianity.</p>
+<p>This is not a story of soft cultural drift. It is a story of someone who arrived at Christianity through rational inquiry and personal crisis — having fought against religion publicly for two decades.</p></section><section class="card c1"><h2>The Formation: What Islam Taught Her</h2>
+<p>Her religious education began in Kenya under a teacher who introduced a fundamentalist conception of Islam. The core teaching:</p>
+<ul>
+<li>Every part of a woman's body is a source of <em>arousal and mischief</em> for men and must be covered</li>
+<li>Even a woman's voice — singing, laughing, speaking loudly — was considered dangerous</li>
+<li>To be a <em>true</em> Muslim meant total submission to these constraints, not just nominal belief</li>
+</ul>
+<p>Her father's arrangement of her marriage to a stranger she had never met was framed as <em>God's will</em>. When she objected: <em>You cannot argue with God. You submit and you obey.</em></p></section><section class="card c2"><h2>The Escape: Choosing Freedom Over Clan</h2>
+<p>At 22, facing a forced marriage, she fled to Holland and applied for asylum. Her father's response when she wrote to explain: he turned her letter on its side, wrote on it in red pen, cursed her, disowned her, called her ugly names.</p>
+<p>The clan logic was clear: <strong>apostasy from the tribe is the worst offense.</strong> Even murder is more forgivable than leaving.</p>
+<p>Within four weeks the Dutch government granted her permanent refugee status.</p></section><section class="card c3"><h2>The Crisis: Atheism Was Not Enough</h2>
+<p>After publicly leaving Islam in 2002, Hirsi Ali became one of the world's most prominent atheist critics of religion. But underneath:</p>
+<ul>
+<li>Death threats from Islamists began in 2001</li>
+<li>The FBI regularly informed her of active plots against her life</li>
+<li>Theo van Gogh was murdered in 2004 — with a fatwa note addressed to her pinned to his body with a knife</li>
+<li>She was medicating escalating fear and trauma through alcohol</li>
+</ul>
+<p>Her therapist's diagnosis at rehab:<br />
+<strong>"What you are going through is spiritual emptiness. Spiritual bankruptcy. Sooner or later you are going to have to figure out what to do about it."</strong></p>
+<p>The therapist's suggestion: just do one exercise. Write down the qualities God would have, if God existed.</p></section><section class="card c0"><h2>The Conversion: The Figure She Was Already Describing</h2>
+<p>In the process of writing down the qualities of God — as a purely intellectual exercise — she realized:</p>
+<p><strong>The figure I am describing is Jesus Christ.</strong></p>
+<p>She decided to pray to Christ. Something shifted.</p>
+<blockquote>
+<p><em>"Something clicked and I felt connected and I felt as if someone was listening to my prayers. I cannot explain it but I have never been more sure about something in my life than this moment."</em></p>
+</blockquote>
+<p>The immediate results she reports:</p>
+<ul>
+<li>Has not touched alcohol since</li>
+<li>The intrusive fearful thoughts stopped</li>
+<li>Reconnected with her husband, children, and friends</li>
+<li>More productive than ever</li>
+<li><em>"Life is so good. And it's a miracle."</em></li>
+</ul></section><section class="card c1"><h2>The Theological Contrast: Submission vs. Surrender</h2>
+<h3>Islam — Submission to Power</h3>
+<p><em>Islam</em> literally means submission. The submission she experienced was:<br />
+- A relationship based on unchecked, absolute power<br />
+- Obedience driven by fear of punishment<br />
+- No love in the equation — only command and compliance<br />
+- The closer you study Muhammad, she argues, the more morally repugnant the figure becomes</p>
+<h3>Christianity — Surrender to Love</h3>
+<p>In contrast, the Christian relationship with God is:</p>
+<ul>
+<li>Surrender to God's <em>commands</em> AND God's <em>love</em> simultaneously</li>
+<li>Freedom from the impulses and urges that enslave you</li>
+<li>The closer you study Jesus, the <em>more attractive</em> the figure becomes</li>
+</ul>
+<blockquote>
+<p><em>"All my life I craved freedom and I craved love. In Jesus Christ I have found both."</em></p>
+</blockquote>
+<p><strong>Submission to power produces fear. Surrender to love produces freedom.</strong> The external behavior may look similar — both involve obedience — but the interior reality is opposite.</p></section><section class="card c2"><h2>The Warning: The False Romance of the Tribe</h2>
+<p>She identifies her calling as warning the West about <strong>tribal thinking</strong> — broadly defined:</p>
+<ul>
+<li>Bloodline and clan (her own origin)</li>
+<li>Political faction</li>
+<li>Communism / Islamism</li>
+<li>Any collective utopian story</li>
+</ul>
+<p><strong>All collective utopian stories have a way of ending in tyranny, anarchy, and bloodshed.</strong></p>
+<p>And the civilizational observation: <strong>When Western civilization turns her back on her biblical foundations, she declines.</strong></p>
+<p>This is not a religious platitude from someone raised Christian. This is a conclusion reached by a Somali-born Muslim woman who escaped a theocracy, lived as an atheist intellectual, survived assassination attempts, and arrived at Christianity through rational inquiry and personal crisis.</p></section><section class="card c3"><h2>Key Correction</h2>
+<p>The common assumption is that religious conversion to Christianity is an emotional retreat from reason. Hirsi Ali's conversion followed the opposite path: she began by trying to <em>intellectually define the qualities of God</em> and discovered that the figure she was constructing from first principles was Jesus Christ. Reason led her there. Experience confirmed it.</p>
+</section><section class="card c0"><h2>Practical Takeaway</h2>
+<p>The question she forces is not <em>which religion is true</em> but <em>what kind of relationship with God are you actually in?</em> One based on fear of punishment, or one based on love that produces freedom? The answer changes everything downstream.</p>
+</section></article>
+<nav class="pager" aria-label="Navigation"><a class="" href="#nostra"><span class="k">← Previous</span><span class="t">Nostra Aetate</span></a><a class="idx" href="#home"><span class="k">↑ Index</span><span class="t">Contents</span></a><span class=empty></span></nav></div>
+<footer class="site">Catholic study notes. Sources are cited in each note.</footer>
+</div>
+<script>(function(){function show(){var h=(location.hash||"#home").slice(1);var v=document.getElementById("v-"+h);if(!v){h="home";v=document.getElementById("v-home")}document.querySelectorAll(".view").forEach(function(x){x.hidden=(x!==v)});document.title=v.getAttribute("data-title");window.scrollTo(0,0)}window.addEventListener("hashchange",show);show()})();</script>
+<!--reader--><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<style>:root{--body:"Atkinson Hyperlegible",-apple-system,"Segoe UI",system-ui,sans-serif}body{font-family:var(--body);font-size:19px;line-height:1.6}article.note{font-size:19px}article.note li{margin:6px 0}.site .s,.course .s,.chcard .s,.seccard p{font-size:17px}</style>
+<div class="fsctl" role="group" aria-label="Reading tools"><button type="button" class="tts" aria-label="Read this page aloud">▶ Listen</button><button type="button" class="scr" aria-label="Auto-scroll: off">⇣ Scroll</button><select class="vsel" aria-label="Voice"><option value="">Voice</option></select><button type="button" data-d="-1" aria-label="Smaller text">A−</button><button type="button" data-d="1" aria-label="Larger text">A+</button></div>
+<style>.fsctl{touch-action:manipulation;-webkit-user-select:none;user-select:none;position:fixed;right:max(12px,env(safe-area-inset-right,0px));bottom:max(12px,env(safe-area-inset-bottom,0px));display:flex;gap:2px;background:var(--surface);border:1px solid var(--rule);border-radius:999px;padding:4px;box-shadow:0 2px 8px rgba(0,0,0,.12);z-index:50}
+.fsctl button{font:700 15px/1 var(--display);color:var(--ink);background:transparent;border:0;border-radius:999px;padding:9px 12px;cursor:pointer;min-width:44px;min-height:40px;white-space:nowrap}
+.fsctl button:hover,.fsctl button:focus-visible{background:var(--accent-soft,rgba(0,0,0,.06));outline:none}
+.fsctl .vsel{font:600 14px/1 var(--display);color:var(--ink);background:transparent;border:0;border-radius:999px;padding:0 6px;max-width:110px;min-height:40px;cursor:pointer}.fsctl .vsel:focus-visible{outline:2px solid var(--accent)}
+.reading{background:var(--accent-soft,rgba(255,200,0,.18));box-shadow:0 0 0 6px var(--accent-soft,rgba(255,200,0,.18));border-radius:4px;transition:background .2s}
+.fsctl .scr.on{background:var(--accent);color:var(--surface)}
+@media (max-width:400px){.fsctl button{padding:9px 8px;min-width:38px}.fsctl .vsel{max-width:84px}}
+.fsctl .tts.on{background:var(--accent);color:var(--surface)}</style>
+<script>(function(){var s=[.85,1,1.15,1.3,1.5,1.75],i=1;try{var v=parseFloat(localStorage.getItem("fs"));if(s.indexOf(v)>-1)i=s.indexOf(v)}catch(e){}function a(){var w=document.querySelector(".wrap");if(w)w.style.zoom=s[i];document.documentElement.style.setProperty("--fs",s[i]);try{localStorage.setItem("fs",s[i])}catch(e){}}a();document.querySelectorAll(".fsctl button[data-d]").forEach(function(b){b.addEventListener("click",function(){i=Math.max(0,Math.min(s.length-1,i+(+b.dataset.d)));a()})});
+(function(){var b=document.querySelector(".fsctl .scr");if(!b)return;var sp=[0,22,40,65],lab=["⇣ Scroll","⇣ Slow","⇣ Med","⇣ Fast"],k=0,last=0,acc=0,raf=0;
+function step(ts){if(!k){raf=0;return}if(last){acc+=sp[k]*(ts-last)/1000;var d=Math.floor(acc);if(d>=1){var se=document.scrollingElement||document.documentElement;se.style.scrollBehavior="auto";var y0=window.pageYOffset;window.scrollTo(0,y0+d);if(window.pageYOffset===y0)se.scrollTop=y0+d;acc-=d}}last=ts;if(window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-2){set(0);return}raf=requestAnimationFrame(step)}
+function set(x){if(!x){var se=document.scrollingElement||document.documentElement;se.style.scrollBehavior=""}k=x;b.textContent=lab[k];b.classList.toggle("on",k>0);b.setAttribute("aria-label","Auto-scroll: "+(k?lab[k].slice(2):"off"));last=0;acc=0;if(k&&!raf)raf=requestAnimationFrame(step)}
+b.addEventListener("click",function(){set((k+1)%sp.length)});window.addEventListener("hashchange",function(){set(0)});window.__scrStop=function(){set(0)}})();
+var t=document.querySelector(".fsctl .tts"),ss=window.speechSynthesis;if(!ss||!window.SpeechSynthesisUtterance){t.hidden=true;return}
+var playing=false,q=[],n=0,cur=null;function mark(el){if(cur)cur.classList.remove("reading");cur=el;if(el){el.classList.add("reading");try{el.scrollIntoView({block:"center",behavior:"smooth"})}catch(e){el.scrollIntoView()}}}
+var JUNK=/Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Wobble|Zarvox|Junior|Ralph|Fred|Kathy|Grandma|Grandpa|Eddy|Flo|Reed|Rocko|Sandy|Shelley/i,sel=document.querySelector(".fsctl .vsel");
+function list(){return ss.getVoices().slice()}
+function rank(v){return /Premium/i.test(v.name)?0:/Enhanced|Natural|Online/i.test(v.name)?1:/Google/i.test(v.name)?2:3}
+function fill(){if(!sel)return;var vs=list().sort(function(a,b){return (/^en/i.test(b.lang)-/^en/i.test(a.lang))||rank(a)-rank(b)||a.name.localeCompare(b.name)});var cur="";try{cur=localStorage.getItem("voice")||""}catch(e){}sel.innerHTML='<option value="">Voice</option>'+vs.map(function(v){return '<option value="'+v.voiceURI.replace(/"/g,"&quot;")+'"'+(v.voiceURI===cur?" selected":"")+'>'+v.name.replace(/</g,"")+(rank(v)<2?" ★":"")+' ('+v.lang+')</option>'}).join("")}
+fill();if(ss.addEventListener)ss.addEventListener("voiceschanged",fill);else ss.onvoiceschanged=fill;
+if(sel)sel.addEventListener("change",function(){try{localStorage.setItem("voice",sel.value)}catch(e){}stop();var v=voice();if(v){var u=new SpeechSynthesisUtterance("This is the "+v.name.split(" (")[0]+" voice.");u.voice=v;u.lang=v.lang;ss.speak(u)}});
+function voice(){var c="";try{c=localStorage.getItem("voice")||""}catch(e){}if(c){var f=list().filter(function(v){return v.voiceURI===c})[0];if(f)return f}var vs=ss.getVoices().filter(function(v){return /^en/i.test(v.lang)&&!/Siri/i.test(v.name)});var pr=[/Natural/i,/Online/i,/Premium/i,/Enhanced/i,/Google US English/i,/Ava|Zoe|Evan|Nathan|Samantha/i];for(var k=0;k<pr.length;k++){var m=vs.filter(function(v){return pr[k].test(v.name)})[0];if(m)return m}return null}
+function stop(){playing=false;q=[];mark(null);if(ss.speaking||ss.pending)ss.cancel();t.classList.remove("on");t.textContent="▶ Listen"}
+function next(){if(!playing)return;if(n>=q.length){stop();return}var it=q[n++];var u=new SpeechSynthesisUtterance(it.x);mark(it.el);var vb=voice();u.lang=vb?vb.lang:"en-US";u.rate=1;if(vb)u.voice=vb;u.onend=next;u.onerror=function(e){if(e.error==="interrupted"||e.error==="canceled")return;next()};ss.speak(u)}
+function root(){var v=[].filter.call(document.querySelectorAll(".view"),function(x){return !x.hidden})[0]||document.querySelector(".wrap")||document.body;return v.querySelector("article")||v}
+t.addEventListener("click",function(){if(playing){stop();return}
+q=[].map.call(root().querySelectorAll("h1,h2,h3,h4,p,li,td,blockquote,.t,.s"),function(e){return {el:e,x:e.innerText.replace(/[✅🟢🟡🔴🕯]/g,"").trim()}}).filter(function(o){return o.x});
+if(!q.length)return;if(ss.paused)ss.resume();if(ss.speaking||ss.pending)ss.cancel();playing=true;n=0;if(window.__scrStop)window.__scrStop();t.classList.add("on");t.textContent="■ Stop";next()});
+window.addEventListener("hashchange",stop);window.addEventListener("pagehide",stop)})();</script>
+<!--/reader--><script>(function(){var M={"parchment": "light", "linen": "light", "sage": "light", "things": "light", "thingsdark": "dark"},r=document.documentElement;function set(k){r.setAttribute("data-skin",k);r.setAttribute("data-theme",M[k]);document.querySelectorAll("#skinbar button").forEach(function(b){b.setAttribute("aria-pressed",b.dataset.k===k)});try{localStorage.setItem("skin",k)}catch(e){}}var k="parchment";try{k=localStorage.getItem("skin")||k}catch(e){}if(!M[k])k="parchment";set(k);document.querySelectorAll("#skinbar button").forEach(function(b){b.addEventListener("click",function(){set(b.dataset.k)})})})();</script>
+</body></html>
+<script async src="/.netlify/scripts/hud?variant=public" data-nf-variant="public" data-netlify-site-id="09cdde28-80b2-46b4-9b95-fbb497821817" data-app-host="app.netlify.com" data-account-tier="free"></script>
