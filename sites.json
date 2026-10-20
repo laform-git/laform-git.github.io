@@ -1,7 +1,7 @@
 [
  {"name": "Christianity and Islam", "section": "Faith", "path": "christianity-and-islam/", "blurb": "What Muslims believe, the Crusades, the hard questions, and the Catholic response.", "status": "Live"},
  {"name": "Bikman Study Hub", "section": "Health", "path": "bikman/", "blurb": "Dr. Benjamin Bikman's four Peterson Academy courses: biology, physiology, endocrinology, Why We Get Sick.", "status": "Live"},
- {"name": "Insulin Resistance", "section": "Health", "path": "insulin-resistance/", "blurb": "What it is, why cells stop listening to insulin, how to measure it, and its reach across the body.", "langs": "English · Español", "status": "Live"},
+ {"name": "Insulin & Glucose", "section": "Health", "path": "insulin-resistance/", "blurb": "What insulin resistance is, how it develops in the cell, where it travels in the body, and how to reverse it. 5 notes.", "langs": "English · Español", "status": "Live"},
  {"name": "Perfect Sleep", "section": "Health", "path": "perfect-sleep/", "blurb": "What sleep is made of, why it breaks at night, and every factor that acts on it. 21 notes.", "langs": "English · Español", "status": "Live"},
  {"name": "Claude Tips", "section": "Tech", "path": "claude-tips/", "blurb": "Simple guides for getting started with Claude.", "langs": "English · Español", "status": "Live"}
 ]
