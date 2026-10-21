@@ -83,5 +83,14 @@
     "blurb": "Simple guides for getting started with Claude.",
     "langs": "English · Español",
     "status": "Live"
+  },
+  {
+    "name": "Architects of the Culture of Death",
+    "section": "Mindforge",
+    "path": "architects/",
+    "label": "DeMarco & Wiker",
+    "blurb": "Twenty-three thinkers in seven categories behind the culture of death.",
+    "langs": "English · Español",
+    "status": "Live"
   }
 ]

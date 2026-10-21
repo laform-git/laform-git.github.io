@@ -1,0 +1,438 @@
+{
+ "title": {
+  "en": "Architects of the Culture of Death",
+  "es": "Arquitectos de la Cultura de la Muerte"
+ },
+ "titleHtml": {
+  "en": "Architects of the <span>Culture of Death</span>",
+  "es": "Arquitectos de la <span>Cultura de la Muerte</span>"
+ },
+ "eyebrow": {
+  "en": "DeMarco & Wiker · Ignatius Press, 2004 · 13 notes",
+  "es": "DeMarco y Wiker · Ignatius Press, 2004 · 13 notas"
+ },
+ "lede": {
+  "en": "Twenty-three thinkers, seven categories: how ideas about will, evolution, utopia, pleasure, sex and death laid the groundwork for what John Paul II called the culture of death, with outcomes, a Latin America case study, counterarguments and open threads.",
+  "es": "Veintitrés pensadores, siete categorías: cómo las ideas sobre la voluntad, la evolución, la utopía, el placer, el sexo y la muerte sentaron las bases de lo que Juan Pablo II llamó la cultura de la muerte, con resultados, un estudio de caso de América Latina, contraargumentos y cuestiones abiertas."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Overview",
+    "es": "Visión general"
+   },
+   "notes": [
+    {
+     "id": "n01",
+     "en": {
+      "title": "Overview",
+      "h1": "Architects of the Culture of Death",
+      "file": "en/n01.md",
+      "aka": [
+       "Architects 01 Overview",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death",
+       "Architects of the Culture of Death"
+      ]
+     },
+     "es": {
+      "title": "Visión general",
+      "h1": "Arquitectos de la Cultura de la Muerte",
+      "file": "es/n01.md",
+      "aka": [
+       "Arquitectos 01 Vision General",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte",
+       "Arquitectos de la Cultura de la Muerte"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "The Seven Categories",
+    "es": "Las siete categorías"
+   },
+   "notes": [
+    {
+     "id": "n02",
+     "en": {
+      "title": "The Will Worshippers",
+      "h1": "Architects of the Culture of Death — Note 2: The Will Worshippers",
+      "file": "en/n02.md",
+      "aka": [
+       "Architects 02 Will Worshippers",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 2: The Will Worshippers",
+       "Architects of the Culture of Death — Note 2: The Will Worshippers"
+      ]
+     },
+     "es": {
+      "title": "Los adoradores de la voluntad",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 2: Los adoradores de la voluntad",
+      "file": "es/n02.md",
+      "aka": [
+       "Arquitectos 02 Adoradores de la Voluntad",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 2: Los adoradores de la voluntad",
+       "Arquitectos de la Cultura de la Muerte — Nota 2: Los adoradores de la voluntad"
+      ]
+     }
+    },
+    {
+     "id": "n03",
+     "en": {
+      "title": "The Eugenic Evolutionists",
+      "h1": "Architects of the Culture of Death — Note 3: The Eugenic Evolutionists",
+      "file": "en/n03.md",
+      "aka": [
+       "Architects 03 Eugenic Evolutionists",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 3: The Eugenic Evolutionists",
+       "Architects of the Culture of Death — Note 3: The Eugenic Evolutionists"
+      ]
+     },
+     "es": {
+      "title": "Los evolucionistas eugenésicos",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 3: Los evolucionistas eugenésicos",
+      "file": "es/n03.md",
+      "aka": [
+       "Arquitectos 03 Evolucionistas Eugenesicos",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 3: Los evolucionistas eugenésicos",
+       "Arquitectos de la Cultura de la Muerte — Nota 3: Los evolucionistas eugenésicos"
+      ]
+     }
+    },
+    {
+     "id": "n04",
+     "en": {
+      "title": "The Secular Utopianists",
+      "h1": "Architects of the Culture of Death — Note 4: The Secular Utopianists",
+      "file": "en/n04.md",
+      "aka": [
+       "Architects 04 Secular Utopianists",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 4: The Secular Utopianists",
+       "Architects of the Culture of Death — Note 4: The Secular Utopianists"
+      ]
+     },
+     "es": {
+      "title": "Los utopistas seculares",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 4: Los utopistas seculares",
+      "file": "es/n04.md",
+      "aka": [
+       "Arquitectos 04 Utopistas Seculares",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 4: Los utopistas seculares",
+       "Arquitectos de la Cultura de la Muerte — Nota 4: Los utopistas seculares"
+      ]
+     }
+    },
+    {
+     "id": "n05",
+     "en": {
+      "title": "The Atheistic Existentialists",
+      "h1": "Architects of the Culture of Death — Note 5: The Atheistic Existentialists",
+      "file": "en/n05.md",
+      "aka": [
+       "Architects 05 Atheistic Existentialists",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 5: The Atheistic Existentialists",
+       "Architects of the Culture of Death — Note 5: The Atheistic Existentialists"
+      ]
+     },
+     "es": {
+      "title": "Los existencialistas ateos",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 5: Los existencialistas ateos",
+      "file": "es/n05.md",
+      "aka": [
+       "Arquitectos 05 Existencialistas Ateos",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 5: Los existencialistas ateos",
+       "Arquitectos de la Cultura de la Muerte — Nota 5: Los existencialistas ateos"
+      ]
+     }
+    },
+    {
+     "id": "n06",
+     "en": {
+      "title": "The Pleasure Seekers",
+      "h1": "Architects of the Culture of Death — Note 6: The Pleasure Seekers",
+      "file": "en/n06.md",
+      "aka": [
+       "Architects 06 Pleasure Seekers",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 6: The Pleasure Seekers",
+       "Architects of the Culture of Death — Note 6: The Pleasure Seekers"
+      ]
+     },
+     "es": {
+      "title": "Los buscadores del placer",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 6: Los buscadores del placer",
+      "file": "es/n06.md",
+      "aka": [
+       "Arquitectos 06 Buscadores del Placer",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 6: Los buscadores del placer",
+       "Arquitectos de la Cultura de la Muerte — Nota 6: Los buscadores del placer"
+      ]
+     }
+    },
+    {
+     "id": "n07",
+     "en": {
+      "title": "The Sex Planners",
+      "h1": "Architects of the Culture of Death — Note 7: The Sex Planners",
+      "file": "en/n07.md",
+      "aka": [
+       "Architects 07 Sex Planners",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 7: The Sex Planners",
+       "Architects of the Culture of Death — Note 7: The Sex Planners"
+      ]
+     },
+     "es": {
+      "title": "Los planificadores del sexo",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 7: Los planificadores del sexo",
+      "file": "es/n07.md",
+      "aka": [
+       "Arquitectos 07 Planificadores del Sexo",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 7: Los planificadores del sexo",
+       "Arquitectos de la Cultura de la Muerte — Nota 7: Los planificadores del sexo"
+      ]
+     }
+    },
+    {
+     "id": "n08",
+     "en": {
+      "title": "The Death Peddlers",
+      "h1": "Architects of the Culture of Death — Note 8: The Death Peddlers",
+      "file": "en/n08.md",
+      "aka": [
+       "Architects 08 Death Peddlers",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 8: The Death Peddlers",
+       "Architects of the Culture of Death — Note 8: The Death Peddlers"
+      ]
+     },
+     "es": {
+      "title": "Los mercaderes de la muerte",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 8: Los mercaderes de la muerte",
+      "file": "es/n08.md",
+      "aka": [
+       "Arquitectos 08 Mercaderes de la Muerte",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 8: Los mercaderes de la muerte",
+       "Arquitectos de la Cultura de la Muerte — Nota 8: Los mercaderes de la muerte"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Outcomes & Debate",
+    "es": "Resultados y debate"
+   },
+   "notes": [
+    {
+     "id": "n09",
+     "en": {
+      "title": "Political Outcomes Map",
+      "h1": "Architects of the Culture of Death — Note 9: Political Outcomes Map",
+      "file": "en/n09.md",
+      "aka": [
+       "Architects 09 Political Outcomes Map",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 9: Political Outcomes Map",
+       "Architects of the Culture of Death — Note 9: Political Outcomes Map"
+      ]
+     },
+     "es": {
+      "title": "Mapa de resultados políticos",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 9: Mapa de resultados políticos",
+      "file": "es/n09.md",
+      "aka": [
+       "Arquitectos 09 Mapa de Resultados Politicos",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 9: Mapa de resultados políticos",
+       "Arquitectos de la Cultura de la Muerte — Nota 9: Mapa de resultados políticos"
+      ]
+     }
+    },
+    {
+     "id": "n10",
+     "en": {
+      "title": "Latin America Case Study (Mexico)",
+      "h1": "Architects of the Culture of Death — Note 10: Latin America Case Study (Mexico)",
+      "file": "en/n10.md",
+      "aka": [
+       "Architects 10 Latin America Case Study",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 10: Latin America Case Study (Mexico)",
+       "Architects of the Culture of Death — Note 10: Latin America Case Study (Mexico)"
+      ]
+     },
+     "es": {
+      "title": "Estudio de caso — América Latina (México)",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 10: Estudio de caso — América Latina (México)",
+      "file": "es/n10.md",
+      "aka": [
+       "Arquitectos 10 America Latina Mexico",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 10: Estudio de caso — América Latina (México)",
+       "Arquitectos de la Cultura de la Muerte — Nota 10: Estudio de caso — América Latina (México)"
+      ]
+     }
+    },
+    {
+     "id": "n11",
+     "en": {
+      "title": "Gender Ideology — From Biology to Performance",
+      "h1": "Gender Ideology — From Biology to Performance (Architects of the Culture of Death, Note 11)",
+      "file": "en/n11.md",
+      "aka": [
+       "Architects 11 Gender Ideology",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Gender Ideology — From Biology to Performance (Architects of the Culture of Death, Note 11)",
+       "Gender Ideology — From Biology to Performance (Architects of the Culture of Death, Note 11)"
+      ]
+     },
+     "es": {
+      "title": "Ideología de género — De la biología a la performatividad",
+      "h1": "Ideología de género — De la biología a la performatividad (Arquitectos de la Cultura de la Muerte, Nota 11)",
+      "file": "es/n11.md",
+      "aka": [
+       "Arquitectos 11 Ideologia de Genero",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Ideología de género — De la biología a la performatividad (Arquitectos de la Cultura de la Muerte, Nota 11)",
+       "Ideología de género — De la biología a la performatividad (Arquitectos de la Cultura de la Muerte, Nota 11)"
+      ]
+     }
+    },
+    {
+     "id": "n12",
+     "en": {
+      "title": "Counterarguments",
+      "h1": "Architects of the Culture of Death — Note 12: Counterarguments",
+      "file": "en/n12.md",
+      "aka": [
+       "Architects 12 Counterarguments",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 12: Counterarguments",
+       "Architects of the Culture of Death — Note 12: Counterarguments"
+      ]
+     },
+     "es": {
+      "title": "Contraargumentos",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 12: Contraargumentos",
+      "file": "es/n12.md",
+      "aka": [
+       "Arquitectos 12 Contraargumentos",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 12: Contraargumentos",
+       "Arquitectos de la Cultura de la Muerte — Nota 12: Contraargumentos"
+      ]
+     }
+    },
+    {
+     "id": "n13",
+     "en": {
+      "title": "Open Threads & Sources",
+      "h1": "Architects of the Culture of Death — Note 13: Open Threads & Sources",
+      "file": "en/n13.md",
+      "aka": [
+       "Architects 13 Open Threads and Sources",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "Architects of the Culture of Death — Note 13: Open Threads & Sources",
+       "Architects of the Culture of Death — Note 13: Open Threads & Sources"
+      ]
+     },
+     "es": {
+      "title": "Cuestiones abiertas y fuentes",
+      "h1": "Arquitectos de la Cultura de la Muerte — Nota 13: Cuestiones abiertas y fuentes",
+      "file": "es/n13.md",
+      "aka": [
+       "Arquitectos 13 Cuestiones Abiertas y Fuentes",
+       "culture",
+       "architects-of-the-culture-of-death",
+       "demarco-wiker",
+       "espanol",
+       "Arquitectos de la Cultura de la Muerte — Nota 13: Cuestiones abiertas y fuentes",
+       "Arquitectos de la Cultura de la Muerte — Nota 13: Cuestiones abiertas y fuentes"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
