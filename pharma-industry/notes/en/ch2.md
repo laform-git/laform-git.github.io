@@ -1,3 +1,4 @@
+
 # Posner — The Pharmaceutical Industry, Ch.2: Post-War Drug Boom
 *How World War II's government-funded Penicillin Project turned small drug makers into global empires, and how antibiotic profits, me-too patents, combination drugs, marketing to doctors and the turn to chronic-disease drugs built the modern industry.*
 
@@ -146,3 +147,4 @@ C. Regulatory compliance consumed most of the budget
 - Repetition: the lecture restates the penicillin story, the 600% figure and the summary list ("massive research facilities, global distribution, heavy lobbying power...") several times.
 - The Google/Facebook lobbying comparison and the defense-contractor revolving-door aside.
 - Detailed Ch.3 preview content (blood-pressure thresholds, DSM, KOLs), reserved for that chapter's note beyond the brief mentions above.
+

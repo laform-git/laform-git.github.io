@@ -1,3 +1,4 @@
+
 # Posner — The Pharmaceutical Industry, Ch.1: Snake Oil Origins
 *How the drug industry was born selling morphine, cocaine, heroin and barbiturates as miracle cures in an unregulated market, and why Posner says that origin is still its DNA.*
 
@@ -156,3 +157,4 @@ C. That 17-year patents make long-term control of a drug impossible
 - Detail on the Poison Squad meals and preservative debates beyond what explains the 1906 Act.
 - Garbled Pfizer start-up figures ("$2,500 in savings of $1,000"), kept only as flagged.
 - The cartel comparison and GLP-1 side-benefit list beyond one line each.
+
