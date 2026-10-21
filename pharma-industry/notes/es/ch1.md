@@ -21,7 +21,7 @@ El argumento de fondo de Posner: cuando la gente no sabe qué la enferma, el mie
 ## La morfina y el origen bélico de las compañías
 - **Morfina (1804):** un aprendiz de farmacia alemán de 21 años aisló el primer alcaloide puro de la amapola del opio y lo nombró en honor a **Morfeo**, dios griego de los sueños. Su valor para aliviar el dolor se reconoció rápidamente. ✅
 - La morfina temprana de calidad provenía de dos empresas alemanas, **Bayer** y **Schering** (después "Schering & Plough"). 🟡 Él lo sitúa a "principios del siglo XIX"; la datación es imprecisa.
-- **Guerra entre México y Estados Unidos (1846–48):** el **87% de las muertes de tropas estadounidenses** se debió a enfermedades no tratadas (fiebre amarilla, disentería, cólera), no al combate. La morfina que llegaba al frente a menudo estaba adulterada por intermediarios que la diluian, así que los soldados obtenían poco alivio. ✅
+- **Guerra entre México y Estados Unidos (1846–48):** el **87% de las muertes de tropas estadounidenses** se debió a enfermedades no tratadas (fiebre amarilla, disentería, cólera), no al combate. La morfina que llegaba al frente a menudo estaba adulterada por intermediarios que la diluían, así que los soldados obtenían poco alivio. ✅
 - Ese fracaso creó el mercado estadounidense. La lista de fundadores de Posner:
 
 | Compañía | Origen según lo cuenta Posner |
