@@ -1,0 +1,216 @@
+{
+ "title": {
+  "en": "Introduction to Nutrition",
+  "es": "Introducción a la nutrición"
+ },
+ "titleHtml": {
+  "en": "Introduction to <span>Nutrition</span>",
+  "es": "Introducción a la <span>nutrición</span>"
+ },
+ "eyebrow": {
+  "en": "Max Lugavere · Peterson Academy · 8 lectures",
+  "es": "Max Lugavere · Peterson Academy · 8 clases"
+ },
+ "lede": {
+  "en": "Macronutrients and processing, satiety, how nutrition standards are set, meal timing, tailoring a diet, reading the controversies, brain-healthy foods and the gut microbiome.",
+  "es": "Macronutrientes y procesamiento, saciedad, cómo se fijan los estándares nutricionales, el momento de las comidas, adaptar una dieta, leer las controversias, alimentos para el cerebro y el microbioma intestinal."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Lectures",
+    "es": "Clases"
+   },
+   "notes": [
+    {
+     "id": "ch1",
+     "en": {
+      "title": "Nutritional Fundamentals",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.1: Nutritional Fundamentals",
+      "file": "en/ch1.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.1 Nutritional Fundamentals",
+       "Lugavere — Introduction to Nutrition, Ch.1: Nutritional Fundamentals",
+       "Lugavere — Introduction to Nutrition, Ch.1: Nutritional Fundamentals"
+      ]
+     },
+     "es": {
+      "title": "Fundamentos nutricionales",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 1: Fundamentos nutricionales",
+      "file": "es/ch1.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 1: Fundamentos nutricionales",
+       "Lugavere — Introduction to Nutrition, Ch.1: Nutritional Fundamentals",
+       "Nutritional Fundamentals"
+      ]
+     }
+    },
+    {
+     "id": "ch2",
+     "en": {
+      "title": "Satiety Superstars",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.2: Satiety Superstars",
+      "file": "en/ch2.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.2 Satiety Superstars",
+       "Lugavere — Introduction to Nutrition, Ch.2: Satiety Superstars",
+       "Lugavere — Introduction to Nutrition, Ch.2: Satiety Superstars"
+      ]
+     },
+     "es": {
+      "title": "Superestrellas de la saciedad",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 2: Superestrellas de la saciedad",
+      "file": "es/ch2.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 2: Superestrellas de la saciedad",
+       "Lugavere — Introduction to Nutrition, Ch.2: Satiety Superstars",
+       "Satiety Superstars"
+      ]
+     }
+    },
+    {
+     "id": "ch3",
+     "en": {
+      "title": "Nutrition Standards",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.3: Nutrition Standards",
+      "file": "en/ch3.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.3 Nutrition Standards",
+       "Lugavere — Introduction to Nutrition, Ch.3: Nutrition Standards",
+       "Lugavere — Introduction to Nutrition, Ch.3: Nutrition Standards"
+      ]
+     },
+     "es": {
+      "title": "Estándares nutricionales",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 3: Estándares nutricionales",
+      "file": "es/ch3.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 3: Estándares nutricionales",
+       "Lugavere — Introduction to Nutrition, Ch.3: Nutrition Standards",
+       "Nutrition Standards"
+      ]
+     }
+    },
+    {
+     "id": "ch4",
+     "en": {
+      "title": "Nutrient Timing",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.4: Nutrient Timing",
+      "file": "en/ch4.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.4 Nutrient Timing",
+       "Lugavere — Introduction to Nutrition, Ch.4: Nutrient Timing",
+       "Lugavere — Introduction to Nutrition, Ch.4: Nutrient Timing"
+      ]
+     },
+     "es": {
+      "title": "Momento de ingesta de nutrientes",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 4: Momento de ingesta de nutrientes",
+      "file": "es/ch4.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 4: Momento de ingesta de nutrientes",
+       "Lugavere — Introduction to Nutrition, Ch.4: Nutrient Timing",
+       "Nutrient Timing"
+      ]
+     }
+    },
+    {
+     "id": "ch5",
+     "en": {
+      "title": "Dietary Tailoring",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.5: Dietary Tailoring",
+      "file": "en/ch5.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.5 Dietary Tailoring",
+       "Lugavere — Introduction to Nutrition, Ch.5: Dietary Tailoring",
+       "Lugavere — Introduction to Nutrition, Ch.5: Dietary Tailoring"
+      ]
+     },
+     "es": {
+      "title": "Dieta a la medida",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 5: Dieta a la medida",
+      "file": "es/ch5.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 5: Dieta a la medida",
+       "Lugavere — Introduction to Nutrition, Ch.5: Dietary Tailoring",
+       "Dietary Tailoring"
+      ]
+     }
+    },
+    {
+     "id": "ch6",
+     "en": {
+      "title": "Nutrition Controversies",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.6: Nutrition Controversies",
+      "file": "en/ch6.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.6 Nutrition Controversies",
+       "Lugavere — Introduction to Nutrition, Ch.6: Nutrition Controversies",
+       "Lugavere — Introduction to Nutrition, Ch.6: Nutrition Controversies"
+      ]
+     },
+     "es": {
+      "title": "Controversias en nutrición",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 6: Controversias en nutrición",
+      "file": "es/ch6.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 6: Controversias en nutrición",
+       "Lugavere — Introduction to Nutrition, Ch.6: Nutrition Controversies",
+       "Nutrition Controversies"
+      ]
+     }
+    },
+    {
+     "id": "ch7",
+     "en": {
+      "title": "Genius Foods",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.7: Genius Foods",
+      "file": "en/ch7.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.7 Genius Foods",
+       "Lugavere — Introduction to Nutrition, Ch.7: Genius Foods",
+       "Lugavere — Introduction to Nutrition, Ch.7: Genius Foods"
+      ]
+     },
+     "es": {
+      "title": "Alimentos geniales",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 7: Alimentos geniales",
+      "file": "es/ch7.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 7: Alimentos geniales",
+       "Lugavere — Introduction to Nutrition, Ch.7: Genius Foods",
+       "Genius Foods"
+      ]
+     }
+    },
+    {
+     "id": "ch8",
+     "en": {
+      "title": "Microbiome Mastery",
+      "h1": "Lugavere — Introduction to Nutrition, Ch.8: Microbiome Mastery",
+      "file": "en/ch8.md",
+      "aka": [
+       "Lugavere — Introduction to Nutrition, Ch.8 Microbiome Mastery",
+       "Lugavere — Introduction to Nutrition, Ch.8: Microbiome Mastery",
+       "Lugavere — Introduction to Nutrition, Ch.8: Microbiome Mastery"
+      ]
+     },
+     "es": {
+      "title": "Dominio del microbioma",
+      "h1": "Lugavere — Introducción a la nutrición, Cap. 8: Dominio del microbioma",
+      "file": "es/ch8.md",
+      "aka": [
+       "Lugavere — Introducción a la nutrición, Cap. 8: Dominio del microbioma",
+       "Lugavere — Introduction to Nutrition, Ch.8: Microbiome Mastery",
+       "Microbiome Mastery"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

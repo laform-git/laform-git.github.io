@@ -86,6 +86,15 @@
     "status": "Live"
   },
   {
+    "name": "Introduction to Nutrition",
+    "section": "Health",
+    "path": "nutrition/",
+    "label": "Max Lugavere",
+    "blurb": "Macros, satiety, timing, controversies, genius foods and the microbiome.",
+    "langs": "English · Español",
+    "status": "Live"
+  },
+  {
     "name": "Claude Tips",
     "section": "Tech",
     "path": "claude-tips/",
