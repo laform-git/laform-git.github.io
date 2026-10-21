@@ -1,0 +1,301 @@
+{
+ "title": {
+  "en": "Thomas Aquinas",
+  "es": "Tomás de Aquino"
+ },
+ "titleHtml": {
+  "en": "Thomas <span>Aquinas</span>",
+  "es": "Tomás de <span>Aquino</span>"
+ },
+ "eyebrow": {
+  "en": "Bishop Robert Barron · 8 lectures",
+  "es": "Obispo Robert Barron · 8 clases"
+ },
+ "lede": {
+  "en": "Barron's course on the Angelic Doctor: his life and times, the approach to God, the divine attributes, the Trinity, creation, providence and evil, the human person, and ethics as the path to happiness.",
+  "es": "El curso de Barron sobre el Doctor Angélico: su vida y su época, la aproximación a Dios, los atributos divinos, la Trinidad, la creación, la providencia y el mal, la persona humana y la ética como camino a la felicidad."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Lectures",
+    "es": "Clases"
+   },
+   "notes": [
+    {
+     "id": "ch1",
+     "en": {
+      "title": "Life, Times, and Culture",
+      "h1": "Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture",
+      "file": "en/ch1.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.1 Life, Times, and Culture",
+       "Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture",
+       "aquinas",
+       "barron",
+       "thomism",
+       "scholasticism",
+       "dominicans",
+       "summa-theologiae",
+       "disputed-question",
+       "medieval-church",
+       "universities",
+       "dark-ages-myth",
+       "Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture"
+      ]
+     },
+     "es": {
+      "title": "Vida, época y cultura",
+      "h1": "Barron — Tomás de Aquino, Cap. 1: Vida, época y cultura",
+      "file": "es/ch1.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 1: Vida, época y cultura",
+       "Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture",
+       "Life, Times, and Culture"
+      ]
+     }
+    },
+    {
+     "id": "ch2",
+     "en": {
+      "title": "Approach to God",
+      "h1": "Barron — Thomas Aquinas, Ch.2: Approach to God",
+      "file": "en/ch2.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.2 Approach to God",
+       "Barron — Thomas Aquinas, Ch.2: Approach to God",
+       "aquinas",
+       "five-ways",
+       "ontological-argument",
+       "anselm",
+       "unmoved-mover",
+       "contingency",
+       "teleology",
+       "natural-theology",
+       "proofs-for-god",
+       "barron",
+       "Barron — Thomas Aquinas, Ch.2: Approach to God"
+      ]
+     },
+     "es": {
+      "title": "Aproximación a Dios",
+      "h1": "Barron — Tomás de Aquino, Cap. 2: Aproximación a Dios",
+      "file": "es/ch2.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 2: Aproximación a Dios",
+       "Barron — Thomas Aquinas, Ch.2: Approach to God",
+       "Approach to God"
+      ]
+     }
+    },
+    {
+     "id": "ch3",
+     "en": {
+      "title": "The Attributes of God",
+      "h1": "Barron — Thomas Aquinas, Ch.3: The Attributes of God",
+      "file": "en/ch3.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.3 The Attributes of God",
+       "Barron — Thomas Aquinas, Ch.3: The Attributes of God",
+       "aquinas",
+       "divine-simplicity",
+       "via-negativa",
+       "ipsum-esse-subsistens",
+       "essence-and-existence",
+       "non-competitive-transcendence",
+       "immutability",
+       "eternity",
+       "divine-knowledge",
+       "summa-theologiae",
+       "Barron — Thomas Aquinas, Ch.3: The Attributes of God"
+      ]
+     },
+     "es": {
+      "title": "Los atributos de Dios",
+      "h1": "Barron — Tomás de Aquino, Cap. 3: Los atributos de Dios",
+      "file": "es/ch3.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 3: Los atributos de Dios",
+       "Barron — Thomas Aquinas, Ch.3: The Attributes of God",
+       "The Attributes of God"
+      ]
+     }
+    },
+    {
+     "id": "ch4",
+     "en": {
+      "title": "The Trinity",
+      "h1": "Barron — Thomas Aquinas, Ch.4: The Trinity",
+      "file": "en/ch4.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.4 The Trinity",
+       "Barron — Thomas Aquinas, Ch.4: The Trinity",
+       "aquinas",
+       "trinity",
+       "processions",
+       "subsistent-relations",
+       "immanent-relations",
+       "faith-and-reason",
+       "divine-love",
+       "divine-will",
+       "summa-contra-gentiles",
+       "modalism",
+       "imago-dei",
+       "barron",
+       "Barron — Thomas Aquinas, Ch.4: The Trinity"
+      ]
+     },
+     "es": {
+      "title": "La Trinidad",
+      "h1": "Barron — Tomás de Aquino, Cap. 4: La Trinidad",
+      "file": "es/ch4.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 4: La Trinidad",
+       "Barron — Thomas Aquinas, Ch.4: The Trinity",
+       "The Trinity"
+      ]
+     }
+    },
+    {
+     "id": "ch5",
+     "en": {
+      "title": "Doctrine of Creation",
+      "h1": "Barron — Thomas Aquinas, Ch.5: Doctrine of Creation",
+      "file": "en/ch5.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.5 Doctrine of Creation",
+       "Barron — Thomas Aquinas, Ch.5: Doctrine of Creation",
+       "aquinas",
+       "bishop-barron",
+       "creation",
+       "creatio-ex-nihilo",
+       "creatio-continua",
+       "bonum-diffusivum-sui",
+       "omnipotence",
+       "voluntarism",
+       "de-potentia-dei",
+       "contemplation",
+       "beauty",
+       "Barron — Thomas Aquinas, Ch.5: Doctrine of Creation"
+      ]
+     },
+     "es": {
+      "title": "Doctrina de la creación",
+      "h1": "Barron — Tomás de Aquino, Cap. 5: Doctrina de la creación",
+      "file": "es/ch5.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 5: Doctrina de la creación",
+       "Barron — Thomas Aquinas, Ch.5: Doctrine of Creation",
+       "Doctrine of Creation"
+      ]
+     }
+    },
+    {
+     "id": "ch6",
+     "en": {
+      "title": "Providence and the Problem of Evil",
+      "h1": "Barron — Thomas Aquinas, Ch.6: Providence and the Problem of Evil",
+      "file": "en/ch6.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.6 Providence and the Problem of Evil",
+       "Barron — Thomas Aquinas, Ch.6: Providence and the Problem of Evil",
+       "aquinas",
+       "barron",
+       "providence",
+       "problem-of-evil",
+       "theodicy",
+       "privatio-boni",
+       "freedom-for-excellence",
+       "middle-knowledge",
+       "molina",
+       "book-of-job",
+       "Barron — Thomas Aquinas, Ch.6: Providence and the Problem of Evil"
+      ]
+     },
+     "es": {
+      "title": "La providencia y el problema del mal",
+      "h1": "Barron — Tomás de Aquino, Cap. 6: La providencia y el problema del mal",
+      "file": "es/ch6.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 6: La providencia y el problema del mal",
+       "Barron — Thomas Aquinas, Ch.6: Providence and the Problem of Evil",
+       "Providence and the Problem of Evil"
+      ]
+     }
+    },
+    {
+     "id": "ch7",
+     "en": {
+      "title": "Aquinas's Anthropology",
+      "h1": "Barron — Thomas Aquinas, Ch.7: Aquinas's Anthropology",
+      "file": "en/ch7.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.7 Aquinas's Anthropology",
+       "Barron — Thomas Aquinas, Ch.7: Aquinas's Anthropology",
+       "aquinas",
+       "barron",
+       "anthropology",
+       "imago-dei",
+       "body-and-soul",
+       "soul-as-form",
+       "dualism",
+       "gnosticism",
+       "agent-intellect",
+       "immortality-of-the-soul",
+       "resurrection-of-the-body",
+       "Barron — Thomas Aquinas, Ch.7: Aquinas's Anthropology"
+      ]
+     },
+     "es": {
+      "title": "La antropología de Tomás de Aquino",
+      "h1": "Barron — Tomás de Aquino, Cap. 7: La antropología de Tomás de Aquino",
+      "file": "es/ch7.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 7: La antropología de Tomás de Aquino",
+       "Barron — Thomas Aquinas, Ch.7: Aquinas's Anthropology",
+       "Aquinas's Anthropology"
+      ]
+     }
+    },
+    {
+     "id": "ch8",
+     "en": {
+      "title": "Aquinas on Ethics & Happiness",
+      "h1": "Barron — Thomas Aquinas, Ch.8: Aquinas on Ethics & Happiness",
+      "file": "en/ch8.md",
+      "aka": [
+       "Barron — Thomas Aquinas, Ch.8 Aquinas on Ethics & Happiness",
+       "Barron — Thomas Aquinas, Ch.8: Aquinas on Ethics & Happiness",
+       "aquinas",
+       "ethics",
+       "beatitudo",
+       "happiness",
+       "desire",
+       "cardinal-virtues",
+       "natural-law",
+       "eternal-law",
+       "addiction",
+       "exitus-reditus",
+       "wheel-of-fortune",
+       "Barron — Thomas Aquinas, Ch.8: Aquinas on Ethics & Happiness"
+      ]
+     },
+     "es": {
+      "title": "Tomás de Aquino sobre la ética y la felicidad",
+      "h1": "Barron — Tomás de Aquino, Cap. 8: Tomás de Aquino sobre la ética y la felicidad",
+      "file": "es/ch8.md",
+      "aka": [
+       "Barron — Tomás de Aquino, Cap. 8: Tomás de Aquino sobre la ética y la felicidad",
+       "Barron — Thomas Aquinas, Ch.8: Aquinas on Ethics & Happiness",
+       "Aquinas on Ethics & Happiness"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

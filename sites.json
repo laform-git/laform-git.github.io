@@ -8,6 +8,15 @@
     "langs": "English · Español"
   },
   {
+    "name": "Thomas Aquinas",
+    "section": "Faith",
+    "path": "aquinas/",
+    "label": "Bishop Robert Barron",
+    "blurb": "God, creation, providence, the soul and happiness in the Angelic Doctor.",
+    "langs": "English · Español",
+    "status": "Live"
+  },
+  {
     "name": "Bikman Study Hub",
     "section": "Health",
     "path": "bikman/",
