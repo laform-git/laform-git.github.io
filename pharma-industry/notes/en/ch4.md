@@ -20,7 +20,7 @@ This is the lecture where modern drug regulation is born. Before 1962, a US drug
 
 ## Kefauver — From Mob Hearings to the Drug Industry
 - **Estes Kefauver**: 6'3", lanky, hunched, thick glasses, strong Southern drawl; an unlikely TV star. ✅
-- **1950 organized-crime hearings** were televised and became, in Posner's phrase, "the True Crime 1950s reality show." Time magazine wrote that dishes stood in sinks and department stores emptied. David Halberstam called him "a Southern Jimmy Stewart." ✅
+- **1950 organized-crime hearings** were televised and became, in Posner's phrase, "the True Crime 1950s reality show." Time magazine wrote that dishes stood in sinks and department stores emptied. About **90% of TV households (about 30 million Americans)** watched at some point. David Halberstam called him "a Southern Jimmy Stewart." ✅
 - He ran for president in **1952 and 1956**, lost the nomination to Adlai Stevenson both times, was Stevenson's running mate in 1956 and lost to Eisenhower. ✅
 - As chair of the antitrust subcommittee he investigated steel, auto and bread for collusion, then turned to drugs in **1959**. Posner believes no Congress today, of either party, would mount a probe this deep. 🟡 Opinion.
 

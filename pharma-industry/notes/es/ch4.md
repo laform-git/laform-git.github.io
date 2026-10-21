@@ -19,7 +19,7 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 
 ## Kefauver — De las audiencias contra la mafia a la industria farmacéutica
 - **Estes Kefauver**: 1,90 m (6'3"), larguirucho, encorvado, anteojos gruesos, marcado acento sureño; una estrella de televisión improbable. ✅
-- Las **audiencias de 1950 sobre el crimen organizado** se televisaron y se convirtieron, en palabras de Posner, en "el reality show de True Crime de los años cincuenta". La revista Time escribió que los platos se quedaban en el fregadero y las tiendas departamentales se vaciaban. David Halberstam lo llamó "un Jimmy Stewart sureño". ✅
+- Las **audiencias de 1950 sobre el crimen organizado** se televisaron y se convirtieron, en palabras de Posner, en "el reality show de True Crime de los años cincuenta". La revista Time escribió que los platos se quedaban en el fregadero y las tiendas departamentales se vaciaban. Cerca del **90% de los hogares con televisor (unos 30 millones de estadounidenses)** las vio en algún momento. David Halberstam lo llamó "un Jimmy Stewart sureño". ✅
 - Se postuló a la presidencia en **1952 y 1956**, perdió la nominación ante Adlai Stevenson ambas veces, fue compañero de fórmula de Stevenson en 1956 y perdió ante Eisenhower. ✅
 - Como presidente del subcomité antimonopolio investigó la colusión en el acero, la industria automotriz y el pan, y luego se dirigió a los medicamentos en **1959**. Posner cree que ningún Congreso actual, de ningún partido, emprendería una investigación tan profunda. 🟡 Opinión.
 
@@ -93,7 +93,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 ## La talidomida — "Al rescate"
 - La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅
 - **Frances Kelsey**, una nueva revisora médica de la FDA y una de las pocas mujeres allí, dudó de los estudios europeos. Bajo la **regla de los 60 días**, una solicitud sin respuesta en 60 días quedaba aprobada automáticamente, así que ella siguió declarando incompleta la documentación y pidiendo más datos. ✅
-- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivió el proyecto estancado. ✅
+- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivío el proyecto estancado. ✅
 - El patrón refleja el de 1937: el Elixir Sulfanilamida mató a 107 personas y dio origen a la ley de 1938. ✅
 
 ## Las Enmiendas Kefauver-Harris de 1962 — Siete cambios
