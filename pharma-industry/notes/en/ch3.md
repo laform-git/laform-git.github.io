@@ -1,3 +1,4 @@
+
 # Posner — The Pharmaceutical Industry, Ch.3: Selling Sickness
 *How marketing overtook science in the 1950s: Arthur Sackler's playbook (drug reps, free samples, ghostwritten "news," sponsored education), the Terramycin campaign, me-too drugs and patent gaming, the anti-substitution laws, a weak FDA, and the manufacturing of disease and demand.*
 
@@ -148,3 +149,4 @@ C. \* By lobbying state legislatures one by one, with AMA support, until 44 stat
 - Posner's personal asides (the vacuum-cleaner consumerism comparison, the Google-search joke beyond one line).
 - The repeated "pre-1906 landscape" recap (heroin cough syrups, cocaine inhalants), already covered in Ch.1.
 - The detailed rep-pitch dialogue ("this one knocks my socks off"), kept only as the rapport mechanism.
+
