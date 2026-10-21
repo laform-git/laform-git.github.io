@@ -1,3 +1,4 @@
+
 # Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture
 *Barron's portrait of Aquinas in context: the luminous 13th-century renaissance, his road from Monte Cassino through Naples, Paris and the Dominicans, how a Summa article works as a staged debate, and the saint who called his work straw.*
 
