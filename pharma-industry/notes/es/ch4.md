@@ -93,7 +93,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 ## La talidomida — "Al rescate"
 - La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅
 - **Frances Kelsey**, una nueva revisora médica de la FDA y una de las pocas mujeres allí, dudó de los estudios europeos. Bajo la **regla de los 60 días**, una solicitud sin respuesta en 60 días quedaba aprobada automáticamente, así que ella siguió declarando incompleta la documentación y pidiendo más datos. ✅
-- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivó el proyecto estancado. ✅
+- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivió el proyecto estancado. ✅
 - El patrón refleja el de 1937: el Elixir Sulfanilamida mató a 107 personas y dio origen a la ley de 1938. ✅
 
 ## Las Enmiendas Kefauver-Harris de 1962 — Siete cambios
