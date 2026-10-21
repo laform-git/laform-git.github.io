@@ -77,11 +77,11 @@ La objeción que el propio Barron plantea: ¿ha unido Tomás tan estrechamente a
 
 ## La imago Dei — El intelecto inquieto
 - La imagen y semejanza del Génesis "irrumpe con fuerza en la tradición": algo en nosotros se parece a Dios y por eso quiere volver a Dios. ✅
-- **Tomás (citado, sin referencia):** "Nuestro intelecto nunca entiende tantas cosas que no pueda entender más. ✅
+- **Tomás (citado, sin referencia):** "Nuestro intelecto nunca entiende tantas cosas que no pueda entender más. De ello se sigue que nuestras almas no pueden estar limitadas por naturaleza a una noción natural fija". ✅
 - El intelecto agente nunca descansa: atril → artefacto → cosa material → materia → ... Cada patrón le hace desear uno más amplio. Bernard Lonergan (tomista del siglo XX): la mente quiere "saber todo sobre todo". ✅
 - **El punto final:** no otra cosa verdadera, sino la verdad misma; no un ente particular, sino *ipsum esse*, el ser mismo. En términos cristianos, la **visión beatífica**. Esa inquietud es la imago Dei en acción. ✅
 - *Die Frage nach dem Sein* de Heidegger ("la pregunta por el ser") traducida como "¿De qué se trata todo esto?". Esa pregunta es "el hambre de Dios"; no dejes que el secularismo la sofoque.
-- **La analogía de Barron:** *Encuentros cercanos del tercer tipo*, donde las personas marcadas por la luz se obsesionan, esculpiendo una montaña que no entienden, hasta que unas pocas llegan a la Torre del Diablo para el encuentro. "Estamos marcados por Dios... y no descansaremos hasta encontrar a Dios".
+- **La analogía de Barron:** *Encuentros cercanos del tercer tipo*, donde las personas marcadas por la luz se obsesionan, esculpiendo una montaña que no entienden, hasta que unas pocas llegan a la Torre del Diablo para el encuentro. "Estamos marcados por Dios... y no descansaremos hasta encontrar a Dios". Texto de cierre: Salmo 42, "Como busca la cierva corrientes de agua, así mi alma te busca a ti, Dios mío".
 
 ## Frases clave y datos citables (Lección 7)
 - ***Anima mea non sum ego*: "Yo no soy mi alma".** El verdadero yo es cuerpo y alma juntos.

@@ -78,11 +78,11 @@ The objection Barron raises himself: has Aquinas tied soul and body so tightly t
 
 ## The Imago Dei — The Restless Intellect
 - Genesis's image and likeness "comes roaring up into the tradition": something in us is like God and therefore wants to return to God. ✅
-- **Aquinas (quoted, no reference given):** "Our intellect never understands so many things that it could not understand more. ✅
+- **Aquinas (quoted, no reference given):** "Our intellect never understands so many things that it could not understand more. It follows that our souls cannot be limited by nature to a certain fixed natural notion." ✅
 - The agent intellect never rests: podium → artifact → material thing → matter → ... Each pattern makes it want a wider one. Bernard Lonergan (20th-century Thomist): the mind wants "to know everything about everything." ✅
 - **The endpoint:** not another true thing but truth itself, not any particular being but *ipsum esse*, being itself. In Christian terms, the **beatific vision**. That restlessness is the imago Dei at work. ✅
 - Heidegger's *die Frage nach dem Sein* ("the question after being") translated as "What's it all about?" That question is "the hunger for God"; don't let secularism suppress it.
-- **Barron's analogy:** *Close Encounters of the Third Kind*, where people marked by the light become obsessed, sculpting a mountain they don't understand, until a few reach Devil's Tower for the meeting. "We're marked by God... and we won't rest until we find God."
+- **Barron's analogy:** *Close Encounters of the Third Kind*, where people marked by the light become obsessed, sculpting a mountain they don't understand, until a few reach Devil's Tower for the meeting. "We're marked by God... and we won't rest until we find God." Closing text: Psalm 42, "As the deer yearns for running streams, so my soul is yearning for You, my God."
 
 ## Punchlines & Quotable Facts (Lecture 7)
 - ***Anima mea non sum ego*: "I am not my soul."** The real me is body and soul together.
