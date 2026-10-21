@@ -1,0 +1,269 @@
+{
+ "title": {
+  "en": "The Pharmaceutical Industry",
+  "es": "La industria farmacéutica"
+ },
+ "titleHtml": {
+  "en": "The Pharmaceutical <span>Industry</span>",
+  "es": "La industria <span>farmacéutica</span>"
+ },
+ "eyebrow": {
+  "en": "Gerald Posner · Peterson Academy · 7 lectures",
+  "es": "Gerald Posner · Peterson Academy · 7 clases"
+ },
+ "lede": {
+  "en": "From patent-medicine snake oil to pandemic profits: how the drug industry learned to sell sickness, shape its regulators, price by monopoly, and what a smarter patient can ask.",
+  "es": "Del aceite de serpiente de las medicinas de patente a las ganancias de la pandemia: cómo la industria farmacéutica aprendió a vender enfermedades, moldear a sus reguladores, fijar precios de monopolio, y qué puede preguntar un paciente más informado."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Lectures",
+    "es": "Clases"
+   },
+   "notes": [
+    {
+     "id": "ch1",
+     "en": {
+      "title": "Snake Oil Origins",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.1: Snake Oil Origins",
+      "file": "en/ch1.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.1 Snake Oil Origins",
+       "Posner — The Pharmaceutical Industry, Ch.1: Snake Oil Origins",
+       "pharma-industry",
+       "patent-medicines",
+       "morphine",
+       "cocaine",
+       "heroin",
+       "barbiturates",
+       "pure-food-and-drug-act",
+       "harrison-act",
+       "regulatory-capture",
+       "insulin",
+       "Posner — The Pharmaceutical Industry, Ch.1: Snake Oil Origins"
+      ]
+     },
+     "es": {
+      "title": "Los orígenes del aceite de serpiente",
+      "h1": "Posner — La industria farmacéutica, Cap. 1: Los orígenes del aceite de serpiente",
+      "file": "es/ch1.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 1: Los orígenes del aceite de serpiente",
+       "Posner — The Pharmaceutical Industry, Ch.1: Snake Oil Origins",
+       "Snake Oil Origins"
+      ]
+     }
+    },
+    {
+     "id": "ch2",
+     "en": {
+      "title": "Post-War Drug Boom",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.2: Post-War Drug Boom",
+      "file": "en/ch2.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.2 Post-War Drug Boom",
+       "Posner — The Pharmaceutical Industry, Ch.2: Post-War Drug Boom",
+       "pharmaceutical-industry",
+       "penicillin",
+       "antibiotics",
+       "world-war-ii",
+       "patents",
+       "me-too-drugs",
+       "antibiotic-resistance",
+       "chronic-disease",
+       "off-label-prescribing",
+       "drug-marketing",
+       "Posner — The Pharmaceutical Industry, Ch.2: Post-War Drug Boom"
+      ]
+     },
+     "es": {
+      "title": "El auge farmacéutico de la posguerra",
+      "h1": "Posner — La industria farmacéutica, Cap. 2: El auge farmacéutico de la posguerra",
+      "file": "es/ch2.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 2: El auge farmacéutico de la posguerra",
+       "Posner — The Pharmaceutical Industry, Ch.2: Post-War Drug Boom",
+       "Post-War Drug Boom"
+      ]
+     }
+    },
+    {
+     "id": "ch3",
+     "en": {
+      "title": "Selling Sickness",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.3: Selling Sickness",
+      "file": "en/ch3.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.3 Selling Sickness",
+       "Posner — The Pharmaceutical Industry, Ch.3: Selling Sickness",
+       "pharmaceutical-industry",
+       "pharma-marketing",
+       "arthur-sackler",
+       "terramycin",
+       "drug-reps",
+       "me-too-drugs",
+       "patents",
+       "generics",
+       "anti-substitution-laws",
+       "elixir-sulfanilamide",
+       "fda-history",
+       "disease-branding",
+       "Posner — The Pharmaceutical Industry, Ch.3: Selling Sickness"
+      ]
+     },
+     "es": {
+      "title": "Vendiendo enfermedades",
+      "h1": "Posner — La industria farmacéutica, Cap. 3: Vendiendo enfermedades",
+      "file": "es/ch3.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 3: Vendiendo enfermedades",
+       "Posner — The Pharmaceutical Industry, Ch.3: Selling Sickness",
+       "Selling Sickness"
+      ]
+     }
+    },
+    {
+     "id": "ch4",
+     "en": {
+      "title": "Regulation Revolution",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.4: Regulation Revolution",
+      "file": "en/ch4.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.4 Regulation Revolution",
+       "Posner — The Pharmaceutical Industry, Ch.4: Regulation Revolution",
+       "pharma-industry",
+       "kefauver",
+       "kefauver-harris-amendments",
+       "fda",
+       "thalidomide",
+       "drug-regulation",
+       "drug-pricing",
+       "patents",
+       "sackler",
+       "off-label-prescribing",
+       "Posner — The Pharmaceutical Industry, Ch.4: Regulation Revolution"
+      ]
+     },
+     "es": {
+      "title": "La revolución regulatoria",
+      "h1": "Posner — La industria farmacéutica, Cap. 4: La revolución regulatoria",
+      "file": "es/ch4.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 4: La revolución regulatoria",
+       "Posner — The Pharmaceutical Industry, Ch.4: Regulation Revolution",
+       "Regulation Revolution"
+      ]
+     }
+    },
+    {
+     "id": "ch5",
+     "en": {
+      "title": "Mother's Little Helper",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.5: Mother's Little Helper",
+      "file": "en/ch5.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.5 Mother's Little Helper",
+       "Posner — The Pharmaceutical Industry, Ch.5: Mother's Little Helper",
+       "pharma-industry",
+       "tranquilizers",
+       "miltown",
+       "valium",
+       "benzodiazepines",
+       "amphetamines",
+       "gendered-marketing",
+       "hormone-replacement-therapy",
+       "oxycontin",
+       "opioid-crisis",
+       "sackler",
+       "Posner — The Pharmaceutical Industry, Ch.5: Mother's Little Helper"
+      ]
+     },
+     "es": {
+      "title": "El pequeño ayudante de mamá",
+      "h1": "Posner — La industria farmacéutica, Cap. 5: El pequeño ayudante de mamá",
+      "file": "es/ch5.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 5: El pequeño ayudante de mamá",
+       "Posner — The Pharmaceutical Industry, Ch.5: Mother's Little Helper",
+       "Mother's Little Helper"
+      ]
+     }
+    },
+    {
+     "id": "ch7",
+     "en": {
+      "title": "Price of Monopoly & Orphan Drugs",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.7: Price of Monopoly & Orphan Drugs",
+      "file": "en/ch7.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.7 Price of Monopoly & Orphan Drugs",
+       "Posner — The Pharmaceutical Industry, Ch.7: Price of Monopoly & Orphan Drugs",
+       "orphan-drugs",
+       "orphan-drug-act",
+       "drug-pricing",
+       "pbm",
+       "azt",
+       "truvada",
+       "botox",
+       "acthar",
+       "daraprim",
+       "off-label",
+       "gene-therapy",
+       "direct-to-consumer-ads",
+       "Posner — The Pharmaceutical Industry, Ch.7: Price of Monopoly & Orphan Drugs"
+      ]
+     },
+     "es": {
+      "title": "El precio del monopolio y los medicamentos huérfanos",
+      "h1": "Posner — La industria farmacéutica, Cap. 7: El precio del monopolio y los medicamentos huérfanos",
+      "file": "es/ch7.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 7: El precio del monopolio y los medicamentos huérfanos",
+       "Posner — The Pharmaceutical Industry, Ch.7: Price of Monopoly & Orphan Drugs",
+       "Price of Monopoly & Orphan Drugs"
+      ]
+     }
+    },
+    {
+     "id": "ch8",
+     "en": {
+      "title": "Pandemic Profits",
+      "h1": "Posner — The Pharmaceutical Industry, Ch.8: Pandemic Profits",
+      "file": "en/ch8.md",
+      "aka": [
+       "Posner — The Pharmaceutical Industry, Ch.8 Pandemic Profits",
+       "Posner — The Pharmaceutical Industry, Ch.8: Pandemic Profits",
+       "pharma",
+       "covid-19",
+       "vaccines",
+       "mrna",
+       "operation-warp-speed",
+       "intellectual-property",
+       "drug-pricing",
+       "stock-buybacks",
+       "booster-economy",
+       "propublica",
+       "smarter-patient",
+       "Posner — The Pharmaceutical Industry, Ch.8: Pandemic Profits"
+      ]
+     },
+     "es": {
+      "title": "Las ganancias de la pandemia",
+      "h1": "Posner — La industria farmacéutica, Cap. 8: Las ganancias de la pandemia",
+      "file": "es/ch8.md",
+      "aka": [
+       "Posner — La industria farmacéutica, Cap. 8: Las ganancias de la pandemia",
+       "Posner — The Pharmaceutical Industry, Ch.8: Pandemic Profits",
+       "Pandemic Profits"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
