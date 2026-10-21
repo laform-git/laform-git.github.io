@@ -42,7 +42,7 @@ Barron concedes the novel analogy "limps" here: Tolkien's characters have no fre
 |  | Freedom of indifference (modern) | Freedom for excellence (classical, Thomas) |
 | --- | --- | --- |
 | Definition | Capacity to choose yes or no without coercion, exterior or interior | Ordering of desire so the achievement of the good becomes first possible, then effortless |
-| Image |  | A fluent English speaker; a pianist who has internalized the rules |
+| Image | "Make up your own language" | A fluent English speaker; a pianist who has internalized the rules |
 | Growth means | More options | Fewer distractions and attachments between you and the good |
 | Source | Barron borrows the terms from Dominican Servais Pinckaers |  |
 
@@ -68,7 +68,7 @@ Barron concedes the novel analogy "limps" here: Tolkien's characters have no fre
 
 | Type | Examples | Barron's answer | Difficulty |
 | --- | --- | --- | --- |
-| **Moral evil** |  | God wants lovers, not marionettes; freedom includes the possibility of abused freedom | "Relatively easy" |
+| **Moral evil** | Hitler, Stalin, the person who wronged you, your own sin | God wants lovers, not marionettes; freedom includes the possibility of abused freedom | "Relatively easy" |
 | **Physical evil** | The granddaughters' disease, an earthquake killing thousands, a child's death | God permits it for a good that would not otherwise obtain, which we sometimes see and often cannot | "The really hard one" |
 
 - Sometimes we can see the good: the lost job that led to a better one, the breakup that preceded the right marriage, the illness that opened a new vision. "Can we always see it? I can't." ✅
@@ -105,7 +105,7 @@ Asked about Paul Tillich (modern liberal) versus Aquinas (classical): both use o
 - 🔴 "Christians never faced the problem of evil": Job and Karamazov are its two greatest texts (Barron's claim).
 
 ## Practical Takeaway
-(2) Treat "coincidences" as invitations to look for providence, while not pretending to know the plot. (3) Measure freedom by how easily you reach the good, not by how many options you keep open. (4) With a suffering person, imitate Job's friends' first week (silence and presence), not their speeches.
+(1) When thinking about God and your own choices, picture author and novel, not two competitors on one stage. (2) Treat "coincidences" as invitations to look for providence, while not pretending to know the plot. (3) Measure freedom by how easily you reach the good, not by how many options you keep open. (4) With a suffering person, imitate Job's friends' first week (silence and presence), not their speeches.
 
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given Barron's author-to-novel metaphor, why does God's total providence not make him "one cause among many"?**
@@ -114,13 +114,19 @@ B. \* Because, like an author, God is responsible for every detail while not app
 C. Because God controls only the main plot and leaves the subplots to chance
 *Why B: Tolkien and Dickens are responsible for every comma yet nowhere in the story; Barron uses this, plus the square and cube, to show non-competitive causality.*
 
-**2. Given Aquinas's reply to the objection from evil in *utrum Deus sit*, which statement fits his position?**
+**2. Given Pinckaers' distinction as Barron presents it, which is an example of growing in "freedom for excellence"?**
+A. Keeping every option open so no commitment limits future choices
+B. Inventing your own grammar so no rules constrain your speech
+C. \* Internalizing the rules of the piano until playing well becomes second nature
+*Why C: classical freedom is the ordering of desire so the good becomes first possible and then effortless, like Barron's fluent English versus his struggling French.*
+
+**3. Given Aquinas's reply to the objection from evil in *utrum Deus sit*, which statement fits his position?**
 A. \* God permits evil only because his omnipotence and goodness can bring a good out of it that could not otherwise be achieved
 B. Evil is a real substance God created to test human beings
 C. Evil proves God is good but not omnipotent
 *Why A: Thomas, following Augustine, says the highest good would not allow evil in his works unless he could bring good even out of evil; evil itself is a privation, not a created substance.*
 
-**3. Given Barron's reading of the Book of Job, what is God's strategy in the whirlwind speech?**
+**4. Given Barron's reading of the Book of Job, what is God's strategy in the whirlwind speech?**
 A. He explains the privation theory of evil to Job in detail
 B. \* He breaks Job's narrow focus by showing him the vastness of creation, implying Job is part of a story infinitely larger than his chapter
 C. He confirms the friends' view that Job's suffering is punishment for hidden sin

@@ -42,7 +42,7 @@ Barron admite que aquí la analogía de la novela "cojea": los personajes de Tol
 |  | Libertad de indiferencia (moderna) | Libertad para la excelencia (clásica, Tomás) |
 | --- | --- | --- |
 | Definición | Capacidad de elegir sí o no sin coacción, exterior o interior | Ordenamiento del deseo de modo que alcanzar el bien se vuelva primero posible y luego natural, sin esfuerzo |
-| Imagen |  | Un hablante fluido de inglés; un pianista que ha interiorizado las reglas |
+| Imagen | "Inventa tu propio idioma" | Un hablante fluido de inglés; un pianista que ha interiorizado las reglas |
 | Crecer significa | Más opciones | Menos distracciones y apegos entre tú y el bien |
 | Fuente | Barron toma los términos del dominico Servais Pinckaers |  |
 
@@ -68,7 +68,7 @@ Barron admite que aquí la analogía de la novela "cojea": los personajes de Tol
 
 | Tipo | Ejemplos | Respuesta de Barron | Dificultad |
 | --- | --- | --- | --- |
-| **Mal moral** |  | Dios quiere amantes, no marionetas; la libertad incluye la posibilidad de una libertad mal usada | "Relativamente fácil" |
+| **Mal moral** | Hitler, Stalin, la persona que te hizo daño, tu propio pecado | Dios quiere amantes, no marionetas; la libertad incluye la posibilidad de una libertad mal usada | "Relativamente fácil" |
 | **Mal físico** | La enfermedad de las nietas, un terremoto que mata a miles, la muerte de un niño | Dios lo permite por un bien que de otro modo no se daría, que a veces vemos y a menudo no | "El realmente difícil" |
 
 - A veces podemos ver el bien: el empleo perdido que llevó a uno mejor, la ruptura que precedió al matrimonio adecuado, la enfermedad que abrió una nueva visión. "¿Podemos verlo siempre? Yo no puedo". ✅
@@ -105,7 +105,7 @@ Preguntado por Paul Tillich (liberal moderno) frente a Tomás (clásico): ambos 
 - 🔴 "Los cristianos nunca enfrentaron el problema del mal": Job y Karamázov son sus dos mayores textos (afirmación de Barron).
 
 ## Aplicación práctica
-(2) Toma las "coincidencias" como invitaciones a buscar la providencia, sin pretender conocer la trama. (3) Mide la libertad por la facilidad con que alcanzas el bien, no por cuántas opciones mantienes abiertas. (4) Con una persona que sufre, imita la primera semana de los amigos de Job (silencio y presencia), no sus discursos.
+(1) Al pensar en Dios y en tus propias decisiones, imagina al autor y la novela, no a dos competidores en un mismo escenario. (2) Toma las "coincidencias" como invitaciones a buscar la providencia, sin pretender conocer la trama. (3) Mide la libertad por la facilidad con que alcanzas el bien, no por cuántas opciones mantienes abiertas. (4) Con una persona que sufre, imita la primera semana de los amigos de Job (silencio y presencia), no sus discursos.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dada la metáfora del autor y la novela de Barron, ¿por qué la providencia total de Dios no lo convierte en "una causa entre muchas"?**
@@ -114,13 +114,19 @@ B. \* Porque, como un autor, Dios es responsable de cada detalle sin aparecer co
 C. Porque Dios controla solo la trama principal y deja las subtramas al azar
 *Por qué B: Tolkien y Dickens son responsables de cada coma y, sin embargo, no están en ninguna parte de la historia; Barron usa esto, junto con el cuadrado y el cubo, para mostrar la causalidad no competitiva.*
 
-**2. Dada la respuesta de Tomás a la objeción del mal en *utrum Deus sit*, ¿qué afirmación concuerda con su posición?**
+**2. Dada la distinción de Pinckaers tal como la presenta Barron, ¿cuál es un ejemplo de crecer en la "libertad para la excelencia"?**
+A. Mantener abiertas todas las opciones para que ningún compromiso limite las elecciones futuras
+B. Inventar tu propia gramática para que ninguna regla limite tu forma de hablar
+C. \* Interiorizar las reglas del piano hasta que tocar bien se vuelva una segunda naturaleza
+*Por qué C: la libertad clásica es el ordenamiento del deseo de modo que el bien se vuelva primero posible y luego natural, como el inglés fluido de Barron frente a su francés vacilante.*
+
+**3. Dada la respuesta de Tomás a la objeción del mal en *utrum Deus sit*, ¿qué afirmación concuerda con su posición?**
 A. \* Dios permite el mal solo porque su omnipotencia y su bondad pueden sacar de él un bien que de otro modo no podría alcanzarse
 B. El mal es una sustancia real que Dios creó para poner a prueba a los seres humanos
 C. El mal prueba que Dios es bueno pero no omnipotente
 *Por qué A: Tomás, siguiendo a Agustín, dice que el sumo bien no permitiría el mal en sus obras si no pudiera sacar bien incluso del mal; el mal en sí es una privación, no una sustancia creada.*
 
-**3. Dada la lectura de Barron del Libro de Job, ¿cuál es la estrategia de Dios en el discurso desde el torbellino?**
+**4. Dada la lectura de Barron del Libro de Job, ¿cuál es la estrategia de Dios en el discurso desde el torbellino?**
 A. Le explica a Job en detalle la teoría del mal como privación
 B. \* Rompe la mirada estrecha de Job mostrándole la inmensidad de la creación, dando a entender que Job es parte de una historia infinitamente más grande que su capítulo
 C. Confirma la opinión de los amigos de que el sufrimiento de Job es castigo por un pecado oculto
