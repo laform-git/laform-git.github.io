@@ -60,7 +60,7 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 - **Sigmamycin** (Pfizer) fue la primera **combinación de antibióticos en dosis fija** aprobada por la FDA: dos partes de tetraciclina y una de oleandomicina (un pariente débil de la eritromicina). ✅
 - El anuncio prometía "un control superior de las enfermedades infecciosas mediante un control superior de la población microbiana cambiante", sin ningún estudio que lo respaldara. Welch, siendo jefe de antibióticos de la FDA, dio una conferencia magistral en la que la llamó la **"tercera ola"** de los antibióticos. ✅
 - En 1960 un escritor del *Saturday Evening Post* (Lear) vio un folleto con el aval de ocho médicos, con direcciones, números de teléfono y horarios de consulta. Ninguno de los números funcionaba y las cartas volvían sin entregar: **los médicos eran ficticios**. ✅
-- Arthur Sackler, citado ante el Congreso, culpó a "un redactor publicitario demasiado entusiasta de Pfizer" y eludío su responsabilidad. Posner lo llama el "titiritero" que editaba cada anuncio. 🟡
+- Arthur Sackler, citado ante el Congreso, culpó a "un redactor publicitario demasiado entusiasta de Pfizer" y eludió su responsabilidad. Posner lo llama el "titiritero" que editaba cada anuncio. 🟡
 - Era legal por un **vacío legal de la FTC**: los anuncios dirigidos a médicos estaban exentos de supervisión, bajo la teoría de que los médicos no caerían en la desinformación. El episodio de los médicos falsos demostró que sí caían. ✅
 
 ## Evidencia de precios de las audiencias
@@ -93,7 +93,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 ## La talidomida — "Al rescate"
 - La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅
 - **Frances Kelsey**, una nueva revisora médica de la FDA y una de las pocas mujeres allí, dudó de los estudios europeos. Bajo la **regla de los 60 días**, una solicitud sin respuesta en 60 días quedaba aprobada automáticamente, así que ella siguió declarando incompleta la documentación y pidiendo más datos. ✅
-- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivío el proyecto estancado. ✅
+- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivió el proyecto estancado. ✅
 - El patrón refleja el de 1937: el Elixir Sulfanilamida mató a 107 personas y dio origen a la ley de 1938. ✅
 
 ## Las Enmiendas Kefauver-Harris de 1962 — Siete cambios
