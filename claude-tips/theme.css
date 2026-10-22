@@ -1,7 +1,9 @@
 .thm{display:flex;justify-content:flex-end;margin:0 2px 10px}
 .thm button{font:600 14px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;padding:8px 14px;border:2px solid #CBD5E1;background:#fff;color:#334155;cursor:pointer}
 .thm button:first-child{border-radius:999px 0 0 999px;border-right:none}.thm button:last-child{border-radius:0 999px 999px 0}
-.thm button[aria-pressed="true"]{background:#141B2D;border-color:#141B2D;color:#fff}
+.thm button[aria-pressed="true"]{background:#F97316;border-color:#F97316;color:#fff}
+html:not(.dark) body{background:#ffffff}
+html:not(.dark) .card,html:not(.dark) .g,html:not(.dark) .pn a{border-color:#E5E7EB}
 @media print{.thm{display:none}}
 html.dark{color-scheme:dark}
 html.dark body{background:#1c1d1f;color:#e6e7e9}
@@ -27,7 +29,7 @@ html.dark .chats{border-left-color:#4a4f57}
 html.dark [style*="background:#F5F3FF"]{background:#251d3a!important}
 html.dark [style*="background:#F0FDF4"]{background:#15291d!important}
 html.dark .thm button{background:#26282b;border-color:#4a4f57;color:#c3cad5}
-html.dark .thm button[aria-pressed="true"]{background:#e6e7e9;border-color:#e6e7e9;color:#1c1d1f}
+html.dark .thm button[aria-pressed="true"]{background:#F97316;border-color:#F97316;color:#fff}
 html.dark [style*="color:#15803D"]{color:#7ad694!important}
 html.dark [style*="color:#6D28D9"]{color:#c4a8ff!important}
 html.dark .proj h3{filter:brightness(1.6)}

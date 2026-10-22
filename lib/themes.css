@@ -1,0 +1,58 @@
+/* Reading themes (trial: christianity-and-islam). data-skin = sepia | dark | clean | obs ; data-obs = light | dark */
+:root[data-skin]{--serif:"Literata",Georgia,"Iowan Old Style","Times New Roman",serif}
+/* 1. Sepia (Kindle-like) */
+:root[data-skin="sepia"]{--bg:#f4ecd8;--surface:#f8f1e1;--ink:#4a4036;--muted:#857563;--rule:#e2d5b8;--accent:#8b5a2b;--accent-soft:#ecdcbc;--gold:#b08a4a;--body:var(--serif);color-scheme:light}
+:root[data-skin="sepia"] .card,:root[data-skin="sepia"] .seccard{--frame:#c9b48c;background:transparent;border:0;border-top:1px solid var(--rule);border-radius:0;padding:26px 0 8px}
+:root[data-skin="sepia"] .card.intro{border-top:0}
+/* 2. Dark (night) */
+:root[data-skin="dark"]{--bg:#181716;--surface:#211f1d;--ink:#d9d3c8;--muted:#9a9286;--rule:#33302c;--accent:#d6a35c;--accent-soft:#3a2f20;--gold:#c99a52;--body:var(--serif);color-scheme:dark}
+:root[data-skin="dark"] .card,:root[data-skin="dark"] .seccard{--frame:#4a443c;background:transparent;border:0;border-top:1px solid var(--rule);border-radius:0;padding:26px 0 8px}
+:root[data-skin="dark"] .card.intro{border-top:0}
+/* 3. Clean minimal (Medium/Notion) */
+:root[data-skin="clean"]{--bg:#ffffff;--surface:#ffffff;--ink:#292929;--muted:#6b6b6b;--rule:#ececec;--accent:#1a8917;--accent-soft:#eef7ee;--gold:#c8c8c8;--body:var(--serif);color-scheme:light}
+:root[data-skin="clean"] .card,:root[data-skin="clean"] .seccard{--frame:#292929;background:transparent;border:0;border-radius:0;padding:18px 0 4px}
+/* shared book typography for sepia/dark/clean */
+:root[data-skin="sepia"] article.note,:root[data-skin="dark"] article.note,:root[data-skin="clean"] article.note{line-height:1.8;max-width:680px}
+:root[data-skin="sepia"] article.note p,:root[data-skin="dark"] article.note p,:root[data-skin="clean"] article.note p,
+:root[data-skin="sepia"] article.note li,:root[data-skin="dark"] article.note li,:root[data-skin="clean"] article.note li{margin-bottom:12px}
+:root[data-skin="sepia"] article.note h1.nt,:root[data-skin="dark"] article.note h1.nt,:root[data-skin="clean"] article.note h1.nt,
+:root[data-skin="sepia"] .hero h1,:root[data-skin="dark"] .hero h1,:root[data-skin="clean"] .hero h1,
+:root[data-skin="sepia"] article.note h2,:root[data-skin="dark"] article.note h2,:root[data-skin="clean"] article.note h2,
+:root[data-skin="sepia"] article.note h3,:root[data-skin="dark"] article.note h3,:root[data-skin="clean"] article.note h3,
+:root[data-skin="sepia"] .seccard h2,:root[data-skin="dark"] .seccard h2,:root[data-skin="clean"] .seccard h2{font-family:var(--serif);font-weight:700;letter-spacing:0;color:var(--ink)}
+:root[data-skin="sepia"] article.note h2,:root[data-skin="dark"] article.note h2,:root[data-skin="clean"] article.note h2{border-bottom:0;padding-bottom:0;margin-bottom:12px}
+:root[data-skin="clean"] article.note{max-width:700px}
+:root[data-skin="clean"] .layout{gap:72px}
+/* 4. Obsidian */
+:root[data-skin="obs"]{--bg:#ffffff;--surface:#ffffff;--side:#f6f6f6;--ink:#222222;--muted:#5c5c5c;--rule:#e0e0e0;--accent:#7c5ce6;--accent-soft:#efeafd;--gold:#7c5ce6;--body:-apple-system,BlinkMacSystemFont,"Inter","Segoe UI",Roboto,sans-serif;color-scheme:light}
+:root[data-skin="obs"][data-obs="dark"]{--bg:#1e1e1e;--surface:#1e1e1e;--side:#262626;--ink:#dadada;--muted:#999999;--rule:#363636;--accent:#a68af9;--accent-soft:#2f2945;--gold:#a68af9;color-scheme:dark}
+:root[data-skin="obs"] .card,:root[data-skin="obs"] .seccard{--frame:var(--ink);background:transparent;border:0;border-radius:0;padding:6px 0 4px}
+:root[data-skin="obs"] article.note h1.nt,:root[data-skin="obs"] article.note h2,:root[data-skin="obs"] article.note h3,:root[data-skin="obs"] .hero h1,:root[data-skin="obs"] .seccard h2{font-family:var(--body);color:var(--ink);border-bottom:0;letter-spacing:-.01em}
+:root[data-skin="obs"] article.note{line-height:1.65}
+:root[data-skin="obs"] article.note a,:root[data-skin="obs"] .seccard a{color:var(--accent);text-decoration:none}
+:root[data-skin="obs"] article.note blockquote{border-left-color:var(--accent)}
+.vault{display:none}
+@media (min-width:981px){
+ :root[data-skin="obs"] body{padding-left:296px}
+ :root[data-skin="obs"] .vault{display:block;position:fixed;top:0;left:0;bottom:0;width:272px;background:var(--side);border-right:1px solid var(--rule);overflow:auto;padding:16px 10px 120px;font:400 14px/1.35 var(--body);z-index:40}
+ :root[data-skin="obs"] .layout{grid-template-columns:minmax(0,760px) 220px;gap:40px}
+ :root[data-skin="obs"] .toc{order:2;padding-top:34px}
+ :root[data-skin="obs"] .toc ol{border-left:0}
+ :root[data-skin="obs"] .fsctl{left:auto!important;right:16px!important}
+}
+.vault .vh{font:600 11px/1 var(--body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:6px 8px 12px}
+.vault details{margin:2px 0}.vault summary{cursor:pointer;list-style:none;padding:5px 8px;border-radius:5px;color:var(--ink);font-weight:600}
+.vault summary::before{content:"▾ ";color:var(--muted)}.vault details:not([open]) summary::before{content:"▸ "}
+.vault summary:hover,.vault a:hover{background:var(--accent-soft)}
+.vault a{display:block;padding:4px 8px 4px 22px;border-radius:5px;color:var(--muted);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.vault a.on{background:var(--accent-soft);color:var(--ink);font-weight:600}
+/* theme toggle (like EN/ES switch) */
+.thembar{display:flex;justify-content:flex-end;align-items:center;gap:8px;max-width:1120px;margin:0 auto;padding:10px 0 0;flex-wrap:wrap}
+.thembar .seg{display:inline-flex;border:1.5px solid var(--accent);border-radius:999px;overflow:hidden;font:700 12px/1 var(--display)}
+.thembar button{font:inherit;cursor:pointer;border:0;background:var(--surface);color:var(--accent);padding:7px 12px;min-height:32px;touch-action:manipulation}
+.thembar .seg button+button{border-left:1px solid var(--accent-soft)}
+.thembar button[aria-pressed="true"]{background:var(--accent);color:var(--surface)}
+.thembar .mode{border:1.5px solid var(--accent);border-radius:999px;font:700 13px/1 var(--display);padding:6px 11px}
+@media (max-width:520px){.thembar{justify-content:center}.thembar button{padding:7px 9px}}
+.thembar [hidden]{display:none!important}
+.toc:not(:has(li)) .eyebrow{display:none}

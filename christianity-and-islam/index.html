@@ -5,9 +5,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../lib/book.css">
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../lib/themes.css">
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 </head><body><div class="wrap"><div id="view"><p class="loading">Loading…</p></div>
 <footer class="site">Study notes. Not medical advice.</footer></div>
+<script src="../lib/themes.js"></script>
 <script src="../lib/book.js"></script>
 <!--reader--><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
 <style>:root{--body:"Atkinson Hyperlegible",-apple-system,"Segoe UI",system-ui,sans-serif}body{font-family:var(--body);font-size:19px;line-height:1.6}article.note{font-size:19px}article.note li{margin:6px 0}.site .s,.course .s,.chcard .s,.seccard p{font-size:17px}</style>
@@ -30,7 +33,7 @@ var playing=false,q=[],n=0,cur=null;function mark(el){if(cur)cur.classList.remov
 var JUNK=/Albert|Bad News|Bahh|Bells|Boing|Bubbles|Cellos|Good News|Jester|Organ|Superstar|Trinoids|Whisper|Wobble|Zarvox|Junior|Ralph|Fred|Kathy|Grandma|Grandpa|Eddy|Flo|Reed|Rocko|Sandy|Shelley/i,sel=document.querySelector(".fsctl .vsel");
 function list(){return ss.getVoices().filter(function(v){return /^(en|es)([-_]|$)/i.test(v.lang)&&!/Siri/i.test(v.name)&&!JUNK.test(v.name)})}
 function rank(v){var x=v.name+" "+(v.voiceURI||"");return /Premium/i.test(x)?0:/Enhanced|Natural|Neural|Online/i.test(x)?1:/Google/i.test(x)?2:3}
-var FEM=/Allison|Ava|Samantha|Susan|Victoria|Zoe|Nicky|Joelle|Noelle|Siri Female|Aria|Jenny|Michelle|Emma|Ana\b|Sara|Nancy|Jane|Elizabeth|Google US English|Paulina|M\u00f3nica|Monica|Marisol|Ang\u00e9lica|Angelica|Soledad|Isabela|Elvira|Dalia|Paloma|Salome|Helena|Laura/i;function us(v){return /^en[-_]US/i.test(v.lang)?0:/^en/i.test(v.lang)?1:2}function fem(v){return FEM.test(v.name)?0:1}
+var FEM=/Allison|Ava|Samantha|Susan|Victoria|Zoe|Nicky|Joelle|Noelle|Siri Female|Aria|Jenny|Michelle|Emma|Ana\b|Sara|Nancy|Jane|Elizabeth|Google US English|Paulina|Mónica|Monica|Marisol|Angélica|Angelica|Soledad|Isabela|Elvira|Dalia|Paloma|Salome|Helena|Laura/i;function us(v){return /^en[-_]US/i.test(v.lang)?0:/^en/i.test(v.lang)?1:2}function fem(v){return FEM.test(v.name)?0:1}
 function fill(){if(!sel)return;var vs=list().sort(function(a,b){return us(a)-us(b)||fem(a)-fem(b)||rank(a)-rank(b)||a.name.localeCompare(b.name)});var cur="";try{cur=localStorage.getItem("voice")||""}catch(e){}sel.innerHTML='<option value="">'+'Voice'+'</option>'+vs.map(function(v){return '<option value="'+v.voiceURI.replace(/"/g,"&quot;")+'"'+(v.voiceURI===cur?" selected":"")+'>'+v.name.replace(/</g,"")+(fem(v)?"":" ♀")+(rank(v)<2?" ★":"")+' ('+v.lang+')</option>'}).join("")+'<option value="" disabled>More voices: Settings › Accessibility › Spoken Content › Voices</option>'}
 fill();if(ss.addEventListener)ss.addEventListener("voiceschanged",fill);else ss.onvoiceschanged=fill;
 if(sel)sel.addEventListener("change",function(){try{localStorage.setItem("voice",sel.value)}catch(e){}stop();var v=voice();if(v){var u=new SpeechSynthesisUtterance("This is the "+v.name.split(" (")[0]+" voice.");u.voice=v;u.lang=v.lang;ss.speak(u)}});
