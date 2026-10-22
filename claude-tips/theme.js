@@ -1,0 +1,4 @@
+(function(){var r=document.documentElement,k="ct-theme",t="light";try{t=localStorage.getItem(k)||"light"}catch(e){}if(t==="dark")r.classList.add("dark");
+function bar(){if(document.querySelector(".thm"))return;var w=document.querySelector(".wrap");if(!w)return;var d=document.createElement("div");d.className="thm";d.setAttribute("role","group");d.setAttribute("aria-label","Theme");
+[["light","☀ Light"],["dark","☾ Dark"]].forEach(function(o){var b=document.createElement("button");b.type="button";b.textContent=o[1];b.setAttribute("aria-pressed",String(r.classList.contains("dark")===(o[0]==="dark")));b.onclick=function(){r.classList.toggle("dark",o[0]==="dark");try{localStorage.setItem(k,o[0])}catch(e){}d.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-pressed",String(x===b))})};d.appendChild(b)});w.insertBefore(d,w.firstChild)}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",bar);else bar()})();
