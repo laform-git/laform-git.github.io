@@ -1,0 +1,90 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-06 Projects, Chats and the Log · Claude Tips</title><link rel="stylesheet" href="style.css">
+<style>
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.proj{border:2px solid;border-radius:14px;padding:12px}
+.proj h3{margin:0;font-size:19px}
+.proj .sub{margin:2px 0 0;font-size:15px;color:#4B5563}
+.ins{border:2px dashed;border-radius:12px;padding:10px 12px;margin:10px 0;background:#fff}
+.ins b{display:block;margin-bottom:4px;font-size:16px}
+.ins p{margin:2px 0;font-size:15px;color:#374151}
+.chats{display:grid;gap:6px;margin-left:10px;border-left:3px solid #CBD5E1;padding-left:10px}
+.chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.acct{text-align:center;border:2px solid #64748B;background:#F1F5F9;border-radius:14px;padding:10px;margin-bottom:12px}
+.acct h3{margin:0;font-size:19px;color:#334155}
+.dn{text-align:center;font-size:24px;font-weight:700;color:#64748B;line-height:1.2;margin:4px 0}
+.lg{border:2px solid #EA580C;background:#FFF7ED;border-radius:12px;padding:10px 12px;text-align:center}
+.lg b{display:block;color:#C2410C;font-size:16px}
+.lg span{font-size:15px;color:#374151}
+.quote{font-family:Menlo,Consolas,monospace;font-size:15px;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:12px 14px;margin:10px 0 0;color:#1F2937}
+.pg2{break-before:page}
+@media (max-width:640px){.cols{grid-template-columns:1fr}}
+</style></head><body><div class="wrap">
+<div class="top"><a href='index.html'>← All guides</a><span>Guide 5</span><span></span></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-06</div><h1>Projects, Chats and the Log</h1><p>How to organize Claude so every chat already knows what you need.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">Projects hold chats</div><div class="cb">
+<div class="acct"><h3>Your Claude account</h3></div>
+<div class="cols">
+<div class="proj" style="border-color:#16A34A;background:#F0FDF4"><h3 style="color:#15803D">Project: Personal</h3><p class="sub">Instructions and files</p>
+<div class="ins" style="border-color:#16A34A"><b>Sample instructions</b><p>1. Read the shared log first.</p><p>2. Add one line when you finish.</p><p>3. Log lives in Dropbox/Personal.</p></div>
+<div class="chats"><div class="chip">Health</div><div class="chip">Finance</div><div class="chip">Legal</div><div class="chip">Education</div><div class="chip">Home projects</div><div class="chip">Travel</div><div class="chip">Family</div></div></div>
+<div class="proj" style="border-color:#7C3AED;background:#F5F3FF"><h3 style="color:#6D28D9">Project: Business</h3><p class="sub">Instructions and files</p>
+<div class="ins" style="border-color:#7C3AED"><b>Sample instructions</b><p>1. Read the shared log first.</p><p>2. Add one line when you finish.</p><p>3. Log lives in Dropbox/Business.</p></div>
+<div class="chats"><div class="chip">Product research</div><div class="chip">Proposals and invoices</div><div class="chip">Emails</div><div class="chip">Personal assistant</div><div class="chip">Marketing</div><div class="chip">Customer support</div></div></div>
+</div>
+<p class="cap">One topic per chat. Everything in the project's instructions is shared with every chat inside it.</p>
+</div></div>
+
+<div class="card"><div class="ch orange">Two ways to share what you know</div><div class="cb">
+<div class="row">
+<div class="box blue"><h3>Fixed instructions</h3><p>Written once, never changes.</p>
+<div class="ins" style="border-color:#2563EB"><b>Inside the project</b><p>I have a bad knee.</p><p>Use our invoice format.</p><p>Keep answers short.</p></div>
+<div class="dn">↓</div>
+<div class="chip">All chats read the rules each time</div>
+<div class="ins" style="border-color:#64748B;margin-bottom:0"><b>To change it</b><p>You edit it by hand.</p></div></div>
+<div class="box amb"><h3>Router to a log</h3><p>Memory that keeps growing.</p>
+<div class="ins" style="border-color:#D97706"><b>Inside the project</b><p>One router line:</p><p>Read the Dropbox log first,</p><p>then add a dated note.</p></div>
+<div class="dn">↓</div>
+<div class="lg"><b>Dropbox log (outside)</b><span>Grows with every chat</span></div>
+<div class="dn">↕</div>
+<div class="chip">All chats read and write the log</div></div>
+</div>
+</div></div>
+
+<div class="pg2"></div>
+<div class="card"><div class="ch green">Why use projects?</div><div class="cb">
+<div class="row">
+<div class="box rd"><h3>A chat by itself</h3>
+<ul class="list"><li>A new chat starts blank</li><li>You explain your situation again</li><li>Nothing is shared with other chats</li></ul></div>
+<div class="arrow">→</div>
+<div class="box grn"><h3>A chat in a project</h3>
+<ul class="list"><li>Reads the project's instructions and files first</li><li>Already knows your situation</li><li>Same rules in every chat</li></ul></div>
+</div>
+<p class="cap">Example: put "I have a bad knee" in the Personal project once, and every chat in it knows. Put your invoice format in Business once, and every chat there uses it.</p>
+</div></div>
+
+<div class="card"><div class="ch navy">Instructions or a log?</div><div class="cb">
+<div class="row">
+<div class="box blue"><h3>Project instructions</h3><p>The fixed rulebook. You write it, and it stays the same until you change it.</p></div>
+<div class="box amb"><h3>Dropbox log</h3><p>The evolving memory. Chats read it and add to it, so one chat can see what another did.</p></div>
+</div>
+<p class="cap"><b>How to wire it:</b> the log lives in Dropbox, not in the project. The project only holds one router line that points to it. Put this in the project's instructions:</p>
+<div class="quote">Before answering, read the file "Personal Log" in my Dropbox folder. When we finish, add a dated entry that summarizes what we did.</div>
+<p class="cap">This works when Claude can reach your Dropbox (connector turned on). If it can't save to the file, ask it for the entry and paste it into the log yourself.</p>
+</div></div>
+
+<div class="card"><div class="ch red">Warning: don't mix topics in one chat</div><div class="cb">
+<div class="row">
+<div class="box rd"><h3>One chat for everything</h3>
+<ul class="list"><li>Knee pain, then an invoice, then a recipe</li><li>Claude's attention spreads across unrelated history</li><li>Answers get vaguer and pull in details that don't belong</li><li>You can't find it later: searching "invoice" returns a grab-bag</li></ul></div>
+<div class="arrow">→</div>
+<div class="box grn"><h3>One topic per chat</h3>
+<ul class="list"><li>Focused answers</li><li>Easy to find by name or search</li><li>Lives in the right project</li></ul></div>
+</div>
+</div></div>
+
+<div class="rem"><div class="k">REMEMBER</div><div class="m">One topic per chat. Rules in the project. Memory in the log.</div></div>
+<div class="pn"><a href='claude-05.html'><small>← Previous</small>Project Instructions and Notion</a><a class='next' href='index.html'><small>Done →</small>All guides</a></div>
+<div class="foot">Claude Tips · Claude-06</div></div></body></html>
