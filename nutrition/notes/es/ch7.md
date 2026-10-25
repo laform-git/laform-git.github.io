@@ -1,6 +1,6 @@
 # Lugavere — Introducción a la nutrición, Cap. 7: Alimentos geniales
 
-*Define la salud metabólica a través de los cinco componentes del síndrome, sostiene que el ejercicio (sobre todo el entrenamiento de fuerza) corrige los cinco y luego enumera las categorías de "alimentos geniales" que conviene comprar en bucle.*
+*Define la salud metabólica a través de los cinco componentes del síndrome, sostiene que el ejercicio (sobre todo el entrenamiento de fuerza) corrige los cinco y luego enumera las categorías de "alimentos geniales" que conviene comprar una y otra vez.*
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 7 (transcripción, subtítulo "Achieving Antifragility"). Se apoya en el material sobre la dieta MIND, la hormesis, la matriz alimentaria y el colesterol de lecciones anteriores de este curso.*
 
@@ -46,7 +46,7 @@ Lugavere cita que **el 93% de los adultos de EE. UU. tiene algún tipo de anomal
 | **Aguacates** | La mayor proporción de antioxidantes liposolubles de cualquier fruta o verdura (luteína, zeaxantina, todas las formas de vitamina E), grasa monoinsaturada, fibra, saciantes; un aguacate mediano tiene alrededor del doble de potasio que un plátano. | El potasio y el sodio actúan en conjunto sobre la presión arterial; consumir poco potasio es parte del problema, así que "el sodio es el villano" no es todo el panorama. |
 
 ## El estudio de Tufts — Por qué una lista
-Un estudio de la Universidad Tufts encontró que quienes seguían el "de todo con moderación" lo usaban como excusa para comer más alimentos poco saludables: entre quienes seguían la dieta estadounidense estándar, **más diversidad dietética significaba más golosinas y bebidas azucaradas**. Las personas más sanas compraban una **gama más reducida de alimentos, en bucle**. Así que: compra estos en bucle, ten a mano especias, sal, pimienta y ajo, y adorna alrededor de ellos. Todos son accesibles y se consiguen en Costco o Walmart. ✅ (según lo reporta Lugavere; el estudio no se verificó de forma independiente)
+Un estudio de la Universidad Tufts encontró que quienes seguían el "de todo con moderación" lo usaban como excusa para comer más alimentos poco saludables: entre quienes seguían la dieta estadounidense estándar, **más diversidad dietética significaba más dulces y bebidas azucaradas**. Las personas más sanas compraban una **gama más reducida de alimentos, siempre los mismos**. Así que: compra estos una y otra vez, ten a mano especias, sal, pimienta y ajo, y adorna alrededor de ellos. Todos son accesibles y se consiguen en Costco o Walmart. ✅ (según lo reporta Lugavere; el estudio no se verificó de forma independiente)
 
 ## Frases clave y datos citables (Lección 7)
 - **"El 93% de los adultos tiene algún tipo de anomalía metabólica."** — la alarma inicial.
@@ -55,7 +55,7 @@ Un estudio de la Universidad Tufts encontró que quienes seguían el "de todo co
 - **"Superalimentos no tiene ningún significado científico"** — y tampoco "alimentos geniales"; ambos son heurísticas.
 - **Una yema de huevo "contiene todo lo que la naturaleza consideró importante para formar un cerebro."**
 - **Un aguacate mediano tiene alrededor del doble de potasio que un plátano.**
-- **Quienes comen más sano compran una gama más reducida de alimentos, en bucle** (Tufts).
+- **Quienes comen más sano compran una gama más reducida de alimentos, siempre los mismos** (Tufts).
 
 ## Correcciones clave para recordar
 - 🔴 "El HDL es el colesterol bueno, súbelo." Los fármacos que elevaron el HDL no mejoraron los desenlaces; tómalo como marcador de salud, no como objetivo.
@@ -90,7 +90,7 @@ C. Reemplazan la necesidad de hacer cualquier ejercicio
 **4. ¿Qué sugirió el estudio de Tufts sobre "come de todo con moderación" y qué hizo Lugavere en respuesta?**
 A. La moderación produjo las dietas más sanas, así que la mantuvo
 B. La variedad dietética siempre significó más verduras
-C. \* En una población con dieta estadounidense estándar, más variedad significó más dulces y bebidas azucaradas, mientras que las personas más sanas compraban un conjunto reducido de alimentos en bucle; él acuñó la lista de alimentos geniales como un carrito repetible
+C. \* En una población con dieta estadounidense estándar, más variedad significó más dulces y bebidas azucaradas, mientras que las personas más sanas compraban un conjunto reducido de alimentos una y otra vez; él acuñó la lista de alimentos geniales como un carrito repetible
 *Por qué C: así es como justifica la lista.*
 
 ## Temas abiertos

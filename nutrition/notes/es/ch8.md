@@ -37,7 +37,7 @@ Esta lección explica cómo los alimentos se convierten en fisiología: las bact
 - **Evitar salvo que sea médicamente necesario:** antibióticos de amplio espectro (dice que los médicos a veces los recetan porque los pacientes esperan medicamentos). ✅
 - **Orgánico cuando comes la cáscara o la piel** (manzanas, hojas verdes, frutos rojos) para reducir la exposición a herbicidas y pesticidas; dice explícitamente que no es un purista de lo orgánico y que come frutos rojos no orgánicos en restaurantes. El glifosato podría afectar vías bacterianas intestinales; el efecto a largo plazo es desconocido. 🟡
 - **Emulsionantes sintéticos:** polisorbato 80 y carboximetilcelulosa, presentes en bebidas vegetales de frutos secos y helados; investigación preliminar, sobre todo en animales, sugiere inflamación intestinal. 🟡 "La dosis hace el veneno."
-- **Aumenta la fibra poco a poco.** La hinchazón y los gases tras un salto repentino significan que las bacterias aún no se han cultivado, no que la fibra sea el enemigo. ✅
+- **Aumenta la fibra poco a poco.** La hinchazón y los gases tras un salto repentino significan que las bacterias aún no se han adaptado, no que la fibra sea el enemigo. ✅
 
 ## El mapa de la fibra
 
@@ -73,7 +73,7 @@ Esta lección explica cómo los alimentos se convierten en fisiología: las bact
 | Vitamina D | Una hormona que regula alrededor del **5% del genoma**; evidencia de que calma un sistema inmunitario hiperactivo (autoinmunidad); **2,000–5,000 UI/día** es un buen punto de partida | 🟡 "es difícil excederse" es afirmación suya |
 | Aceite de pescado | Más útil si no comes pescado; la evidencia se centra en el aceite de pescado más que en el de kril o de algas; compra de un fabricante confiable y busca la certificación **IFOS** porque las grasas se oxidan fácilmente | 🟡 |
 | Creatina monohidratada | Segura y barata; atrae agua al músculo; ayuda al levantamiento de pesas; evidencia emergente para el cerebro y la salud mental; consulta con un médico si tienes algún problema de salud | ✅ la forma con mejor evidencia según la lección |
-| Proteína de suero (whey) | Toma uno o dos batidos al día; saciante; los aumentos graduales de proteína modifican la composición corporal | 🟡 práctica personal |
+| Proteína de suero (whey) | Él toma uno o dos batidos al día; saciante; los aumentos graduales de proteína modifican la composición corporal | 🟡 práctica personal |
 
 Repite que "no cree mucho en las soluciones universales".
 
@@ -113,7 +113,7 @@ C. Se convierten en butirato, que impide que el hígado fabrique colesterol
 
 **3. Quieres añadir más fibra y almidón resistente, pero un aumento repentino te deja hinchado y con gases. ¿Qué sugiere la lección que significa esto?**
 A. La fibra es intrínsecamente dañina y debe evitarse
-B. \* Tus bacterias intestinales no se han cultivado para esa carga; aumenta gradualmente, varía las fuentes, y los alimentos fermentados pueden ayudar a la tolerancia
+B. \* Tus bacterias intestinales todavía no están adaptadas a esa carga; aumenta gradualmente, varía las fuentes, y los alimentos fermentados pueden ayudar a la tolerancia
 C. Tienes una alergia alimentaria a las plantas
 *Por qué B: Lugavere dice que la hinchazón por un aumento repentino "no debería ocurrir" y refleja un microbioma poco entrenado, así que la solución es aumentar despacio hasta un punto cómodo.*
 
