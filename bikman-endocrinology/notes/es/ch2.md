@@ -11,7 +11,7 @@ El Cap. 1 señaló que la mayor parte de la señalización endocrina no necesita
 ## Frases clave y datos citables (Clase 2)
 - **"El hipotálamo es como el director general... la hipófisis anterior es como su mano derecha."** — la metáfora organizadora de Bikman para todo el capítulo.
 - **La diabetes insípida puede producir hasta 20 litros de orina al día** — una cifra realmente asombrosa, impulsada únicamente por la pérdida de agua (sin intervención de la glucosa), totalmente distinta de la diabetes mellitus.
-- **"Diabetes mellitus... orina con miel... diabetes insípida... no tiene sabor."** — el chiste de Bikman que retoma la etimología al estilo del Cap. 1, aclarando dos afecciones que solo comparten la palabra "diabetes".
+- **"Diabetes mellitus... orina con sabor a miel... diabetes insípida... no tiene sabor."** — el chiste de Bikman que retoma la etimología al estilo del Cap. 1, aclarando dos afecciones que solo comparten la palabra "diabetes".
 - **La prolactina es la única hormona de la hipófisis anterior a la que hay que decirle que se DETENGA, no que empiece** — todas las demás vías requieren una señal de "encendido"; la prolactina se libera por defecto a menos que la dopamina la suprima activamente.
 - **La hipófisis posterior es una extensión física literal del hipotálamo** — no una glándula separada conectada por vasos sanguíneos como la hipófisis anterior, y por eso no encaja en absoluto en el marco terciario/secundario/primario.
 - **Los tumores hipofisarios se extirpan entrando por la nariz** — debido a la ubicación de la glándula en la base del cráneo, esto es realmente menos invasivo de lo que suena.
@@ -24,7 +24,7 @@ El Cap. 1 señaló que la mayor parte de la señalización endocrina no necesita
 
 **La lógica diagnóstica central, dicha de forma sencilla:** si la hormona final está baja y la señal hipofisaria aguas arriba está **alta**, el cerebro está gritando más fuerte para intentar compensar: es un problema **primario** (la propia glándula no está escuchando). Si la hormona final está baja y la señal aguas arriba está **también baja o normal**, el cerebro no está enviando una señal adecuada en primer lugar: es un problema **secundario o terciario**. ✅
 
-**El verdadero vacío diagnóstico:** como las hormonas hipotalámicas (GnRH, TRH, CRH) no pueden medirse directamente, distinguir lo secundario (hipofisario) de lo terciario (hipotalámico) requiere una **prueba de estimulación**: infundir directamente la hormona hipotalámica y observar si la hipófisis responde. Si la hormona hipofisaria sube tras la infusión, la hipófisis estaba bien y el problema estaba aguas arriba (terciario). Si no ocurre nada incluso con estimulación directa, el problema es la propia hipófisis (secundario). ✅ Una pieza de lógica diagnóstica realmente elegante; vale la pena entenderla aunque nunca necesites la prueba.
+**El verdadero vacío diagnóstico:** como las hormonas hipotalámicas (GnRH, TRH, CRH) no pueden medirse directamente, distinguir lo secundario (hipofisario) de lo terciario (hipotalámico) requiere una **prueba de estimulación**: infundir directamente la hormona hipotalámica y observar si la hipófisis responde. Si la hormona hipofisaria sube tras la infusión, la hipófisis estaba bien y el problema estaba aguas arriba (terciario). Si no ocurre nada incluso con estimulación directa, el problema es la propia hipófisis (secundario). ✅ Una lógica diagnóstica realmente elegante; vale la pena entenderla aunque nunca necesites la prueba.
 
 ## La hipófisis posterior — Oxitocina y ADH/AVP
 - **Estructuralmente única:** una extensión física literal del hipotálamo, no una glándula separada conectada por vasos sanguíneos (a diferencia de la hipófisis anterior); por eso no encaja en absoluto en el marco terciario/secundario/primario. ✅
@@ -43,11 +43,11 @@ El Cap. 1 señaló que la mayor parte de la señalización endocrina no necesita
 
 **Diagnóstico de la diabetes insípida — un protocolo clínico realmente elegante:**
 1. **Prueba de restricción de agua (bajo supervisión):** si la orina se concentra y su volumen disminuye cuando se retiene el agua → en realidad no pasa nada; es **psicógena** (consumo compulsivo de agua, a veces ligado a una supuesta necesidad de "purgar toxinas")
-2. Si el volumen de orina sigue alto a pesar de la restricción de agua → se administra **ADH sintética (inhalada)**, elegida específicamente porque puede atravesar el techo de la boca cerca del hipotálamo
+2. Si el volumen de orina sigue alto a pesar de la restricción de agua → se administra **ADH sintética (inhalada)**, elegida específicamente porque puede atravesar el paladar cerca del hipotálamo
 3. Si la ADH sintética **resuelve** el exceso de micción → **neurogénica** (la hipófisis posterior/el hipotálamo no produce ADH, pero el riñón todavía puede responder a ella cuando se administra externamente)
 4. Si la ADH sintética **no ayuda** → **nefrogénica** (el propio riñón no puede responder a la ADH, sin importar cuánta haya)
 
-✅ Un diagnóstico diferencial limpio de tres ramas usando un único protocolo de prueba secuencial: lógica clínica realmente bien diseñada.
+✅ Un diagnóstico diferencial claro de tres ramas usando un único protocolo de prueba secuencial: lógica clínica realmente bien diseñada.
 
 ## La hipófisis anterior — Cinco líneas hormonales
 
@@ -73,7 +73,7 @@ El Cap. 1 señaló que la mayor parte de la señalización endocrina no necesita
 - **Rasgo que lo distingue de un problema glandular primario:** síntomas por efecto de masa no relacionados con la hormona en sí: dolores de cabeza y estrechamiento progresivo del campo visual, porque el tumor comprime físicamente el nervio óptico cercano ✅
 - **Tratamiento:** cirugía transesfenoidal (a través de la cavidad nasal), realmente menos invasiva de lo esperado dada la ubicación de la hipófisis en la base del cráneo ✅
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que todas las hormonas de la hipófisis anterior funcionan igual (necesitan una señal de "encendido"): la prolactina es la única excepción, se libera por defecto y requiere supresión activa (dopamina/PIF).
 - 🔴 Suponer que la diabetes insípida está relacionada con la diabetes mellitus: solo comparten la raíz griega de "micción excesiva"; hormonas, mecanismos y causas completamente distintos.
 - 🔴 Suponer que la leptina es puramente una hormona metabólica/de saciedad: también es una señal permisiva necesaria para la liberación de GnRH, que vincula directamente los ejes hormonales metabólico y reproductivo.

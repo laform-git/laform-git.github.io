@@ -35,7 +35,7 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, interviene en casi todos los pasos
 - Casi todos los tejidos (músculo, grasa, hígado, etc.) pueden realizar la **desyodación**: quitarle un yodo a la T4 para activarla localmente como T3 ✅
 - **Vía normal:** se quita el yodo de la posición 5' → T3 activa
 - **Vía alternativa:** se quita de otra posición → **T3 inversa**, estructuralmente similar pero esencialmente inactiva
-- **Especulación de Bikman (etiquetada explícitamente como especulación, no como hecho establecido) 🟡:** la producción de T3 inversa aumenta durante la inanición grave; posiblemente sea una forma de mantener el tejido tiroideo metabólicamente "vivo" sin elevar la tasa metabólica durante una verdadera escasez de energía. Él es explícito en que un científico puede abordar el "cómo" y el "qué", pero no el "por qué" (teleología) con certeza.
+- **Especulación de Bikman (etiquetada explícitamente como especulación, no como hecho establecido) 🟡:** la producción de T3 inversa aumenta durante la inanición grave; posiblemente sea una forma de mantener el tejido tiroideo metabólicamente "vivo" sin elevar la tasa metabólica durante una verdadera escasez de energía. Él deja claro que un científico puede abordar el "cómo" y el "qué", pero no el "por qué" (teleología) con certeza.
 
 ## La tabla diagnóstica TSH/T3 — Aplicación directa del marco del Cap. 2
 
@@ -71,7 +71,7 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, interviene en casi todos los pasos
 
 **Hipotiroidismo congénito (antes llamado con un término histórico ofensivo, que hoy se evita):**
 - La deficiencia tiroidea materna grave suele causar aborto espontáneo; la hormona tiroidea es así de esencial para llevar un embarazo a término ✅
-- Insuficiencia tiroidea fetal leve: **totalmente corregible si se trata en las primeras semanas de vida**; sin tratamiento, causa un daño cognitivo y del desarrollo irreversible y catastrófico ✅ Una ventana realmente crítica en el tiempo y de enorme trascendencia, que conecta directamente con el material sobre sinaptogénesis/mielinización del Cap. 1.
+- Insuficiencia tiroidea fetal leve: **totalmente corregible si se trata en las primeras semanas de vida**; sin tratamiento, causa un daño cognitivo y del desarrollo irreversible y catastrófico ✅ Una ventana de tiempo realmente crítica y de enorme trascendencia, que conecta directamente con el material sobre sinaptogénesis/mielinización del Cap. 1.
 
 ## Bocio — El tamaño por sí solo no dice nada
 
@@ -88,7 +88,7 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, interviene en casi todos los pasos
 - **Grasa parda/blanca:** eleva aún más la ya alta tasa metabólica de la grasa parda e induce el "pardeamiento" (beiging) de la grasa blanca (más mitocondrias, más desacoplamiento).
 - **Neuronas:** diferenciación de células madre en neuronas, sinaptogénesis (formación de sinapsis) y mielinización (la vaina que aumenta la velocidad de la señal); todo depende de la hormona tiroidea, lo que explica por qué la deficiencia tiroidea fetal es catastrófica e irreversible si no se trata ✅
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que un bocio (tiroides visiblemente agrandada) revela si alguien es hiper- o hipotiroideo: puede aparecer con cualquier nivel hormonal, incluido el normal; siempre se necesitan valores de laboratorio reales, no solo una evaluación visual/física.
 - 🔴 Suponer que la enfermedad de Graves funciona como otras enfermedades autoinmunes (destruyendo tejido): de forma única *estimula* la tiroides en lugar de destruirla, y por eso produce hipertiroidismo en lugar de hipotiroidismo.
 - 🔴 Suponer que la T4 es la hormona tiroidea activa "principal" porque se produce en mucha mayor cantidad: la T3 es \~100 veces más activa biológicamente; la T4 funciona principalmente como reserva/precursor que los tejidos periféricos convierten según la demanda.
@@ -105,7 +105,7 @@ C. La enfermedad de Graves y la de Hashimoto son la misma afección con nombres 
 
 **2. Dada la conexión de comorbilidad de 20 veces entre Hashimoto y la celiaquía, ¿qué sugeriría esto como un paso diagnóstico razonable si un panel tiroideo futuro mostrara resultados de hipotiroidismo?**
 A. No se justificaría ninguna prueba adicional; el hipotiroidismo debería tratarse de forma aislada sin importar la causa
-B. \* Dada la fuerte comorbilidad señalada, si un panel futuro mostrara resultados de hipotiroidismo (en particular con anticuerpos anti-TPO elevados que sugieran específicamente Hashimoto), sería razonable hablar con un médico sobre un cribado de celiaquía/sensibilidad al gluten, dada la frecuencia con que estas afecciones coexisten
+B. \* Dada la fuerte comorbilidad señalada, si un panel futuro mostrara resultados de hipotiroidismo (en particular con anticuerpos anti-TPO elevados que sugieran específicamente Hashimoto), sería razonable hablar con un médico sobre un tamizaje de celiaquía/sensibilidad al gluten, dada la frecuencia con que estas afecciones coexisten
 C. La enfermedad celíaca causa directamente una baja ingesta de yodo, y por eso ambas afecciones están conectadas
 *Por qué B: es una implicación diagnóstica real y accionable de la estadística de comorbilidad específica citada; no es una suposición de que el gluten sea intrínsecamente dañino, sino un paso razonable dado el patrón clínico señalado.*
 

@@ -11,7 +11,7 @@ La glándula suprarrenal está dividida anatómica y funcionalmente: la **cortez
 ## Frases clave y datos citables (Clase 4)
 - **"Sal, azúcar, sexo"** — la regla mnemotécnica para las tres zonas de la corteza suprarrenal (glomerular/fascicular/reticular), con el detalle añadido: "mientras más profundo vas, más dulce se pone".
 - **La aldosterona es MÁS sensible al potasio que al sodio** — porque incluso un pequeño exceso de potasio puede volverse letal rápidamente.
-- **La angiotensina II recluta a la ADH como respaldo** — una sola hormona que alcanza un sistema completamente distinto del Cap. 2 para lograr el mismo objetivo de presión arterial.
+- **La angiotensina II recluta a la ADH como respaldo** — una sola hormona que recurre a un sistema completamente distinto, visto en el Cap. 2, para lograr el mismo objetivo de presión arterial.
 - **El cortisol despoja al cuerpo de su propia sustancia — músculo, hueso — solo para producir más glucosa.**
 - **"La fatiga suprarrenal... no parece ser un fenómeno real."** — dicho de forma directa y sin rodeos.
 - **JFK tenía una "tez cobriza" visible por la enfermedad de Addison** — directamente ligada al mecanismo de coproducción de ACTH/MSH.
@@ -106,7 +106,7 @@ Las tres zonas comparten exactamente la misma vía de proteína StAR/mitocondria
 - 🔴 Suponer que el síndrome de Cushing y la enfermedad de Cushing son intercambiables: el síndrome es la categoría amplia; la enfermedad es el subtipo específico de tumor hipofisario, que se distingue por el nivel de ACTH.
 
 ## Conclusión práctica
-Este capítulo convierte "el estrés causa resistencia a la insulina" de una afirmación en una tesis completamente mecanística: el cortisol y la epinefrina elevan directamente la glucosa en sangre por vías concretas, lo que los coloca en oposición bioquímica continua a la insulina.
+Este capítulo convierte la afirmación "el estrés causa resistencia a la insulina" en una tesis completamente mecanística: el cortisol y la epinefrina elevan directamente la glucosa en sangre por vías concretas, lo que los coloca en oposición bioquímica continua a la insulina.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dado el síndrome de Cushing (amplio) frente a la enfermedad de Cushing (específicamente hipofisaria) — ¿qué valor de laboratorio único los distingue?**
