@@ -7,7 +7,7 @@
 ## Por qué importa
 El material nuevo de mayor relevancia práctica aquí es la **MODY**: una forma genética de diabetes que imita a la tipo 1 pero que con frecuencia se diagnostica mal, que se puede tratar con una sola pastilla o con una dieta baja en carbohidratos en lugar de terapia con insulina de por vida, y que vale la pena conocer ante cualquier antecedente familiar de diabetes "tipo 1" a lo largo de varias generaciones (lo cual no debería ocurrir con una verdadera tipo 1, ya que es autoinmune, no se hereda con un patrón dominante).
 
-## Afirmación que delimita el alcance — El páncreas no le reporta a nadie
+## Afirmación que delimita el alcance — El páncreas no le rinde cuentas a nadie
 A diferencia de la tiroides (Cap. 3), las suprarrenales (Cap. 4) y las gónadas (Cap. 5), el páncreas no tiene un eje hipotálamo-hipófisis que lo gobierne: muestrea la glucosa en sangre directa y continuamente por sí mismo. ✅ Además: **más del 90% del páncreas, en masa, es tejido exocrino** (producción de enzimas digestivas, sin relación con las hormonas); la función endocrina (islotes de Langerhans) es una pequeña minoría de la sustancia real del órgano.
 
 ## Frases clave y datos citables (Lección 7)
@@ -23,7 +23,7 @@ A diferencia de la tiroides (Cap. 3), las suprarrenales (Cap. 4) y las gónadas 
 | Célula | Hormona | Papel en el "vecindario" |
 | --- | --- | --- |
 | Alfa | Glucagón | "Quiere llevarse bien": estimula la liberación de insulina |
-| Beta | Insulina | "El abusón": inhibe tanto a las células alfa como a las delta |
+| Beta | Insulina | "El bravucón": inhibe tanto a las células alfa como a las delta |
 | Delta | Somatostatina | Copia la jugada de la insulina: inhibe tanto a alfa como a beta |
 
 ✅ **El tira y afloja, con precisión:** la insulina y el glucagón comparten un mismo disparador (la glucosa), pero la insulina suprime activamente la liberación de glucagón una vez que ambas se estimulan; es decir, la insulina normalmente "gana" el control de la respuesta momento a momento a la glucosa, no porque el glucagón no lo intente, sino porque la insulina lo silencia directamente a nivel paracrino.
@@ -45,7 +45,7 @@ A diferencia de la tiroides (Cap. 3), las suprarrenales (Cap. 4) y las gónadas 
 ## El alcance de la insulina — Expresado con más fuerza
 - Todas las células del cuerpo tienen receptores de insulina, algo realmente poco común para una hormona peptídica, con efectos que abarcan bastante más de 100 procesos distintos, no solo el manejo de la glucosa. ✅
 - **GLUT4 es el único transportador de glucosa que SÍ requiere insulina**: se encuentra específicamente en el músculo y el tejido graso, los dos tejidos capaces de consumir grandes cantidades de glucosa. El planteamiento de Bikman: el músculo está deliberadamente restringido para que no "acapare" toda la glucosa disponible antes de que otros tejidos tengan acceso; solo puede comer cuando la insulina señala una abundancia genuina. ✅
-- **El conjunto completo de efectos metabólicos de la insulina, por nutriente:** activa GLUT4 (captación de glucosa), inhibe la lipólisis Y activa la lipogénesis (grasa), inhibe la glucogenólisis Y activa la glucogénesis (almacenamiento hepático de glucosa), inhibe la cetogénesis (subproducto de la quema de grasa); es consistentemente anabólica (construir/almacenar) en todas las categorías de nutrientes, nunca catabólica. ✅
+- **El conjunto completo de efectos metabólicos de la insulina, por nutriente:** activa GLUT4 (captación de glucosa), inhibe la lipólisis Y activa la lipogénesis (grasa), inhibe la glucogenólisis Y activa la glucogénesis (almacenamiento hepático de glucosa), inhibe la cetogénesis (subproducto de la quema de grasa); siempre es anabólica (construir/almacenar) en todas las categorías de nutrientes, nunca catabólica. ✅
 
 ## El ejercicio y la "puerta trasera" de GLUT4
 - La activación del sistema nervioso simpático (ejercicio = algo cercano a la respuesta de lucha o huida) suprime directamente la liberación de insulina mediante una señal distinta (epinefrina → receptor alfa-2 en la célula beta); sin embargo, el músculo sigue necesitando combustible durante el ejercicio. ✅
@@ -56,7 +56,7 @@ Nuevo en este capítulo: porcentajes específicos y el detalle de la independenc
 
 - **Músculo:** consume \~80% de la glucosa eliminada después de una comida mediante GLUT4; una caminata suave de 10 minutos después de comer puede reducir la curva de glucosa aproximadamente un 50% al impulsar una captación muscular adicional. ✅
 - **Hígado:** no usa GLUT4 en absoluto (no tiene captación regulada por insulina), pero AUN ASÍ requiere la señal de la insulina para saber qué hacer con la glucosa una vez que está adentro. 🟢 Es una distinción sutil pero importante: la resistencia a la insulina en el hígado no se trata de una *entrada* bloqueada, sino de una *instrucción* bloqueada (si almacenar como glucógeno o seguir liberando glucosa).
-- **Células alfa:** pueden volverse resistentes a la insulina por sí mismas, es decir, la insulina no logra suprimir la liberación de glucagón aun cuando la glucosa y la insulina ya están altas, lo que resulta en hiperinsulinemia E hiperglucagonemia simultáneas. ✅ Es el mismo mecanismo de las células alfa de Why We Get Sick Cap. 3, ahora replanteado explícitamente a través del lente de señalización paracrina de este capítulo (el "abusón" que pierde la capacidad de hacerse escuchar).
+- **Células alfa:** pueden volverse resistentes a la insulina por sí mismas, es decir, la insulina no logra suprimir la liberación de glucagón aun cuando la glucosa y la insulina ya están altas, lo que resulta en hiperinsulinemia E hiperglucagonemia simultáneas. ✅ Es el mismo mecanismo de las células alfa de Why We Get Sick Cap. 3, ahora replanteado explícitamente a través del lente de señalización paracrina de este capítulo (el "bravucón" que pierde la capacidad de hacerse escuchar).
 
 **Corrección clave reiterada con más fuerza:** en la diabetes tipo 2, el NÚMERO de células beta es *mayor* de lo normal, no menor; esto contradice directamente cualquier suposición de que la tipo 2 implica que las células beta se "agotan" del modo en que la tipo 1 implica su destrucción. La insulina nunca se acerca a cero en la tipo 2; se mantiene crónicamente elevada incluso mientras la glucosa sube. ✅
 
@@ -69,7 +69,7 @@ Nuevo en este capítulo: porcentajes específicos y el detalle de la independenc
 - La célula alfa está "acostumbrada" a ver insulina en concentraciones milimolares procedente de su vecina inmediata, la célula beta (según el gradiente de concentración mencionado arriba)
 - Un diabético tipo 1 que se inyecta insulina solo puede alcanzar concentraciones *sistémicas* (picomolares), aproximadamente 1,000 veces más bajas que el nivel del microambiente local al que la célula alfa evolucionó para responder
 - **Resultado:** la insulina inyectada basta para dar la señal al músculo y al tejido graso (que están calibrados a concentraciones sistémicas), pero nunca llega a la célula alfa en la concentración necesaria para suprimir el glucagón
-- **Consecuencia:** los diabéticos tipo 1 tienen glucagón crónicamente elevado sin importar qué tan bien dosificada esté su insulina inyectada; el glucagón sigue indicándole al hígado que libere glucosa, lo que contribuye a las variaciones de glucosa notoriamente difíciles de controlar en la tipo 1 🟡 (marco causal específico de Unger; ha demostrado que bloquear la acción del glucagón mejora el control glucémico en esta población, un programa de investigación real, aunque todavía no es el estándar de atención habitual).
+- **Consecuencia:** los diabéticos tipo 1 tienen glucagón crónicamente elevado sin importar qué tan bien dosificada esté su insulina inyectada; el glucagón sigue indicándole al hígado que libere glucosa, lo que contribuye a las variaciones de glucosa, tan difíciles de controlar, de la tipo 1 🟡 (marco causal específico de Unger; ha demostrado que bloquear la acción del glucagón mejora el control glucémico en esta población, un programa de investigación real, aunque todavía no es el estándar de atención habitual).
 
 **Detalles prácticos/históricos:**
 - **Rotación del sitio de inyección:** la insulina actúa como una señal de crecimiento potente y localizada para las células grasas; inyectar repetidamente en el mismo sitio produce un crecimiento excesivo, dramático y localizado de células grasas. ✅
@@ -82,7 +82,7 @@ Nuevo en este capítulo: porcentajes específicos y el detalle de la independenc
 - **Por qué la distinción importa enormemente:** la MODY a menudo responde a **una sola pastilla de sulfonilurea** (un secretagogo de insulina) o a una **dieta baja en carbohidratos**, ya que queda cierta capacidad de producir insulina; simplemente no es suficiente para una dieta moderna alta en carbohidratos. Esto puede significar la diferencia entre inyecciones de insulina o terapia con bomba de por vida y una sola pastilla al día. ✅
 - **Confirmación:** requiere pruebas genéticas ✅
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que la diabetes tipo 2 implica pérdida/agotamiento de células beta: el número de células beta suele ser MAYOR de lo normal en la tipo 2; el problema es la resistencia a la señal, no la disminución de células.
 - 🔴 Suponer que un antecedente familiar de diabetes "tipo 1" a lo largo de varias generaciones no tiene nada de particular: la verdadera tipo 1 es autoinmune, no se hereda con un patrón dominante simple; este patrón familiar específico es una señal de alerta de MODY, una condición genéticamente distinta y que se trata de otra manera.
 - 🔴 Suponer que el coma/shock diabético se debe únicamente a la glucosa baja: es la pérdida SIMULTÁNEA de ambas opciones de combustible del cerebro (glucosa Y cetonas, ya que la insulina bloquea la cetogénesis) lo que causa la crisis, no solo la privación de glucosa.

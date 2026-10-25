@@ -5,7 +5,7 @@
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology", Lección 8 + preguntas y respuestas (última lección). El tejido graso como órgano endocrino, un tema personal para Bikman, quien dice que descubrir este campo como estudiante de posgrado definió toda su trayectoria profesional.*
 
 ## Por qué importa
-Este capítulo da el mecanismo molecular específico de por qué importa la adiponectina, introduce un indicador clínico indirecto realmente accionable (la relación leptina:adiponectina), e incluye la crítica detallada y fuera de la corriente principal de Bikman sobre cómo se prescriben actualmente los fármacos GLP-1 para bajar de peso.
+Este capítulo da el mecanismo molecular específico de por qué importa la adiponectina, introduce un indicador clínico indirecto realmente accionable (la relación leptina:adiponectina), e incluye la crítica detallada y poco convencional de Bikman sobre cómo se prescriben actualmente los fármacos GLP-1 para bajar de peso.
 
 ## Frases clave y datos citables (Lección 8)
 - **Hace apenas unos años, el tejido graso ni siquiera aparecía en los libros de texto de endocrinología**: descubrir esto como estudiante de posgrado es lo que definió toda la trayectoria profesional de Bikman.
@@ -58,7 +58,7 @@ Este capítulo da el mecanismo molecular específico de por qué importa la adip
 - **Opciones de tratamiento:** reemplazo de leptina, o fármacos activadores de PPAR-γ para forzar la adipogénesis (creando la capacidad de almacenamiento de grasa que la genética/condición de la persona no proporciona) ✅
 
 ## Fármacos GLP-1 — Mecanismo, datos pasados por alto y el protocolo alternativo de Bikman
-🟡 **Nota de encuadre:** esta sección presenta la perspectiva detallada y fuera de la corriente principal de Bikman sobre el uso de fármacos GLP-1; él apoya la hormona/el mecanismo subyacente, pero sostiene que la práctica actual de prescripción (dosis altas, uso indefinido, planteados como fármaco independiente para bajar de peso) no es la óptima. Es la postura razonada de un médico-científico, no una guía clínica establecida; se presenta completa porque es un argumento detallado y respaldado con evidencia, no porque sea práctica de consenso.
+🟡 **Nota de encuadre:** esta sección presenta la perspectiva detallada y poco convencional de Bikman sobre el uso de fármacos GLP-1; él apoya la hormona/el mecanismo subyacente, pero sostiene que la práctica actual de prescripción (dosis altas, uso indefinido, planteados como fármaco independiente para bajar de peso) no es la óptima. Es la postura razonada de un médico-científico, no una guía clínica establecida; se presenta completa porque es un argumento detallado y respaldado con evidencia, no porque sea práctica de consenso.
 
 **Mecanismo, en niveles fisiológicos normales:**
 - **Las células L del intestino** producen GLP-1 a partir de la misma molécula de proglucagón que el glucagón de las células alfa (Cap. 7), mediante un procesamiento postraduccional distinto ✅
@@ -99,7 +99,7 @@ Este capítulo da el mecanismo molecular específico de por qué importa la adip
 **Cortisol y grasa visceral (preguntas y respuestas):** el cortisol sí favorece un mayor almacenamiento central de grasa (incluida la visceral) en los humanos, algo bien documentado en condiciones como el síndrome/la enfermedad de Cushing. 🟡 Bikman señala explícitamente que gran parte del detalle mecanístico sobre el cortisol y la grasa visceral en particular proviene de estudios en roedores, y que el metabolismo de los corticosteroides en roedores difiere de manera importante de la fisiología humana; tiene cuidado de no extrapolar hallazgos en animales a humanos sin advertencias. **Papel mínimo específicamente en la grasa ectópica (en órganos)**, en contraste con su efecto más claro sobre la grasa visceral. 🟡
 
 ## Correcciones clave para llevar adelante
-- 🔴 Suponer que la grasa visceral es por naturaleza intrínsecamente más peligrosa que la subcutánea: el peligro proviene de verse forzada a crecer solo por hipertrofia debido a las limitaciones de espacio, no de que la grasa visceral sea intrínsecamente distinta.
+- 🔴 Suponer que la grasa visceral es, por su naturaleza, más peligrosa que la subcutánea: el peligro proviene de verse forzada a crecer solo por hipertrofia debido a las limitaciones de espacio, no de que la grasa visceral sea intrínsecamente distinta.
 - 🔴 Suponer que la terapia con leptina es un tratamiento general para la obesidad: solo funciona cuando alguien tiene una deficiencia real de leptina (rara, normalmente genética); la mayoría de las personas con sobrepeso ya tienen leptina abundante y son resistentes a la leptina, no deficientes.
 - 🔴 Suponer que los fármacos GLP-1 son ganancias metabólicas "gratuitas" a cualquier dosis: existen riesgos reales y documentados (pérdida de masa libre de grasa, parálisis intestinal rara y un hallazgo específico de 2025 sobre riesgo de depresión/ansiedad/conducta suicida) que merecen sopesarse seriamente frente a los beneficios, sin importar la opinión que uno tenga sobre esta clase de fármacos en general.
 - 🔴 Suponer que la liposucción es inútil en todos los casos: está indicada específicamente para el lipedema (un problema de colágeno), aunque no mejora los marcadores metabólicos en la obesidad común impulsada por la hipertrofia de las células grasas.
