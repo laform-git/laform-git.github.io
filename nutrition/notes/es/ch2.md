@@ -5,7 +5,7 @@
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 2 (transcripción). Segundo capítulo de una serie de ocho clases; el Cap. 1 cubre los fundamentos nutricionales (aquí se dan por sabidas las definiciones de macronutrientes).*
 
 ## Por qué importa
-Esta clase es el motor práctico de la serie: convierte el vocabulario del Cap. 1 en un modelo funcional de una buena dieta. Su movimiento central es replantear el consejo de "come menos" — la gente ya come hasta saciarse, así que la palanca es la *saciedad por caloría*, no la fuerza de voluntad.
+Esta clase es el motor práctico de la serie: convierte el vocabulario del Cap. 1 en un modelo funcional de una buena dieta. Su idea central es replantear el consejo de "come menos" — la gente ya come hasta saciarse, así que la palanca es la *saciedad por caloría*, no la fuerza de voluntad.
 
 ## Los cinco componentes de una dieta saludable (el marco de Lugavere)
 - **Balance energético** — calorías ingeridas vs. gastadas.
@@ -14,7 +14,7 @@ Esta clase es el motor práctico de la serie: convierte el vocabulario del Cap. 
 - **Minimizar los alimentos ultraprocesados** — "no todos los alimentos ultraprocesados son malos, pero la gran mayoría sí." ✅
 - **Saciedad** (y fibra) — el tema principal de la clase.
 
-Sus afirmaciones ancla: no existe una dieta de talla única; ningún alimento por sí solo determina la salud; **el patrón alimentario es lo más importante**, y todas las poblaciones longevas comen muy pocos alimentos ultraprocesados, sea cual sea su proporción de carne frente a plantas. ✅
+Sus afirmaciones clave: no existe una dieta de talla única; ningún alimento por sí solo determina la salud; **el patrón alimentario es lo más importante**, y todas las poblaciones longevas comen muy pocos alimentos ultraprocesados, sea cual sea su proporción de carne frente a plantas. ✅
 
 ## Balance energético — "Una caloría es una caloría"
 - **Las calorías importan:** los problemas surgen cuando la ingesta supera el gasto. El ATP es la "moneda" celular que necesita cada célula (hígado, ovario, neurona). ✅
@@ -41,7 +41,7 @@ Sus afirmaciones ancla: no existe una dieta de talla única; ningún alimento po
 ## Micronutrientes — Biodisponibilidad y la teoría del triaje
 - **El 90% de los estadounidenses tiene deficiencia de al menos un micronutriente esencial** (su cifra). 🟡 Afirmado sin fuente. El suministro de alimentos también se ha "empobrecido" (procesamiento, prácticas de cultivo; se mencionan ciertas vitaminas del complejo B). ✅
 - **Biodisponibilidad:** las vitaminas y minerales de los productos animales son, en general, los más biodisponibles. Ejemplo: **retinol** (vitamina A animal, se usa directamente) vs. **betacaroteno** (provitamina A vegetal; debe convertirse, y las personas varían mucho en esa conversión, en parte por genética). La vitamina C es mayormente de origen vegetal y biodisponible; las vitaminas B, mayormente animales, con el folato en las plantas. ✅
-- **Magnesio:** cofactor en aproximadamente más de 300 procesos (síntesis de ATP, enzimas de reparación del ADN); alrededor del **50% de los adultos no consume suficiente**. Sus fuentes son mayormente vegetales — un puñado de almendras aporta alrededor del 20% de las necesidades diarias; cualquier cosa verde (la clorofila tiene magnesio en su centro, como la hemoglobina tiene hierro). ✅
+- **Magnesio:** cofactor en unos 300 procesos o más (síntesis de ATP, enzimas de reparación del ADN); alrededor del **50% de los adultos no consume suficiente**. Sus fuentes son mayormente vegetales — un puñado de almendras aporta alrededor del 20% de las necesidades diarias; cualquier cosa verde (la clorofila tiene magnesio en su centro, como la hemoglobina tiene hierro). ✅
 - **Teoría del triaje del envejecimiento (Bruce Ames):** cuando los micronutrientes escasean, el cuerpo los asigna a la supervivencia inmediata (lucha/huida, reproducción) por encima de proyectos a largo plazo como la reparación del ADN — así que un consumo insuficiente crónico podría perjudicar silenciosamente la longevidad. ✅ (Presentada como teoría.)
 - **Las vitaminas liposolubles A, D, E, K** viajan con la grasa en la naturaleza (D en las yemas de huevo, A como retinol en la carne de res de libre pastoreo/el hígado, E en nueces y semillas). Afirma que la **vitamina K** es difícil de obtener a menos que comas hígado, pero que el cuerpo la produce de forma endógena cuando la fibra se fermenta en ácidos grasos de cadena corta. 🟡 El mecanismo no se detalla en la clase.
 

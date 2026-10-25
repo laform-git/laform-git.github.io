@@ -5,7 +5,7 @@
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 1 (transcripción). Un enfoque práctico, no de doctorado, de la nutrición: el continuo del procesamiento de alimentos, los tres macronutrientes y la distinción entre esencial y óptimo. Nueva serie, nuevo hilo de notas.*
 
 ## Por qué importa
-Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. Lugavere establece el lente que usa en todo lo que sigue: la nutrición es a la medida, no de talla única; los alimentos integrales vienen empacados por la naturaleza con aliados protectores (antioxidantes, fibra, una matriz alimentaria); y el procesamiento es un continuo, no un sí o no.
+Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. Lugavere establece el enfoque que usa en todo lo que sigue: la nutrición es a la medida, no de talla única; los alimentos integrales vienen empacados por la naturaleza con aliados protectores (antioxidantes, fibra, una matriz alimentaria); y el procesamiento es un continuo, no un sí o no.
 
 ## Afirmaciones que definen el alcance — Nutrición práctica, no nutrición de laboratorio
 - **La nutrición es práctica y personal.** Lugavere omite explícitamente los "detalles finos" de la ciencia de la nutrición para enfocarse en su uso aplicable. ✅ Su frase recurrente: "La nutrición no es un sombrero" — es a la medida y cambia con la edad, el sexo y los objetivos.
@@ -22,7 +22,7 @@ Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. L
 - **No existe tal cosa como un carbohidrato esencial.** La proteína es esencial; ciertas grasas son esenciales.
 - **"Lo que no es necesariamente esencial no es necesariamente subóptimo."**
 - **"Si alguna vez oyes a alguien decir que las grasas saturadas son malas, inequívocamente malas, probablemente no sabe de lo que habla."** — sus palabras; ver la corrección más abajo.
-- **"Somos carne y no somos rumiantes"** — su razón de que la proteína animal sea la de mayor calidad para nosotros.
+- **"Somos carne y no somos rumiantes"** — su argumento de por qué la proteína animal es la de mayor calidad para nosotros.
 - **El colágeno es la proteína más abundante del cuerpo, y alrededor de un tercio de él es glicina.**
 
 ## Los tres macronutrientes — Esencial frente a óptimo
@@ -43,7 +43,7 @@ Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. L
 ## Carbohidratos — Simples, complejos y fibra
 - **Los carbohidratos simples** (azúcares) saben dulces; **los carbohidratos complejos** (almidones en frutas y verduras) no, hasta que se descomponen. ✅
 - La diferencia biológica entre ellos **no es tan blanco y negro como uno malo y otro bueno** — los carbohidratos complejos pueden descomponerse casi tan rápido como los simples, así que la diferencia es irrelevante en una comida mixta. 🟢 El azúcar añadido, en particular, "ciertamente no es saludable".
-- **Fibra:** un carbohidrato que no descomponemos; no aporta energía, pero llena, alimenta al microbioma intestinal y se asocia con longevidad y menor inflamación. Señala que la tolerancia varía de persona a persona. ✅ (El microbioma se trata más adelante en esta serie.)
+- **Fibra:** un carbohidrato que no descomponemos; no aporta energía, pero da saciedad, alimenta al microbioma intestinal y se asocia con longevidad y menor inflamación. Señala que la tolerancia varía de persona a persona. ✅ (El microbioma se trata más adelante en esta serie.)
 
 ## Grasas — Introducción a su química
 
@@ -75,7 +75,7 @@ Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. L
 - 🔴 "Las proteínas vegetales son incompletas": todas las plantas contienen todos los aminoácidos; el problema es la cantidad y la variedad, relevante sobre todo en dietas restrictivas.
 - 🔴 "Procesado vs. sin procesar" como binario: es un continuo, y no todo el procesamiento es dañino.
 - 🔴 "No esencial significa subóptimo": los carbohidratos no son esenciales y aun así son útiles; esencial solo significa que su ausencia provoca una enfermedad por deficiencia.
-- 🔴 "La grasa engorda": el consumo excesivo de cualquier fuente de energía puede hacerlo; la coincidencia de palabras es engañosa.
+- 🔴 "La grasa engorda": el consumo excesivo de cualquier fuente de energía puede hacerlo; que se use la misma palabra, «grasa», se presta a confusión.
 
 ## Conclusión práctica
 Usa la clase como marco de clasificación: ubica cualquier alimento en el continuo del procesamiento, identifica qué macronutrientes y tipos de grasa contiene, y pregúntate si la calidad de la proteína importa en tu situación.
