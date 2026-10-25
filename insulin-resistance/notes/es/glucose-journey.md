@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Comes — La glucosa entra a la sangre
+## 1. Comer — La glucosa entra a la sangre
 
 La comida se descompone en glucosa (azúcar), que entra a tu torrente sanguíneo. Ahora tu cuerpo necesita sacar ese azúcar de la sangre y meterlo en tus células, donde se quema para obtener energía. ✅ Totalmente sólido.
 
@@ -16,7 +16,7 @@ Tu páncreas nota que el azúcar en la sangre está subiendo y libera insulina. 
 
 En un cuerpo sano, esto ocurre en silencio, todo el día, todos los días. El azúcar sube después de comer, la insulina abre las puertas, las células toman el azúcar que necesitan y ambos números vuelven a bajar. Sin síntomas, sin problema. ✅ Totalmente sólido.
 
-## 4. Empieza el problema — Las puertas cuestan más trabajo abrirlas
+## 4. Empieza el problema — Cuesta más trabajo abrir las puertas
 
 Si el azúcar sigue llegando más rápido y más seguido de lo que tus células realmente necesitan —por carbohidratos refinados frecuentes, bebidas azucaradas o simplemente demasiada comida en general—, la insulina tiene que tocar más fuerte y más seguido. Con el tiempo, las células dejan de responder igual de bien. Este es el inicio de la **resistencia a la insulina**: la llave todavía funciona, pero la cerradura se está poniendo dura. 🟢 Evidencia sólida.
 
@@ -44,7 +44,15 @@ La insulina alta les indica a tus riñones que retengan más sal y agua, lo que 
 
 ## 10. La parada más grave — El cerebro
 
-Aquí la historia pasa de ser una molestia a ser realmente grave. La resistencia a la insulina también llega al cerebro, y bloquea su capacidad de absorber glucosa, su principal combustible. Sin energía utilizable, las neuronas tienen dificultades para eliminar sus propios desechos, incluida una acumulación de proteína tóxica vinculada con la enfermedad de Alzheimer. Esa acumulación desencadena una inflamación que daña las neuronas con el tiempo: el mismo tipo de patrón inflamatorio que ya se había sembrado en todo el cuerpo en la Parada 7. 🟢 Evidencia sólida para el mecanismo de energía y limpieza. 🟡 En debate: qué tanto esto por sí solo causa Alzheimer frente a ser uno de varios factores de riesgo que contribuyen; el apodo popular "diabetes tipo 3" es una abreviatura de investigadores, no un diagnóstico oficial.
+Aquí la historia pasa de ser una molestia a ser realmente grave. La resistencia a la insulina también llega al cerebro, y descompone tres tareas distintas en las que la insulina normalmente ayuda al cerebro: usar bien la energía, eliminar sus propios desechos tóxicos y producir su propio suministro de colesterol.
+
+**Uso de energía, afectado.** El cerebro funciona casi por completo con glucosa, y ciertas regiones —sobre todo el hipocampo, el principal centro de formación de la memoria— dependen en parte de la insulina para que la glucosa entre a las células cerebrales: el mismo mecanismo de "la llave abre la puerta" que en el resto del cuerpo. Cuando esas células se vuelven resistentes a la insulina, no pueden absorber suficiente glucosa aunque el azúcar en la sangre se vea normal en otras partes. Sin combustible, no pueden generar suficiente ATP (la moneda de energía de la célula) para su trabajo normal, y las mitocondrias —la maquinaria que produce energía en la célula— quedan bajo estrés crónico. 🟢 Evidencia sólida.
+
+**Eliminación de toxinas, afectada.** El cerebro tiene una enzima, la enzima degradadora de insulina (IDE, por sus siglas en inglés), que hace exactamente lo que dice su nombre, pero que además es una de las principales enzimas que degradan la beta-amiloide, la proteína pegajosa que se aglutina en las placas asociadas con la enfermedad de Alzheimer. Cuando la insulina está crónicamente elevada (la misma hiperinsulinemia que impulsa las Paradas 4–5), la IDE se ocupa en procesar todo ese exceso de insulina y queda menos disponible para eliminar la beta-amiloide. El proceso rutinario de "limpieza" celular del cerebro (la autofagia: la forma en que las células descomponen y reciclan sus propias partes dañadas) también depende de una señalización de insulina sana; cuando esa señalización falla, la limpieza se vuelve más lenta y los desechos se acumulan en lugar de eliminarse. 🟢 Evidencia sólida para cada mecanismo por separado; 🟡 en debate qué tanto explican por sí solos el riesgo de Alzheimer frente a contribuir junto con otras causas.
+
+**Producción de colesterol, afectada.** Esto sorprende a la mayoría: el cerebro casi no importa colesterol del torrente sanguíneo, porque la barrera hematoencefálica lo bloquea en gran parte. En cambio, el cerebro fabrica localmente casi todo su propio colesterol, sobre todo en unas células de soporte llamadas astrocitos, y lo usa para construir y reparar las sinapsis (los puntos de conexión entre neuronas) y la mielina (el aislante que rodea las fibras nerviosas y mantiene las señales rápidas y limpias). Esa maquinaria local para producir colesterol está regulada en parte por las mismas vías de señalización de la insulina que se ven afectadas en el resto de esta historia. Cuando la señalización de la insulina en el cerebro funciona bien, ayuda a mantener ese suministro local para sostener sinapsis sanas. Cuando se instala la resistencia a la insulina, ese apoyo se debilita y las neuronas pierden capacidad para mantener y reparar sus propias conexiones. 🟡 Área de investigación emergente: este mecanismo está menos establecido que los de energía y eliminación de toxinas, pero es una línea de investigación sobre el Alzheimer activa y cada vez más respaldada.
+
+En conjunto: células sin energía, un equipo de limpieza más lento y una menor capacidad para mantener sus propias conexiones físicas; tres golpes distintos sobre el mismo tejido al mismo tiempo. Esa combinación, y no uno solo de ellos, es lo que hace del cerebro la parada más grave de este viaje. La acumulación y la disfunción resultantes desencadenan más inflamación, que daña las células cerebrales con el tiempo: el mismo tipo de patrón inflamatorio que ya se había sembrado en todo el cuerpo en la Parada 7. El apodo popular "diabetes tipo 3" para todo este cuadro es una abreviatura de investigadores, no un diagnóstico oficial.
 
 ## 11. El panorama completo
 

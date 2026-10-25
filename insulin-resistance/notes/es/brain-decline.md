@@ -4,7 +4,7 @@
 > **Cómo leer los marcadores de color usados en esta nota:**
 > ✅ **Sólido como una roca** — bien establecido, esencialmente indiscutido en la literatura médica.
 > 🟢 **Evidencia sólida** — bien respaldado por múltiples estudios, pero aún no universalmente resuelto.
-> 🟡 **Cuestionado / evidencia más nueva** — existe una señal real, pero la evidencia es mixta, preliminar, o aún está activamente debatida entre investigadores.
+> 🟡 **Cuestionado / evidencia más nueva** — existe una señal real, pero la evidencia es mixta, preliminar o aún está activamente debatida entre investigadores.
 > 🔴 **Evidencia débil o inexistente** — estudiado pero sin beneficio significativo demostrado, o con un hallazgo neto negativo.
 
 ---
@@ -32,7 +32,7 @@
 - Síndrome metabólico ✅
 - Aterosclerosis / enfermedad cardíaca 🟢
 - Riesgo de accidente cerebrovascular 🟢
-- PMOS (anteriormente PCOS) ✅
+- PMOS (antes SOP, síndrome de ovario poliquístico) ✅
 - Disfunción del eje hipotálamo-pituitario-ovárico (ovulación irregular/ausente por desequilibrio LH:FSH, independiente de un diagnóstico completo de PMOS) 🟡
 - Testosterona baja (hombres) 🟢
 - Hiperandrogenismo funcional en mujeres (andrógenos libres elevados por SHBG baja, sin un diagnóstico completo de PMOS) 🟡
@@ -74,10 +74,10 @@ Todas estas condiciones comparten la misma causa subyacente. Ninguna es una enfe
 El mismo estado crónico de insulina alta que embota los receptores en el resto del cuerpo eventualmente llega al cerebro. Las células cerebrales tienen sus propios receptores de insulina, y con la sobreexposición crónica, esos receptores también se vuelven menos receptivos — esto es la resistencia a la insulina cerebral (BIR, por sus siglas en inglés). 🟢 Evidencia sólida.
 
 ### Por qué importa — cuatro mecanismos de daño separados
-1. **Inanición de glucosa.** El cerebro representa solo cerca del 2% del peso corporal pero usa aproximadamente el 20% de la energía del cuerpo, casi toda proveniente de la glucosa. Cuando las células cerebrales se vuelven resistentes a la insulina, pierden la capacidad de captar glucosa de manera eficiente, incluso cuando el azúcar en sangre cercana es normal o alta. El cerebro queda funcionalmente hambriento de combustible. 🟢 Evidencia sólida.
-2. **Pérdida de un mecanismo protector.** La insulina no solo entrega combustible — también protege normalmente las sinapsis (las conexiones entre las células cerebrales) bloqueando que una proteína tóxica llamada beta-amiloide se una a ellas. La resistencia a la insulina elimina esta protección, no solo el suministro de energía. 🟢 Evidencia sólida — un mecanismo enfatizado más recientemente que la sola historia de la inanición de glucosa.
+1. **Inanición de glucosa.** El cerebro representa solo cerca del 2% del peso corporal pero usa aproximadamente el 20% de la energía del cuerpo, casi toda proveniente de la glucosa. Cuando las células cerebrales se vuelven resistentes a la insulina, pierden la capacidad de captar glucosa de manera eficiente, incluso cuando el azúcar en la sangre que las rodea es normal o alta. El cerebro queda funcionalmente hambriento de combustible. 🟢 Evidencia sólida.
+2. **Pérdida de un mecanismo protector.** La insulina no solo entrega combustible — también protege normalmente las sinapsis (las conexiones entre las células cerebrales) impidiendo que una proteína tóxica llamada beta-amiloide se una a ellas. La resistencia a la insulina elimina esta protección, no solo el suministro de energía. 🟢 Evidencia sólida — un mecanismo enfatizado más recientemente que la sola historia de la inanición de glucosa.
 3. **Eliminación deficiente de desechos y acumulación de proteínas tóxicas.** Las células cerebrales privadas de energía tienen dificultades para eliminar la beta-amiloide, la misma proteína implicada en las placas del Alzheimer. Se acumula, y la inflamación resultante daña las células cerebrales circundantes con el tiempo. 🟢 Evidencia sólida.
-4. **Disfunción de la barrera hematoencefálica y neuroplasticidad deteriorada.** Investigaciones más recientes (revisiones mecanísticas de 2025) identifican que la resistencia a la insulina también debilita la barrera hematoencefálica — el filtro protector alrededor de los vasos sanguíneos del cerebro — y deteriora la capacidad del cerebro para formar nuevas conexiones neuronales, ambos acelerando independientemente la neurodegeneración. 🟡 Base de evidencia más nueva, aún en refinamiento, pero reportada consistentemente en revisiones recientes.
+4. **Disfunción de la barrera hematoencefálica y neuroplasticidad deteriorada.** Investigaciones más recientes (revisiones mecanísticas de 2025) señalan que la resistencia a la insulina también debilita la barrera hematoencefálica — el filtro protector alrededor de los vasos sanguíneos del cerebro — y deteriora la capacidad del cerebro para formar nuevas conexiones neuronales, ambos acelerando independientemente la neurodegeneración. 🟡 Base de evidencia más nueva, aún en refinamiento, pero reportada consistentemente en revisiones recientes.
 
 ### El hallazgo más reciente: un análisis de sangre ahora puede predecir qué tan rápido ocurrirá el deterioro
 Un estudio de 2025 presentado en el Congreso de la Academia Europea de Neurología encontró que el **índice TyG** — una simple proporción de triglicéridos a glucosa, calculada a partir de análisis de sangre de rutina que la mayoría de las personas ya tienen — identifica a personas con Alzheimer temprano que tienen **cuatro veces más probabilidades** de experimentar un deterioro cognitivo rápido. 🟢 Evidencia sólida, hallazgo reciente, aún no es práctica clínica estándar en todas partes.
@@ -97,7 +97,7 @@ Si la resistencia a la insulina es una causa primaria del Alzheimer, o uno de va
 ---
 ## Parte 3.5 — ¿Es Esta la Causa Más Común del Deterioro de la Memoria?
 
-**Respuesta corta: La edad y, en algunos casos, la genética, pero la resistencia a la insulina es la más grande que realmente se puede cambiar.**
+**Respuesta corta: La edad y, en algunos casos, la genética, pero la resistencia a la insulina es el factor más importante que sí se puede cambiar.**
 
 - **La edad es el factor de riesgo más fuerte para el deterioro cognitivo en general.** Simplemente envejecer aumenta el riesgo más que cualquier otro factor individual. Esto no es algo sobre lo que alguien pueda actuar, así que aquí es solo contexto, no un área de enfoque. ✅ Sólido como una roca.
 - **Entre los factores sobre los que una persona realmente puede hacer algo, la resistencia a la insulina se ubica en la cima o cerca de ella** — y es más útil enfocarse en ella que en la mayoría de los demás factores de riesgo modificables, porque en realidad no está separada de ellos. Una dieta deficiente, la falta de ejercicio, el exceso de peso y la presión arterial alta suelen ser causas o consecuencias de la resistencia a la insulina. No son varios factores de riesgo no relacionados que deban manejarse por separado — en su mayoría se remontan a un mismo proceso subyacente. 🟢 Evidencia sólida de la resistencia a la insulina como un contribuyente modificable importante; 🟡 cuestionado exactamente cuánto explica del riesgo total de demencia en comparación con la edad.
@@ -106,7 +106,7 @@ Si la resistencia a la insulina es una causa primaria del Alzheimer, o uno de va
 ---
 ## Parte 4 — La Conclusión para el Cerebro
 
-La resistencia a la insulina en el cerebro no es una enfermedad separada que sucede cerca de la demencia. Según la evidencia actual, es un contribuyente directo que opera a través de al menos cuatro mecanismos a la vez: privando de combustible a las células cerebrales, eliminando un efecto protector que la insulina normalmente proporciona, permitiendo la acumulación de proteínas tóxicas, y debilitando la barrera protectora propia del cerebro. Y a diferencia de la mayoría de los factores de riesgo del Alzheimer, este es medible con años de anticipación y modificable a través de la dieta, el ejercicio, el sueño y el manejo del estrés — los mismos cambios que revierten la resistencia a la insulina en el resto del cuerpo.
+La resistencia a la insulina en el cerebro no es una enfermedad separada que sucede cerca de la demencia. Según la evidencia actual, es un contribuyente directo que opera a través de al menos cuatro mecanismos a la vez: privando de combustible a las células cerebrales, eliminando un efecto protector que la insulina normalmente proporciona, permitiendo la acumulación de proteínas tóxicas y debilitando la barrera protectora propia del cerebro. Y a diferencia de la mayoría de los factores de riesgo del Alzheimer, este es medible con años de anticipación y modificable a través de la dieta, el ejercicio, el sueño y el manejo del estrés — los mismos cambios que revierten la resistencia a la insulina en el resto del cuerpo.
 
 ---
 ## Cómo Revisar tu Propio Nivel de Resistencia a la Insulina (HOMA-IR)
@@ -121,12 +121,12 @@ Glucosa en ayunas (mg/dL) multiplicada por insulina en ayunas (uIU/mL), dividido
 - **Alrededor de 1.0 o menos** — óptimo. Este es el objetivo. La insulina está haciendo su trabajo eficientemente, sin evidencia de resistencia.
 - **Alrededor de 1.5** — límite. La insulina está empezando a trabajar un poco más de lo que debería para obtener el mismo resultado. Aún no es un diagnóstico, pero merece atención.
 - **Alrededor de 2.0** — generalmente se considera que la resistencia a la insulina temprana está presente en este nivel. El páncreas está compensando de manera medible produciendo más insulina de la que necesitaría una persona sana.
-- **Alrededor de 2.5 a 3.0** — resistencia a la insulina moderada. Este rango se observa comúnmente en personas con prediabetes, hígado graso o PMOS (anteriormente PCOS), incluso cuando la glucosa en ayunas por sí sola todavía se ve normal.
+- **Alrededor de 2.5 a 3.0** — resistencia a la insulina moderada. Este rango se observa comúnmente en personas con prediabetes, hígado graso o PMOS (antes SOP), incluso cuando la glucosa en ayunas por sí sola todavía se ve normal.
 - **Por encima de 3.0, y especialmente por encima de 4.0** — resistencia a la insulina significativa. En este nivel el páncreas está trabajando sustancialmente en exceso, y este rango se observa comúnmente en personas con diabetes tipo 2 establecida o síndrome metabólico avanzado.
 
-**El patrón clave en todo este gradiente:** cuanto mayor sea el número, más duro tiene que trabajar el páncreas para mantener el aspecto normal de la glucosa. Alguien puede tener una lectura de glucosa en ayunas completamente normal mientras su HOMA-IR ya está en 3 o 4 — el número de glucosa por sí solo oculta el problema; el lado de la insulina de la ecuación es lo que revela.
+**El patrón clave en todo este gradiente:** cuanto mayor sea el número, más duro tiene que trabajar el páncreas para mantener el aspecto normal de la glucosa. Alguien puede tener una lectura de glucosa en ayunas completamente normal mientras su HOMA-IR ya está en 3 o 4 — el número de glucosa por sí solo oculta el problema; lo que lo revela es el lado de la insulina de la ecuación.
 
-**Advertencia importante:** esta estimación requiere que la glucosa *en ayunas* y la insulina *en ayunas* se extraigan al mismo tiempo, de la misma extracción de sangre — no una lectura aleatoria o posprandial, y no glucosa e insulina de dos extracciones diferentes. Ambos números juntos son lo que hace significativo el cálculo.
+**Advertencia importante:** esta estimación requiere que la glucosa *en ayunas* y la insulina *en ayunas* se midan al mismo tiempo, en la misma muestra de sangre — no una lectura aleatoria o posprandial, ni glucosa e insulina de dos tomas diferentes. Ambos números juntos son lo que hace significativo el cálculo.
 
 ---
 ## ¿Pueden los Suplementos o Medicamentos Ayudar Sin Corregir la Resistencia a la Insulina?
@@ -137,11 +137,11 @@ Glucosa en ayunas (mg/dL) multiplicada por insulina en ayunas (uIU/mL), dividido
 - Bacopa monnieri — calidad de ensayos muy baja, sin beneficio comprobado. 🟡
 - Ginkgo biloba — sin beneficio consistente demostrado. 🔴
 - Citicolina, L-teanina, cafeína — solo alerta a corto plazo, no modifica la enfermedad. 🟡
-- Berberina — la única excepción, funciona mejorando la sensibilidad a la insulina, no un efecto cerebral directo. Respaldada por un metaanálisis de 46 ensayos controlados aleatorizados que muestra una reducción significativa del HOMA-IR, la insulina en ayunas, y la HbA1c. 🟢
+- Berberina — la única excepción, funciona mejorando la sensibilidad a la insulina, no un efecto cerebral directo. Respaldada por un metaanálisis de 46 ensayos controlados aleatorizados que muestra una reducción significativa del HOMA-IR, la insulina en ayunas y la HbA1c. 🟢
 
 **Medicamentos:**
 - **Metformina** — calidad de ensayos muy baja (20–80 personas), sin beneficio cognitivo comprobado. 🟡
-- **Fármacos GLP-1 (semaglutida, liraglutida)** — grandes ensayos de 2025, no lograron su objetivo. Efecto neto más negativo que positivo. 🔴
+- **Fármacos GLP-1 (semaglutida, liraglutida)** — en grandes ensayos de 2025 no lograron su objetivo. Efecto neto más negativo que positivo. 🔴
 
 **Conclusión:** ninguno reemplaza la corrección de la resistencia a la insulina mediante la dieta y el ejercicio.
 

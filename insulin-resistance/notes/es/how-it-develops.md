@@ -2,7 +2,7 @@
 
 La resistencia a la insulina no es un interruptor que se enciende de golpe: es una cascada que se acumula en silencio durante 10–15 años antes de que la glucosa en sangre se vuelva anormal. El mecanismo sigue una secuencia fija:
 
-1. **Picos repetidos de glucosa** (por el consumo de carbohidratos refinados y azúcar) obligan a picos de insulina grandes y repetidos.
+1. **Picos repetidos de glucosa** (por el consumo de carbohidratos refinados y azúcar) provocan picos de insulina grandes y repetidos.
 
 2. **Las células reducen sus receptores de insulina** — una respuesta adaptativa normal ante una señal crónicamente fuerte, igual que los oídos bajan su sensibilidad ante un ruido constante.
 
@@ -12,7 +12,7 @@ La resistencia a la insulina no es un interruptor que se enciende de golpe: es u
 
 5. **El hígado se vuelve resistente a la insulina** y sigue produciendo glucosa aun cuando la glucosa en sangre ya está alta, porque ya no puede "escuchar" la señal de la insulina para detenerse.
 
-6. **El músculo, el principal sitio de eliminación de glucosa del cuerpo, se vuelve resistente** — el tejido más capaz de absorber glucosa (sobre todo con entrenamiento de fuerza) deja de hacerlo con eficiencia.
+6. **El músculo, el principal sitio de captación de glucosa del cuerpo, se vuelve resistente** — el tejido más capaz de absorber glucosa (sobre todo con entrenamiento de fuerza) deja de hacerlo con eficiencia.
 
 7. **Las células beta terminan agotándose** al intentar seguir el ritmo de una demanda creciente, y fallan — este colapso final es lo que aparece como diabetes tipo 2 en un panel de laboratorio estándar.
 
