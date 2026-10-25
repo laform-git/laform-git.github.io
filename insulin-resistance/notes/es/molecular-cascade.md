@@ -82,7 +82,7 @@ La resistencia a la insulina no es una cerradura rota: es una cadena de fichas d
 **Efecto 4 — Síntesis de grasa y proteína**
 
 - Akt enciende mTORC1 y SREBP-1c → modo de almacenar y construir
-- Esta rama sigue parcialmente activa incluso con resistencia a la insulina: la RI bloquea la captación de glucosa Y al mismo tiempo sigue promoviendo el almacenamiento de grasa
+- Esta rama sigue parcialmente activa incluso con resistencia a la insulina: esta bloquea la captación de glucosa Y al mismo tiempo sigue promoviendo el almacenamiento de grasa
 - ✅ Sólido como roca
 
 ### Paso 7 — La rama del crecimiento (MAPK, en paralelo)
@@ -113,7 +113,7 @@ La resistencia a la insulina no es una cerradura rota: es una cadena de fichas d
 
 - Ambos saboteadores provienen de grasa en el lugar equivocado
 - La rama de almacenamiento de grasa (Efecto 4) sigue funcionando mientras el manejo de la glucosa está atascado
-- La RI bloquea la captación de glucosa Y al mismo tiempo sigue promoviendo el almacenamiento de grasa
+- La resistencia a la insulina bloquea la captación de glucosa Y al mismo tiempo sigue promoviendo el almacenamiento de grasa
 
 ---
 
@@ -144,7 +144,7 @@ Vaciar la grasa ectópica del músculo y del hígado —con ejercicio, déficit 
 
 ---
 
-## Hilos Abiertos
+## Temas Abiertos
 
 - AMPK a fondo: cómo la berberina, el ejercicio y el ayuno usan el mismo desvío
 - Mecanismo completo del tráfico de GLUT4
@@ -156,7 +156,7 @@ Vaciar la grasa ectópica del músculo y del hígado —con ejercicio, déficit 
 
 ---
 
-## Anexo (2026-07-31): Resistencia Selectiva a la Insulina — Por Qué la RI Produce MÁS Grasa, No Menos
+## Anexo (2026-07-31): Resistencia Selectiva a la Insulina — Por Qué la Resistencia a la Insulina Produce MÁS Grasa, No Menos
 
 **La paradoja**
 

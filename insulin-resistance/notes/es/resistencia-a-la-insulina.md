@@ -88,7 +88,7 @@ Según esta visión, la resistencia a la insulina no la causa principalmente la 
 3. **Se necesita más insulina** para lograr la misma entrada de glucosa → el páncreas compensa con hiperinsulinemia
 4. **Las células de grasa resisten la insulina** → los ácidos grasos inundan la sangre → se depositan en hígado y músculo
 5. **Grasa ectópica en el hígado** → el propio hígado se vuelve resistente → sigue produciendo glucosa aunque ya esté alta (falla del control de la producción hepática de glucosa)
-6. **Resistencia a la insulina en el músculo** → se daña el principal sitio de eliminación de glucosa
+6. **Resistencia a la insulina en el músculo** → se daña el principal sitio de captación de glucosa
 7. **Agotamiento del páncreas** → fallan las células beta → diabetes tipo 2
 
 **El problema de la fructosa:** la fructosa se metaboliza casi por completo en el hígado. A diferencia de la glucosa, se salta los mecanismos normales de control y se convierte fácilmente en grasa (lipogénesis de novo). Mucha fructosa → hígado graso → acelera la resistencia a la insulina. 🟢 Evidencia sólida con consumos altos (bebidas azucaradas, jarabe de maíz alto en fructosa); la fruta entera es otro caso.
@@ -205,7 +205,7 @@ Las bacterias de la enfermedad de las encías que pasan a la sangre a través de
 | Estrategia | Mecanismo | Evidencia |
 |---|---|---|
 | Dieta baja en carbohidratos / cetogénica | Elimina los picos de glucosa; obliga a quemar grasa; baja rápido la insulina en ayunas | 🟢 Sólida |
-| Alimentación con horario restringido (16:8) | Alarga la ventana de ayuno; la insulina baja a su nivel base; vacía el glucógeno | 🟡 Mixta: el beneficio sigue sobre todo a la pérdida de peso |
+| Alimentación con horario restringido (16:8) | Alarga la ventana de ayuno; la insulina baja a su nivel base; vacía el glucógeno | 🟡 Mixta: el beneficio depende sobre todo de la pérdida de peso |
 | Eliminar carbohidratos refinados y azúcar | Quita el motor principal; el cambio individual de mayor impacto | 🟢 Sólida |
 | Eliminar la fructosa | Quita el acelerador (jarabe de maíz alto en fructosa, jugos, agave) | 🟢 Sólida para la fructosa añadida |
 | Aumentar la proteína | Da saciedad sin disparar la glucosa; protege el músculo al perder grasa | 🟢 Sólida (ver corrección abajo) |
@@ -214,8 +214,8 @@ Las bacterias de la enfermedad de las encías que pasan a la sangre a través de
 
 ✅ **El entrenamiento de fuerza** es la mejor intervención de ejercicio para la resistencia a la insulina:
 
-- El músculo es el órgano que más glucosa elimina
-- Cada libra de músculo = un aumento permanente en la capacidad de eliminar glucosa
+- El músculo es el órgano que más glucosa capta
+- Cada libra de músculo = un aumento permanente en la capacidad de captar glucosa
 - El entrenamiento de fuerza activa la translocación de GLUT4: la glucosa entra al músculo sin insulina (vía independiente de la insulina)
 
 🟢 **Cardio en zona 2**: mejora la densidad mitocondrial, aumenta la capacidad de oxidar grasa y glucosa, reduce la grasa del hígado.
@@ -232,7 +232,7 @@ Las bacterias de la enfermedad de las encías que pasan a la sangre a través de
 
 ---
 
-## Correcciones clave (del primer borrador de Grok y de la unión)
+## Correcciones clave (del primer borrador de Grok y de la fusión de notas)
 
 - "La resistencia a la insulina baja la testosterona en los hombres": va en la dirección correcta, pero estaba incompleto. El mecanismo pasa por una SHBG más baja y más conversión de testosterona en estradiol en el tejido graso, no por un efecto directo sobre las células que producen testosterona.
 - La "diabetes tipo 3" se presentó como un hecho establecido; se corrigió arriba a 🟡 término en debate, no un diagnóstico formal.
