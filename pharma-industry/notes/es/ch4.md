@@ -7,7 +7,7 @@
 Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1962, una farmacéutica estadounidense solo tenía que demostrar que un medicamento era razonablemente seguro; nunca tenía que demostrar que funcionaba, nunca tenía que registrarse ante la FDA y nunca tenía a un inspector en la puerta. La tesis de Posner es un ciclo que se repite: **tragedia, luego reforma, luego resistencia de la industria**. La reforma que finalmente se aprobó fue una ley de seguridad y eficacia, y la industria la aceptó porque se eliminó la parte que más temía (patentes más cortas y pérdida del poder de fijar precios). Saber qué hizo y qué no hizo la ley de 1962 es la base para leer cualquier etiqueta de receta, cualquier anuncio de medicamentos y cualquier afirmación de "aprobado por la FDA". Posner es un periodista de investigación (autor de *Pharma*), no un científico, así que sus datos históricos se marcan ✅ cuando los afirma con claridad y sus interpretaciones 🟡.
 
 ## Recapitulación inicial — Médicos, farmacéuticas y homeopatía
-- El medio paso atrás de Posner hacia la Clase 3: la AMA quería eliminar la competencia de la homeopatía y de los "charlatanes". En 1900 EE. UU. tenía **20 escuelas homeopáticas**; en **1950 cerró la última**. ✅
+- El breve repaso de Posner de la Clase 3: la AMA quería eliminar la competencia de la homeopatía y de los "charlatanes". En 1900 EE. UU. tenía **20 escuelas homeopáticas**; en **1950 cerró la última**. ✅
 - Ese mismo año, según sus cifras, las 10 principales farmacéuticas estadounidenses manejaban **el 80% de las recetas del mundo y el 95% de las ganancias**, tras reemplazar a la diezmada industria alemana. ✅ (según lo afirmado)
 - En Alemania, la homeopatía había florecido junto a Merck, Bayer y Schering y se trataba como competencia, no como algo que hubiera que extinguir. 🟡 Su contraste.
 - Su lectura: médicos y farmacéuticas se volvieron aliados porque cada uno protegía el monopolio del otro. 🟡 Interpretación.
@@ -18,7 +18,7 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 - Cada avance (antibióticos, anestesia, quimioterapia, terapias hormonales) es de doble filo.
 
 ## Kefauver — De las audiencias contra la mafia a la industria farmacéutica
-- **Estes Kefauver**: 1,90 m (6'3"), larguirucho, encorvado, anteojos gruesos, marcado acento sureño; una estrella de televisión improbable. ✅
+- **Estes Kefauver**: 1.90 m (6'3"), larguirucho, encorvado, anteojos gruesos, marcado acento sureño; una estrella de televisión improbable. ✅
 - Las **audiencias de 1950 sobre el crimen organizado** se televisaron y se convirtieron, en palabras de Posner, en "el reality show de True Crime de los años cincuenta". La revista Time escribió que los platos se quedaban en el fregadero y las tiendas departamentales se vaciaban. Cerca del **90% de los hogares con televisor (unos 30 millones de estadounidenses)** las vio en algún momento. David Halberstam lo llamó "un Jimmy Stewart sureño". ✅
 - Se postuló a la presidencia en **1952 y 1956**, perdió la nominación ante Adlai Stevenson ambas veces, fue compañero de fórmula de Stevenson en 1956 y perdió ante Eisenhower. ✅
 - Como presidente del subcomité antimonopolio investigó la colusión en el acero, la industria automotriz y el pan, y luego se dirigió a los medicamentos en **1959**. Posner cree que ningún Congreso actual, de ningún partido, emprendería una investigación tan profunda. 🟡 Opinión.
@@ -87,7 +87,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 
 - Oposición de la industria: arruinará la innovación, frenará medicamentos que salvan vidas y es "inconstitucional y antiestadounidense", un paso hacia la medicina socializada al estilo europeo. ✅
 - Posner dice que Arthur Sackler fue quien más impulsó el argumento "antiestadounidense", siendo a la vez miembro con carnet del Partido Comunista que daba trabajo a escritores en la lista negra. 🟡 Afirmación de Posner.
-- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto en el agua". ✅
+- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto y enterrado". ✅
 - Contexto posterior: el plazo de patente pasó de 17 a 20 años, nunca bajó. ✅ (según lo afirmado)
 
 ## La talidomida — "Al rescate"
@@ -137,7 +137,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 - 🔴 "El escándalo Welch demostró una FDA corrupta": la propia revisión de la FDA culpó solo a Welch (Posner lo duda, pero esa fue la conclusión oficial).
 
 ## Conclusión práctica
-La lista del "paciente más inteligente" de Posner, como puntos de estudio, no como consejo médico: (1) **pregunta si un medicamento es nuevo** y cuánto tiempo lleva en el mercado y en qué población tan amplia; los medicamentos más antiguos y bien estudiados tienen un historial de seguridad más largo; (2) **trata las afirmaciones de marketing con escepticismo**, incluidos los anuncios de televisión dirigidos al consumidor (desde 1997), que surgieron de la idea de Arthur Sackler en los años cincuenta de que la industria podía "crear demanda del consumidor"; (3) **reporta los efectos secundarios inusuales** a tu médico, ya que los perfiles de seguridad se construyen después de la aprobación; (4) nunca supongas que los reguladores detectaron todo.
+La lista del "paciente más inteligente" de Posner, como puntos de estudio, no como consejo médico: (1) **pregunta si un medicamento es nuevo** y cuánto tiempo lleva en el mercado y en qué tan amplia población se ha usado; los medicamentos más antiguos y bien estudiados tienen un historial de seguridad más largo; (2) **trata las afirmaciones de marketing con escepticismo**, incluidos los anuncios de televisión dirigidos al consumidor (desde 1997), que surgieron de la idea de Arthur Sackler en los años cincuenta de que la industria podía "crear demanda del consumidor"; (3) **reporta los efectos secundarios inusuales** a tu médico, ya que los perfiles de seguridad se construyen después de la aprobación; (4) nunca supongas que los reguladores detectaron todo.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Según lo que Posner dice que las Enmiendas Kefauver-Harris de 1962 exigieron por primera vez, ¿qué afirmación es correcta?**
@@ -150,7 +150,7 @@ C. Prohibieron toda la publicidad de medicamentos de receta dirigida a médicos
 A. \* La ley de 1962 mantuvo las patentes de 17 años y el poder irrestricto de fijar precios, que la industria valoraba más que evitar nuevos costos de seguridad
 B. La ley de 1962 era más débil en seguridad que el S.1552
 C. La talidomida convenció a los ejecutivos de que la regulación era buena para el negocio
-*Por qué A: Posner dice que los memorandos internos mostraron alivio porque las patentes quedaron intactas; la industria cambió costos de ensayos más altos por conservar su poder de fijar precios.*
+*Por qué A: Posner dice que los memorandos internos mostraron alivio porque las patentes quedaron intactas; la industria aceptó costos de ensayos más altos a cambio de conservar su poder de fijar precios.*
 
 **3. A partir del folleto de los médicos falsos de Sigmamycin, ¿qué lección saca Posner?**
 A. El redactor de Pfizer actuó solo, así que el sistema funcionó
