@@ -46,7 +46,7 @@ Barron admite que aquí la analogía de la novela "cojea": los personajes de Tol
 | Crecer significa | Más opciones | Menos distracciones y apegos entre tú y el bien |
 | Fuente | Barron toma los términos del dominico Servais Pinckaers |  |
 
-- Los ejemplos de Barron: batallar con el francés en las mesas de seminario de París durante su doctorado (sin libertad), frente a hablar inglés (libre); un principiante frente a un músico consumado. ✅
+- Los ejemplos de Barron: batallar con el francés en los seminarios de París durante su doctorado (sin libertad), frente a hablar inglés (libre); un principiante frente a un músico consumado. ✅
 - **Atraer, no coaccionar.** Si alguien organizara una clase con Tiger Woods en el TPC Stadium Course de Phoenix, o un café con Bob Dylan, para llevar a Barron a algún lugar con otro propósito, él iría libremente y quien lo organizó obtendría igualmente lo que quería. Dios, que nos conoce mejor que nosotros mismos y puede disponer todas las circunstancias, atrae la libertad poniendo un bien delante de ella. La providencia despierta la libertad; no la anula. ✅ (analogía de Barron)
 - **La ciencia media de Molina** (debate posterior a la Reforma): además de saber lo que *será* y lo que *podría* ser, Dios sabe lo que *sería*, la *scientia media*, lo que cada criatura libre haría libremente en cualquier circunstancia. Luego "ratifica" el mundo en el que las criaturas libres realizan lo que Él quiere. Barron la llama "una propuesta muy interesante" dentro del mismo espacio no competitivo. 🟡 Molina era jesuita; Barron bromea sobre mencionarlo ante dominicos y jesuitas. No es la posición de Tomás, y sigue siendo discutida entre los tomistas; la lección solo lo insinúa.
 
@@ -82,7 +82,7 @@ Barron admite que aquí la analogía de la novela "cojea": los personajes de Tol
 - **Conclusión: la entrega.** El Dios al que no se puede abarcar pero del que no es posible esconderse; la aceptación en el amor y la fe de que Dios está perfeccionando el mundo que hizo, "probablemente lo mejor que podemos hacer". 🟡 Barron lo presenta como el límite de la respuesta, no como una solución completa.
 
 ## Preguntas del público — Tillich y Tomás de Aquino
-Preguntado por Paul Tillich (liberal moderno) frente a Tomás (clásico): ambos usan la ontología. De Tillich, un protestante, Barron aprendió una **lectura cristológica de la metafísica**, que lo llevó a leer los textos cristológicos de Tomás para interpretar los metafísicos (su trabajo doctoral). Tillich, capellán en la Primera Guerra Mundial, escribió teología "para personas cuyo mundo se había derrumbado", en diálogo con Freud y la psicología moderna.
+Ante una pregunta sobre Paul Tillich (liberal moderno) frente a Tomás (clásico): ambos usan la ontología. De Tillich, un protestante, Barron aprendió una **lectura cristológica de la metafísica**, que lo llevó a leer los textos cristológicos de Tomás para interpretar los metafísicos (su trabajo doctoral). Tillich, capellán en la Primera Guerra Mundial, escribió teología "para personas cuyo mundo se había derrumbado", en diálogo con Freud y la psicología moderna.
 
 ## Frases clave y datos citables (Lección 6)
 - **"Su providencia es absoluta, aun cuando dejan ser a la historia."** Tolkien y Dickens como modelo de Dios.
