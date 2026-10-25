@@ -17,7 +17,7 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares alimentarios en u
 ## Frases clave y datos citables (Conferencia 6)
 
 - **"El hambre siempre gana."** — planteado casi como una ley del comportamiento humano en un entorno de abundancia de alimentos; la justificación central para bajar la insulina antes de restringir la energía.
-- **"Si Dios hubiera querido que nos bebiéramos una manzana, la manzana habría salido del árbol en forma de granizado."** — el argumento de Bikman contra hacer jugos o licuados de fruta entera.
+- **"Si Dios hubiera querido que nos bebiéramos una manzana, la manzana habría salido del árbol en forma de raspado."** — el argumento de Bikman contra hacer jugos o licuados de fruta entera.
 - **"Así es como Dios quiso que fueran. En nuestra soberbia, los hemos separado."** — sobre comer proteína y grasa juntas en lugar de aisladas (p. ej., proteína en polvo magra sola).
 - **"No existe tal cosa como un carbohidrato esencial"** — reiterado del Cap.2, ahora respaldado explícitamente por una declaración de la Academia Nacional de Ciencias de que el límite inferior de carbohidratos en la dieta es cero.
 - **"Sí necesitamos glucosa en sangre. No necesitamos carbohidratos en la dieta."** — la distinción clave que Bikman insiste en que la gente deje de confundir.
@@ -32,8 +32,8 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares alimentarios en u
 - No es "cero carbohidratos": se trata de priorizar frutas y verduras **enteras** (con su fibra intacta) por encima de granos/pan/cereal/arroz, que tienen un impacto mucho mayor sobre la insulina
 - **Nunca hacer jugos ni licuados** — quitar la fibra elimina el freno natural a la llegada del azúcar/almidón al torrente sanguíneo
 - **El orden de los alimentos en la comida importa, independientemente de su contenido:** en un estudio citado, comer proteína/grasa *antes* que los carbohidratos (en lugar de los carbohidratos primero) redujo la respuesta glucémica en un **50 %** con la *misma* comida — una intervención realmente gratuita, de costo cero
-- **La fermentación como herramienta para reducir carbohidratos:** las bacterias consumen los almidones/azúcares de los alimentos fermentados (lácteos, verduras) sin tocar la proteína ni la grasa; además producen como subproducto grasas de cadena corta beneficiosas
-- **Vinagre de manzana (ácido acético, la grasa de cadena corta más corta):** atenúa la respuesta glucémica al alterar la digestión del almidón/azúcar *y* acelerar la captación de glucosa por el músculo; Bikman lo señala como uno de los "trucos" respaldados por evidencia más ignorados que existen
+- **La fermentación como herramienta para reducir carbohidratos:** las bacterias consumen los almidones/azúcares de los alimentos fermentados (lácteos, verduras) sin tocar la proteína ni la grasa; además producen como subproducto ácidos grasos de cadena corta beneficiosos
+- **Vinagre de manzana (ácido acético, el ácido graso de cadena corta más corto):** atenúa la respuesta glucémica al alterar la digestión del almidón/azúcar *y* acelerar la captación de glucosa por el músculo; Bikman lo señala como uno de los "trucos" respaldados por evidencia más ignorados que existen
 - **Edulcorantes, clasificados:** los polialcoholes (xilitol, eritritol, etc.) tienen cierto efecto sobre la insulina, menor que el azúcar; la alulosa, el aspartame, la stevia y la fruta del monje prácticamente no tienen ninguno — pero ojo con los rellenos de dextrosa específicamente en los productos de stevia envasados, que pueden anular el sentido de elegirla
 
 **2. Priorizar la proteína**
@@ -62,7 +62,7 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares alimentarios en u
 **Calor (sauna, baño caliente):**
 
 - Mejora el flujo sanguíneo en un grado comparable al ejercicio según la investigación citada — sugerido explícitamente como sustituto del ejercicio para personas en silla de ruedas o postradas en cama
-- **El sudor en sí cuesta energía:** aproximadamente 0.5 caloría por unas cuantas gotas de sudor; una sesión que produce ~500 g de sudor cuesta aproximadamente ~300 calorías — comparable a correr unas cuantas millas
+- **El sudor en sí cuesta energía:** aproximadamente 0.5 calorías por unas cuantas gotas de sudor; una sesión que produce ~500 g de sudor cuesta aproximadamente ~300 calorías — comparable a correr unas cuantas millas
 - **Reducción del cortisol:** cuatro sesiones de sauna de 12 minutos redujeron el cortisol en un 30 % — reduce directamente una de las tres causas principales de resistencia a la insulina del Cap.1 (el estrés)
 
 **Frío (escalofríos, inmersión en frío):**
@@ -80,14 +80,14 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares alimentarios en u
 
 | Marcador | Meta | Nota |
 | --- | --- | --- |
-| Insulina en ayunas | **~6 µIU/mL** o menos |  |
+| Insulina en ayunas | **~6 µUI/mL** o menos |  |
 | HOMA-IR | **~1.5**, ajustado por etnia (más cerca de 1 o 2 para algunos grupos) |  |
 | Índice de resistencia a la insulina del tejido adiposo (Adipose-IR) | Hombres <5, mujeres <8 | Requiere AGL/NEFA en ayunas — no viene en los paneles estándar |
 | Relación TG/HDL | **~1.5**, ajustada por etnia |  |
 | Puntaje de calcio coronario (CAC) | **~0** | Recomendación explícita de Bikman: hacerlo *antes* de empezar un medicamento hipolipemiante, para saber si realmente existe placa |
 | Cetonas matutinas (medidor por punción en el dedo) | **≥3 mmol/L**, varias mañanas por semana | Si no se alcanza en una semana de controlar la cena/los refrigerios, probablemente la insulina sigue demasiado alta |
 
-Esta tabla te da un marcador numérico realmente completo.
+Esta tabla te da un tablero numérico realmente completo.
 
 ## Lo más destacado de las preguntas y respuestas: varias cierran directamente temas abiertos de capítulos anteriores
 

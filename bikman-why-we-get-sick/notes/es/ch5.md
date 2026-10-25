@@ -12,9 +12,9 @@ Todos los capítulos anteriores dejaron para esta clase las metas numéricas esp
 
 - **"Este es el evangelio del metabolismo"** — el propio encuadre de Bikman para este capítulo: la resistencia a la insulina se resuelve rápido, aunque no de forma permanente sin un cambio sostenido.
 - **"Darle insulina a un diabético tipo 2 es como darle otra copa de vino a un alcohólico, esperando que el vino resuelva su alcoholismo."** — sobre las sulfonilureas/la terapia con insulina en la diabetes causada por resistencia a la insulina.
-- **Según los propios datos de ensayos aleatorizados de la metformina: el cambio de estilo de vida es más de 2 veces más eficaz que el fármaco para la diabetes más recetado del mundo.**
+- **Según los propios datos de ensayos aleatorizados de la metformina: el cambio de estilo de vida es más de 2 veces más eficaz que el fármaco más recetado del mundo para la diabetes.**
 - **"No todas las calorías son iguales"** — dicho después de mostrar un estudio isocalórico en el que una ingesta calórica idéntica produjo resultados metabólicos distintos solo por la composición de macronutrientes.
-- **58 ensayos controlados aleatorizados comparan dietas bajas en carbohidratos vs. bajas en grasa: 29 muestran una pérdida de peso estadísticamente significativa mayor con la baja en carbohidratos. Cero muestran una pérdida de peso estadísticamente significativa mayor con la baja en grasa. Ni uno solo, jamás, publicado.**
+- **58 ensayos controlados aleatorizados comparan dietas bajas en carbohidratos vs. bajas en grasa: 29 muestran una pérdida de peso estadísticamente significativa mayor con la baja en carbohidratos. Cero muestran una pérdida de peso estadísticamente significativa mayor con la baja en grasa. Ni uno solo publicado, nunca.**
 - **El estudio más antiguo registrado de baja en carbohidratos vs. baja en grasa: el Libro de Daniel** — Daniel y sus compañeros rechazan la dieta de carne y vino del rey a cambio de vegetales/legumbres... y Bikman señala que terminaron "de mejor aspecto y más robustos" de lo esperado, un dato antiguo e irónico que cita como contexto, no como evidencia clínica.
 - **Los fármacos TZD pueden causar un aumento de 20 lb (~9 kg) de grasa en un mes** mientras técnicamente mejoran la sensibilidad a la insulina — el efecto farmacológico más paradójico de toda la clase.
 
@@ -41,7 +41,7 @@ Todos los capítulos anteriores dejaron para esta clase las metas numéricas esp
 **Pruebas en casa (sin extracción de sangre):**
 
 - **Acantosis nigricans:** piel oscurecida, engrosada y con textura de papel de seda en el cuello u otros pliegues (axilas, ingle) — Bikman afirma que por sí sola es casi una "prueba positiva" de resistencia a la insulina. El cambio de textura es detectable en todos los tonos de piel, incluso cuando el oscurecimiento del pigmento es menos evidente.
-- **Acrocordones (verrugas de piel):** pequeños crecimientos con forma de tallo, distintos de los lunares — también un marcador visible directo. Ambos se resuelven rápidamente una vez que se corrige la resistencia a la insulina, sin necesidad de tratamiento dermatológico — realmente útiles como señal de retroalimentación en tiempo real.
+- **Acrocordones (fibromas blandos):** pequeños crecimientos con forma de tallo, distintos de los lunares — también un marcador visible directo. Ambos se resuelven rápidamente una vez que se corrige la resistencia a la insulina, sin necesidad de tratamiento dermatológico — realmente útiles como señal de retroalimentación en tiempo real.
 - **Índice cintura-estatura:** la circunferencia de cintura × 2 debe ser **menor que la estatura**. Simple, sin más equipo que una cinta métrica.
 
 ## Las tres causas principales, revisadas como "palancas"
@@ -50,7 +50,7 @@ De estrés, inflamación e hiperinsulinemia (las tres causas principales del Cap
 
 **Intervenciones para el estrés, reformuladas con números específicos:**
 
-- Picoteo nocturno: dale al cuerpo **~3 horas** entre el último alimento alto en carbohidratos y la hora de dormir para que la glucosa/insulina bajen antes del sueño — previene directamente el efecto de "acalorado y alterado" del sistema nervioso simpático a la hora de dormir del Cap. 3.
+- Comer algo por la noche: dale al cuerpo **~3 horas** entre el último alimento alto en carbohidratos y la hora de dormir para que la glucosa/insulina bajen antes del sueño — previene directamente el efecto de "acelerado y alterado" del sistema nervioso simpático a la hora de dormir del Cap. 3.
 - Cafeína: un **intervalo de 6 horas** antes de dormir basta para metabolizar la cafeína y evitar sus efectos sobre la glucosa/frecuencia cardíaca mediados por la epinefrina.
 
 ## Clases de fármacos — la clasificación explícita de Bikman ("el evangelio según Ben")
@@ -98,7 +98,7 @@ De estrés, inflamación e hiperinsulinemia (las tres causas principales del Cap
 **Cirugía GI/metabólica (bypass gástrico, manga gástrica):**
 
 - Funciona forzando una menor ingesta o una menor absorción de alimentos — en efecto, una restricción energética severa y forzada
-- **Una historia de origen que vale la pena conocer:** el potencial terapéutico del GLP-1 se *descubrió* al estudiar por qué estas cirugías mejoraban los resultados metabólicos — se encontró que los intestinos redirigidos producían más GLP-1 de forma natural. Un verdadero dato de historia médica que explica de dónde salió toda la clase de fármacos GLP-1.
+- **Un antecedente histórico que vale la pena conocer:** el potencial terapéutico del GLP-1 se *descubrió* al estudiar por qué estas cirugías mejoraban los resultados metabólicos — se encontró que los intestinos redirigidos producían más GLP-1 de forma natural. Un verdadero dato de historia médica que explica de dónde salió toda la clase de fármacos GLP-1.
 
 **Liposucción — reformulada con un estudio específico, ampliando el hallazgo del Cap. 2:**
 
@@ -122,9 +122,9 @@ De estrés, inflamación e hiperinsulinemia (las tres causas principales del Cap
 **Comparaciones directas de ECA citadas (varios ensayos independientes):**
 
 - Un ensayo: la dieta baja en carbohidratos produjo una reducción varias veces mayor tanto de la glucosa en ayunas como de la insulina en ayunas en comparación con la baja en grasa
-- Ensayo isocalórico de tres brazos (baja en grasa vs. mediterránea vs. baja en carbohidratos sin restricción calórica): el grupo bajo en carbohidratos tuvo una respuesta de pérdida de peso tan marcada que los investigadores tuvieron que aumentar 6 veces su asignación de carbohidratos (20 g→120 g/día) para frenarla por validez del estudio — y aun así superó a los brazos con restricción calórica en todos los marcadores metabólicos medidos
+- Ensayo isocalórico de tres brazos (baja en grasa vs. mediterránea vs. baja en carbohidratos sin restricción calórica): el grupo bajo en carbohidratos tuvo una respuesta de pérdida de peso tan marcada que los investigadores tuvieron que aumentar 6 veces su asignación de carbohidratos (20 g→120 g/día) para frenarla y preservar la validez del estudio — y aun así superó a los brazos con restricción calórica en todos los marcadores metabólicos medidos
 - **Análisis de subgrupos sensibles vs. resistentes a la insulina (repetido en dos estudios distintos):** las personas sensibles a la insulina responden bien a *cualquiera* de las dietas; las personas resistentes a la insulina muestran una **respuesta real y significativa solo con la dieta baja en carbohidratos**, no con la baja en grasa, incluso con calorías igualadas. Es un hallazgo crítico y personalizado — la "mejor dieta" realmente difiere según el estado inicial de resistencia a la insulina, no es una respuesta única para todos.
-- **Pérdida de peso según el fenotipo de respuesta insulínica:** las personas con alta respuesta de insulina a una carga de glucosa perdieron **más del doble de peso** con la dieta baja en carbohidratos vs. la baja en grasa; quienes tenían baja respuesta insulínica rindieron bien con cualquiera de las dos
+- **Pérdida de peso según el fenotipo de respuesta insulínica:** las personas con alta respuesta de insulina a una carga de glucosa perdieron **más del doble de peso** con la dieta baja en carbohidratos vs. la baja en grasa; a quienes tenían baja respuesta insulínica les fue bien con cualquiera de las dos
 
 **El metaanálisis, expresado con precisión:** de 58 ECA publicados que comparan baja en carbohidratos vs. baja en grasa — 48 tendieron a una mayor pérdida de peso con la baja en carbohidratos (29 alcanzaron significancia estadística), 7 tendieron a favor de la baja en grasa (ninguno alcanzó significancia), 3 no encontraron diferencia. **Ningún ECA ha encontrado jamás una pérdida de peso estadísticamente significativa mayor con una dieta baja en grasa.**
 
