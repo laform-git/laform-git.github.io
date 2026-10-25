@@ -11,7 +11,7 @@ Una hormona permite que un tipo de célula de un tejido envíe una señal a otro
 
 ## Frases clave y datos citables
 - **"Si puedes recordar la retroalimentación negativa, casi siempre podrás anticipar la dirección en que van estas hormonas."**
-- **Libre vs. unida: aproximadamente 1,000 veces más hormona liposoluble está unida que libre** — el pool unido es una reserva protegida; solo el pool libre actúa.
+- **Libre vs. unida: aproximadamente 1,000 veces más hormona liposoluble está unida que libre** — la fracción unida es una reserva protegida; solo la fracción libre actúa.
 - **La hormona del crecimiento es una hormona metabólica, no solo una hormona del crecimiento** — moviliza la grasa y el glucógeno hepático para alimentar el crecimiento.
 - **La TSH envía dos señales distintas: producir hormona tiroidea Y hacer crecer la glándula** — la clave para entender el bocio.
 - **La grasa parda es la principal productora de T3 activa cuando la activa el frío** — pero la T4 sigue viniendo de la tiroides.
@@ -32,9 +32,9 @@ Una hormona permite que un tipo de célula de un tejido envíe una señal a otro
 
 ✅ La analogía de "tocar a la puerta" vs. "ladrón en la noche": las hormonas hidrosolubles no pueden cruzar la membrana grasa, así que una cadena de segundos mensajeros (el perro ladra, los niños corren, alguien me llama) entrega el mensaje. Las hormonas liposolubles cruzan la membrana y SON el mensajero — no se necesita segundo mensajero.
 
-## Pools libre vs. unido (hormonas liposolubles)
-- **Pool libre:** pequeñísimo, pero es la única fracción que puede actuar. ✅
-- **Pool unido:** unas 1,000 veces más grande; la proteína transportadora protege a la hormona de la degradación y la mantiene como una reserva que puede liberarse rápido cuando se necesita. ✅
+## Fracción libre vs. unida (hormonas liposolubles)
+- **Fracción libre:** pequeñísima, pero es la única que puede actuar. ✅
+- **Fracción unida:** unas 1,000 veces más grande; la proteína transportadora protege a la hormona de la degradación y la mantiene como una reserva que puede liberarse rápido cuando se necesita. ✅
 - Mientras está unida, una hormona no puede señalizar. ✅
 
 ## Tres distancias de señalización
@@ -65,7 +65,7 @@ Una hormona permite que un tipo de célula de un tejido envíe una señal a otro
 - **La T4 es la forma inactiva, la T3 la forma activa.** Los tejidos convierten la T4 en T3 después de captarla. ✅
 - **El tejido adiposo pardo** (tasa metabólica alta, disperso por el tórax) se convierte en el principal productor de T3 cuando lo activa la exposición al frío. ✅ Bikman dice que en general es partidario de la inmersión en frío.
 - **La TSH tiene dos efectos:** estimula la producción de hormona tiroidea Y el crecimiento de la tiroides. ✅
-- **La hormona tiroidea es la "válvula de estrangulación" metabólica / el ralentí del motor** de cada célula: alta significa que cada célula hace lo que hace más rápido y más; baja significa más lento. ✅
+- **La hormona tiroidea es el "ahogador" metabólico / el ralentí del motor** de cada célula: alta significa que cada célula hace lo que hace más rápido y más; baja significa más lento. ✅
 
 | Sistema | Hipertiroidismo (todo acelerado) | Hipotiroidismo (todo retrasado) |
 | --- | --- | --- |
@@ -130,7 +130,7 @@ Por un tumor hipofisario que impulsa la ACTH o por un tumor de la propia corteza
 - **Células alfa:** las células alfa resistentes ignoran la señal de alto de la insulina y bombean glucagón, lo que le dice al hígado que libere todavía más glucosa.
 - Una vez que las tres están involucradas, la glucosa sube drásticamente — la resistencia a la insulina ha madurado hasta convertirse en **diabetes tipo 2**. No hay diabetes tipo 2 sin resistencia a la insulina primero.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que un bocio significa una tiroides hiperactiva: puede ser hipo (deficiencia de yodo) o hiper (Graves). El agrandamiento y la producción de hormona son dos señales distintas de la TSH.
 - 🔴 Suponer que la T4 es la hormona tiroidea que trabaja: la T4 es la forma inactiva; la T3 es la forma activa, y la conversión ocurre en los tejidos (sobre todo en la grasa parda, cuando la activa el frío).
 - 🔴 Suponer que la hormona del crecimiento solo construye tejido: también moviliza la grasa y el glucógeno hepático, y su exceso impulsa la resistencia a la insulina.

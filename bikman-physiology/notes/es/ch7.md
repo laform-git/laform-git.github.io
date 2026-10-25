@@ -36,7 +36,7 @@ Esta es la lección que explica *por qué* crece la grasa, no solo *que* crece. 
 ## Dónde va la grasa vs. cuánta — Dos señales distintas
 - **La insulina decide *cuánta* grasa se almacena.** ✅
 - **La lipoproteína lipasa (LPL) decide *dónde* se almacena.** Donde se expresa más LPL, se almacena más grasa. ✅ (El sufijo "-asa" significa que es una enzima.)
-- **Las hormonas sexuales dirigen la expresión de la LPL:** en la pubertad, los estrógenos impulsan la LPL en los sitios femeninos prototípicos (senos, glúteos, caderas); los andrógenos, mucho más altos en los varones, impulsan la LPL a nivel central, así que un hombre acumula grasa alrededor del abdomen. ✅
+- **Las hormonas sexuales dirigen la expresión de la LPL:** en la pubertad, los estrógenos impulsan la LPL en los sitios femeninos prototipicos (senos, glúteos, caderas); los andrógenos, mucho más altos en los varones, impulsan la LPL a nivel central, así que un hombre acumula grasa alrededor del abdomen. ✅
 - Antes de la pubertad, niños y niñas se ven esencialmente iguales en tipo de cuerpo. ✅
 - **Sin señal de hormonas sexuales** (en algunas patologías), el cuerpo adopta por defecto un patrón femenino genérico, más en los glúteos y las caderas, aunque no necesariamente tejido mamario en un hombre. ✅
 
@@ -74,7 +74,7 @@ La objeción termodinámica, respondida: sin señal de insulina, **el cuerpo enc
 - **Joslin y Benedict** (el padrino de la endocrinología moderna y el padrino de la ciencia de la tasa metabólica): las personas con diabetes grave (tipo 1) tenían una tasa metabólica **aproximadamente 20% por encima** de lo que predecía su tamaño corporal. Darles insulina la regresaba a lo esperado. ✅
 - Un enlentecimiento similar ocurre cuando se eleva la insulina en algunas personas con tipo 2, y en no diabéticos. ✅
 - **Comidas con calorías igualadas:** la comida más alta en carbohidratos da un mayor pico de insulina y una mayor caída de la tasa metabólica. El grupo bajo en carbohidratos quemó aproximadamente **300 calorías más por día.** ✅
-- **Desperdicio de cetonas:** con la insulina baja, se producen muchas cetonas que se pierden en el aliento y la orina. Cada cetona contiene calorías aproximadamente como la glucosa, así que esa energía se desecha. ✅
+- **Desperdicio de cetonas:** con la insulina baja, se producen muchas cetonas que se pierden en el aliento y la orina. Cada cetona contiene aproximadamente tantas calorías como la glucosa, así que esa energía se desecha. ✅
 - **Diabulimia:** diabéticos tipo 1 que deliberadamente se aplican menos insulina de la necesaria para mantenerse delgados mientras comen libremente, con riesgo letal (glucosa aproximadamente 10 veces demasiado alta, cetonas peligrosamente ácidas). El uso que le da Bikman: la "prueba definitiva" del papel de la insulina en dirigir la energía. ✅
 - Con la insulina lo bastante baja, un adipocito **debe encogerse y no puede crecer**, sin importar las calorías.
 
@@ -83,7 +83,7 @@ La objeción termodinámica, respondida: sin señal de insulina, **el cuerpo enc
 - Extrae *masa* grasa pero no cambia el **tamaño** de las células restantes. ✅
 - Si la dieta y la señalización de la insulina no cambian, el cuerpo recupera grasa en otro lugar (ejemplo dado: de los glúteos y las caderas al abdomen). ✅
 - **Ningún resultado clínico mejora.** Como los adipocitos no se regeneran, los sobrevivientes cargan con un peso mayor y se hipertrofian con más facilidad, así que el riesgo puede *subir.* ✅
-- Se describe a las mujeres como más grasas que los hombres en promedio pero más sanas, porque almacenan casi exclusivamente de forma subcutánea (glúteos y caderas). Los hombres almacenan más de forma visceral. ✅
+- Se describe a las mujeres como con más grasa que los hombres en promedio pero más sanas, porque almacenan casi exclusivamente de forma subcutánea (glúteos y caderas). Los hombres almacenan más de forma visceral. ✅
 
 ## Frases clave y datos citables (Lección 7)
 - **"No hay crecimiento de grasa a menos que la insulina esté elevada."**
@@ -96,7 +96,7 @@ La objeción termodinámica, respondida: sin señal de insulina, **el cuerpo enc
 - **Los adipocitos se vuelven resistentes a la insulina para no reventar.** Aquí la resistencia a la insulina es una maniobra de supervivencia.
 - **"El problema es el tamaño de los adipocitos. No es la masa total de grasa."**
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que los adultos siguen produciendo adipocitos: después de la adolescencia, el número es mayormente fijo y el aumento en adultos es por hipertrofia (aparte de la excepción genética de ~10%).
 - 🔴 Suponer que los adipocitos nunca mueren: duran aproximadamente 10 años y se reemplazan uno por uno.
 - 🔴 Suponer que la leptina es solo un interruptor que apaga el hambre, o que más leptina significa menos obesidad: la obesidad típica implica resistencia a la leptina, y la leptina también actúa sobre la degradación de grasa, la captación de glucosa en el músculo y las células beta.
