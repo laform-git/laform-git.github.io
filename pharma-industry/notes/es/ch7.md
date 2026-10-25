@@ -9,7 +9,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 
 ## Comentario inicial — Lucrar con los efectos secundarios
 - Posner dice que una compañía de los años sesenta veía un medicamento con muchos efectos secundarios como una "droga de entrada": no adictiva, sino una fuente de medicamentos derivados para tratar sus efectos secundarios. 🟡 (no se nombran la compañía ni el medicamento)
-- El intento de Purdue Pharma de no ser una "maravilla de un solo éxito" fue un medicamento para el **estreñimiento inducido por opioides**. ✅ Su punto: la retroalimentación de efectos secundarios se convierte en una nueva línea de productos.
+- El intento de Purdue Pharma de no ser una empresa "de un solo éxito" fue un medicamento para el **estreñimiento inducido por opioides**. ✅ Su punto: los efectos secundarios se convierten en una nueva línea de productos.
 
 ## La inversión del mercado — Del mercado masivo a los micromercados
 - Modelo antiguo: 20 millones de recetas a unos $40. Modelo nuevo: a veces 400 a 500 pacientes al "precio más alto que puedan cobrar". ✅
@@ -44,7 +44,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 
 ## Casos de estudio — El modelo
 
-### AZT — la plantilla
+### AZT — el prototipo
 - Samuel Broder dirigió un equipo de los NIH que buscaba un medicamento para frenar la replicación del VIH; se enfocaron en fármacos retrovirales y encontraron el **AZT**, patentado pero sin uso en el estante de Burroughs Wellcome. Burroughs ni siquiera podía reconstituirlo, así que lo fabricaron los NIH. ✅
 - Primer ensayo en humanos en julio de 1985; aprobado en **20 meses**, lo más rápido jamás visto para un antiviral (lo normal podían ser ocho a nueve años). A los activistas aún les pareció demasiado lento. ✅
 - Los NIH gastaron **$50 millones**; Burroughs Wellcome le puso un precio de **$10,000 por paciente**, luego $8,000 tras las protestas. **El 35% de los pacientes con sida no tenía seguro.** ✅
@@ -55,7 +55,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 - Aprobado en 2004 para tratar el VIH. Investigación de los CDC sobre prevención desde 2006; Gilead envió dosis gratuitas en 2008; resultados publicados en 2010 (JAMA y NEJM); en 2015 el gobierno de EE. UU. patentó el uso profiláctico (PrEP). ✅
 - Dinero público: la Fundación Gates $17 millones, los NIH pagaron los ensayos en humanos, un investigador de San Francisco usó $50 millones en subvenciones federales. ✅
 - Gilead litigó por la patente y **ganó**. Posner lo llama "una de las batallas fundamentales en la historia moderna de los medicamentos": una vez que eres dueño de una patente, ningún tribunal te la quitará, ni siquiera si proviene de trabajo financiado con fondos públicos. 🟡 (su interpretación)
-- Costo de unos $6 por dosis; precio de $1,800 por paciente; él afirma un **margen de 25,000%** 🟡 (la unidad detrás de los $1,800 no está clara, y el porcentaje no se deriva limpiamente de las dos cifras). Entre los 20 medicamentos más vendidos, unos $3,000 millones al año, unos $30,000 millones en total hasta que la patente expiró en 2021. Gilead pasó a una nueva formulación, **Descovy**. ✅
+- Costo de unos $6 por dosis; precio de $1,800 por paciente; él afirma un **sobreprecio de 25,000%** 🟡 (la unidad detrás de los $1,800 no está clara, y el porcentaje no se deriva limpiamente de las dos cifras). Entre los 20 medicamentos más vendidos, unos $3,000 millones al año, unos $30,000 millones en total hasta que la patente expiró en 2021. Gilead pasó a una nueva formulación, **Descovy**. ✅
 
 ### Botox — de medicamento huérfano a marca cultural
 - Un medicamento de un oftalmólogo, **Oculinum**, aprobado para dos indicaciones huérfanas de espasmo ocular (Posner dice que en 1990); Allergan compró la compañía por **$8 millones** y los derechos en 1991. Botox = **toxina botulínica**. ✅
@@ -64,7 +64,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 - **Advertencia de recuadro negro** después de que dos niños murieran en ensayos de parálisis cerebral. Apenas afectó las ventas porque los pacientes nunca ven el frasco: quien lo ve es quien inyecta. ✅ ("la advertencia de recuadro negro con menos efecto" es su juicio 🟡)
 - Tácticas: representantes de ventas impulsando el uso fuera de indicación para dolor de cabeza y dolor; talleres que enseñaban a los médicos a **disfrazar las inyecciones fuera de indicación para obtener cobertura del seguro**; escapadas de fin de semana y cenas pagadas ("el manual de los Sackler"); un medio de información para pacientes financiado por Allergan. ✅
 - **2010:** declaración de culpabilidad por un delito menor (etiquetado engañoso mediante promoción fuera de indicación); multa penal de **$375 millones** más un acuerdo civil de **$225 millones** = **$600 millones**, incluida la exposición bajo la False Claims Act por reclamaciones a Medicare, Medicaid y la VA; un Acuerdo de Integridad Corporativa. ✅ Posner: las multas son "el costo de hacer negocios". 🟡
-- Foso defensivo: menos de una docena de empleados conocen la receta exacta de fermentación; se están probando alrededor de una docena más de designaciones huérfanas, cada una con nuevos créditos y siete años de exclusividad. ✅
+- Barrera defensiva: menos de una docena de empleados conocen la receta exacta de fermentación; se están probando alrededor de una docena más de designaciones huérfanas, cada una con nuevos créditos y siete años de exclusividad. ✅
 - Reparto aproximado de ingresos que da: 70% cosmético, 20% migraña, 10% vejiga hiperactiva; cerca del 20% de los ingresos de la compañía, más de $3,000 millones al año. 🟡 (su desglose aproximado)
 
 ### Gel Acthar — el precio es el modelo de negocio
@@ -105,7 +105,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 - Los PBM deciden qué medicamentos se cubren, qué pueden dispensar las farmacias, los copagos y qué fabricante gana participación. Los farmacéuticos comunitarios "odian a los PBM". ✅
 - Los **reembolsos** de los fabricantes a cambio de un lugar en el formulario son secretos; el **spread pricing** (diferencial de precios) añade otro nivel de facturación. ✅
 - El incentivo perverso: los PBM prefieren **precios de lista más altos y reembolsos más grandes**, no precios netos más bajos; los fabricantes inflan los precios de lista para financiar los reembolsos; **los pacientes pagan su parte del costo sobre el precio de lista inflado**. ✅
-- Posner: los PBM son un invento estadounidense que no existe en Francia, Alemania ni Inglaterra, y la industria eventualmente "echará a los PBM debajo del autobús". 🟡
+- Posner: los PBM son un invento estadounidense que no existe en Francia, Alemania ni Inglaterra, y la industria tarde o temprano "sacrificará a los PBM". 🟡
 
 ## Frases clave y datos citables (Lección 7)
 - **"La ganancia aquí viene de la escasez, no del volumen."** La inversión de los medicamentos huérfanos en una línea.
@@ -117,7 +117,7 @@ Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección mu
 - **Cada uno de los 10 medicamentos más caros es un medicamento huérfano** (su afirmación).
 - **Los PBM se benefician de precios de lista altos, y los pacientes pagan sobre el precio de lista.**
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para recordar
 - 🔴 "Los medicamentos huérfanos son un nicho pequeño": según Posner se convirtieron en el sector de más rápido crecimiento y más lucrativo.
 - 🔴 "La condición de huérfano termina cuando una enfermedad se vuelve común": no bajo la Ley; el AZT conservó la protección cuando el VIH superó los millones.
 - 🔴 "Un precio nuevo significa un medicamento nuevo": Acthar y Daraprim muestran el mismo producto con nuevo precio bajo nuevos dueños.
@@ -154,7 +154,7 @@ B. \* Porque los precios de lista más altos sostienen reembolsos confidenciales
 C. Porque la ley federal exige que los formularios favorezcan los medicamentos caros
 *Por qué B: los PBM prefieren reembolsos más grandes a precios netos más bajos, y la bolsa de reembolsos crece con el precio de lista.*
 
-## Hilos abiertos
+## Temas abiertos
 - ✅ **Transcripción completa:** termina con su lista del "paciente más inteligente" sin un cierre formal, en línea con el estilo de exposición continua de Posner.
 - **Cifras poco claras que verificar antes de confiar en ellas:** las cifras del subsidio del AZT ($300M y luego $400M), el porcentaje de margen de Truvada, el reparto de ingresos del Botox y una diapositiva no explicada (80/85/90/92% de las compañías "manipulan" canales, explotan incentivos, externalizan la responsabilidad, aprovechan resquicios).
 - **Ruta judicial del AZT:** dice que llegó a la Corte Suprema; vale la pena contrastarlo con una fuente jurídica.
