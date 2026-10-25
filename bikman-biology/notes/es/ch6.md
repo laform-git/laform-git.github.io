@@ -68,10 +68,10 @@ Bikman subraya que **el NADH y el FADH₂ no son ATP** — son transportadores d
 - 🟡 La afirmación de Bikman de que el lactato "no contribuye a ningún problema en absoluto" se plantea con fuerza y sin matices en esta lección; tómala como su postura, no como una regla general establecida.
 
 ## La gluconeogénesis y la regla del ciclo fútil
-- Las tres enzimas glucóliticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
-- **Regulación recíproca:** la insulina **activa** las tres enzimas glucóliticas y **apaga** las enzimas de desvío; el glucagón hace exactamente lo contrario. La insulina y el glucagón nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. ✅
+- Las tres enzimas glucolíticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
+- **Regulación recíproca:** la insulina **activa** las tres enzimas glucolíticas y **apaga** las enzimas de desvío; el glucagón hace exactamente lo contrario. La insulina y el glucagón nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. ✅
 - Un ciclo que construye y descompone lo mismo simultáneamente es un **ciclo fútil** — "la célula aborrece la falta de eficiencia". ✅
-- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucóliticas. ✅
+- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucolíticas. ✅
 - 🟢 Lógica práctica: después de una comida rica en almidón, la insulina sube y se quema glucosa; con el ayuno o la restricción de carbohidratos, el glucagón sube, el cuerpo cambia hacia la quema de grasa, y el hígado fabrica la pequeña cantidad de glucosa que todavía necesitan las células sin mitocondrias (como los glóbulos rojos).
 
 ## Lipólisis → beta-oxidación → acetil-CoA
