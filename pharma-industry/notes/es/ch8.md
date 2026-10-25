@@ -94,7 +94,7 @@ El equilibrio en el que insiste: **la medicina moderna salva vidas**. Infeccione
 ## Preguntas y respuestas — Los médicos, la FDA y ProPublica
 - **FDA:** les da a las aprobaciones el beneficio de la duda al inicio, y luego revisa PubMed más adelante para ver si los ensayos se manejaron correctamente. 🟡 Práctica personal.
 - **Médicos:** ProPublica (con *The New York Times*) construyó una **base de datos consultable** de los pagos de la industria a los médicos. Posner buscó a su propio médico y encontró unos **$384** (un par de cenas); estaba listo para cambiar de médico si la cifra hubiera sido grande. La mayoría de los médicos promedian unos cientos de dólares; un puñado recibe millones, a menudo etiquetados como investigación. ✅
-- Los titulares le dan un giro: los "medios afines a la industria farmacéutica" destacaron el promedio pequeño. Los médicos y la industria son aliados, pero no simétricos: la industria necesita a los médicos; los médicos podrían ejercer sin el dinero de la industria. 🟡
+- Los titulares lo tergiversan: los "medios afines a la industria farmacéutica" destacaron el promedio pequeño. Los médicos y la industria son aliados, pero no simétricos: la industria necesita a los médicos; los médicos podrían ejercer sin el dinero de la industria. 🟡
 
 ## Frases clave y datos citables (Lección 8)
 - **"Las compañías farmacéuticas ven el COVID-19 como una oportunidad de negocio única en la vida."** Dicho días después de la declaración de la OMS.
@@ -106,7 +106,7 @@ El equilibrio en el que insiste: **la medicina moderna salva vidas**. Infeccione
 - **Unos $20 por dosis parecían baratos por diseño.** El costo real por dosis no se ha revelado.
 - **"Ser un paciente más inteligente no significa rechazar la atención."** Escepticismo, no desconfianza.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para recordar
 - 🔴 "Precio bajo significa que no hubo lucro abusivo": unos $20 por dosis sobre miles de millones de dosis produjeron márgenes de más del 50%; el precio se fija por cálculo, no por generosidad.
 - 🔴 "Los contribuyentes lo financian, así que los contribuyentes son dueños": el dinero público cargó con el riesgo, pero las compañías se quedaron con la propiedad intelectual y el poder de fijar precios.
 - 🔴 "Que caigan las ventas de vacunas significa que se acabó la ganancia extraordinaria": el conocimiento sobre ARNm financiado con fondos públicos ahora alimenta un mercado proyectado de terapias de $45,000M.
@@ -141,7 +141,7 @@ B. \* Mantenerse involucrado y escéptico (preguntar por qué, revisar la base d
 C. Confiar completamente en las aprobaciones de la FDA, porque la regulación elimina la necesidad de hacer preguntas
 *Por qué B: insiste en que "ser un paciente más inteligente no significa rechazar la atención" y llama a su postura "participación informada", no desconfianza.*
 
-## Hilos abiertos
+## Temas abiertos
 - ✅ **Transcripción completa:** termina de forma natural después de la ronda de preguntas del público sobre ProPublica.
 - 🟡 **Cifras de financiamiento inconsistentes:** se dan $2,000M "solo EE. UU.", $10,000M iniciales, $22,000M de Warp Speed, $25,300M, $31,000M y $31,900M; la frase de los $25,300M / $20.69 por dosis está confusa. Verifícalas con una fuente antes de citarlas.
 - 🟡 **Frase confusa sobre las ventas de Pfizer/BioNTech** ("They formed together a their COVID-19 sales"); la lectura de la gráfica de Pfizer "$223 millones / $30 millones I+D" probablemente está en miles de millones.
