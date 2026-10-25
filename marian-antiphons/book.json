@@ -1,0 +1,38 @@
+{
+ "title": {
+  "en": "Marian Antiphons"
+ },
+ "titleHtml": {
+  "en": "Marian <span>Antiphons</span>"
+ },
+ "eyebrow": {
+  "en": "Prayer · Compline · Latin chant"
+ },
+ "lede": {
+  "en": "The four seasonal hymns to Our Lady sung at the close of Night Prayer, spaced syllable by syllable for singing, with the plain Latin."
+ },
+ "langs": [
+  "en"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Singing Sheet"
+   },
+   "notes": [
+    {
+     "id": "singing",
+     "en": {
+      "title": "Marian Antiphons — For Singing",
+      "h1": "MarianAntiphons",
+      "file": "en/singing.md",
+      "aka": [
+       "MarianAntiphons",
+       "MarianAntiphons"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
