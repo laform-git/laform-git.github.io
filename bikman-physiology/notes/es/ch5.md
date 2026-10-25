@@ -4,14 +4,14 @@
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 5 (transcripción). Sigue a Fisiología cardiopulmonar (Cap. 4); el páncreas y el glucagón se dejan explícitamente para la lección de Endocrinología (Cap. 6).*
 
 ## Por qué importa
-Esta es la lección de "cómo la comida se convierte realmente en combustible". Cada macronutriente tiene una ruta distinta hacia el cuerpo: los carbohidratos y la proteína van directo a la sangre, la grasa de cadena larga se desvía por la linfa, y las grasas de cadena corta y media van directo al hígado. Ese enrutamiento es la columna vertebral mecanística de temas posteriores: insulina y glucagón (Cap. 6), tejido adiposo (Cap. 7), cetonas y los fármacos basados en hormonas intestinales que hoy están en las noticias. También explica por qué la digestión de la grasa, la bilis y la proteína están vinculadas, lo cual contradice mucha sabiduría popular baja en grasa.
+Esta es la lección de "cómo la comida se convierte realmente en combustible". Cada macronutriente tiene una ruta distinta hacia el cuerpo: los carbohidratos y la proteína van directo a la sangre, la grasa de cadena larga se desvía por la linfa, y las grasas de cadena corta y media van directo al hígado. Esa distribución por rutas es la base mecanística de temas posteriores: insulina y glucagón (Cap. 6), tejido adiposo (Cap. 7), cetonas y los fármacos basados en hormonas intestinales que hoy están en las noticias. También explica por qué la digestión de la grasa, la bilis y la proteína están vinculadas, lo cual contradice mucha de la sabiduría popular sobre comer bajo en grasa.
 
 ## El marco — Cuatro temas en cada parada
 Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cada segmento: **motilidad** (movimiento), **secreción** (lo que libera la pared), **digestión** (romper moléculas grandes en pequeñas), **absorción** (mover moléculas pequeñas hacia el cuerpo). ✅ La digestión y la absorción son eventos distintos: puedes cortar una molécula sin mover nada hacia la sangre.
 
 ## Frases clave y datos citables (Lección 5)
 - **"La mayor parte de la digestión... ocurre en el intestino delgado, no por el intestino delgado en sí, sino por lo que está conectado a él."** — la pared intestinal no libera enzimas digestivas propias (solo enterocinasa); el páncreas y el hígado hacen el trabajo.
-- **El pH del estómago humano es de aproximadamente 2** — Bikman lo ubica cerca del de un lobo, apenas por debajo de los carroñeros, y lo interpreta como una pista sobre lo que los humanos están hechos para comer. 🟡 Comentario interpretativo, no un resultado medido.
+- **El pH del estómago humano es de aproximadamente 2** — Bikman lo ubica cerca del de un lobo, sin llegar a la acidez de los carroñeros, y lo interpreta como una pista sobre lo que los humanos están hechos para comer. 🟡 Comentario interpretativo, no un resultado medido.
 - **"No liberarás sales biliares a menos que comas grasa."** — y la bilis también potencia la actividad de las proteasas, así que la proteína con grasa se digiere mejor que la proteína sola.
 - **Todo lo que se absorbe en el intestino va primero al hígado** — el sistema porta hepático convierte al hígado en "el desintoxicador del torrente sanguíneo".
 - **La grasa es el único macronutriente que no entra primero a la sangre** — la grasa de cadena larga viaja en un quilomicrón ("un gran autobús") hacia la linfa.
@@ -84,15 +84,15 @@ Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cad
 - **Fármacos para bajar de peso (agonistas de GLP-1):** primero se usaron a dosis más bajas por el efecto sobre el glucagón y la diabetes; se notó la pérdida de peso, así que las dosis se aumentaron aproximadamente cinco veces. ✅
 - **El costo que destaca Bikman:** la motilidad intestinal puede quedar casi paralizada; la comida puede permanecer en el estómago hasta ~24 horas (frente a las 4–5 normales), produciendo eructos fétidos; en casos raros el intestino se "congela" por completo, lo que él describe como potencialmente letal en cuestión de días. 🟡 Afirmaciones fuertes sin tasas ni fuentes en la lección; verificar antes de basarse en ellas.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que las enzimas digestivas vienen de la pared intestinal: el intestino delgado solo libera enterocinasa; el páncreas, el hígado (bilis) y la saliva/estómago aportan la maquinaria digestiva.
 - 🔴 Suponer que la digestión y la absorción son lo mismo: la boca y el estómago digieren pero no absorben nada; la absorción es esencialmente un evento del intestino delgado (agua en el colon).
-- 🔴 Suponer que toda la grasa de la dieta entra a la sangre como el azúcar y la proteína: la grasa de cadena larga va por quilomicrón hacia la linfa; solo la grasa de cadena media y corta toma la ruta directa sangre-hígado.
+- 🔴 Suponer que toda la grasa de la dieta entra a la sangre como el azúcar y la proteína: la grasa de cadena larga va en quilomicrones hacia la linfa; solo la grasa de cadena media y corta toma la ruta directa sangre-hígado.
 - 🔴 Suponer que la grasa es enemiga de la digestión: la grasa desencadena la liberación de bilis, la bilis también ayuda a digerir la proteína y (según Bikman) el vaciado regular de la vesícula protege contra los cálculos biliares.
 - 🔴 Suponer que GLUT5 absorbe glucosa: a pesar del nombre es específico para fructosa; la glucosa entra por el simporte sodio-glucosa.
 
 ## Conclusión práctica
-Come la proteína con su grasa natural, considera la bilis una característica de la digestión de la grasa y no una molestia, y entiende que el intestino enruta los nutrientes de forma distinta: el azúcar y la proteína llegan al hígado por la vena porta, la grasa de cadena larga llega después a través de la linfa. Para cualquier fármaco basado en hormonas intestinales o procedimiento bariátrico, la pregunta clave es qué pasa con la motilidad y con el duodeno, ya que ahí se concentran la digestión y la absorción.
+Come la proteína con su grasa natural, considera la bilis una característica de la digestión de la grasa y no una molestia, y entiende que el intestino dirige cada nutriente por una ruta distinta: el azúcar y la proteína llegan al hígado por la vena porta, la grasa de cadena larga llega después a través de la linfa. Para cualquier fármaco basado en hormonas intestinales o procedimiento bariátrico, la pregunta clave es qué pasa con la motilidad y con el duodeno, ya que ahí se concentran la digestión y la absorción.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Una persona come una comida de proteína magra pura frente a la misma proteína comida con su grasa natural. Según esta lección, ¿qué podría diferir y por qué?**
@@ -116,12 +116,12 @@ C. Se absorbe solo en el intestino grueso, donde las bacterias lo convierten en 
 **4. ¿Qué afirmación vincula correctamente el bypass gástrico, la B12 y el GLP-1 en esta lección?**
 A. Los pacientes con bypass absorben más glucosa, lo que eleva el GLP-1 y cura la diabetes
 B. Los fármacos de GLP-1 aceleran la peristalsis, por eso causan diarrea
-C. \* El bypass elimina el estómago productor de factor intrínseco (por lo que se necesitan inyecciones de B12) y reconfiguró el intestino, revelando cambios en las incretinas como el GLP-1, que enlentece la motilidad, aumenta la saciedad y baja el glucagón
+C. \* El bypass elimina el estómago productor de factor intrínseco (por lo que se necesitan inyecciones de B12) y reconfigura el intestino, lo que reveló cambios en las incretinas como el GLP-1, que enlentece la motilidad, aumenta la saciedad y baja el glucagón
 *Por qué C: la lección une (1) la pérdida de células parietales y de factor intrínseco, y (2) el descubrimiento de las incretinas en estos pacientes. El GLP-1 enlentece la peristalsis en vez de acelerarla, y nada en la lección dice que los pacientes con bypass absorban más glucosa.*
 
 ## Hilos abiertos
 - **Páncreas endocrino, glucagón e insulina** — prometidos para la Lección 6; el segundo sistema porta también se deja para ahí.
-- **Beneficios de los ácidos grasos de cadena corta de los alimentos fermentados** — se afirman ("pegan muy por encima de su peso molecular") pero no se detallan.
+- **Beneficios de los ácidos grasos de cadena corta de los alimentos fermentados** — se afirman ("rinden mucho más de lo que su peso molecular haría esperar") pero no se detallan.
 - **Seguridad cuantitativa de los fármacos de GLP-1** — la lección no da cifras de incidencia de efectos tipo gastroparesia.
 - **Microbioma del intestino grueso** — el colon se describe solo como absorción de agua; la "breve excepción" mencionada no se desarrolla.
 

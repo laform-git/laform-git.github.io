@@ -8,12 +8,12 @@
 La única función del corazón es mover la sangre, y la sangre solo vale la pena moverla por lo que los pulmones acaban de hacerle. El enfoque de Bikman: no se puede entender uno sin el otro. Este capítulo aporta la mecánica detrás de las cifras de presión arterial, los ruidos cardíacos, los soplos, la frecuencia respiratoria y un informe de espirometría. También muestra, una vez más, un tema recurrente del curso: el cuerpo se regula a sí mismo mediante la química (CO₂, iones de hidrógeno, estiramiento, presión) y no mediante una conciencia central.
 
 ## El "8" de dos circuitos — Recorrido del flujo sanguíneo
-El corazón tiene cuatro cámaras: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo, y cada aurícula se vacía en el ventrículo que tiene debajo. La sangre se mueve en un circuito interminable de dos circuitos, cada uno impulsado por un lado del corazón. ✅
+El corazón tiene cuatro cámaras: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo, y cada aurícula se vacía en el ventrículo que tiene debajo. La sangre recorre sin parar un doble circuito; cada uno de los dos lo impulsa un lado del corazón. ✅
 
 | Paso | Adónde va la sangre | Nota |
 |---|---|---|
 | 1 | **Ventrículo izquierdo** → válvula aórtica → cuerpo (circuito sistémico) | La cámara más grande y fuerte; debe impulsar la sangre por todo el cuerpo |
-| 2 | Vena cava → **aurícula derecha** → válvula AV derecha (tricúspide) → **ventrículo derecho** | Las aurículas son débiles; solo se contraen y bajan la sangre a la cámara de al lado |
+| 2 | Vena cava → **aurícula derecha** → válvula AV derecha (tricúspide) → **ventrículo derecho** | Las aurículas son débiles; solo se contraen y bajan la sangre a la cámara de abajo |
 | 3 | Ventrículo derecho → arterias pulmonares → **pulmones** (circuito pulmonar) | Tarea fácil y de baja presión, por eso un ventrículo más liviano |
 | 4 | Pulmones → **aurícula izquierda** → válvula AV izquierda (bicúspide) → **ventrículo izquierdo** | El circuito se cierra; ambas aurículas se contraen en el mismo momento |
 
@@ -26,7 +26,7 @@ Los ventrículos son más gruesos y carnosos que las aurículas porque deben bom
 - **Soplo** = el lub-dub se alarga o se difumina. Se nombran dos causas: **estenosis** (la válvula no se abre bien, lo que da un "luuub-dub" alargado) o **regurgitación** (una forma alterada de la válvula deja que la sangre salga a chorro hacia atrás). Por lo general, una de las dos válvulas del lado izquierdo. ✅
 
 ## Microcirculación — Donde ocurre el trabajo
-Corazón → **arterias** (gruesas, musculosas) → **arteriolas** → **capilares** → **vénulas** → **venas** → corazón. El capilar es la "parte de negocios": el único lugar donde la sangre entrega cosas a las células y recoge otras. ✅ Los capilares sistémicos (músculo, hígado, riñón) liberan oxígeno y captan CO₂; los capilares pulmonares hacen exactamente lo contrario.
+Corazón → **arterias** (gruesas, musculosas) → **arteriolas** → **capilares** → **vénulas** → **venas** → corazón. El capilar es "donde se hace el trabajo": el único lugar donde la sangre entrega cosas a las células y recoge otras. ✅ Los capilares sistémicos (músculo, hígado, riñón) liberan oxígeno y captan CO₂; los capilares pulmonares hacen exactamente lo contrario.
 
 ## El ciclo cardíaco y el gasto cardíaco
 - **Diástole** = los *ventrículos* están relajados y llenándose. **Sístole** = los *ventrículos* se contraen y eyectan. La presión arterial diastólica y la sistólica son las presiones en esos dos estados. ✅
@@ -75,12 +75,12 @@ El gasto cardíaco depende de la **contractilidad ventricular** y del **volumen 
 | **Más iones de hidrógeno** | Libera O₂ con más facilidad | La hidrólisis del ATP en un músculo activo produce H⁺ |
 | **Más 2,3-DPG** | Libera O₂ con más facilidad | La placenta indica a los glóbulos rojos de la madre que eleven el 2,3-DPG para que el bebé reciba oxígeno abundante |
 
-✅ Los dos primeros son lo que los objetivos de Bikman llaman el **efecto Bohr**. Ambos aumentan con el ejercicio, así que el músculo efectivamente "exige" oxígeno sin ninguna señal consciente.
+✅ Los dos primeros son lo que los objetivos de aprendizaje de Bikman llaman el **efecto Bohr**. Ambos aumentan con el ejercicio, así que el músculo efectivamente "exige" oxígeno sin ninguna señal consciente.
 
 **CO₂:** se transporta en la hemoglobina y disuelto en el plasma, pero la abrumadora mayoría viaja como **bicarbonato (HCO₃)**, un reservorio inofensivo. En los pulmones el bicarbonato se separa de nuevo en agua y CO₂, que se exhala. ✅
 
 ## Qué nos hace respirar — Regulación de la ventilación
-- **Quimiorreceptores centrales (cerebro, detrás de la barrera hematoencefálica):** el CO₂ la atraviesa, se convierte hacia bicarbonato y libera un ion de hidrógeno libre. El receptor detecta el **hidrógeno (pH)**, no el CO₂ en sí. Más H⁺ da una respiración más rápida y más profunda. ✅
+- **Quimiorreceptores centrales (cerebro, detrás de la barrera hematoencefálica):** el CO₂ la atraviesa, se convierte en bicarbonato y libera un ion de hidrógeno libre. El receptor detecta el **hidrógeno (pH)**, no el CO₂ en sí. Más H⁺ da una respiración más rápida y más profunda. ✅
 - **Quimiorreceptores periféricos:** los **cuerpos carotídeos** y los **cuerpos aórticos**, justo encima del corazón en la aorta y las arterias carótidas. Detectan tanto el H⁺ como el CO₂. ✅
 - **La hiperventilación del ejercicio** no es, por lo tanto, que los músculos le envíen un mensaje a un nervio: el músculo en actividad cambia el CO₂ y el H⁺ de la sangre, y los quimiorreceptores responden. ✅
 - **Receptores pulmonares:** receptores de irritantes (el humo provoca tos o respiración restringida) y **receptores de estiramiento** (detienen la inhalación al estiramiento máximo). ✅
@@ -111,12 +111,12 @@ La espirometría produce un **espirograma**, un trazo que sube con la inhalació
 - **El cerebro detecta el hidrógeno, no el CO₂,** aunque el CO₂ es la forma en que el hidrógeno llega allí.
 - **Capacidad vital reducida = restrictivo; VEF1 reducido = obstructivo.**
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 "La diástole es el corazón relajándose, la sístole el corazón contrayéndose": corregir a ventrículos relajados y llenándose versus ventrículos contrayéndose; las aurículas se contraen al final de la diástole.
 - 🔴 "Los ruidos cardíacos son la sangre corriendo": son válvulas que se cierran de golpe, principalmente las del lado izquierdo.
 - 🔴 "El músculo cardíaco funciona como el músculo esquelético": el mismo ciclo de puentes cruzados, pero arranca solo, de célula a célula, sin túbulos T, y el calcio entra primero desde el exterior.
 - 🔴 "El CO₂ se transporta principalmente en la hemoglobina": el transportador principal es el bicarbonato.
-- 🔴 "El cerebro hace respirar en respuesta al oxígeno bajo": el impulso central es el ion de hidrógeno (pH) generado a partir del CO₂; esta clase no describe el oxígeno como la señal central principal.
+- 🔴 "El cerebro nos hace respirar en respuesta al oxígeno bajo": el impulso central es el ion de hidrógeno (pH) generado a partir del CO₂; esta clase no describe el oxígeno como la señal central principal.
 - 🔴 "Exhalar sucede porque los pulmones se comprimen a sí mismos": es un cambio de presión por la reducción del volumen pulmonar (ley de Boyle).
 
 ## Conclusión práctica
@@ -154,7 +154,7 @@ C. \* El mayor estiramiento produce una contracción más fuerte, así que el vo
 - **Forma de la curva oxígeno-hemoglobina** — descrita solo cualitativamente; no se dan cifras (p. ej., valores de saturación).
 
 ## Lo que se recortó deliberadamente (autoevaluación)
-- Andamiaje verbal repetido: objetivos de aprendizaje reiterados, los apartes de "estoy invocando mucho los pulmones" y múltiples repeticiones del recorrido del circuito.
+- Andamiaje verbal repetido: objetivos de aprendizaje reiterados, los comentarios de "estoy invocando mucho los pulmones" y múltiples repeticiones del recorrido del circuito.
 - Detalle del ciclo de puentes cruzados: solo se menciona, ya que se cubrió en el Cap. 3 (músculo esquelético).
 - Detalle de las analogías: las demostraciones del puño en el globo y del plato sobre la encimera mojada se redujeron a una línea cada una.
 - Detalle del sistema nervioso autónomo más allá de los efectos bronquiales y sobre la frecuencia cardíaca, cubierto en el Cap. 2.
