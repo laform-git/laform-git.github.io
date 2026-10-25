@@ -42,27 +42,6 @@ O dul-cis
 Vir-go Ma-rí- a
 ```
 
-**Salve Regina — singing reference (breath phrases)**
-
-```
-Sal- ve, Re-gí-na, 
-Ma-ter mi-se-ri-cór-di- ae: Vi-ta, dul-cé-do, 
-et spes nos-tra, sal- ve.
-Ad te cla-má-mus, 
-ex- su-les fí-li-i He-vae. Ad te sus-pi-rá-mus, 
-ge-mén-tes et flén-tes in hac la-cri-má-rum val- le.
-
-E- ia er-go, ad-vo-cá-ta nos-tra, il-los tu-os mi-se-ri-cór-des ó-cu-los ad nos con-vér- te.
-
-Et Ie-sum, be-ne-díc-tum fruc-tum ven-tris tu- i,
- no-bis post hoc ex-sí-li-um 
-os- tén- de.
-
-Oo-o clé- mens: Oo-o pi- a: 
-O dul-cis
- Vir-go Ma-rí- a
-```
-
 ### 2. Alma Redemptoris Mater — Advent to Feb 2
 
 ```
