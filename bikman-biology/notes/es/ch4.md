@@ -88,7 +88,7 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 - **La replicación es semiconservativa:** cada nueva doble hélice conserva una hebra original.
 - **La hebra rezagada se construye por partes (fragmentos de Okazaki) porque la polimerasa solo trabaja en una dirección.**
 - **El ARNm maduro puede medir de un tercio a un cuarto de la longitud del transcrito original** después del empalme.
-- **Solo la leucina tiene seis codones.**
+- **La leucina, por sí sola, tiene seis codones.**
 - **Estudio de la hambruna holandesa:** en una sola generación, los hijos de madres expuestas a la hambruna tuvieron más probabilidad de desarrollar sobrepeso y diabetes, lo que Bikman atribuye a la epigenética, no a una mutación.
 
 ## Lo más destacado de las preguntas y respuestas (final de la lección)

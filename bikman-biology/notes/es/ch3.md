@@ -10,14 +10,14 @@ Cada tema posterior de este curso (dogma central, ciclo celular, metabolismo) y 
 ## Qué hace "biológica" a una molécula — El carbono
 - Las **biomoléculas** son moléculas orgánicas que se encuentran en los seres vivos. No están vivas en sí mismas (no cumplen los criterios de la vida del Cap. 1), pero toda célula las necesita. ✅
 - El rasgo común es el **carbono**. El carbono forma enlaces fuertes con muchos elementos, incluidos otros carbonos, el oxígeno y el hidrógeno, y puede construir tanto **cadenas como anillos**, por eso sostiene estructuras tan diversas. ✅
-- Bikman anticipa que una clase posterior (energía celular) mostrará cómo el carbono entra en las biomoléculas mediante la energía del sol; aquí solo se plantea lo "esencial del carbono". 🟢
+- Bikman anticipa que una clase posterior (energía celular) mostrará cómo el carbono entra en las biomoléculas mediante la energía del sol; aquí solo se plantea que el carbono es "esencial". 🟢
 
 ## Las cuatro biomoléculas — Lado a lado
 
 | Característica | Carbohidratos | Lípidos | Proteínas | Ácidos nucleicos |
 | --- | --- | --- | --- | --- |
 | **Elementos** | Carbono, hidrógeno y oxígeno en una proporción bastante equilibrada | Mucho carbono, aún más hidrógeno, muy poco oxígeno | Cadenas de carbono más un grupo amino (nitrógeno) en cada aminoácido | Fosfato + azúcar de cinco carbonos + base nitrogenada |
-| **Comportamiento con el agua** | Polares, hidrofílicos, se disuelven bien; no pueden deslizarse a través de las membranas, así que necesitan transportadores | No polares, hidrofóbicos; densos en energía | No se enmarcan por polaridad en esta clase | No se enmarcan por polaridad en esta clase |
+| **Comportamiento con el agua** | Polares, hidrofílicos, se disuelven bien; no pueden deslizarse a través de las membranas, así que necesitan transportadores | No polares, hidrofóbicos; densos en energía | Esta clase no los clasifica por polaridad | Esta clase no los clasifica por polaridad |
 | **Unidad de construcción** | Monosacárido (glucosa, fructosa, galactosa) | Varía según la clase (glicerol + ácidos grasos, anillo de colesterol, etc.) | 20 aminoácidos unidos por enlaces peptídicos | Nucleótidos (ADN y ARN) |
 | **Funciones principales** | Energía; "banderas" de identidad celular en la superficie de la membrana | Energía almacenada, membranas, señalización, hormonas esteroides | Enzimas, receptores, canales, transportadores, estructura (citoesqueleto) | Almacenar la información genética (ADN) y expresarla (ARN); el ATP es un ácido nucleico energético |
 
@@ -25,7 +25,7 @@ Cada tema posterior de este curso (dogma central, ciclo celular, metabolismo) y 
 
 ## Carbohidratos
 - **El nombre descifrado:** carbo (carbono) + hidrato (hidrógeno y oxígeno, los elementos del agua). Solo esos tres elementos. ✅
-- **Tres tamaños:** monosacárido (glucosa, fructosa, galactosa; la única forma lo bastante pequeña para absorberse, mediante el simporte con sodio y el transporte del lado posterior del Cap. 2), disacárido (lactosa = glucosa + galactosa; sacarosa = glucosa + fructosa), polisacárido (polímeros largos de glucosa: el almidón del pan, las galletas saladas, los cereales, las papas). ✅
+- **Tres tamaños:** monosacárido (glucosa, fructosa, galactosa; la única forma lo bastante pequeña para absorberse, mediante el simporte con sodio y el transporte del lado basal del Cap. 2), disacárido (lactosa = glucosa + galactosa; sacarosa = glucosa + fructosa), polisacárido (polímeros largos de glucosa: el almidón del pan, las galletas saladas, los cereales, las papas). ✅
 - Los carbohidratos más grandes deben ser **cortados** por las enzimas digestivas antes de absorberse. ✅
 - **Más allá de la energía:** algunos carbohidratos sobresalen de la superficie celular como banderas de identidad para que las células inmunitarias reconozcan lo "propio". Bikman vincula la falla de este reconocimiento con la enfermedad autoinmune (retomado de la clase sobre la membrana). ✅
 
@@ -54,7 +54,7 @@ Cada tema posterior de este curso (dogma central, ciclo celular, metabolismo) y 
 | Nivel | Qué es | ¿Funcional? |
 | --- | --- | --- |
 | **Primario** | "Collar de perlas" recto de aminoácidos | No; todas las piezas, pero aún no es una proteína utilizable |
-| **Secundario** | Hélice alfa (espiral de bastón de caramelo) y lámina beta (plegada) | No, sigue siendo intermedio |
+| **Secundario** | Hélice alfa (espiral como de bastón de dulce) y lámina beta (plegada) | No, sigue siendo intermedio |
 | **Terciario** | Hélices y láminas enrolladas entre sí; la insulina es su ejemplo | Sí, el mínimo para una proteína útil |
 | **Cuaternario** | Varias proteínas terciarias unidas; la hemoglobina en el glóbulo rojo | No todas las proteínas necesitan llegar hasta aquí |
 
@@ -100,13 +100,13 @@ Cada tema posterior de este curso (dogma central, ciclo celular, metabolismo) y 
 ## Frases clave y datos citables (Clase 3)
 - **"El carbono es esencial para la química de la vida"** — cadenas y anillos construidos sobre enlaces fuertes con muchos elementos.
 - **Un hidrógeno separa el ADN del ARN** en el anillo de azúcar (desoxi = solo un hidrógeno).
-- **Una regla de lista de compras:** cualquier palabra que termine en **-asa** es siempre una enzima.
+- **Una regla fácil de recordar:** cualquier palabra que termine en **-asa** es siempre una enzima.
 - **Todo lo que se convierte en esteroide fue primero colesterol.**
 - **De los tres aminoácidos de cadena ramificada, solo la leucina** ha mostrado un efecto directo en el músculo (afirmación suya).
 - **Las hormonas peptídicas no pueden tragarse** porque la digestión corta los enlaces peptídicos; la insulina y los fármacos GLP-1 se inyectan.
 - **Las enzimas no se alteran ni se consumen** — cambia la molécula sobre la que actúan, no la enzima.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que los carbohidratos son "solo energía": algunos actúan como banderas de identidad celular, y la falla del reconocimiento de lo propio es el vínculo con la autoinmunidad.
 - 🔴 Suponer que "grasa" significa una sola cosa: los lípidos son cuatro clases distintas, y solo los glicerolípidos (triglicéridos) se usan como energía; los fosfolípidos, los esfingolípidos y los esteroides hacen otros trabajos.
 - 🔴 Suponer que el colesterol es solo un número de laboratorio: es la molécula de partida de todo esteroide, incluidas las hormonas sexuales, el cortisol y la aldosterona.

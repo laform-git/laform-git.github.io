@@ -81,7 +81,7 @@ Una **vesícula** es una bolsa encerrada por su propia bicapa de fosfolípidos (
 | Proceso | Dirección | Qué es | Ejemplo |
 | --- | --- | --- | --- |
 | **Fagocitosis** (la célula come) | Hacia adentro | La célula engulle una partícula | Fagocitos que engullen partículas |
-| **Pinocitosis** (la célula bebe) | Hacia adentro | La membrana estrangula una burbuja de moléculas cercanas (no un trago de agua) | Ciertas vitaminas B, vitamina C (según se afirma) |
+| **Pinocitosis** (la célula bebe) | Hacia adentro | La membrana se cierra y desprende una burbuja con moléculas cercanas (no un trago de agua) | Ciertas vitaminas B, vitamina C (según se afirma) |
 | **Endocitosis mediada por receptores** | Hacia adentro | Los receptores se unen a una molécula específica y luego la célula la envuelve y la introduce | La LDL uniéndose al receptor de LDL |
 | **Exocitosis** | Hacia afuera | La vesícula se fusiona con la membrana y libera su contenido | La célula beta liberando insulina cuando sube la glucosa; liberación de neurotransmisores de nervio a célula |
 | **Transcitosis** | Adentro y luego afuera | Endocitosis por un lado, exocitosis por el otro; atraviesa sin interactuar con la célula | Absorción intestinal de péptidos pequeños |
@@ -98,7 +98,7 @@ Una **vesícula** es una bolsa encerrada por su propia bicapa de fosfolípidos (
 - **El músculo tiene una puerta trasera:** la contracción abre los transportadores de glucosa sin insulina.
 - **La LDL entra por endocitosis mediada por receptores** — la célula "toca la puerta y luego la envuelve".
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que el movimiento del agua y el del soluto son lo mismo: la difusión es movimiento de soluto, la ósmosis es movimiento de agua, y la ósmosis termina con igual concentración pero *volumen desigual*.
 - 🔴 Suponer que la entrada de glucosa siempre necesita insulina: solo el músculo y la grasa (tipo GLUT4) dependen de la insulina; el hígado, el cerebro, el riñón y otros usan transportadores siempre abiertos, y el músculo en ejercicio puede prescindir de la insulina.
 - 🔴 Suponer que el movimiento impulsado por gradientes es dirigido: es movimiento aleatorio más apiñamiento; solo ir *en contra* de un gradiente cuesta energía.
@@ -106,7 +106,7 @@ Una **vesícula** es una bolsa encerrada por su propia bicapa de fosfolípidos (
 - 🔴 Suponer que la LDL es colesterol: es una partícula transportadora de grasa y proteína que las células captan por endocitosis mediada por receptores.
 
 ## Conclusión práctica
-Las mismas dos reglas físicas explican la mayor parte de la clase: las cosas fluyen a favor de los gradientes gratis, y el agua sigue al soluto. Los efectos secundarios de fármacos (inhibidores de SGLT), los peligros clínicos (intoxicación por agua, bolsa de suero equivocada, edema) y la biología de la insulina (qué células esperan a la insulina) se derivan todos de esas reglas más el kit de herramientas de transporte.
+Las mismas dos reglas físicas explican la mayor parte de la clase: las cosas fluyen a favor de los gradientes sin costo de energía, y el agua sigue al soluto. Los efectos secundarios de fármacos (inhibidores de SGLT), los peligros clínicos (intoxicación por agua, bolsa de suero equivocada, edema) y la biología de la insulina (qué células esperan a la insulina) se derivan todos de esas reglas más el kit de herramientas de transporte.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Después de una comida rica en almidón, la glucosa fluye hacia el hígado sin insulina y sin gasto de energía, mientras que en el músculo y la grasa necesita insulina. ¿Qué explica la diferencia?**
