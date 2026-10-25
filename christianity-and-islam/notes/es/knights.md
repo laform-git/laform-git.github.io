@@ -6,4 +6,4 @@ El origen es médico, no marcial. Un hospicio en Jerusalén atendía a peregrino
 
 Tras la pérdida de Tierra Santa, la orden se trasladó: a Chipre, luego a Rodas desde 1310, y después a Malta desde 1530, tras ser expulsada por Solimán. Allí resistió el asedio otomano de 1565, uno de los asedios decisivos del siglo, y funcionó como potencia naval y Estado hospitalario hasta que Napoleón tomó la isla en 1798.
 
-Sobrevive hoy como la Soberana Orden Militar de Malta, una orden religiosa laical con un estatus peculiar en el derecho internacional, que administra hospitales, clínicas y operaciones de socorro. Su interés reside en la combinación que a la mente moderna le resulta más difícil de sostener: un cuerpo de hombres armados cuya regla los obligaba ante todo a cuidar a los pobres.
+Sobrevive hoy como la Soberana Orden Militar de Malta, una orden religiosa laical con un estatus peculiar en el derecho internacional, que administra hospitales, clínicas y operaciones de socorro. Lo que la hace interesante es la combinación que a la mente moderna más le cuesta conciliar: un cuerpo de hombres armados cuya regla los obligaba ante todo a cuidar a los pobres.

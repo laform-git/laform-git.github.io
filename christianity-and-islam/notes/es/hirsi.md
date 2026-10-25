@@ -18,20 +18,20 @@ El arreglo que hizo su padre para casarla con un desconocido al que nunca había
 
 ---
 ## La huida: elegir la libertad por encima del clan
-A los 22 años, ante un matrimonio forzado, huyó a Holanda y pidió asilo. La respuesta de su padre cuando ella le escribió para explicarse: puso la carta de lado, escribió encima con bolígrafo rojo, la maldijo, la desheredó y la llamó con nombres horribles.
+A los 22 años, ante un matrimonio forzado, huyó a Holanda y pidió asilo. La respuesta de su padre cuando ella le escribió para explicarse: giró la carta de costado, escribió encima con bolígrafo rojo, la maldijo, la desheredó y la insultó con palabras horribles.
 
-La lógica del clan era clara: **la apostasía de la tribu es la peor ofensa.** Incluso el asesinato es más perdonable que irse.
+La lógica del clan era clara: **renegar de la tribu es la peor ofensa.** Incluso el asesinato es más perdonable que irse.
 
 En cuatro semanas, el gobierno neerlandés le concedió el estatus permanente de refugiada.
 
 ---
 ## La crisis: el ateísmo no bastaba
-Después de dejar públicamente el islam en 2002, Hirsi Ali se convirtió en una de las críticas ateas de la religión más prominentes del mundo. Pero por debajo:
+Después de dejar públicamente el islam en 2002, Hirsi Ali se convirtió en una de las críticas ateas de la religión más prominentes del mundo. Pero en el fondo:
 
 - Las amenazas de muerte de islamistas comenzaron en 2001
 - El FBI le informaba con regularidad de complots activos contra su vida
-- Theo van Gogh fue asesinado en 2004, con una nota de fetua dirigida a ella clavada con un cuchillo en su cuerpo
-- Estaba medicando con alcohol un miedo y un trauma cada vez mayores
+- Theo van Gogh fue asesinado en 2004, con una nota de fetua dirigida a ella clavada con un cuchillo en el cuerpo del cineasta
+- Intentaba calmar con alcohol un miedo y un trauma cada vez mayores
 
 El diagnóstico de su terapeuta en rehabilitación:
 **"Lo que estás viviendo es un vacío espiritual. Una bancarrota espiritual. Tarde o temprano vas a tener que averiguar qué hacer al respecto."**
@@ -40,7 +40,7 @@ La sugerencia del terapeuta: haz solo un ejercicio. Escribe las cualidades que t
 
 ---
 ## La conversión: la figura que ya estaba describiendo
-En el proceso de escribir las cualidades de Dios —como un ejercicio puramente intelectual— se dio cuenta:
+Mientras escribía las cualidades de Dios —como un ejercicio puramente intelectual— se dio cuenta:
 
 **La figura que estoy describiendo es Jesucristo.**
 
@@ -94,7 +94,7 @@ Esto no es un lugar común religioso de alguien criado en el cristianismo. Es un
 
 ---
 ## Corrección clave
-La suposición común es que la conversión religiosa al cristianismo es un repliegue emocional frente a la razón. La conversión de Hirsi Ali siguió el camino opuesto: comenzó tratando de *definir intelectualmente las cualidades de Dios* y descubrió que la figura que estaba construyendo desde los primeros principios era Jesucristo. La razón la llevó hasta allí. La experiencia lo confirmó.
+La suposición común es que la conversión religiosa al cristianismo es un repliegue emocional frente a la razón. La conversión de Hirsi Ali siguió el camino opuesto: comenzó tratando de *definir intelectualmente las cualidades de Dios* y descubrió que la figura que estaba construyendo a partir de principios básicos era Jesucristo. La razón la llevó hasta allí. La experiencia lo confirmó.
 
 ## Conclusión práctica
-La pregunta que ella plantea no es *qué religión es verdadera*, sino *¿en qué tipo de relación con Dios estás realmente?* ¿Una basada en el miedo al castigo, o una basada en el amor que produce libertad? La respuesta lo cambia todo a partir de ahí.
+La pregunta que ella plantea no es *qué religión es verdadera*, sino *¿en qué tipo de relación con Dios estás realmente?* ¿Una basada en el miedo al castigo, o una basada en el amor que produce libertad? La respuesta determina todo lo demás.
