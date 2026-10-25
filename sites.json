@@ -17,6 +17,24 @@
     "status": "Live"
   },
   {
+    "name": "Jehovah's Witnesses",
+    "section": "Faith",
+    "path": "jehovahs-witnesses/",
+    "label": "Apologetics",
+    "blurb": "Their 10 main errors and how to answer them at the door.",
+    "langs": "English · Español",
+    "status": "Live"
+  },
+  {
+    "name": "Marian Antiphons",
+    "section": "Faith",
+    "path": "marian-antiphons/",
+    "label": "Prayer",
+    "blurb": "The four antiphons to Our Lady, spaced for singing.",
+    "langs": "Latin · English",
+    "status": "Live"
+  },
+  {
     "name": "Bikman Study Hub",
     "section": "Health",
     "path": "bikman/",
@@ -106,9 +124,7 @@
     "name": "Architects of the Culture of Death",
     "section": "Mindforge",
     "path": "architects/",
-    "label": "DeMarco & Wiker",
-    "blurb": "Twenty-three thinkers in seven categories behind the culture of death.",
-    "langs": "English · Español",
-    "status": "Live"
+    "label": "Architects of the Culture of Death" ,
+    "blurb": "x"
   }
 ]
