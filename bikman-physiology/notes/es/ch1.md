@@ -5,15 +5,15 @@
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 1 (transcripción). Mismo profesor que las series "Why We Get Sick" y "Essentials of Endocrinology", pero es un curso distinto: el funcionamiento de todo el cuerpo construido a partir de la célula. Nueva serie, nuevo hilo de notas.*
 
 ## Por qué importa
-Esta clase es la capa de vocabulario de todo el curso de fisiología: el sistema nervioso, el músculo, el corazón y los pulmones, el intestino, el sistema endocrino y la grasa reutilizan las tres ideas que se presentan aquí: los circuitos de retroalimentación que restablecen un punto de ajuste, los gradientes que requieren ATP para mantenerse y las señales eléctricas formadas por iones en movimiento. La personalización en esta clase es ligera por naturaleza (biología celular básica); las pocas conexiones genuinas se señalan más abajo en lugar de forzarlas.
+Esta clase sienta el vocabulario base de todo el curso de fisiología: el sistema nervioso, el músculo, el corazón y los pulmones, el intestino, el sistema endocrino y la grasa reutilizan las tres ideas que se presentan aquí: los circuitos de retroalimentación que restablecen un punto de ajuste, los gradientes que requieren ATP para mantenerse y las señales eléctricas formadas por iones en movimiento. La personalización en esta clase es ligera por naturaleza (biología celular básica); las pocas conexiones genuinas se señalan más abajo en lugar de forzarlas.
 
 ## Planteamiento del alcance — El cuerpo tiene muchos niveles, pero es un todo
 La fisiología estudia el organismo completo: moléculas → células → tejidos/órganos → sistemas de órganos → cuerpo. El orden del curso de Bikman: fisiología celular → sistema nervioso periférico → músculo esquelético → cardiopulmonar → gastrointestinal → endocrino (su favorito, según dice). ✅ Su enfoque: el milagro no es solo que el cuerpo funcione, sino que todo salga bien *con tanta frecuencia*, considerando cuántas cosas podrían salir mal.
 
 ## Frases clave y datos citables (Clase 1)
 - **"El equilibrio es la muerte."** — una célula *necesita* concentraciones diferentes dentro y fuera; el equilibrio significa que la célula deja de funcionar.
-- **Todo el torrente sanguíneo contiene solo alrededor de una cucharadita de glucosa** — una sola barra de chocolate puede contener aproximadamente 10x esa cantidad, por eso una señal de corrección de acción rápida (la insulina) es innegociable.
-- **El sodio es unas 10x más alto fuera de la célula; el potasio es unas 30x más alto dentro.** La célula gasta energía en mantener este desequilibrio, no en eliminarlo.
+- **Todo el torrente sanguíneo contiene solo alrededor de una cucharadita de glucosa** — una sola barra de chocolate puede contener aproximadamente 10x esa cantidad, por eso una señal de corrección de acción rápida (la insulina) es indispensable.
+- **El sodio está unas 10x más concentrado fuera de la célula; el potasio, unas 30x más dentro.** La célula gasta energía en mantener este desequilibrio, no en eliminarlo.
 - **La mielina hace que la señal sea unas 50x más rápida** que en el mismo axón sin ella — y se describe a la mielina como rica en colesterol y grasa.
 - **"El agua persigue a los electrolitos."** — adonde van los iones, el agua los sigue a través de canales.
 - **La lidocaína adormece al bloquear los canales de sodio dependientes de voltaje**, de modo que el nervio no puede despolarizarse y no se forma ninguna señal.
@@ -31,10 +31,10 @@ La fisiología estudia el organismo completo: moléculas → células → tejido
 |---|---|---|---|---|
 | **Sensor** | Mide la variable | Termómetro | Célula beta pancreática | Cuello uterino (estiramiento) |
 | **Centro de control** | Compara la lectura con el punto de ajuste | Termostato | Célula beta pancreática | Hipotálamo |
-| **Efector** | Produce la respuesta correctiva | Calefacción / A/C | Liberación de insulina, que abre puertas para que la glucosa entre a las células | Oxitocina → contracción uterina |
+| **Efector** | Produce la respuesta correctiva | Calefacción / aire acondicionado | Liberación de insulina, que abre puertas para que la glucosa entre a las células | Oxitocina → contracción uterina |
 
 - En la fisiología real, las tres partes suelen estar agrupadas: la célula beta es sensor, centro de control y fuente del efector al mismo tiempo. ✅
-- **Retroalimentación positiva:** una señal que se amplifica a sí misma (un micrófono demasiado cerca del altavoz). Poco común, siempre temporal, necesita un propósito preciso y una forma de apagarse. ✅
+- **Retroalimentación positiva:** una señal que se amplifica a sí misma (un micrófono demasiado cerca de la bocina). Poco común, siempre temporal, necesita un propósito preciso y una forma de apagarse. ✅
 - **Ejemplo del parto:** el bebé presiona el cuello uterino → señal de estiramiento al hipotálamo → oxitocina → contracciones uterinas → más estiramiento → más oxitocina, hasta que el nacimiento cierra el circuito. ✅ Bikman señala que la mayoría de los ejemplos de retroalimentación positiva ocurren en el cuerpo femenino, con menos en el cuerpo masculino.
 - 🟡 La transcripción dice que el hipotálamo "libera" oxitocina; anatómicamente ese paso de liberación no se detalla en la clase, así que lo importante es la correspondencia sensor-control-efector, no el detalle a nivel de glándula.
 - ✅ Incluso la retroalimentación positiva sirve a la homeostasis: el resultado final (bebé nacido, cuello uterino ya no estirado) es un regreso a un estado estable.
@@ -53,7 +53,7 @@ La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa
 | **Difusión simple — canal** | Ninguno en el momento | Poro abierto a través de ambas capas | Los iones y el agua usan canales |
 | **Difusión facilitada** | Ninguno en el momento | Un transportador ("Pac-Man") se une a la molécula, cambia de forma y libera exactamente esa cantidad dentro | Regulada con precisión; mediada por transportador |
 | **Transporte activo primario** | Usa ATP directamente | Bomba impulsada por la ruptura de ATP, que mueve moléculas cuesta arriba | La ATPasa de sodio-potasio es el ejemplo famoso |
-| **Activo secundario — simporte** | Indirecto | Un ion va cuesta abajo y otro "se sube" en la **misma** dirección, cuesta arriba | Usa un gradiente construido previamente |
+| **Activo secundario — simporte** | Indirecto | Un ion va cuesta abajo y otro se va "de aventión" en la **misma** dirección, cuesta arriba | Usa un gradiente construido previamente |
 | **Activo secundario — antiporte** | Indirecto | Un ion va cuesta abajo y otro va en dirección **opuesta**, cuesta arriba | Se cruzan sin chocar |
 
 ✅ Esta tabla es la referencia más reutilizable de la clase: cada transportador futuro del curso encajará en una de estas filas.
@@ -61,7 +61,7 @@ La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa
 **Puntos clave que vale la pena conservar:**
 - **La metáfora de la piedra en la colina:** pasivo = la piedra rueda cuesta abajo; activo = empujar la piedra cuesta arriba. Incluso el transporte "pasivo" dependió de energía gastada antes para construir el gradiente. ✅
 - **Superficie:** más membrana significa difusión simple más rápida. El ejemplo de Bikman: los músculos más grandes captan glucosa más rápido simplemente por tener más puntos de entrada — una razón por la que aumentar la masa muscular ayuda a regular el azúcar en sangre. ✅ 🟡 La clase lo vincula a la superficie y no especifica el mecanismo de transporte exacto de la entrada de glucosa.
-- **El agua sigue a los iones:** los médicos pueden enviar electrolitos a la orina para que el agua los siga, bajando la presión arterial en personas con exceso de agua corporal. ✅ (el detalle renal deliberadamente no se cubre)
+- **El agua sigue a los iones:** los médicos pueden hacer que se eliminen electrolitos por la orina para que el agua los siga, bajando la presión arterial en personas con exceso de agua corporal. ✅ (el detalle renal deliberadamente no se cubre)
 - **ATP** (adenosín trifosfato): romper los enlaces de fosfato de alta energía (hidrólisis) libera energía con la que la célula "paga" el trabajo. Lo fabrican las mitocondrias a partir de grasas y glucosa. El sufijo **-asa** indica una enzima. ✅
 - **ATPasa de sodio-potasio:** bombea sodio hacia fuera y potasio hacia dentro, cada uno contra su gradiente, usando una sola proteína impulsada por ATP. ✅ Restablece el desequilibrio después de la señalización.
 
@@ -76,7 +76,7 @@ La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa
 | **Repolarización** | Vuelve hacia -70 | Salida rápida de potasio |
 | **Hiperpolarización** | Baja por debajo de -70 (p. ej., -80, -90) — más lejos de disparar | Movimiento excesivo de potasio |
 
-- 🟡 La clase describe la hiperpolarización como "más potasio entrando" en un punto, mientras que en otros vincula el potasio con su salida de la célula; la conclusión estable es solo que **el movimiento de potasio impulsa el desplazamiento negativo**.
+- 🟡 La clase describe la hiperpolarización como "más potasio entrando" en un punto, mientras que en otros vincula el potasio con su salida de la célula; lo único firme es que **el movimiento de potasio impulsa el desplazamiento negativo**.
 - La hiperpolarización tiene consecuencias reales: las señales no llegan al corazón o a los nervios, por lo que el corazón puede detenerse o se puede perder la sensibilidad. ✅
 
 **Potenciales graduados vs. potenciales de acción**
@@ -102,11 +102,11 @@ La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa
 5. **Tres formas de apagar la señal:** un transportador de recaptación lo devuelve al interior, las enzimas lo degradan o se difunde lejos. ✅
 - 🟢 Bikman señala el calcio como un tema recurrente en las clases de músculo y corazón.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que el objetivo de una célula es el balance o el equilibrio: la célula trabaja para mantener el interior y el exterior **diferentes**; el equilibrio significa pérdida de función.
 - 🔴 Suponer que la "energía" en biología significa algo como electricidad o combustible: la energía celular es el ATP, moléculas cuyos enlaces se rompen para pagar el trabajo.
 - 🔴 Suponer que la retroalimentación positiva siempre es patológica: es rara, temporal y con propósito (el parto), y aun así termina en un regreso a la normalidad.
-- 🔴 Suponer que el transporte pasivo es "gratis": solo no cuesta nada en el momento, porque la energía se gastó antes para construir el gradiente.
+- 🔴 Suponer que el transporte pasivo es "gratis": solo es gratis en el momento, porque la energía se gastó antes para construir el gradiente.
 - 🔴 Suponer que el cuerpo está "demasiado ácido" en un sentido vago: el pH se mantiene en un rango excepcionalmente estrecho mediante ajuste activo.
 
 ## Conclusión práctica
@@ -144,6 +144,6 @@ C. \* Aprovecha un gradiente que se construyó antes con energía, permitiendo q
 - **Riñón y manejo del agua/electrolitos** — mencionados solo de pasada en esta clase.
 
 ## Lo que se recortó deliberadamente (autoevaluación)
-- Comentarios personales: los apartes sobre el termostato en Canadá versus Florida, su formación de doctorado en bioenergética, las descripciones de neuronas con mímica.
+- Comentarios personales: las digresiones sobre el termostato en Canadá frente a Florida, su formación de doctorado en bioenergética, las descripciones de neuronas con mímica.
 - Repeticiones de las proporciones de sodio/potasio y de la metáfora de la piedra en la colina más allá de su primer uso claro.
-- Detalle del plan del curso más allá de una línea (cubierto en la nota de cada clase próxima).
+- Detalle del plan del curso más allá de una línea (se cubre en la nota de cada clase siguiente).
