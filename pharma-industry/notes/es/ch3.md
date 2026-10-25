@@ -38,7 +38,7 @@ El Cap. 2 mostró que por fin los fármacos podían funcionar (los antibióticos
 La lista de "innovaciones" de Sackler según Posner (su palabra; "las innovaciones no siempre son buenas"), operadas a través de su agencia de publicidad exclusivamente médica, William Douglas McAdams, que él describe como aplicar Madison Avenue a los médicos ("Medicine Avenue"):
 
 - **Publicidad basada en la psicología:** los médicos son humanos, así que la autoridad, la repetición y el prestigio de marca funcionan con ellos. ✅
-- **"Noticias" escritas por encargo:** textos listos para publicar para periodistas de salud presionados por el cierre. La analogía de Posner: Sackler era el borrador de ChatGPT de su época. De ahí décadas de historias sobre fármacos "milagrosos", "revolucionarios" y "de avanzada" que eran lenguaje de relaciones públicas. 🟡 (caracterización)
+- **"Noticias" escritas por encargo:** textos listos para publicar para periodistas de salud presionados por la hora de cierre. La analogía de Posner: Sackler era el ChatGPT de su época: entregaba los borradores ya escritos. De ahí décadas de historias sobre fármacos "milagrosos", "revolucionarios" y "de avanzada" que eran lenguaje de relaciones públicas. 🟡 (caracterización)
 - **Folletos pseudocientíficos, materiales educativos "independientes", respaldos de líderes de opinión.**
 - **El visitador médico moderno (representante de ventas):** enviado por primera vez para el Terramycin de Pfizer. ✅
 - **Muestras gratis:** los antibióticos eran baratos de fabricar, así que se inundó a los médicos con ellas, y después con Librium y Valium (no eran narcóticos controlados). ✅
@@ -137,7 +137,7 @@ C. \* Cabildeando ante las legislaturas estatales una por una, con el apoyo de l
 
 ## Cabos sueltos
 - ✅ **Transcripción completa:** termina con el adelanto de la Clase 4.
-- **Las revistas propias de Sackler** ("como verán") y los tribunos médicos: prometidos para clases posteriores.
+- **Las revistas propias de Sackler** ("como verán") y las "tribunas" médicas: prometidas para clases posteriores.
 - **El punto máximo de las benzodiazepinas** (Librium, Valium, ansiedad leve): Cap. 5 Mother's Little Helper.
 - **La investigación de 1959–62 y el proyecto de ley propuesto** que "habría revolucionado" la industria: Cap. 4.
 - **Cifras confusas** (Pfizer dos tercios vs. 80%, dosis fija 25%/40%, 240 empresas, 35,000 médicos): verificar contra *Pharma* antes de citarlas.
