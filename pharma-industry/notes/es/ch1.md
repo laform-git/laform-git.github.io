@@ -14,8 +14,8 @@ Esta es la historia de origen sobre la que se construye el resto del curso. La t
 
 ## Por qué se vendían las curas de charlatanes — La ignorancia médica
 El argumento de fondo de Posner: cuando la gente no sabe qué la enferma, el miedo más una promesa de cura dicha con seguridad es fácil de vender. ✅ (como argumento)
-- La teoría de los gérmenes era nueva y muy descartada. Él da crédito a **Louis Pasteur** (carne y leche echadas a perder) y a un **bacteriólogo alemán (1882)** sin nombre que demostró que la tuberculosis proviene de microorganismos, cuando muchos creían que era hereditaria. 🟡 Su afirmación de que el trabajo de Pasteur llegó "unas cuantas décadas" antes de los fármacos de mediados del siglo XIX es cronológicamente imprecisa.
-- La enfermedad se culpaba a las personas, no a los microbios: dice que una Ley de Inmigración de 1882 fue impulsada por el miedo al cólera (atribuido a inmigrantes irlandeses) 🟡, y cita la **Ley de Inmigración de 1891**, que excluía a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (cita tal como la leyó)
+- La teoría de los gérmenes era nueva y ampliamente rechazada. Él da crédito a **Louis Pasteur** (carne y leche echadas a perder) y a un **bacteriólogo alemán (1882)** sin nombre que demostró que la tuberculosis proviene de microorganismos, cuando muchos creían que era hereditaria. 🟡 Su afirmación de que el trabajo de Pasteur llegó "unas cuantas décadas" antes de los fármacos de mediados del siglo XIX es cronológicamente imprecisa.
+- Se culpaba de la enfermedad a las personas, no a los microbios: dice que una Ley de Inmigración de 1882 fue impulsada por el miedo al cólera (atribuido a inmigrantes irlandeses) 🟡, y cita la **Ley de Inmigración de 1891**, que excluía a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (cita tal como la leyó)
 - **Walter Reed (1900)** demostró que los mosquitos transmiten la fiebre amarilla. Posner lo llama "general del ejército" 🟡 (rango tal como lo dijo).
 
 ## La morfina y el origen bélico de las compañías
@@ -135,7 +135,7 @@ C. Prueba de que las primeras compañías no sabían que la heroína venía del 
 A. Porque las empresas éticas habían dejado de vender opiáceos en secreto años antes
 B. Porque la Ley eximía a las compañías que listaban ingredientes
 C. \* Porque los fabricantes de medicinas de patente eran en su mayoría empresas de un solo producto basadas en panaceas adictivas, mientras que Pfizer, Lilly y otras tenían una manufactura más amplia y podían reorientarse
-*Por qué C: Posner llama a los fabricantes de patente "maravillas de un solo éxito" barridas por el cambio de golpe; las empresas diversificadas salieron fortalecidas.*
+*Por qué C: Posner llama a los fabricantes de medicinas de patente "flor de un día" barridas por el cambio de golpe; las empresas diversificadas salieron fortalecidas.*
 
 **4. Dada la historia de la insulina, ¿qué punto plantea Posner sobre la industria?**
 A. Que la insulina la inventaron los propios científicos de Eli Lilly

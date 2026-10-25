@@ -72,14 +72,14 @@ Posner las llama "cifras aproximadas", promediadas de las compañías que las re
 | Marketing y publicidad | Alrededor del 50% |
 
 - Dice que la proporción de marketing "no cambia mucho con el tiempo", y que hoy las 10 principales compañías todavía gastan más en marketing y promoción que en I+D; **si se suman las recompras de acciones**, el total supera con mucho a la I+D. 🟡 (su argumento contra la defensa de "necesitamos ganancias para la I+D"; reconoce que el desarrollo hoy es caro, alrededor de mil millones de dólares por fármaco, con fracasos)
-- **Los médicos como mercado guardián:** el marketing iba dirigido a los médicos, no a los pacientes (folletos, libros de pasta dura para el Valium, anuncios en revistas médicas, estudios financiados con probabilidad de ser favorables). Los médicos normalmente no saben ni consideran cuánto le cuesta un fármaco al paciente, así que los precios altos no frenan la prescripción. ✅
+- **Los médicos como guardianes del mercado:** el marketing iba dirigido a los médicos, no a los pacientes (folletos, libros de pasta dura para el Valium, anuncios en revistas médicas, estudios financiados con altas probabilidades de resultar favorables). Los médicos normalmente no saben ni consideran cuánto le cuesta un fármaco al paciente, así que los precios altos no frenan la prescripción. ✅
 - **Simbiosis académica:** Merck y otras se aliaron con Harvard, Yale y Johns Hopkins; a los investigadores les gustaba ver sus nombres en los descubrimientos. ✅
 
 ## Captura política — Las semillas
 - **La disposición off-label de 1938:** las compañías obtuvieron el derecho a que los médicos recetaran un fármaco para lo que consideraran conveniente. Con unas pocas docenas de clases de fármacos en ese entonces, parecía manejable; hoy, con miles, Posner lo llama **"uno de los mayores vacíos legales"**, que vale miles de millones en ventas para usos no aprobados. ✅ (caracterización 🟡)
 - **Puerta giratoria:** Arthur Sackler y otros invitaron al jefe de aprobación de antibióticos de la FDA a unirse a su revista sobre antibióticos, y nadie vio un conflicto. Después, el funcionario de la FDA que aprobó la etiqueta del OxyContin se fue a trabajar a Purdue Pharma. ✅
 - **Los Sackler en los años cincuenta:** tres hermanos psiquiatras; Posner dice que dos perdieron su autorización de seguridad en una institución mental estatal por pertenecer al Partido Comunista 🟡 (su afirmación); Arthur crea filiales en el extranjero antes de tener un producto. ✅
-- Posner: la industria farmacéutica "compra complacencia en ambos lados del pasillo". 🟡 Opinión.
+- Posner: la industria farmacéutica "compra la complacencia de ambos partidos". 🟡 Opinión.
 - Contexto de la industria: según Moody's, la industria no existía como categoría en 1909; para 1929 aparecía listada con esencialmente un producto, la insulina 🟡 (según lo dijo).
 
 ## Frases clave y datos citables (Clase 2)
