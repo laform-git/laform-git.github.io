@@ -91,7 +91,7 @@ Este capítulo aporta el mecanismo celular real detrás de la producción de tes
 
 **Síndrome de Turner (una sola X, sin segundo cromosoma sexual):**
 - Estructuras internas/externas: femeninas por defecto (no se necesita ninguna señal) ✅
-- Ovarios presentes en sustancia (células de la teca/granulosa) pero no funcionales — infertilidad, no entra espontáneamente en la pubertad sin terapia hormonal ✅ (se requieren dos cromosomas X específicamente para la función ovárica, no solo para la presencia de ovarios)
+- Hay ovarios (células de la teca/granulosa), pero no son funcionales — infertilidad, no entra espontáneamente en la pubertad sin terapia hormonal ✅ (se requieren dos cromosomas X específicamente para la función ovárica, no solo para la presencia de ovarios)
 
 **Patrón de Klinefelter (XXY):**
 - El gen SRY del cromosoma Y domina — se desarrollan estructuras internas/externas masculinas (células de Sertoli/Leydig presentes, se producen AMH y testosterona) ✅
@@ -110,7 +110,7 @@ Este capítulo aporta el mecanismo celular real detrás de la producción de tes
 
 **Deficiencia de 17-alfa-hidroxilasa (enzima necesaria para toda la síntesis de hormonas sexuales esteroideas):**
 - En individuos XX: estructuras internas/externas completamente femeninas (no hay andrógenos que alteren la vía femenina predeterminada); los ovarios y óvulos pueden estar estructuralmente presentes — la pubertad e incluso la fertilidad pueden inducirse con terapia hormonal ✅
-- En individuos XY: no se produce testosterona/DHT, pero sí se produce AMH (la AMH no es una hormona esteroidea, así que esta deficiencia enzimática no la afecta) — las estructuras de Müller desaparecen pero tampoco se desarrollan estructuras masculinas, lo que resulta en ninguna estructura reproductiva interna, con genitales externos de apariencia femenina (una vagina en "fondo de saco ciego" sin ninguna conexión interna adicional) ✅
+- En individuos XY: no se produce testosterona/DHT, pero sí se produce AMH (la AMH no es una hormona esteroidea, así que esta deficiencia enzimática no la afecta) — las estructuras de Müller desaparecen pero tampoco se desarrollan estructuras masculinas, por lo que no hay ninguna estructura reproductiva interna, con genitales externos de apariencia femenina (una vagina en "fondo de saco ciego" sin ninguna conexión interna adicional) ✅
 
 **Síndrome de insensibilidad a los andrógenos (XY, producción normal o elevada de testosterona/DHT, pero los receptores de andrógenos no funcionan):**
 - La AMH sigue funcionando con normalidad (sistema de receptores aparte) → las estructuras de Müller desaparecen
@@ -144,7 +144,7 @@ C. La LH y la FSH no pueden medirse directamente, así que la pulsatilidad se us
 *Por qué B: es el mecanismo farmacológico específico descrito en la clase — las células gonadotropas de la hipófisis responden al patrón de la señalización de GnRH, no simplemente a su presencia acumulada.*
 
 ## Temas abiertos
-- **Clase(s) reproductivas específicas sobre hormonas sexuales** — probablemente próximas; detallarían el ciclo menstrual y la dinámica hormonal del embarazo mencionados brevemente aquí.
+- **Clase(s) reproductiva(s) específica(s) sobre hormonas sexuales** — probablemente próximas; detallarían el ciclo menstrual y la dinámica hormonal del embarazo mencionados brevemente aquí.
 - **La conexión con la zona reticular del Cap. 4** — este capítulo confirmó que la modesta contribución de la corteza suprarrenal a las hormonas sexuales se vuelve más significativa en etapas específicas de la vida (pubertad, menopausia); conviene estar atento a un capítulo dedicado a la menopausia/andropausia.
 
 ## Lo que se omitió deliberadamente (autoevaluación)

@@ -12,7 +12,7 @@ Este capítulo ofrece la explicación mecanística completa del SOP (la insulina
 - **Incubar tejido ovárico humano con insulina aumenta la producción de testosterona \~13x** — no estimulando una mayor producción hormonal, sino bloqueando la conversión (aromatasa) que la habría transformado en estradiol.
 - **Un estudio con dieta baja en carbohidratos: la insulina bajó a menos de la mitad, con descensos correspondientes en la testosterona/testosterona libre y la recuperación de la producción de estradiol** — en mujeres con SOP, sin fármacos.
 - **El inicio de la pubertad en las niñas de EE. UU. pasó de \~14 a \~12 años en los últimos 50 años** — atribuido en gran parte al aumento de la grasa corporal infantil y de la leptina.
-- **Un niño con 5% de grasa corporal está metabólicamente bien; una mujer con 5% de grasa corporal pierde la capacidad de ovular** — una ilustración cruda y concreta del umbral reproductivo de la leptina específico de cada sexo.
+- **Un niño con 5% de grasa corporal está metabólicamente bien; una mujer con 5% de grasa corporal pierde la capacidad de ovular** — una ilustración contundente y concreta del umbral reproductivo de la leptina específico de cada sexo.
 - **La dieta de hCG parece no funcionar mejor que un placebo** — con las náuseas (ya que la hCG no debería estar presente fuera del embarazo) como el mecanismo plausible de cualquier efecto.
 
 ## Reproducción masculina — El sistema simple
@@ -52,7 +52,7 @@ Este capítulo ofrece la explicación mecanística completa del SOP (la insulina
 
 ## Lactancia
 - **Prolactina:** produce la leche en sí — activa la lipólisis (movilizando grasa materna hacia la leche) y los osteoclastos óseos (movilizando calcio materno hacia la leche) — además **inhibe la GnRH**, por eso la lactancia suele suprimir la ovulación/menstruación (un efecto anticonceptivo natural mediado por hormonas, aunque no se considera totalmente fiable) ✅
-- **Oxitocina:** expulsa la leche — contrae las células mioepiteliales que recubren los conductos galactóforos — y se desencadena aún más por la estimulación táctil de la propia succión ✅
+- **Oxitocina:** expulsa la leche — contrae las células mioepiteliales que recubren los conductos galáctoforos — y se desencadena aún más por la estimulación táctil de la propia succión ✅
 
 ## Menopausia — Una explicación mecanística directa
 - **El desencadenante:** agotamiento de los folículos/óvulos ováricos → menos células de la granulosa (el tipo de célula productora de estradiol) — las células de la teca (productoras de andrógenos) permanecen en gran parte intactas ✅
@@ -63,7 +63,7 @@ Este capítulo ofrece la explicación mecanística completa del SOP (la insulina
 ## Pubertad precoz — La leptina como impulsor principal
 - Extensión directa del mecanismo leptina→kisspeptina→GnRH pulsátil del Cap. 5: aumento de la grasa corporal infantil → aumento de la leptina → activación más temprana de la GnRH pulsátil → inicio más temprano de la pubertad ✅
 - **Tendencia citada en EE. UU.:** el inicio promedio de la pubertad femenina pasó de \~14 años a \~12 años en aproximadamente 50 años ✅
-- **Sensibilidad a la leptina específica de cada sexo:** una misma cantidad de tejido graso produce más leptina en las mujeres que en los hombres — lo que significa que la función reproductiva femenina tiene incorporado un requerimiento *mayor* de leptina. Con una grasa corporal muy baja (\~5%), un hombre sigue siendo reproductivamente normal mientras que una mujer pierde por completo la capacidad de ovular. ✅ Una ilustración concreta y cruda de por qué la fertilidad femenina depende más de la grasa corporal que la masculina.
+- **Sensibilidad a la leptina específica de cada sexo:** una misma cantidad de tejido graso produce más leptina en las mujeres que en los hombres — lo que significa que la función reproductiva femenina tiene incorporado un requerimiento *mayor* de leptina. Con una grasa corporal muy baja (\~5%), un hombre sigue siendo reproductivamente normal mientras que una mujer pierde por completo la capacidad de ovular. ✅ Una ilustración concreta y contundente de por qué la fertilidad femenina depende más de la grasa corporal que la masculina.
 - **Factor secundario (menos enfatizado, pero mencionado):** compuestos sintéticos ambientales que imitan a los estrógenos (plastificantes, algunos detergentes) 🟡
 
 ## Testosterona baja masculina
@@ -79,14 +79,14 @@ Este capítulo ofrece la explicación mecanística completa del SOP (la insulina
 **Disfunción eréctil — replanteada con un añadido específico nuevo:** la insulina por sí misma estimula directamente la producción de óxido nítrico en los vasos sanguíneos, independientemente de la testosterona. Por lo tanto, la resistencia a la insulina deteriora directamente la función eréctil mediante el mismo mecanismo de deficiencia de óxido nítrico que el material sobre hipertensión del Cap. 4 — algunos clínicos la señalan explícitamente como uno de los primeros signos de resistencia a la insulina en hombres jóvenes por lo demás sanos. ✅
 
 ## SOP — El panorama mecanístico completo, con un estudio de reversión citado
-**Criterios diagnósticos (Rotterdam, se requieren 2 de 3):** testosterona elevada, ovulación/menstruación infrecuente, ovarios poliquísticos en las imágenes ✅
+**Criterios diagnósticos (Rotterdam, se requieren 2 de 3):** testosterona elevada, ovulación/menstruación infrecuente, ovarios poliquísticos en estudios de imagen ✅
 
 **El mecanismo, con precisión:**
 1. Varios folículos empiezan a desarrollarse en cada ciclo, como es normal
 2. Normalmente, un folículo dominante produce suficiente estradiol para desencadenar el pico de LH → ovulación → los demás folículos involucionan
 3. **La insulina inhibe directamente la aromatasa** — bloqueando la conversión de andrógenos en estradiol en la transferencia de la teca a la granulosa
 4. Sin suficiente estradiol, el pico de LH nunca ocurre → no hay ovulación → los folículos nunca reciben la señal de "retirada" → persisten como quistes, y siguen desarrollándose nuevos en cada ciclo sin resolverse ✅
-5. **Confirmación experimental directa:** incubar tejido ovárico humano con insulina aumentó la producción de testosterona \~13x — explícitamente NO por un aumento de la síntesis hormonal, sino por la conversión bloqueada (inhibición de la aromatasa) que atrapa andrógenos que de otro modo se habrían convertido en estradiol ✅ Se trata de un experimento controlado a nivel de tejido, no solo de una correlación observacional — de los niveles de evidencia más sólidos de todo este curso.
+5. **Confirmación experimental directa:** incubar tejido ovárico humano con insulina aumentó la producción de testosterona \~13x — explícitamente NO por un aumento de la síntesis hormonal, sino por la conversión bloqueada (inhibición de la aromatasa) que atrapa andrógenos que de otro modo se habrían convertido en estradiol ✅ Se trata de un experimento controlado a nivel de tejido, no solo de una correlación observacional — uno de los niveles de evidencia más sólidos de todo este curso.
 
 **El estudio de reversión — genuinamente significativo:** un estudio publicado recientemente encontró que poner a mujeres con SOP en una dieta baja en carbohidratos redujo la insulina a menos de la mitad del valor inicial, con reducciones correspondientes de la testosterona total y libre Y la recuperación de la producción de estradiol — logrado únicamente mediante la dieta, sin intervención farmacológica. ✅ Un estudio de resultados controlado real, no un mero mecanismo teórico.
 
