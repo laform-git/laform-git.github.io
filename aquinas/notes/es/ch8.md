@@ -71,7 +71,7 @@ Las virtudes son capacidades interiores que nos ordenan correctamente hacia un f
 ✅ Barron presenta solo estas cuatro; las virtudes teologales no se tratan en esta lección.
 
 ## La ley — La última pieza, no la primera
-- Barron señala que "no ha levantado el dedo ni una vez" hasta ahora. La ley **disciplina la acción para inculcar las virtudes**, que nos ordenan a la beatitudo. Ejemplo de la crianza: un niño que todavía no puede captar el panorama completo recibe reglas que lo habitúan a la virtud. ✅
+- Barron señala que hasta ahora "no ha regañado ni una sola vez". La ley **disciplina la acción para inculcar las virtudes**, que nos ordenan a la beatitudo. Ejemplo de la crianza: un niño que todavía no puede captar el panorama completo recibe reglas que lo habitúan a la virtud. ✅
 
 | Nivel | Qué es | Ejemplo de la lección |
 |---|---|---|
