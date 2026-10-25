@@ -48,7 +48,7 @@ Esta es la lección que prepara el escenario del curso. Antes de los argumentos 
 - La imagen de Barron: *La escuela de Atenas* de Rafael, Platón señalando hacia arriba, a las formas, y la mano de Aristóteles señalando hacia abajo, a este mundo. Reconciliar a Aristóteles con el cristianismo se convirtió en la obra de la vida de Tomás, y empieza aquí. ✅
 
 ### La resistencia de la familia
-- Su madre quería un abad, no un predicador callejero mendicante. Sus hermanos ("tipos matones", mercenarios) lo emboscaron en el camino hacia el norte; uno intentó arrancarle el hábito blanco; él se aferró a él. ✅
+- Su madre quería un abad, no un predicador callejero mendicante. Sus hermanos ("unos matones", mercenarios) lo emboscaron en el camino hacia el norte; uno intentó arrancarle el hábito blanco; él se aferró a él. ✅
 - **Encerrado un año en un castillo familiar**, estudió la Biblia con tal intensidad que quizá casi la memorizó. La prueba de Barron: Tomás de Aquino a menudo cita la Escritura "un poquito mal", lo que sugiere que citaba de memoria y no consultando un texto. 🟡 (inferencia de Barron)
 - **La historia del tizón:** un hermano le mandó una prostituta; Tomás tomó un tizón del fuego y la echó. Barron: "una historia tan extraña que creo que podría ser cierta". 🟡 Al cabo de un año la familia se rindió.
 
@@ -59,8 +59,8 @@ Esta es la lección que prepara el escenario del curso. Antes de los argumentos 
 
 ### Magister, corte papal y el final
 - De vuelta en París, **magister** (raíz del inglés "master" y de "maestro"), profesor titular de teología. ✅
-- Década de 1250 en París; en **1259** a la corte papal itinerante en Italia, trabajando en la *Suma Teológica* y escribiendo la *Suma contra los Gentiles*, "una versión algo más menor". Algunos dicen que era para cristianos en tierras musulmanas; "hay un debate sobre eso". 🟡
-- Segunda estancia en París, de fines de la década de 1260 a la de 1270; en **1272** de vuelta a Nápoles, "con unos 49" 🟡 (según las fechas de nacimiento dadas, unos 47 o 48).
+- Década de 1250 en París; en **1259** a la corte papal itinerante en Italia, trabajando en la *Suma Teológica* y escribiendo la *Suma contra los Gentiles*, "una versión algo menor". Algunos dicen que era para cristianos en tierras musulmanas; "hay un debate sobre eso". 🟡
+- Segunda estancia en París, de fines de la década de 1260 a la de 1270; en **1272** de vuelta a Nápoles, "con unos 49 años" 🟡 (según las fechas de nacimiento dadas, unos 47 o 48).
 - **6 de diciembre de 1273:** después de sus dos Misas habituales (la suya, luego la de Reginaldo), se detuvo: "todo lo que he escrito me parece paja comparado con lo que me ha sido revelado", y esperaba que el Señor pronto pusiera fin también a su vida. ✅
 - **Marzo de 1274:** de camino al Concilio de Lyon (convocado para tratar la división entre Oriente y Occidente), se golpeó la cabeza con una rama o se desplomó, fue llevado a un monasterio cisterciense (sin nombre en la lección) y murió el **7 de marzo de 1274**. ✅
 - **¿Qué pasó?** No se sabe. Posiblemente un derrame cerebral (su hermana Teodora lo describió como *stupefactus*); Barron también cree que fue algo místico. 🟡
@@ -123,7 +123,7 @@ Las partes se dividen en **cuestiones**, las cuestiones en **artículos**, y "lo
 - 🔴 "Buey mudo significa tonto": "mudo" (*dumb*) significaba que no hablaba.
 
 ## Aplicación práctica
-(1) Lee la *Suma* como la transcripción de un debate: encuentra el utrum, lee el respondeo y luego mira cómo responde a la objeción más fuerte. (2) Usa el hábito del steel-man en la apologética: expón bien la postura contraria y nombra lo que tiene de acertado antes de corregirla. (3) Ten lista la contra-lista de la "Edad Oscura": catedrales, Dante, universidades, Francisco, monjes copiando a los clásicos. (4) Mantén juntos el estudio y la oración, como hizo Tomás.
+(1) Lee la *Suma* como la transcripción de un debate: encuentra el utrum, lee el respondeo y luego mira cómo responde a la objeción más fuerte. (2) Usa el hábito del steel-man en la apologética: expón bien la postura contraria y nombra lo que tiene de acertado antes de corregirla. (3) Ten a la mano los argumentos contra la "Edad Oscura": catedrales, Dante, universidades, Francisco, monjes copiando a los clásicos. (4) Mantén juntos el estudio y la oración, como hizo Tomás.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. ¿Qué resume mejor el argumento de Barron contra el relato de la "Edad Oscura"?**

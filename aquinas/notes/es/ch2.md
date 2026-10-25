@@ -33,7 +33,7 @@ Tomás considera primero la posibilidad de que la existencia de Dios sea evident
 - Barron sitúa a Gödel junto a Bertrand Russell y Alfred North Whitehead como los más grandes matemáticos teóricos del siglo XX 🟡 (su clasificación).
 
 ### El veredicto de Tomás: más cerca de Kant
-- El argumento ontológico hace **una transición ilegítima de lo intencional a lo real**: por impresionante que sea la idea de Dios, no se puede deslizar de la idea a la realidad. Tomás discute con Anselmo en este punto. ✅
+- El argumento ontológico hace **una transición ilegítima de lo intencional a lo real**: por impresionante que sea la idea de Dios, no se puede pasar sin más de la idea a la realidad. Tomás discute con Anselmo en este punto. ✅
 - **Pero un sí parcial:** todos quieren ser felices (*beatitudo*); nuestra felicidad última es Dios, el Sumo Bien; no se puede desear lo que de algún modo no se conoce; así que, de un modo **incoado**, todos intuyen que Dios existe. ✅
 - **La advertencia:** en un mundo caído, la mayoría de nosotros nos equivocamos sobre la felicidad la mayor parte del tiempo (la buscamos en el placer, el dinero, el poder, el honor, el conocimiento). Así que de hecho carecemos de una comprensión clara de la existencia de Dios y necesitamos **evidencias tomadas del mundo**. ✅
 
@@ -68,13 +68,13 @@ Su propia interpretación de aquello de lo que dan testimonio todas las versione
 - ***Motus*** **significa cambio de cualquier tipo**, no solo movimiento local: velocidad, temperatura, conocimiento ("no sabía ruso, ahora sí"). ✅
 - **Potencia y acto (Aristóteles):** la potencia es posibilidad real (todavía no, pero podría ser); el cambio es "la reducción de algo de la potencia al acto". ✅
 - **Por qué nada se cambia a sí mismo:** lo que es cambiado debe estar en potencia; lo que causa el cambio debe estar en acto ("no puedes dar lo que no tienes": el calefactor debe estar caliente, el profesor de ruso debe saber ruso). Nada está en potencia y en acto **bajo el mismo respecto** a la vez. Los animales que "se mueven a sí mismos" son en realidad una parte que mueve a otra (cerebro, nervios, músculos, huesos). ✅
-- **No hay regresión infinita, pero no hacia atrás en el tiempo:** la serie en cuestión está **subordinada *per se***, una dependencia aquí y ahora de causa en causa. Quita la primera y quitas todo movimiento posterior, incluido el cambio que tienes delante. Una serie que se remonta en el tiempo (padre, abuelo...) Tomás dice que podría ser infinita y que no puede refutarlo. ✅
+- **No hay regresión infinita, pero no hacia atrás en el tiempo:** la serie en cuestión está **subordinada *per se***, una dependencia aquí y ahora de causa en causa. Quita la primera y quitas todo movimiento posterior, incluido el cambio que tienes delante. De una serie que se remonta en el tiempo (padre, abuelo...), Tomás dice que podría ser infinita y que no puede refutarlo. ✅
 - Así que el argumento no es "Dios puso las cosas en marcha hace mucho" sino **Dios operante ahora** en todo movimiento y cambio. ✅
 - El primer motor no tiene potencia: es ***actus purus***, acto puro, "pura energía", el "energizador no energizado" (desarrollado en el Cap. 3). ✅
 - Barron advierte que las ilustraciones con bolas de billar entienden mal el argumento: representan una cadena temporal. ✅
 
 ### Los ejemplos de Barron
-- **La taza de café:** su café a unos 200 grados durante su hora santa matutina se enfría en unos 15 minutos (de la potencia al acto). La habitación lo cambia; la habitación depende del clima exterior (sistemas de presión, vientos, el movimiento de la Tierra) y de la calefacción de la casa; la calefacción depende de la red eléctrica de Rochester, de la red estatal, y así sucesivamente, "como una muñeca rusa", todo aquí y ahora. Si te detienes en una regresión infinita, violas el **principio de explicación suficiente**. En la oración, dice, la taza que se enfría lo hace consciente del acto puro que la sostiene. ✅ (ejemplo; 🟡 los detalles son su ilustración, no de Tomás)
+- **La taza de café:** su café a unos 200 grados Fahrenheit durante su hora santa matutina se enfría en unos 15 minutos (de la potencia al acto). La habitación lo cambia; la habitación depende del clima exterior (sistemas de presión, vientos, el movimiento de la Tierra) y de la calefacción de la casa; la calefacción depende de la red eléctrica de Rochester, de la red estatal, y así sucesivamente, "como una muñeca rusa", todo aquí y ahora. Si te conformas con una regresión infinita, violas el **principio de explicación suficiente**. En la oración, dice, la taza que se enfría lo hace consciente del acto puro que la sostiene. ✅ (ejemplo; 🟡 los detalles son su ilustración, no de Tomás)
 - **La lámpara colgada de una cadena:** cada eslabón sostiene la lámpara ahora; una cadena infinita dejaría la lámpara en el suelo. Como cuelga, debe haber algo que no sea un eslabón más. ✅
 - **La segunda vía** (*ex causalitate*, causalidad eficiente) se menciona como muy similar y no se desarrolla. ✅
 
@@ -120,7 +120,7 @@ Barron la llama "la más intuitivamente obvia, pero quizá también la más déb
 - **"Una transición ilegítima de lo intencional a lo real".** El veredicto de Tomás sobre el argumento ontológico.
 - **Todos quieren la felicidad, así que todos conocen a Dios de modo incoado.** La concesión parcial de Tomás a la evidencia por sí misma.
 - ***Si comprehendis, non est Deus*.** Si lo comprendes, no es Dios (Agustín).
-- **"Todo lo que puede ser conocido o entendido es menos que Dios mismo".** La etiqueta de advertencia de Tomás sobre todo discurso acerca de Dios.
+- **"Todo lo que puede ser conocido o entendido es menos que Dios mismo".** La advertencia de Tomás sobre todo discurso acerca de Dios.
 - ***Quinque viae* y *manuductio*.** Cinco caminos, un llevar de la mano, no una red para atrapar a Dios.
 - **No hacia atrás en el tiempo, sino aquí y ahora.** La taza de café, no las bolas de billar.
 - **"Son, pero no tienen por qué ser".** El corazón del argumento de la contingencia.
@@ -135,7 +135,7 @@ Barron la llama "la más intuitivamente obvia, pero quizá también la más déb
 - 🔴 "El argumento del diseño trata solo del orden bonito": en la lectura de Barron se apoya en la inteligibilidad que toda ciencia presupone.
 
 ## Aplicación práctica
-Conclusiones a nivel de estudio: (1) cuando te encuentres con un argumento sobre Dios, pregunta primero si es a priori (desde la idea) o a posteriori (desde el mundo); Tomás solo confía en el segundo; (2) explica la primera y la tercera vía con una dependencia **aquí y ahora** (lámpara, café), nunca con una línea de tiempo; (3) el deseo de felicidad es en sí mismo un indicador que apunta a Dios, y por eso la felicidad mal buscada (placer, dinero, poder, honor) atenúa ese indicador; (4) presenta las vías como caminos con humildad, no como una trampa para la otra persona.
+Conclusiones para el estudio: (1) cuando te encuentres con un argumento sobre Dios, pregunta primero si es a priori (desde la idea) o a posteriori (desde el mundo); Tomás solo confía en el segundo; (2) explica la primera y la tercera vía con una dependencia **aquí y ahora** (lámpara, café), nunca con una línea de tiempo; (3) el deseo de felicidad es en sí mismo un indicador que apunta a Dios, y por eso la felicidad mal buscada (placer, dinero, poder, honor) atenúa ese indicador; (4) presenta las vías como caminos con humildad, no como una trampa para la otra persona.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. ¿Por qué rechaza Tomás el argumento ontológico de Anselmo?**
