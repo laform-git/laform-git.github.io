@@ -19,7 +19,7 @@ El músculo es, por masa, la mayor parte de lo que compone a una persona, y es u
 4. La acetilcolina se une a los **receptores colinérgicos nicotínicos** de la **placa motora terminal** (el lado del músculo). Son canales iónicos dependientes de ligando químico.
 5. La membrana muscular se **despolariza** y dispara su propio potencial de acción. ✅
 
-**Ejemplo del Botox:** la toxina botulínica impide que las vesículas liberen acetilcolina. La señal llega y el calcio entra, pero no se libera transmisor, así que no se le puede ordenar al músculo que se contraiga. Es la parálisis del músculo objetivo (su ejemplo: la cara y la frente). ✅
+**Ejemplo del Botox:** la toxina botulínica impide que las vesículas liberen acetilcolina. La señal llega y el calcio entra, pero no se libera transmisor, así que no se le puede ordenar al músculo que se contraiga. El resultado es la parálisis del músculo tratado (su ejemplo: la cara y la frente). ✅
 
 ## Acoplamiento excitación-contracción — Llevar la señal a lo profundo
 - **Túbulos T:** la señal no solo viaja por la superficie. Invaginaciones con forma de letra T llevan el potencial de acción a lo profundo de la fibra. ✅
@@ -107,7 +107,7 @@ La liberación de calcio es solo el paso inicial; prepara la contracción en lug
 - **Hipertrofia: el mismo número de células, cada una más grande.**
 - **A concentraciones iguales, el cerebro obtiene alrededor del 70% de su energía de las cetonas.**
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 "El ácido láctico causa el ardor muscular": no hay ácido láctico en el cuerpo humano, el lactato no tiene efecto sobre el pH y es un combustible. El ardor sigue a los iones de hidrógeno de la hidrólisis del ATP.
 - 🔴 "El músculo crece agregando células": en este marco, el crecimiento es hipertrofia, con el mismo número de células y más proteína contráctil en cada una.
 - 🔴 "El ATP impulsa la contracción y el calcio solo la desencadena": el ATP también es necesario para separar y para bombear el calcio hacia fuera; sin ATP nuevo la miosina queda unida y el músculo no puede relajarse.
@@ -115,7 +115,7 @@ La liberación de calcio es solo el paso inicial; prepara la contracción en lug
 - 🔴 "La contracción muscular es un solo proceso": son tres procesos vinculados (señal eléctrica, liberación de calcio, ciclo de los filamentos), y cada uno tiene su propio punto de falla o de intervención (p. ej., el Botox en el primero).
 
 ## Conclusión práctica
-La clase es mecanística y no da ninguna prescripción de entrenamiento, así que el valor práctico es conceptual: el ardor tipo dolor muscular es una señal de pH más que un problema de lactato, la resistencia y la potencia dependen de distintos tipos de fibra con distintas preferencias de combustible, y el tamaño del músculo refleja el tamaño de la célula. Las preguntas de estudiantes agregan una idea que suena aplicable (hacer ejercicio al inicio de un ayuno acelera la cetosis), que es un hallazgo reportado por Bikman y conviene tratarlo como una pista más que como un protocolo.
+La clase es mecanística y no da ninguna prescripción de entrenamiento, así que el valor práctico es conceptual: el ardor que se siente como dolor muscular es una señal de pH más que un problema de lactato, la resistencia y la potencia dependen de distintos tipos de fibra con distintas preferencias de combustible, y el tamaño del músculo refleja el tamaño de la célula. Las preguntas de estudiantes agregan una idea que suena aplicable (hacer ejercicio al inicio de un ayuno acelera la cetosis), que es un hallazgo reportado por Bikman y que conviene tratar como una pista más que como un protocolo.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dado que el ATP se necesita tanto para la separación de la miosina como para la recaptación de calcio por SERCA, ¿qué esperarías que le pase a un músculo que se queda sin ATP a mitad de una contracción?**
@@ -132,14 +132,14 @@ C. El ardor se debe a que el músculo se calienta mientras trabajan las cabezas 
 
 **3. La toxina botulínica (Botox) y la unión neuromuscular: ¿qué paso bloquea y qué hace el músculo?**
 A. Bloquea el receptor nicotínico de la placa terminal, así que la acetilcolina se libera pero no puede unirse
-B. \* Bloquea la liberación de las vesículas, así que el calcio igual entra en la terminal nerviosa pero la acetilcolina nunca se libera, y el músculo no recibe ninguna señal de contracción
+B. \* Bloquea la liberación de las vesículas, así que el calcio aun así entra en la terminal nerviosa pero la acetilcolina nunca se libera, y el músculo no recibe ninguna señal de contracción
 C. Bloquea el receptor de rianodina, así que el RS no puede liberar calcio
 *Por qué B: en la clase, la señal recorre la neurona y el calcio entra, pero las vesículas no pueden liberar acetilcolina, así que el músculo queda paralizado.*
 
 **4. ¿Por qué la fibra tipo IIX se fatiga más rápido pero produce más potencia que la tipo I?**
 A. Tiene menos cabezas de miosina, lo que ahorra energía
 B. Almacena más calcio, lo que retrasa la fatiga
-C. \* Tiene una ATPasa de miosina más rápida y un manejo del calcio más rápido, así que cicla los puentes cruzados y quema combustible mucho más rápido, lo que da alta potencia y velocidad pero fatiga rápida
+C. \* Tiene una ATPasa de miosina más rápida y un manejo del calcio más rápido, así que completa los ciclos de puentes cruzados y quema combustible mucho más rápido, lo que da alta potencia y velocidad pero fatiga rápida
 *Por qué C: la clase vincula la velocidad de contracción con la velocidad de la ATPasa y la eliminación de calcio, y describe el tipo IIX como de alta potencia, alta velocidad y muy fatigable frente al tipo I, de baja potencia pero capaz de seguir todo el día.*
 
 ## Hilos abiertos
@@ -149,6 +149,6 @@ C. \* Tiene una ATPasa de miosina más rápida y un manejo del calcio más rápi
 - 🟡 **Cetonas en enfermedades neurológicas:** las afirmaciones de las preguntas de estudiantes se hacen con seguridad pero sin citas; vale la pena contrastarlas con el material de Why We Get Sick.
 
 ## Lo que se recortó deliberadamente (autoevaluación)
-- Comentarios personales: demostraciones con la mano y el brazo (los dedos como neuronas, el puño como cabeza de miosina), apartes en broma sobre el Botox y las arrugas, menciones promocionales de su curso anterior.
+- Comentarios personales: demostraciones con la mano y el brazo (los dedos como neuronas, el puño como cabeza de miosina), comentarios en broma sobre el Botox y las arrugas, menciones promocionales de su curso anterior.
 - Resumen repetido: el largo resumen de los tres procesos al final de la clase, que repetía las secciones de la señal, el calcio y los puentes cruzados ya capturadas arriba.
 - Deslices de la transcripción resueltos en lugar de copiados: una línea nombraba el receptor como "nicotínico, muscarínico, o el nicotínico", que él corrigió a nicotínico; una línea decía "tipo IIA contracción lenta", que por el contexto se refería al tipo I.

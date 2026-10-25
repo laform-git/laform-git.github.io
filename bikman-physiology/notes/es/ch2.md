@@ -5,7 +5,7 @@
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 2 (transcripción). Se basa directamente en la Clase 1 (fisiología celular, incluidos el potencial de acción y la sinapsis). Mismo profesor que las series de Endocrinología y Why We Get Sick; esta es la primera clase del curso a nivel de sistemas.*
 
 ## Por qué importa
-Esta clase pasa de la célula al primer sistema de órganos y aporta el diagrama de conexiones al que se enchufará cada clase posterior del curso (músculo esquelético, cardiopulmonar, GI, endocrino, adiposo). Dos ideas son las de mayor peso a futuro: (1) el sistema nervioso autónomo controla todo excepto el músculo esquelético a través de dos ramas opuestas pero cooperativas, y (2) la misma señal puede amplificarse o suprimirse en la sinapsis, por eso el dolor puede subirse con las prostaglandinas y bajarse con las endorfinas. Bikman también cierra con el tejido graso, la parte más relevante para su enfoque metabólico: la señalización simpática es lo que les indica a las células grasas que descompongan la grasa almacenada.
+Esta clase pasa de la célula al primer sistema de órganos y aporta el diagrama de conexiones en el que se apoyará cada clase posterior del curso (músculo esquelético, cardiopulmonar, GI, endocrino, adiposo). Dos ideas son las de mayor peso a futuro: (1) el sistema nervioso autónomo controla todo excepto el músculo esquelético a través de dos ramas opuestas pero cooperativas, y (2) la misma señal puede amplificarse o suprimirse en la sinapsis, por eso el dolor puede subirse con las prostaglandinas y bajarse con las endorfinas. Bikman también cierra con el tejido graso, la parte más relevante para su enfoque metabólico: la señalización simpática es lo que les indica a las células grasas que descompongan la grasa almacenada.
 
 ## Planteamiento del alcance — El sistema nervioso periférico es un circuito de doble vía
 La clase deja de lado deliberadamente el cerebro (sistema nervioso central) y se centra en el sistema nervioso **periférico**: los nervios que interactúan con el resto del cuerpo. El circuito es simple. Un receptor sensorial detecta un estímulo, que viaja **hacia arriba** al cerebro por neuronas **aferentes**; el cerebro decide qué hacer, y la respuesta viaja **hacia fuera** por neuronas **eferentes** hasta un **órgano efector** (su ejemplo: los músculos se mueven porque un pie está incómodo). ✅ Truco para recordarlo: Aferente = Arriba al cerebro; Eferente = Exterior, sale de él.
@@ -22,7 +22,7 @@ La clase deja de lado deliberadamente el cerebro (sistema nervioso central) y se
 
 ## Divisiones del sistema nervioso — El mapa
 **Aferente (sensorial, hacia el cerebro)**
-- **Somatosensorial:** el tacto en la piel o en la boca, además del movimiento articular y la contracción muscular (su ejemplo: con los ojos cerrados igual sabes dónde están tus brazos y piernas). ✅
+- **Somatosensorial:** el tacto en la piel o en la boca, además del movimiento articular y la contracción muscular (su ejemplo: con los ojos cerrados aun así sabes dónde están tus brazos y piernas). ✅
 - **Visceral:** lo que sucede más profundo, en el intestino, los riñones y otros órganos internos, que también envía señales al cerebro. ✅
 
 **Eferente (respuesta, desde el cerebro hacia fuera)**
@@ -88,12 +88,12 @@ Ambas ramas **inervan los mismos órganos con efectos opuestos**: la simpática 
 | **Vías respiratorias** | Broncodilatación: abre la vía aérea, facilita la oxigenación y la eliminación de CO₂ | Broncoconstricción: el aire no necesita moverse tan rápido |
 | **Tejido graso** | Activación del receptor beta-3: **lipólisis** | 🟡 No se cubre en esta clase |
 
-✅ Bikman destaca el contraste entre vasos y vías respiratorias: bajo el impulso simpático los vasos se contraen mientras las vías respiratorias se dilatan, y el parasimpático invierte ambos. Explica la vasoconstricción en el caso simpático como una forma de mover energía, oxígeno y eliminación de desechos más rápido: "no lo ocluye, lo estrecha". 🟡 La clase presenta esto como el patrón general y no discute excepciones.
+✅ Bikman destaca el contraste entre vasos y vías respiratorias: bajo el impulso simpático los vasos se contraen mientras las vías respiratorias se dilatan, y el parasimpático invierte ambos. Explica la vasoconstricción en el caso simpático como una forma de mover energía y oxígeno, y eliminar desechos, más rápido: "no lo ocluye, lo estrecha". 🟡 La clase presenta esto como el patrón general y no discute excepciones.
 
 ## Tejido graso — La recompensa metabólica
-El tejido adiposo es "singularmente sensible" al sistema nervioso simpático. La norepinefrina liberada por la fibra posganglionar se une al **receptor adrenérgico beta-3** de las células grasas y activa la **lipólisis**, la descomposición de la grasa almacenada: los triglicéridos se descomponen y se liberan como **ácidos grasos libres**. ✅ Cualquier cosa que active el sistema nervioso simpático, Bikman nombra **el ejercicio y la terapia de frío**, impulsa más este proceso. 🟢 Su vínculo declarado entre la fisiología del sistema nervioso y "cosas tan precisas como la quema de grasa".
+El tejido adiposo es "singularmente sensible" al sistema nervioso simpático. La norepinefrina liberada por la fibra posganglionar se une al **receptor adrenérgico beta-3** de las células grasas y activa la **lipólisis**, la descomposición de la grasa almacenada: los triglicéridos se descomponen y se liberan como **ácidos grasos libres**. ✅ Cualquier cosa que active el sistema nervioso simpático (Bikman nombra **el ejercicio y la terapia de frío**) impulsa más este proceso. 🟢 Su vínculo declarado entre la fisiología del sistema nervioso y "cosas tan precisas como la quema de grasa".
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que las ramas simpática y parasimpática son equipos opuestos en un tira y afloja: son complementarias y siempre están ambas activas, manteniendo juntas la homeostasis.
 - 🔴 Suponer que ambas ramas autónomas usan la misma química en todo el trayecto: ambas usan receptores colinérgicos en el ganglio, pero en el órgano la simpática cambia a adrenérgica (norepinefrina) mientras que la parasimpática sigue siendo colinérgica (acetilcolina).
 - 🔴 Suponer que el ganglio simpático y el ganglio parasimpático están en el mismo lugar: los ganglios simpáticos están junto a la columna (fibra preganglionar corta, posganglionar larga), los ganglios parasimpáticos están cerca del órgano (fibra preganglionar larga, posganglionar corta).
@@ -101,7 +101,7 @@ El tejido adiposo es "singularmente sensible" al sistema nervioso simpático. La
 - 🔴 Suponer que la vasoconstricción es inherentemente una mala señal: en la lucha o huida es la forma de mover la sangre más rápido y eliminar los desechos del músculo en actividad.
 
 ## Conclusión práctica
-El diagrama de conexiones a conservar: receptor sensorial → neurona aferente → cerebro → neurona eferente → efector. En el lado de salida, la rama somática es el músculo esquelético voluntario y la rama autónoma es todo lo demás, con el simpático y el parasimpático llevando cada órgano en direcciones opuestas mediante la norepinefrina y la acetilcolina. Para la grasa, la señal simpática a través de los receptores beta-3 es la que moviliza los triglicéridos almacenados como ácidos grasos libres, y Bikman nombra el ejercicio y la terapia de frío como cosas que la activan.
+El diagrama de conexiones a conservar: receptor sensorial → neurona aferente → cerebro → neurona eferente → efector. En el lado de salida, la rama somática es el músculo esquelético voluntario y la rama autónoma es todo lo demás, con el simpático y el parasimpático jalando cada órgano en direcciones opuestas mediante la norepinefrina y la acetilcolina. Para la grasa, la señal simpática a través de los receptores beta-3 es la que moviliza los triglicéridos almacenados como ácidos grasos libres, y Bikman nombra el ejercicio y la terapia de frío como cosas que la activan.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Un corredor huye a toda velocidad de un peligro. ¿Qué patrón de efectos autónomos predice el marco de Bikman?**
@@ -136,6 +136,6 @@ C. \* Activan el sistema nervioso simpático, liberando norepinefrina que se une
 - **Tejido adiposo y control simpático de la grasa con más profundidad** — el foco de investigación declarado de Bikman; se espera en la clase de tejido adiposo (Cap. 7). 🟡 Inferido del plan del curso, no dicho en esta clase.
 
 ## Lo que se recortó deliberadamente (autoevaluación)
-- Comentarios personales: el ejemplo de Bikman de mover el pie, los repetidos apartes de "para bien o para mal" y el párrafo de resumen final (su contenido ya está en las secciones anteriores)
+- Comentarios personales: el ejemplo de Bikman de mover el pie, los repetidos comentarios de "para bien o para mal" y el párrafo de resumen final (su contenido ya está en las secciones anteriores)
 - Contenido repetido de la Clase 1 (la mecánica del potencial de acción y del canal de calcio dependiente de voltaje), mencionado solo como contexto de la vía del dolor
 - Peculiaridades de la transcripción: una autocorrección a mitad de frase sobre los efectos parasimpáticos en vasos y vías respiratorias (resuelta arriba como vasodilatación más broncoconstricción), y variantes ortográficas como "perastalsis" y "nocireceptor", normalizadas a los términos estándar peristalsis y nociceptor
