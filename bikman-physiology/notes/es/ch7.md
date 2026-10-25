@@ -36,7 +36,7 @@ Esta es la lección que explica *por qué* crece la grasa, no solo *que* crece. 
 ## Dónde va la grasa vs. cuánta — Dos señales distintas
 - **La insulina decide *cuánta* grasa se almacena.** ✅
 - **La lipoproteína lipasa (LPL) decide *dónde* se almacena.** Donde se expresa más LPL, se almacena más grasa. ✅ (El sufijo "-asa" significa que es una enzima.)
-- **Las hormonas sexuales dirigen la expresión de la LPL:** en la pubertad, los estrógenos impulsan la LPL en los sitios femeninos prototipicos (senos, glúteos, caderas); los andrógenos, mucho más altos en los varones, impulsan la LPL a nivel central, así que un hombre acumula grasa alrededor del abdomen. ✅
+- **Las hormonas sexuales dirigen la expresión de la LPL:** en la pubertad, los estrógenos impulsan la LPL en los sitios femeninos prototípicos (senos, glúteos, caderas); los andrógenos, mucho más altos en los varones, impulsan la LPL a nivel central, así que un hombre acumula grasa alrededor del abdomen. ✅
 - Antes de la pubertad, niños y niñas se ven esencialmente iguales en tipo de cuerpo. ✅
 - **Sin señal de hormonas sexuales** (en algunas patologías), el cuerpo adopta por defecto un patrón femenino genérico, más en los glúteos y las caderas, aunque no necesariamente tejido mamario en un hombre. ✅
 

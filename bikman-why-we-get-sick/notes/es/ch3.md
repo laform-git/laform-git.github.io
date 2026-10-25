@@ -2,7 +2,7 @@
 
 *Esta clase explica por qué la resistencia a la insulina está subdiagnosticada en la práctica clínica, recorre la cascada tejido por tejido que lleva de la resistencia a la insulina a la diabetes tipo 2, y cuestiona el modelo estándar de la enfermedad cardíaca y la hipertensión centrado en el LDL.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué nos enfermamos), Clase 3 (transcripción). Continuación de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa realmente", empezando por la diabetes tipo 2 y la enfermedad cardíaca.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 3 (transcripción). Continuación de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa realmente", empezando por la diabetes tipo 2 y la enfermedad cardíaca.*
 
 ## Por qué importa
 
@@ -11,7 +11,7 @@ Los Cap.1–2 construyeron el mecanismo y el concepto de umbral. Este capítulo 
 ## Planteamiento central: por qué seguimos sin detectarla
 
 - **Razón histórica:** "Diabetes" significa literalmente "pasar a través": se nombró así por la micción excesiva (poliuria), y se añadió "mellitus" (dulce como la miel) porque los médicos antiguos notaron que los insectos y los perros se sentían atraídos por la orina cargada de azúcar. La enfermedad se ha definido por su síntoma de *glucosa* desde la Antigüedad.
-- **Razón científica/técnica:** la glucosa es facilísima de medir (una gota de sangre, un glucómetro barato y ahora parches continuos). La insulina no: hizo falta el **trabajo de radioinmunoanálisis de Rosalyn Yalow, ganador del Premio Nobel**, para que siquiera fuera posible medir la insulina, y aún hoy no es rutinaria en la atención clínica estándar.
+- **Razón científica/técnica:** la glucosa es facilísima de medir (una gota de sangre, un glucómetro barato y ahora parches continuos). La insulina no: hizo falta el **trabajo de radioinmunoanálisis de Rosalyn Yalow, galardonado con el Premio Nobel**, para que siquiera fuera posible medir la insulina, y aún hoy no es rutinaria en la atención clínica estándar.
 - **La consecuencia, retomada del Cap.1:** la insulina puede estar elevada *décadas* antes de que la glucosa se mueva, pero como históricamente solo buscamos la glucosa y solo ella es fácil de medir, la resistencia a la insulina pasa inadvertida hasta que ya ha progresado a diabetes completa.
 
 ## Frases clave y datos citables (Clase 3)
@@ -94,7 +94,7 @@ Los Cap.1–2 construyeron el mecanismo y el concepto de umbral. Este capítulo 
 
 - Encuesta nacional, consumo de sal por cuartiles (hasta 4x de diferencia entre el grupo más bajo y el más alto)
 - **Sujetos de peso normal (mayormente sensibles a la insulina):** ningún efecto del consumo de sal sobre el accidente cerebrovascular, la mortalidad cardiovascular o la mortalidad por todas las causas en ningún cuartil
-- **Sujetos con sobrepeso (mayormente resistentes a la insulina):** los mismos cuartiles de sal, pero ahora todos los desenlaces se correlacionaron con la mortalidad
+- **Sujetos con sobrepeso (mayormente resistentes a la insulina):** los mismos cuartiles de sal, pero ahora el consumo de sal se asoció con todos los desenlaces
 - **La paradoja:** restringir el consumo de sal puede por sí mismo elevar la insulina (el cuerpo "entra en pánico" intentando conservar sodio mediante el papel normal de la insulina en la retención de sal), lo que significa que una restricción agresiva de sal en una persona sensible a la insulina podría, en teoría, empeorar la resistencia a la insulina en lugar de ayudar. Se presenta como un hallazgo emergente, aún no una recomendación clínica establecida; no reemplaza las indicaciones estándar sobre el sodio para nadie con hipertensión o enfermedad renal existente.
 
 ## Correcciones clave para llevar adelante
