@@ -10,7 +10,7 @@ La visión clásica limitaba la endocrinología a glándulas específicas (tiroi
 
 ## Frases clave y datos citables (Clase 1)
 - **"Todos y cada uno de los tejidos del cuerpo son un tejido endocrino."** — el replanteamiento hacia el que se construye toda esta clase.
-- **Durante el ciclismo intenso, la captación de glucosa por el músculo aumenta 20–30 veces mientras la glucosa en sangre se mantiene firme como una roca** — el ejemplo limpio que usa Bikman para demostrar por qué tiene que existir la comunicación cruzada hormonal (el glucagón dando señal al hígado).
+- **Durante el ciclismo intenso, la captación de glucosa por el músculo aumenta 20–30 veces mientras la glucosa en sangre se mantiene perfectamente estable** — el ejemplo claro que usa Bikman para demostrar por qué tiene que existir la comunicación cruzada hormonal (el glucagón enviando señales al hígado).
 - **"Nunca debimos haberla llamado vitamina"** — sobre la vitamina D, que está construida sobre el mismo núcleo esteroideo que el cortisol, la testosterona y el estrógeno, y funciona mucho más como una hormona.
 - **Circula mil veces más hormona tiroidea unida a su transportador que libre** — y aun así solo la fracción libre es biológicamente activa.
 - **Las hormonas esteroideas no se pueden almacenar en absoluto** — se fabrican estrictamente bajo demanda, porque son demasiado "grasosas" (liposolubles) para que la célula las retenga en una vesícula.
@@ -25,7 +25,7 @@ La visión clásica limitaba la endocrinología a glándulas específicas (tiroi
 | **Almacenamiento** | Vesículas (prefabricadas, listas para liberarse) | Vesículas (catecolaminas); la hormona tiroidea usa una estructura única llamada **folículo** | **Ninguno — solo se fabrica bajo demanda** |
 | **Solubilidad en agua** | Hidrosoluble | Catecolaminas: hidrosolubles. Hormona tiroidea: liposoluble | Liposoluble |
 | **Transporte en sangre** | Circula libre, sin necesidad de transportador | Catecolaminas: circulan libres. Tiroidea: unida a transportador | **Unida a transportador** (requiere proteína de transporte) |
-| **Cómo da señal a la célula** | Se une a un receptor de superficie ("toca a la puerta"); nunca entra en la célula | Catecolaminas: receptor de superficie. Tiroidea: entra directamente en la célula | **Atraviesa directamente la membrana celular**, a menudo actúa directamente en el núcleo |
+| **Cómo envía su señal a la célula** | Se une a un receptor de superficie ("toca a la puerta"); nunca entra en la célula | Catecolaminas: receptor de superficie. Tiroidea: entra directamente en la célula | **Atraviesa directamente la membrana celular**, a menudo actúa directamente en el núcleo |
 
 ✅ Esta tabla es la referencia más reutilizable de esta clase: cada hormona futura de esta serie (tiroidea, cortisol, testosterona, estrógeno, insulina, hormona del crecimiento) encajará en una de estas tres filas.
 
@@ -58,10 +58,10 @@ La visión clásica limitaba la endocrinología a glándulas específicas (tiroi
 - Atraviesa directamente la membrana celular; a menudo viaja directo al núcleo e influye directamente en la expresión génica, con una proteína escolta que la guía una vez dentro ✅
 
 ## Retroalimentación negativa y positiva
-- **Retroalimentación negativa (la predeterminada):** un estímulo desencadena una respuesta hormonal, y esa respuesta actúa para apagar el estímulo original; el ejemplo insulina/glucosa (la glucosa sube → la insulina sube → la glucosa baja → la insulina baja) es la versión limpia y conocida de esto. ✅
+- **Retroalimentación negativa (la predeterminada):** un estímulo desencadena una respuesta hormonal, y esa respuesta actúa para apagar el estímulo original; el ejemplo insulina/glucosa (la glucosa sube → la insulina sube → la glucosa baja → la insulina baja) es la versión clara y conocida de esto. ✅
 - **Retroalimentación positiva (rara, estrictamente controlada):** más señal produce aún más de la misma señal, en lugar de apagarla. Bikman nombra dos ejemplos, ambos exclusivos de la mujer: el ciclo ovulatorio y el embarazo en sí. 🟡 Señalado como tema próximo; el mecanismo no se detalla en esta clase, solo se presenta como una excepción con nombre propio a la retroalimentación negativa predeterminada.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que la endocrinología solo se ocupa de un puñado de glándulas clásicas: la comprensión actual trata prácticamente todos los tejidos (músculo, grasa, intestino, células inmunitarias) como participantes endocrinos activos, no solo tiroides/suprarrenales/hipófisis/gónadas.
 - 🔴 Suponer que la vitamina D es "solo" una vitamina: está construida sobre el mismo núcleo esteroideo que el cortisol y la testosterona y funciona como una hormona, no como un nutriente en el sentido convencional.
 - 🔴 Suponer que un nivel hormonal total "normal" en un panel de laboratorio es suficiente: sin conocer la fracción libre, una lectura total puede ser engañosa si los niveles de proteína transportadora han cambiado por cualquier motivo.

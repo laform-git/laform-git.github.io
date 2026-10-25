@@ -62,16 +62,16 @@ Bikman subraya que **el NADH y el FADH₂ no son ATP** — son transportadores d
 **Piruvato → mitocondrias:** requiere la enzima de varias partes **piruvato deshidrogenasa**, que produce otro NADH y convierte el piruvato en **acetil-CoA**. Se apaga cuando las mitocondrias están "cargadas" — demasiado acetil-CoA, ATP o NADH — y deja el lactato como única salida. ✅
 
 ## El lactato no es el villano — El ciclo de Cori
-- ✅ La sensación de ardor en el músculo que trabaja intensamente es una coincidencia de estado, no un efecto del lactato: la misma condición de alta demanda que produce lactato también degrada enormes cantidades de ATP, y **cada ATP que se rompe libera un hidrógeno libre**, lo que acidifica la zona e irrita las terminaciones nerviosas.
+- ✅ La sensación de ardor en el músculo que trabaja intensamente coincide con ese estado, pero no es un efecto del lactato: la misma condición de alta demanda que produce lactato también degrada enormes cantidades de ATP, y **cada ATP que se rompe libera un hidrógeno libre**, lo que acidifica la zona e irrita las terminaciones nerviosas.
 - ✅ **El ciclo de Cori** (identificado por el matrimonio Cori): el músculo o los glóbulos rojos liberan lactato a la sangre → el hígado lo capta → la **gluconeogénesis** lo reconstruye en glucosa.
 - ✅ Tras aproximadamente **24 horas sin comer**, toda la glucosa en sangre debe ser fabricada desde cero por el hígado, y **el lactato es la principal fuente de carbono** para ello — "un hermoso reciclaje metabólico".
 - 🟡 La afirmación de Bikman de que el lactato "no contribuye a ningún problema en absoluto" se plantea con fuerza y sin matices en esta lección; tómala como su postura, no como una regla general establecida.
 
 ## La gluconeogénesis y la regla del ciclo fútil
-- Las tres enzimas glucolíticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
-- **Regulación recíproca:** la insulina **activa** las tres enzimas glucolíticas y **apaga** las enzimas de desvío; el glucagón hace exactamente lo contrario. La insulina y el glucagón nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. ✅
+- Las tres enzimas glucóliticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
+- **Regulación recíproca:** la insulina **activa** las tres enzimas glucóliticas y **apaga** las enzimas de desvío; el glucagón hace exactamente lo contrario. La insulina y el glucagón nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. ✅
 - Un ciclo que construye y descompone lo mismo simultáneamente es un **ciclo fútil** — "la célula aborrece la falta de eficiencia". ✅
-- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucolíticas. ✅
+- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucóliticas. ✅
 - 🟢 Lógica práctica: después de una comida rica en almidón, la insulina sube y se quema glucosa; con el ayuno o la restricción de carbohidratos, el glucagón sube, el cuerpo cambia hacia la quema de grasa, y el hígado fabrica la pequeña cantidad de glucosa que todavía necesitan las células sin mitocondrias (como los glóbulos rojos).
 
 ## Lipólisis → beta-oxidación → acetil-CoA
@@ -100,7 +100,7 @@ La primera reacción (acetil-CoA → citrato, mediante la citrato sintasa) se in
 ✅ Una célula no "sabe" de forma inherente qué hacer — depende de señales hormonales sobre el estado general del cuerpo, y aquí la insulina es la dominante.
 
 **El experimento sin insulina — diabetes tipo 1:**
-- ✅ Sin insulina no hay freno para la lipólisis ni capacidad de fabricar grasa nueva: una persona puede comer en exceso enormemente y aun así no ganar grasa. Los diabéticos tipo 1 sin tratamiento comen vorazmente, se consumen, tienen una tasa metabólica alta y pierden cetonas en el aliento y la orina.
+- ✅ Sin insulina no hay freno para la lipólisis ni capacidad de fabricar grasa nueva: una persona puede comer en cantidades enormes y aun así no ganar grasa. Los diabéticos tipo 1 sin tratamiento comen vorazmente, se consumen, tienen una tasa metabólica alta y pierden cetonas en el aliento y la orina.
 - ✅ Al empezar la insulina, la ingesta baja y comienza el aumento de grasa — de ahí las "inyecciones de grasa", y el trastorno alimentario **diabulimia** (saltarse la insulina para mantenerse delgado), que produce una glucosa descontrolada y **cetoacidosis — explícitamente no es lo mismo que la cetosis nutricional** del ayuno o de una dieta cetogénica.
 
 ## Sistema de transporte de electrones y fosforilación oxidativa
@@ -119,7 +119,7 @@ La primera reacción (acetil-CoA → citrato, mediante la citrato sintasa) se in
 - **La CoQ10 proviene del colesterol.** ✅ El colesterol se convierte en ubiquinona, el transportador de electrones. Menor síntesis de colesterol significa menos ubiquinona, y así el sistema de transporte de electrones se resiente.
 
 ## Las plantas a la inversa — Cloroplasto vs. mitocondria
-- Las mitocondrias son largas y filamentosas ("mitos" = hilo; las formas de frijol de los libros de texto son cortes de un filamento). Los cloroplastos parecen **lentes de contacto apilados**. Las células vegetales también tienen un poco de mitocondrias, pero además cloroplastos. ✅
+- Las mitocondrias son largas y filamentosas ("mitos" = hilo; las formas de frijol de los libros de texto son cortes de un filamento). Los cloroplastos parecen **lentes de contacto apilados**. Las células vegetales también tienen algunas mitocondrias, pero además cloroplastos. ✅
 - El cloroplasto funciona como la imagen en espejo: toma **CO₂ más energía solar** y une carbonos en cadenas, liberando oxígeno. Los dos sistemas se mantienen mutuamente en equilibrio. ✅
 - 🟡 Bikman añade que el aumento del CO₂ está haciendo "florecer" el crecimiento de las plantas porque el CO₂ es combustible vegetal; es un comentario al margen, no desarrollado.
 
@@ -128,7 +128,7 @@ La primera reacción (acetil-CoA → citrato, mediante la citrato sintasa) se in
 - 🟡 **Su propio artículo:** la eficacia de las estatinas no se predecía solo por el nivel de LDL — en personas con LDL alto, las estatinas parecían ayudar solo si **los triglicéridos también estaban altos**. Dice que las personas con dietas bajas en carbohidratos, cetogénicas o carnívoras pueden tener LDL alto con triglicéridos bajos y no obtener ningún beneficio.
 - 🟡 También afirma que el LDL alto es un rasgo persistente de las personas longevas. Vale la pena tomarlo como una afirmación por verificar, no como una conclusión.
 
-**Cáncer y glucosa:** el origen de la glucosa (fabricada por el hígado vs. de la dieta) no importa. ✅ Las células cancerosas usan glucosa a **unas 200 veces la tasa normal** (la base de las tomografías PET, que usan glucosa radiomarcada para encontrar tumores) 🟡. Bikman describe el **"índice glucosa-cetonas" de Thomas Seyfried** — buscar que la glucosa y las cetonas estén cerca de 1:1 — con reducción reportada en algunos cánceres cerebrales como el glioblastoma y mejor eficacia de los quimioterapéuticos. 🟡 Presentado como evidencia emergente por parte del profesor, no como guía clínica.
+**Cáncer y glucosa:** el origen de la glucosa (fabricada por el hígado vs. de la dieta) no importa. ✅ Las células cancerosas usan glucosa a **unas 200 veces la tasa normal** (la base de las tomografías PET, que usan glucosa radiomarcada para encontrar tumores) 🟡. Bikman describe el **"índice glucosa-cetonas" de Thomas Seyfried** — buscar que la glucosa y las cetonas estén cerca de 1:1 — con reducción del tumor reportada en algunos cánceres cerebrales como el glioblastoma y mejor eficacia de los quimioterapéuticos. 🟡 Presentado como evidencia emergente por parte del profesor, no como guía clínica.
 
 ## Correcciones clave para recordar
 - 🔴 "Metabolismo" significa solo quemar calorías: es el equilibrio entre el catabolismo **y** el anabolismo, unidos por el ATP.

@@ -78,9 +78,9 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 - La **trisomía** (tres copias en lugar de dos) es relativamente más común; la **monosomía** (una copia) es más rara porque suele ser letal para el embrión. ✅
 - **Causa: no disyunción**, una falla de los cromosomas para separarse en la meiosis I o la meiosis II, que da un gameto con una copia extra y otro sin ninguna. ✅
 - **Trisomías autosómicas (las tres más comunes):**
-  - **Trisomía 13, síndrome de Patau:** deficiencia mental grave, polidactilia, microcefalia.
+  - **Trisomía 13, síndrome de Patau:** discapacidad intelectual grave, polidactilia, microcefalia.
   - **Trisomía 18, síndrome de Edwards:** riñones y órganos malformados, intestinos que sobresalen del abdomen, bebé muy pequeño.
-  - **Trisomía 21, síndrome de Down:** la más común y la de mayor supervivencia; deficiencia intelectual, estatura más baja, macroglosia.
+  - **Trisomía 21, síndrome de Down:** la más común y la de mayor supervivencia; discapacidad intelectual, estatura más baja, macroglosia.
 - **Aneuploidías de los cromosomas sexuales:**
   - **Trisomía X (XXX):** a menudo leve o inadvertida, ya que las mujeres ya tienen una X redundante.
   - **Klinefelter (XXY):** se desarrolla como varón por la Y, pero con probable infertilidad grave, algo de desarrollo mamario y caderas más anchas.
@@ -141,7 +141,7 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 - 🔴 Suponer que el número de células grasas sigue aumentando: el aumento de grasa después de la pubertad es, según esta lección, principalmente el agrandamiento de células en número fijo.
 
 ## Conclusión práctica
-La célula tiene dos puntos de inspección integrados (G1 y G2) antes de comprometerse a dividirse y un mecanismo rígido y ordenado (IPMAT) para separar copias idénticas. La meiosis añade la mezcla y la reducción a la mitad. Casi todas las condiciones de la segunda mitad de esta lección se remontan a un solo error en uno de estos pasos: un desliz en el entrecruzamiento, una no disyunción, o un gen faltante o fuera de lugar (SRY). Aprender la secuencia normal es lo que hace predecible cada error.
+La célula tiene dos puntos de control integrados (G1 y G2) antes de comprometerse a dividirse y un mecanismo rígido y ordenado (IPMAT) para separar copias idénticas. La meiosis añade la mezcla y la reducción a la mitad. Casi todas las condiciones de la segunda mitad de esta lección se remontan a un solo error en uno de estos pasos: un desliz en el entrecruzamiento, una no disyunción, o un gen faltante o fuera de lugar (SRY). Aprender la secuencia normal es lo que hace predecible cada error.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Una célula de la piel humana termina la fase S. ¿Cómo debes contar sus cromosomas, y por qué la célula todavía necesita la fase G2 antes de dividirse?**
