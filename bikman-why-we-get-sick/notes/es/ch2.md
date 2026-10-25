@@ -16,7 +16,7 @@ Todo cuerpo tiene un techo de almacenamiento de grasa: el **umbral personal de g
 
 ## Frases clave y datos citables (Clase 2)
 
-- **"Probablemente tú sí [tienes hiperinsulinemia]."** — El desafío directo de Bikman a cualquiera que se crea exento; el patrón de alimentación moderno (desayuno + bocadillos + almuerzo + bocadillos + cena) mantiene a la mayoría de las personas con insulina elevada casi todo el día.
+- **"Probablemente tú sí [tienes hiperinsulinemia]."** — El desafío directo de Bikman a cualquiera que se crea exento; el patrón de alimentación moderno (desayuno + refrigerios + comida + refrigerios + cena) mantiene a la mayoría de las personas con insulina elevada casi todo el día.
 - **"No puedes engañar al metabolismo del cuerpo."** — dicho a propósito de la liposucción; redistribución de la grasa hacia depósitos viscerales cuando la capacidad subcutánea se elimina quirúrgicamente.
 - **"No existe tal cosa como un carbohidrato esencial."** — afirmado directamente, y señalado por el propio Bikman como algo para desarrollar más adelante, no como una conclusión que zanje el debate.
 - **"La insulina tiene muchos enemigos, pero puede con ellos."** — en referencia al glucagón, el cortisol, la epinefrina y la hormona del crecimiento, que se oponen al efecto hipoglucemiante de la insulina; la insulina generalmente gana de todos modos por su potencia.
@@ -69,10 +69,10 @@ Bikman afirma que existe un mecanismo real para convertir la grasa hipertrófica
 | **Grasa parda** | Mitocondrias densas (las mitocondrias son de color pardo rojizo) | ~10 veces más alta que la grasa blanca, comparable al músculo | Quemar energía → calor, mediante UCP1 |
 | **Grasa beige** | Grasa blanca que ha sido "mejorada" metabólicamente | ~3 veces más alta que la grasa blanca basal (no tan alta como la parda verdadera) | Intermedia — inducida, no nativa |
 
-- **UCP1 (proteína desacoplante):** el mecanismo que permite a las mitocondrias de la grasa parda quemar combustible solo para producir calor, sin generar moléculas de energía utilizables para la célula — la analogía de Bikman con la transmisión manual: acelerar el motor (quemar combustible) sin embragar (mover el coche/hacer trabajo celular).
+- **UCP1 (proteína desacoplante):** el mecanismo que permite a las mitocondrias de la grasa parda quemar combustible solo para producir calor, sin generar moléculas de energía utilizables para la célula — la analogía de Bikman con la transmisión manual: acelerar el motor (quemar combustible) sin transmitir la fuerza a las ruedas (mover el carro/hacer trabajo celular).
 - **Resultado experimental real del propio laboratorio de Bikman:** la inmersión en frío (baño de agua fría hasta la clavícula) durante una semana aumentó de forma medible ~3 veces la tasa metabólica de la grasa blanca mediante el "pardeamiento"/"beigeado" mitocondrial — confirmado mediante biopsia de grasa antes/después. Una intervención real, demostrada en laboratorio, no teórica.
 - **Patrón según la etapa de la vida:** los bebés son relativamente ricos en grasa parda (no pueden tiritar para generar calor y su masa muscular es baja) — la proporción de grasa parda disminuye a medida que aumenta la masa muscular con la edad. Los adultos conservan pequeños depósitos de grasa parda principalmente en la cavidad torácica/alrededor del cuello — posiblemente para mantener la sangre caliente antes de que llegue al cerebro (el cerebro no puede tiritar). El *porqué* de esa ubicación anatómica es especulativo, y así lo plantea el propio Bikman.
-- **Relevancia práctica:** más grasa parda en adultos se correlaciona con una mejor resistencia a la resistencia a la insulina y al aumento de peso.
+- **Relevancia práctica:** más grasa parda en adultos se correlaciona con una mejor protección contra la resistencia a la insulina y el aumento de peso.
 
 ## Grasa visceral vs. subcutánea — Por qué la circunferencia de cintura es un marcador real
 
@@ -149,7 +149,7 @@ Bikman es explícito: no toda resistencia a la insulina es patológica. Existe u
 **La progesterona y el ciclo ovulatorio normal:**
 
 - La progesterona se dispara tras la ovulación → una resistencia a la insulina medible y temporal sigue esa misma curva → se resuelve cuando la progesterona baja
-- Ese mismo pico de progesterona también estimula el hambre a nivel central — el cuerpo preparando reservas de energía "por si acaso" se produjo un embarazo
+- Ese mismo pico de progesterona también estimula el hambre a nivel central — el cuerpo preparando reservas de energía "por si acaso" se hubiera producido un embarazo
 - **Seguimiento en preguntas y respuestas — anticonceptivos hormonales a base de progesterona:** al mantener la progesterona elevada sin la gestación que normalmente la acompaña, pueden producir parte de la misma tendencia a la resistencia a la insulina y al aumento de peso, como una versión más leve, sin embarazo, del efecto del embarazo. Bikman lo plantea como un efecto real pero no dramático, distinto de las consideraciones sobre riesgo de cáncer de los anticonceptivos a base de estrógeno (sobre las que explícitamente no quiso opinar más).
 
 ## Las células grasas a lo largo de la vida (preguntas y respuestas)
