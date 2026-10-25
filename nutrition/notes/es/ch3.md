@@ -27,7 +27,7 @@ Esta es la clase de los "estándares": establece la vara con la que el resto de 
 ## Definición de alimentos ultraprocesados (AUP)
 - **Formal:** formulaciones industriales con múltiples ingredientes, altamente procesadas, a menudo altas en calorías, azúcar añadido, grasas y sal. ✅
 - **El sistema NOVA** (creado en América Latina) clasifica los alimentos en cuatro grupos según su grado de procesamiento; mínimamente procesados (carne, pescado, huevos, frutas, verduras, nueces, semillas) en un extremo y ultraprocesados en el otro. NOVA acuñó el término "ultraprocesado". Lugavere lo considera el mejor sistema de clasificación que conoce. 🟡 Dice "grupo cero o uno" para el procesamiento mínimo y "tres o cuatro" para los AUP; la transcripción es imprecisa aquí, así que la numeración exacta de los grupos debe considerarse no verificada.
-- **Contraste: el "Food Compass" de Tufts** se hizo viral por calificar a Lucky Charms y Frosted Mini-Wheats por encima de la carne molida y los huevos pochados; es su ejemplo de por qué los sistemas de clasificación pueden engañar. 🟡 (su caracterización de la clasificación)
+- **Contraste: el "Food Compass" de Tufts** se hizo viral por calificar a Lucky Charms y Frosted Mini-Wheats por encima de la carne molida y los huevos escalfados; es su ejemplo de por qué los sistemas de clasificación pueden engañar. 🟡 (su caracterización de la clasificación)
 - **Heurística de la cocina:** si no podrías prepararlo en tu propia cocina, probablemente es ultraprocesado. ✅
 - **Perfil típico de un AUP:** una mezcla de carbohidratos y grasa, baja en proteína, normalmente con sal añadida. Le parecen bien los productos procesados altos en proteína, como la proteína de suero (whey), y tiene menos problema con el yogur griego y lácteos similares. 🟢
 - **La sal no es la villana:** el sodio es esencial; lo consumimos en exceso por los AUP. La misma lección que con los carbohidratos: importa el contexto, no el nutriente. ✅
@@ -129,6 +129,6 @@ C. \* Insidioso, calorías vacías, hiperpalatable, desplaza a los alimentos nut
 - **La controversia del Food Compass** y la numeración de los grupos NOVA: ambas descritas de forma imprecisa.
 
 ## Lo que se recortó deliberadamente (autoauditoría)
-- Color personal: la anécdota del supermercado "Fat-Free Foods", su encuesta de Instagram sobre freidoras más allá de la conclusión principal, la digresión del amigo granjero sobre el pollo crudo más allá de la advertencia de seguridad.
+- Detalles personales: la anécdota del supermercado "Fat-Free Foods", su encuesta de Instagram sobre freidoras más allá de la conclusión principal, la digresión del amigo granjero sobre el pollo crudo más allá de la advertencia de seguridad.
 - Repeticiones de "la dosis hace el veneno" y "no soy médico"; se conservó una de cada una.
 - Detalles del diagrama de procesamiento RBD (refinado, preblanqueado, desencerado) más allá del paso de desodorización, ya que la diapositiva en sí no está en la transcripción.

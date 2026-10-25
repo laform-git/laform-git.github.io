@@ -9,7 +9,7 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 
 ## La jerarquía — Lo que comes supera a cuándo lo comes
 - ✅ La clasificación explícita de Lugavere: aproximadamente el 80 % del esfuerzo corresponde a la calidad de la comida y el 20 % restante al horario (principio de Pareto).
-- ✅ Frase de cierre de la clase, mismo mensaje: "No quieres especializarte en lo secundario".
+- ✅ Frase de cierre de la clase, mismo mensaje: "No te conviene enfocarte en lo secundario".
 - 🟢 Por lo tanto, todo lo que sigue es una capa de optimización sobre la calidad de la dieta, no un sustituto de ella.
 
 ## Biología circadiana — Dos relojes
@@ -28,7 +28,7 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 | --- | --- |
 | **Ayuno intermitente (AI)** | El paraguas amplio: desde un ayuno de 24 horas a la semana hasta un 16:8 diario |
 | **Alimentación con restricción de tiempo (ART)** | Una forma de AI: toda la comida dentro de una ventana diaria fija (8, 10 o 12 horas) |
-| **ART temprana** | Primer alimento alrededor de 1 hora después de despertar, ventana inclinada hacia la mañana/tarde (p. ej., de 8 AM a 6 PM o de 8 AM a 8 PM) |
+| **ART temprana** | Primera comida alrededor de 1 hora después de despertar, ventana inclinada hacia la mañana/tarde (p. ej., de 8 AM a 6 PM o de 8 AM a 8 PM) |
 
 - ✅ La persona promedio come a lo largo de unas 16 horas al día, y la digestión continúa de 1 a 2 horas después del último bocado, así que la comida ingerida justo antes de dormir se sigue procesando durante el sueño.
 - ✅ Los estudios compararon ventanas como de 2 PM a 10 PM con ventanas más tempranas; la ART temprana parece dar el mayor beneficio.
@@ -84,7 +84,7 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 - 🟡 **Efecto térmico de la proteína:** alrededor del 30 % de las calorías de la proteína se queman en la digestión, lo que produce calor, mientras el cuerpo quiere enfriarse para dormir. Es la hipótesis de Satchin Panda; Lugavere dice que no ha visto evidencia que la respalde.
 
 ## Frases clave y datos citables (Clase 4)
-- **"No quieres especializarte en lo secundario."**
+- **"No te conviene enfocarte en lo secundario."**
 - **La persona promedio come a lo largo de unas 16 horas al día.**
 - **La ART temprana mejoró la glucosa y la presión sistólica con las calorías controladas, pero no muestra ventaja para perder grasa frente al control calórico.**
 - **"El ejercicio es bueno para nosotros en parte porque es malo para nosotros."**
