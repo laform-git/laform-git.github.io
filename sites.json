@@ -124,7 +124,9 @@
     "name": "Architects of the Culture of Death",
     "section": "Mindforge",
     "path": "architects/",
-    "label": "Architects of the Culture of Death" ,
-    "blurb": "x"
+    "label": "DeMarco & Wiker",
+    "blurb": "Twenty-three thinkers in seven categories behind the culture of death.",
+    "langs": "English · Español",
+    "status": "Live"
   }
 ]
