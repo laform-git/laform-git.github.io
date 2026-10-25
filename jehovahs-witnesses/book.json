@@ -1,0 +1,470 @@
+{
+ "title": {
+  "en": "Jehovah's Witnesses",
+  "es": "Testigos de Jehová"
+ },
+ "titleHtml": {
+  "en": "Jehovah's <span>Witnesses</span>",
+  "es": "Testigos de <span>Jehová</span>"
+ },
+ "eyebrow": {
+  "en": "Catholic answers · 18 notes",
+  "es": "Respuestas católicas · 18 notas"
+ },
+ "lede": {
+  "en": "Their 10 main errors, worst first, each with the truth, a response, the verse to open and the question to leave; then their origins, the verses they change and misread, their rules, the Church's official response and what to say at the door.",
+  "es": "Sus 10 errores principales, del más grave al menor, cada uno con la verdad, una respuesta, el versículo para abrir y la pregunta para dejarles; después sus orígenes, los versículos que cambian y malinterpretan, sus reglas, la respuesta oficial de la Iglesia y qué decir en la puerta."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Cheat Sheet",
+    "es": "Guía rápida"
+   },
+   "notes": [
+    {
+     "id": "n00",
+     "en": {
+      "title": "Cheat Sheet — Jehovah's Witnesses",
+      "h1": "JW-00 Cheat Sheet — Jehovah's Witnesses",
+      "file": "en/n00.md",
+      "aka": [
+       "JW-00 Cheat Sheet — Jehovah's Witnesses",
+       "JW-00 Cheat Sheet — Jehovah's Witnesses",
+       "JW-00 Cheat Sheet — Jehovah's Witnesses",
+       "Jehovah's Witnesses",
+       "Jehovah's Witnesses — Doctrinal Errors & the Church's Magisterial Response",
+       "Jehovah’s Witnesses — Doctrinal Errors & the Church’s Magisterial Response"
+      ]
+     },
+     "es": {
+      "title": "Guía Rápida — Testigos de Jehová",
+      "h1": "TJ-00 Guía Rápida — Testigos de Jehová",
+      "file": "es/n00.md",
+      "aka": [
+       "TJ-00 Guía Rápida — Testigos de Jehová",
+       "TJ-00 Guía Rápida — Testigos de Jehová",
+       "TJ-00 Guía Rápida — Testigos de Jehová",
+       "Testigos de Jehová",
+       "Testigos de Jehová — Errores doctrinales y la respuesta del Magisterio de la Iglesia"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "The 10 Errors",
+    "es": "Los 10 errores"
+   },
+   "notes": [
+    {
+     "id": "n01",
+     "en": {
+      "title": "They Deny That Jesus Is God",
+      "h1": "JW-01 They Deny That Jesus Is God",
+      "file": "en/n01.md",
+      "aka": [
+       "JW-01 They Deny That Jesus Is God",
+       "JW-01 They Deny That Jesus Is God",
+       "JW-01 They Deny That Jesus Is God"
+      ]
+     },
+     "es": {
+      "title": "Niegan que Jesús es Dios",
+      "h1": "TJ-01 Niegan que Jesús es Dios",
+      "file": "es/n01.md",
+      "aka": [
+       "TJ-01 Niegan que Jesús es Dios",
+       "TJ-01 Niegan que Jesús es Dios",
+       "TJ-01 Niegan que Jesús es Dios"
+      ]
+     }
+    },
+    {
+     "id": "n02",
+     "en": {
+      "title": "They Deny That the Holy Spirit Is God",
+      "h1": "JW-02 They Deny That the Holy Spirit Is God",
+      "file": "en/n02.md",
+      "aka": [
+       "JW-02 They Deny That the Holy Spirit Is God",
+       "JW-02 They Deny That the Holy Spirit Is God",
+       "JW-02 They Deny That the Holy Spirit Is God"
+      ]
+     },
+     "es": {
+      "title": "Niegan que el Espíritu Santo es Dios",
+      "h1": "TJ-02 Niegan que el Espíritu Santo es Dios",
+      "file": "es/n02.md",
+      "aka": [
+       "TJ-02 Niegan que el Espíritu Santo es Dios",
+       "TJ-02 Niegan que el Espíritu Santo es Dios",
+       "TJ-02 Niegan que el Espíritu Santo es Dios"
+      ]
+     }
+    },
+    {
+     "id": "n03",
+     "en": {
+      "title": "The Organization in Place of the Church",
+      "h1": "JW-03 The Organization in Place of the Church",
+      "file": "en/n03.md",
+      "aka": [
+       "JW-03 The Organization in Place of the Church",
+       "JW-03 The Organization in Place of the Church",
+       "JW-03 The Organization in Place of the Church"
+      ]
+     },
+     "es": {
+      "title": "La organización en lugar de la Iglesia",
+      "h1": "TJ-03 La organización en lugar de la Iglesia",
+      "file": "es/n03.md",
+      "aka": [
+       "TJ-03 La organización en lugar de la Iglesia",
+       "TJ-03 La organización en lugar de la Iglesia",
+       "TJ-03 La organización en lugar de la Iglesia"
+      ]
+     }
+    },
+    {
+     "id": "n04",
+     "en": {
+      "title": "A Bible Changed to Fit",
+      "h1": "JW-04 A Bible Changed to Fit",
+      "file": "en/n04.md",
+      "aka": [
+       "JW-04 A Bible Changed to Fit",
+       "JW-04 A Bible Changed to Fit",
+       "JW-04 A Bible Changed to Fit",
+       "NewWorldTranslation",
+       "New World Translation"
+      ]
+     },
+     "es": {
+      "title": "Una Biblia cambiada a su medida",
+      "h1": "TJ-04 Una Biblia cambiada a su medida",
+      "file": "es/n04.md",
+      "aka": [
+       "TJ-04 Una Biblia cambiada a su medida",
+       "TJ-04 Una Biblia cambiada a su medida",
+       "TJ-04 Una Biblia cambiada a su medida",
+       "Traducción del Nuevo Mundo"
+      ]
+     }
+    },
+    {
+     "id": "n05",
+     "en": {
+      "title": "Salvation Through the Organization",
+      "h1": "JW-05 Salvation Through the Organization",
+      "file": "en/n05.md",
+      "aka": [
+       "JW-05 Salvation Through the Organization",
+       "JW-05 Salvation Through the Organization",
+       "JW-05 Salvation Through the Organization"
+      ]
+     },
+     "es": {
+      "title": "La salvación por medio de la organización",
+      "h1": "TJ-05 La salvación por medio de la organización",
+      "file": "es/n05.md",
+      "aka": [
+       "TJ-05 La salvación por medio de la organización",
+       "TJ-05 La salvación por medio de la organización",
+       "TJ-05 La salvación por medio de la organización"
+      ]
+     }
+    },
+    {
+     "id": "n06",
+     "en": {
+      "title": "No Immortal Soul",
+      "h1": "JW-06 No Immortal Soul",
+      "file": "en/n06.md",
+      "aka": [
+       "JW-06 No Immortal Soul",
+       "JW-06 No Immortal Soul",
+       "JW-06 No Immortal Soul"
+      ]
+     },
+     "es": {
+      "title": "Niegan el alma inmortal",
+      "h1": "TJ-06 Niegan el alma inmortal",
+      "file": "es/n06.md",
+      "aka": [
+       "TJ-06 Niegan el alma inmortal",
+       "TJ-06 Niegan el alma inmortal",
+       "TJ-06 Niegan el alma inmortal"
+      ]
+     }
+    },
+    {
+     "id": "n07",
+     "en": {
+      "title": "No Hell",
+      "h1": "JW-07 No Hell",
+      "file": "en/n07.md",
+      "aka": [
+       "JW-07 No Hell",
+       "JW-07 No Hell",
+       "JW-07 No Hell"
+      ]
+     },
+     "es": {
+      "title": "Niegan el infierno",
+      "h1": "TJ-07 Niegan el infierno",
+      "file": "es/n07.md",
+      "aka": [
+       "TJ-07 Niegan el infierno",
+       "TJ-07 Niegan el infierno",
+       "TJ-07 Niegan el infierno"
+      ]
+     }
+    },
+    {
+     "id": "n08",
+     "en": {
+      "title": "Two Classes of Christians",
+      "h1": "JW-08 Two Classes of Christians",
+      "file": "en/n08.md",
+      "aka": [
+       "JW-08 Two Classes of Christians",
+       "JW-08 Two Classes of Christians",
+       "JW-08 Two Classes of Christians"
+      ]
+     },
+     "es": {
+      "title": "Dos clases de cristianos",
+      "h1": "TJ-08 Dos clases de cristianos",
+      "file": "es/n08.md",
+      "aka": [
+       "TJ-08 Dos clases de cristianos",
+       "TJ-08 Dos clases de cristianos",
+       "TJ-08 Dos clases de cristianos"
+      ]
+     }
+    },
+    {
+     "id": "n09",
+     "en": {
+      "title": "The Church Fell Away",
+      "h1": "JW-09 The Church Fell Away",
+      "file": "en/n09.md",
+      "aka": [
+       "JW-09 The Church Fell Away",
+       "JW-09 The Church Fell Away",
+       "JW-09 The Church Fell Away"
+      ]
+     },
+     "es": {
+      "title": "Dicen que la Iglesia se apartó",
+      "h1": "TJ-09 Dicen que la Iglesia se apartó",
+      "file": "es/n09.md",
+      "aka": [
+       "TJ-09 Dicen que la Iglesia se apartó",
+       "TJ-09 Dicen que la Iglesia se apartó",
+       "TJ-09 Dicen que la Iglesia se apartó"
+      ]
+     }
+    },
+    {
+     "id": "n10",
+     "en": {
+      "title": "Failed Prophecies",
+      "h1": "JW-10 Failed Prophecies",
+      "file": "en/n10.md",
+      "aka": [
+       "JW-10 Failed Prophecies",
+       "JW-10 Failed Prophecies",
+       "JW-10 Failed Prophecies"
+      ]
+     },
+     "es": {
+      "title": "Profecías fallidas",
+      "h1": "TJ-10 Profecías fallidas",
+      "file": "es/n10.md",
+      "aka": [
+       "TJ-10 Profecías fallidas",
+       "TJ-10 Profecías fallidas",
+       "TJ-10 Profecías fallidas"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Going Deeper",
+    "es": "A fondo"
+   },
+   "notes": [
+    {
+     "id": "n11",
+     "en": {
+      "title": "Who They Are — Origins and Why They Differ",
+      "h1": "JW-11 Who They Are — Origins and Why They Differ",
+      "file": "en/n11.md",
+      "aka": [
+       "JW-11 Who They Are — Origins and Why They Differ",
+       "JW-11 Who They Are — Origins and Why They Differ",
+       "JW-11 Who They Are — Origins and Why They Differ"
+      ]
+     },
+     "es": {
+      "title": "Quiénes son — Orígenes y por qué difieren",
+      "h1": "TJ-11 Quiénes son — Orígenes y por qué difieren",
+      "file": "es/n11.md",
+      "aka": [
+       "TJ-11 Quiénes son — Orígenes y por qué difieren",
+       "TJ-11 Quiénes son — Orígenes y por qué difieren",
+       "TJ-11 Quiénes son — Orígenes y por qué difieren"
+      ]
+     }
+    },
+    {
+     "id": "n12",
+     "en": {
+      "title": "Verses They Misread",
+      "h1": "JW-12 Verses They Misread",
+      "file": "en/n12.md",
+      "aka": [
+       "JW-12 Verses They Misread",
+       "JW-12 Verses They Misread",
+       "JW-12 Verses They Misread"
+      ]
+     },
+     "es": {
+      "title": "Versículos que malinterpretan",
+      "h1": "TJ-12 Versículos que malinterpretan",
+      "file": "es/n12.md",
+      "aka": [
+       "TJ-12 Versículos que malinterpretan",
+       "TJ-12 Versículos que malinterpretan",
+       "TJ-12 Versículos que malinterpretan"
+      ]
+     }
+    },
+    {
+     "id": "n13",
+     "en": {
+      "title": "Their Rules — Shunning, Holidays, Politics, Blood",
+      "h1": "JW-13 Their Rules — Shunning, Holidays, Politics, Blood",
+      "file": "en/n13.md",
+      "aka": [
+       "JW-13 Their Rules — Shunning, Holidays, Politics, Blood",
+       "JW-13 Their Rules — Shunning, Holidays, Politics, Blood",
+       "JW-13 Their Rules — Shunning, Holidays, Politics, Blood"
+      ]
+     },
+     "es": {
+      "title": "Sus reglas — Expulsión, fiestas, política y sangre",
+      "h1": "TJ-13 Sus reglas — Expulsión, fiestas, política y sangre",
+      "file": "es/n13.md",
+      "aka": [
+       "TJ-13 Sus reglas — Expulsión, fiestas, política y sangre",
+       "TJ-13 Sus reglas — Expulsión, fiestas, política y sangre",
+       "TJ-13 Sus reglas — Expulsión, fiestas, política y sangre"
+      ]
+     }
+    },
+    {
+     "id": "n14",
+     "en": {
+      "title": "The Strangest Claims",
+      "h1": "JW-14 The Strangest Claims",
+      "file": "en/n14.md",
+      "aka": [
+       "JW-14 The Strangest Claims",
+       "JW-14 The Strangest Claims",
+       "JW-14 The Strangest Claims"
+      ]
+     },
+     "es": {
+      "title": "Las afirmaciones más extrañas",
+      "h1": "TJ-14 Las afirmaciones más extrañas",
+      "file": "es/n14.md",
+      "aka": [
+       "TJ-14 Las afirmaciones más extrañas",
+       "TJ-14 Las afirmaciones más extrañas",
+       "TJ-14 Las afirmaciones más extrañas"
+      ]
+     }
+    },
+    {
+     "id": "n15",
+     "en": {
+      "title": "The Church's Official Response",
+      "h1": "JW-15 The Church's Official Response",
+      "file": "en/n15.md",
+      "aka": [
+       "JW-15 The Church's Official Response",
+       "JW-15 The Church's Official Response",
+       "JW-15 The Church's Official Response"
+      ]
+     },
+     "es": {
+      "title": "La respuesta oficial de la Iglesia",
+      "h1": "TJ-15 La respuesta oficial de la Iglesia",
+      "file": "es/n15.md",
+      "aka": [
+       "TJ-15 La respuesta oficial de la Iglesia",
+       "TJ-15 La respuesta oficial de la Iglesia",
+       "TJ-15 La respuesta oficial de la Iglesia"
+      ]
+     }
+    },
+    {
+     "id": "n16",
+     "en": {
+      "title": "At the Door — 22 Things You Will Hear",
+      "h1": "JW-16 At the Door — 22 Things You Will Hear",
+      "file": "en/n16.md",
+      "aka": [
+       "JW-16 At the Door — 22 Things You Will Hear",
+       "JW-16 At the Door — 22 Things You Will Hear",
+       "JW-16 At the Door — 22 Things You Will Hear"
+      ]
+     },
+     "es": {
+      "title": "En la puerta — 22 cosas que va a escuchar",
+      "h1": "TJ-16 En la puerta — 22 cosas que va a escuchar",
+      "file": "es/n16.md",
+      "aka": [
+       "TJ-16 En la puerta — 22 cosas que va a escuchar",
+       "TJ-16 En la puerta — 22 cosas que va a escuchar",
+       "TJ-16 En la puerta — 22 cosas que va a escuchar"
+      ]
+     }
+    },
+    {
+     "id": "n17",
+     "en": {
+      "title": "Quick Reference — JW vs. Catholic",
+      "h1": "JW-17 Quick Reference — JW vs. Catholic",
+      "file": "en/n17.md",
+      "aka": [
+       "JW-17 Quick Reference — JW vs. Catholic",
+       "JW-17 Quick Reference — JW vs. Catholic",
+       "JW-17 Quick Reference — JW vs. Catholic"
+      ]
+     },
+     "es": {
+      "title": "Referencia rápida — TJ vs. católicos",
+      "h1": "TJ-17 Referencia rápida — TJ vs. católicos",
+      "file": "es/n17.md",
+      "aka": [
+       "TJ-17 Referencia rápida — TJ vs. católicos",
+       "TJ-17 Referencia rápida — TJ vs. católicos",
+       "TJ-17 Referencia rápida — TJ vs. católicos"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
