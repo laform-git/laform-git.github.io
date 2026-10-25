@@ -2,7 +2,7 @@
 
 *Los atributos de Dios en Tomás de Aquino tal como los presenta Barron: tres maneras de nombrar a Dios, la simplicidad divina (esencia igual a existencia, ipsum esse subsistens, fuera de todo género), el Dios no competitivo, la perfección y la bondad, la trascendencia y la inmanencia, la inmutabilidad como fidelidad, la eternidad frente a la perpetuidad, y el conocimiento creador de Dios.*
 
-*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 3 (transcripción). Tercera de ocho lecciones; sigue a Cap. 2 El acercamiento a Dios (las cinco vías) y conduce a Cap. 4 La Trinidad. Transcripción completa: Barron mismo cierra la lección y anticipa la siguiente.*
+*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 3 (transcripción). Tercera de ocho lecciones; sigue a Cap. 2 El acercamiento a Dios (las cinco vías) y conduce a Cap. 4 La Trinidad. Transcripción completa: el propio Barron cierra la lección y anticipa la siguiente.*
 
 ## Por qué importa
 La Lección 2 presentó las cinco vías; en esta lección, según Barron, empieza el verdadero trabajo. Las pruebas solo "abren la puerta"; el grueso del tratado de Tomás sobre Dios consiste en precisar qué se puede decir del Dios al que llegan esos argumentos. Barron recorre las primeras cuestiones de la *Summa theologiae* (Primera Parte): las tres maneras de nombrar a Dios, la simplicidad divina (que él llama la enseñanza más importante de Tomás), la perfección y la bondad, la presencia de Dios en el mundo, la inmutabilidad, la eternidad y el conocimiento. El hilo que lo une todo es su tema característico: como Dios no es un ente entre los entes, Dios no compite con las criaturas. Esa idea responde a los Nuevos Ateos, enmarca la Encarnación y convierte la metafísica en una espiritualidad de entrega. Su vocabulario (*ipsum esse subsistens*, *actus purus*, *nunc stans*) es la caja de herramientas para el resto del curso.
@@ -20,7 +20,7 @@ Tomás parte de una admisión sorprendente: de Dios sabemos "no lo que Dios es, 
 - Lema recurrente: *si comprehendis, non est Deus*, "si lo entiendes, eso no es Dios". ✅
 
 ## La simplicidad divina — "Su enseñanza más importante"
-Cuando le preguntan cuál es la enseñanza más importante de Tomás, Barron responde: **la simplicidad de Dios** (*simplicitas*, *Suma* I, q.3). Todo lo que conocemos por experiencia es metafísicamente complejo: existe, pero como cierto tipo de cosa, y por eso puede ser categorizado, definido y nombrado. Dios simplemente *es*. La mente busca un punto de apoyo y no lo encuentra: Barron lo compara con una pared blanca vacía o con una ventisca blanca de Minnesota en la que se pierden todos los puntos de referencia. ✅
+Cuando le preguntan cuál es la enseñanza más importante de Tomás, Barron responde: **la simplicidad de Dios** (*simplicitas*, *Suma* I, q.3). Todo lo que conocemos por experiencia es metafísicamente complejo: existe, pero como cierto tipo de cosa, y por eso puede ser categorizado, definido y nombrado. Dios simplemente *es*. La mente busca un punto de apoyo y no lo encuentra: Barron lo compara con una pared blanca vacía o con una ventisca cerrada de Minnesota en la que se pierden todos los puntos de referencia. ✅
 
 ### Artículo 1: ¿Es Dios un cuerpo?
 - No es una pregunta tonta: los dioses griegos y romanos eran cuerpos idealizados, la teología mormona le atribuye un cuerpo a Dios y el Antiguo Testamento tiene manifestaciones corporales. ✅
@@ -38,7 +38,7 @@ Cuando le preguntan cuál es la enseñanza más importante de Tomás, Barron res
 - Vínculo con la tercera vía: el ser contingente debe terminar en algo que no necesita explicación, cuya naturaleza es ser. ✅
 
 ### Fuera de todo género — ni siquiera el del "ente"
-- En ningún género, o Dios sería un *tipo* de ente. Y, llevado más lejos, ni siquiera en el género del **ente**. "Dios no es un ente." Barron lo llama una admisión "alucinante" viniendo del gran categorizador. ✅
+- En ningún género, o Dios sería un *tipo* de ente. Y, llevado más lejos, ni siquiera en el género del **ente**. "Dios no es un ente." Barron lo llama una admisión "alucinante" en boca del gran categorizador. ✅
 - Tomás a veces cae en *ens summum* (ente supremo), pero su nombre habitual es **ipsum esse subsistens**, "el acto mismo de ser subsistente". En la frase de Barron: **Dios no es un sustantivo sino un verbo** (*esse*). Todo lo que es sustantivo podría ser categorizado y atrapado. ✅
 
 ## El Dios no competitivo — La zarza ardiente
@@ -73,7 +73,7 @@ Cuando le preguntan cuál es la enseñanza más importante de Tomás, Barron res
 ## Eternidad (q.10)
 - **Perpetuo ≠ eterno.** Lo perpetuo es estar atrapado en el tiempo para siempre: "Los vampiros son perpetuos." Barron no tiene ningún deseo de vivir para siempre en este cuerpo gracias a la tecnología. ✅
 - Argumento: Aristóteles define el tiempo como la medida del movimiento; Dios no cambia, así que Dios está fuera del tiempo. Dios existe en el **nunc stans**, el "ahora permanente", y está presente a cada momento de la historia porque no está en ninguno. ✅
-- Paul Tillich (el doctorado de Barron comparó a Tomás y a Tillich) lo llama *Überzeitlichkeit*, "supratemporalidad". ✅
+- Paul Tillich (la tesis doctoral de Barron comparó a Tomás y a Tillich) lo llama *Überzeitlichkeit*, "supratemporalidad". ✅
 - **Objeción 2 (Mateo 25, "fuego eterno"):** Tomás responde que el fuego del infierno se llama eterno solo porque nunca termina: **"en el infierno no existe la verdadera eternidad, sino más bien el tiempo sin fin."** El cielo está fuera del tiempo. ✅
 - El rosetón norte de Notre Dame medita sobre el cielo a través del número ocho: Cristo en el centro, luego anillos de 8, 16, 32 y 32 (88 en total, según lo describe Barron). El siete es el ciclo completo del tiempo, así que el ocho es lo que está más allá de él. ✅
 
@@ -142,7 +142,7 @@ C. Dios solo se conoce a sí mismo y no a las criaturas particulares
 - **Detalles de citas no dados en la lección:** el versículo exacto de Isaías (comúnmente 26,12 🟡, no indicado por Barron), los filósofos árabes a quienes atribuye la distinción y el número de artículo para la cuestión del género.
 
 ## Lo que se omitió deliberadamente (autoevaluación)
-- Color: Gasparín, la ventisca de Minnesota, los ejemplos del béisbol y del chef, el ejemplo de la "grabación de Peterson".
+- Anécdotas: Gasparín, la ventisca de Minnesota, los ejemplos del béisbol y del chef, el ejemplo de la "grabación de Peterson".
 - Repeticiones de "ser Dios es ser ser" y de la analogía geométrica.
 - Marco histórico más profundo (Montecasino, la pregunta del joven Tomás), ya cubierto en los Cap. 1 y Cap. 2.
 - No se añadieron fuentes tomistas externas; los números de cuestión y artículo son solo los que da Barron.

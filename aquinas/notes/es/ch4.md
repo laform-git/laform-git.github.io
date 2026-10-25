@@ -58,7 +58,7 @@ Barron pasa de la *Summa Theologiae* a la anterior y más filosófica *Summa con
 
 | Nivel | Cómo forma una imagen de sí | ¿Interior? | ¿Perfecta? |
 | --- | --- | --- | --- |
-| **Roca** | Una huella en el barro; una grieta en una ventana cuando se la arroja | Exterior (necesita un agente externo) | Un contorno vago |
+| **Roca** | Una huella en el barro; una grieta en una ventana cuando se lanza contra ella | Exterior (necesita un agente externo) | Un contorno vago |
 | **Planta** | Forma una semilla dentro de sí; la semilla crece hasta ser una réplica | Más interior, pero debe caer a la tierra | Parecida, no idéntica |
 | **Animal** | Reproducción mamífera | Más interior todavía | Más alta, aún imperfecta |
 | *Salto cuántico* | — | — | — |
@@ -66,7 +66,7 @@ Barron pasa de la *Summa Theologiae* a la anterior y más filosófica *Summa con
 | **Ángel** | Inteligencia pura; se conoce y se ama a sí mismo inmediatamente, sin depender del mundo exterior | Más interior que nosotros | Más perfecta |
 | **Dios** | Mente, Verbo interior, amor de sí, absolutamente perfecto y absolutamente interior | Totalmente | El Hijo es una imagen completa e ilimitada del Padre, por eso son uno en el ser |
 
-- **Pista del lenguaje:** *me pregunto*, *je me demande* ("me pregunto a mí mismo" = "me pregunto si..."). La autorreflexión no te divide en dos personas. ✅
+- **Pista del lenguaje:** *me pregunto*, *je me demande* (literalmente, "me hago una pregunta a mí mismo", es decir, "me pregunto si..."). La autorreflexión no te divide en dos personas. ✅
 - **La casa de fuego** (la imagen de Tomás tal como la da Barron): calor en el porche, más calor en la sala de entrada, más calor más adentro: debe haber un fuego puro en el centro. De la roca al arcángel, la capacidad de autorreplicación "se calienta" hasta llegar a Dios. ✅
 - **Correspondencia:** Padre = *mens*, la mente de Dios; Hijo = *notitia sui*, el Verbo interior del Padre; Espíritu Santo = *amor sui*, el amor "al rojo blanco" que surge automáticamente cuando el Padre y el Hijo se conocen mutuamente como buenos. ✅
 - **Imago Dei:** Agustín (y Tomás después de él) sitúan la imagen de Dios en la **mente**, no en el cuerpo, ya que Dios no tiene cuerpo. El conocer y amar de la mente refleja la vida interior de la Trinidad. ✅
@@ -148,7 +148,7 @@ C. Son modos distintos en que el único Dios se nos manifiesta
 ## Hilos abiertos
 - ✅ **Transcripción confirmada como completa:** termina con una frase de cierre ("un buen lugar para terminar esta lección"). Errores tipográficos menores en la transcripción ("Trinixty", "imself") no afectan el contenido.
 - **La creación como acto de voluntad vs. la procesión del Hijo como no querida:** Barron deja la creación para la próxima lección (Cap. 5 La doctrina de la creación).
-- **Grados de ser** (por qué a un ángel se le quiere más bien que a un perro, y por qué a Tomás "le gusta la variedad en la creación"): prometido para más adelante.
+- **Grados de ser** (por qué Dios quiere para un ángel más bien que para un perro, y por qué a Tomás "le gusta la variedad en la creación"): prometido para más adelante.
 - **Ángeles:** presentados brevemente como intelectos puros; Tomás como *Doctor Angelicus* y *Doctor Communis*.
 - **Filioque y Oriente:** la procesión "del Padre y del Hijo" se afirma sin la controversia histórica.
 - **Fuentes de las citas atribuidas** ("Se goza a sí mismo", *si comprehendis*): no se dan en la lección; verificar antes de citar.
