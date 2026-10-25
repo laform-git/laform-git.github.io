@@ -19,7 +19,7 @@ Esta es la clase en la que las recomendaciones anteriores se convierten en un pl
 | **Dieta del león** | Variante de Mikhaila Peterson: solo carne roja (res, cordero, bisonte), sal y agua; sin aves ni pescado | "Casi nada de investigación", muchas anécdotas; "siempre vale la pena intentarlo" para personas con problemas de salud importantes. 🟡 |
 | **Paleo** | Evita granos y alimentos procesados; (curiosamente) sin lácteos | Su elección si tuviera que nombrar en 10 segundos la dieta popular más saludable: una paleo *modificada* (agrega lácteos). Elogiada por su enfoque en la calidad de los alimentos, aunque ya existen productos "paleo" ultraprocesados |
 | **Vegana / vegetariana** | La vegana elimina todos los productos animales; la vegetariana suele conservar huevos y lácteos | La vegana es "bastante subóptima"; la vegetariana conlleva "riesgos significativos" que dice que abordará más adelante. 🟡 no se detalla aquí |
-| **Mediterránea** | Alimentos enteros, verduras, aceite de oliva como el aceite | Elogiada en la literatura desde los años cincuenta (Ancel Keys, Creta). En realidad no es baja en carne en toda la región (cordero, carnes curadas). La adherencia se asocia con menor riesgo cardiovascular, neurológico, de obesidad y de diabetes tipo 2. ✅ la base de evidencia más sólida mencionada |
+| **Mediterránea** | Alimentos enteros, verduras, el aceite de oliva como aceite principal | Elogiada en la literatura desde los años cincuenta (Ancel Keys, Creta). En realidad no es baja en carne en toda la región (cordero, carnes curadas). La adherencia se asocia con menor riesgo cardiovascular, neurológico, de obesidad y de diabetes tipo 2. ✅ la base de evidencia más sólida mencionada |
 | **Keto** | Carbohidratos que generan glucosa casi en cero; alta en grasa, proteína moderada | Una dieta terapéutica (más de un siglo para ciertas epilepsias). Él no la sigue y dice que no es necesaria para tener buena salud ni para bajar de peso. El único patrón que, según él, modula de forma significativa la neuroquímica cerebral (las cetonas como combustible alternativo). |
 | **DASH** | "Dietary Approach to Stop Hypertension" (enfoque dietético para detener la hipertensión) | Diseñada para bajar la presión arterial; la hipertensión eleva el riesgo de accidente cerebrovascular y de demencia |
 | **MIND** | Híbrido mediterránea-DASH diseñado para el cerebro (Martha Clare Morris, Rush University) | Alrededor de 35% menos riesgo de demencia con adherencia leve, alrededor de 50% con adherencia moderada. ✅ según lo afirma el conferencista |
@@ -34,7 +34,7 @@ Esta es la clase en la que las recomendaciones anteriores se convierten en un pl
 - La gente adopta un pensamiento de blanco o negro: si no cumple la versión estricta, siente que fracasó.
 - **"Las dietas sí funcionan. Solo tienes que apegarte a ellas".** La mejor dieta es la que puedes sostener y que cumple los objetivos: nutrir el cuerpo, apoyar el balance energético y mantenerte satisfecho.
 - 🟡 Inconsistencia en la transcripción: al principio dice que el "98%" de las dietas fracasa y más adelante "99%", y no da fuente para ninguna de las dos cifras. Tómalo como retórica, no como estadística.
-- **La adherencia es "la variable número uno del éxito de una dieta".** El hambre "es una sentencia" y lleva a los atracones, así que elige alimentos de alta saciedad; aumentar la proteína es otra palanca de saciedad (la proteína es "la más saciante").
+- **La adherencia es "la variable número uno del éxito de una dieta".** El hambre "es la perdición" y lleva a los atracones, así que elige alimentos de alta saciedad; aumentar la proteína es otra palanca de saciedad (la proteína es "la más saciante").
 
 ## El contexto de la obesidad (según lo afirmado)
 - Alrededor del 66% de la población de EE. UU. tiene sobrepeso u obesidad; dice que uno de cada dos tendrá obesidad para 2030. 🟡 afirmado sin fuente en la clase.
@@ -84,7 +84,7 @@ Esta es la clase en la que las recomendaciones anteriores se convierten en un pl
 - **El metabolismo no se desacelera mucho con la edad.** Nos movemos menos (menor NEAT); la desaceleración "no es suficiente para usarla como excusa". ✅ según lo afirmado; 🟡 sin datos citados.
 - **El ejercicio es una mala forma de quemar calorías,** salvo caminar.
 - **No existen los "alimentos quemagrasa".** Algunos alimentos apoyan la pérdida de grasa (saciantes, altos en proteína, que dan energía para entrenar).
-- **"Cualquiera que sea la mejor dieta" es un mito.** La mejor significa sostenible, nutritiva, saciante y que no daña tu relación con la comida; evita las dietas de moda y las de atracón.
+- **La idea de una única "mejor dieta" es un mito.** La mejor significa sostenible, nutritiva, saciante y que no daña tu relación con la comida; evita las dietas de moda y las que llevan a atracones.
 - **Las mujeres no se pondrán "voluminosas".** Dice que el músculo es difícil de ganar tanto para hombres como para mujeres.
 
 ## Frases clave y datos citables (Clase 5)

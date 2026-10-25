@@ -54,8 +54,8 @@ Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirma
 ✅ Es explícito en que las plantas son la mejor opción en cuanto a cantidad de fitoquímicos. Mensaje neto: ambas categorías aportan; ninguna debería eliminarse.
 
 ## Compuestos de defensa de las plantas y hormesis
-- **Hormesis:** una dosis baja de estrés que no nos resulta tóxica y que provoca adaptación. Las plantas no pueden huir ni pelear, así que se vuelven "químicas brillantes": antialimentarios amargos en las hojas verdes oscuras, hierbas, especias, taninos del té y café. El término de Mark Hyman para esto: **"fitoadaptación simbiótica"**. ✅
-- **Luteína y zeaxantina** (kale, acelga): se sabe que protegen los ojos de la degeneración macular relacionada con la edad; se acumulan en el cerebro; son liposolubles, lo cual es un argumento en contra de comer demasiado bajo en grasa. ✅
+- **Hormesis:** una dosis baja de estrés que no nos resulta tóxica y que provoca adaptación. Las plantas no pueden huir ni pelear, así que se vuelven "químicas brillantes": antialimentarios amargos en las hojas verdes oscuras, hierbas, especias, taninos del té y del café. El término de Mark Hyman para esto: **"fitoadaptación simbiótica"**. ✅
+- **Luteína y zeaxantina** (kale, acelga): se sabe que protegen los ojos de la degeneración macular relacionada con la edad; se acumulan en el cerebro; son liposolubles, lo cual es un argumento en contra de llevar una dieta demasiado baja en grasa. ✅
 - **Antocianinas** (arándanos, cebolla morada, papas moradas; los rojos y morados de frutas y verduras): dice que se acumulan en el hipocampo. ✅
 - **Glucosinolatos / sulforafano** (brócoli, germinados, coles de Bruselas, coliflor, kale, arúgula; se forma al masticar verduras crucíferas): activa las vías de defensa propias del cuerpo; en estudios en China, los suplementos de sulforafano aumentaron la excreción de benceno y acroleína. ✅
 - **Flavanoles:** un ECA que cita encontró que los alimentos altos en flavanoles mejoraron la función cognitiva y elevaron el **BDNF** frente a alimentos bajos en flavanoles; admite que "no es un estudio perfecto" porque los alimentos contienen muchos compuestos. 🟢
@@ -74,7 +74,7 @@ Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirma
 - **2,000% (tabaco y cáncer de pulmón) vs. ~30% (carne roja y cáncer):** el contraste que usa para mostrar cuánto más débiles son las asociaciones en nutrición.
 - **Un aumento relativo de 25% sobre un riesgo absoluto de 4% da 5%.**
 - **Solo ~3% de la grasa saturada de los estadounidenses proviene de carnes; ~11% proviene de postres y botanas dulces.**
-- **"El objetivo de la ciencia es reducir la incertidumbre".** Todo son grados de incertidumbre, no cosas sabidas y no sabidas.
+- **"El objetivo de la ciencia es reducir la incertidumbre".** Todo es cuestión de grados de incertidumbre, no de cosas sabidas o desconocidas.
 - **"Ningún estudio aislado".** No cambia su dieta de un día para otro por un titular.
 - **La fibra tiene calorías porque las bacterias intestinales la convierten en ácidos grasos de cadena corta.**
 - **Las plantas son químicas brillantes:** el sabor amargo es una señal de defensa de la planta que nos da un efecto hormético.
