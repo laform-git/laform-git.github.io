@@ -52,7 +52,7 @@ Este capítulo ofrece la explicación mecanística completa del SOP (la insulina
 
 ## Lactancia
 - **Prolactina:** produce la leche en sí — activa la lipólisis (movilizando grasa materna hacia la leche) y los osteoclastos óseos (movilizando calcio materno hacia la leche) — además **inhibe la GnRH**, por eso la lactancia suele suprimir la ovulación/menstruación (un efecto anticonceptivo natural mediado por hormonas, aunque no se considera totalmente fiable) ✅
-- **Oxitocina:** expulsa la leche — contrae las células mioepiteliales que recubren los conductos galáctoforos — y se desencadena aún más por la estimulación táctil de la propia succión ✅
+- **Oxitocina:** expulsa la leche — contrae las células mioepiteliales que recubren los conductos galactóforos — y se desencadena aún más por la estimulación táctil de la propia succión ✅
 
 ## Menopausia — Una explicación mecanística directa
 - **El desencadenante:** agotamiento de los folículos/óvulos ováricos → menos células de la granulosa (el tipo de célula productora de estradiol) — las células de la teca (productoras de andrógenos) permanecen en gran parte intactas ✅

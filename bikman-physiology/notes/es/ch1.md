@@ -53,7 +53,7 @@ La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa
 | **Difusión simple — canal** | Ninguno en el momento | Poro abierto a través de ambas capas | Los iones y el agua usan canales |
 | **Difusión facilitada** | Ninguno en el momento | Un transportador ("Pac-Man") se une a la molécula, cambia de forma y libera exactamente esa cantidad dentro | Regulada con precisión; mediada por transportador |
 | **Transporte activo primario** | Usa ATP directamente | Bomba impulsada por la ruptura de ATP, que mueve moléculas cuesta arriba | La ATPasa de sodio-potasio es el ejemplo famoso |
-| **Activo secundario — simporte** | Indirecto | Un ion va cuesta abajo y otro se va "de aventión" en la **misma** dirección, cuesta arriba | Usa un gradiente construido previamente |
+| **Activo secundario — simporte** | Indirecto | Un ion va cuesta abajo y otro se va "de aventón" en la **misma** dirección, cuesta arriba | Usa un gradiente construido previamente |
 | **Activo secundario — antiporte** | Indirecto | Un ion va cuesta abajo y otro va en dirección **opuesta**, cuesta arriba | Se cruzan sin chocar |
 
 ✅ Esta tabla es la referencia más reutilizable de la clase: cada transportador futuro del curso encajará en una de estas filas.
