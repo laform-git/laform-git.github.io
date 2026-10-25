@@ -34,24 +34,24 @@ Bikman quiere una lista de verificación, no una sensación. Algo está vivo sol
 
 | Característica | Procariotas | Eucariotas |
 | --- | --- | --- |
-| **Miembros** | Bacterias y arqueas | Animales, plantas, vida del agua de estanque; "de lo que estás hecho" |
+| **Miembros** | Bacterias y arqueas | Animales, plantas, organismos del agua de estanque; "de lo que estás hecho" |
 | **Apariencia** | Una simple "burbuja" o saco con poco que identificar en su interior | Compartimentos internos definidos (organelos) |
 | **ADN** | Flota libremente; sin núcleo | Encerrado y protegido en un núcleo bien definido |
 | **¿Ambos vivos?** | Sí, cumplen los siete criterios | Sí, cumplen los siete criterios |
 
 - **Arqueas:** las menos conocidas y menos abundantes; organismos unicelulares que viven solo donde nada más puede vivir: aguas termales hirvientes, lugares extremadamente salados como el Mar Muerto y el Gran Lago Salado de Utah. ✅
-- **Bacterias:** en todas partes, dentro y sobre animales y plantas (intestino, piel). Los humanos tienen aproximadamente 30 billones de células propias y aproximadamente una bacteria por cada célula humana. ✅ La vieja idea de "10 veces más bacterias que células humanas" ha sido cuestionada; hoy se acepta en general una proporción de alrededor de 1 a 1, y las bacterias son parte de la fisiología normal, no un problema.
+- **Bacterias:** en todas las demás partes, dentro y sobre animales y plantas (intestino, piel). Los humanos tienen aproximadamente 30 billones de células propias y aproximadamente una bacteria por cada célula humana. ✅ La vieja idea de "10 veces más bacterias que células humanas" ha sido cuestionada; hoy se acepta en general una proporción de alrededor de 1 a 1, y las bacterias son parte de la fisiología normal, no un problema.
 - **Teoría endosimbiótica (explícitamente una teoría):** la membrana de un procariota simple se plegó hacia adentro (dando origen al núcleo y a otros organelos) y engulló a otro procariota, una bacteria; ambos encontraron una relación mutuamente beneficiosa y el engullido se convirtió en la **mitocondria**, que conserva su propio ADN único. El cloroplasto es el análogo específico de las plantas. 🟡 Bikman advierte que no sabemos exactamente cómo comenzó la vida; esta es la explicación predominante, no un hecho establecido.
 
 ## La célula como fábrica — Y los organelos
-Cinco rasgos de una fábrica: instrucciones (protocolos), herramientas para construir máquinas, las máquinas mismas (las células musculares tienen máquinas distintas a las de las células renales), una fuente de energía con gestión (almacenarla o quemarla), compartimentación, y todo construido en el lugar.
+Cinco rasgos de una fábrica: instrucciones (protocolos), herramientas para construir máquinas, las máquinas mismas (las células musculares tienen máquinas distintas a las de las células renales), una fuente de energía y su administración (almacenarla o quemarla), compartimentación, y todo se fabrica en el mismo lugar.
 
 | Organelo | Papel en la clase |
 | --- | --- |
 | **Núcleo** | Contiene el ADN (el código genético) e inicia el proceso de fabricar ARN; sus diminutos poros son demasiado pequeños para el ADN pero dejan salir el ARN |
 | **Retículo endoplasmático (RE)** | Red de membranas aplanadas y plegadas alrededor del núcleo; la información genética pasa por ella en su camino hacia afuera. **RE liso:** fabrica grasas, almacena calcio (especialmente en células musculares y nerviosas) y ayuda a desintoxicar. **RE rugoso:** salpicado de ribosomas, que convierten la información del ARN en proteína |
 | **Aparato de Golgi** | Junto al RE; procesamiento postraduccional y empaquetado para que los productos lleguen al borde de la célula y salgan |
-| **Mitocondrias** | La "central energética"; produce las principales moléculas de energía (el ciclo de Krebs/del citrato y la cadena de transporte de electrones ocurren aquí) |
+| **Mitocondrias** | La "central energética"; producen las principales moléculas de energía (el ciclo de Krebs/del citrato y la cadena de transporte de electrones ocurren aquí) |
 | **Lisosoma y peroxisoma** | Limpieza y degradación, incluidas algunas toxinas; no se exploran más en este curso |
 | **Centrosoma** | Organiza los microtúbulos y establece la orientación y dirección en que una célula en división se separa |
 | **Citoesqueleto y microfilamentos** | Red filamentosa que da forma a la célula; los microfilamentos permiten el movimiento (contracción muscular, nado de los espermatozoides) y la citocinesis, la división final de la mitosis |
@@ -61,7 +61,7 @@ Cinco rasgos de una fábrica: instrucciones (protocolos), herramientas para cons
 
 ## La membrana celular — La barrera funcional
 - ✅ **Tres nombres, una estructura:** membrana celular, membrana plasmática, bicapa de fosfolípidos. Debe ser **semipermeable**: totalmente abierta no sirve de nada, totalmente sellada tampoco.
-- ✅ **Fosfolípidos anfipáticos:** una cabeza que ama el agua (hidrofílica) y dos colas de ácidos grasos que temen al agua (hidrofóbicas). Dos capas disponen las colas hacia adentro y las cabezas hacia afuera, de modo que las cabezas miran al agua por ambos lados (fuera y dentro de la célula). El cuerpo es hasta aproximadamente un 60% agua.
+- ✅ **Fosfolípidos anfipáticos:** una cabeza que ama el agua (hidrofílica) y dos colas de ácidos grasos que temen al agua (hidrofóbicas). Dos capas disponen las colas hacia adentro y las cabezas hacia afuera, de modo que las cabezas miran al agua por ambos lados (fuera y dentro de la célula). Hasta cerca del 60% del cuerpo es agua.
 - ✅ **Micela:** la misma lógica dispuesta como esfera (colas adentro, cabezas afuera); es la forma que adoptan las grasas al desplazarse por el cuerpo.
 - ✅ **La fluidez depende del tipo de grasa.** Las colas saturadas son rectas y se empaquetan apretadamente; las monoinsaturadas (p. ej., el aceite de oliva) tienen un pliegue; las poliinsaturadas tienen dos o tres. Una membrana totalmente saturada sería demasiado rígida y densa; una totalmente poliinsaturada sería demasiado suelta y permeable, hasta el punto de romperse. La célula regula su propia mezcla para mantenerse estructurada y a la vez fluida.
 - 🟡 Bikman menciona los aceites de semillas refinados (soya, maíz, el llamado aceite vegetal) como ejemplo de poliinsaturados y dice que "mucha mala ciencia" ha moldeado nuestra comprensión de las grasas alimentarias; la clase presenta esta química sin sesgo, y el argumento dietético en sí no se desarrolla aquí.
@@ -86,7 +86,7 @@ Cinco rasgos de una fábrica: instrucciones (protocolos), herramientas para cons
 - ✅ **Precursor:** todas las hormonas esteroides, "no solo las hormonas sexuales, sino muchísimas más", se construyen sobre el colesterol.
 - ✅ **Estructura:** el colesterol se encuentra en toda la bicapa; forma **balsas lipídicas**, zonas ricas en colesterol donde se ubican estructuras con mucha proteína como el receptor de insulina.
 - ✅ **Fluidez:** se inserta entre los fosfolípidos para evitar que se empaqueten demasiado, incluso con colas insaturadas. La imagen de Bikman: de pie sobre una célula del tamaño de la Luna, verías los componentes fluir como objetos sobre un océano. "Gracias a Dios por el colesterol."
-- 🟡 Bikman critica el enfoque clínico en bajar el colesterol; la clase plantea el punto de la necesidad celular y no aborda ApoB, partículas de LDL ni riesgo cardiovascular. No lo interpretes como una afirmación sobre metas de lípidos en sangre.
+- 🟡 Bikman critica el enfoque clínico en bajar el colesterol; la clase se limita a señalar la necesidad celular y no aborda ApoB, partículas de LDL ni riesgo cardiovascular. No lo interpretes como una afirmación sobre metas de lípidos en sangre.
 
 ## Células vegetales
 Las plantas son eucariotas y cumplen todos los criterios de la vida. En lugar de un límite fluido solo de fosfolípidos, las células vegetales tienen una pared de **celulosa** rígida, aunque semipermeable, que las hace más resistentes.
@@ -100,7 +100,7 @@ Las plantas son eucariotas y cumplen todos los criterios de la vida. En lugar de
 - **"Lo semejante atrae a lo semejante."** — por qué las grasas y las hormonas esteroides atraviesan una membrana de grasa.
 - **"Gracias a Dios por el colesterol."** — el argumento de la membrana y las hormonas contra la satanización del colesterol.
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para tener presentes
 - 🔴 Suponer que un virus está vivo: no pasa la lista (no crece, no tiene homeostasis, no puede reproducirse solo) y solo actúa como vivo dentro de una célula huésped.
 - 🔴 Suponer que las bacterias superan a las células humanas 10 a 1: lo aceptado actualmente es alrededor de 1 a 1.
 - 🔴 Tratar el colesterol solo como un villano de los análisis de sangre: es un componente estructural de toda membrana celular y la base de todas las hormonas esteroides.
