@@ -1,0 +1,17 @@
+{
+  "name": "Study Library",
+  "short_name": "Library",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7ead3",
+  "theme_color": "#f7ead3",
+  "icons": [
+    {
+      "src": "lib/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
