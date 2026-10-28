@@ -31,8 +31,8 @@ Esta clase es el manual de plomería. Explica por qué la glucosa entra en el h�
 | **Estado final** | Igual concentración, igual volumen | Igual concentración, volumen *desigual* |
 
 ### Dos aplicaciones clínicas de la clase
-- **Edema:** tras estar mucho tiempo de pie, el agua sale de la sangre hacia el espacio alrededor de los vasos en la parte baja de las piernas; la presión osmótica que se acumula empuja contra la elasticidad de la piel, así que las extremidades se hinchan. ✅
-- **Por qué la diabetes no controlada implica exceso de orina:** el glomérulo del riñón filtra la glucosa hacia el túbulo renal. Normalmente casi toda se reabsorbe (y el agua la sigue). Cuando la glucosa en sangre es extremadamente alta (cifra de Bikman: unas 10 veces lo normal), la carga supera la reabsorción, la glucosa se queda en el túbulo y su atracción osmótica retiene también el agua ahí, así que el volumen de orina aumenta. "Diabetes" significa literalmente exceso de orina. ✅
+- **Edema:** tras estar mucho tiempo de pie, el agua sale de la sangre hacia el espacio alrededor de los vasos en la parte baja de las piernas; la presión osmótica que se acumula empuja contra la elasticidad de la piel, así que las extremidades se hinchan. 🟡 Verificación de evidencia: la causa principal es que la gravedad aumenta la presión hidrostática (del líquido) dentro de los capilares de las piernas, lo que empuja el líquido hacia afuera; la atracción osmótica de las proteínas de la sangre es la fuerza que normalmente lo regresa (principio de Starling revisado; Levick 2010).
+- **Por qué la diabetes no controlada implica exceso de orina:** el glomérulo del riñón filtra la glucosa hacia el túbulo renal. Normalmente casi toda se reabsorbe (y el agua la sigue). Cuando la glucosa en sangre es extremadamente alta (cifra de Bikman: unas 10 veces lo normal), la carga supera la reabsorción, la glucosa se queda en el túbulo y su atracción osmótica retiene también el agua ahí, así que el volumen de orina aumenta. "Diabetes" viene del griego "sifón" (algo que pasa a través), en alusión al exceso de orina. ✅ 🟡 Verificación de evidencia sobre la cifra de 10 veces: la glucosa empieza a pasar a la orina cuando la glucosa en sangre supera el umbral renal de unos 180 mg/dL (10 mmol/L), más o menos el doble de lo normal (Hieshima 2020).
 
 ## Tonicidad — La ósmosis aplicada a la célula
 El líquido dentro de las células es el **LIC** (líquido intracelular); todo el líquido fuera (sangre, linfa, etc.) es el **LEC** (líquido extracelular). El agua atraviesa la membrana celular rápidamente; los solutos lo hacen lentamente y bajo estricto control, así que **el agua se mueve primero**. ✅
@@ -43,7 +43,7 @@ El líquido dentro de las células es el **LIC** (líquido intracelular); todo e
 | **LEC hipertónico** | LEC demasiado concentrado | Sale de la célula hacia el LEC | La célula se encoge, se ve arrugada al microscopio |
 | **LEC hipotónico** | LEC demasiado diluido | Entra en la célula desde el LEC | La célula se hincha, puede reventar |
 
-- **Intoxicación por agua:** un concurso de beber agua de un programa de radio terminó en una muerte por diluir demasiado el LEC. ✅ (Relato de Bikman, sin más detalles.)
+- **Intoxicación por agua:** un concurso de beber agua de un programa de radio terminó en una muerte por diluir demasiado el LEC. ✅ El caso es real: en enero de 2007, Jennifer Strange, de 28 años, murió por intoxicación por agua tras un concurso de la estación KDND-FM de Sacramento; en 2009 un jurado otorgó 16.5 millones de dólares a su familia (ABC News/AP 2009).
 - **Escenario de error con suero intravenoso:** infundir una bolsa hipotónica aumenta el volumen del LEC mientras baja su concentración; las células entonces absorben agua y se hinchan hasta que el cuerpo excreta el exceso de agua y retiene soluto. Si la hinchazón va demasiado lejos, la célula revienta, lo que Bikman llama **degeneración hidrópica** (su analogía del globo de agua). ✅ 🟡 Él usa ese término para el estallido; en patología el término se usa comúnmente para la hinchazón celular, así que toma su definición como una abreviatura de la clase.
 
 ## Atravesar la membrana — El kit de herramientas de transporte
@@ -60,20 +60,20 @@ La célula debe reconocer una molécula, decidir si se mueve o no, y decidir cu�
 - Los transportadores mueven azúcares, aminoácidos y más. ✅
 
 ## El viaje de la glucosa — Tres mecanismos en una célula intestinal
-El ejemplo culminante de la clase es una sola célula epitelial intestinal (que recubre el intestino), que usa los tres tipos de transporte:
+El ejemplo culminante de la clase es una sola célula epitelial intestinal (que recubre el intestino), que usa los tres tipos de transporte: (Koepsell 2020)
 1. **Lado basal (lado de la sangre): antiportador de sodio-potasio, activo.** Bombea sodio fuera de la célula hacia la sangre (la sangre tiene aproximadamente 10 veces más sodio que el interior de la célula), manteniendo muy bajo el sodio intracelular. ✅
 2. **Lado apical (frente al intestino): simportador SGLT1.** El sodio fluye hacia la célula *a favor* de su gradiente (pasivamente, gracias al paso 1), y la glucosa viaja con él; sin sodio, no entra glucosa. ✅
 3. **Lado basal: uniportador GLUT.** La glucosa sale hacia la sangre una molécula a la vez. ✅
 
 - 🟡 La transcripción está confusa donde resume esto (etiqueta el paso del simporte como "activo" y dice que el uniportador mueve "sodio hacia afuera"). Lectura estándar, coherente con el resto de su explicación: la bomba es el paso activo; el simporte es impulsado por el gradiente de sodio que crea la bomba.
-- **SGLT2** hace el mismo trabajo de sodio-glucosa en el riñón, devolviendo a la sangre la glucosa filtrada. **SGLT1** es la versión intestinal. ✅
-- **Familia GLUT:** todo el resto del movimiento de glucosa en el cuerpo usa transportadores de glucosa. Los de tipo **GLUT4** (músculo y grasa) están guardados dentro de la célula y salen a la superficie solo cuando la insulina se une a su receptor. Unos **12 otros transportadores de glucosa** están siempre listos (neuronas del cerebro, riñón), así que captan glucosa en cuanto los niveles suben, sin necesidad de insulina. ✅
-- **La puerta trasera del músculo:** el músculo en actividad puede abrir sus transportadores de glucosa por sí mismo mediante la contracción, sin necesidad de insulina; cuando se calma, vuelve a esperar a la insulina. ✅ Contexto dado: la grasa tiene una tasa metabólica muy baja, el músculo más alta y capaz de subir abruptamente con el ejercicio, el riñón la más alta (Bikman dice que unas 10 veces). 🟡 La cifra del riñón se menciona de pasada, sin fuente.
+- **SGLT2** hace el mismo trabajo de sodio-glucosa en el riñón, devolviendo a la sangre la glucosa filtrada. **SGLT1** es la versión intestinal. ✅ (Ghezzi 2018)
+- **Familia GLUT:** todo el resto del movimiento de glucosa en el cuerpo usa transportadores de glucosa. Los de tipo **GLUT4** (músculo y grasa) están guardados dentro de la célula y salen a la superficie solo cuando la insulina se une a su receptor. Unos **12 otros transportadores de glucosa** están siempre listos (neuronas del cerebro, riñón), así que captan glucosa en cuanto los niveles suben, sin necesidad de insulina. ✅ 🟢 Verificación de evidencia: los humanos tienen 14 proteínas GLUT; no todas transportan principalmente glucosa (GLUT5 transporta fructosa, por ejemplo), y la función de varias todavía no está clara (Mueckler 2013).
+- **La puerta trasera del músculo:** el músculo en actividad puede abrir sus transportadores de glucosa por sí mismo mediante la contracción, sin necesidad de insulina; cuando se calma, vuelve a esperar a la insulina. ✅ (Richter 2013) Contexto dado: la grasa tiene una tasa metabólica muy baja, el músculo más alta y capaz de subir abruptamente con el ejercicio, el riñón la más alta (Bikman dice que unas 10 veces). 🟢 Verificación de evidencia: por kilogramo y en reposo, los riñones y el corazón son los más altos (unas 440 kcal/kg/día), frente a unas 13 del músculo esquelético y 4.5 de la grasa; es decir, el riñón gasta unas 30 veces más que el músculo en reposo (Wang 2010).
 
 ## Fármacos que bloquean los transportadores (gliflozinas)
 - Los nombres de fármacos que terminan en **-gliflozina** son inhibidores de SGLT. ✅
-- **Inhibidores de SGLT1:** la glucosa se queda en el intestino, creando un gradiente osmótico que atrae agua y causa diarrea severa; Bikman dice que por eso se usan muy rara vez. ✅
-- **Inhibidores de SGLT2:** la glucosa se queda en el túbulo renal; la atracción osmótica produce mucha más orina, sed constante y preocupación por deshidratación. La glucosa en las vías urinarias también alimenta a las bacterias (la analogía de la clase del puesto de abastecimiento en un maratón), así que las infecciones urinarias se vuelven más frecuentes y más graves. ✅ Añade, con cierta mordacidad, que la alternativa es comer menos glucosa.
+- **Inhibidores de SGLT1:** la glucosa se queda en el intestino, creando un gradiente osmótico que atrae agua y causa diarrea severa; Bikman dice que por eso se usan muy rara vez. ✅ 🟢 Verificación de evidencia: no hay ningún bloqueador selectivo de SGLT1 aprobado; la sotagliflozina, que bloquea SGLT1 y SGLT2 a la vez, fue aprobada por la FDA en 2023 para insuficiencia cardiaca, y la diarrea es uno de sus efectos secundarios conocidos (Siddiqui 2026).
+- **Inhibidores de SGLT2:** la glucosa se queda en el túbulo renal; la atracción osmótica produce mucha más orina, sed constante y preocupación por deshidratación. La glucosa en las vías urinarias también alimenta a las bacterias (la analogía de la clase del puesto de abastecimiento en un maratón), así que las infecciones urinarias se vuelven más frecuentes y más graves. 🟡 Verificación de evidencia: un metaanálisis de 86 ensayos (50,880 pacientes) encontró infecciones genitales unas 3 veces más frecuentes con inhibidores de SGLT2, pero ningún aumento general de infecciones urinarias (solo la dapagliflozina de 10 mg mostró un aumento) (Puckrin 2018). Añade, con cierta mordacidad, que la alternativa es comer menos glucosa.
 
 ## Transporte mediado por vesículas
 Una **vesícula** es una bolsa encerrada por su propia bicapa de fosfolípidos (la misma física que la membrana celular, como en el Cap. 1), que se usa para meter o sacar cosas. ✅
@@ -81,12 +81,12 @@ Una **vesícula** es una bolsa encerrada por su propia bicapa de fosfolípidos (
 | Proceso | Dirección | Qué es | Ejemplo |
 | --- | --- | --- | --- |
 | **Fagocitosis** (la célula come) | Hacia adentro | La célula engulle una partícula | Fagocitos que engullen partículas |
-| **Pinocitosis** (la célula bebe) | Hacia adentro | La membrana se cierra y desprende una burbuja con moléculas cercanas (no un trago de agua) | Ciertas vitaminas B, vitamina C (según se afirma) |
+| **Pinocitosis** (la célula bebe) | Hacia adentro | La membrana se cierra y desprende una burbuja con moléculas cercanas (no un trago de agua) | Ciertas vitaminas B, vitamina C (según se afirma; en realidad estas vitaminas se absorben sobre todo mediante proteínas transportadoras específicas, Said 2011) |
 | **Endocitosis mediada por receptores** | Hacia adentro | Los receptores se unen a una molécula específica y luego la célula la envuelve y la introduce | La LDL uniéndose al receptor de LDL |
 | **Exocitosis** | Hacia afuera | La vesícula se fusiona con la membrana y libera su contenido | La célula beta liberando insulina cuando sube la glucosa; liberación de neurotransmisores de nervio a célula |
-| **Transcitosis** | Adentro y luego afuera | Endocitosis por un lado, exocitosis por el otro; atraviesa sin interactuar con la célula | Absorción intestinal de péptidos pequeños |
+| **Transcitosis** | Adentro y luego afuera | Endocitosis por un lado, exocitosis por el otro; atraviesa sin interactuar con la célula | Absorción intestinal de péptidos pequeños (según se afirma; en realidad los dipéptidos y tripéptidos entran a las células intestinales por el transportador PepT1, Smith 2013) |
 
-- **La LDL no es colesterol en sí:** Bikman la describe como una partícula grande de grasas y proteínas; la célula la introduce para acceder al colesterol y las grasas que transporta, porque el colesterol es "una molécula para la vida". ✅
+- **La LDL no es colesterol en sí:** Bikman la describe como una partícula grande de grasas y proteínas; la célula la introduce para acceder al colesterol y las grasas que transporta, porque el colesterol es "una molécula para la vida". ✅ (Goldstein 2009)
 
 ## Frases clave y datos citables (Clase 2)
 - **Las moléculas nunca dejan de moverse;** un gradiente es solo moléculas apiñadas que se dispersan al azar. No se requiere ninguna instrucción.
@@ -137,10 +137,39 @@ C. \* Porque la bomba de sodio-potasio del lado de la sangre mantiene muy bajo e
 - **Energía celular (qué paga el transporte activo)** — se deja explícitamente para clases posteriores; el capítulo de Metabolic Mechanisms debería cubrirlo.
 - **Señalización nerviosa y activación de canales en profundidad** — Bikman remite a su curso Fundamentals of Physiology.
 - **La siguiente clase es el Dogma Central** (ADN a ARN a proteína).
-- **Verificar más adelante:** los ejemplos de pinocitosis (vitaminas B, vitamina C) y la cifra de la tasa metabólica del riñón son afirmaciones de la clase que no contrasté con otras fuentes.
+- **Verificar más adelante:** los ejemplos de pinocitosis (vitaminas B, vitamina C) y la cifra de la tasa metabólica del riñón. Resultado de la auditoría: esas vitaminas usan transportadores específicos, no pinocitosis (Said 2011), y el riñón gasta unas 30 veces más que el músculo en reposo por kilogramo (Wang 2010).
 
 ## Qué se recortó deliberadamente (autoauditoría)
 - Comentarios personales y humor: las imágenes de la arañita (Itsy Bitsy Spider) y del puesto de abastecimiento del maratón más allá de una línea, el comentario del niño con el globo de agua, sus comentarios sobre su propia piel envejecida y su postura al dar clase.
 - Repaso del contenido del Cap. 1 que abre y cierra la clase (teoría celular, procariotas vs. eucariotas, organelos); ya cubierto en la nota del Cap. 1.
 - Repeticiones de los mismos ejemplos del tubo en U y de los dos recipientes, condensadas a una versión de cada uno.
 - La narración detallada paso a paso de los tres transportadores de la célula intestinal, condensada en una lista numerada.
+
+---
+**Referencias:**
+1. Levick JR, Michel CC. El intercambio de líquido en la microcirculación y el principio de Starling revisado [*título original: Microvascular fluid exchange and the revised Starling principle*]. *Cardiovasc Res* 2010;87:198-210. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/20200043/)
+   - Explica que el líquido sale de los capilares por la presión hidrostática y que la presión osmótica de las proteínas tiende a regresarlo; base del edema por estar de pie.
+2. Hieshima K et al. La elevación del umbral renal de glucosa se asocia con resistencia a la insulina y niveles más altos de hemoglobina glucosilada [*título original: Elevation of the renal threshold for glucose is associated with insulin resistance and higher glycated hemoglobin levels*]. *J Diabetes Investig* 2020;11:617-625. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/31770476/)
+   - Señala que la glucosa aparece en la orina a partir de unos 180 mg/dL en sangre, no de 10 veces lo normal.
+3. Ghezzi C, Loo DDF, Wright EM. Fisiología del manejo renal de la glucosa a través de SGLT1, SGLT2 y GLUT2 [*título original: Physiology of renal glucose handling via SGLT1, SGLT2 and GLUT2*]. *Diabetologia* 2018;61:2087-2097. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/30132032/)
+   - Describe cómo SGLT2 reabsorbe la mayor parte de la glucosa filtrada en el riñón.
+4. Koepsell H. Los transportadores de glucosa en el intestino delgado en la salud y la enfermedad [*título original: Glucose transporters in the small intestine in health and disease*]. *Pflugers Arch* 2020;472:1207-1248. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/32829466/)
+   - Respalda el ejemplo de la célula intestinal con SGLT1, GLUT y la bomba de sodio-potasio.
+5. Mueckler M, Thorens B. La familia SLC2 (GLUT) de transportadores de membrana [*título original: The SLC2 (GLUT) family of membrane transporters*]. *Mol Aspects Med* 2013;34:121-138. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23506862/)
+   - Cuenta 14 proteínas GLUT en humanos, no todas dedicadas principalmente a la glucosa.
+6. Richter EA, Hargreaves M. Ejercicio, GLUT4 y captación de glucosa en el músculo esquelético [*título original: Exercise, GLUT4, and skeletal muscle glucose uptake*]. *Physiol Rev* 2013;93:993-1017. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23899560/)
+   - Confirma la "puerta trasera" del músculo: la contracción lleva GLUT4 a la membrana sin insulina.
+7. Wang Z et al. Tasas metabólicas específicas de los principales órganos y tejidos a lo largo de la edad adulta [*título original: Specific metabolic rates of major organs and tissues across adulthood: evaluation by mechanistic model of resting energy expenditure*]. *Am J Clin Nutr* 2010;92:1369-1377. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/20962155/)
+   - Riñón y corazón gastan unas 440 kcal/kg/día, el músculo en reposo unas 13 y la grasa unas 4.5.
+8. Siddiqui Z et al. Revisión de la sotagliflozina, el primer inhibidor dual de SGLT-1/2 [*título original: A review of sotagliflozin: the first dual SGLT-1/2 inhibitor*]. *Cardiol Rev* 2026;34:378-384. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/39072631/)
+   - Informa la aprobación de la FDA en 2023 y la diarrea entre sus efectos adversos.
+9. Puckrin R et al. Inhibidores de SGLT-2 y riesgo de infecciones: revisión sistemática y metaanálisis de ensayos aleatorizados [*título original: SGLT-2 inhibitors and the risk of infections: a systematic review and meta-analysis of randomized controlled trials*]. *Acta Diabetol* 2018;55:503-514. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/29484489/)
+   - Más infecciones genitales, pero sin aumento general de infecciones urinarias.
+10. Said HM. Absorción intestinal de las vitaminas hidrosolubles en la salud y la enfermedad [*título original: Intestinal absorption of water-soluble vitamins in health and disease*]. *Biochem J* 2011;437:357-372. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/21749321/)
+   - Muestra que la vitamina C y las vitaminas B se absorben con transportadores específicos, no por pinocitosis.
+11. Smith DE, Clémençon B, Hediger MA. La familia SLC15 de transportadores de oligopéptidos acoplados a protones [*título original: Proton-coupled oligopeptide transporter family SLC15: physiological, pharmacological and pathological implications*]. *Mol Aspects Med* 2013;34:323-336. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23506874/)
+   - Explica que los péptidos pequeños de la digestión entran por el transportador PepT1, no por transcitosis.
+12. Goldstein JL, Brown MS. El receptor de LDL [*título original: The LDL receptor*]. *Arterioscler Thromb Vasc Biol* 2009;29:431-438. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/19299327/)
+   - Describe la endocitosis mediada por el receptor de LDL que menciona la clase.
+13. ABC News / Associated Press. Fallo de 16 millones de dólares por una muerte en un concurso de radio [*título original: $16 million ruling in radio contest death*] (Jennifer Strange, KDND-FM, Sacramento). 2009. [Enlace (en inglés)](https://6abc.com/archive/7094917/)
+   - Confirma el caso de intoxicación por agua que relata Bikman.

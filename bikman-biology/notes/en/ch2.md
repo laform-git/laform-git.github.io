@@ -1,4 +1,3 @@
-
 # Bikman — Basics of Biology, Ch.2: Crossing the Cell Wall
 *Explains how molecules and water cross the cell membrane — diffusion, osmosis, tonicity, channels, transporters (SGLT and GLUT), and vesicle transport — the mechanics sitting underneath insulin action, SGLT2-inhibitor drugs, and LDL uptake.*
 
@@ -31,8 +30,8 @@ This lecture is the plumbing manual. It explains why glucose enters the liver wi
 | **End state** | Equal concentration, equal volume | Equal concentration, *unequal* volume |
 
 ### Two clinical applications from the lecture
-- **Edema:** after long standing, water leaves the blood into the space around vessels in the lower legs; the building osmotic pressure pushes against the skin's elasticity, so limbs swell. ✅
-- **Why uncontrolled diabetes means excess urine:** the kidney's glomerulus filters glucose into the renal tubule. Normally nearly all is reabsorbed (and water follows). When blood glucose is extremely high (Bikman's figure: about 10 times normal), the load exceeds reabsorption, glucose stays in the tubule, and its osmotic pull keeps water there too, so urine volume rises. "Diabetes" literally means excess urine. ✅
+- **Edema:** after long standing, water leaves the blood into the space around vessels in the lower legs; the building osmotic pressure pushes against the skin's elasticity, so limbs swell. 🟡 Evidence check: the main driver is gravity raising the hydrostatic (fluid) pressure inside leg capillaries, which pushes fluid out; the osmotic pull of blood proteins is the force that normally draws it back (revised Starling principle; Levick 2010).
+- **Why uncontrolled diabetes means excess urine:** the kidney's glomerulus filters glucose into the renal tubule. Normally nearly all is reabsorbed (and water follows). When blood glucose is extremely high (Bikman's figure: about 10 times normal), the load exceeds reabsorption, glucose stays in the tubule, and its osmotic pull keeps water there too, so urine volume rises. "Diabetes" comes from the Greek for "siphon" (passing through), a nod to the excess urine. ✅ 🟡 Evidence check on the 10-times figure: glucose starts to spill into urine once blood glucose passes the renal threshold of about 180 mg/dL (10 mmol/L), roughly twice normal (Hieshima 2020).
 
 ## Tonicity — Osmosis Applied to the Cell
 The fluid inside cells is the **ICF** (intracellular fluid); all fluid outside (blood, lymph, etc.) is the **ECF** (extracellular fluid). Water crosses the cell membrane quickly; solutes cross slowly and under tight control, so **water moves first**. ✅
@@ -43,7 +42,7 @@ The fluid inside cells is the **ICF** (intracellular fluid); all fluid outside (
 | **Hypertonic ECF** | ECF too concentrated | Out of cell into ECF | Cell shrinks, shriveled on microscope |
 | **Hypotonic ECF** | ECF too dilute | Into cell from ECF | Cell swells, can burst |
 
-- **Water intoxication:** a radio-show water-drinking contest ended in a death from diluting the ECF too far. ✅ (Bikman's account, no further detail given.)
+- **Water intoxication:** a radio-show water-drinking contest ended in a death from diluting the ECF too far. ✅ The case is real: in January 2007, Jennifer Strange, 28, died of water intoxication after a KDND-FM (Sacramento) contest; a jury awarded her family $16.5 million in 2009 (ABC News/AP 2009).
 - **IV error scenario:** infusing a hypotonic bag raises ECF volume while lowering its concentration; cells then take in water and swell until the body excretes the excess water and holds on to solute. If swelling goes too far the cell bursts, which Bikman calls **hydropic degeneration** (his water-balloon analogy). ✅ 🟡 He uses that term for bursting; the term is commonly used for cell swelling in pathology, so treat his definition as lecture shorthand.
 
 ## Crossing the Membrane — The Transport Toolkit
@@ -60,20 +59,20 @@ The cell must recognize a molecule, decide whether it moves at all, and decide h
 - Transporters move sugars, amino acids, and more. ✅
 
 ## The Glucose Journey — Three Mechanisms in One Gut Cell
-The lecture's capstone example is a single intestinal epithelial cell (lining the gut), which uses all three transport types:
+The lecture's capstone example is a single intestinal epithelial cell (lining the gut), which uses all three transport types: (Koepsell 2020)
 1. **Basal side (blood side): sodium-potassium antiporter, active.** Pumps sodium out of the cell into blood (blood has roughly 10 times more sodium than the cell interior), keeping intracellular sodium very low. ✅
 2. **Apical side (gut-facing): SGLT1 symporter.** Sodium flows into the cell *down* its gradient (passively, thanks to step 1), and glucose hitches a ride; no sodium, no glucose entry. ✅
 3. **Basal side: GLUT uniporter.** Glucose exits to the blood one molecule at a time. ✅
 
 - 🟡 The transcript is garbled where it summarizes this (it labels the symport step "active" and says the uniporter moves "sodium out"). Standard reading, consistent with the rest of his explanation: the pump is the active step; the symport is driven by the sodium gradient the pump creates.
-- **SGLT2** does the same sodium-glucose job in the kidney, returning filtered glucose to blood. **SGLT1** is the gut version. ✅
-- **GLUT family:** all other glucose movement in the body uses glucose transporters. **GLUT4**-type (muscle and fat) are tucked inside the cell and surface only when insulin binds its receptor. About **12 other glucose transporters** are always ready (brain neurons, kidney), so they pull glucose in as soon as levels rise, with no insulin needed. ✅
-- **Muscle's back door:** working muscle can open its glucose transporters by itself through contraction, no insulin needed; when it settles down it returns to waiting for insulin. ✅ Context given: fat has a very low metabolic rate, muscle higher and able to rise steeply with exercise, kidney the highest (Bikman says about 10 times). 🟡 Kidney figure stated in passing, not sourced.
+- **SGLT2** does the same sodium-glucose job in the kidney, returning filtered glucose to blood. **SGLT1** is the gut version. ✅ (Ghezzi 2018)
+- **GLUT family:** all other glucose movement in the body uses glucose transporters. **GLUT4**-type (muscle and fat) are tucked inside the cell and surface only when insulin binds its receptor. About **12 other glucose transporters** are always ready (brain neurons, kidney), so they pull glucose in as soon as levels rise, with no insulin needed. ✅ 🟢 Evidence check: humans have 14 GLUT proteins; not all carry mainly glucose (GLUT5 carries fructose, for example), and the roles of several are still uncertain (Mueckler 2013).
+- **Muscle's back door:** working muscle can open its glucose transporters by itself through contraction, no insulin needed; when it settles down it returns to waiting for insulin. ✅ (Richter 2013) Context given: fat has a very low metabolic rate, muscle higher and able to rise steeply with exercise, kidney the highest (Bikman says about 10 times). 🟢 Evidence check: per kilogram at rest, kidneys and heart are the highest (about 440 kcal/kg/day), versus about 13 for skeletal muscle and 4.5 for fat, so the kidney runs at roughly 30 times resting muscle (Wang 2010).
 
 ## Drugs That Block the Transporters (Gliflozins)
 - Drug names ending in **-gliflozin** are SGLT inhibitors. ✅
-- **SGLT1 inhibitors:** glucose stays in the gut, creating an osmotic gradient that pulls in water, causing severe diarrhea; Bikman says they are very rarely used for that reason. ✅
-- **SGLT2 inhibitors:** glucose stays in the kidney tubule; osmotic pull produces much more urine, constant thirst, dehydration worry. Glucose in the urinary tract also feeds bacteria (the lecture's marathon aid-station analogy), so UTIs become more frequent and more serious. ✅ He adds, with some edge, that the alternative is eating less glucose.
+- **SGLT1 inhibitors:** glucose stays in the gut, creating an osmotic gradient that pulls in water, causing severe diarrhea; Bikman says they are very rarely used for that reason. ✅ 🟢 Evidence check: no selective SGLT1 blocker is approved; sotagliflozin, which blocks both SGLT1 and SGLT2, was FDA-approved in 2023 for heart failure, and diarrhea is among its known side effects (Siddiqui 2026).
+- **SGLT2 inhibitors:** glucose stays in the kidney tubule; osmotic pull produces much more urine, constant thirst, dehydration worry. Glucose in the urinary tract also feeds bacteria (the lecture's marathon aid-station analogy), so UTIs become more frequent and more serious. 🟡 Evidence check: a meta-analysis of 86 trials (50,880 patients) found genital infections about 3 times more common on SGLT2 inhibitors, but no overall rise in UTIs (only dapagliflozin 10 mg showed one) (Puckrin 2018). He adds, with some edge, that the alternative is eating less glucose.
 
 ## Vesicle-Mediated Transport
 A **vesicle** is a pocket enclosed by its own phospholipid bilayer (same physics as the cell membrane, as in Ch.1), used to bring things in or send things out. ✅
@@ -81,12 +80,12 @@ A **vesicle** is a pocket enclosed by its own phospholipid bilayer (same physics
 | Process | Direction | What it is | Example |
 | --- | --- | --- | --- |
 | **Phagocytosis** (cell eating) | In | Cell engulfs a particle | Phagocytes engulfing particles |
-| **Pinocytosis** (cell drinking) | In | Membrane pinches off a bubble of nearby molecules (not a gulp of water) | Certain B vitamins, vitamin C (as stated) |
+| **Pinocytosis** (cell drinking) | In | Membrane pinches off a bubble of nearby molecules (not a gulp of water) | Certain B vitamins, vitamin C (as stated; in fact these vitamins are absorbed mainly by specific carrier proteins, Said 2011) |
 | **Receptor-mediated endocytosis** | In | Receptors bind a specific molecule, then the cell wraps and pulls it in | LDL binding the LDL receptor |
 | **Exocytosis** | Out | Vesicle fuses with the membrane and releases contents | Beta cell releasing insulin when glucose rises; nerve-to-cell neurotransmitter release |
-| **Transcytosis** | In then out | Endocytosis on one side, exocytosis on the other; passes through without interacting with the cell | Gut absorption of small peptides |
+| **Transcytosis** | In then out | Endocytosis on one side, exocytosis on the other; passes through without interacting with the cell | Gut absorption of small peptides (as stated; in fact di- and tripeptides enter gut cells through the PepT1 transporter, Smith 2013) |
 
-- **LDL is not cholesterol itself:** Bikman describes it as a large particle of fats and proteins; the cell takes it in to access the cholesterol and fats it carries, because cholesterol is "a molecule for life." ✅
+- **LDL is not cholesterol itself:** Bikman describes it as a large particle of fats and proteins; the cell takes it in to access the cholesterol and fats it carries, because cholesterol is "a molecule for life." ✅ (Goldstein 2009)
 
 ## Punchlines & Quotable Facts (Lecture 2)
 - **Molecules never stop moving;** a gradient is just crowded molecules randomly spreading out. No instruction required.
@@ -137,7 +136,7 @@ C. \* Because the sodium-potassium pump on the blood side keeps intracellular so
 - **Cellular energy (what pays for active transport)** — explicitly deferred to later lectures; the Metabolic Mechanisms chapter should cover it.
 - **Nerve signaling and channel gating in depth** — Bikman points to his Fundamentals of Physiology course.
 - **The next lecture is the Central Dogma** (DNA to RNA to protein).
-- **Verify later:** the pinocytosis examples (B vitamins, vitamin C) and the kidney-metabolic-rate figure are lecture assertions I did not cross-check against other sources.
+- **Verify later:** the pinocytosis examples (B vitamins, vitamin C) and the kidney-metabolic-rate figure. Audit result: the vitamins use specific carriers rather than pinocytosis (Said 2011), and the kidney runs at about 30 times resting muscle per kilogram (Wang 2010).
 
 ## What Was Deliberately Cut (Self-Audit)
 - Personal commentary and humor: the Itsy Bitsy Spider and marathon-aid-station imagery beyond one line, the water-balloon-kid aside, his comments on his own aging skin and lecturing posture.
@@ -145,3 +144,18 @@ C. \* Because the sodium-potassium pump on the blood side keeps intracellular so
 - Repeated restatements of the same U-tube and two-container examples, condensed to one version each.
 - The detailed step-by-step narration of the gut cell's three transporters, condensed into a numbered list.
 
+---
+**References:**
+1. Levick JR, Michel CC. Microvascular fluid exchange and the revised Starling principle. *Cardiovasc Res* 2010;87:198-210. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20200043/)
+2. Hieshima K et al. Elevation of the renal threshold for glucose is associated with insulin resistance and higher glycated hemoglobin levels. *J Diabetes Investig* 2020;11:617-625. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31770476/)
+3. Ghezzi C, Loo DDF, Wright EM. Physiology of renal glucose handling via SGLT1, SGLT2 and GLUT2. *Diabetologia* 2018;61:2087-2097. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30132032/)
+4. Koepsell H. Glucose transporters in the small intestine in health and disease. *Pflugers Arch* 2020;472:1207-1248. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32829466/)
+5. Mueckler M, Thorens B. The SLC2 (GLUT) family of membrane transporters. *Mol Aspects Med* 2013;34:121-138. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23506862/)
+6. Richter EA, Hargreaves M. Exercise, GLUT4, and skeletal muscle glucose uptake. *Physiol Rev* 2013;93:993-1017. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23899560/)
+7. Wang Z et al. Specific metabolic rates of major organs and tissues across adulthood: evaluation by mechanistic model of resting energy expenditure. *Am J Clin Nutr* 2010;92:1369-1377. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20962155/)
+8. Siddiqui Z et al. A review of sotagliflozin: the first dual SGLT-1/2 inhibitor. *Cardiol Rev* 2026;34:378-384. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39072631/)
+9. Puckrin R et al. SGLT-2 inhibitors and the risk of infections: a systematic review and meta-analysis of randomized controlled trials. *Acta Diabetol* 2018;55:503-514. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29484489/)
+10. Said HM. Intestinal absorption of water-soluble vitamins in health and disease. *Biochem J* 2011;437:357-372. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21749321/)
+11. Smith DE, Clémençon B, Hediger MA. Proton-coupled oligopeptide transporter family SLC15: physiological, pharmacological and pathological implications. *Mol Aspects Med* 2013;34:323-336. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23506874/)
+12. Goldstein JL, Brown MS. The LDL receptor. *Arterioscler Thromb Vasc Biol* 2009;29:431-438. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19299327/)
+13. ABC News / Associated Press. $16 million ruling in radio contest death (Jennifer Strange, KDND-FM, Sacramento). 2009. [Link](https://6abc.com/archive/7094917/)
