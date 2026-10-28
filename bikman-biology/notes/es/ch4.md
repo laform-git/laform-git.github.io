@@ -9,8 +9,8 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 
 ## El dogma central — El panorama general
 - **Definición:** el flujo de la información genética de **ADN → ARN (transcripción) → proteína (traducción)**. En palabras sencillas: cómo nuestros genes determinan nuestro cuerpo. ✅
-- **Origen:** propuesto por **Francis Crick (Reino Unido) en 1958**, la misma persona que identificó la estructura del ADN. ✅
-- **Por qué la proteína es el punto final:** las células nos forman, pero la *función* celular la determinan las proteínas que expresan. La estatura, el tamaño y la forma del cuerpo, y el color de la piel, el cabello y los ojos dependen de la expresión de proteínas. Bikman dice que el ambiente tiene solo una influencia "muy modesta" sobre esto. ✅
+- **Origen:** propuesto por **Francis Crick (Reino Unido) en 1958**, la misma persona que identificó, junto con James Watson, la estructura del ADN (Crick 1958). ✅
+- **Por qué la proteína es el punto final:** las células nos forman, pero la *función* celular la determinan las proteínas que expresan. La estatura, el tamaño y la forma del cuerpo, y el color de la piel, el cabello y los ojos dependen de la expresión de proteínas. Bikman dice que el ambiente tiene solo una influencia "muy modesta" sobre esto. 🟡 Verificación de evidencia: los genes explican buena parte de la diferencia de estatura entre personas, pero el ambiente no es menor: a lo largo del siglo XX la estatura adulta promedio aumentó unos 20 cm en las mujeres surcoreanas y 16.5 cm en los hombres iraníes, sobre todo por una mejor nutrición y salud (NCD-RisC 2016).
 - **Genotipo vs. fenotipo:** el genotipo es el plano de una casa; el fenotipo es la casa misma. En términos biológicos: código genético = plano, proteína = la estructura. ✅
 - **Gen:** una secuencia de ADN que codifica un producto determinado. Un cromosoma *no* es gen de un extremo a otro; los genes se ubican en regiones selectas con mucho "espacio desperdiciado" no codificante entre ellas. ✅
 - **Dónde ocurre cada cosa:** el ADN permanece en el **núcleo**; el ARN sale al **citosol**, donde ocurre la traducción; la proteína terminada se queda a trabajar o se libera para enviar señales a otro lugar. ✅
@@ -23,13 +23,13 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 ## Paso 1 — Replicación del ADN
 **Propósito:** antes de que una célula se divida (mitosis, próxima lección), necesita dos copias idénticas de su información genética, de modo que una célula hepática siga siendo una célula hepática y las células hijas sean idénticas. La replicación es también lo que permite la herencia a través de los gametos. ✅
 
-**Modelo:** el modelo **semiconservativo**, el más validado de varios mecanismos propuestos. Cada nueva doble hélice contiene **una hebra original y una hebra recién sintetizada**. Con divisiones repetidas, cada vez más células no conservan nada de la hebra física *original*, aunque cada célula tiene una copia funcionalmente idéntica. ✅
+**Modelo:** el modelo **semiconservativo**, el más validado de varios mecanismos propuestos (Meselson 1958). Cada nueva doble hélice contiene **una hebra original y una hebra recién sintetizada**. Con divisiones repetidas, cada vez más células no conservan nada de la hebra física *original*, aunque cada célula tiene una copia funcionalmente idéntica. ✅
 
 | Componente | Función en la replicación | Analogía de Bikman |
 |---|---|---|
 | **Helicasa** | Recorre la hélice y abre a la fuerza el ADN fuertemente enrollado | Tirar de la puerta de un auto para abrirla |
 | **Proteínas de unión a cadena sencilla** | Mantienen las hebras separadas para que no vuelvan a juntarse | Libros encajados en el hueco |
-| **Primasa** | Marca el punto de inicio: "la replicación empieza aquí" (ceba la copia) | — |
+| **Primasa** | Marca el punto de inicio: "la replicación empieza aquí" (ceba la copia colocando un pequeño cebador de ARN, porque la ADN polimerasa no puede iniciar una hebra nueva desde cero) | — |
 | **ADN polimerasa** | Construye el nuevo polímero de ADN; también corrige errores | — |
 | **Ligasa** | Une fragmentos separados en una sola hebra continua | — |
 
@@ -50,7 +50,7 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 | Tipo de ARN | Función |
 |---|---|
 | **ARNm** (mensajero) | La copia del gen que lleva el mensaje fuera del núcleo; la estrella de la transcripción |
-| **ARNt** (de transferencia) | Reconoce un codón específico mediante su anticodón y entrega el aminoácido correspondiente |
+| **ARNt** (de transferencia) | Reconoce un codón específico mediante su antocodón y entrega el aminoácido correspondiente |
 | **ARNr** (ribosómico) | Forma el ribosoma, la máquina que lee el ARNm y le da al ARNt un lugar donde unirse |
 
 - **Por qué se necesita un mensaje de ARN:** el ADN nunca sale del núcleo, y la síntesis de proteínas ocurre fuera de él; el ARNm lleva la instrucción afuera sin poner en riesgo el ADN. ✅
@@ -59,14 +59,14 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 - **Tres fases:** **iniciación** (reconocer una señal de inicio específica), **elongación** (construir la hebra de ARN en crecimiento), **terminación** (reconocer una secuencia de parada específica). ✅
 
 **Maduración: intrones, exones y empalme (splicing)**
-- El ARNm recién hecho es **inmaduro** y **demasiado grande para los poros nucleares**. ✅
+- El ARNm recién hecho es **inmaduro** y **demasiado grande para los poros nucleares**. 🟡 Verificación de evidencia: el tamaño no es el verdadero filtro. Un ARNm sale por los poros solo después de ser procesado y empacado con proteínas de exportación, y la exportación va ligada al empalme, así que los transcritos sin procesar se quedan dentro (Köhler 2007).
 - **Exones** = información codificante; **intrones** = los tramos intermedios no codificantes. ✅
-- El **espliceosoma** (un complejo de proteínas; el sufijo "-oma" significa un complejo o totalidad, como en proteoma o lipidoma) reconoce cada intrón, corta ambos extremos y vuelve a unir las piezas restantes. ✅
-- Resultado: un **ARNm maduro** de aproximadamente **un tercio a un cuarto de la longitud original**, lo bastante pequeño para salir por el poro hacia el citosol. ✅
+- El **espliceosoma** (un complejo de pequeños ARN nucleares y proteínas, en el que el propio ARN hace el corte, Fica 2013; el sufijo "-oma" significa un complejo o totalidad, como en proteoma o lipidoma) reconoce cada intrón, corta ambos extremos y vuelve a unir las piezas restantes. ✅
+- Resultado: un **ARNm maduro** de aproximadamente **un tercio a un cuarto de la longitud original**, lo bastante pequeño para salir por el poro hacia el citosol. 🟡 La proporción se da sin fuente y varía muchísimo entre genes; en muchos genes humanos los intrones son mucho más largos que los exones, así que el ARNm maduro suele ser bastante menos de un cuarto del transcrito original (no verificado como cifra general).
 
 ## Paso 3 — Traducción (ARNm → cadena de aminoácidos)
 - **La regla del codón:** cada **tres nucleótidos** del ARNm forman un **codón**, y cada codón especifica un aminoácido. La secuencia se lee en grupos de tres, uno tras otro. ✅
-- **Redundancia:** varios codones distintos pueden especificar el mismo aminoácido. Ejemplo: **la leucina tiene seis codones**. Cada codón codifica un solo aminoácido, pero un aminoácido tiene varios codones. ✅
+- **Redundancia:** varios codones distintos pueden especificar el mismo aminoácido. Ejemplo: **la leucina tiene seis codones**. Cada codón codifica un solo aminoácido (excepto los tres codones de paro), y la mayoría de los aminoácidos tiene varios codones; la metionina y el triptófano tienen solo uno. ✅
 - **El ribosoma:** una máquina molecular con una **subunidad pequeña y una grande** que recorre el ARNm y proporciona el andamiaje donde se une el ARNt. ✅
 - **La secuencia de eventos:**
   1. La **subunidad pequeña** encuentra el **codón de inicio**.
@@ -74,7 +74,7 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
   3. Un **ARNt** cuyo **anticodón** coincide con el codón se une, deja su aminoácido en el ribosoma y luego se va.
   4. El ribosoma avanza un codón a la vez; cada ARNt correspondiente entrega su aminoácido y se va, y la cadena crece.
   5. En un **codón de parada** (terminación) las subunidades se separan y queda una cadena de aminoácidos libre. ✅
-- **Secuencia líder:** el inicio de la cadena lleva una **secuencia líder** que determina a dónde va la proteína: al núcleo, a las mitocondrias, a otro organelo o fuera de la célula. ✅
+- **Secuencia líder:** el inicio de la cadena lleva una **secuencia líder** que determina a dónde va la proteína: al núcleo, a las mitocondrias, a otro organelo o fuera de la célula. ✅ 🟢 Más exactamente: las señales para el RE (secreción) y para las mitocondrias suelen estar al inicio de la cadena, pero las señales de localización nuclear pueden estar en otras partes de la proteína.
 
 ## Paso 4 — Modificación postraduccional
 - La cadena recién formada **todavía no es funcional**. Otras proteínas la pliegan en estructura secundaria y terciaria, y a veces se une a otras para formar una estructura cuaternaria. ✅
@@ -88,22 +88,22 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 - **La replicación es semiconservativa:** cada nueva doble hélice conserva una hebra original.
 - **La hebra rezagada se construye por partes (fragmentos de Okazaki) porque la polimerasa solo trabaja en una dirección.**
 - **El ARNm maduro puede medir de un tercio a un cuarto de la longitud del transcrito original** después del empalme.
-- **La leucina, por sí sola, tiene seis codones.**
+- **La leucina tiene seis codones** (igual que la serina y la arginina).
 - **Estudio de la hambruna holandesa:** en una sola generación, los hijos de madres expuestas a la hambruna tuvieron más probabilidad de desarrollar sobrepeso y diabetes, lo que Bikman atribuye a la epigenética, no a una mutación.
 
 ## Lo más destacado de las preguntas y respuestas (final de la lección)
 **Mantener sanas las células, y los AGPI (la respuesta de Bikman)**
-- Su respuesta elegida: proteger la integridad de las membranas comiendo "grasas reales" (grasas animales más grasas de frutas como el aceite de oliva, de coco y de aguacate, que pueden extraerse prensando la pulpa) en lugar de aceites de semillas refinados, que según él prácticamente no existían hace ~120 años y llegaron en la década de 1950. ✅ como su postura declarada
-- **El mecanismo que propone:** las grasas poliinsaturadas se incorporan a las membranas y se **peroxidan** con facilidad (el estrés oxidativo empieza con un radical de oxígeno que transfiere su reactividad al lípido). Los peróxidos lipídicos se desplazan libremente por las membranas grasas, pueden dañar el sistema de transporte de electrones mitocondrial (generando más especies reactivas de oxígeno) y pueden atravesar la **envoltura nuclear** y causar **rupturas del ADN**. ✅ como su mecanismo declarado
+- Su respuesta elegida: proteger la integridad de las membranas comiendo "grasas reales" (grasas animales más grasas de frutas como el aceite de oliva, de coco y de aguacate, que pueden extraerse prensando la pulpa) en lugar de aceites de semillas refinados, que según él prácticamente no existían hace ~120 años y llegaron en la década de 1950. ✅ como su postura declarada. 🟡 Verificación de evidencia: en EE. UU. el consumo de aceite de soya aumentó más de 1,000 veces entre 1909 y 1999, un aumento repartido a lo largo del siglo y no iniciado en la década de 1950 (Blasbalg 2011).
+- **El mecanismo que propone:** las grasas poliinsaturadas se incorporan a las membranas y se **peroxidan** con facilidad (el estrés oxidativo empieza con un radical de oxígeno que transfiere su reactividad al lípido). Los peróxidos lipídicos se desplazan libremente por las membranas grasas, pueden dañar el sistema de transporte de electrones mitocondrial (generando más especies reactivas de oxígeno) y pueden atravesar la **envoltura nuclear** y causar **rupturas del ADN**. ✅ como su mecanismo declarado. 🟡 Verificación de evidencia: la química es correcta, ya que las grasas poliinsaturadas son los lípidos más propensos a la peroxidación y sus productos de degradación pueden dañar el ADN (Yin 2011). El efecto en la salud no está demostrado: en datos combinados de cohortes internacionales, las personas con niveles más altos de ácido linoleico (la grasa principal de los aceites de semillas) en sangre y tejidos tuvieron menor riesgo de eventos cardiovasculares (Marklund 2019), mientras que el ensayo de Minnesota no encontró beneficio en la supervivencia al sustituir grasa saturada por aceite de maíz (Ramsden 2016).
 - 🟡 Es una postura argumentada en una sesión de preguntas, no un segmento respaldado con datos: en la lección no se citan estudios. Sus opiniones sobre la carne cultivada en laboratorio o artificial (con grasa obtenida de aceites de semillas baratos) también son opinión.
 
 **¿Por qué existen los intrones?**
-- Bikman: **todavía no conocemos su propósito.** Su propia *especulación*: la longitud no codificante podría actuar como un **amortiguador** estadístico, de modo que un lípido reactivo tenga más probabilidad de impactar una región no codificante, que luego puede eliminarse por empalme sin efecto sobre la información codificante. 🟡 explícitamente especulativo.
+- Bikman: **todavía no conocemos su propósito.** Su propia *especulación*: la longitud no codificante podría actuar como un **amortiguador** estadístico, de modo que un lípido reactivo tenga más probabilidad de impactar una región no codificante, que luego puede eliminarse por empalme sin efecto sobre la información codificante. 🟡 explícitamente especulativo. 🟢 Verificación de evidencia: los intrones sí tienen funciones conocidas. Permiten el empalme alternativo, que afecta a cerca del 95% de los genes humanos con varios exones y permite que un gen produzca varias proteínas (Pan 2008), y contienen secuencias reguladoras.
 - Plantea que la ciencia responde al *cómo* y al *qué*, no al *por qué*, y expresa su propia visión de la biología como diseño inteligente. No es una afirmación científica de la lección; se anota para que esté completo.
 
 **Epigenética**
-- Epigenética: cambios como la **metilación** (también mencionó la carbonilación) que interfieren con la lectura o la expresión del código, aun cuando la secuencia de ADN subyacente está intacta. Pueden surgir en varios puntos (postranscripcionales o postraduccionales, según Bikman) y se ven influidos por factores como el estado metabólico. ✅
-- **Estudio de la hambruna holandesa:** los niños concebidos durante la hambruna posterior a la Segunda Guerra Mundial, de padres sanos, fueron después más propensos al sobrepeso y la diabetes. Como esto ocurrió en una sola generación, no puede ser una mutación genética ni evolución; Bikman lo interpreta como una señal epigenética de "sé ahorrativo, almacena todo" ante la escasez de nutrientes. ✅
+- Epigenética: cambios como la **metilación** (también mencionó la carbonilación) que interfieren con la lectura o la expresión del código, aun cuando la secuencia de ADN subyacente está intacta. Pueden surgir en varios puntos (postranscripcionales o postraduccionales, según Bikman) y se ven influidos por factores como el estado metabólico. ✅ 🟢 Verificación de evidencia: las marcas epigenéticas estándar son la metilación del ADN y las marcas químicas en las histonas (como la acetilación y la metilación), además de algunos ARN reguladores; la carbonilación no suele contarse como marca epigenética.
+- **Estudio de la hambruna holandesa:** los niños expuestos en el vientre materno al Invierno del Hambre neerlandés de 1944-45, al final de la Segunda Guerra Mundial, hijos de padres sanos, fueron después más propensos al sobrepeso y la diabetes. Como esto ocurrió en una sola generación, no puede ser una mutación genética ni evolución; Bikman lo interpreta como una señal epigenética de "sé ahorrativo, almacena todo" ante la escasez de nutrientes. 🟢 Verificación de evidencia: los hijos expuestos sí mostraron más obesidad cuando la exposición fue al inicio del embarazo (Ravelli 1976) y peor tolerancia a la glucosa (Ravelli 1998), y seis décadas después tenían una metilación distinta del gen IGF2 (Heijmans 2008). Que los cambios epigenéticos causen los efectos metabólicos es plausible, pero no está demostrado.
 - **La exposición a la radiación** es otro ejemplo de exposición que puede alterar la expresión (demasiada o muy poca cantidad de una proteína determinada). ✅
 
 ## Correcciones clave para recordar
@@ -133,7 +133,7 @@ C. El ribosoma entra al núcleo y traduce el ARNm allí, así que no hace falta 
 A. Cada codón puede especificar varios aminoácidos, así que el ribosoma tiene que adivinar
 B. \* Es redundante en un solo sentido: cada codón especifica un único aminoácido, pero un mismo aminoácido puede ser especificado por varios codones
 C. Solo la leucina tiene varios codones, porque es el principal aminoácido para formar músculo
-*Por qué B: Bikman subraya que cada aminoácido tiene varios codones posibles, mientras que el ribosoma lee los codones en tripletes, y cada uno se aparea con un anticodón de ARNt y su único aminoácido.*
+*Por qué B: Bikman subraya que cada aminoácido tiene varios codones posibles (en realidad la metionina y el triptófano tienen solo uno), mientras que el ribosoma lee los codones en tripletes, y cada uno se aparea con un anticodón de ARNt y su único aminoácido.*
 
 **4. Dado el argumento de Bikman sobre los aceites de semillas refinados y el ADN — ¿qué cadena de razonamiento está planteando realmente (y qué debes recordar sobre su nivel de evidencia)?**
 A. Las grasas de los aceites de semillas son demasiado grandes para entrar a las células, así que impiden que los ribosomas traduzcan proteínas
@@ -152,3 +152,32 @@ C. \* Las membranas enriquecidas con grasas poliinsaturadas son propensas a la p
 - El largo recorrido con gestos sobre exactamente dónde empieza la polimerasa en cada hebra, condensado a la regla y el resultado porque la transcripción es ambigua en esa parte.
 - Sus comentarios filosóficos y teológicos sobre el diseño y el por qué vs. el cómo, reducidos a una línea marcada.
 - El repaso del material sobre biomoléculas y enzimas ya cubierto en el Cap. 3.
+
+---
+**Referencias:**
+1. Crick FH. Sobre la síntesis de proteínas [*título original: On protein synthesis*]. *Symp Soc Exp Biol* 1958;12:138-163. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/13580867/)
+   - El texto de 1958 donde Crick planteó el dogma central.
+2. NCD Risk Factor Collaboration (NCD-RisC). Un siglo de tendencias en la estatura adulta humana [*título original: A century of trends in adult human height*]. *eLife* 2016;5:e13410. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/27458798/)
+   - Muestra aumentos de estatura de hasta unos 20 cm en un siglo, prueba de que el ambiente pesa.
+3. Meselson M, Stahl FW. La replicación del ADN en Escherichia coli [*título original: The replication of DNA in Escherichia coli*]. *Proc Natl Acad Sci U S A* 1958;44:671-682. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/16590258/)
+   - El experimento clásico que demostró la replicación semiconservativa.
+4. Köhler A, Hurt E. La exportación del ARN del núcleo al citoplasma [*título original: Exporting RNA from the nucleus to the cytoplasm*]. *Nat Rev Mol Cell Biol* 2007;8:761-773. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/17786152/)
+   - Explica que el ARNm sale del núcleo con proteínas de exportación y que este paso va ligado al empalme.
+5. Fica SM et al. El ARN cataliza el empalme del pre-ARNm nuclear [*título original: RNA catalyses nuclear pre-mRNA splicing*]. *Nature* 2013;503:229-234. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/24196718/)
+   - Demuestra que en el espliceosoma es un ARN el que realiza el corte.
+6. Pan Q et al. Exploración profunda de la complejidad del empalme alternativo en el transcriptoma humano [*título original: Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing*]. *Nat Genet* 2008;40:1413-1415. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/18978789/)
+   - Cerca del 95% de los genes humanos con varios exones tienen empalme alternativo.
+7. Blasbalg TL et al. Cambios en el consumo de ácidos grasos omega-3 y omega-6 en Estados Unidos durante el siglo XX [*título original: Changes in consumption of omega-3 and omega-6 fatty acids in the United States during the 20th century*]. *Am J Clin Nutr* 2011;93:950-962. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/21367944/)
+   - El consumo de aceite de soya aumentó más de 1,000 veces entre 1909 y 1999.
+8. Yin H, Xu L, Porter NA. Peroxidación lipídica por radicales libres: mecanismos y análisis [*título original: Free radical lipid peroxidation: mechanisms and analysis*]. *Chem Rev* 2011;111:5944-5972. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/21861450/)
+   - Respalda la química: las grasas poliinsaturadas se oxidan con facilidad.
+9. Marklund M et al. Biomarcadores de ácidos grasos omega-6 de la dieta y enfermedad cardiovascular y mortalidad [*título original: Biomarkers of dietary omega-6 fatty acids and incident cardiovascular disease and mortality*]. *Circulation* 2019;139:2422-2436. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/30971107/)
+   - Niveles más altos de ácido linoleico se asociaron con menor riesgo cardiovascular.
+10. Ramsden CE et al. Reevaluación de la hipótesis tradicional dieta-corazón: análisis de los datos recuperados del Minnesota Coronary Experiment (1968-73) [*título original: Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)*]. *BMJ* 2016;353:i1246. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/27071971/)
+   - El aceite de maíz bajó el colesterol, pero no redujo las muertes.
+11. Ravelli GP, Stein ZA, Susser MW. Obesidad en hombres jóvenes tras la exposición a la hambruna en el útero y en la primera infancia [*título original: Obesity in young men after famine exposure in utero and early infancy*]. *N Engl J Med* 1976;295:349-353. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/934222/)
+   - La exposición en la primera mitad del embarazo se asoció con más obesidad a los 19 años.
+12. Ravelli AC et al. Tolerancia a la glucosa en adultos tras la exposición prenatal a la hambruna [*título original: Glucose tolerance in adults after prenatal exposure to famine*]. *Lancet* 1998;351:173-177. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/9449872/)
+   - Los adultos expuestos tuvieron glucosa más alta tras una carga de glucosa.
+13. Heijmans BT et al. Diferencias epigenéticas persistentes asociadas con la exposición prenatal a la hambruna en humanos [*título original: Persistent epigenetic differences associated with prenatal exposure to famine in humans*]. *Proc Natl Acad Sci U S A* 2008;105:17046-17049. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/18955703/)
+   - Seis décadas después, los expuestos tenían menos metilación del gen IGF2 que sus hermanos.
