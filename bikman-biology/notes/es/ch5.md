@@ -18,7 +18,7 @@ Esta lección toma la maquinaria de replicación del ADN y de expresión génica
 ## Por qué se dividen las células — El crecimiento es sobre todo multiplicación
 El crecimiento del organismo es una cantidad modesta de agrandamiento celular (hipertrofia) más una contribución mucho mayor de multiplicación celular (**hiperplasia**). ✅ Las neuronas, una vez maduras, no se dividen y son difíciles de reemplazar. ✅ Las células grasas son el tipo celular que Bikman investiga y el ejemplo destacado de una célula que hace ambas cosas:
 - Desde el nacimiento hasta la pubertad: las células grasas se agrandan y se multiplican. ✅
-- Después de la pubertad: el **número** de células grasas **generalmente queda fijo** de por vida, así que el aumento de grasa posterior es sobre todo la expansión de las células existentes. ✅ (Lo plantea como el patrón común, "generalmente".)
+- Después de la pubertad: el **número** de células grasas **generalmente queda fijo** de por vida, así que el aumento de grasa posterior es sobre todo la expansión de las células existentes. ✅ (Lo plantea como el patrón común, "generalmente".) 🟢 Verificación de evidencia: el número de células grasas se mantiene más o menos constante en los adultos, incluso tras perder mucho peso, pero cada año se renueva cerca del 10% de ellas (Spalding 2008).
 - Llama a la expansión la vía más común y la más problemática, y remite a su serie "Why We Get Sick" para el porqué.
 
 ## El ciclo celular — IPMAT
@@ -26,7 +26,7 @@ El ciclo celular es una serie de eventos programada y cronometrada con precisió
 
 | Fase | Qué ocurre | Conteo de cromosomas |
 |---|---|---|
-| **Interfase: G1 (Gap 1)** | La célula revisa la salud de todo el cuerpo: "¿estoy bien para comprometerme a dividirme?" También es una fase de crecimiento — los organelos (mitocondrias, RE, peroxisomas, lisosomas, centrosomas) se duplican. | 46 |
+| **Interfase: G1 (Gap 1)** | La célula revisa la salud de todo el cuerpo: "¿estoy bien para comprometerme a dividirme?" También es una fase de crecimiento — los organelos (mitocondrias, RE, peroxisomas, lisosomas) se duplican; el centrosoma empieza a duplicarse en la transición G1/S y termina hacia G2 (Nigg 2018). | 46 |
 | **Interfase: S (Síntesis)** | Se replica el ADN; cada cromosoma obtiene una hermana idéntica. | 46 cromosomas, cada uno ahora duplicado (92 cromátidas) |
 | **Interfase: G2 (Gap 2)** | Segunda autoinspección minuciosa: ¿la replicación quedó libre de errores? Si es así, se compromete. | Igual |
 | **Profase** | La cromatina se condensa en cromosomas; la envoltura nuclear se disuelve; los centrosomas se desplazan a polos opuestos y extienden las fibras del huso. | 46 (92 cromátidas) |
@@ -46,7 +46,7 @@ El ciclo celular es una serie de eventos programada y cronometrada con precisió
 
 | Característica | Mitosis | Meiosis |
 |---|---|---|
-| **Células que la realizan** | Prácticamente todas las células del cuerpo (somáticas) | Solo las espermatogonias (testículos) y las ovogonias (ovarios) |
+| **Células que la realizan** | Prácticamente todas las células del cuerpo (somáticas) | Solo las células germinales de las gónadas (se mencionan las espermatogonias y las ovogonias; en sentido estricto, estas se dividen por mitosis y son sus células hijas, los espermatocitos y ovocitos primarios, las que hacen la meiosis) |
 | **Divisiones** | Una | Dos (meiosis I, meiosis II) |
 | **Tipo de división** | Ecuacional (mismo número de cromosomas) | Meiosis I reduccional (de 46 a 23); meiosis II ecuacional |
 | **Entrecruzamiento** | No | Sí, en la profase I (los homólogos hacen sinapsis e intercambian secciones) |
@@ -58,7 +58,7 @@ El ciclo celular es una serie de eventos programada y cronometrada con precisió
 - **Profase I:** los cromosomas homólogos (p. ej., el cromosoma 10 de la madre y el del padre) se aparean, se tocan en una sinapsis e intercambian secciones de genes equivalentes antes de separarse. Genes como "diez dedos" no se mezclan visiblemente; los genes de la estatura, la forma del cuerpo y la tez sí.
 - **Meiosis I:** se separan los homólogos (no las cromátidas hermanas), lo que da dos células con 23 cromosomas cada una, cada cromosoma todavía duplicado.
 - **Meiosis II:** se parece a la mitosis; se separan las cromátidas hermanas, lo que da cuatro células con 23 cromosomas sencillos. No hay más entrecruzamiento.
-- Sin entrecruzamiento, todos los hijos de los mismos dos padres serían idénticos; la variabilidad protege a la especie. 🟢
+- Sin entrecruzamiento, todos los hijos de los mismos dos padres serían idénticos; la variabilidad protege a la especie. 🔴 Verificación de evidencia: no es así. Aun sin entrecruzamiento, el reparto al azar de los 23 pares de cromosomas le da a cada progenitor unos 8.4 millones (2^23) de gametos posibles; el entrecruzamiento añade todavía más variedad.
 
 ## Cuando la división falla
 El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro que la división funcione tan seguido como lo hace, y cada condición de abajo es poco común. ✅
@@ -72,11 +72,11 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 | **Translocación** | Intercambio entre cromosomas no homólogos | 14 y 21 (robertsoniana), leucemia mieloide crónica (LMC) |
 | **Deleción** | Una sección no se transfiere y se pierde | Cromosoma 5, cri du chat (llanto como de gato, bajo peso al nacer, microcefalia) |
 
-🟡 Bikman atribuye estos errores al entrecruzamiento meiótico. Los ejemplos de cáncer como MYC, LMA y LMC suelen describirse como cambios adquiridos en células del cuerpo, algo que la lección no distingue; toma los vínculos con enfermedades específicas como ejemplos suyos, no como una explicación completa.
+🟡 Bikman atribuye estos errores al entrecruzamiento meiótico. Los ejemplos de cáncer como MYC, LMA y LMC suelen describirse como cambios adquiridos en células del cuerpo, algo que la lección no distingue; toma los vínculos con enfermedades específicas como ejemplos suyos, no como una explicación completa. En concreto: la LMC se define por la translocación 9;22 (el cromosoma Filadelfia, BCR-ABL1), no por la 14;21 (Shammas 2025); una translocación robertsoniana 14;21 es, en cambio, una causa conocida de síndrome de Down heredado (por translocación); la inv(16) es un subtipo reconocido de LMA (Talami 2021); y las ganancias de MYC aparecen en un subgrupo de cánceres de mama, no son una causa común.
 
 **Aneuploidía: el número equivocado de cromosomas**
 - La **trisomía** (tres copias en lugar de dos) es relativamente más común; la **monosomía** (una copia) es más rara porque suele ser letal para el embrión. ✅
-- **Causa: no disyunción**, una falla de los cromosomas para separarse en la meiosis I o la meiosis II, que da un gameto con una copia extra y otro sin ninguna. ✅
+- **Causa: no disyunción**, una falla de los cromosomas para separarse en la meiosis I o la meiosis II, que da un gameto con una copia extra y otro sin ninguna. ✅ (Hassold 2001)
 - **Trisomías autosómicas (las tres más comunes):**
   - **Trisomía 13, síndrome de Patau:** discapacidad intelectual grave, polidactilia, microcefalia.
   - **Trisomía 18, síndrome de Edwards:** riñones y órganos malformados, intestinos que sobresalen del abdomen, bebé muy pequeño.
@@ -90,21 +90,21 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 🟡 La redacción de la transcripción sobre el síndrome de Down describe la "macroglosia" como una mandíbula demasiado grande; macroglosia significa lengua agrandada. Probablemente un error al hablar; no se trasladó a las correcciones de abajo.
 
 ## Cómo se define el sexo y cómo se desarrolla
-**Definición de sexo.** El cariotipo falla en los casos límite (XXY, solo X), así que Bikman define el sexo por el **tipo de gameto**: espermatozoide significa masculino, óvulo/ovocito significa femenino. Afirma que ningún ser humano ha producido nunca ambos y por eso dice que el sexo es binario. ✅ (Es su postura declarada; presentada como contenido de la lección.)
+**Definición de sexo.** El cariotipo falla en los casos límite (XXY, solo X), así que Bikman define el sexo por el **tipo de gameto**: espermatozoide significa masculino, óvulo/ovocito significa femenino. Afirma que ningún ser humano ha producido nunca ambos y por eso dice que el sexo es binario. ✅ (Es su postura declarada; presentada como contenido de la lección.) 🟡 Verificación de evidencia: definir el sexo por el tipo de gameto es la definición biológica estándar. Existen diferencias del desarrollo sexual poco frecuentes, incluidos casos ovotesticulares con tejido ovárico y testicular (Lee 2006); no está verificado que algún ser humano haya producido ambos gametos funcionales.
 
 **La cascada del desarrollo**
 1. El **gen SRY** (región determinante del sexo del Y, brazo corto) se transcribe y se traduce en **TDF, factor determinante de los testículos**. ✅
 2. **Con TDF:** las gónadas embrionarias se convierten en **testículos**: espermatogonias, **células de Sertoli**, **células de Leydig**. ✅
-3. **Sin TDF:** camino por defecto hacia el ovario: ovogonias, **células de la granulosa**, **células de la teca**. Un ovario funcional aún necesita **dos cromosomas X**. ✅
+3. **Sin TDF:** camino por defecto hacia el ovario: ovogonias, **células de la granulosa**, **células de la teca**. Un ovario funcional aún necesita **dos cromosomas X**. ✅ 🟢 Verificación de evidencia: "por defecto" es una simplificación. El desarrollo del ovario es un programa activo, impulsado por sus propios genes (WNT4, RSPO1, FOXL2), y no solo la ausencia del SRY (Biason-Lauber 2012).
 
 | Tipo de célula | Vía masculina (con TDF) | Vía femenina (por defecto) |
 |---|---|---|
 | Células germinales | Espermatogonias (espermatozoides) | Ovogonias (óvulos) |
 | De soporte | Células de Sertoli (producen hormona antimülleriana, AMH) | Células de la granulosa |
-| Productoras de esteroides | Células de Leydig (principal fuente de testosterona) | Células de la teca (principal producción de estrógeno) |
+| Productoras de esteroides | Células de Leydig (principal fuente de testosterona) | Células de la teca (producen andrógenos, que las células de la granulosa vecinas convierten en estrógeno mediante la aromatasa; la lección atribuye el estrógeno a la teca, Simpson 2002) |
 
 **Estructuras internas.** El embrión empieza con ambos juegos. ✅
-- La **testosterona** de las células de Leydig estimula las estructuras masculinas (conducto deferente, epidídimo, próstata).
+- La **testosterona** de las células de Leydig estimula las estructuras masculinas (conducto deferente, epidídimo, próstata); en sentido estricto, la próstata y los genitales externos responden a la dihidrotestosterona (DHT), que se forma a partir de la testosterona (Hughes 2012).
 - La **AMH** de las células de Sertoli destruye las estructuras müllerianas (femeninas) (útero, trompas de Falopio, vagina interna).
 - **Lo predeterminado es femenino**; el desarrollo masculino tiene que ser instruido activamente. ✅
 
@@ -112,13 +112,13 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 
 | Condición | Genotipo | Qué falló | Resultado |
 |---|---|---|---|
-| **Disgenesia gonadal XY (Swyer)** | XY | SRY eliminado | Sin TDF, así que cuerpo femenino y estructuras internas femeninas; gónadas no funcionales, estéril, sin pubertad espontánea (necesita hormonas) |
-| **Disgenesia gonadal XX** | XX | SRY se entrecruzó a una X | Estructuras internas y externas masculinas; testículos pequeños, firmes, que no producen espermatozoides; estéril |
+| **Disgenesia gonadal XY (Swyer)** | XY | SRY eliminado o mutado (solo cerca del 10-15% de los casos; otros genes causan el resto, Idris 2025) | Sin TDF, así que cuerpo femenino y estructuras internas femeninas; gónadas no funcionales, estéril, sin pubertad espontánea (necesita hormonas) |
+| **DSD testicular 46,XX ("varón XX"; la lección lo llama disgenesia gonadal XX)** | XX | SRY se entrecruzó a una X (el SRY se encuentra en cerca de 9 de cada 10 casos, Terribile 2019) | Estructuras internas y externas masculinas; testículos pequeños, firmes, que no producen espermatozoides; estéril |
 | **Defecto del receptor de andrógenos** | XY | El cuerpo no puede detectar la testosterona | Nace con apariencia externa femenina, vagina en fondo de saco ciego, sin estructuras sexuales internas (la AMH eliminó las femeninas; no hay señal de testosterona utilizable para las masculinas) |
 
-✅ En el caso del defecto del receptor, el cerebro no puede detectar la testosterona, así que **la retroalimentación negativa nunca la apaga**. La testosterona sube muy por encima de lo normal, la **aromatasa** convierte gran parte de ella en estrógeno, y la pubertad produce desarrollo de mamas y caderas. El vello corporal se mantiene como el de un niño y la estatura tiende a ser un poco mayor que la de la mujer promedio.
+✅ En el caso del defecto del receptor, el cerebro no puede detectar la testosterona, así que **la retroalimentación negativa nunca la apaga**. La testosterona sube muy por encima de lo normal, la **aromatasa** convierte gran parte de ella en estrógeno, y la pubertad produce desarrollo de mamas y caderas. El vello corporal se mantiene como el de un niño y la estatura tiende a ser un poco mayor que la de la mujer promedio. (Hughes 2012)
 
-✅ **"Cada pizca de estrógeno en cada hombre y cada mujer fue alguna vez testosterona,"** convertida por la aromatasa (más activa en las mujeres que en los hombres).
+🟡 **"Cada pizca de estrógeno en cada hombre y cada mujer fue alguna vez testosterona,"** convertida por la aromatasa (más activa en las mujeres que en los hombres). Verificación de evidencia: todo estrógeno se fabrica a partir de un andrógeno, pero no siempre de la testosterona: la aromatasa convierte la androstenediona en estrona y la testosterona en estradiol (Simpson 2002).
 
 ## Frases clave y datos citables (Lección 5)
 - **"Realmente es un milagro que salgan bien tan seguido como lo hacen."** — el tema recurrente de toda la lección.
@@ -127,10 +127,10 @@ El planteamiento de Bikman es que pueden fallar tantas cosas que es un milagro q
 - **Después de la pubertad, el número de células grasas generalmente queda fijo**; el aumento de grasa posterior es sobre todo la expansión de las células existentes.
 - **La mitosis es ecuacional; la meiosis I es reduccional y la meiosis II ecuacional.**
 - **El entrecruzamiento es la razón por la que los hermanos son diferentes.**
-- **El cromosoma Y es el más pequeño pero "pelea en una categoría de peso mayor"** porque lleva el SRY.
+- **El cromosoma Y es uno de los más pequeños (los cromosomas 21 y 22 son más chicos; NCBI GRCh38; el Y completo mide unos 62 Mb, Rhie 2023) pero "pelea en una categoría de peso mayor"** porque lleva el SRY.
 - **El sexo se define por el gameto que produce una persona**, no por el cariotipo.
 - **La vía de desarrollo predeterminada es la femenina**; las estructuras masculinas tienen que ser instruidas.
-- **Cada molécula de estrógeno fue alguna vez testosterona.**
+- **Cada molécula de estrógeno fue alguna vez un andrógeno** (testosterona o androstenediona).
 
 ## Correcciones clave para recordar
 - 🔴 Suponer que 46 cromosomas significa 46 cosas separadas: después de la fase S un cromosoma está duplicado (92 cromátidas) pero se sigue contando como un cromosoma hasta que la anafase separa a las hermanas.
@@ -160,7 +160,7 @@ C. La mitosis incluye entrecruzamiento, pero la meiosis no
 A. Una deleción de parte del cromosoma 5 durante el entrecruzamiento
 B. \* Una no disyunción en la meiosis I o II, de modo que un gameto llevó dos copias del cromosoma 21 y se combinó con un gameto normal del otro progenitor
 C. El SRY se trasladó del cromosoma Y a una X
-*Por qué B: la no disyunción se describe como la falla de los cromosomas para separarse en cualquiera de las dos divisiones meióticas; cualquiera de las dos vías puede dar una copia extra que se une a un gameto normal. La deleción del cromosoma 5 es el cri du chat, y el traslado del SRY es la disgenesia gonadal XX.*
+*Por qué B: la no disyunción se describe como la falla de los cromosomas para separarse en cualquiera de las dos divisiones meióticas; cualquiera de las dos vías puede dar una copia extra que se une a un gameto normal. La deleción del cromosoma 5 es el cri du chat, y el traslado del SRY causa el DSD testicular 46,XX ("varón XX").*
 
 **4. Una persona con cromosomas XY tiene testículos funcionales que producen testosterona, pero una mutación impide que el cuerpo la detecte. ¿Qué predice la lección?**
 A. Un cuerpo masculino típico con pubertad normal
@@ -180,3 +180,32 @@ C. \* Un cuerpo de apariencia femenina con testosterona muy alta (sin retroalime
 - Las descripciones físicas detalladas de los síndromes de trisomía más allá de los rasgos principales.
 - Las repeticiones del mecanismo de replicación del ADN (hebras adelantada/rezagada 3' a 5') ya cubierto en la lección del dogma central.
 - Errores de la transcripción anotados pero no trasladados: "síntesis" por sinapsis, "miótico" por mitótico, y células "leading" por células de Leydig.
+
+---
+**Referencias:**
+1. Spalding KL et al. Dinámica de la renovación de las células grasas en humanos [*título original: Dynamics of fat cell turnover in humans*]. *Nature* 2008;453:783-787. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/18454136/)
+   - El número de células grasas se fija en la adolescencia y se mantiene en la edad adulta, con una renovación de cerca del 10% al año.
+2. Nigg EA, Holland AJ. Una vez y solo una vez: mecanismos de duplicación del centriolo y sus alteraciones en la enfermedad [*título original: Once and only once: mechanisms of centriole duplication and their deregulation in disease*]. *Nat Rev Mol Cell Biol* 2018;19:297-312. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/29363672/)
+   - Explica cuándo se duplica el centrosoma dentro del ciclo celular.
+3. Hassold T, Hunt P. Errar (meióticamente) es humano: el origen de la aneuploidía humana [*título original: To err (meiotically) is human: the genesis of human aneuploidy*]. *Nat Rev Genet* 2001;2:280-291. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/11283700/)
+   - La aneuploidía aparece en al menos 5% de los embarazos reconocidos y surge por no disyunción.
+4. Shammas T et al. BCR-ABL: el cerebro molecular detrás de la leucemia mieloide crónica [*título original: BCR-ABL: the molecular mastermind behind chronic myeloid leukemia*]. *Cytokine Growth Factor Rev* 2025;83:45-58. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/40360311/)
+   - La LMC se debe a la translocación 9;22 (cromosoma Filadelfia).
+5. Talami A et al. Cómo mejorar el pronóstico de la leucemia mieloide aguda con el transcrito de fusión CBFB-MYH11 [*título original: How to improve prognostication in acute myeloid leukemia with CBFB-MYH11 fusion transcript: focus on the role of molecular measurable residual disease (MRD) monitoring*]. *Biomedicines* 2021;9(8):953. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/34440157/)
+   - Confirma que la LMA con inv(16) es un subtipo reconocido.
+6. Lee PA et al. Declaración de consenso sobre el manejo de los trastornos intersexuales [*título original: Consensus statement on management of intersex disorders*]. *Pediatrics* 2006;118:e488-e500. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/16882788/)
+   - Define las diferencias del desarrollo sexual, incluidos los casos ovotesticulares.
+7. Biason-Lauber A. WNT4, RSPO1 y FOXL2 en el desarrollo sexual [*título original: WNT4, RSPO1, and FOXL2 in sex development*]. *Semin Reprod Med* 2012;30:387-395. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23044875/)
+   - Muestra que el desarrollo del ovario es un proceso activo, no un simple camino "por defecto".
+8. Simpson ER et al. Aromatasa: una breve revisión [*título original: Aromatase - a brief overview*]. *Annu Rev Physiol* 2002;64:93-127. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/11826265/)
+   - La aromatasa convierte andrógenos (androstenediona y testosterona) en estrógenos.
+9. Hughes IA et al. Síndrome de insensibilidad a los andrógenos [*título original: Androgen insensitivity syndrome*]. *Lancet* 2012;380:1419-1428. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/22698698/)
+   - Describe el cuadro clínico del defecto del receptor de andrógenos y el papel de la DHT.
+10. Idris FP et al. Análisis funcional de variantes de SRY en personas con diferencias del desarrollo sexual 46,XY [*título original: Functional analysis of SRY variants in individuals with 46,XY differences of sex development*]. *Mol Cell Endocrinol* 2025;598:112458. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/39788310/)
+   - Las variantes de SRY explican solo el 10-15% de las disgenesias gonadales 46,XY.
+11. Terribile M et al. Trastorno testicular del desarrollo sexual 46,XX: reporte de caso y revisión sistemática [*título original: 46,XX testicular disorder of sex development (DSD): a case report and systematic review*]. *Medicina (Kaunas)* 2019;55(7):371. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/31336995/)
+   - El SRY se detectó en 51 de 57 casos de "varón XX", casi siempre en el brazo corto de la X.
+12. Rhie A et al. La secuencia completa de un cromosoma Y humano [*título original: The complete sequence of a human Y chromosome*]. *Nature* 2023;621:344-354. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/37612512/)
+   - El cromosoma Y completo mide unos 62 millones de pares de bases.
+13. Secuencias de referencia del NCBI, ensamblaje primario GRCh38.p14: cromosoma 21 (NC_000021.9, 46.7 Mb), cromosoma 22 (NC_000022.11, 50.8 Mb), cromosoma Y (NC_000024.10, 57.2 Mb) [*título original: NCBI Reference Sequences, GRCh38.p14 primary assembly*]. [Enlace (en inglés)](https://www.ncbi.nlm.nih.gov/nuccore/NC_000021.9)
+   - Muestra que los cromosomas 21 y 22 son más pequeños que el Y.
