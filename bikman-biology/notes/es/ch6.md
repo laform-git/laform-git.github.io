@@ -31,7 +31,7 @@ La lección recorre tres pasos en orden: **(1) catabolismo de nutrientes → (2)
 
 | Paso | Dónde | Entrada | Salida | Principal punto de control |
 |---|---|---|---|---|
-| **1a. Glucólisis** | Citosol | Glucosa (6C) | 2 piruvatos (3C), NADH, un poco de ATP | Reacciones 1, 3, 9 (enzimas unidireccionales) — la insulina las activa, el glucágon las apaga |
+| **1a. Glucólisis** | Citosol | Glucosa (6C) | 2 piruvatos (3C), NADH, un poco de ATP | Reacciones 1, 3, 9 (enzimas unidireccionales) — la insulina las activa, el glucagón las apaga |
 | **1b. Lipólisis → beta-oxidación** | Célula grasa (lipólisis); mitocondrias de cualquier célula (beta-oxidación) | Triglicérido → ácidos grasos libres | Unidades de acetil-CoA de 2 carbonos | La insulina custodia la gota lipídica; CAT1/CAT2 controlan la entrada a las mitocondrias |
 | **2. Ciclo del citrato** | Matriz mitocondrial | Acetil-CoA (2C) | 1 ATP, 3 NADH, 1 FADH₂, 2 CO₂ por vuelta | La citrato sintasa es inhibida por su propio producto (citrato) |
 | **3. Transporte de electrones + ATP sintasa** | Membrana mitocondrial interna | NADH, FADH₂, O₂ | ~2.5 ATP por NADH, ~1.5 por FADH₂; agua | Suministro de transportadores de electrones; oxígeno como aceptor final |
@@ -70,11 +70,11 @@ Bikman subraya que **el NADH y el FADH₂ no son ATP** — son transportadores d
 - 🟡 La afirmación de Bikman de que el lactato "no contribuye a ningún problema en absoluto" se plantea con fuerza y sin matices en esta lección; tómala como su postura, no como una regla general establecida. Hoy el lactato se ve sobre todo como un combustible y una señal que circula entre tejidos (Brooks 2018), aunque un lactato alto en sangre sigue siendo un marcador de enfermedad grave, como el choque.
 
 ## La gluconeogénesis y la regla del ciclo fútil
-- Las tres enzimas glucóliticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
-- **Regulación recíproca:** la insulina **activa** las tres enzimas glucóliticas y **apaga** las enzimas de desvío; el glucágon hace exactamente lo contrario. La insulina y el glucágon nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. 🟡 Verificación de evidencia: sí pueden estar altos juntos; en la diabetes mal controlada el glucágon está elevado de forma inapropiada aunque la insulina esté alta (Unger 2012).
+- Las tres enzimas glucolíticas unidireccionales (reacciones 1, 3, 9) son los **puntos de regulación**; la gluconeogénesis usa **enzimas de desvío** que las rodean (tres pasos necesitan desvíos). ✅
+- **Regulación recíproca:** la insulina **activa** las tres enzimas glucolíticas y **apaga** las enzimas de desvío; el glucagón hace exactamente lo contrario. La insulina y el glucagón nunca están altos al mismo tiempo, así que la célula nunca corre en ambas direcciones a la vez. 🟡 Verificación de evidencia: sí pueden estar altos juntos; en la diabetes mal controlada el glucagón está elevado de forma inapropiada aunque la insulina esté alta (Unger 2012).
 - Un ciclo que construye y descompone lo mismo simultáneamente es un **ciclo fútil** — "la célula aborrece la falta de eficiencia". ✅
-- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucóliticas. ✅
-- 🟢 Lógica práctica: después de una comida rica en almidón, la insulina sube y se quema glucosa; con el ayuno o la restricción de carbohidratos, el glucágon sube, el cuerpo cambia hacia la quema de grasa, y el hígado fabrica la pequeña cantidad de glucosa que todavía necesitan las células sin mitocondrias (como los glóbulos rojos).
+- El propio estado energético de la célula también regula: abundancia de ATP inhibe las enzimas glucolíticas. ✅
+- 🟢 Lógica práctica: después de una comida rica en almidón, la insulina sube y se quema glucosa; con el ayuno o la restricción de carbohidratos, el glucagón sube, el cuerpo cambia hacia la quema de grasa, y el hígado fabrica la pequeña cantidad de glucosa que todavía necesitan las células sin mitocondrias (como los glóbulos rojos).
 
 ## Lipólisis → beta-oxidación → acetil-CoA
 - **La célula grasa:** una gota lipídica gigante de **triglicérido** (esqueleto de glicerol más ácidos grasos) empuja el núcleo y los organelos hacia el borde. Una **monocapa de fosfolípidos** (colas hacia dentro, cabezas hacia fuera) recubre la gota y la custodia. ✅
@@ -197,7 +197,7 @@ C. El lactato es una toxina que daña las terminaciones nerviosas
 7. Brooks GA. La ciencia y la aplicación de la teoría de la lanzadera de lactato [*título original: The science and translation of lactate shuttle theory*]. *Cell Metab* 2018;27:757-785. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/29617642/)
    - Presenta el lactato como combustible y señal que circula entre tejidos.
 8. Unger RH, Cherrington AD. Reestructuración glucagonocéntrica de la diabetes [*título original: Glucagonocentric restructuring of diabetes: a pathophysiologic and therapeutic makeover*]. *J Clin Invest* 2012;122:4-12. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/22214853/)
-   - Señala que el glucágon está elevado en la diabetes, lo que contradice que insulina y glucágon nunca estén altos juntos.
+   - Señala que el glucagón está elevado en la diabetes, lo que contradice que insulina y glucagón nunca estén altos juntos.
 9. Lass A et al. La lipólisis: un complejo multienzimático muy regulado que degrada las reservas de grasa celular [*título original: Lipolysis - a highly regulated multi-enzyme complex mediates the catabolism of cellular fat stores*]. *Prog Lipid Res* 2011;50:14-27. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/21087632/)
    - Describe la perilipina-1 y las lipasas que controlan la salida de la grasa.
 10. Bartness TJ et al. Inervación del tejido adiposo blanco y control de la lipólisis [*título original: Neural innervation of white adipose tissue and the control of lipolysis*]. *Front Neuroendocrinol* 2014;35:473-493. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/24736043/)
