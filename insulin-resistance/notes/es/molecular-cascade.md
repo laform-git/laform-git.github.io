@@ -79,7 +79,7 @@ La resistencia a la insulina no es una cerradura rota: es una cadena de fichas d
 
 - Akt expulsa a FOXO1 del núcleo → los genes PEPCK y G6Pasa se silencian
 - ✅ Sólido como roca
-- En el cuerpo completo, buena parte de la supresión rápida de la producción de glucosa del hígado es indirecta —al frenar la degradación de grasa (lipólisis) en el tejido adiposo y el glucágon—, no solo esta señal directa en el hígado 🟢 (Petersen & Shulman 2018)
+- En el cuerpo completo, buena parte de la supresión rápida de la producción de glucosa del hígado es indirecta —al frenar la degradación de grasa (lipólisis) en el tejido adiposo y el glucagón—, no solo esta señal directa en el hígado 🟢 (Petersen & Shulman 2018)
 
 **Efecto 4 — Síntesis de grasa y proteína**
 
