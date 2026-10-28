@@ -1,0 +1,394 @@
+{
+ "title": {
+  "en": "Latter-day Saints (Mormons)",
+  "es": "Santos de los Últimos Días (mormones)"
+ },
+ "titleHtml": {
+  "en": "Latter-day <span>Saints</span>",
+  "es": "Los <span>mormones</span>"
+ },
+ "eyebrow": {
+  "en": "Catholic answers · 18 notes",
+  "es": "Respuestas católicas · 18 notas"
+ },
+ "lede": {
+  "en": "Their 10 main errors, worst first, each with the truth, a response, the verse to open and the question to leave; then their origins, the verses they misread, their rules, their strangest claims, the Church's official response and what to say at the door.",
+  "es": "Sus 10 errores principales, del más grave al menor, cada uno con la verdad, una respuesta, el versículo para abrir y la pregunta para dejarles; después sus orígenes, los versículos que malinterpretan, sus reglas, sus afirmaciones más extrañas, la respuesta oficial de la Iglesia y qué decir en la puerta."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Cheat Sheet",
+    "es": "Guía rápida"
+   },
+   "notes": [
+    {
+     "id": "n00",
+     "en": {
+      "title": "Cheat Sheet — Latter-day Saints (Mormons)",
+      "h1": "LDS-00 Cheat Sheet — Latter-day Saints (Mormons)",
+      "file": "en/n00.md",
+      "aka": [
+       "LDS-00 Cheat Sheet — Latter-day Saints (Mormons)",
+       "Mormonism",
+       "Mormonism (LDS) — Doctrinal Errors & the Church's Magisterial Response",
+       "Mormonism (LDS) — Doctrinal Errors & the Church’s Magisterial Response"
+      ]
+     },
+     "es": {
+      "title": "Guía Rápida — Mormones",
+      "h1": "SUD-00 Guía Rápida — Mormones",
+      "file": "es/n00.md",
+      "aka": [
+       "SUD-00 Guía Rápida — Mormones"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "The 10 Errors",
+    "es": "Los 10 errores"
+   },
+   "notes": [
+    {
+     "id": "n01",
+     "en": {
+      "title": "God Was Once a Man",
+      "h1": "LDS-01 God Was Once a Man",
+      "file": "en/n01.md",
+      "aka": [
+       "LDS-01 God Was Once a Man"
+      ]
+     },
+     "es": {
+      "title": "Dios fue una vez un hombre",
+      "h1": "SUD-01 Dios fue una vez un hombre",
+      "file": "es/n01.md",
+      "aka": [
+       "SUD-01 Dios fue una vez un hombre"
+      ]
+     }
+    },
+    {
+     "id": "n02",
+     "en": {
+      "title": "A Different Jesus",
+      "h1": "LDS-02 A Different Jesus",
+      "file": "en/n02.md",
+      "aka": [
+       "LDS-02 A Different Jesus"
+      ]
+     },
+     "es": {
+      "title": "Un Jesús diferente",
+      "h1": "SUD-02 Un Jesús diferente",
+      "file": "es/n02.md",
+      "aka": [
+       "SUD-02 Un Jesús diferente"
+      ]
+     }
+    },
+    {
+     "id": "n03",
+     "en": {
+      "title": "Three Gods, Not the Trinity",
+      "h1": "LDS-03 Three Gods, Not the Trinity",
+      "file": "en/n03.md",
+      "aka": [
+       "LDS-03 Three Gods, Not the Trinity"
+      ]
+     },
+     "es": {
+      "title": "Tres dioses, no la Trinidad",
+      "h1": "SUD-03 Tres dioses, no la Trinidad",
+      "file": "es/n03.md",
+      "aka": [
+       "SUD-03 Tres dioses, no la Trinidad"
+      ]
+     }
+    },
+    {
+     "id": "n04",
+     "en": {
+      "title": "Men Can Become Gods",
+      "h1": "LDS-04 Men Can Become Gods",
+      "file": "en/n04.md",
+      "aka": [
+       "LDS-04 Men Can Become Gods"
+      ]
+     },
+     "es": {
+      "title": "El hombre puede llegar a ser dios",
+      "h1": "SUD-04 El hombre puede llegar a ser dios",
+      "file": "es/n04.md",
+      "aka": [
+       "SUD-04 El hombre puede llegar a ser dios"
+      ]
+     }
+    },
+    {
+     "id": "n05",
+     "en": {
+      "title": "The Church Fell Away",
+      "h1": "LDS-05 The Church Fell Away",
+      "file": "en/n05.md",
+      "aka": [
+       "LDS-05 The Church Fell Away"
+      ]
+     },
+     "es": {
+      "title": "Dicen que la Iglesia se apartó",
+      "h1": "SUD-05 Dicen que la Iglesia se apartó",
+      "file": "es/n05.md",
+      "aka": [
+       "SUD-05 Dicen que la Iglesia se apartó"
+      ]
+     }
+    },
+    {
+     "id": "n06",
+     "en": {
+      "title": "A Bible Corrupted, New Scripture Added",
+      "h1": "LDS-06 A Bible Corrupted, New Scripture Added",
+      "file": "en/n06.md",
+      "aka": [
+       "LDS-06 A Bible Corrupted, New Scripture Added"
+      ]
+     },
+     "es": {
+      "title": "Una Biblia corrompida y nuevas escrituras",
+      "h1": "SUD-06 Una Biblia corrompida y nuevas escrituras",
+      "file": "es/n06.md",
+      "aka": [
+       "SUD-06 Una Biblia corrompida y nuevas escrituras"
+      ]
+     }
+    },
+    {
+     "id": "n07",
+     "en": {
+      "title": "A Priesthood Restored by Angels",
+      "h1": "LDS-07 A Priesthood Restored by Angels",
+      "file": "en/n07.md",
+      "aka": [
+       "LDS-07 A Priesthood Restored by Angels"
+      ]
+     },
+     "es": {
+      "title": "Un sacerdocio restaurado por ángeles",
+      "h1": "SUD-07 Un sacerdocio restaurado por ángeles",
+      "file": "es/n07.md",
+      "aka": [
+       "SUD-07 Un sacerdocio restaurado por ángeles"
+      ]
+     }
+    },
+    {
+     "id": "n08",
+     "en": {
+      "title": "Salvation Through Temple Ordinances",
+      "h1": "LDS-08 Salvation Through Temple Ordinances",
+      "file": "en/n08.md",
+      "aka": [
+       "LDS-08 Salvation Through Temple Ordinances"
+      ]
+     },
+     "es": {
+      "title": "La salvación por las ordenanzas del templo",
+      "h1": "SUD-08 La salvación por las ordenanzas del templo",
+      "file": "es/n08.md",
+      "aka": [
+       "SUD-08 La salvación por las ordenanzas del templo"
+      ]
+     }
+    },
+    {
+     "id": "n09",
+     "en": {
+      "title": "A Life Before Birth and Three Heavens",
+      "h1": "LDS-09 A Life Before Birth and Three Heavens",
+      "file": "en/n09.md",
+      "aka": [
+       "LDS-09 A Life Before Birth and Three Heavens"
+      ]
+     },
+     "es": {
+      "title": "Una vida antes de nacer y tres cielos",
+      "h1": "SUD-09 Una vida antes de nacer y tres cielos",
+      "file": "es/n09.md",
+      "aka": [
+       "SUD-09 Una vida antes de nacer y tres cielos"
+      ]
+     }
+    },
+    {
+     "id": "n10",
+     "en": {
+      "title": "Failed and Reversed Prophecies",
+      "h1": "LDS-10 Failed and Reversed Prophecies",
+      "file": "en/n10.md",
+      "aka": [
+       "LDS-10 Failed and Reversed Prophecies"
+      ]
+     },
+     "es": {
+      "title": "Profecías fallidas y revelaciones revocadas",
+      "h1": "SUD-10 Profecías fallidas y revelaciones revocadas",
+      "file": "es/n10.md",
+      "aka": [
+       "SUD-10 Profecías fallidas y revelaciones revocadas"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Going Deeper",
+    "es": "A fondo"
+   },
+   "notes": [
+    {
+     "id": "n11",
+     "en": {
+      "title": "Who They Are — Origins and Why They Differ",
+      "h1": "LDS-11 Who They Are — Origins and Why They Differ",
+      "file": "en/n11.md",
+      "aka": [
+       "LDS-11 Who They Are — Origins and Why They Differ"
+      ]
+     },
+     "es": {
+      "title": "Quiénes son — Orígenes y por qué difieren",
+      "h1": "SUD-11 Quiénes son — Orígenes y por qué difieren",
+      "file": "es/n11.md",
+      "aka": [
+       "SUD-11 Quiénes son — Orígenes y por qué difieren"
+      ]
+     }
+    },
+    {
+     "id": "n12",
+     "en": {
+      "title": "Verses They Misread",
+      "h1": "LDS-12 Verses They Misread",
+      "file": "en/n12.md",
+      "aka": [
+       "LDS-12 Verses They Misread"
+      ]
+     },
+     "es": {
+      "title": "Versículos que malinterpretan",
+      "h1": "SUD-12 Versículos que malinterpretan",
+      "file": "es/n12.md",
+      "aka": [
+       "SUD-12 Versículos que malinterpretan"
+      ]
+     }
+    },
+    {
+     "id": "n13",
+     "en": {
+      "title": "Their Rules — Temple, Garments, Word of Wisdom, Tithing",
+      "h1": "LDS-13 Their Rules — Temple, Garments, Word of Wisdom, Tithing",
+      "file": "en/n13.md",
+      "aka": [
+       "LDS-13 Their Rules — Temple, Garments, Word of Wisdom, Tithing"
+      ]
+     },
+     "es": {
+      "title": "Sus reglas — Templo, gárment, Palabra de Sabiduría, diezmo",
+      "h1": "SUD-13 Sus reglas — Templo, gárment, Palabra de Sabiduría, diezmo",
+      "file": "es/n13.md",
+      "aka": [
+       "SUD-13 Sus reglas — Templo, gárment, Palabra de Sabiduría, diezmo"
+      ]
+     }
+    },
+    {
+     "id": "n14",
+     "en": {
+      "title": "The Strangest Claims",
+      "h1": "LDS-14 The Strangest Claims",
+      "file": "en/n14.md",
+      "aka": [
+       "LDS-14 The Strangest Claims"
+      ]
+     },
+     "es": {
+      "title": "Las afirmaciones más extrañas",
+      "h1": "SUD-14 Las afirmaciones más extrañas",
+      "file": "es/n14.md",
+      "aka": [
+       "SUD-14 Las afirmaciones más extrañas"
+      ]
+     }
+    },
+    {
+     "id": "n15",
+     "en": {
+      "title": "The Church's Official Response",
+      "h1": "LDS-15 The Church's Official Response",
+      "file": "en/n15.md",
+      "aka": [
+       "LDS-15 The Church's Official Response"
+      ]
+     },
+     "es": {
+      "title": "La respuesta oficial de la Iglesia",
+      "h1": "SUD-15 La respuesta oficial de la Iglesia",
+      "file": "es/n15.md",
+      "aka": [
+       "SUD-15 La respuesta oficial de la Iglesia"
+      ]
+     }
+    },
+    {
+     "id": "n16",
+     "en": {
+      "title": "At the Door — 22 Things You Will Hear",
+      "h1": "LDS-16 At the Door — 22 Things You Will Hear",
+      "file": "en/n16.md",
+      "aka": [
+       "LDS-16 At the Door — 22 Things You Will Hear"
+      ]
+     },
+     "es": {
+      "title": "En la puerta — 22 cosas que va a escuchar",
+      "h1": "SUD-16 En la puerta — 22 cosas que va a escuchar",
+      "file": "es/n16.md",
+      "aka": [
+       "SUD-16 En la puerta — 22 cosas que va a escuchar"
+      ]
+     }
+    }
+    ,
+    {
+     "id": "n17",
+     "en": {
+      "title": "Quick Reference — LDS vs. Catholic",
+      "h1": "LDS-17 Quick Reference — LDS vs. Catholic",
+      "file": "en/n17.md",
+      "aka": [
+       "LDS-17 Quick Reference — LDS vs. Catholic"
+      ]
+     },
+     "es": {
+      "title": "Referencia rápida — SUD vs. católicos",
+      "h1": "SUD-17 Referencia rápida — SUD vs. católicos",
+      "file": "es/n17.md",
+      "aka": [
+       "SUD-17 Referencia rápida — SUD vs. católicos"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
