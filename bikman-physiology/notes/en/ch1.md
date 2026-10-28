@@ -5,25 +5,25 @@
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 1 (transcript). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series, but a separate course — whole-body function built up from the cell. New series, new note thread.*
 
 ## Why This Matters
-This lecture is the vocabulary layer for the entire physiology course: nervous system, muscle, heart and lungs, gut, endocrine, and fat all reuse the three ideas introduced here — feedback loops that restore a set point, gradients that need ATP to maintain, and electrical signals made of moving ions. Personalization in this lecture is light by nature (basic cell biology); the few genuine connections are flagged below rather than forced.
+This lecture is the vocabulary layer for the entire physiology course: nervous system, muscle, heart and lungs, gut, endocrine, and fat all reuse the three ideas introduced here — feedback loops that restore a set point, gradients that need ATP to maintain, and electrical signals made of moving ions.
 
 ## Scope-Setting Claim — The Body Is Many Levels, One Whole
 Physiology studies the whole organism: molecules → cells → tissues/organs → organ systems → body. Bikman's course order: cell physiology → peripheral nervous system → skeletal muscle → cardiopulmonary → gastrointestinal → endocrine (his stated favorite). ✅ His framing: the miracle is not only that the body works but that it goes right *as often as it does*, given how many things could go wrong.
 
 ## Punchlines & Quotable Facts (Lecture 1)
 - **"Balance is death."** — a cell *needs* different concentrations inside versus outside; equilibrium means the cell stops functioning.
-- **The entire bloodstream holds only about a teaspoon of glucose** — a single candy bar can carry roughly 10x that, which is why a fast-acting correction signal (insulin) is non-negotiable.
+- **The entire bloodstream holds only about a teaspoon of glucose** — a single candy bar can carry roughly 10x that, which is why a fast-acting correction signal (insulin) is non-negotiable. 🟢 Evidence check: a 70 kg adult's blood holds about 4 g of glucose, roughly a teaspoon (Wasserman 2009); a full-size candy bar typically carries about 20–30 g of sugar, so 5–7x is closer than 10x.
 - **Sodium is about 10x higher outside the cell; potassium is about 30x higher inside.** The cell spends energy keeping this imbalance, not removing it.
-- **Myelin makes the signal about 50x faster** than the same axon without it — and myelin is described as cholesterol- and fat-heavy.
+- **Myelin makes the signal about 50x faster** than the same axon without it — and myelin is described as cholesterol- and fat-heavy. 🟢 Evidence check: the standard textbook range is 5- to 50-fold, so 50x is the upper end (Guyton & Hall); myelin has the highest cholesterol content in the brain, and cholesterol is essential for building it (Saher 2005).
 - **"Water chases electrolytes."** — wherever ions go, water follows through channels.
-- **Lidocaine numbs by blocking voltage-gated sodium channels**, so the nerve cannot depolarize and no signal forms.
+- **Lidocaine numbs by blocking voltage-gated sodium channels**, so the nerve cannot depolarize and no signal forms. ✅ (Hille 1977)
 - **Cellular energy = molecules that let the cell do work** (ATP), not "energy" in the power-plant sense.
 
 ## Homeostasis and Feedback
 **Homeostasis:** the body constantly snaps back toward a set point (normal) across countless variables.
 - **Body temperature:** held within a couple of degrees, about 36–38 C ✅
-- **pH:** "too acidic" claims aside, it is held in an exceptionally narrow range ✅
-- **Blood glucose:** about 70–110 mg/dL; far outside that range is acutely dangerous ✅
+- **pH:** "too acidic" claims aside, it is held in an exceptionally narrow range (arterial blood about 7.35–7.45) ✅
+- **Blood glucose:** about 70–110 mg/dL; far outside that range is acutely dangerous ✅ 🟢 Evidence check: the ADA defines normal fasting glucose as below 100 mg/dL, and up to about 140 mg/dL two hours after a glucose load is still normal (ADA 2025).
 
 **Negative feedback** (the default): sense a change → elicit a response → response restores the starting point and turns itself off. Three components:
 
@@ -35,12 +35,12 @@ Physiology studies the whole organism: molecules → cells → tissues/organs �
 
 - In real physiology the three parts are often lumped together — the beta cell is sensor, control center, and source of the effector all at once. ✅
 - **Positive feedback:** a signal that ramps itself up (microphone too close to the speaker). Uncommon, always temporary, needs a precise purpose and a way to turn off. ✅
-- **Childbirth example:** baby presses on cervix → stretch signal to hypothalamus → oxytocin → uterine contractions → more stretch → more oxytocin, until birth ends the loop. ✅ Bikman notes most positive-feedback examples occur in the female body, with fewer in the male body.
-- 🟡 The transcript says the hypothalamus "releases" oxytocin; anatomically that release step is not detailed in the lecture, so treat the sensor-to-control-to-effector mapping as the point, not the gland-level detail.
+- **Childbirth example:** baby presses on cervix → stretch signal to hypothalamus → oxytocin → uterine contractions → more stretch → more oxytocin, until birth ends the loop. ✅ Bikman notes most positive-feedback examples occur in the female body, with fewer in the male body. 🔴 Evidence check: this is his framing; positive loops also run in every body, e.g. the clotting cascade and the sodium-channel opening that drives each action potential (Guyton & Hall).
+- ✅ The transcript says the hypothalamus "releases" oxytocin. Anatomically, oxytocin is made by hypothalamic neurons (supraoptic and paraventricular nuclei) and released into the blood from their nerve endings in the posterior pituitary, so the hypothalamus is the right control center (Gimpl & Fahrenholz 2001).
 - ✅ Even positive feedback serves homeostasis: the end result (baby delivered, cervix no longer stretched) is a return to a stable state.
 
 ## Membrane Transport
-The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this as a reason not to fear dietary fat, since fat is a structural component of every cell. ✅ Everything entering or leaving is tightly regulated.
+The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this as a reason not to fear dietary fat, since fat is a structural component of every cell. ✅ 🔴 Evidence check: the membrane fact is solid, but the body makes most of its membrane lipids itself, so it does not settle dietary-fat questions; the AHA and the Cochrane review focus on fat *type*, favoring unsaturated over saturated fat (Sacks 2017; Hooper 2020). Everything entering or leaving is tightly regulated.
 
 **The gradient setup (the part everything else depends on):**
 - Sodium: ~10x higher in the extracellular fluid (ECF) than intracellular (ICF) → constantly pushes **in**.
@@ -60,10 +60,10 @@ The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this a
 
 **Key points worth keeping:**
 - **The stone-on-the-hill metaphor:** passive = stone rolling down; active = pushing the stone up. Even "passive" transport depended on energy spent earlier to build the gradient. ✅
-- **Surface area:** more membrane means faster simple diffusion. Bikman's example: bigger muscles pull in glucose faster simply by having more entry points — one reason increasing muscle mass helps regulate blood sugar. ✅ 🟡 The lecture attaches this to surface area and does not specify the exact transport mechanism for glucose entry.
+- **Surface area:** more membrane means faster simple diffusion. Bikman's example: bigger muscles pull in glucose faster simply by having more entry points — one reason increasing muscle mass helps regulate blood sugar. ✅ 🟡 The lecture attaches this to surface area and does not specify the exact transport mechanism for glucose entry. ✅ Evidence check: glucose enters muscle by facilitated diffusion through GLUT4 transporters (insulin and contraction move more of them to the membrane), not by simple diffusion. Muscle takes up most of the glucose disposed of under insulin (DeFronzo 1981), and more relative muscle mass goes with less insulin resistance and prediabetes (Srikanthan & Karlamangla 2011).
 - **Water follows ions:** clinicians can push electrolytes into urine so water follows, lowering blood pressure in people with excess body water. ✅ (kidney detail deliberately not covered)
 - **ATP** (adenosine triphosphate): breaking the high-energy phosphate bonds (hydrolysis) releases energy the cell "pays" for work. Made by mitochondria from fats and glucose. The **-ase** suffix marks an enzyme. ✅
-- **Sodium-potassium ATPase:** pumps sodium out and potassium in, each against its gradient, using one ATP-powered protein. ✅ It restores the imbalance after signaling.
+- **Sodium-potassium ATPase:** pumps sodium out and potassium in, each against its gradient, using one ATP-powered protein (3 sodium out and 2 potassium in per ATP). ✅ (Clausen 2017) It restores the imbalance after signaling.
 
 ## Electrophysiology — Electrical Signals from Ions
 **Membrane potential:** the voltage across the membrane (millivolts), created by ion movement. ✅
@@ -74,10 +74,10 @@ The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this a
 | --- | --- | --- |
 | **Depolarization** | Membrane potential rises from -70 toward positive | Sodium rushing in |
 | **Repolarization** | Returns toward -70 | Potassium rushing out |
-| **Hyperpolarization** | Pushes below -70 (e.g. -80, -90) — further from firing | Excess potassium movement |
+| **Hyperpolarization** | Pushes below -70 (e.g. -80, -90) — further from firing | Potassium still leaving the cell |
 
-- 🟡 The lecture describes hyperpolarization as "more potassium running in" in one place, while elsewhere tying potassium to leaving the cell; the stable takeaway is only that **potassium movement drives the negative shift**.
-- Hyperpolarization has real consequences: signals fail to reach the heart or nerves, so the heart can stop or sensation can be lost. ✅
+- 🟡 The lecture describes hyperpolarization as "more potassium running in" in one place, while elsewhere tying potassium to leaving the cell; the stable takeaway is only that **potassium movement drives the negative shift**. ✅ Evidence check: hyperpolarization comes from potassium continuing to **leave** while the slow voltage-gated potassium channels are still open; "running in" was a slip (Hodgkin & Huxley 1952).
+- Hyperpolarization has real consequences: signals fail to reach the heart or nerves, so the heart can stop or sensation can be lost. 🟢 Evidence check: a hyperpolarized cell is harder to fire, and acetylcholine slows the heart this way; in clinical potassium disorders, though, cardiac arrest is more typical of *high* potassium, which depolarizes cells and inactivates sodium channels (Weiss 2017).
 
 **Graded vs. action potentials**
 - **Graded potential:** small, local, "little bumps" — often from gated channels. The three gate types: **chemically gated** (neurotransmitter, e.g. acetylcholine), **voltage-gated** (important in skeletal and heart muscle), **pressure-gated** (touch, vibration, and gut distension from gas). ✅
@@ -85,7 +85,7 @@ The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this a
 
 **The four steps of an action potential**
 1. Graded potentials depolarize the membrane from -70 to threshold (-55).
-2. Voltage-gated **sodium** channels open; sodium floods in; potential rises to about **+30 mV**.
+2. Voltage-gated **sodium** channels open; sodium floods in; potential rises to about **+30 mV** (Hodgkin & Huxley 1952).
 3. Sodium channels close, voltage-gated **potassium** channels open; potassium leaves → rapid repolarization.
 4. Often a brief hyperpolarization overshoot, corrected by the **sodium-potassium ATPase**. ✅
 
@@ -148,3 +148,18 @@ C. \* It harnesses a gradient that was built earlier with energy, letting one io
 - Repeated restatements of the sodium/potassium ratios and the stone-on-hill metaphor beyond their first clear use.
 - Course roadmap detail beyond one line (covered in each upcoming lecture note).
 
+---
+**References:**
+1. Wasserman DH. Four grams of glucose. *Am J Physiol Endocrinol Metab* 2009;296:E11–E21. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18840763/)
+2. American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2025. *Diabetes Care* 2025;48(Suppl 1):S27–S49. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39651986/)
+3. Gimpl G, Fahrenholz F. The oxytocin receptor system: structure, function, and regulation. *Physiol Rev* 2001;81:629–683. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11274341/)
+4. Hall JE, Hall ME. *Guyton and Hall Textbook of Medical Physiology*, 14th ed. Elsevier, 2021. [Elsevier](https://evolve.elsevier.com/cs/product/9780323597128)
+5. Saher G, Brügger B, Lappe-Siefke C, et al. High cholesterol level is essential for myelin membrane growth. *Nat Neurosci* 2005;8:468–475. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15793579/)
+6. Hille B. Local anesthetics: hydrophilic and hydrophobic pathways for the drug-receptor reaction. *J Gen Physiol* 1977;69:497–515. [PubMed](https://pubmed.ncbi.nlm.nih.gov/300786/)
+7. Hodgkin AL, Huxley AF. A quantitative description of membrane current and its application to conduction and excitation in nerve. *J Physiol* 1952;117:500–544. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12991237/)
+8. Clausen MV, Hilbers F, Poulsen H. The structure and function of the Na,K-ATPase isoforms in health and disease. *Front Physiol* 2017;8:371. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28634454/)
+9. Weiss JN, Qu Z, Shivkumar K. Electrophysiology of hypokalemia and hyperkalemia. *Circ Arrhythm Electrophysiol* 2017;10:e004667. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28314851/)
+10. DeFronzo RA, Jacot E, Jequier E, et al. The effect of insulin on the disposal of intravenous glucose: results from indirect calorimetry and hepatic and femoral venous catheterization. *Diabetes* 1981;30:1000–1007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7030826/)
+11. Srikanthan P, Karlamangla AS. Relative muscle mass is inversely associated with insulin resistance and prediabetes: findings from the third National Health and Nutrition Examination Survey. *J Clin Endocrinol Metab* 2011;96:2898–2903. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21778224/)
+12. Sacks FM, Lichtenstein AH, Wu JHY, et al. Dietary fats and cardiovascular disease: a Presidential Advisory from the American Heart Association. *Circulation* 2017;136:e1–e23. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28620111/)
+13. Hooper L, Martin N, Jimoh OF, et al. Reduction in saturated fat intake for cardiovascular disease. *Cochrane Database Syst Rev* 2020;5:CD011737. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32428300/)
