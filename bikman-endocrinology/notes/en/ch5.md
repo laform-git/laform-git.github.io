@@ -9,30 +9,30 @@ This chapter gives the actual cellular mechanism behind testosterone production 
 
 ## Punchlines & Quotable Facts (Lecture 5)
 - **"The default setting is female... in structure and even content of the gonad, but not in function."** — the central organizing principle of the whole lecture.
-- **A 2005 study: men eating less fat had testosterone drop 12% within weeks; a 2016 study found sperm motility/function also dropped on low-fat diets.** — directly cited, human data.
+- **A 2005 study: men eating less fat had testosterone drop 12% within weeks; a 2016 study found sperm motility/function also dropped on low-fat diets.** — directly cited, human data. 🟢 Evidence check: the 2005 study (39 men, 8 weeks on a low-fat, high-fiber diet) found about 12% lower androgens (Wang 2005), and a meta-analysis of 6 intervention studies confirmed lower total and free testosterone on low-fat diets (Whittaker 2021); the 2016 sperm study could not be identified.
 - **"Puberty is determined by a pulse"** — not the level of GnRH, but its pulsatility, is what actually initiates puberty.
-- **Kisspeptin is named after Hershey, Pennsylvania** — discovered at a lab in the same town that makes Hershey's Kisses.
-- **"In the absence of leptin, puberty is impossible. It cannot happen."** — stated with zero hedging, directly extending Ch.2's leptin-GnRH link.
-- **A 2003 human study: growth hormone injections in weightlifters produced NO difference in muscle size or strength** — directly challenging the common assumption that GH itself builds muscle.
+- **Kisspeptin is named after Hershey, Pennsylvania** — discovered at a lab in the same town that makes Hershey's Kisses. ✅ (the KiSS-1 gene was described at Penn State's Hershey campus; Lee 1996)
+- **"In the absence of leptin, puberty is impossible. It cannot happen."** — stated with zero hedging, directly extending Ch.2's leptin-GnRH link. 🟢 Evidence check: strongly supported by people born without leptin, whose puberty fails and then progresses on leptin treatment (Farooqi 2002); "impossible" is a slight overstatement of a small number of cases.
+- **A 2003 human study: growth hormone injections in weightlifters produced NO difference in muscle size or strength** — directly challenging the common assumption that GH itself builds muscle. 🟢 Evidence check: a systematic review of 44 trial reports found GH raised lean body mass by about 2 kg (partly water) without improving strength or exercise capacity (Liu 2008).
 - **The historical castrati:** castration before puberty produced taller, longer-limbed, barrel-chested men with permanently high voices — a real historical case study in what sex hormones do to bone/growth plate closure.
 
 ## Sexual Differentiation — Chromosomal to Gonadal to Phenotypic
 **Three levels of "sex" (Bikman's explicit terminology — sex is the biological term he uses, not gender):**
 1. **Chromosomal sex:** XY or XX
-2. **Gonadal sex:** determined by the SRY gene on the Y chromosome, which encodes testis-determining factor (TDF) — present, gonads become testes (Leydig + Sertoli cells); absent, the bipotential gonad defaults to ovary (theca + granulosa cells) ✅
+2. **Gonadal sex:** determined by the SRY gene on the Y chromosome, which encodes testis-determining factor (TDF) — present, gonads become testes (Leydig + Sertoli cells); absent, the bipotential gonad defaults to ovary (theca + granulosa cells) ✅ 🟡 Evidence check: "default" is a simplification — ovarian development and maintenance are active, gene-driven processes (e.g., FOXL2; removing it turns adult mouse ovaries into testis-like tissue; Uhlenhaut 2009).
 3. **Phenotypic sex:** the actual physical structures, determined by what hormones the gonads then produce
 
 **Internal structures — two parallel duct systems present in every fetus:**
 - **Müllerian ducts** → default fate: become female internal structures (fallopian tubes, uterus, cervix, vagina) UNLESS actively told to die by **anti-Müllerian hormone (AMH)** from Sertoli cells
-- **Wolffian ducts** → default fate: wither away UNLESS actively told to develop by testosterone (into epididymis, vas deferens, prostate, Cowper gland)
+- **Wolffian ducts** → default fate: wither away UNLESS actively told to develop by testosterone (into epididymis, vas deferens and seminal vesicles; the prostate and Cowper glands come from a different tissue, the urogenital sinus, under DHT)
 
-**External genitalia:** driven specifically by **DHT** (not testosterone directly) — pulls gonads toward scrotum, fuses labia into scrotum, enlarges clitoris into penis. Female external genitalia require no signal at all; they form by default absent DHT. ✅
+**External genitalia:** driven specifically by **DHT** (not testosterone directly) — fuses the labioscrotal folds into a scrotum and enlarges the genital tubercle (which otherwise becomes the clitoris) into a penis; testicular descent itself is driven mainly by the Leydig-cell hormone INSL3 and testosterone. Female external genitalia require no signal at all; they form by default absent DHT. ✅
 
 ✅ **The single most important organizing principle:** male development at every level requires an active, specific signal; female development is the default state that occurs in the absence of those signals — not because female is somehow "passive" biologically, but because the male pathway requires additional instructing machinery layered on top of a baseline.
 
 ## The Male HPG Axis — Directly Extends Ch.2
 - **LH** → **Leydig cells** → **testosterone** (the main male testosterone source; testosterone provides the primary negative feedback)
-- **FSH** → **Sertoli cells** → three products: stimulates the liver to produce **sex hormone-binding globulin (SHBG)**, produces **anti-Müllerian hormone (AMH)**, and supports **spermatogenesis**
+- **FSH** → **Sertoli cells** → key products: **androgen-binding protein** (the testicular form of SHBG — circulating SHBG is made by the liver), **inhibin B** (the feedback signal that restrains FSH), **anti-Müllerian hormone (AMH**, high before puberty and falling after it), and support for **spermatogenesis**
 
 **What happens to testosterone after Leydig cells make it — two branch points:**
 - **5-alpha reductase** converts testosterone → **DHT** (dihydrotestosterone), a substantially more potent androgen, critical for external genitalia development and later for prostate/hair-related effects
@@ -47,7 +47,7 @@ This chapter gives the actual cellular mechanism behind testosterone production 
 - **LH** → **theca cells** → produce **androgens** (mainly testosterone, plus androstenedione)
 - Theca cells hand the androgens off to **granulosa cells** (a paracrine handoff, not an endocrine one — direct cell-to-cell, no blood involved)
 - **FSH** → **granulosa cells** → convert the received androgens into **estradiol** (via aromatase) AND support follicle development directly
-- Estradiol provides the primary negative feedback; granulosa cells also produce SHBG (same liver-stimulation mechanism as in males)
+- Estradiol provides the primary negative feedback; granulosa cells also produce **inhibin**, which restrains FSH (SHBG itself is made by the liver)
 
 ✅ **Why this two-cell system exists (Bikman's framing):** unlike the male system where one cell type (Leydig) does the whole job, female sex hormone production requires cooperation between two distinct cell types — a genuinely more complex regulatory system than the male equivalent.
 
@@ -55,18 +55,18 @@ This chapter gives the actual cellular mechanism behind testosterone production 
 - **The critical mechanism:** it's the **pulsatility** (frequency pattern) of GnRH release, not its absolute level, that triggers and sustains puberty. Pre-puberty GnRH has minimal cyclical pattern; puberty onset specifically changes this into a pronounced pulsatile rhythm. ✅
 - **Kisspeptin** (hypothalamic protein, named after Hershey, PA where it was discovered) is the direct trigger that shifts GnRH into its pulsatile pattern
 - **Leptin is required for kisspeptin activation** — extending Ch.2's leptin-GnRH link with the actual intermediate step: leptin → kisspeptin → pulsatile GnRH → puberty. "In the absence of leptin, puberty is impossible." ✅
-- **Leptin's effects are broader than just kisspeptin:** direct stimulation of pituitary gonadotropes (LH/FSH release), direct stimulation of the gonads themselves, direct stimulation of adrenal testosterone production, AND reduction of liver SHBG production (increasing the free/active hormone fraction) ✅ — a single hormone with five separate touchpoints on the same reproductive axis.
+- **Leptin's effects are broader than just kisspeptin:** direct stimulation of pituitary gonadotropes (LH/FSH release), direct stimulation of the gonads themselves, direct stimulation of adrenal testosterone production, AND reduction of liver SHBG production (increasing the free/active hormone fraction) ✅ — a single hormone with five separate touchpoints on the same reproductive axis. 🟡 Evidence check: the hypothalamic (kisspeptin) route and the human leptin-deficiency data are solid (Farooqi 2002); the other direct effects come mostly from animal and cell studies.
 
 ## Puberty Blockers — Mechanism and Cited Concerns
 🟡 **This is a genuinely contested area with active scientific and clinical debate; the following summarizes Bikman's stated claims, not a settled consensus.**
 
-**Mechanism, stated plainly:** administering continuous (non-pulsatile) GnRH flatlines the pulsatile signal that normally drives puberty — even at an elevated constant level, the anterior pituitary stops producing LH/FSH because it's the pulsing pattern, not the amount, that the pituitary responds to. This effectively pauses gonadal hormone production and puberty progression. ✅ (This specific mechanism — continuous GnRH agonism suppressing pulsatile signaling — is well-established pharmacology, used for both puberty blockade and other conditions like prostate cancer treatment.)
+**Mechanism, stated plainly:** administering continuous (non-pulsatile) GnRH flatlines the pulsatile signal that normally drives puberty — even at an elevated constant level, the anterior pituitary stops producing LH/FSH because it's the pulsing pattern, not the amount, that the pituitary responds to. This effectively pauses gonadal hormone production and puberty progression. ✅ (This specific mechanism — continuous GnRH agonism suppressing pulsatile signaling — is well-established pharmacology, used for both puberty blockade and other conditions like prostate cancer treatment; first shown when continuous GnRH shut down LH/FSH in monkeys while pulses restored them, Belchetz 1978.)
 
-**Cited concerns (Bikman's claims, flagged as an active area of research):** he states there is evidence of effects on brain white matter development and bone mineral density in adolescents on puberty blockers, describing some effects as difficult to reverse. 🟡 **The degree, reversibility, and clinical significance of these effects are genuinely debated within the research and clinical community** — bone mineral density effects during GnRH agonist treatment are a recognized and monitored consideration in the endocrinology literature generally; the specific claims about irreversible white matter effects are a more actively contested area with ongoing research. This summary reflects what was stated in the lecture, not an independently verified or settled scientific consensus — worth treating as one perspective in an ongoing debate rather than resolved fact.
+**Cited concerns (Bikman's claims, flagged as an active area of research):** he states there is evidence of effects on brain white matter development and bone mineral density in adolescents on puberty blockers, describing some effects as difficult to reverse. 🟡 **The degree, reversibility, and clinical significance of these effects are genuinely debated within the research and clinical community** — bone mineral density effects during GnRH agonist treatment are a recognized and monitored consideration in the endocrinology literature generally; the specific claims about irreversible white matter effects are a more actively contested area with ongoing research. 🟡 Evidence check: in a Dutch cohort, bone density z-scores fell during GnRH-analog treatment and were still below baseline at age 22 (Klink 2015); England's independent Cass Review (2024) judged the evidence base weak and the effects on cognitive and psychosexual development unknown. This summary reflects what was stated in the lecture, not an independently verified or settled scientific consensus — worth treating as one perspective in an ongoing debate rather than resolved fact.
 
 ## Growth Hormone and IGF-1 — Distinct Roles
 - **Growth hormone (GH) itself is NOT the primary driver of growth** — this is Bikman's key correction. GH triggers the liver to produce **IGF-1**, and it's IGF-1 that has the dominant, direct effect on bone growth (both length via chondrocytes and thickness via osteoblasts). ✅
-- **2003 human study:** GH injections in weightlifters produced no measurable difference in muscle size or strength ✅ — directly challenging the assumption that supplemental GH builds muscle
+- **2003 human study:** GH injections in weightlifters produced no measurable difference in muscle size or strength 🟢 (a systematic review found more lean mass but no gain in strength; Liu 2008) — directly challenging the assumption that supplemental GH builds muscle
 - **What GH actually does, then:** fuel mobilization to support IGF-1-driven growth — stimulates fat breakdown (lipolysis), stimulates liver glycogen breakdown, and inhibits muscle protein breakdown (preserving amino acids for growth rather than degrading them) ✅
 - **Triggers for GH release:** rising sex hormones during puberty, sleep (5–10x higher at night in young healthy people, dramatically reduced in older adults), and exercise (also substantially blunted in older adults compared to the same relative intensity in younger people) ✅
 - **Exercise-IGF-1-bone connection:** exercising muscle directly produces its own IGF-1 that feeds bone strength — a genuine endocrine (not just mechanical-load) explanation for why exercise supports bone health, even after growth plates have closed. ✅
@@ -92,11 +92,11 @@ This chapter gives the actual cellular mechanism behind testosterone production 
 
 **Turner syndrome (single X, no second sex chromosome):**
 - Internal/external structures: female by default (no signal needed) ✅
-- Ovaries present in substance (theca/granulosa cells) but non-functional — infertile, does not spontaneously enter puberty without hormone therapy ✅ (requires two X chromosomes for ovarian function specifically, not just ovarian presence)
+- Ovaries present in substance (theca/granulosa cells) but non-functional — infertile, does not spontaneously enter puberty without hormone therapy 🟡 Evidence check: this is the usual course (eggs are lost early), but a minority start puberty on their own and a few conceive naturally (Gravholt 2017) (requires two X chromosomes for ovarian function specifically, not just ovarian presence)
 
 **Klinefelter-pattern (XXY):**
 - The Y chromosome's SRY gene dominates — male internal/external structures develop (Sertoli/Leydig cells present, AMH and testosterone produced) ✅
-- The extra X produces some phenotypic blending: smaller penis, some breast tissue, longer bone growth (similar pattern to the historical castrati, from reduced androgen dominance relative to typical male development) — can still produce sperm and be fertile in some cases ✅
+- The extra X produces some phenotypic blending: smaller penis, some breast tissue, longer bone growth (similar pattern to the historical castrati, from reduced androgen dominance relative to typical male development) — can still produce sperm and be fertile in some cases 🟡 Evidence check: the hallmark is small, firm testes (penis size is usually normal), with low testosterone and absent sperm in the ejaculate in most men; sperm can sometimes be retrieved surgically for assisted reproduction (Zitzmann 2021)
 
 **SRY translocated onto an X chromosome (XX, genetically female by chromosome, but SRY-positive):**
 - Testes develop with functioning Sertoli/Leydig cells — male internal and external structures form
@@ -107,7 +107,7 @@ This chapter gives the actual cellular mechanism behind testosterone production 
 - No TDF produced — gonads remain as non-functional fibrous streaks (not ovaries, not testes, but lacking Sertoli cells specifically)
 - No AMH → Müllerian (female internal) structures survive
 - No testosterone → Wolffian (male internal) structures do not develop, external genitalia default to female
-- Often undetected until puberty fails to occur naturally — treatable with hormone therapy to induce puberty ✅
+- Often undetected until puberty fails to occur naturally — treatable with hormone therapy to induce puberty ✅ 🟡 Evidence check: SRY changes explain only some cases (other genes can cause the same picture), and because the streak gonads can develop tumors such as gonadoblastoma, their preventive removal is standard (Rudnicka 2024)
 
 **17-alpha-hydroxylase deficiency (enzyme required for all steroid sex hormone synthesis):**
 - In XX individuals: internal/external structures fully female (no androgens to disrupt default female pathway); ovaries and eggs may be structurally present — puberty and even fertility can be induced with hormone therapy ✅
@@ -153,3 +153,18 @@ C. LH and FSH cannot be measured directly, so pulsatility is used as an indirect
 - The detailed genital-appearance descriptions for each DSD condition were condensed to the structural/functional outcome rather than reproduced in full anatomical detail
 - General GPCR/StAR/pregnenolone mechanism (already fully covered in Ch.1 and Ch.4) — only referenced here as applied to gonadal steroidogenesis specifically
 
+---
+**References:**
+1. Wang C et al. Low-fat high-fiber diet decreased serum and urine androgens in men. *J Clin Endocrinol Metab* 2005;90:3550-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15741266/)
+2. Whittaker J, Wu K. Low-fat diets and testosterone in men: systematic review and meta-analysis of intervention studies. *J Steroid Biochem Mol Biol* 2021;210:105878. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33741447/)
+3. Lee JH et al. KiSS-1, a novel human malignant melanoma metastasis-suppressor gene. *J Natl Cancer Inst* 1996;88:1731-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8944003/)
+4. Farooqi IS et al. Beneficial effects of leptin on obesity, T cell hyporesponsiveness, and neuroendocrine/metabolic dysfunction of human congenital leptin deficiency. *J Clin Invest* 2002;110:1093-103. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12393845/)
+5. Liu H et al. Systematic review: the effects of growth hormone on athletic performance. *Ann Intern Med* 2008;148:747-58. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18347346/)
+6. Uhlenhaut NH et al. Somatic sex reprogramming of adult ovaries to testes by FOXL2 ablation. *Cell* 2009;139:1130-42. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20005806/)
+7. Belchetz PE et al. Hypophysial responses to continuous and intermittent delivery of hypothalamic gonadotropin-releasing hormone. *Science* 1978;202:631-3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/100883/)
+8. Klink D et al. Bone mass in young adulthood following gonadotropin-releasing hormone analog treatment and cross-sex hormone treatment in adolescents with gender dysphoria. *J Clin Endocrinol Metab* 2015;100:E270-5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25427144/)
+9. Cass H. Independent Review of Gender Identity Services for Children and Young People: Final Report. NHS England, 2024. [Link](https://cass.independent-review.uk/home/publications/final-report/)
+10. Gravholt CH et al. Clinical practice guidelines for the care of girls and women with Turner syndrome: proceedings from the 2016 Cincinnati International Turner Syndrome Meeting. *Eur J Endocrinol* 2017;177:G1-G70. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28705803/)
+11. Zitzmann M et al. European Academy of Andrology guidelines on Klinefelter syndrome. *Andrology* 2021;9:145-167. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32959490/)
+12. Rudnicka E et al. A risk of gonadoblastoma in familial Swyer syndrome — a case report and literature review. *J Clin Med* 2024;13:785. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38337479/)
+13. Bhasin S et al. Testosterone therapy in men with hypogonadism: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab* 2018;103:1715-1744. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29562364/)
