@@ -149,7 +149,7 @@ C. \* Glicerolípidos (triglicéridos): un esqueleto de glicerol con tres ácido
 ## Qué se recortó deliberadamente (autoauditoría)
 - Comentarios personales: la anécdota posdoctoral sobre la biología de los lípidos, la descripción con gestos de las manos de la estructura de los nucleótidos y el apareamiento de bases ("mi pulgar es el fosfato").
 - Material repetido de los Cap. 1-2: transporte de membrana, simporte con sodio, bicapa anfipática de fosfolípidos (solo se hace referencia).
-- Los errores de transcripción en el texto fuente ("thiamine" por timina, "glycocytic" por enlace glucósido) se leyeron como los términos pretendidos en lugar de citarse.
+- Los errores de transcripción en el texto fuente ("thiamine" por timina, "glycocytic" por enlace glucosídico) se leyeron como los términos pretendidos en lugar de citarse.
 
 ---
 **Referencias:**

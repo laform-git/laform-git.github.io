@@ -50,7 +50,7 @@ Esta es la lección en la que las piezas anteriores (ácidos nucleicos, enzimas,
 | Tipo de ARN | Función |
 |---|---|
 | **ARNm** (mensajero) | La copia del gen que lleva el mensaje fuera del núcleo; la estrella de la transcripción |
-| **ARNt** (de transferencia) | Reconoce un codón específico mediante su antocodón y entrega el aminoácido correspondiente |
+| **ARNt** (de transferencia) | Reconoce un codón específico mediante su anticodón y entrega el aminoácido correspondiente |
 | **ARNr** (ribosómico) | Forma el ribosoma, la máquina que lee el ARNm y le da al ARNt un lugar donde unirse |
 
 - **Por qué se necesita un mensaje de ARN:** el ADN nunca sale del núcleo, y la síntesis de proteínas ocurre fuera de él; el ARNm lleva la instrucción afuera sin poner en riesgo el ADN. ✅
