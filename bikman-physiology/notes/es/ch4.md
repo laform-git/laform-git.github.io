@@ -21,8 +21,8 @@ Los ventrículos son más gruesos y carnosos que las aurículas porque deben bom
 
 ## Ruidos cardíacos y soplos
 - El clásico "lub-dub" lo producen las **válvulas al cerrarse de golpe**, no la sangre en movimiento. ✅
-- **Lub (ruido 1):** el cierre de la válvula AV izquierda (bicúspide) cuando la aurícula izquierda se vacía en el ventrículo. **Dub (ruido 2):** el cierre de la válvula aórtica después de que el ventrículo izquierdo eyecta. ✅
-- Las válvulas del lado derecho (tricúspide, lado pulmonar) son demasiado silenciosas para oírse con un estetoscopio: baja presión, flujo fácil. El lado izquierdo genera mucha más fuerza, así que sus válvulas son las audibles. ✅
+- **Lub (ruido 1):** el cierre de la válvula AV izquierda (bicúspide) cuando la aurícula izquierda se vacía en el ventrículo. **Dub (ruido 2):** el cierre de la válvula aórtica después de que el ventrículo izquierdo eyecta. ✅ en cuanto a la idea del cierre valvular. ✅ Corrección sobre el momento: el R1 es el cierre de **ambas** válvulas AV (mitral y tricúspide) al inicio de la contracción ventricular, no mientras la aurícula se vacía; el R2 es el cierre de las válvulas aórtica **y** pulmonar (Guyton & Hall).
+- Las válvulas del lado derecho (tricúspide, lado pulmonar) son demasiado silenciosas para oírse con un estetoscopio: baja presión, flujo fácil. El lado izquierdo genera mucha más fuerza, así que sus válvulas son las audibles. 🟡 Verificación de evidencia: los componentes del lado izquierdo son más fuertes, pero los cierres del lado derecho también se oyen; los médicos auscultan un foco tricuspídeo específico y oyen el componente pulmonar como el "desdoblamiento" normal del R2 al inhalar (Guyton & Hall).
 - **Soplo** = el lub-dub se alarga o se difumina. Se nombran dos causas: **estenosis** (la válvula no se abre bien, lo que da un "luuub-dub" alargado) o **regurgitación** (una forma alterada de la válvula deja que la sangre salga a chorro hacia atrás). Por lo general, una de las dos válvulas del lado izquierdo. ✅
 
 ## Microcirculación — Donde ocurre el trabajo
@@ -41,9 +41,9 @@ El músculo esquelético necesita un nervio externo para cada fibra; el corazón
 |---|---|---|
 | **Disparador** | Neurona motora, una por fibra | **Células marcapasos (P)** del nódulo SA; no se necesita neurona |
 | **Propagación de la señal** | Cada fibra por separado; se reclutan algunas, no otras | De célula a célula a través de **uniones en hendidura (gap junctions)** en los **discos intercalares**; todo o nada |
-| **Túbulos T** | Presentes | **Ausentes**; la superficie celular transmite la señal directamente |
+| **Túbulos T** | Presentes | Presentes en las células ventriculares (más anchos, a la altura de las líneas Z); escasos en las auriculares (Bers 2002) |
 | **Fuente de calcio** | Solo el retículo sarcoplásmico (RS) | **Primero del exterior de la célula** (canales tipo L), que luego abre el receptor de rianodina del RS para la gran liberación |
-| **Eliminación del calcio** | Bomba SERCA de regreso al RS | SERCA **más dos transportadores** que bombean el calcio fuera de la célula, para una relajación rápida |
+| **Eliminación del calcio** | Bomba SERCA de regreso al RS | SERCA **más dos transportadores** que bombean el calcio fuera de la célula (el intercambiador sodio-calcio y la ATPasa de calcio de la membrana plasmática), para una relajación rápida (Bers 2002) |
 | **Ciclo de puentes cruzados** | Igual | Igual; solo difiere la forma en que llega el calcio |
 
 **La secuencia de conducción:** nódulo SA → paredes auriculares (las aurículas se contraen hacia abajo) → **nódulo AV (una breve pausa deliberada para que los ventrículos se llenen)** → **fibras de Purkinje** hasta la parte inferior del corazón → los ventrículos se contraen de abajo hacia arriba, impulsando la sangre por las salidas de la parte superior. Las válvulas unidireccionales impiden el reflujo porque la propia presión las cierra de golpe. ✅
@@ -56,24 +56,24 @@ El gasto cardíaco depende de la **contractilidad ventricular** y del **volumen 
 - **El flujo de aire depende de (1) la diferencia de presión entre la atmósfera y los alvéolos y (2) el radio de las vías respiratorias.** ✅
 
 **Lado de la presión (ley de Boyle: el volumen y la presión son inversos):**
-- La atmósfera está a unos 760 mmHg; el espacio intrapleural está a unos 756 mmHg, una **presión transpulmonar** ligeramente negativa (alveolar menos intrapleural) que mantiene los pulmones abiertos contra la pared torácica. La imagen de Bikman: un puño presionado contra un globo. ✅
-- **Inhalar:** el diafragma baja, los intercostales expanden la caja torácica → sube el volumen → la presión cae por debajo de la atmosférica → el aire entra. **Exhalar:** baja el volumen → la presión sube por encima de la atmosférica → el aire sale. La gravedad y la posición del cuerpo son irrelevantes. ✅
+- La atmósfera está a unos 760 mmHg; el espacio intrapleural está a unos 756 mmHg, una **presión intrapleural** ligeramente negativa (unos −4 mmHg respecto a la atmósfera), que da una **presión transpulmonar** positiva (alveolar menos intrapleural, unos +4 mmHg) que mantiene los pulmones abiertos contra la pared torácica. La imagen de Bikman: un puño presionado contra un globo. ✅
+- **Inhalar:** el diafragma baja, los intercostales expanden la caja torácica → sube el volumen → la presión cae por debajo de la atmosférica → el aire entra. **Exhalar:** baja el volumen → la presión sube por encima de la atmosférica → el aire sale. La gravedad y la posición del cuerpo son irrelevantes para este mecanismo básico de presión. ✅ (La posición del cuerpo sí cambia los volúmenes pulmonares y hacia dónde va la ventilación; Guyton & Hall.)
 
 **Lado de la resistencia (radio de las vías respiratorias):** la activación simpática produce **broncodilatación** (más flujo de aire al huir); la parasimpática produce una ligera broncoconstricción (un estado de menor demanda). 🟡 En la transcripción Bikman dice que la broncodilatación es "reducir el radio"; es un desliz. La dilatación ensancha la vía aérea, y la propia conclusión de la frase (mejor flujo de aire) lo confirma.
 
 ## Distensibilidad, elasticidad y surfactante
 - **Distensibilidad** = qué tan fácilmente se estira el pulmón. **Elasticidad** = qué tan bien vuelve a su forma. El pulmón necesita ambas: la elastina (tejido conectivo elástico) más el **surfactante**. ✅
 - Las **células alveolares tipo II** producen surfactante, una película acuosa ligeramente aceitosa. El agua es pegajosa (su demostración del plato sobre una encimera mojada), y sin surfactante los alvéolos no podrían inflarse con una respiración normal. ✅
-- **Síndrome de dificultad respiratoria (SDR):** los pulmones son el último tejido en desarrollarse porque el feto respira a través de la placenta. Un bebé prematuro puede carecer de surfactante; la solución es aplicar surfactante en la vía aérea y ganar tiempo para que los pulmones terminen de desarrollarse. ✅
+- **Síndrome de dificultad respiratoria (SDR):** los pulmones son el último tejido en desarrollarse porque el feto respira a través de la placenta. Un bebé prematuro puede carecer de surfactante; la solución es aplicar surfactante en la vía aérea y ganar tiempo para que los pulmones terminen de desarrollarse. ✅ (Además de los esteroides que se dan a la madre antes del parto; McGoldrick 2020.)
 
 ## Transporte de gases — Oxígeno, CO₂ y hemoglobina
-**Oxígeno:** una fracción de un por ciento está disuelta en el plasma; la gran mayoría está unida a los sitios de hierro (hemo) de la **hemoglobina** dentro de los glóbulos rojos. ✅ Que la hemoglobina retenga o libere oxígeno sigue la **curva de disociación oxígeno-hemoglobina**: con baja concentración de oxígeno lo retiene; con alta, lo suelta.
+**Oxígeno:** alrededor del 3% está disuelto en el plasma (Guyton & Hall); la gran mayoría (alrededor del 97%) está unida a los sitios de hierro (hemo) de la **hemoglobina** dentro de los glóbulos rojos. ✅ Que la hemoglobina retenga o libere oxígeno sigue la **curva de disociación oxígeno-hemoglobina**. ✅ Corrección: funciona al revés: donde hay mucho oxígeno (los pulmones), la hemoglobina se carga; donde hay poco (el tejido en actividad), lo suelta (Guyton & Hall).
 
 | Señal | Efecto sobre la hemoglobina | Dónde tiene sentido |
 |---|---|---|
 | **Más CO₂** | Libera O₂ con más facilidad | El músculo en actividad que quema glucosa o grasa produce CO₂ |
 | **Más iones de hidrógeno** | Libera O₂ con más facilidad | La hidrólisis del ATP en un músculo activo produce H⁺ |
-| **Más 2,3-DPG** | Libera O₂ con más facilidad | La placenta indica a los glóbulos rojos de la madre que eleven el 2,3-DPG para que el bebé reciba oxígeno abundante |
+| **Más 2,3-DPG** | Libera O₂ con más facilidad | La placenta indica a los glóbulos rojos de la madre que eleven el 2,3-DPG para que el bebé reciba oxígeno abundante. 🟡 Verificación de evidencia: el 2,3-DPG sube en el embarazo, en la altura y en la anemia, pero la señal placentaria no está verificada; la razón principal de que el feto reciba oxígeno es que la hemoglobina fetal se une débilmente al 2,3-DPG y por eso retiene el oxígeno con más fuerza (Guyton & Hall) |
 
 ✅ Los dos primeros son lo que los objetivos de aprendizaje de Bikman llaman el **efecto Bohr**. Ambos aumentan con el ejercicio, así que el músculo efectivamente "exige" oxígeno sin ninguna señal consciente.
 
@@ -81,8 +81,8 @@ El gasto cardíaco depende de la **contractilidad ventricular** y del **volumen 
 
 ## Qué nos hace respirar — Regulación de la ventilación
 - **Quimiorreceptores centrales (cerebro, detrás de la barrera hematoencefálica):** el CO₂ la atraviesa, se convierte en bicarbonato y libera un ion de hidrógeno libre. El receptor detecta el **hidrógeno (pH)**, no el CO₂ en sí. Más H⁺ da una respiración más rápida y más profunda. ✅
-- **Quimiorreceptores periféricos:** los **cuerpos carotídeos** y los **cuerpos aórticos**, justo encima del corazón en la aorta y las arterias carótidas. Detectan tanto el H⁺ como el CO₂. ✅
-- **La hiperventilación del ejercicio** no es, por lo tanto, que los músculos le envíen un mensaje a un nervio: el músculo en actividad cambia el CO₂ y el H⁺ de la sangre, y los quimiorreceptores responden. ✅
+- **Quimiorreceptores periféricos:** los **cuerpos carotídeos** y los **cuerpos aórticos**, justo encima del corazón en la aorta y las arterias carótidas. Detectan tanto el H⁺ como el CO₂. ✅ También son los principales sensores de **oxígeno bajo** del cuerpo, el estímulo que importa en la altura y en las enfermedades pulmonares (Guyton & Hall).
+- **La hiperventilación del ejercicio** no es, por lo tanto, que los músculos le envíen un mensaje a un nervio: el músculo en actividad cambia el CO₂ y el H⁺ de la sangre, y los quimiorreceptores responden. 🔴 Verificación de evidencia: en el ejercicio moderado, el CO₂ y el pH arteriales se mantienen casi normales; la visión actual es que los quimiorreceptores no son el impulso principal y que contribuyen las señales del mando motor del cerebro (comando central) y de los nervios de las extremidades en ejercicio, aunque ningún mecanismo lo explica por completo (Forster 2012).
 - **Receptores pulmonares:** receptores de irritantes (el humo provoca tos o respiración restringida) y **receptores de estiramiento** (detienen la inhalación al estiramiento máximo). ✅
 
 ## Espirometría — Interpretar un problema respiratorio
@@ -93,11 +93,13 @@ La espirometría produce un **espirograma**, un trazo que sube con la inhalació
 | **Capacidad vital** | Exhalar todo lo posible y luego inhalar al máximo (el volumen residual nunca se expulsa) | Trastorno **restrictivo**: pulmón cicatrizado, fibrótico, "acartonado" (p. ej., por asbesto, polvo, humo) que ha perdido distensibilidad |
 | **VEF1** (volumen espiratorio forzado en un segundo) | Después de una inhalación completa, soplar lo más fuerte y rápido posible; volumen en 1 segundo | Trastorno **obstructivo**: vía aérea estrechada, "respirar por un popote"; inhala bien, exhala lentamente |
 
+✅ Nota sobre los estándares actuales: la obstrucción se define por una **relación VEF1/CVF** baja, no solo por un VEF1 bajo (el VEF1 también baja en la restricción), y una capacidad vital baja solo sugiere restricción hasta que se mide la capacidad pulmonar total (Stanojevic 2022).
+
 ## Apéndice de preguntas y respuestas — La preeclampsia como caso de estudio
-- La preeclampsia es uno de los trastornos más comunes del embarazo; aparece como presión arterial alta y una insuficiencia renal creciente; los médicos revisan la **proteína en orina** en cada consulta como indicador del daño renal. ✅
+- La preeclampsia es uno de los trastornos más comunes del embarazo; aparece como presión arterial alta y una insuficiencia renal creciente; los médicos revisan la **proteína en orina** en cada consulta como indicador del daño renal. ✅ 🟢 Verificación de evidencia: afecta a un pequeño porcentaje de los embarazos; la proteína en orina es el signo clásico, pero los criterios actuales permiten diagnosticarla sin ella cuando hay daño en otros órganos, y la insuficiencia renal es un rasgo grave, no el cuadro habitual (ACOG 2020).
 - La placenta (el pulmón del bebé, por eso tan vascularizada) usa el **VEGF** para formar vasos mediante señalización **autocrina**. El glomérulo renal también necesita VEGF para mantener intacto su filtro. ✅
-- En algunas mujeres, por una razón desconocida, la placenta libera **receptores solubles de VEGF** que absorben el VEGF. El VEGF cae, el glomérulo pierde proteína y los riñones fallan. Esto, y no la placenta en sí, es lo que amenaza a la madre. 🟡 La causa de la liberación de receptores se declara desconocida.
-- Una vez que comienzan las convulsiones es **eclampsia**, por lo general mortal. La única cura es expulsar la placenta (y por lo tanto al bebé); los riñones y la presión arterial se recuperan en cuestión de horas. El tira y afloja clínico consiste en ganar tiempo para el bebé, a menudo administrando a la madre **esteroides tipo cortisol (antiinflamatorios, no anabólicos)** para acelerar el desarrollo pulmonar fetal. ✅
+- En algunas mujeres, por una razón desconocida, la placenta libera **receptores solubles de VEGF** que absorben el VEGF. El VEGF cae, el glomérulo pierde proteína y los riñones fallan. 🟢 Este receptor soluble es el sFlt-1 (Maynard 2003; Levine 2004). Esto, y no la placenta en sí, es lo que amenaza a la madre. 🟡 La causa de la liberación de receptores se declara desconocida.
+- Una vez que comienzan las convulsiones es **eclampsia**, por lo general mortal. La única cura es expulsar la placenta (y por lo tanto al bebé); los riñones y la presión arterial se recuperan en cuestión de horas. 🔴 Verificación de evidencia: la eclampsia es una emergencia peligrosa, pero con atención oportuna la mayoría de las mujeres sobrevive; el sulfato de magnesio reduce aproximadamente a la mitad el riesgo de convulsiones (Magpie 2002), y el riesgo de muerte es mucho mayor donde falta atención médica (Fishel Bartal & Sibai 2022). Después del parto, la presión arterial suele tardar días o semanas en normalizarse, y la preeclampsia incluso puede aparecer por primera vez después del nacimiento (ACOG 2020). El tira y afloja clínico consiste en ganar tiempo para el bebé, a menudo administrando a la madre **esteroides tipo cortisol (antiinflamatorios, no anabólicos)** para acelerar el desarrollo pulmonar fetal. ✅ (betametasona o dexametasona; McGoldrick 2020)
 
 ## Frases clave y datos citables (Clase 4)
 - **"Realmente no se puede apreciar uno sin el otro."** — el corazón y los pulmones como un solo sistema.
@@ -114,9 +116,9 @@ La espirometría produce un **espirograma**, un trazo que sube con la inhalació
 ## Correcciones clave para tener presentes
 - 🔴 "La diástole es el corazón relajándose, la sístole el corazón contrayéndose": corregir a ventrículos relajados y llenándose versus ventrículos contrayéndose; las aurículas se contraen al final de la diástole.
 - 🔴 "Los ruidos cardíacos son la sangre corriendo": son válvulas que se cierran de golpe, principalmente las del lado izquierdo.
-- 🔴 "El músculo cardíaco funciona como el músculo esquelético": el mismo ciclo de puentes cruzados, pero arranca solo, de célula a célula, sin túbulos T, y el calcio entra primero desde el exterior.
+- 🔴 "El músculo cardíaco funciona como el músculo esquelético": el mismo ciclo de puentes cruzados, pero arranca solo, de célula a célula, sin túbulos T, y el calcio entra primero desde el exterior. ✅ Corrección: las células ventriculares sí tienen túbulos T (Bers 2002).
 - 🔴 "El CO₂ se transporta principalmente en la hemoglobina": el transportador principal es el bicarbonato.
-- 🔴 "El cerebro nos hace respirar en respuesta al oxígeno bajo": el impulso central es el ion de hidrógeno (pH) generado a partir del CO₂; esta clase no describe el oxígeno como la señal central principal.
+- 🔴 "El cerebro nos hace respirar en respuesta al oxígeno bajo": el impulso central es el ion de hidrógeno (pH) generado a partir del CO₂; esta clase no describe el oxígeno como la señal central principal. ✅ Los quimiorreceptores periféricos sí impulsan la respiración cuando el oxígeno está bajo (Guyton & Hall).
 - 🔴 "Exhalar sucede porque los pulmones se comprimen a sí mismos": es un cambio de presión por la reducción del volumen pulmonar (ley de Boyle).
 
 ## Conclusión práctica
@@ -133,7 +135,7 @@ C. \* Un problema valvular, ya sea estenosis (no se abre bien) o regurgitación 
 A. \* El músculo en actividad eleva el CO₂ y los iones de hidrógeno en la sangre, que estimulan los quimiorreceptores centrales (que detectan el H⁺ después de que el CO₂ atraviesa la barrera hematoencefálica) y los quimiorreceptores periféricos carotídeos y aórticos
 B. Las fibras musculares envían una señal nerviosa directa a los pulmones anunciando que están trabajando
 C. Los receptores de estiramiento pulmonar detectan que los músculos necesitan más oxígeno
-*Por qué A: Bikman afirma explícitamente que no es el músculo estimulando un nervio; el cuerpo detecta la química (CO₂ y H⁺) que produce el metabolismo.*
+*Por qué A: Bikman afirma explícitamente que no es el músculo estimulando un nervio; el cuerpo detecta la química (CO₂ y H⁺) que produce el metabolismo.* 🔴 Esta es la respuesta de la clase; según la investigación, el aumento casi inmediato es sobre todo neural (comando central y retroalimentación de los nervios de las extremidades), no impulsado por los quimiorreceptores (Forster 2012).
 
 **3. Un paciente inhala por completo con una capacidad vital normal pero, cuando se le pide que sople lo más fuerte posible, tarda muchos segundos extra en vaciar los pulmones (VEF1 bajo). ¿Con qué tipo de trastorno encaja y dónde está el problema?**
 A. Restrictivo, en el saco pulmonar, porque se ha perdido distensibilidad
@@ -159,3 +161,26 @@ C. \* El mayor estiramiento produce una contracción más fuerte, así que el vo
 - Detalle de las analogías: las demostraciones del puño en el globo y del plato sobre la encimera mojada se redujeron a una línea cada una.
 - Detalle del sistema nervioso autónomo más allá de los efectos bronquiales y sobre la frecuencia cardíaca, cubierto en el Cap. 2.
 - 🟡 Desliz de la transcripción: Bikman dice "estimulación autonómica" para el efecto placentario del VEGF y luego lo describe correctamente como autocrino; aquí se trata como autocrino.
+
+---
+**Referencias:**
+1. Hall JE, Hall ME. Tratado de fisiología médica de Guyton y Hall, 14.ª ed. [*título original: Guyton and Hall Textbook of Medical Physiology*]. Elsevier, 2021. [Elsevier (en inglés)](https://evolve.elsevier.com/cs/product/9780323597128)
+   - Libro de texto de referencia; respalda las correcciones sobre los ruidos cardíacos, la curva de la hemoglobina y los quimiorreceptores.
+2. Bers DM. Acoplamiento excitación-contracción cardíaco [*título original: Cardiac excitation-contraction coupling*]. *Nature* 2002;415:198–205. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/11805843/)
+   - Revisión clásica: las células del ventrículo sí tienen túbulos T, y el calcio sale por SERCA, el intercambiador sodio-calcio y una bomba de membrana.
+3. Forster HV, Haouzi P, Dempsey JA. Control de la respiración durante el ejercicio [*título original: Control of breathing during exercise*]. *Compr Physiol* 2012;2:743–777. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23728984/)
+   - Revisión: en el ejercicio el CO₂ arterial casi no cambia; los quimiorreceptores no son el impulso principal y hay señales del cerebro y de las extremidades.
+4. Stanojevic S, Kaminsky DA, Miller MR, et al. Estándar técnico ERS/ATS sobre estrategias de interpretación de las pruebas rutinarias de función pulmonar [*título original: ERS/ATS technical standard on interpretive strategies for routine lung function tests*]. *Eur Respir J* 2022;60:2101499. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/34949706/)
+   - Guía internacional de espirometría: la obstrucción se define por la relación VEF1/CVF.
+5. Colegio Americano de Obstetras y Ginecólogos. Hipertensión gestacional y preeclampsia: Boletín de práctica de ACOG n.º 222 [*título original: Gestational hypertension and preeclampsia: ACOG Practice Bulletin, Number 222*]. *Obstet Gynecol* 2020;135:e237–e260. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/32443079/)
+   - Guía clínica de EE. UU. sobre el diagnóstico de la preeclampsia y su vigilancia después del parto.
+6. Maynard SE, Min JY, Merchan J, et al. El exceso placentario de tirosina cinasa 1 soluble tipo fms (sFlt1) podría contribuir a la disfunción endotelial, la hipertensión y la proteinuria en la preeclampsia [*título original: Excess placental soluble fms-like tyrosine kinase 1 (sFlt1) may contribute to endothelial dysfunction, hypertension, and proteinuria in preeclampsia*]. *J Clin Invest* 2003;111:649–658. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/12618519/)
+   - Estudio que identificó el receptor soluble de VEGF (sFlt-1) que libera la placenta en la preeclampsia.
+7. Levine RJ, Maynard SE, Qian C, et al. Factores angiogénicos circulantes y riesgo de preeclampsia [*título original: Circulating angiogenic factors and the risk of preeclampsia*]. *N Engl J Med* 2004;350:672–683. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/14764923/)
+   - Estudio en embarazadas: el sFlt-1 sube semanas antes de que aparezca la preeclampsia.
+8. Grupo Colaborativo del Ensayo Magpie (Altman D, Carroli G, Duley L, et al.). ¿Se benefician las mujeres con preeclampsia, y sus bebés, del sulfato de magnesio? El ensayo Magpie: un ensayo aleatorizado controlado con placebo [*título original: Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial: a randomised placebo-controlled trial*]. *Lancet* 2002;359:1877–1890. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/12057549/)
+   - Gran ensayo internacional: el sulfato de magnesio reduce a la mitad el riesgo de eclampsia.
+9. Fishel Bartal M, Sibai BM. La eclampsia en el siglo XXI [*título original: Eclampsia in the 21st century*]. *Am J Obstet Gynecol* 2022;226(2S):S1237–S1253. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/32980358/)
+   - Revisión: la eclampsia es poco común donde hay buena atención prenatal y se trata con sulfato de magnesio y el parto; se cita para corregir que sea "por lo general mortal".
+10. McGoldrick E, Stewart F, Parker R, Dalziel SR. Corticosteroides prenatales para acelerar la maduración pulmonar fetal en mujeres con riesgo de parto prematuro [*título original: Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth*]. *Cochrane Database Syst Rev* 2020;12:CD004454. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/33368142/)
+   - Revisión sistemática: los esteroides a la madre antes del parto prematuro reducen la dificultad respiratoria y la muerte del recién nacido.

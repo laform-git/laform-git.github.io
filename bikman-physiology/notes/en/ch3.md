@@ -5,12 +5,12 @@
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 3 (transcript). Third lecture of a seven-lecture systems course; it builds directly on the electrophysiology (Ch.1) and peripheral nervous system (Ch.2) lectures. Ends with a short student Q&A on brain fuel, lactate, and ketones.*
 
 ## Why This Matters
-Muscle is, by mass, most of what a person is made of, and it is one of the most metabolically dynamic tissues in the body. Bikman's framing: muscle is the one cell type that physically changes size in milliseconds, and every concept from earlier lectures (action potentials, chemically gated channels, ATP, active vs. passive transport, nicotinic receptors) is used here with nothing new added except the muscle-specific hardware. The lecture also corrects two common beliefs: that "lactic acid" causes the burn, and that bigger muscles come from more muscle cells.
+Muscle is, by mass, the largest single tissue in most people (about 38% of body weight in men and 31% in women; Janssen 2000), and it is one of the most metabolically dynamic tissues in the body. Bikman's framing: muscle is the one cell type that physically changes size in milliseconds, and every concept from earlier lectures (action potentials, chemically gated channels, ATP, active vs. passive transport, nicotinic receptors) is used here with nothing new added except the muscle-specific hardware. The lecture also corrects two common beliefs: that "lactic acid" causes the burn, and that bigger muscles come from more muscle cells.
 
 ## The Organization of Muscle — From Whole Muscle to Fiber
 - **Hierarchy (big to small):** whole muscle → **fascicles** (bundles of muscle cells) → **muscle fibers** (each fiber is one muscle cell) → **myofibrils** (protein structures inside the cell) → **sarcomeres** (repeating functional units). ✅
-- **One neuron per fiber:** each muscle fiber is innervated by a single motor neuron at a **neuromuscular junction** (Bikman's "fingers on my hand" image: one nerve with several touch points on one fiber). ✅
-- **Graded response:** because fibers are individually innervated, a muscle does not have to fire all at once. Lifting something light recruits only a portion of the muscle. ✅
+- **One neuron per fiber:** each muscle fiber is innervated by a single motor neuron at a **neuromuscular junction** (Bikman's "fingers on my hand" image: one nerve with several touch points on one fiber). ✅ Note: each fiber has one neuromuscular junction, but one motor neuron branches to many fibers, forming a **motor unit** (Guyton & Hall).
+- **Graded response:** because fibers are individually innervated, a muscle does not have to fire all at once. Lifting something light recruits only a portion of the muscle. ✅ Force is graded by recruiting more motor units and firing them faster (Guyton & Hall).
 
 ## The Neuromuscular Junction — Nothing New, Just New Names
 1. Action potential runs down the presynaptic **motor neuron**.
@@ -19,7 +19,7 @@ Muscle is, by mass, most of what a person is made of, and it is one of the most 
 4. Acetylcholine binds **nicotinic cholinergic receptors** on the **motor end plate** (the muscle side). These are chemically gated ion channels.
 5. The muscle membrane **depolarizes** and fires its own action potential. ✅
 
-**Botox example:** botulinum toxin blocks the vesicles from releasing acetylcholine. The signal arrives and calcium enters, but no transmitter is released, so the muscle cannot be told to contract. It is paralysis of the targeted muscle (his example: face and forehead). ✅
+**Botox example:** botulinum toxin blocks the vesicles from releasing acetylcholine. The signal arrives and calcium enters, but no transmitter is released, so the muscle cannot be told to contract. It is paralysis of the targeted muscle (his example: face and forehead). ✅ The toxin cuts the SNARE proteins that let vesicles fuse with the membrane (Dong 2019).
 
 ## Excitation-Contraction Coupling — Getting the Signal Deep Inside
 - **T-tubules:** the signal does not just travel across the surface. Invaginations shaped like a letter T carry the action potential deep into the fiber. ✅
@@ -50,7 +50,7 @@ Calcium release is only the initiating step; it sets up the contraction rather t
 | **1. Calcium arrives** | Calcium binds **troponin**, which changes shape and moves tropomyosin aside. | Binding sites exposed |
 | **2. Attach** | Myosin head locks onto actin, forming the **cross-bridge**. | Bridge formed |
 | **3. Pi released** | Free phosphate leaves the head. | Triggers the stroke |
-| **4. Power stroke** | **ADP** leaves; the head changes shape and pulls actin, the first moment of shortening. | Force and shortening |
+| **4. Power stroke** | The head pivots and pulls actin, the first moment of shortening; **ADP** leaves at the end of the stroke. | Force and shortening |
 | **5. Detach** | **Fresh ATP** binds the empty head and pulls it off actin (still in the cranked position). | Release |
 | **6. Reset** | The ATPase **splits ATP** into ADP + Pi, re-cocking the head. | Ready to cycle again |
 
@@ -61,12 +61,12 @@ Calcium release is only the initiating step; it sets up the contraction rather t
 - **Stop the signal:** when the neuron stops firing, the DHP/ryanodine "cork" goes back in. ✅
 - **SERCA pumps** (sarco-endoplasmic reticulum calcium ATPase) actively pump calcium back into the SR. Because it is an ATPase pumping against a gradient, this is **active transport**. ✅
 - **Calcium leaves, troponin relaxes, tropomyosin re-covers the binding sites,** and the contraction ends. ✅
-- **ATP is needed for only two things:** (1) detaching and resetting the myosin head, and (2) pumping calcium back into the SR. ✅
+- **ATP is needed for only two things:** (1) detaching and resetting the myosin head, and (2) pumping calcium back into the SR. ✅ 🟢 Evidence check: textbooks add a third use, the sodium-potassium pump restoring the muscle membrane's ion gradients after each action potential (Guyton & Hall).
 - 🟢 **The irony:** ATP is arguably more important for relaxing than for contracting, but you must relax before you can contract again.
 
 ## Muscle Fiber Types
 
-| Feature | Type I | Type IIA | Type IIX (sometimes IIB) |
+| Feature | Type I | Type IIA | Type IIX (older texts: IIB) |
 | --- | --- | --- | --- |
 | **Nickname** | Slow oxidative ("diesel engine in a big rig") | Fast ("sports car") | Fastest, highest power |
 | **Primary fuel** | Mainly fat | Burns fuel much faster than type I | Burns fuel much faster than type I |
@@ -77,7 +77,7 @@ Calcium release is only the initiating step; it sets up the contraction rather t
 | **Example use** | Posture, back muscles, endurance | Jogging | Sprinting |
 
 - ✅ Three things differ together: ATPase speed, calcium-handling speed, and fuel type. Together they define each fiber's function.
-- 🟡 Bikman states type I "relies primarily on fat" and type II as "fast glycolytic" in broad strokes; he does not give quantitative fuel splits.
+- 🟡 Bikman states type I "relies primarily on fat" and type II as "fast glycolytic" in broad strokes; he does not give quantitative fuel splits. ✅ In adult human limb muscle the fastest fibers are type IIX; true type IIB fibers are found in small mammals such as rodents (Schiaffino & Reggiani 2011).
 
 ## Hypertrophy — Bigger Cells, Not More Cells
 - Chronic exercise challenge makes muscle grow through **hypertrophy**: the **number of muscle cells stays the same**, but each cell gets bigger. ✅
@@ -86,29 +86,29 @@ Calcium release is only the initiating step; it sets up the contraction rather t
 
 ## Fatigue and the Lactate Myth
 - **Fatigue** = the muscle cannot keep producing the same force. Two causes, which can overlap: **fuel shortage** (uncommon, but possible in very long events like a marathon) and **metabolite accumulation** (more common). ✅
-- **Potassium** accumulation interferes with the cell's ability to handle calcium, which disrupts the cross-bridge cycle. ✅
-- **Hydrogen ions** come from ATP hydrolysis, acidify the muscle, and activate **nociceptors** (pain receptors). The "burn" is a pH change, not a temperature change. ✅
-- **Lactate, not lactic acid:** Bikman says humans make **lactate**, not lactic acid. Lactate does not affect pH, and it is a usable fuel: the liver can convert it back to glucose and the brain can burn it directly. ✅
+- **Potassium** accumulation interferes with the cell's ability to handle calcium, which disrupts the cross-bridge cycle. 🟢 Evidence check: potassium building up outside the fibers mainly reduces their electrical excitability; inorganic phosphate from ATP and creatine-phosphate breakdown is a major cause of fatigue that impairs calcium release and cross-bridge force (Allen 2008).
+- **Hydrogen ions** come from ATP hydrolysis, acidify the muscle, and activate **nociceptors** (pain receptors). The "burn" is a pH change, not a temperature change. ✅ 🟢 Evidence check: in human experiments, the burning sensation needed protons, lactate and ATP together acting on muscle sensory nerves (Pollak 2014).
+- **Lactate, not lactic acid:** Bikman says humans make **lactate**, not lactic acid. Lactate does not affect pH, and it is a usable fuel: the liver can convert it back to glucose and the brain can burn it directly. ✅ for lactate as a fuel (Brooks 2018). 🟡 Evidence check on pH: at body pH lactic acid is almost fully split into lactate plus a proton, so "no lactic acid" is true only in that sense. Robergs 2004 argues the protons come from ATP hydrolysis, not lactate; Böning & Maassen 2008 argue lactic acid production is the main cause of exercise acidosis. The question is still debated.
 - **Where the myth comes from:** a working muscle gets more acidic and blood lactate rises at the same time, so they look causal, but both are simply markers of a very active cell. ✅
 
 ## Student Q&A — Brain Fuel, Ketones, and Exercise
-- **The brain's two main fuels** are glucose and ketones. At equal concentrations (his example: 5 mM each), the brain takes about **70% of its energy from ketones**. His interpretation: high ketones signal low carbohydrate intake, so the brain leaves liver-made glucose for other tissues. ✅
-- **Lactate** is also a good brain fuel; a low-lactate IV infusion is mentioned as a therapy after traumatic brain injury. ✅
-- **Exercise early in a fast** speeds the onset of ketosis (his group published a paper on this), because it lowers glucose and insulin and accelerates fat burning. ✅
-- **Neurological disorders:** he cites reduced glucose use by the brain as a common theme (migraine, Alzheimer's, Parkinson's, bipolar disorder) and says raising ketones helps in each: clearer cognition in Alzheimer's, migraines stopping "almost instantly." He is explicit that this is not a reversal of disease. 🟡 These are his claims in a Q&A answer, not supported with data in the lecture.
+- **The brain's two main fuels** are glucose and ketones. At equal concentrations (his example: 5 mM each), the brain takes about **70% of its energy from ketones**. His interpretation: high ketones signal low carbohydrate intake, so the brain leaves liver-made glucose for other tissues. 🟢 Evidence check: after weeks of fasting, ketones became the brain's predominant fuel, about two-thirds of its energy (Owen 1967; Cahill 2006); the "equal 5 mM concentrations" framing is his. 🔴 The reason (sparing glucose for other tissues) is his interpretation.
+- **Lactate** is also a good brain fuel; a low-lactate IV infusion is mentioned as a therapy after traumatic brain injury. 🟡 Evidence check: small studies of sodium lactate infusion after severe brain injury improved brain energy markers (Bouzat 2014), but it is not standard care.
+- **Exercise early in a fast** speeds the onset of ketosis (his group published a paper on this), because it lowers glucose and insulin and accelerates fat burning. 🟢 Evidence check: in his group's crossover trial of 20 adults, treadmill exercise at the start of a 36-hour fast raised ketone (BHB) levels over the fast, but insulin was not lowered further by exercise (Deru 2021).
+- **Neurological disorders:** he cites reduced glucose use by the brain as a common theme (migraine, Alzheimer's, Parkinson's, bipolar disorder) and says raising ketones helps in each: clearer cognition in Alzheimer's, migraines stopping "almost instantly." He is explicit that this is not a reversal of disease. 🟡 These are his claims in a Q&A answer, not supported with data in the lecture. 🟡 Evidence check: the ketogenic diet is an established therapy for drug-resistant epilepsy (Martin-McGill 2020); for Alzheimer's, only small, short trials exist (e.g. Phillips 2021, 26 patients, 12 weeks), and evidence for migraine and bipolar disorder is early-stage. "Almost instantly" is not supported.
 
 ## Punchlines & Quotable Facts (Lecture 3)
-- **"By mass, most people are more muscle than they are anything else."**
+- **"By mass, most people are more muscle than they are anything else."** 🟡 Muscle is the largest single tissue in lean adults (about 31–38% of body weight; Janssen 2000), but fat mass can exceed it in people with obesity.
 - **ATP is needed for only two parts of the process:** the cross-bridge reset and calcium re-uptake. Not everything in contraction burns ATP directly.
 - **"ATP is actually more important to the muscle relaxing than it is to contracting."**
 - **Calcium is the "uncorking"; the DHP receptor is the cork, the ryanodine receptor is the opening.**
-- **"Humans don't make lactic acid. You don't have a single speck of lactic acid in your bodies right now."**
+- **"Humans don't make lactic acid. You don't have a single speck of lactic acid in your bodies right now."** 🟡 See the evidence check in the lactate section: true in the sense that it is almost fully dissociated, but whether lactate production drives acidosis is debated.
 - **Muscle burn is a pH change from hydrogen ions, not heat, and not lactate.**
 - **Hypertrophy: same number of cells, each one bigger.**
-- **At equal concentrations, the brain takes about 70% of its energy from ketones.**
+- **At equal concentrations, the brain takes about 70% of its energy from ketones.** 🟢 Prolonged-fasting studies give about two-thirds (Owen 1967; Cahill 2006).
 
 ## Key Corrections to Carry Forward
-- 🔴 "Lactic acid causes muscle burn": there is no lactic acid in the human body, lactate has no effect on pH, and it is a fuel. The burn tracks hydrogen ions from ATP hydrolysis.
+- 🔴 "Lactic acid causes muscle burn": there is no lactic acid in the human body, lactate has no effect on pH, and it is a fuel. The burn tracks hydrogen ions from ATP hydrolysis. 🟡 The fuel part is solid; the pH part is debated (Robergs 2004; Böning & Maassen 2008).
 - 🔴 "Muscle grows by adding cells": in this framework, growth is hypertrophy, with the same number of cells and more contractile protein in each.
 - 🔴 "ATP powers contraction and calcium just triggers it": ATP is also required to detach and to pump calcium out; without fresh ATP the myosin stays bound and the muscle cannot relax.
 - 🔴 "The whole muscle always contracts together": individually innervated fibers allow graded, partial activation.
@@ -153,3 +153,20 @@ C. \* It has a faster myosin ATPase and faster calcium handling, so it cycles cr
 - Restated recap: the long end-of-lecture three-process summary that repeated the signal, calcium, and cross-bridge sections already captured above.
 - Transcript slips resolved rather than copied: one line named the receptor as "nicotinic, muscarinic, or the nicotinic," which he corrected to nicotinic; one line gave "type IIA slow contraction," which from context he meant for type I.
 
+---
+**References:**
+1. Janssen I, Heymsfield SB, Wang ZM, Ross R. Skeletal muscle mass and distribution in 468 men and women aged 18–88 yr. *J Appl Physiol* 2000;89:81–88. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10904038/)
+2. Hall JE, Hall ME. *Guyton and Hall Textbook of Medical Physiology*, 14th ed. Elsevier, 2021. [Elsevier](https://evolve.elsevier.com/cs/product/9780323597128)
+3. Dong M, Masuyer G, Stenmark P. Botulinum and tetanus neurotoxins. *Annu Rev Biochem* 2019;88:811–837. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30388027/)
+4. Schiaffino S, Reggiani C. Fiber types in mammalian skeletal muscles. *Physiol Rev* 2011;91:1447–1531. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22013216/)
+5. Allen DG, Lamb GD, Westerblad H. Skeletal muscle fatigue: cellular mechanisms. *Physiol Rev* 2008;88:287–332. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18195089/)
+6. Pollak KA, Swenson JD, Vanhaitsma TA, et al. Exogenously applied muscle metabolites synergistically evoke sensations of muscle fatigue and pain in human subjects. *Exp Physiol* 2014;99:368–380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24142455/)
+7. Robergs RA, Ghiasvand F, Parker D. Biochemistry of exercise-induced metabolic acidosis. *Am J Physiol Regul Integr Comp Physiol* 2004;287:R502–R516. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15308499/)
+8. Böning D, Maassen N. Point: Lactic acid is the only physicochemical contributor to the acidosis of exercise. *J Appl Physiol* 2008;105:358–359. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18276903/)
+9. Brooks GA. The science and translation of lactate shuttle theory. *Cell Metab* 2018;27:757–785. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29617642/)
+10. Owen OE, Morgan AP, Kemp HG, et al. Brain metabolism during fasting. *J Clin Invest* 1967;46:1589–1595. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6061736/)
+11. Cahill GF Jr. Fuel metabolism in starvation. *Annu Rev Nutr* 2006;26:1–22. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16848698/)
+12. Bouzat P, Sala N, Suys T, et al. Cerebral metabolic effects of exogenous lactate supplementation on the injured human brain. *Intensive Care Med* 2014;40:412–421. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24477453/)
+13. Deru LS, Bikman BT, Davidson LE, et al. The effects of exercise on β-hydroxybutyrate concentrations over a 36-h fast: a randomized crossover study. *Med Sci Sports Exerc* 2021;53:1987–1998. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33731648/)
+14. Martin-McGill KJ, Bresnahan R, Levy RG, Cooper PN. Ketogenic diets for drug-resistant epilepsy. *Cochrane Database Syst Rev* 2020;6:CD001903. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32588435/)
+15. Phillips MCL, Deprez LM, Mortimer GMN, et al. Randomized crossover trial of a modified ketogenic diet in Alzheimer's disease. *Alzheimers Res Ther* 2021;13:51. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33622392/)
