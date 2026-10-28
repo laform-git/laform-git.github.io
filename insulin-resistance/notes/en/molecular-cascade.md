@@ -13,7 +13,7 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 |---|---|
 | Insulin Receptor (IR) | The lock on the cell surface |
 | Phosphorylation | Sticking a phosphate tag onto a protein — turns it on or off |
-| IRS-1 | First relay inside the cell — the first domino |
+| IRS-1 / IRS-2 | First relays inside the cell — the first domino (IRS-1 dominates in muscle, IRS-2 in liver) |
 | PI3K | Enzyme that lights the assemble-here flare |
 | PIP2 / PIP3 | Membrane signals — PIP3 is the active flare |
 | PDK1 + mTORC2 | Two enzymes that together fully activate Akt |
@@ -25,7 +25,7 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 | mTORC1 / SREBP | Build fat and protein — Akt fires them up |
 | DAG | Fat byproduct that jams IRS-1 |
 | Ceramide | Fat byproduct that disables Akt |
-| PKCθ/ε | Enzyme activated by DAG — puts wrong tag on IRS-1 |
+| PKCθ/ε | Enzymes activated by DAG — PKCθ puts a wrong tag on IRS-1 (muscle); PKCε blocks the receptor's own kinase (liver) |
 | PP2A | Enzyme activated by ceramide — strips Akt's activation tags |
 
 ---
@@ -45,9 +45,10 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 
 ### Step 3 — IRS-1 docking (first domino)
 
-- Active receptor phosphorylates IRS-1
+- Active receptor phosphorylates IRS-1 (and IRS-2, the main relay in liver)
 - Tyrosine-phosphate tags act as Velcro docking stations for the next proteins
 - Most critical relay point — if jammed here, the whole chain fails
+- 🟢 In muscle of people with obesity or type 2 diabetes, insulin's activation of IRS-1–PI3K is sharply reduced, and this tracks glucose disposal (Cusi 2000)
 
 ### Step 4 — PI3K lights the flare
 
@@ -60,7 +61,7 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 - PIP3 recruits PDK1 and Akt to the membrane
 - PDK1 tags Akt at Thr308; mTORC2 tags Akt at Ser473
 - Both tags required = Akt fully ON
-- ✅ Rock solid: dual phosphorylation is textbook
+- ✅ Rock solid: dual phosphorylation is textbook (mTORC2 as the Ser473 kinase: Sarbassov 2005)
 
 ### Step 6 — Akt fires 4 payoffs simultaneously
 
@@ -76,16 +77,19 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 **Payoff 3 — Liver shuts off glucose production**
 - Akt ejects FOXO1 from nucleus → genes PEPCK and G6Pase go silent
 - ✅ Rock solid
+- In the whole body, much of insulin's fast suppression of liver glucose output is indirect — by curbing fat breakdown (lipolysis) in fat tissue and glucagon — not only this direct liver signal 🟢 (Petersen & Shulman 2018)
 
 **Payoff 4 — Fat and protein synthesis**
 - Akt fires mTORC1 and SREBP-1c → storage and building mode
+- ✅ Rock solid: Akt → mTORC1 → SREBP-1c drives fat synthesis in normal physiology
 - This branch stays partially active even in insulin resistance — IR blocks glucose uptake AND keeps promoting fat storage simultaneously
-- ✅ Rock solid
+- 🟢 The phenomenon ("selective hepatic insulin resistance": high glucose plus high triglycerides) is well documented (Brown & Goldstein 2008). 🟡 Its cause is contested: one view is a still-sensitive SREBP-1c branch; another is that excess substrate (glucose diverted from insulin-resistant muscle, plus fatty acids) drives liver fat production largely independent of insulin signaling (Petersen 2007; Petersen & Shulman 2018)
 
 ### Step 7 — The growth branch (MAPK, parallel)
 
 - IRS-1 also feeds: Grb2 → Ras → Raf → MEK → ERK
 - Handles cell growth, not glucose — stays active even when metabolic branch fails
+- 🟢 In muscle from people with type 2 diabetes, insulin's activation of the MAPK branch was normal while the PI3K branch was nearly absent (Cusi 2000)
 
 ---
 
@@ -93,22 +97,25 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 
 ### Saboteur 1 — DAG jams Step 3 (IRS-1)
 
-- Ectopic fat (fat inside muscle or liver cells) produces DAG
-- DAG activates PKCθ (muscle) or PKCε (liver)
-- PKC slaps an inhibitory serine phosphate on IRS-1 — the wrong tag
-- IRS-1 can no longer relay the signal — first domino never falls
-- 🟢 Strong evidence
+- Ectopic fat (fat inside muscle or liver cells) produces DAG — specifically, DAG builds up when fat enters these cells faster than it can be burned or safely stored. Stored fat droplets themselves are fairly inert: endurance athletes carry high muscle fat yet are very insulin sensitive (Goodpaster 2001)
+- DAG activates PKCθ (muscle; shown in humans: Szendroedi 2014) or PKCε (liver)
+- In muscle, PKCθ slaps an inhibitory serine phosphate on IRS-1 (Ser1101) — the wrong tag (Li 2004)
+- In liver, PKCε instead tags the insulin receptor itself (Thr1160), blocking its kinase activity (Petersen 2016)
+- The signal relays only weakly — the first domino barely tips
+- 🟢 Strong evidence for DAG → PKC → insulin resistance in human muscle and liver
+- 🟡 The serine-tag step is less settled: IRS proteins have more than 50 serine/threonine sites with both positive and negative effects, and their exact role in living tissue is debated (Copps & White 2012)
 
 ### Saboteur 2 — Ceramide disables Step 5 (Akt)
 
 - Ectopic fat also produces ceramide
-- Ceramide activates PP2A, which strips activating phosphates OFF Akt
+- Ceramide activates PP2A, which strips activating phosphates OFF Akt (and PKCζ, which keeps Akt away from the membrane)
 - Even if Steps 1–4 worked, the signal dies here
-- 🟢 Strong evidence
+- 🟢 Strong evidence in cell and animal studies (Chavez & Summers 2012)
+- 🟡 In humans the data are less consistent than for DAG (Petersen & Shulman 2018)
 
 ### The Cruel Irony
 
-- Both saboteurs come from fat in the wrong place
+- Both saboteurs come from fat in the wrong place (other contributors — inflammation, ER stress, and high insulin itself — are also proposed 🟡 Petersen & Shulman 2018)
 - Fat-storage branch (Payoff 4) keeps running while glucose handling is jammed
 - IR simultaneously blocks glucose uptake AND continues promoting fat storage
 
@@ -116,27 +123,30 @@ Insulin resistance is not a broken lock — it is a jammed chain of dominoes ins
 
 ## One-Breath Summary
 
-Insulin binds → receptor self-activates → IRS-1 tagged → PI3K lights PIP3 flare → Akt double-tagged ON → GLUT4 opens + glycogen stored + liver shut off + fat built. Resistance = DAG jams IRS-1 at Step 3, ceramide kills Akt at Step 5. Both caused by fat in the wrong place.
+Insulin binds → receptor self-activates → IRS-1 tagged → PI3K lights PIP3 flare → Akt double-tagged ON → GLUT4 opens + glycogen stored + liver shut off + fat built. Resistance = DAG jams the signal at Step 3 (IRS-1 in muscle, the receptor's kinase in liver), ceramide kills Akt at Step 5. Both caused by fat in the wrong place.
 
 ---
 
 ## Why Berberine, Exercise & Fasting All Work
 
-- All three activate AMPK — a parallel bypass that circumvents the jammed cascade
+- All three activate AMPK — a parallel bypass that circumvents the jammed cascade 🟡 (fully true only for exercise; see below)
 - AMPK drives GLUT4 to the surface independently of IRS-1 and Akt
-- This is why they restore insulin sensitivity even when the top of the cascade is broken
+- **Exercise:** muscle contraction moves GLUT4 to the surface through signals separate from insulin, and this still works in insulin-resistant muscle ✅. AMPK is one of these signals, but not the only one — no single pathway fully explains it (Sylow 2017) 🟢
+- **Berberine:** activates AMPK and moves GLUT4 independently of PI3K in cell and animal studies (Lee 2006) 🟢; in humans it likely acts through several routes, and the AMPK bypass as the main explanation is 🟡
+- **Fasting / calorie deficit:** works mainly by emptying liver fat and glycogen and lowering insulin, not through a direct AMPK–GLUT4 bypass; that framing is 🔴 interpretation
+- This is why they restore insulin sensitivity even when the top of the cascade is broken 🟡 — exercise and weight loss also repair the cascade itself by draining ectopic fat (see Practical Takeaway)
 
 ---
 
 ## Key Correction
 
-> The receptor (lock) usually works fine. The jam is inside — at IRS-1 (Step 3, DAG) or Akt (Step 5, ceramide). The key fits. The message gets lost.
+> Insulin usually binds the receptor (lock) fine. The jam is inside — at IRS-1 in muscle or the receptor's own kinase in liver (Step 3, DAG), or at Akt (Step 5, ceramide). The key fits. The message gets lost.
 
 ---
 
 ## Practical Takeaway
 
-Draining ectopic fat from muscle and liver — through exercise, caloric deficit, or reducing refined carbohydrate load — is the most direct way to unjam both saboteur points and restore insulin sensitivity.
+Draining ectopic fat from muscle and liver — through exercise, caloric deficit, or reducing refined carbohydrate load — is the most direct way to unjam both saboteur points and restore insulin sensitivity. 🟢 In people with type 2 diabetes, losing about 8 kg cut liver fat by about 80% and normalized liver insulin resistance and fasting glucose (Petersen 2005); in the DiRECT trial, an intensive weight-loss program put 46% of people with recent type 2 diabetes into remission at 12 months (Lean 2018). Calorie deficit is the proven driver; cutting refined carbohydrate helps mainly by lowering calories and liver fat production 🟡.
 
 ---
 
@@ -145,3 +155,21 @@ Draining ectopic fat from muscle and liver — through exercise, caloric deficit
 - AMPK deep dive — how berberine, exercise, and fasting hit the same bypass
 - Full GLUT4 trafficking mechanism
 - mTORC1 vs mTORC2 — different roles in the same cascade
+
+---
+**References:**
+1. Petersen MC, Shulman GI. Mechanisms of insulin action and insulin resistance. *Physiol Rev* 2018;98(4):2133-2223. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30067154/)
+2. Sarbassov DD, Guertin DA, Ali SM, et al. Phosphorylation and regulation of Akt/PKB by the rictor-mTOR complex. *Science* 2005;307(5712):1098-1101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15718470/)
+3. Cusi K, Maezono K, Osman A, et al. Insulin resistance differentially affects the PI 3-kinase- and MAP kinase-mediated signaling in human muscle. *J Clin Invest* 2000;105(3):311-320. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10675357/)
+4. Brown MS, Goldstein JL. Selective versus total insulin resistance: a pathogenic paradox. *Cell Metab* 2008;7(2):95-96. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18249166/)
+5. Petersen KF, Dufour S, Savage DB, et al. The role of skeletal muscle insulin resistance in the pathogenesis of the metabolic syndrome. *Proc Natl Acad Sci U S A* 2007;104(31):12587-12594. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17640906/)
+6. Goodpaster BH, He J, Watkins S, Kelley DE. Skeletal muscle lipid content and insulin resistance: evidence for a paradox in endurance-trained athletes. *J Clin Endocrinol Metab* 2001;86(12):5755-5761. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11739435/)
+7. Szendroedi J, Yoshimura T, Phielix E, et al. Role of diacylglycerol activation of PKCθ in lipid-induced muscle insulin resistance in humans. *Proc Natl Acad Sci U S A* 2014;111(26):9597-9602. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24979806/)
+8. Li Y, Soos TJ, Li X, et al. Protein kinase C Theta inhibits insulin signaling by phosphorylating IRS1 at Ser(1101). *J Biol Chem* 2004;279(44):45304-45307. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15364919/)
+9. Petersen MC, Madiraju AK, Gassaway BM, et al. Insulin receptor Thr1160 phosphorylation mediates lipid-induced hepatic insulin resistance. *J Clin Invest* 2016;126(11):4361-4371. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27760050/)
+10. Copps KD, White MF. Regulation of insulin sensitivity by serine/threonine phosphorylation of insulin receptor substrate proteins IRS1 and IRS2. *Diabetologia* 2012;55(10):2565-2582. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22869320/)
+11. Chavez JA, Summers SA. A ceramide-centric view of insulin resistance. *Cell Metab* 2012;15(5):585-594. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22560211/)
+12. Sylow L, Kleinert M, Richter EA, Jensen TE. Exercise-stimulated glucose uptake - regulation and implications for glycaemic control. *Nat Rev Endocrinol* 2017;13(3):133-148. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27739515/)
+13. Lee YS, Kim WS, Kim KH, et al. Berberine, a natural plant product, activates AMP-activated protein kinase with beneficial metabolic effects in diabetic and insulin-resistant states. *Diabetes* 2006;55(8):2256-2264. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16873688/)
+14. Petersen KF, Dufour S, Befroy D, et al. Reversal of nonalcoholic hepatic steatosis, hepatic insulin resistance, and hyperglycemia by moderate weight reduction in patients with type 2 diabetes. *Diabetes* 2005;54(3):603-608. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15734833/)
+15. Lean MEJ, Leslie WS, Barnes AC, et al. Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomised trial. *Lancet* 2018;391(10120):541-551. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29221645/)
