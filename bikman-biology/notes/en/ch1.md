@@ -1,3 +1,4 @@
+
 # Bikman — Basics of Biology, Ch.1: The Cell — Life's Basic Unit
 *Defines what "alive" means, lays out cell theory and the prokaryote/eukaryote split, tours the organelles, and explains why the phospholipid-and-cholesterol membrane is what lets a cell function.*
 

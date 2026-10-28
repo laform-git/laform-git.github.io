@@ -1,3 +1,4 @@
+
 # Bikman — Basics of Biology, Ch.2: Crossing the Cell Wall
 *Explains how molecules and water cross the cell membrane — diffusion, osmosis, tonicity, channels, transporters (SGLT and GLUT), and vesicle transport — the mechanics sitting underneath insulin action, SGLT2-inhibitor drugs, and LDL uptake.*
 
