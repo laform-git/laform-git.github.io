@@ -26,6 +26,15 @@
     "status": "Live"
   },
   {
+    "name": "Latter-day Saints (Mormons)",
+    "section": "Faith",
+    "path": "mormonism/",
+    "label": "Apologetics",
+    "blurb": "Their 10 main errors and how to answer the missionaries at the door.",
+    "langs": "English · Español",
+    "status": "Live"
+  },
+  {
     "name": "Marian Antiphons",
     "section": "Faith",
     "path": "marian-antiphons/",
