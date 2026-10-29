@@ -9,17 +9,17 @@ This is the thematic hinge of the course. Instead of a straight timeline, Posner
 ## The Setup — The "Age of Anxiety" Becomes a Market
 - Post-World War II America is prosperous but anxious about rapid change; Posner cites Auden's poem *The Age of Anxiety*, Bernstein's symphony of the same name, and Time/Newsweek articles using the phrase. ✅
 - Pharma's insight: if emotional discomfort could be **medicalized**, it could be sold a chemical solution. Posner calls this "pathologizing normal emotion." 🟡 (his framing)
-- Starting point, barbiturates: heavy downers, dependence-forming, dangerous with alcohol. Lilly's "Secanol" (transcript spelling; the brand is usually written Seconal 🟡) was the top seller into the early 1950s. ✅
+- Starting point, barbiturates: heavy downers, dependence-forming, dangerous with alcohol. Lilly's "Secanol" (transcript spelling; the brand is **Seconal**, secobarbital: López-Muñoz 2005) was the top seller into the early 1950s. ✅
 - Posner restates his course thesis: the industry's DNA is in addictive products (Civil War morphine onward), and when a new product turns out to be addictive, companies "bury the information until they can't ignore it anymore." 🟡
 
 ## Thorazine to Miltown — Inventing the "Mild Tranquilizer"
 
 | Drug | Maker | Key numbers (as stated) |
 | --- | --- | --- |
-| Thorazine | Smith Kline (rights bought from French discovery, 1953) | 3 million prescriptions in year one; 80% by psychiatrists, mostly in asylums; 99.6% of US tranquilizer sales in 1954–55 |
+| Thorazine | Smith Kline (rights bought from French discovery, 1953; 🟡 US clinical use began in 1954: López-Muñoz 2005) | 3 million prescriptions in year one; 80% by psychiatrists, mostly in asylums; 99.6% of US tranquilizer sales in 1954–55 |
 | Miltown / Equanil (chemical twins) | Carter Products / Wyeth (American Home Products) | From under 1% to 70% of tranquilizer sales in one year; 36 million prescriptions, one-third of all prescriptions in 1957; 1 in 20 Americans had tried it within two years |
 
-- Thorazine origin: Posner says a French surgeon found it by accident while looking for a malaria cure. 🟡 His account; not verified here.
+- Thorazine origin: Posner says a French surgeon found it by accident while looking for a malaria cure. 🟡 His account. Evidence check: partly right. Phenothiazines had been used as antimalarials before 1940, but chlorpromazine was made at Rhône-Poulenc in December 1950 during antihistamine research; the French navy surgeon Henri Laborit used it in anaesthesia, and psychiatrists adopted it in 1952 (López-Muñoz 2005).
 - **Arthur Sackler's brief:** a hit drug must be prescribed by ordinary doctors, not psychiatrists. He wanted "Thorazine light," an "emotional aspirin," ultimately a lifestyle pill taken not for illness but to feel better about everyday life. ✅ (Posner cites Sackler's notes)
 - Miltown came from **Carter Products**, a consumer company (Carter's Little Liver Pills, Nair, Arrid), not a Sackler client. Named after the New Jersey testing location. Carter sat on it for nearly a year, doubting a market existed. ✅
 - **The regulatory naming trick:** Carter rejected "tranquilizer" (too Thorazine) and "barbiturate," and proposed a new FDA category, **"mild tranquilizer."** With nothing else in that category, doctors assumed it was safe. ✅
@@ -27,10 +27,11 @@ This is the thematic hinge of the course. Instead of a straight timeline, Posner
 - Cultural twist: people **bragged** about taking Miltown as a sign they were busy and successful. ✅
 - 1958 AMA convention, San Francisco: Salvador Dalí (whose wife Gala was a user) built a 60-foot walk-through "dream state" installation; $100,000 total, $60,000 his fee; later destroyed. ✅
 - Ads to doctors claimed "Proven, Scientific, Selective" before any such proof was required, and pushed it for pregnancy, allergic patients, chronic disease and "battered parent syndrome." ✅
+- (Miltown's 1955 launch by Carter Products came with a huge marketing blitz, making it one of the first celebrity blockbuster drugs: Herzberg 2011.)
 - The problem: Miltown was "barbiturates light": high dependence and overdose risk with alcohol, later psychomotor dysfunction (stumbling, dropping things). This set Posner's template: hit, then problems, then sales fall, then a "new and improved" replacement. 🟡 (his pattern)
 
 ## The Executive Monkey — Bad Science as Marketing
-- 1950s Walter Reed Army experiments on stress (not pharma-funded): two restrained monkeys shocked every 15–20 seconds; one could press a lever to stop the shocks for both. At autopsy, the lever-pressing **"executive monkey"** had ulcers; the passive one did not. ✅ Posner calls it "bad science." 🟡
+- 1950s Walter Reed Army experiments on stress (not pharma-funded): two restrained monkeys shocked every 15–20 seconds; one could press a lever to stop the shocks for both. At autopsy, the lever-pressing **"executive monkey"** had ulcers; the passive one did not. ✅ (Brady 1958) Posner calls it "bad science." 🟡
 - Sackler's use of it: men (breadwinners) are executive monkeys who need anti-anxiety drugs to avoid ulcers and work better; women at home have "exhaustion or frustrations" recast as being overwrought or hysterical, needing calm to be better mothers and wives. ✅ (as Posner describes the pitch)
 
 ## The Ads — "Now She Can Cope"
@@ -49,14 +50,14 @@ Posner's Valium "life album" ad: a fictional 35-year-old single woman labeled "p
 
 ## Amphetamines — The Diet Pill Interlude
 - 1960s amphetamines sold as diet pills (mainly to women), "pep pills" and mood elevators. Thousands of **diet clinics** opened, most of them subsidiaries of drug companies. ✅
-- Margin: 100,000 10-mg pills cost the clinic **$71** and sold for **$12,000**. ✅
-- By the mid-1960s the government estimated about **half** of diet-clinic amphetamines were diverted to the street, the same pattern later seen with OxyContin. ✅
-- FDA template, per Posner: slow and behind. It received reports of "amphetamine-induced psychosis, antisocial behavior, and crippling paranoia," accepted company assurances they were rare, and in 1963 nearly approved CIBA's Dexamyl for **over-the-counter** sale before reversing at the last moment. ✅ (facts) 🟡 (characterization)
+- Margin: 100,000 10-mg pills cost the clinic **$71** and sold for **$12,000**. 🟡 (as stated; unverified)
+- By the mid-1960s the government estimated about **half** of diet-clinic amphetamines were diverted to the street, the same pattern later seen with OxyContin. 🟡 (as stated; unverified)
+- FDA template, per Posner: slow and behind. It received reports of "amphetamine-induced psychosis, antisocial behavior, and crippling paranoia," accepted company assurances they were rare, and in 1963 nearly approved CIBA's Dexamyl for **over-the-counter** sale before reversing at the last moment. 🟡 (as stated; we could not verify the Dexamyl episode)
 
 ## Librium and Valium — The "Emotional Aspirin" Arrives
 - Hoffmann-La Roche's **Librium** (1960) launched the **benzodiazepines**: a genuinely better side-effect profile than Miltown, with less apparent dependence and alcohol-overdose risk at prescribed doses. Posner's caveat: it was always being compared to the worse drug before it. ✅
 - **Valium** (1963) is a "me-too" of Librium. Roche and Sackler debated cannibalization and decided it would be additive. ✅
-- Sales: Librium became the No.1 US drug; Valium replaced it, became the **first $100 million and then the first billion-dollar drug**, and stayed the world's No.1 drug for **15 years**. ✅
+- Sales: Librium became the No.1 US drug; Valium replaced it, became the **first $100 million and then the first billion-dollar drug**, and stayed the world's No.1 drug for **15 years**. ✅ (as stated; the "first billion-dollar drug" title is unverified here)
 - By around 1970, Posner says, **20% of adult American women** were regular users; 70–80% of benzo prescriptions went to women. ✅ (as stated)
 - The message to women, in Posner's paraphrase of the Sackler/Roche material: anxiety, loneliness or being unheard "are not social problems... They are chemical imbalances." Ad language included "renewed calm," "female nerves," irritability, and "A Tranquil Woman Is a Good Woman." ✅ His summary: "A medicated woman is a manageable woman." 🟡
 - Doctor diagnoses recorded as reasons: hysteria, nerves, domestic fatigue. Posner attributes the bias to a male-dominated profession and low representation of women in medicine. 🟡
@@ -84,16 +85,16 @@ Posner's Valium "life album" ad: a fictional 35-year-old single woman labeled "p
 - **Hidden funding:** Wyeth paid for the book's publication, his office and speaking tours. ✅
 - Posner's wife Trisha (author of *This Is Not Your Mother's Menopause*, 2000) interviewed Wilson's son, who said Wilson's wife had breast cancer twice and died of the second; the family and Wyeth kept the first diagnosis quiet so it would not hurt sales. ✅ (as told; single-source family account 🟡)
 - Barbara Seaman's book (about 10 years later) and congressional investigation followed. Early HRT and the 1960 contraceptive pill (called the first lifestyle drug) carried estrogen at **10–15 times** what is considered safe today; blood clots and deaths, and later estrogen-receptive breast cancers, emerged. Companies then lowered doses. ✅
-- Then vs now, per Posner: in the 1960s women were meant to stay on HRT forever; doctors today often aim for about **five years** maximum. ✅ (as stated)
+- Then vs now, per Posner: in the 1960s women were meant to stay on HRT forever; doctors today often aim for about **five years** maximum. ✅ (as stated) 🟡 Evidence check: current guidance sets no fixed five-year limit; it calls for individualized treatment, with longer use for documented reasons such as persistent hot flashes, shared decision-making and periodic re-evaluation (NAMS 2022).
 
 ## The Bridge to Opioids — New Drug, Old Playbook
-- Arthur Sackler died in 1987 (honored by the advertising industry as a pharma marketing pioneer); his brothers **Raymond and Mortimer** applied the method to **OxyContin** (US approval 1996). ✅
-- Purdue's FDA pitch: a polymer coating releases oxycodone over **12 hours** (its own tests suggested about 8), supposedly reducing abuse. No studies showed that. Crushing the pill defeated it; tablets went up to **160 mg**. The FDA official who agreed later worked for Purdue. ✅
-- 2001: diversion reports; Appalachian towns of 3,500 people receiving 5 million pills. Reps got the industry's most lavish bonuses, called it less addictive, and pushed off-label uses (osteoarthritis, ordinary back pain). ✅
-- **2007:** Purdue signed a consent agreement, then resumed. Posner links the crisis to roughly **100,000 dead** (as stated). ✅
+- Arthur Sackler died in 1987 (honored by the advertising industry as a pharma marketing pioneer); his brothers **Raymond and Mortimer** applied the method to **OxyContin** (US approval December 1995; it launched in 1996). ✅ (FDA timeline)
+- Purdue's FDA pitch: a polymer coating releases oxycodone over **12 hours** (its own tests suggested about 8), supposedly reducing abuse. No studies showed that. (🟢 At approval the FDA itself believed slow absorption would mean less abuse potential, though the label warned that crushing and injecting could be lethal: FDA timeline.) Crushing the pill defeated it; tablets went up to **160 mg**. The FDA official who agreed later worked for Purdue. ✅
+- 2001: diversion reports; Appalachian towns of 3,500 people receiving 5 million pills (🟡 town figures as stated, unverified). Reps got the industry's most lavish bonuses, called it less addictive, and pushed off-label uses (osteoarthritis, ordinary back pain). ✅
+- **2007:** Purdue signed a consent agreement, then resumed. Posner links the crisis to roughly **100,000 dead** (as stated). 🟡 Evidence check: in May 2007 Purdue **pleaded guilty** to a felony of misleading doctors and patients and paid $600 million, and three executives paid $34.5 million more (CNN Money 2007). The toll is far higher than 100,000: about **806,000** people died of opioid overdoses in the US from 1999 to 2023, nearly 80,000 in 2023 alone (CDC). These counts cover all opioids, not OxyContin alone.
 - Purdue's defense when toxicology showed OxyContin in overdose deaths: other drugs (benzos, alcohol) were also present, so OxyContin was not "the" cause. ✅
 - **Forbes, 2015:** the Sacklers at **$14 billion**, the "Oxy Clan," a family made rich by one drug. ✅
-- **Key opinion leaders:** a 1980s pain-medicine movement (Dr. Portenoy named) argued opioids were wrongly feared. A short journal letter (Posner says JAMA; "38,000" hospital patients, only two addicted) was cited endlessly though it was not peer-reviewed and tracked no one after discharge. Maxim: if you take opioids truly for pain, you won't get addicted. Speakers' bureaus sent doctors to resort conferences. 🟡 (journal name and patient count as stated; verify before citing)
+- **Key opinion leaders:** a 1980s pain-medicine movement (Dr. Portenoy named) argued opioids were wrongly feared. A short journal letter (Posner says JAMA; "38,000" hospital patients, only two addicted) was cited endlessly though it was not peer-reviewed and tracked no one after discharge. Maxim: if you take opioids truly for pain, you won't get addicted. Speakers' bureaus sent doctors to resort conferences. ✅ Evidence check: the letter was Porter and Jick, *New England Journal of Medicine*, 1980, "Addiction rare in patients treated with narcotics"; it reviewed records of 39,946 hospital patients (close to Posner's 38,000), of whom 11,882 received an opioid, and found **4 cases of addiction** (not JAMA, and not 2). A 2017 analysis found 608 citations, 72% of them using it as evidence that addiction was rare (Porter 1980; Leung 2017; Retraction Watch 2017). The pain-medicine case series by Portenoy and Foley appeared in 1986.
 - Pendulum: today opioids are so feared that Trisha got only Tylenol after breast-cancer surgery about five years ago. ✅
 
 ## Punchlines & Quotable Facts (Lecture 5)
@@ -111,7 +112,7 @@ Posner's Valium "life album" ad: a fictional 35-year-old single woman labeled "p
 ## Key Corrections to Carry Forward
 - 🔴 "Mild" in a drug label means mild: Miltown's "mild tranquilizer" category was a marketing request granted by the FDA, not a measured safety finding.
 - 🔴 "Newer equals safe": each wave (barbiturates, Thorazine, Miltown, benzos, OxyContin) looked safer only next to the one before; dependence surfaced later.
-- 🔴 "Approved means the regulator checked the claims": the FDA accepted the 12-hour, less-abusable OxyContin claim without studies, and nearly made an amphetamine OTC.
+- 🔴 "Approved means the regulator checked the claims": the FDA accepted the 12-hour, less-abusable OxyContin claim without studies, and (per Posner) nearly made an amphetamine OTC.
 - 🔴 "An expert book is independent": *Feminine Forever* was funded by the HRT maker.
 - 🔴 "It's the other drugs in the toxicology report": a defense Purdue used to deflect from OxyContin.
 - 🔴 "A woman physician is immune to the marketing": Posner says doctors of any gender are targets.
@@ -146,8 +147,8 @@ C. Menopause symptoms are always best treated with lifelong HRT
 
 ## Open Threads
 - ✅ **Transcript complete:** it ends on Posner's preview of the next lecture (political capture, erosion of safeguards). The Dropbox file for Lecture 6 carries the same text as Lecture 5, so Ch.6 still needs its own transcript.
-- **Opioid-addiction letter:** Posner's "JAMA footnote, 38,000 patients, two addicted" should be checked against the original publication before citing.
-- **Thorazine's origin story** (French surgeon, malaria) is Posner's version; verify.
+- **Opioid-addiction letter:** checked: Porter and Jick, NEJM 1980, 4 addictions among 11,882 opioid-treated patients (39,946 records reviewed) (see evidence check above).
+- **Thorazine's origin story:** checked: antihistamine research at Rhône-Poulenc (1950); Laborit was the surgeon; phenothiazines had earlier antimalarial use.
 - **Benzo dependence numbers** (70%, 65%, over half) come without named studies.
 - **Political capture** (the FDA official who joined Purdue, the revolving door) is promised for Ch.6.
 
@@ -158,3 +159,17 @@ C. Menopause symptoms are always best treated with lifelong HRT
 - Repeated restatements of the "medicalize discomfort" thesis; kept once in the Playbook.
 - Personal stories of parents who lost children to OxyContin, beyond the death-toll line.
 
+---
+**References:**
+1. López-Muñoz F, Ucha-Udabe R, Alamo C. The history of barbiturates a century after their clinical introduction. *Neuropsychiatr Dis Treat* 2005;1(4):329-43. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18568113/)
+2. López-Muñoz F, et al. History of the discovery and clinical introduction of chlorpromazine. *Ann Clin Psychiatry* 2005;17(3):113-35. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16433053/)
+3. Herzberg D. Blockbusters and controlled substances: Miltown, Quaalude, and consumer demand for drugs in postwar America. *Stud Hist Philos Biol Biomed Sci* 2011;42(4):415-26. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22035715/)
+4. Brady JV. Ulcers in executive monkeys. *Sci Am* 1958;199(4):95-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13602814/)
+5. The North American Menopause Society Advisory Panel. The 2022 hormone therapy position statement of The North American Menopause Society. *Menopause* 2022;29(7):767-794. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35797481/)
+6. US Food and Drug Administration. Timeline of Selected FDA Activities and Significant Events Addressing Substance Use and Overdose Prevention. [FDA](https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/timeline-selected-fda-activities-and-significant-events-addressing-substance-use-and-overdose)
+7. Van Zee A. The promotion and marketing of OxyContin: commercial triumph, public health tragedy. *Am J Public Health* 2009;99(2):221-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18799767/)
+8. CNN Money. OxyContin maker, execs to pay $634.5 million (10 May 2007). [CNN](https://money.cnn.com/2007/05/10/news/companies/oxycontin/)
+9. Centers for Disease Control and Prevention. Understanding the Opioid Overdose Epidemic. [CDC](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html)
+10. Porter J, Jick H. Addiction rare in patients treated with narcotics. *N Engl J Med* 1980;302(2):123. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7350425/)
+11. Leung PTM, Macdonald EM, Stanbrook MB, Dhalla IA, Juurlink DN. A 1980 Letter on the Risk of Opioid Addiction. *N Engl J Med* 2017;376(22):2194-2195. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28564561/)
+12. Retraction Watch. NEJM issues unusual warning for readers about 1980 letter on opioid addiction (2 June 2017). [Retraction Watch](https://retractionwatch.com/2017/06/02/nejm-issues-unusual-warning-readers-1980-letter-opioid-addiction)
