@@ -10,9 +10,9 @@ This is the capstone lecture. Posner takes the playbook he built across the cour
 ## The Setup — A Book About the Wrong Pandemic
 - *Pharma* was published **March 10, 2020** (five years of research with his wife Trisha, hundreds of interviews, tens of thousands of pages of documents). The WHO declared COVID-19 a pandemic **the next day**, and his book tour collapsed. ✅
 - The book's second-to-last chapter, "The Coming Pandemic," predicted a pandemic, but a **superbug** one: antibiotic resistance, because companies abandoned antibiotics (a 5-to-7-day course is a small market; they prefer chronic and orphan drugs). Karen Bush is quoted: "It's not a question of if… it's a question of when." COVID is not in the book. ✅
-- Days later he told *The Intercept*: "Pharmaceutical companies view COVID-19 as a **once-in-a-lifetime business opportunity**." He then wrote a *New York Times* op-ed, "Big Pharma May Pose an Obstacle to Vaccine Development." ✅
+- Days later he told *The Intercept*: "Pharmaceutical companies view COVID-19 as a **once-in-a-lifetime business opportunity**." He then wrote a *New York Times* op-ed, "Big Pharma May Pose an Obstacle to Vaccine Development." ✅ (🟡 order: the op-ed is dated 2 March 2020, so it came before the book's release and the Intercept interview: TWN reprint 2020)
 - Early-2020 pushback: in the fear phase, people told him they did not care if pharma made "a trillion dollars" if it saved the planet. 🟡 His recollection of the public mood.
-- **June 2020 FDA bar:** vaccines only had to be **50% more effective than placebo**. Posner says infectious-disease vaccines normally need at least 70%, and 50% is flu-shot territory. His reading: a low bar meant control rather than elimination, and likely recurring boosters. ✅ (the 50% threshold) / 🟡 (the 70% norm and his inference)
+- **June 2020 FDA bar:** vaccines only had to be **50% more effective than placebo**. Posner says infectious-disease vaccines normally need at least 70%, and 50% is flu-shot territory. His reading: a low bar meant control rather than elimination, and likely recurring boosters. ✅ (the 50% threshold) / 🟡 (the 70% norm and his inference). Evidence check: the FDA's June 2020 guidance asked for at least 50% efficacy against placebo (RAPS 2020). There is no general 70% rule for vaccines; WHO's COVID-19 target profile set about 50% as the minimum and about 70% as the preferred efficacy (WHO TPP).
 
 ## Crisis as Catalyst — The Century-Long Pattern
 
@@ -33,8 +33,8 @@ This is the capstone lecture. Posner takes the playbook he built across the cour
 **What pharma kept:** the intellectual property, which brings long-term pricing power and global distribution profits from publicly funded work. ✅
 
 - **The penicillin model he wanted:** fund the companies generously, expedite everything, but make sure **nobody owns the patent**. Because no COVID drug existed yet, Posner says this was a rare clean opportunity, unlike AZT and Truvada (Ch.7), where NIH did the work and companies kept the patents. 🟡 His policy preference.
-- **The lost clause:** the first emergency tranche was **about $8 billion, with $3 to 4 billion for vaccine research**, passed about **eight days** later under a Republican president and a Democratic House (Pelosi). The first draft contained a no-private-IP clause, and it was **gone from the final bill**. Pharma lobbyists argued that giving away the IP would give away years of proprietary mRNA know-how. ✅ (as he reports it)
-- **The NIH factoid:** since the 1930s NIH has invested about **$900 billion** in research that companies used to patent brand-name drugs (as of 2020; "getting up to a trillion"). His analogy: taxes fund schools that benefit everyone, but that should not allow a company to charge **$23,000 a vial for Acthar gel**. ✅ / 🟡 (analogy)
+- **The lost clause:** the first emergency tranche was **about $8 billion, with $3 to 4 billion for vaccine research**, passed about **eight days** later under a Republican president and a Democratic House (Pelosi). The first draft contained a no-private-IP clause, and it was **gone from the final bill**. Pharma lobbyists argued that giving away the IP would give away years of proprietary mRNA know-how. ✅ (as he reports it) 🟡 Evidence check: the law signed on 6 March 2020 contained no IP provisions, only that purchases follow "fair and reasonable pricing" rules and that HHS "may" act under existing law to keep products affordable (CRS 2020); a 2 March House draft added that HHS "shall not take actions that delay the development" of such products (KEI 2020). We could not see the no-IP clause he describes in any draft we checked.
+- **The NIH factoid:** since the 1930s NIH has invested about **$900 billion** in research that companies used to patent brand-name drugs (as of 2020; "getting up to a trillion"; 🟡 figure as stated and unverified). His analogy: taxes fund schools that benefit everyone, but that should not allow a company to charge **$23,000 a vial for Acthar gel**. ✅ / 🟡 (analogy)
 
 ## The Contracts — Secrecy, Leverage, Guaranteed Markets
 - **Secret contracts:** you had to sue or apply to see them, and they came back heavily redacted. ✅
@@ -51,6 +51,8 @@ This is the capstone lecture. Posner takes the playbook he built across the cour
 | US government total spend | $25.3 billion, average price $20.69 a dose | 🟡 He also calls $25.3B the purchase total; sentence is garbled |
 | Government total, development + production + purchase of mRNA vaccines | about $31 billion, then "$31.9 billion" | 🟡 Two figures given |
 | "US government alone" funding | about $2 billion | 🟡 Conflicts with the figures above |
+
+✅ Evidence check, resolving the table: a 2023 *BMJ* study counted at least **$31.9 billion** of US public money for the mRNA vaccines: **$29.2 billion (92%) to buy vaccines**, **$2.2 billion (7%) for clinical trials** and $108 million for manufacturing and science, plus $337 million invested before the pandemic (Lalani 2023). Posner's $31.9 billion and "about $2 billion" figures therefore fit; the other figures are as stated and unverified.
 | Moderna + Pfizer sales revenue | $100 billion, 20x the WHO budget | ✅ (as stated) |
 | Moderna sales Jan–Jun 2021 | $6 billion (its first-ever marketed drug) | ✅ |
 | Pfizer sales (same period, implied) | over $11 billion | ✅ |
@@ -62,8 +64,8 @@ This is the capstone lecture. Posner takes the playbook he built across the cour
 ## Windfalls, Stock Spikes and Buybacks
 - **Stock moves:** Moderna up **30% in one day (May 2020)** on Phase 1 results; Pfizer and BioNTech's **November 2020** announcement of **90% effectiveness** lifted the whole market. Posner questions what "effective" meant at that point. No company ever announced bad news. ✅ / 🟡 (his inference that companies knew their statements moved stocks)
 - **Moderna's position:** a company that had never brought a drug to market got billions in aid, its first product, an expedited review and no lawsuit risk. 🟡 Characterization.
-- **Profits doubled:** the 20 biggest pharma companies went from **$83 billion (2020) to $188 billion (2022)**. The "rising tide" included respiratory drugs and test kits (made in China for under a dollar each, bought in huge numbers by governments). ✅
-- **Margins:** top-20 average **19%**, rivaling oil and gas (about 17% in 2022). Vaccine makers: **BioNTech 54%, Moderna 51%, Pfizer 28%**. Bristol-Myers Squibb at 3% because these firms are now conglomerates; pure drug companies run 25 to 35%. ✅
+- **Profits doubled:** the 20 biggest pharma companies went from **$83 billion (2020) to $188 billion (2022)** (🟡 as stated; source not identified). The "rising tide" included respiratory drugs and test kits (made in China for under a dollar each, bought in huge numbers by governments). ✅
+- **Margins:** top-20 average **19%**, rivaling oil and gas (about 17% in 2022). Vaccine makers: **BioNTech 54%, Moderna 51%, Pfizer 28%** (🟡 as stated; source and year not identified). Bristol-Myers Squibb at 3% because these firms are now conglomerates; pure drug companies run 25 to 35%. ✅
 - **Shareholders vs R&D:** payouts (dividends, buybacks, executive pay) ran close to R&D, and some exceeded it; **AbbVie spent nearly 50% more** on payouts than on R&D. ✅ (He also read "Pfizer $223 million, $30 million R&D" off a chart; units are probably billions 🟡.)
 
 | Company | Stock buybacks | Executive bonuses |
@@ -79,7 +81,7 @@ This is the capstone lecture. Posner takes the playbook he built across the cour
 - **IP share of doses** ("vaccine knowledge lockdown"): J&J 70%, AstraZeneca 75%, Moderna 85%, Pfizer/BioNTech 90%. ✅ (as read from a chart)
 - **Targeting women:** messaging framed vaccination as maternal caregiving ("protect your family"), leaning on anxiety and guilt, echoing earlier campaigns aimed at women (Ch.5). Social campaigns targeted **women aged 25 to 54**, the group the industry says makes household health decisions. 🟡 His reading; he says he does not know if the household claim is true.
 - **mRNA as a badge:** expect "mRNA" to be marketed like "organic," as a cutting-edge label, whether or not a given product is good. 🟡
-- **IP was the ultimate test:** pharma feared a penicillin replay (no leverage, price driven to near nothing). This time it had the leverage and held its ground. Annual vaccine markets were already normalized: 20 to 25 years ago companies nearly left vaccines over litigation, then got liability protection. 🟡 / ✅ (the earlier exit and protection are from his book)
+- **IP was the ultimate test:** pharma feared a penicillin replay (no leverage, price driven to near nothing). This time it had the leverage and held its ground. Annual vaccine markets were already normalized: 20 to 25 years ago companies nearly left vaccines over litigation, then got liability protection. 🟡 / ✅ (the earlier exit and protection are from his book) Evidence check: the timing is earlier: the National Childhood Vaccine Injury Act of **1986** responded to lawsuits that "threatened to cause vaccine shortages," and its compensation program began in 1988 (HRSA).
 - **Not a conspiracy claim:** he says outright that pharma did not create COVID; once it happened, they moved to make as much as possible from it. ✅
 
 ## The Smarter Patient — His Closing Rules
@@ -93,7 +95,7 @@ Balance he insists on: **modern medicine saves lives**. Infections that killed o
 
 ## Q&A — Doctors, the FDA and ProPublica
 - **FDA:** he gives approvals initial benefit of the doubt, then checks PubMed later to see whether trials were handled correctly. 🟡 Personal practice.
-- **Doctors:** ProPublica (with *The New York Times*) built a **searchable database** of industry payments to physicians. Posner searched his own doctor and found about **$384** (a couple of dinners); he was ready to switch if it had been large. Most doctors average a few hundred dollars; a handful take millions, often labeled research. ✅
+- **Doctors:** ProPublica (with *The New York Times*) built a **searchable database** of industry payments to physicians. Posner searched his own doctor and found about **$384** (a couple of dinners); he was ready to switch if it had been large. Most doctors average a few hundred dollars; a handful take millions, often labeled research. ✅ (The official source is the federal **Open Payments** database, which drug and device makers must report to and which anyone can search at openpaymentsdata.cms.gov; ProPublica's tool was built on such data: CMS.)
 - Headlines spin it: "pharma-friendly outlets" led with the small average. Doctors and pharma are allied but not symmetric: pharma needs doctors; doctors could practice without pharma money. 🟡
 
 ## Punchlines & Quotable Facts (Lecture 8)
@@ -112,7 +114,7 @@ Balance he insists on: **modern medicine saves lives**. Infections that killed o
 - 🔴 "Vaccine sales falling means the windfall is over": publicly funded mRNA know-how now feeds a projected $45B therapeutics market.
 - 🔴 "Posner is anti-vaccine or a conspiracy theorist": he says neither; his subject is the money, not efficacy or origin.
 - 🔴 "Skepticism means refusing treatment": he explicitly rejects that; ask questions, then accept needed care.
-- 🔴 "Your doctor's industry payments are unknowable": the ProPublica database lets you look them up.
+- 🔴 "Your doctor's industry payments are unknowable": the ProPublica database and the federal Open Payments site let you look them up.
 
 ## Practical Takeaway
 
@@ -143,7 +145,7 @@ C. Trust FDA approvals completely, because regulation removes the need for quest
 
 ## Open Threads
 - ✅ **Transcript complete:** ends naturally after the audience Q&A on ProPublica.
-- 🟡 **Inconsistent funding figures:** $2B "US alone," $10B initial, $22B Warp Speed, $25.3B, $31B and $31.9B are all given; the $25.3B / $20.69-a-dose sentence is garbled. Verify against a source before quoting.
+- 🟡 **Inconsistent funding figures:** $2B "US alone," $10B initial, $22B Warp Speed, $25.3B, $31B and $31.9B are all given; the $25.3B / $20.69-a-dose sentence is garbled. Partly resolved: $31.9B total, of which $2.2B went to clinical trials and $29.2B to purchases (Lalani 2023).
 - 🟡 **Garbled sentence on Pfizer/BioNTech sales** ("They formed together a their COVID-19 sales"); the Pfizer "$223 million / $30 million R&D" chart reading is probably in billions.
 - **Vaccine efficacy and formulation:** he explicitly set these aside ("we could have an hour"); not covered here.
 - **Pandemic accord:** he says governments never acted on calls to put public health over profits; no detail given.
@@ -157,3 +159,13 @@ C. Trust FDA approvals completely, because regulation removes the need for quest
 - His comments on Bristol-Myers "Sackler-inspired marketeers" beyond the 3% margin point.
 - Repeated restatements of "once-in-a-lifetime opportunity" and "follow the money."
 
+---
+**References:**
+1. Posner G. Big Pharma May Pose an Obstacle to Vaccine Development. *New York Times* op-ed, 2 March 2020 (reprinted by Third World Network, 17 March 2020). [TWN](https://www.twn.my/title2/health.info/2020/hi200303.htm)
+2. Regulatory Affairs Professionals Society (RAPS). FDA issues COVID-19 vaccine guidance setting 50% efficacy bar. 2020. [RAPS](https://www.raps.org/resource/fda-issues-covid-19-vaccine-guidance-setting-50-ef.html)
+3. World Health Organization. Target Product Profile for COVID-19 vaccines. [WHO](https://www.who.int/tools/target-product-profile-database/item/tpp--for-covid-19-vaccines)
+4. Hickey KJ. COVID-19 Medical Countermeasures: Intellectual Property and Affordability. Congressional Research Service Legal Sidebar LSB10422, 18 March 2020. [CRS](https://www.everycrsreport.com/reports/LSB10422.html)
+5. Knowledge Ecology International. Unreasonable pricing and the "Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020". 5 March 2020. [KEI](https://www.keionline.org/32308)
+6. Lalani HS, et al. US public investment in development of mRNA covid-19 vaccines: retrospective cohort study. *BMJ* 2023;380:e073747. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36858453/)
+7. Health Resources and Services Administration (HRSA). About the National Vaccine Injury Compensation Program. [HRSA](https://www.hrsa.gov/vaccine-compensation/about)
+8. Centers for Medicare & Medicaid Services. Open Payments. [CMS](https://www.cms.gov/priorities/key-initiatives/open-payments)
