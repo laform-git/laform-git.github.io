@@ -9,7 +9,7 @@ This is the "how to think" lecture of the series. Before judging any specific fo
 
 ## Reading the Evidence — Correlation, Causation, Relative vs. Absolute Risk
 - **Correlation** = association. Lugavere: whenever you hear the word "risk," it implicitly means correlation. His example: smartphones and obesity have both risen; no one assumes one causes the other. ✅
-- **Causation** = one thing directly produces another. The strongest example he gives is smoking: roughly a **2,000% increased risk** of lung cancer, and still not everyone who smokes gets it. Compare that to typical nutrition headlines ("red meat raises risk of X cancer by ~30%"): a far weaker signal, so far less certainty. ✅
+- **Causation** = one thing directly produces another. The strongest example he gives is smoking: roughly a **2,000% increased risk** of lung cancer, and still not everyone who smokes gets it. Compare that to typical nutrition headlines ("red meat raises risk of X cancer by ~30%"): a far weaker signal, so far less certainty. ✅ For scale, the WHO cancer agency (IARC) estimates about 18% higher colorectal cancer risk per 50 g/day of processed meat, and about 17% per 100 g/day of red meat if the link is causal (Bouvard 2015).
 - **Relative vs. absolute risk:** his on-the-fly example: eggs "increase type 2 diabetes risk by 25%" sounds large, but if absolute lifetime risk is 4%, a 25% relative increase moves it to **5%**. Studies usually report relative risk (RR), also hazard ratios or odds ratios; "generally they all say the same thing." ✅
 - **Confounders and healthy user bias:** meat eaters, after decades of being told to avoid meat, tend to be more sedentary and more likely to smoke. The mirror image applies to plants: fresh produce is a socioeconomic privilege, and produce eaters may also be more educated, have farmers' markets, gym memberships and take multivitamins. His point is that the association may be real, "it very well may be," but it cannot be separated from these habits in observational data. ✅
 - **Only randomized controlled trials** can establish cause and effect. ✅
@@ -24,18 +24,18 @@ This is the "how to think" lecture of the series. Before judging any specific fo
 | **Human RCT** | Causation (one variable changed vs. placebo) | Rare in nutrition: little funding; e.g., the Kevin Hall obesity study |
 | **Meta-analysis** | Pooled conclusion across studies | Top of the hierarchy; a good place to start your own research |
 
-✅ Checklist he gives for any study: year, methodology, population size, statistical significance, and watch for words like "risk" and "correlation." **No single study should change your diet.** Example: the **erythritol** headlines were, in his reading, purely correlational.
+✅ Checklist he gives for any study: year, methodology, population size, statistical significance, and watch for words like "risk" and "correlation." **No single study should change your diet.** Example: the **erythritol** headlines were, in his reading, purely correlational. 🟡 Evidence check: the 2023 study was mostly correlational (blood erythritol and cardiovascular events in about 4,000 patients), but it also showed erythritol increased platelet reactivity in the lab and clotting in animals, plus a pilot test in 8 volunteers, so "purely" correlational is not quite right (Witkowski 2023).
 
 🟡 His claim that "you can prove whatever you want" in current nutrition science is rhetorical; it describes the weak state of the evidence base, not a rule that all studies are equal.
 
 ## Saturated Fat and Dietary Cholesterol
-- **Dietary cholesterol:** for most people "very little impact on blood cholesterol"; it is not very bioavailable in food and little is absorbed. Exceptions exist (**hyper-absorbers, hyper-responders**), but they are the minority. ✅ as his claim, 🟡 as a personal directive (see Personalization).
-- **USDA sources of saturated fat (as he presents them):** only **~3%** of Americans' saturated fat comes from meat like steaks and ground beef (excluding mixed dishes and deli sandwiches); **~11%** comes from desserts and sweet snacks, "almost four times" as much; the bulk of unhealthy fat comes from mixed dishes (pizza, fast-food burgers, lasagna). ✅
+- **Dietary cholesterol:** for most people "very little impact on blood cholesterol"; it is not very bioavailable in food and little is absorbed. Exceptions exist (**hyper-absorbers, hyper-responders**), but they are the minority. ✅ as his claim, 🟡 as a personal directive. Evidence check: the American Heart Association notes that cohort studies generally show no significant link between dietary cholesterol and cardiovascular disease, but most meta-analyses of feeding trials find intakes above current averages raise total or LDL cholesterol (Carson 2020).
+- **USDA sources of saturated fat (as he presents them):** only **~3%** of Americans' saturated fat comes from meat like steaks and ground beef (excluding mixed dishes and deli sandwiches); **~11%** comes from desserts and sweet snacks, "almost four times" as much; the bulk of unhealthy fat comes from mixed dishes (pizza, fast-food burgers, lasagna). ✅ (Dietary Guidelines 2020–2025, Figure 1-11: sandwiches 19%, desserts and sweet snacks 11%, meats outside mixed dishes 3%.)
 - **Dairy fat:** a significant source, wrapped in the milk fat globule membrane and, with the exception of butter, "for the most part beneficial from a cardiovascular standpoint." 🟡 This is a strong claim stated without data in this lecture.
 - His conclusion: stop fearing a single nutrient. Any natural fat-containing food contains some saturated fat, and there are many types of saturated fat.
 
 ## Veganism
-- His stance: not against anyone choosing it, but wants **informed consent**. He states there is "little to no evidence" that a vegan diet is superior, and calls it highly restrictive, associated with nutrient deficiencies, lower protein intake, lower muscle mass and higher ultra-processed food intake. 🟡 These are his assertions; no studies are cited in the lecture, and he describes the advocacy evidence as weak risk ratios and "mechanistic word salads."
+- His stance: not against anyone choosing it, but wants **informed consent**. He states there is "little to no evidence" that a vegan diet is superior, and calls it highly restrictive, associated with nutrient deficiencies, lower protein intake, lower muscle mass and higher ultra-processed food intake. 🟡 These are his assertions; no studies are cited in the lecture, and he describes the advocacy evidence as weak risk ratios and "mechanistic word salads." Evidence check: the picture is mixed. In the EPIC-Oxford cohort, vegetarians had 22% lower ischemic heart disease but 20% higher total stroke than meat eaters, mostly hemorrhagic (Tong 2019), and the Academy of Nutrition and Dietetics holds that appropriately planned vegetarian and vegan diets are healthful (Melina 2016).
 - Critique of the "vegan plus B12" logic: B12 is the only essential nutrient currently known to come only from animal products, but food holds "innumerable nutrients" we have not yet named. ✅ (see Nutritionism)
 
 ## Nutritionism — The Danger of Reducing Food to Nutrients
@@ -47,7 +47,7 @@ This is the "how to think" lecture of the series. Before judging any specific fo
 
 | Feature | Animal-source foods | Plant-source foods |
 | --- | --- | --- |
-| **Nutrient density** | Took all top spots in a 2020 paper by Ty Beal (he cites "I believe, 2020") on nutrients of concern, except dark leafy greens | Dark leafy greens are very nutrient-dense |
+| **Nutrient density** | Took all top spots in a 2020 paper by Ty Beal (he cites "I believe, 2020"; the paper is Beal & Ortenzi 2022) on nutrients of concern, except dark leafy greens | Dark leafy greens are very nutrient-dense |
 | **Bioavailability** | Highly bioavailable; no anti-nutrients or chelating agents ("what you see is what you get") | Some minerals less bioavailable |
 | **Protein** | High quality, digestible, strong amino acid profile incl. **leucine** (rate-limiting for muscle protein synthesis); satiating | Not the focus of this lecture |
 | **Unique strengths** | Carry phytochemicals stored in herbivore fat (beta-carotene in grass-fed beef fat, catechins); but plants remain the better source by quantity | **Fiber** (microbiome, satiety), **folate** (dark leafy greens), **vitamin C**, hormetic compounds, pigments |
@@ -55,11 +55,11 @@ This is the "how to think" lecture of the series. Before judging any specific fo
 ✅ He is explicit that plants are the better choice for phytochemical quantity. Net message: both categories contribute; neither should be dropped.
 
 ## Plant Defense Compounds and Hormesis
-- **Hormesis:** a low dose of stress that is not toxic to us and prompts adaptation. Plants cannot flee or fight, so they become "brilliant chemists": bitter antifeedants in dark leafy greens, herbs, spices, tea tannins, coffee. Mark Hyman's term for it: **"symbiotic phyto-adaptation."** ✅
-- **Lutein and zeaxanthin** (kale, Swiss chard): known to protect eyes from age-related macular degeneration; accumulate in the brain; fat-soluble, which is one argument against going too low-fat. ✅
-- **Anthocyanins** (blueberries, red onions, purple potatoes; reds and purples in produce): he says they accumulate in the hippocampus. ✅
-- **Glucosinolates / sulforaphane** (broccoli, sprouts, Brussels sprouts, cauliflower, kale, arugula; formed when cruciferous vegetables are chewed): activates the body's own defense pathways; in studies in China, sulforaphane supplements increased excretion of benzene and acrolein. ✅
-- **Flavanols:** an RCT he cites found high-flavanol foods improved cognitive function and raised **BDNF** vs. low-flavanol foods; he concedes it is "not a perfect study" since foods contain many compounds. 🟢
+- **Hormesis:** a low dose of stress that is not toxic to us and prompts adaptation. Plants cannot flee or fight, so they become "brilliant chemists": bitter antifeedants in dark leafy greens, herbs, spices, tea tannins, coffee. Mark Hyman's term for it: **"symbiotic phyto-adaptation."** ✅ (The research term for this idea is xenohormesis; Howitz & Sinclair 2008.)
+- **Lutein and zeaxanthin** (kale, Swiss chard): known to protect eyes from age-related macular degeneration; accumulate in the brain; fat-soluble, which is one argument against going too low-fat. 🟡 Evidence check: "known to protect" overstates it. In the AREDS2 trial, adding lutein and zeaxanthin did not significantly reduce progression to advanced macular degeneration in the main analysis (AREDS2 2013); they did replace beta-carotene in the eye-vitamin formula because beta-carotene was linked to more lung cancer in former smokers.
+- **Anthocyanins** (blueberries, red onions, purple potatoes; reds and purples in produce): he says they accumulate in the hippocampus. 🟡 Shown in blueberry-fed rats (Andres-Lacueva 2005); not yet shown in people.
+- **Glucosinolates / sulforaphane** (broccoli, sprouts, Brussels sprouts, cauliflower, kale, arugula; formed when cruciferous vegetables are chewed): activates the body's own defense pathways; in a randomized trial in China, a sulforaphane-rich broccoli sprout drink increased excretion of benzene (by 61%) and acrolein (by 23%) (Egner 2014). ✅
+- **Flavanols:** an RCT he cites found high-flavanol foods improved cognitive function and raised **BDNF** vs. low-flavanol foods; he concedes it is "not a perfect study" since foods contain many compounds. 🟢 (Neshatdoust 2016: two randomized trials, 18 and 12 weeks.)
 - Not every compound suits every person (his carnivore-diet aside). 🟡
 
 ## Fiber Revisited
@@ -68,7 +68,7 @@ This is the "how to think" lecture of the series. Before judging any specific fo
 
 ## Is Obesity Genetic?
 - Genes play a role (satiety, reward-seeking) but are **not the primary cause**; it is gene-environment interaction, as with every chronic disease. ✅
-- Obesity is "highly responsive" to diet and lifestyle, which he contrasts with cardiovascular disease that is harder to undo once set in. He says even people with genetic obesity can lose weight with the right plan. 🟡 "Lots of evidence" is asserted, not shown here.
+- Obesity is "highly responsive" to diet and lifestyle, which he contrasts with cardiovascular disease that is harder to undo once set in. He says even people with genetic obesity can lose weight with the right plan. 🟡 "Lots of evidence" is asserted, not shown here. Evidence check: twin studies put the heritability of BMI at roughly 47–90%, median about 75% (Elks 2012), so genes strongly shape who gains weight in a given environment; the fast rise in obesity over recent decades points to the environment (Loos 2022). "Not the primary cause" understates the genetic share.
 
 ## Punchlines & Quotable Facts (Lecture 6)
 - **"Whenever you hear the word risk, that implicitly implies correlation."**
@@ -118,7 +118,7 @@ C. \* Reducing food to its known isolated nutrients, forgetting unnamed compound
 
 ## Open Threads
 - **Fiber types** and the microbiome: promised for a later presentation (Ch.8 Microbiome Mastery is the likely place).
-- **Ty Beal paper:** date recalled as "I believe, 2020"; worth locating the primary source before relying on the ranking. 🟡
+- **Ty Beal paper:** date recalled as "I believe, 2020"; located: Beal & Ortenzi, *Frontiers in Nutrition* 2022. The top sources of priority micronutrients were organs, small fish, dark green leafy vegetables, bivalves, crustaceans, goat, beef, eggs, milk and lamb, which supports his point. 🟢
 - **Milk fat globule membrane and dairy:** referenced from Ch.5 ("yesterday"); the lecture states benefit without data. 🟡
 - **Erythritol study** methodology details are not given beyond "purely correlational."
 
@@ -128,3 +128,19 @@ C. \* Reducing food to its known isolated nutrients, forgetting unnamed compound
 - Transcript typos and a mid-sentence line break around the Ty Beal passage (content understood, not affected).
 - Detail on the carnivore-diet concern: only a one-line mention in the lecture.
 
+---
+**References:**
+1. Bouvard V, Loomis D, Guyton KZ, et al. Carcinogenicity of consumption of red and processed meat. *Lancet Oncol* 2015;16:1599-600. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26514947/)
+2. Witkowski M, Nemet I, Alamri H, et al. The artificial sweetener erythritol and cardiovascular event risk. *Nat Med* 2023;29:710-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36849732/)
+3. Carson JAS, Lichtenstein AH, Anderson CAM, et al. Dietary cholesterol and cardiovascular risk: a science advisory from the American Heart Association. *Circulation* 2020;141:e39-53. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31838890/)
+4. U.S. Department of Agriculture, U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020 (Figure 1-11, top sources of saturated fat). [Link](https://www.dietaryguidelines.gov/sites/default/files/2021-03/Dietary_Guidelines_for_Americans-2020-2025.pdf)
+5. Tong TYN, Appleby PN, Bradbury KE, et al. Risks of ischaemic heart disease and stroke in meat eaters, fish eaters, and vegetarians over 18 years of follow-up: results from the prospective EPIC-Oxford study. *BMJ* 2019;366:l4897. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31484644/)
+6. Melina V, Craig W, Levin S. Position of the Academy of Nutrition and Dietetics: vegetarian diets. *J Acad Nutr Diet* 2016;116:1970-80. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27886704/)
+7. Beal T, Ortenzi F. Priority micronutrient density in foods. *Front Nutr* 2022;9:806566. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35321287/)
+8. Howitz KT, Sinclair DA. Xenohormesis: sensing the chemical cues of other species. *Cell* 2008;133:387-91. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18455976/)
+9. Age-Related Eye Disease Study 2 Research Group. Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial. *JAMA* 2013;309:2005-15. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23644932/)
+10. Andres-Lacueva C, Shukitt-Hale B, Galli RL, et al. Anthocyanins in aged blueberry-fed rats are found centrally and may enhance memory. *Nutr Neurosci* 2005;8:111-20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16053243/)
+11. Egner PA, Chen JG, Zarth AT, et al. Rapid and sustainable detoxication of airborne pollutants by broccoli sprout beverage: results of a randomized clinical trial in China. *Cancer Prev Res (Phila)* 2014;7:813-23. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24913818/)
+12. Neshatdoust S, Saunders C, Castle SM, et al. High-flavonoid intake induces cognitive improvements linked to changes in serum brain-derived neurotrophic factor: two randomised, controlled trials. *Nutr Healthy Aging* 2016;4:81-93. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28035345/)
+13. Elks CE, den Hoed M, Zhao JH, et al. Variability in the heritability of body mass index: a systematic review and meta-regression. *Front Endocrinol (Lausanne)* 2012;3:29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22645519/)
+14. Loos RJF, Yeo GSH. The genetics of obesity: from discovery to biology. *Nat Rev Genet* 2022;23:120-33. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34556834/)
