@@ -7,6 +7,7 @@ html:not(.dark) body{background:#ffffff}
 html:not(.dark) .card,html:not(.dark) .g,html:not(.dark) .pn a{border-color:#E5E7EB}
 html:not(.dark) .g{border-left-color:#F97316}
 @media print{.thm{display:none}}
+@media screen{
 html.dark{color-scheme:dark;background:#1c1d1f}
 html.dark body{background:#1c1d1f;color:#e6e7e9}
 html.dark .top a{color:#7fb0ff}
@@ -35,3 +36,4 @@ html.dark .thm button[aria-pressed="true"]{background:#F97316;border-color:#F973
 html.dark [style*="color:#15803D"]{color:#7ad694!important}
 html.dark [style*="color:#6D28D9"]{color:#c4a8ff!important}
 html.dark .proj h3{filter:brightness(1.6)}
+}
