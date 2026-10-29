@@ -30,14 +30,14 @@ This lecture is the practical bridge between "what to eat" (Ch.1 to Ch.3) and "h
 | **Time-restricted eating (TRE)** | A form of IF: all food within a fixed daily window (8, 10 or 12 hours) |
 | **Early TRE** | First food about 1 hour after waking, window skewed to the morning/afternoon (e.g., 8 AM to 6 PM or 8 AM to 8 PM) |
 
-- ✅ The average person eats across about 16 hours a day, and digestion runs 1 to 2 hours beyond the last bite, so food eaten right before bed is still being processed during sleep.
+- ✅ The average person eats across about 16 hours a day, and digestion runs 1 to 2 hours beyond the last bite, so food eaten right before bed is still being processed during sleep. 🟢 In a smartphone-logging study, half of adults spread their eating over more than 14.75 hours a day (Gill 2015), so "about 15 to 16 hours" is fair.
 - ✅ Studies compared windows such as 2 PM to 10 PM against earlier windows; early TRE seems to yield the most benefit.
 
 ## What Early TRE Appears to Do (and Not Do)
-- ✅ With calories held constant, earlier dinners are associated with better glucose control and lower systolic blood pressure.
+- ✅ With calories held constant, earlier dinners are associated with better glucose control and lower systolic blood pressure. (Best-known trial: in men with prediabetes, 5 weeks of a 6-hour early window, dinner before 3 p.m., with food set to keep weight stable, improved insulin sensitivity, blood pressure and oxidative stress; Sutton 2018.)
 - 🟢 Lugavere's equity point: "eat an earlier dinner" is a simple, language-independent intervention for people without access to healthier foods.
-- ✅ **Weight and body composition: not superior to ordinary calorie control.** IF is not a magical fat-loss method and the research does not support marketing it as one; its value is as a guardrail that controls calories with little effort.
-- ✅ Late-night eating: increases next-day hunger and, to a small but significant degree, lowers next-day metabolic rate (one study from "last year"; not cited by name).
+- ✅ **Weight and body composition: not superior to ordinary calorie control.** IF is not a magical fat-loss method and the research does not support marketing it as one; its value is as a guardrail that controls calories with little effort. (In a 12-month randomized trial, calorie restriction plus an 8 a.m.–4 p.m. eating window did not produce significantly more weight loss than the same calorie restriction alone; Liu 2022.)
+- ✅ Late-night eating: increases next-day hunger and, to a small but significant degree, lowers next-day metabolic rate (one study from "last year"; not cited by name; most likely Vujović 2022, a tightly controlled crossover trial in adults with overweight or obesity that found late eating raised hunger and lowered waking energy expenditure).
 - 🟢 The guardrail logic: after-dinner calories (sweets in front of the TV) are rarely the most nutritious ones, so closing the kitchen removes them.
 - 🟡 Some people report hunger only starting with the first bite (appetizer/bread-basket analogy); he notes it is not universal.
 
@@ -47,7 +47,7 @@ This lecture is the practical bridge between "what to eat" (Ch.1 to Ch.3) and "h
 | --- | --- |
 | **Social cost** | Dinner is the most social meal; social isolation is a risk factor for depression, dementia and all-cause mortality |
 | **Muscle** | IF may not be ideal for lean mass maintenance and accrual; cutting off at 6 PM can forfeit a later protein feeding |
-| **Testosterone** | One study (he "believes in men") linked IF to reduced testosterone; 🟡 not detailed, not named |
+| **Testosterone** | One study (he "believes in men") linked IF to reduced testosterone; 🟡 not named in the lecture; most likely Moro 2016: in 34 resistance-trained men, 8 weeks of 16:8 eating lowered testosterone and IGF-1 while fat mass fell and strength held |
 | **Athletes/bodybuilders** | May do better with protein spread evenly all day rather than early TRE |
 
 - ✅ His own practice: no food for about 1 hour after waking and none for 2 to 3 hours before sleep; "the body likes consistency."
@@ -55,12 +55,12 @@ This lecture is the practical bridge between "what to eat" (Ch.1 to Ch.3) and "h
 ## Fasting as a Hormetic Stressor
 - ✅ **Hormesis**: a stressor that is harmful at high dose but strengthening at low dose. His examples: exercise, sauna heat, plant defense compounds in fresh produce ("what doesn't kill you makes you stronger").
 - ✅ Fasting is framed as hormetic: it activates genes and pathways linked to calorie restriction and longevity.
-- 🟡 The brain claims rest on NIH researcher "Mark Matson" (spelling as in transcript; likely Mark Mattson): in animals, fasting raises BDNF and other proteins promoting neurogenesis and neuroplasticity. Lugavere stresses much of this is animal work.
+- 🟡 The brain claims rest on NIH researcher "Mark Matson" (spelling as in transcript; this is Mark Mattson, longtime neuroscience lab chief at the US National Institute on Aging; see de Cabo & Mattson 2019): in animals, fasting raises BDNF and other proteins promoting neurogenesis and neuroplasticity. Lugavere stresses much of this is animal work.
 - 🟢 Caution: total stress load is finite (chronic stress, heavy coffee, short sleep, regular exercise); add fasting mindfully, and triage if your goal is fat loss or muscle.
 
 ## The Anabolic Window — Largely Debunked
 - ✅ Old dogma: ingest protein immediately after training or "gains lost." He suggests protein-powder marketing helped drive it by tying a product to a ritual.
-- ✅ The window is much wider than believed. **Big rocks first**: total daily protein is the jar's rocks; timing is the sand.
+- ✅ The window is much wider than believed (in a meta-analysis, protein timing had no significant effect on strength or muscle size once total protein intake was accounted for; Schoenfeld 2013). **Big rocks first**: total daily protein is the jar's rocks; timing is the sand.
 - ✅ **Exception: training fasted.** With no circulating amino acids, post-workout protein is wanted promptly. Exercise raises both muscle protein synthesis (MPS) and muscle protein breakdown (MPB); protein "pumps the brakes" on MPB and supplies building blocks for MPS. If you have eaten, there is no need to run for protein.
 
 ## Protein Numbers
@@ -68,14 +68,14 @@ This lecture is the practical bridge between "what to eat" (Ch.1 to Ch.3) and "h
 | Reference | Amount | Note |
 | --- | --- | --- |
 | **RDA** | 0.8 g/kg/day | Not calibrated for optimal health |
-| **No training** | about 1.2 g/kg | Seems effective |
-| **Lugavere's target (resistance training)** | at least 1.6 g/kg | "Double the RDA" |
+| **No training** | about 1.2 g/kg | Seems effective; the Dietary Guidelines 2025–2030 now advise 1.2–1.6 g/kg for adults |
+| **Lugavere's target (resistance training)** | at least 1.6 g/kg | "Double the RDA"; meta-analysis shows lean-mass gains plateau around 1.6 g/kg (Morton 2018) |
 | **Bodybuilders** | up to about 2.2 g/kg |  |
 | **Rough conversion** | 0.7 g x body weight in lb | Kg = lb x 0.45 |
 
 - ✅ **Leucine** is the key amino acid ("necessary but not sufficient"); animal proteins have the highest proportion.
 - ✅ Carbohydrates are protein-sparing, so the leaner you diet toward, the more protein you should eat, not less.
-- ✅ **Myth: only 30 g of protein per meal is usable.** The body uses whatever you give it; spread evenly is ideal, but 2 or 3 meals both work.
+- ✅ **Myth: only 30 g of protein per meal is usable.** The body uses whatever you give it; spread evenly is ideal, but 2 or 3 meals both work. 🟢 In a controlled study, 100 g of protein after exercise produced a larger and longer-lasting muscle-building response than 25 g (Trommelen 2023).
 - 🟢 Protein is satiating and hard to hit, so shakes are a legitimate tool.
 
 ## Timing and Sleep
@@ -128,8 +128,8 @@ C. \* The 30 g limit is a myth; total daily protein (at least about 1.6 g/kg for
 *Why C: he calls the 30 g ceiling a myth, says the body uses any amount, and sets total intake as the top priority.*
 
 ## Open Threads
-- **Early-TRE study evidence:** studies are referenced generally, none named; worth tracing the underlying trials.
-- **IF and testosterone in men:** a single unnamed study; unresolved.
+- **Early-TRE study evidence:** studies are referenced generally, none named in the lecture; key trials now cited above (Sutton 2018; Liu 2022).
+- **IF and testosterone in men:** a single unnamed study, most likely Moro 2016 (34 resistance-trained men, 8 weeks); small and unreplicated, so unresolved.
 - **Pre-bed protein vs. sleep temperature (Panda hypothesis):** he has seen no evidence; unresolved.
 - **Mattson animal data on BDNF:** how well it translates to humans is not addressed.
 - **Next lectures:** Ch.5 Dietary Tailoring and Ch.6 Nutrition Controversies may return to protein and fasting.
@@ -140,3 +140,15 @@ C. \* The 30 g limit is a myth; total daily protein (at least about 1.6 g/kg for
 - Generic definitions of circadian rhythms and hormesis beyond what the lecture itself said.
 - Sauna as a hormetic example kept to one line; the 30,000-foot overview language.
 
+---
+**References:**
+1. Gill S, Panda S. A smartphone app reveals erratic diurnal eating patterns in humans that can be modulated for health benefits. *Cell Metab* 2015;22:789-98. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26411343/)
+2. Sutton EF, Beyl R, Early KS, et al. Early time-restricted feeding improves insulin sensitivity, blood pressure, and oxidative stress even without weight loss in men with prediabetes. *Cell Metab* 2018;27:1212-21.e3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29754952/)
+3. Liu D, Huang Y, Huang C, et al. Calorie restriction with or without time-restricted eating in weight loss. *N Engl J Med* 2022;386:1495-504. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35443107/)
+4. Vujović N, Piron MJ, Qian J, et al. Late isocaloric eating increases hunger, decreases energy expenditure, and modifies metabolic pathways in adults with overweight and obesity. *Cell Metab* 2022;34:1486-98.e7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36198293/)
+5. Moro T, Tinsley G, Bianco A, et al. Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *J Transl Med* 2016;14:290. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27737674/)
+6. de Cabo R, Mattson MP. Effects of intermittent fasting on health, aging, and disease. *N Engl J Med* 2019;381:2541-51. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31881139/)
+7. Schoenfeld BJ, Aragon AA, Krieger JW. The effect of protein timing on muscle strength and hypertrophy: a meta-analysis. *J Int Soc Sports Nutr* 2013;10:53. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24299050/)
+8. Morton RW, Murphy KT, McKellar SR, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. *Br J Sports Med* 2018;52:376-84. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28698222/)
+9. Trommelen J, van Lieshout GAA, Nyakayiru J, et al. The anabolic response to protein ingestion during recovery from exercise has no upper limit in magnitude and duration in vivo in humans. *Cell Rep Med* 2023;4:101324. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38118410/)
+10. U.S. Department of Health and Human Services, U.S. Department of Agriculture. Dietary Guidelines for Americans, 2025–2030. January 2026. [Link](https://cdn.realfood.gov/DGA.pdf)
