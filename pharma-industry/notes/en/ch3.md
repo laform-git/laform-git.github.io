@@ -8,21 +8,21 @@
 Ch.2 showed that drugs could finally work (antibiotics). Ch.3 shows how the industry learned to *sell* them, and Posner argues this is where the business model of modern pharma was born: the drug rep, the free sample, the ghostwritten article, continuing medical education with a sponsor, the "new and improved" patent extension, and the expansion of what counts as a disease. Posner is an investigative journalist (author of *Pharma*), not a scientist. His historical facts are marked ✅ when clearly stated; his interpretations and a few garbled numbers are 🟡. The practical payoff is the closing section: how to be a more questioning patient when a new drug is suggested.
 
 ## Two Add-Ons to Ch.2
-- **Penicillin patents:** Ernst Chain (29, German Jewish émigré on the Oxford team) suggested patenting penicillin; his two British colleagues were horrified and told him it "would reflect badly on the Jewish community." No patent was filed. ✅
-- **Use patents:** a *use* (process) patent covers a better way to manufacture a drug (faster, purer, streamlined). American companies held **250 use patents on penicillin within two years of the war's end**, and the British had to pay to use the industry-standard processes for the drug they discovered. ✅
-- **Antibiotics beyond humans (1950s):** companies encouraged use in chickens, cattle, turkeys (partly to fatten them) and crowded fish farms, about **30 million pounds a year by the mid-'50s**, plus spraying on crops against fungi and bacteria. Posner's view: food-chain exposure helped make the US "ground zero" for antibiotic resistance. ✅ facts as stated / 🟡 causal weighting is his opinion.
+- **Penicillin patents:** Ernst Chain (29, German Jewish émigré on the Oxford team) suggested patenting penicillin; his two British colleagues were horrified and told him it "would reflect badly on the Jewish community." No patent was filed. ✅ 🟢 Evidence check: Chain did think a patent essential while Florey and others saw patenting a life-saving drug as unethical (Gaynes 2017); the "Jewish community" remark is as Posner tells it and unverified here.
+- **Use patents:** a *use* (process) patent covers a better way to manufacture a drug (faster, purer, streamlined). American companies held **250 use patents on penicillin within two years of the war's end**, and the British had to pay to use the industry-standard processes for the drug they discovered. ✅ (Merck and USDA scientist Andrew Moyer did file process patents: Gaynes 2017; the count of 250 is as stated and unverified.)
+- **Antibiotics beyond humans (1950s):** companies encouraged use in chickens, cattle, turkeys (partly to fatten them) and crowded fish farms, about **30 million pounds a year by the mid-'50s** (figure as stated; unverified), plus spraying on crops against fungi and bacteria. Posner's view: food-chain exposure helped make the US "ground zero" for antibiotic resistance. ✅ facts as stated / 🟡 causal weighting is his opinion.
 
 ## Before Safety Rules — Elixir Sulfanilamide (1937)
 - Until 1938 there was **no legal requirement to test drugs for safety**. The 1906 Act mainly required labeling. ✅
-- A Tennessee manufacturer mixed **diethylene glycol** (an antifreeze ingredient) into a sulfanilamide "elixir"; Posner says it was added to sweeten it. 🟡 (his stated reason)
-- **107 people died, most of them children.** The company broke no safety law; the only charge that stuck was technical: an "elixir" must contain alcohol, and this one did not. A slap on the wrist. ✅
+- A Tennessee manufacturer mixed **diethylene glycol** (an antifreeze ingredient) into a sulfanilamide "elixir"; Posner says it was added to sweeten it. 🟡 (his stated reason) Evidence check: diethylene glycol was the **solvent** (diluent) used to dissolve the sulfanilamide, not a sweetener (Wax 1995; FDA).
+- **107 people died, most of them children.** (🟢 FDA counts over 100 deaths, many of them children; Wax 1995 counts 105 patients.) The company broke no safety law; the only charge that stuck was technical: an "elixir" must contain alcohol, and this one did not. A slap on the wrist. ✅
 - Result: the **1938 Food, Drug, and Cosmetic Act**, the first federal requirement for proof of safety (not efficacy). ✅
 
 | Year | FDA milestone (as Posner states it) |
 | --- | --- |
-| 1906 | Created under the Pure Food and Drug Act as part of the Bureau of Chemistry; focus on food additives; also nominally tobacco and medicines |
-| 1930 | Becomes a stand-alone agency, but few staff and little power |
-| 1938 | FD&C Act: safety proof required; adds medical devices, color additives, cosmetics. Staff grows only **2%** in a year |
+| 1906 | Created under the Pure Food and Drug Act as part of the Bureau of Chemistry; focus on food additives; also nominally tobacco and medicines (🟡 tobacco as stated, unverified) |
+| 1930 | Becomes a stand-alone agency, but few staff and little power. 🟡 Evidence check: 1927 renamed the Food, Drug, and Insecticide Administration; 1930 renamed the Food and Drug Administration, still inside the Department of Agriculture; it left Agriculture only in 1940 (FDA history) |
+| 1938 | FD&C Act: safety proof required; adds medical devices, color additives, cosmetics. Staff grows only **2%** in a year (as stated; unverified) |
 
 ## Old Guard vs. New Guard
 
@@ -34,7 +34,7 @@ Ch.2 showed that drugs could finally work (antibiotics). Ch.3 shows how the indu
 | Patent stance | Salk to Edward R. Murrow on who owns the polio vaccine patent: "Could you patent the sun?" | Patent a one-atom change and defend it in court |
 
 - Posner insists Merck meant it (not just PR): price to need and market size, not the maximum. ✅ his reading 🟡
-- **Salk trial as public-private partnership:** about 20,000 physicians, 65,000 school personnel, a quarter million volunteers and **1.8 million schoolchildren** (Posner was one). A 1954 Gallup poll: more Americans knew about the polio field trials than knew who the President was. ✅ (his "only like 35,000 physicians" in the US at the time looks off 🟡)
+- **Salk trial as public-private partnership:** about 20,000 physicians, 65,000 school personnel, a quarter million volunteers and **1.8 million schoolchildren** (Posner was one). A 1954 Gallup poll: more Americans knew about the polio field trials than knew who the President was. ✅ (his "only like 35,000 physicians" in the US at the time looks off 🟡; the trial and participant figures are as stated, and the trial itself is well documented: Meldrum 1998)
 
 ## Arthur Sackler — Architect of Pharmaceutical Persuasion
 Posner's list of Sackler's "innovations" (his word, "innovations aren't always good"), run through his medical-only ad agency William Douglas McAdams, which he calls applying Madison Avenue to doctors ("Medicine Avenue"):
@@ -52,7 +52,7 @@ Posner is explicit that reps and doctors were not corrupt: no under-the-table pa
 
 ## Case Study — Terramycin and the Blockbuster
 - **Pfizer:** after the war, antibiotics became the bulk of its business; Posner gives "nearly two-thirds" of sales and "80% of profits" for tetracycline-class drugs. 🟡 (two figures run together in the transcript)
-- **Terramycin vs. Lederle's Aureomycin:** they **differed by a single oxygen atom**, with no change in therapeutic value. Pfizer's own scientists wrote that it was not a new product. ✅
+- **Terramycin vs. Lederle's Aureomycin:** they **differed by a single oxygen atom**, with no change in therapeutic value. Pfizer's own scientists wrote that it was not a new product. ✅ (as told) 🟡 Evidence check: the one-oxygen difference is between Terramycin (oxytetracycline, C22H24N2O9) and plain tetracycline (C22H24N2O8); Aureomycin (chlortetracycline, C22H23ClN2O8) also carries a chlorine atom (PubChem). Both were broad-spectrum tetracyclines first reported in the late 1940s (Nelson 2011).
 - CEO Jack McKeen pushed ahead; Sackler got **$10 million**, pre-launch hype in papers and magazines, and on launch day reps waiting at pay phones got the call and fanned out to hospitals and clinics. ✅
 - Pfizer's lawyers got and defended the patent on the one-atom difference. **Terramycin became the top-selling antibiotic in America.** ✅
 - Posner's verdict: this ended the old guard; everyone chased the next Terramycin. 🟡
@@ -60,24 +60,24 @@ Posner is explicit that reps and doctors were not corrupt: no under-the-table pa
 ## Closing the Pharmacist Loophole — Anti-Substitution Laws
 - Problem for patent holders: pharmacists could swap a prescribed brand (Terramycin) for an equivalent they had in stock (Aureomycin). ✅
 - Federal lobbying failed ("the federal government wasn't interested"), so the industry went **state by state: 44 states banned pharmacist substitution** in the '50s; the remaining six came later. ✅
-- Public argument: protect the patient, because the doctor knows the history and the pharmacist does not. The **AMA joined**, liking the "integrity of the doctor" framing. Posner's read: the real aim was protecting exclusive sales. 🟡 (his statement that the AMA "had only been around for a few decades" is doubtful 🟡)
+- Public argument: protect the patient, because the doctor knows the history and the pharmacist does not. The **AMA joined**, liking the "integrity of the doctor" framing. Posner's read: the real aim was protecting exclusive sales. 🟡 (his statement that the AMA "had only been around for a few decades" is wrong: the AMA was founded in 1847, over a century earlier ✅)
 
 ## Fixed-Dose Combinations
-- By about **1960, 1 in 5 US prescriptions (20%)** were fixed-dose antibiotic combinations, up from nothing. ✅
+- By about **1960, 1 in 5 US prescriptions (20%)** were fixed-dose antibiotic combinations, up from nothing. 🟡 (as stated; unverified)
 - Companies' own studies: at some, only 25% (another, 40%) could claim even one advantage; most found **no benefit**, but "new" sold. 🟡 (figures garbled)
 - Sackler's agency promoted combinations harder than anyone; safety warnings were ignored.
 - **Burying a researcher in paper:** when one researcher requested data, about **240 firms** sent truckloads; he never published. 🟡 (number and outcome as stated)
 
 ## Me-Too Drugs and Patent Gaming
-- In **1960, at the 10 largest companies, 25% of R&D money went to truly new drugs and 75% to me-too drugs.** Posner: "That should be reversed." ✅
-- When a patent expires, generics typically cut price **by about two-thirds within the first year** (he says first nine months). ✅ as stated
+- In **1960, at the 10 largest companies, 25% of R&D money went to truly new drugs and 75% to me-too drugs.** Posner: "That should be reversed." 🟡 (as stated; unverified)
+- When a patent expires, generics typically cut price **by about two-thirds within the first year** (he says first nine months). 🟢 Evidence check: the size of the drop depends on how many generics enter. An FDA analysis found prices 31–39% below the brand with one generic, 73–79% below with four, and over 95% below with six or more (Conrad 2019).
 - The second move: modify your *own* drug slightly as it nears expiry and relaunch it as "new and improved." **"New and improved in pharma means longer patent protection."** ✅
 - Market saturation by 1960–61: drugs so alike "you could have flipped a coin," differing only in price and patent.
-- Side anecdote: in the early 1900s one company held the name **"adrenaline"**; rivals' versions had to use other names. ✅ (company not named)
+- Side anecdote: in the early 1900s one company held the name **"adrenaline"**; rivals' versions had to use other names. ✅ (company not named; this was Parke-Davis's "Adrenalin", unverified here)
 
 ## Why the FDA Could Not Keep Up
 - Under-resourced and politically constrained; journal ads blurred with peer-reviewed articles. ✅
-- Courts repeatedly sided with companies. The legal standard for false advertising was **intentionally false**, so negligently false claims were fixed with an apology and a revised ad. ✅
+- Courts repeatedly sided with companies. The legal standard for false advertising was **intentionally false**, so negligently false claims were fixed with an apology and a revised ad. ✅ 🟢 Consistent with FDA history: after a 1912 amendment the government had to prove that makers of false therapeutic claims intended to defraud, and it lost several cases (FDA Part I).
 - Posner's general rule: well-funded private firms stay a step ahead of bureaucracy. 🟡
 
 ## Disease Branding — Creating Demand
@@ -102,7 +102,7 @@ Posner is explicit that reps and doctors were not corrupt: no under-the-table pa
 
 ## Key Corrections to Carry Forward
 - 🔴 "Drugs were always tested for safety": not before 1938, and the 1938 law required safety, not efficacy.
-- 🔴 "A new drug is a better drug": Terramycin differed from Aureomycin by one oxygen atom, and three-quarters of 1960 R&D went to me-too drugs.
+- 🔴 "A new drug is a better drug": Terramycin differed from Aureomycin by a few atoms (Posner says one oxygen atom), and three-quarters of 1960 R&D went to me-too drugs.
 - 🔴 "A lower side-effect profile means safer": for a new drug it often means the side effects have not been reported yet (Posner: come back in 10 years).
 - 🔴 "Drug reps work through bribery": Posner says the mechanism was rapport, trust and busy doctors, not under-the-table money.
 - 🔴 "Anti-substitution laws were about patient safety": by Posner's account they protected exclusive sales of patented drugs.
@@ -141,7 +141,7 @@ C. \* By lobbying state legislatures one by one, with AMA support, until 44 stat
 - **Sackler's own journals** ("as you'll see") and the medical tribunes: promised for later lectures.
 - **Benzodiazepine peak** (Librium, Valium, mild anxiety): Ch.5 Mother's Little Helper.
 - **1959–62 investigation and proposed bill** that "would have revolutionized" the industry: Ch.4.
-- **Garbled figures** (Pfizer two-thirds vs. 80%, fixed-dose 25%/40%, 240 firms, 35,000 physicians): verify against *Pharma* before quoting.
+- **Garbled figures** (Pfizer two-thirds vs. 80%, fixed-dose 25%/40%, 240 firms, 35,000 physicians): still unverified after the October 2026 audit; verify against *Pharma* before quoting. The one-atom claim and the AMA's age were checked (see evidence checks).
 - **Opioid epidemic** mentioned in passing as the extreme case of marketing harm: later lectures.
 
 ## What Was Deliberately Cut (Self-Audit)
@@ -150,3 +150,15 @@ C. \* By lobbying state legislatures one by one, with AMA support, until 44 stat
 - The repeated "pre-1906 landscape" recap (heroin cough syrups, cocaine inhalants), already covered in Ch.1.
 - The detailed rep-pitch dialogue ("this one knocks my socks off"), kept only as the rapport mechanism.
 
+---
+**References:**
+1. Gaynes R. The Discovery of Penicillin—New Insights After More Than 75 Years of Clinical Use. *Emerg Infect Dis* 2017;23(5):849-853. [DOI](https://doi.org/10.3201/eid2305.161556)
+2. Wax PM. Elixirs, diluents, and the passage of the 1938 Federal Food, Drug and Cosmetic Act. *Ann Intern Med* 1995;122(6):456-61. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7856995/)
+3. US Food and Drug Administration. Part II: 1938, Food, Drug, Cosmetic Act. FDA history. [FDA](https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-ii-1938-food-drug-cosmetic-act)
+4. US Food and Drug Administration. FDA's Origin. FDA history. [FDA](https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/fdas-origin)
+5. US Food and Drug Administration. Part I: The 1906 Food and Drugs Act and Its Enforcement. FDA history. [FDA](https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-i-1906-food-and-drugs-act-and-its-enforcement)
+6. Meldrum M. "A calculated risk": the Salk polio vaccine field trials of 1954. *BMJ* 1998;317(7167):1233-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9794869/)
+7. Nelson ML, Levy SB. The history of the tetracyclines. *Ann N Y Acad Sci* 2011;1241:17-32. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22191524/)
+8. National Library of Medicine. PubChem compound records: oxytetracycline (CID 54675779), chlortetracycline (CID 54675777), tetracycline (CID 54675776). [PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/54675779)
+9. Greene JA. What's in a name? Generics and the persistence of the pharmaceutical brand in American medicine. *J Hist Med Allied Sci* 2011;66(4):468-506. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20858701/)
+10. Conrad R, Lutter R. Generic Competition and Drug Prices: New Evidence Linking Greater Generic Competition and Lower Generic Drug Prices. US FDA, December 2019. [FDA](https://www.fda.gov/media/133509/download)
