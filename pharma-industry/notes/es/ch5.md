@@ -9,17 +9,17 @@ Esta es la bisagra temática del curso. En lugar de una línea de tiempo lineal,
 ## El contexto — La "era de la ansiedad" se convierte en mercado
 - El Estados Unidos de la posguerra es próspero pero está ansioso por los cambios rápidos; Posner cita el poema de Auden *The Age of Anxiety*, la sinfonía homónima de Bernstein y artículos de Time/Newsweek que usaban la frase. ✅
 - La intuición de la industria farmacéutica: si el malestar emocional podía **medicalizarse**, se le podía vender una solución química. Posner lo llama "patologizar la emoción normal". 🟡 (su encuadre)
-- Punto de partida, los barbitúricos: depresores fuertes, que generan dependencia, peligrosos con alcohol. El "Secanol" de Lilly (grafía de la transcripción; la marca suele escribirse Seconal 🟡) fue el más vendido hasta principios de los años cincuenta. ✅
+- Punto de partida, los barbitúricos: depresores fuertes, que generan dependencia, peligrosos con alcohol. El "Secanol" de Lilly (grafía de la transcripción; la marca es **Seconal**, secobarbital: López-Muñoz 2005) fue el más vendido hasta principios de los años cincuenta. ✅
 - Posner reafirma la tesis de su curso: el ADN de la industria está en los productos adictivos (desde la morfina de la Guerra Civil), y cuando un producto nuevo resulta adictivo, las empresas "entierran la información hasta que ya no pueden ignorarla". 🟡
 
 ## De Thorazine a Miltown — La invención del "tranquilizante leve"
 
 | Medicamento | Fabricante | Cifras clave (según lo afirmado) |
 |---|---|---|
-| Thorazine | Smith Kline (derechos comprados tras el descubrimiento francés, 1953) | 3 millones de recetas en el primer año; 80% por psiquiatras, mayormente en manicomios; 99.6% de las ventas de tranquilizantes en EE. UU. en 1954–55 |
+| Thorazine | Smith Kline (derechos comprados tras el descubrimiento francés, 1953; 🟡 su uso clínico en EE. UU. empezó en 1954: López-Muñoz 2005) | 3 millones de recetas en el primer año; 80% por psiquiatras, mayormente en manicomios; 99.6% de las ventas de tranquilizantes en EE. UU. en 1954–55 |
 | Miltown / Equanil (gemelos químicos) | Carter Products / Wyeth (American Home Products) | De menos del 1% al 70% de las ventas de tranquilizantes en un año; 36 millones de recetas, un tercio de todas las recetas en 1957; 1 de cada 20 estadounidenses lo había probado en dos años |
 
-- Origen de Thorazine: Posner dice que un cirujano francés lo encontró por accidente mientras buscaba una cura para la malaria. 🟡 Su versión; no verificada aquí.
+- Origen de Thorazine: Posner dice que un cirujano francés lo encontró por accidente mientras buscaba una cura para la malaria. 🟡 Su versión. Verificación de evidencia: en parte es correcto. Las fenotiazinas se habían usado como antipalúdicos antes de 1940, pero la clorpromazina se sintetizó en Rhône-Poulenc en diciembre de 1950 durante la investigación de antihistamínicos; el cirujano naval francés Henri Laborit la usó en anestesia, y los psiquiatras la adoptaron en 1952 (López-Muñoz 2005).
 - **El encargo de Arthur Sackler:** un medicamento exitoso debía ser recetado por médicos comunes, no por psiquiatras. Quería un "Thorazine light", una "aspirina emocional", en última instancia una pastilla de estilo de vida que no se tomara por enfermedad sino para sentirse mejor con la vida cotidiana. ✅ (Posner cita las notas de Sackler)
 - Miltown provino de **Carter Products**, una empresa de consumo (Carter's Little Liver Pills, Nair, Arrid), no un cliente de Sackler. Recibió su nombre del lugar de pruebas en Nueva Jersey. Carter lo tuvo guardado casi un año, dudando de que existiera un mercado. ✅
 - **El truco regulatorio del nombre:** Carter rechazó "tranquilizante" (demasiado Thorazine) y "barbitúrico", y propuso una nueva categoría a la FDA, **"tranquilizante leve"**. Sin nada más en esa categoría, los médicos asumieron que era seguro. ✅
@@ -27,10 +27,11 @@ Esta es la bisagra temática del curso. En lugar de una línea de tiempo lineal,
 - Giro cultural: la gente **presumía** de tomar Miltown como señal de que estaba ocupada y era exitosa. ✅
 - Convención de la AMA de 1958, San Francisco: Salvador Dalí (cuya esposa Gala era usuaria) construyó una instalación transitable de 60 pies (unos 18 m) de un "estado onírico"; $100,000 en total, $60,000 de honorarios para él; luego fue destruida. ✅
 - Los anuncios dirigidos a médicos decían "Probado, científico, selectivo" antes de que se exigiera tal prueba, y lo promovían para el embarazo, pacientes alérgicos, enfermedades crónicas y el "síndrome del padre maltratado". ✅
+- (Carter Products lanzó Miltown en 1955 con una enorme campaña de marketing, lo que lo volvió uno de los primeros fármacos superventas de celebridades: Herzberg 2011.)
 - El problema: Miltown era un "barbitúrico light": alta dependencia y riesgo de sobredosis con alcohol, y después disfunción psicomotora (tropezar, dejar caer cosas). Esto estableció el patrón de Posner: éxito, luego problemas, luego caída de ventas, luego un reemplazo "nuevo y mejorado". 🟡 (su patrón)
 
 ## El mono ejecutivo — Mala ciencia como marketing
-- Experimentos del Ejército en Walter Reed en los años cincuenta sobre el estrés (no financiados por la industria farmacéutica): dos monos inmovilizados recibían descargas cada 15–20 segundos; uno podía presionar una palanca para detener las descargas de ambos. En la autopsia, el **"mono ejecutivo"** que presionaba la palanca tenía úlceras; el pasivo no. ✅ Posner lo llama "mala ciencia". 🟡
+- Experimentos del Ejército en Walter Reed en los años cincuenta sobre el estrés (no financiados por la industria farmacéutica): dos monos inmovilizados recibían descargas cada 15–20 segundos; uno podía presionar una palanca para detener las descargas de ambos. En la autopsia, el **"mono ejecutivo"** que presionaba la palanca tenía úlceras; el pasivo no. ✅ (Brady 1958) Posner lo llama "mala ciencia". 🟡
 - El uso que le dio Sackler: los hombres (proveedores del hogar) son monos ejecutivos que necesitan ansiolíticos para evitar las úlceras y trabajar mejor; las mujeres en casa tienen "agotamiento o frustraciones" reinterpretados como estar alteradas o histéricas, y necesitan calma para ser mejores madres y esposas. ✅ (tal como Posner describe el argumento de venta)
 
 ## Los anuncios — "Ahora ella puede con todo"
@@ -49,9 +50,9 @@ El anuncio del "álbum de vida" de Valium que muestra Posner: una mujer soltera 
 
 ## Anfetaminas — El interludio de las pastillas para adelgazar
 - En los años sesenta las anfetaminas se vendían como pastillas para adelgazar (principalmente a mujeres), "pastillas energizantes" y estimulantes del ánimo. Se abrieron miles de **clínicas de dieta**, la mayoría subsidiarias de farmacéuticas. ✅
-- Margen: 100,000 pastillas de 10 mg le costaban a la clínica **$71** y se vendían por **$12,000**. ✅
-- A mediados de los años sesenta el gobierno estimaba que cerca de **la mitad** de las anfetaminas de las clínicas de dieta se desviaba a la calle, el mismo patrón que se vería después con OxyContin. ✅
-- El patrón de la FDA, según Posner: lenta y rezagada. Recibió reportes de "psicosis inducida por anfetaminas, conducta antisocial y paranoia incapacitante", aceptó las garantías de las empresas de que eran raros y en 1963 estuvo a punto de aprobar Dexamyl de CIBA para venta **sin receta** antes de dar marcha atrás en el último momento. ✅ (hechos) 🟡 (caracterización)
+- Margen: 100,000 pastillas de 10 mg le costaban a la clínica **$71** y se vendían por **$12,000**. 🟡 (según lo dijo; sin verificar)
+- A mediados de los años sesenta el gobierno estimaba que cerca de **la mitad** de las anfetaminas de las clínicas de dieta se desviaba a la calle, el mismo patrón que se vería después con OxyContin. 🟡 (según lo dijo; sin verificar)
+- El patrón de la FDA, según Posner: lenta y rezagada. Recibió reportes de "psicosis inducida por anfetaminas, conducta antisocial y paranoia incapacitante", aceptó las garantías de las empresas de que eran raros y en 1963 estuvo a punto de aprobar Dexamyl de CIBA para venta **sin receta** antes de dar marcha atrás en el último momento. 🟡 (según lo dijo; no pudimos verificar el episodio de Dexamyl)
 
 ## Librium y Valium — Llega la "aspirina emocional"
 - **Librium** (1960), de Hoffmann-La Roche, inauguró las **benzodiacepinas**: un perfil de efectos secundarios realmente mejor que el de Miltown, con menor dependencia aparente y menor riesgo de sobredosis con alcohol en las dosis recetadas. La salvedad de Posner: siempre se le comparaba con el medicamento peor que lo precedió. ✅
@@ -84,16 +85,16 @@ El anuncio del "álbum de vida" de Valium que muestra Posner: una mujer soltera 
 - **Financiamiento oculto:** Wyeth pagó la publicación del libro, su consultorio y sus giras de conferencias. ✅
 - La esposa de Posner, Trisha (autora de *This Is Not Your Mother's Menopause*, 2000), entrevistó al hijo de Wilson, quien dijo que la esposa de Wilson tuvo cáncer de mama dos veces y murió del segundo; la familia y Wyeth ocultaron el primer diagnóstico para que no afectara las ventas. ✅ (según lo contado; relato familiar de una sola fuente 🟡)
 - Siguieron el libro de Barbara Seaman (unos 10 años después) y una investigación del Congreso. La TRH temprana y la píldora anticonceptiva de 1960 (llamada el primer fármaco de estilo de vida) contenían estrógeno en **10–15 veces** lo que hoy se considera seguro; surgieron coágulos y muertes, y después cánceres de mama con receptores de estrógeno. Las empresas luego bajaron las dosis. ✅
-- Antes y ahora, según Posner: en los años sesenta se pretendía que las mujeres siguieran con la TRH para siempre; hoy los médicos suelen apuntar a un máximo de unos **cinco años**. ✅ (según lo afirmado)
+- Antes y ahora, según Posner: en los años sesenta se pretendía que las mujeres siguieran con la TRH para siempre; hoy los médicos suelen apuntar a un máximo de unos **cinco años**. ✅ (según lo afirmado) 🟡 Verificación de evidencia: las guías actuales no fijan un límite de cinco años; piden tratamiento individualizado, con uso más prolongado por razones documentadas como bochornos persistentes, decisión compartida y reevaluación periódica (NAMS 2022).
 
 ## El puente hacia los opioides — Medicamento nuevo, manual viejo
-- Arthur Sackler murió en 1987 (homenajeado por la industria publicitaria como pionero del marketing farmacéutico); sus hermanos **Raymond y Mortimer** aplicaron el método a **OxyContin** (aprobado en EE. UU. en 1996). ✅
-- El argumento de Purdue ante la FDA: un recubrimiento de polímero libera oxicodona durante **12 horas** (sus propias pruebas sugerían unas 8), lo que supuestamente reducía el abuso. Ningún estudio lo demostraba. Triturar la pastilla anulaba el mecanismo; las tabletas llegaron hasta **160 mg**. El funcionario de la FDA que lo aceptó trabajó después para Purdue. ✅
-- 2001: reportes de desvío; pueblos de los Apalaches de 3,500 habitantes recibían 5 millones de pastillas. Los representantes de ventas recibían los bonos más generosos de la industria, lo presentaban como menos adictivo y promovían usos fuera de indicación (osteoartritis, dolor de espalda común). ✅
-- **2007:** Purdue firmó un acuerdo de consentimiento y luego siguió igual. Posner vincula la crisis con aproximadamente **100,000 muertos** (según lo afirmado). ✅
+- Arthur Sackler murió en 1987 (homenajeado por la industria publicitaria como pionero del marketing farmacéutico); sus hermanos **Raymond y Mortimer** aplicaron el método a **OxyContin** (aprobado en EE. UU. en diciembre de 1995; salió al mercado en 1996). ✅ (cronología de la FDA)
+- El argumento de Purdue ante la FDA: un recubrimiento de polímero libera oxicodona durante **12 horas** (sus propias pruebas sugerían unas 8), lo que supuestamente reducía el abuso. Ningún estudio lo demostraba. (🟢 Al aprobarlo, la propia FDA creía que la absorción lenta implicaría menor potencial de abuso, aunque la etiqueta advertía que triturarlo e inyectarlo podía ser mortal: cronología de la FDA.) Triturar la pastilla anulaba el mecanismo; las tabletas llegaron hasta **160 mg**. El funcionario de la FDA que lo aceptó trabajó después para Purdue. ✅
+- 2001: reportes de desvío; pueblos de los Apalaches de 3,500 habitantes recibían 5 millones de pastillas (🟡 cifras de los pueblos según lo dijo, sin verificar). Los representantes de ventas recibían los bonos más generosos de la industria, lo presentaban como menos adictivo y promovían usos fuera de indicación (osteoartritis, dolor de espalda común). ✅
+- **2007:** Purdue firmó un acuerdo de consentimiento y luego siguió igual. Posner vincula la crisis con aproximadamente **100,000 muertos** (según lo afirmado). 🟡 Verificación de evidencia: en mayo de 2007 Purdue **se declaró culpable** de un delito grave por engañar a médicos y pacientes y pagó $600 millones, y tres directivos pagaron otros $34.5 millones (CNN Money 2007). La cifra de muertes es mucho mayor que 100,000: unas **806,000** personas murieron por sobredosis de opioides en EE. UU. de 1999 a 2023, casi 80,000 solo en 2023 (CDC). Estas cifras abarcan todos los opioides, no solo OxyContin.
 - La defensa de Purdue cuando la toxicología mostraba OxyContin en las muertes por sobredosis: también había otras drogas presentes (benzodiacepinas, alcohol), así que OxyContin no era "la" causa. ✅
 - **Forbes, 2015:** los Sackler con **$14 mil millones**, el "Oxy Clan", una familia enriquecida por un solo medicamento. ✅
-- **Líderes de opinión clave:** un movimiento de medicina del dolor de los años ochenta (se menciona al Dr. Portenoy) sostenía que se temía injustamente a los opioides. Una breve carta en una revista (Posner dice JAMA; "38,000" pacientes hospitalizados, solo dos adictos) se citó sin cesar aunque no tenía revisión por pares y no dio seguimiento a nadie tras el alta. Máxima: si tomas opioides realmente para el dolor, no te harás adicto. Las oficinas de conferencistas enviaban médicos a congresos en centros vacacionales. 🟡 (nombre de la revista y número de pacientes según lo afirmado; verificar antes de citar)
+- **Líderes de opinión clave:** un movimiento de medicina del dolor de los años ochenta (se menciona al Dr. Portenoy) sostenía que se temía injustamente a los opioides. Una breve carta en una revista (Posner dice JAMA; "38,000" pacientes hospitalizados, solo dos adictos) se citó sin cesar aunque no tenía revisión por pares y no dio seguimiento a nadie tras el alta. Máxima: si tomas opioides realmente para el dolor, no te harás adicto. Las oficinas de conferencistas enviaban médicos a congresos en centros vacacionales. ✅ Verificación de evidencia: la carta fue de Porter y Jick, *New England Journal of Medicine*, 1980, "La adicción es rara en pacientes tratados con narcóticos"; revisó los expedientes de 39,946 pacientes hospitalizados (cerca de los 38,000 de Posner), de los cuales 11,882 recibieron un opioide, y encontró **4 casos de adicción** (no era JAMA, ni fueron 2). Un análisis de 2017 encontró 608 citas, el 72% de ellas usándola como prueba de que la adicción era rara (Porter 1980; Leung 2017; Retraction Watch 2017). La serie de casos de Portenoy y Foley sobre el dolor se publicó en 1986.
 - Péndulo: hoy se teme tanto a los opioides que a Trisha solo le dieron Tylenol tras una cirugía de cáncer de mama hace unos cinco años. ✅
 
 ## Frases clave y datos citables (Clase 5)
@@ -111,7 +112,7 @@ El anuncio del "álbum de vida" de Valium que muestra Posner: una mujer soltera 
 ## Correcciones clave para recordar
 - 🔴 "Leve" en la etiqueta de un medicamento significa leve: la categoría de "tranquilizante leve" de Miltown fue una solicitud de marketing que la FDA concedió, no un hallazgo de seguridad medido.
 - 🔴 "Más nuevo equivale a seguro": cada oleada (barbitúricos, Thorazine, Miltown, benzodiacepinas, OxyContin) parecía más segura solo al lado de la anterior; la dependencia apareció después.
-- 🔴 "Aprobado significa que el regulador verificó las afirmaciones": la FDA aceptó sin estudios la afirmación de un OxyContin de 12 horas y menos propenso al abuso, y estuvo a punto de hacer de venta libre una anfetamina.
+- 🔴 "Aprobado significa que el regulador verificó las afirmaciones": la FDA aceptó sin estudios la afirmación de un OxyContin de 12 horas y menos propenso al abuso, y (según Posner) estuvo a punto de hacer de venta libre una anfetamina.
 - 🔴 "Un libro de experto es independiente": *Feminine Forever* fue financiado por el fabricante de la TRH.
 - 🔴 "Son las otras drogas del informe toxicológico": una defensa que Purdue usó para desviar la atención de OxyContin.
 - 🔴 "Una mujer médica es inmune al marketing": Posner dice que los médicos de cualquier género son blanco.
@@ -146,8 +147,8 @@ C. Los síntomas de la menopausia siempre se tratan mejor con TRH de por vida
 
 ## Temas abiertos
 - ✅ **Transcripción completa:** termina con el adelanto de Posner de la siguiente clase (captura política, erosión de las salvaguardas). El archivo de Dropbox de la Clase 6 contiene el mismo texto que la Clase 5, así que el Cap. 6 todavía necesita su propia transcripción.
-- **Carta sobre la adicción a opioides:** la "nota al pie de JAMA, 38,000 pacientes, dos adictos" de Posner debe verificarse con la publicación original antes de citarla.
-- **La historia del origen de Thorazine** (cirujano francés, malaria) es la versión de Posner; verificar.
+- **Carta sobre la adicción a opioides:** verificado: Porter y Jick, NEJM 1980, 4 adicciones entre 11,882 pacientes tratados con opioides (39,946 expedientes revisados) (ver la verificación de evidencia arriba).
+- **La historia del origen de Thorazine:** verificado: investigación de antihistamínicos en Rhône-Poulenc (1950); Laborit fue el cirujano; las fenotiazinas tuvieron antes un uso antipalúdico.
 - **Las cifras de dependencia de las benzodiacepinas** (70%, 65%, más de la mitad) vienen sin estudios identificados.
 - **La captura política** (el funcionario de la FDA que se unió a Purdue, la puerta giratoria) se promete para el Cap. 6.
 
@@ -158,3 +159,29 @@ C. Los síntomas de la menopausia siempre se tratan mejor con TRH de por vida
 - Las reafirmaciones repetidas de la tesis de "medicalizar el malestar"; se conservó una vez en el Manual.
 - Historias personales de padres que perdieron a sus hijos por OxyContin, más allá de la línea sobre el número de muertes.
 
+---
+**Referencias:**
+1. López-Muñoz F, Ucha-Udabe R, Alamo C. La historia de los barbitúricos un siglo después de su introducción clínica [*título original: The history of barbiturates a century after their clinical introduction*]. *Neuropsychiatr Dis Treat* 2005;1(4):329-43. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/18568113/)
+   - Respalda la historia de los barbitúricos, incluido el secobarbital (Seconal), y su caída por dependencia y sobredosis.
+2. López-Muñoz F, et al. Historia del descubrimiento y la introducción clínica de la clorpromazina [*título original: History of the discovery and clinical introduction of chlorpromazine*]. *Ann Clin Psychiatry* 2005;17(3):113-35. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/16433053/)
+   - La clorpromazina surgió de la investigación de antihistamínicos (1950), Laborit la usó en anestesia y llegó a EE. UU. en 1954.
+3. Herzberg D. Éxitos de ventas y sustancias controladas: Miltown, Quaalude y la demanda de fármacos en la posguerra estadounidense [*título original: Blockbusters and controlled substances: Miltown, Quaalude, and consumer demand for drugs in postwar America*]. *Stud Hist Philos Biol Biomed Sci* 2011;42(4):415-26. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/22035715/)
+   - Carter Products lanzó Miltown en 1955 con una gran campaña y se volvió uno de los primeros superventas.
+4. Brady JV. Úlceras en monos ejecutivos [*título original: Ulcers in executive monkeys*]. *Sci Am* 1958;199(4):95-8. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/13602814/)
+   - El experimento original del "mono ejecutivo" que Sackler usó en su publicidad.
+5. Panel asesor de la Sociedad Norteamericana de Menopausia. Declaración de postura de 2022 sobre la terapia hormonal [*título original: The 2022 hormone therapy position statement of The North American Menopause Society*]. *Menopause* 2022;29(7):767-794. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/35797481/)
+   - No fija un límite de cinco años: pide tratamiento individualizado y reevaluación periódica.
+6. Administración de Alimentos y Medicamentos de EE. UU. (FDA). Cronología de actividades de la FDA sobre el uso de sustancias y la prevención de sobredosis [*título original: Timeline of Selected FDA Activities and Significant Events Addressing Substance Use and Overdose Prevention*]. [FDA (en inglés)](https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/timeline-selected-fda-activities-and-significant-events-addressing-substance-use-and-overdose)
+   - OxyContin se aprobó en diciembre de 1995; la FDA creía que la absorción lenta reduciría el abuso.
+7. Van Zee A. La promoción y el marketing de OxyContin: triunfo comercial, tragedia de salud pública [*título original: The promotion and marketing of OxyContin: commercial triumph, public health tragedy*]. *Am J Public Health* 2009;99(2):221-7. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/18799767/)
+   - Analiza la promoción agresiva de OxyContin y la débil supervisión regulatoria.
+8. CNN Money. El fabricante de OxyContin y sus directivos pagarán $634.5 millones [*título original: OxyContin maker, execs to pay $634.5 million*] (10 de mayo de 2007). [CNN (en inglés)](https://money.cnn.com/2007/05/10/news/companies/oxycontin/)
+   - Purdue se declaró culpable y pagó $600 millones; tres directivos pagaron $34.5 millones.
+9. Centros para el Control y la Prevención de Enfermedades (CDC). Entender la epidemia de sobredosis de opioides [*título original: Understanding the Opioid Overdose Epidemic*]. [CDC (en inglés)](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html)
+   - Unas 806,000 muertes por sobredosis de opioides en EE. UU. de 1999 a 2023.
+10. Porter J, Jick H. La adicción es rara en pacientes tratados con narcóticos [*título original: Addiction rare in patients treated with narcotics*]. *N Engl J Med* 1980;302(2):123. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/7350425/)
+   - La breve carta original: 39,946 expedientes revisados, 11,882 pacientes con opioides y 4 casos de adicción.
+11. Leung PTM, et al. Una carta de 1980 sobre el riesgo de adicción a opioides [*título original: A 1980 Letter on the Risk of Opioid Addiction*]. *N Engl J Med* 2017;376(22):2194-2195. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/28564561/)
+   - Encontró 608 citas de esa carta, el 72% usándola como prueba de que la adicción era rara.
+12. Retraction Watch. El NEJM emite una advertencia inusual para los lectores sobre una carta de 1980 sobre la adicción a opioides [*título original: NEJM issues unusual warning for readers about 1980 letter on opioid addiction*] (2 de junio de 2017). [Retraction Watch (en inglés)](https://retractionwatch.com/2017/06/02/nejm-issues-unusual-warning-readers-1980-letter-opioid-addiction)
+   - Resume la carta original y el análisis de sus citas.
