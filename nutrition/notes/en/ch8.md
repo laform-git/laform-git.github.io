@@ -10,7 +10,7 @@ This lecture explains how food gets converted into physiology: bacteria in the m
 ## The Core Frame — A Co-Evolved Universe of Microbes
 - The **microbiome** = bacteria, viruses and fungi (the fungal part is the **mycobiome**). Microbes live all over the body, including places once thought sterile (mammary tissue, pancreas). ✅
 - Three microbiomes you can influence: **oral, gut, skin**. For systemic health he focuses on oral and gut; skin rule of thumb: don't put on skin what you wouldn't consider ingesting. ✅
-- **Genes:** after the Human Genome Project, the human genome looked rudimentary; the microbial genes we carry outnumber our own roughly **10 to 100 to 1**, so we offload work (converting nitrate, fermenting fiber) to them. ✅ as stated by Lugavere; the exact ratio is a lecture claim, not verified here. 🟡
+- **Genes:** after the Human Genome Project, the human genome looked rudimentary; the microbial genes we carry outnumber our own roughly **10 to 100 to 1**, so we offload work (converting nitrate, fermenting fiber) to them. ✅ as stated by Lugavere. 🟢 Evidence check: the first gut gene catalogue found about 150 times more microbial genes than human genes (Qin 2010), so his range is reasonable; by cell count, though, bacteria and human cells are roughly 1:1, not the old 10:1 (Sender 2016).
 - Core rule: **anything you eat or consume changes your microbiome**, and we can't yet say whether each change is good or bad. So: favor whole foods, be cautious with synthetic compounds outside the food matrix. ✅
 
 ## Why the Colon Is Where It Happens
@@ -21,22 +21,22 @@ This lecture explains how food gets converted into physiology: bacteria in the m
 | Small intestine | Active absorption of proteins, sugars, fats; "where the host gets fed" | Not the main microbial site |
 | Large intestine (colon) | "The Miami of the GI tract" — mild, bacteria-friendly | Bulk of the gut microbiome |
 
-- The gut lumen is technically *outside* the body until absorbed, and laid flat would cover roughly a floor's worth of space, far more than skin. So the gut is the **largest interface with the environment** and the immune system concentrates its surveillance there. ✅
+- The gut lumen is technically *outside* the body until absorbed, and laid flat would cover roughly a floor's worth of space, far more than skin (🟢 measured at about 32 m², roughly half a badminton court, not the tennis court of older textbooks; Helander 2014). So the gut is the **largest interface with the environment** and the immune system concentrates its surveillance there. ✅
 - Lugavere's metaphor: the gut microbiome is a **boot camp / training camp for the immune system**. Autoimmunity and allergies are described as having gut dysbiosis (plus genetic predisposition) as a suspected root cause. 🟡 Framed as "thought to be," not established.
 - Outputs we extract: vitamins and **short-chain fatty acids like butyrate** (anti-inflammatory). ✅
 
 ## The Oral Microbiome — The Nitrate-to-Nitric-Oxide Link
 - Leafy greens (arugula, kale) and beets are rich in **nitrate**. Humans **lack the enzymes to convert nitrate to nitrite**; oral bacteria do it, and nitrite feeds the **nitric oxide pathway**. ✅
-- **Antiseptic mouthwash:** frequent users show higher hypertension risk (one study: **doubling**) and about **50% higher type 2 diabetes risk** (nitric oxide also touches insulin signaling). 🟡 Lugavere says plainly that few studies exist and "more research needs to be done"; these are observational associations, not proof of cause.
-- His personal practice: no antiseptic mouthwash unless infection risk (he passes on Listerine at the dentist), and he avoids fluoride toothpaste after speaking with a nitric oxide expert. 🟡 Personal choice and reasoning from one expert conversation, not a recommendation backed by data in the lecture. For oral health he stresses: avoid sticky, easily fermentable (cariogenic) foods, floss regularly, then brush.
-- Artificial sweeteners: some evidence they alter the gut microbiome, direction unknown; oral effect plausible but "the jury is still out." 🟡
+- **Antiseptic mouthwash:** frequent users show higher hypertension risk (one study: **doubling**) and about **50% higher type 2 diabetes risk** (nitric oxide also touches insulin signaling). 🟡 Lugavere says plainly that few studies exist and "more research needs to be done"; these are observational associations, not proof of cause. Studies found: in a Puerto Rico cohort of overweight adults, using mouthwash twice a day or more was linked to 85% higher hypertension risk (Joshipura 2020) and 55% higher pre-diabetes/diabetes risk (Joshipura 2017).
+- His personal practice: no antiseptic mouthwash unless infection risk (he passes on Listerine at the dentist), and he avoids fluoride toothpaste after speaking with a nitric oxide expert. 🟡 Personal choice and reasoning from one expert conversation, not a recommendation backed by data in the lecture. Evidence check: fluoride toothpaste clearly reduces tooth decay in randomized trials (Walsh 2019); dropping it trades a proven benefit for a theoretical one. For oral health he stresses: avoid sticky, easily fermentable (cariogenic) foods, floss regularly, then brush.
+- Artificial sweeteners: some evidence they alter the gut microbiome, direction unknown; oral effect plausible but "the jury is still out." 🟡 (Saccharin and other sweeteners altered gut bacteria and caused glucose intolerance in mice, with similar changes in some healthy volunteers; Suez 2014.)
 
 ## Gut Playbook — Feed, Protect, Pace
 - **Diversity of plant fibers:** "what you feed, you breed." A daily big kale salad selects for kale-lovers; think of a city that benefits from "a plurality of voices." ✅
-- **Fermented foods:** fermented dairy, raw sauerkraut, pickles, kimchi, natto, even dark chocolate; they appear to promote diversity and raise fiber tolerance. ✅
+- **Fermented foods:** fermented dairy, raw sauerkraut, pickles, kimchi, natto, even dark chocolate; they appear to promote diversity and raise fiber tolerance. ✅ (In a 10-week randomized trial, a high-fermented-food diet raised microbiome diversity and lowered inflammatory markers, while a high-fiber diet did not raise diversity; Wastyk 2021.)
 - **Avoid unless medically necessary:** full-spectrum antibiotics (he says doctors sometimes prescribe them because patients expect drugs). ✅
 - **Organic when eating the peel or rind** (apples, greens, berries) to reduce herbicide and pesticide exposure; he explicitly says he is not an organic purist and eats non-organic berries at restaurants. Glyphosate may affect gut bacterial pathways; long-term effect unknown. 🟡
-- **Synthetic emulsifiers:** polysorbate 80 and carboxymethylcellulose, found in nut milks and ice creams; preliminary, mostly animal research suggests bowel inflammation. 🟡 "The dose makes the poison."
+- **Synthetic emulsifiers:** polysorbate 80 and carboxymethylcellulose, found in nut milks and ice creams; preliminary, mostly animal research suggests bowel inflammation. 🟡 "The dose makes the poison." A small randomized feeding trial in healthy people found carboxymethylcellulose reduced microbiome diversity and short-chain fatty acids (Chassaing 2022).
 - **Increase fiber slowly.** Bloating and gas after a sudden jump means the bacteria haven't been cultivated yet, not that fiber is the enemy. ✅
 
 ## The Fiber Map
@@ -55,8 +55,8 @@ This lecture explains how food gets converted into physiology: bacteria in the m
 ## Viscous Fiber and Cholesterol — The Bile Acid Mechanism
 - Bile acids are **made from cholesterol** in the liver, stored in the gallbladder, released at the top of the small intestine to emulsify fat, and normally **reabsorbed** near the end of the small intestine. ✅
 - Psyllium and oats **trap bile acids**, so they are excreted; the liver then **pulls cholesterol from circulation** to make replacements. ✅
-- Number given: up to **~20% reduction in total cholesterol** with regular psyllium at **about 10 g/day** (he admits it is a large daily dose). 🟡 Lecture figure, "up to," total cholesterol (not ApoB).
-- **Oat beta-glucan** is also immune-modulating; the cholesterol claim on oat packaging is "legit." ✅
+- Number given: up to **~20% reduction in total cholesterol** with regular psyllium at **about 10 g/day** (he admits it is a large daily dose). 🟡 Lecture figure, "up to," total cholesterol (not ApoB). Evidence check: a meta-analysis of 28 trials (median about 10 g/day) found LDL cholesterol fell by about 0.33 mmol/L (about 13 mg/dL, roughly 10% at typical levels), with non-HDL cholesterol and apoB also lower (Jovanovski 2018), so 20% is the top of the range, not the usual effect.
+- **Oat beta-glucan** is also immune-modulating; the cholesterol claim on oat packaging is "legit." ✅ (Meta-analysis: oat beta-glucan lowers LDL, non-HDL cholesterol and apoB; Ho 2016.)
 - Lugavere's caveat: he is not saying LDL is bad or that everyone should drive it to the floor.
 
 ## Digestion Starts When You Sit Down
@@ -69,8 +69,8 @@ This lecture explains how food gets converted into physiology: bacteria in the m
 
 | Supplement | What he says | Flag |
 | --- | --- | --- |
-| Magnesium | 50–60% of people don't get enough; best foods are dark leafy greens, almonds, dark chocolate; blood tests are poor because most is in bone; he takes **glycinate** daily; helps migraine prevention; helps activate vitamin D, so he'd try it before vitamin D if D is low | 🟡 personal choice |
-| Vitamin D | A hormone regulating about **5% of the genome**; evidence for calming an overactive immune system (autoimmunity); **2,000–5,000 IU/day** a good starting place | 🟡 "hard to get too much" is his claim |
+| Magnesium | 50–60% of people don't get enough; best foods are dark leafy greens, almonds, dark chocolate; blood tests are poor because most is in bone; he takes **glycinate** daily; helps migraine prevention; helps activate vitamin D, so he'd try it before vitamin D if D is low (NIH ODS: 48% of Americans eat less than the average requirement, and 50–60% of body magnesium is in bone) | 🟡 personal choice |
+| Vitamin D | A hormone regulating about **5% of the genome**; evidence for calming an overactive immune system (autoimmunity); **2,000–5,000 IU/day** a good starting place | 🟡 "hard to get too much" is his claim. Evidence check: the adult upper limit is 4,000 IU/day (NIH ODS), and the Endocrine Society advises against routine supplementation above the recommended intake for healthy adults under 75 (Demay 2024). The genome share is usually put at about 3% (Bouillon 2008). In the VITAL trial, 2,000 IU/day lowered new autoimmune disease by about 22% (Hahn 2022). |
 | Fish oil | Most useful if you don't eat fish; evidence centers on fish oil over krill or algae; buy from a reputable maker, look for **IFOS** certification because the fats oxidize easily | 🟡 |
 | Creatine monohydrate | Safe and cheap; pulls water into muscle; helps lifting; emerging brain and mental health evidence; check with a physician if you have a medical issue | ✅ best-evidenced form per lecture |
 | Whey protein | Drinks one or two shakes a day; satiating; incremental protein increases shift body composition | 🟡 personal practice |
@@ -124,8 +124,8 @@ C. Insoluble fiber adds bulk to stool
 *Why B: he explicitly says there is "not a ton of evidence" for digestive enzymes and bases the fluoride choice on a conversation with one expert, whereas A and C are standard physiology he presents as such.*
 
 ## Open Threads
-- **Mouthwash and diabetes/hypertension:** only a couple of studies cited (doubling of hypertension risk; 50% higher type 2 diabetes risk); no citation details in transcript.
-- **Does psyllium or oats lower ApoB** as well as total cholesterol? Not addressed here.
+- **Mouthwash and diabetes/hypertension:** only a couple of studies cited (doubling of hypertension risk; 50% higher type 2 diabetes risk); no citation details in transcript. Found: Joshipura 2020 (85% higher hypertension risk) and Joshipura 2017 (55% higher pre-diabetes/diabetes risk), both from the same cohort.
+- **Does psyllium or oats lower ApoB** as well as total cholesterol? Not addressed in the lecture; meta-analyses show both lower apoB modestly (Jovanovski 2018; Ho 2016).
 - **Artificial sweeteners and the gut:** direction of effect unknown per Lugavere.
 - **Fluoride and the oral microbiome:** a trade-off with cavity prevention that the lecture raises but does not resolve.
 - **Magnesium status testing:** he says blood tests are poor; alternatives not discussed.
@@ -135,3 +135,20 @@ C. Insoluble fiber adds bulk to stool
 - Repeated points: emphasis on slow chewing and fiber ramp-up were each stated several times; kept once.
 - No transcript passages were unclear except small typos (e.g., "nitrate to nitrate" read as nitrate to nitrite; "karyogenic" read as cariogenic).
 
+---
+**References:**
+1. Qin J, Li R, Raes J, et al. A human gut microbial gene catalogue established by metagenomic sequencing. *Nature* 2010;464:59-65. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20203603/)
+2. Sender R, Fuchs S, Milo R. Revised estimates for the number of human and bacteria cells in the body. *PLoS Biol* 2016;14:e1002533. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27541692/)
+3. Helander HF, Fändriks L. Surface area of the digestive tract - revisited. *Scand J Gastroenterol* 2014;49:681-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24694282/)
+4. Joshipura K, Muñoz-Torres F, Fernández-Santiago J, et al. Over-the-counter mouthwash use, nitric oxide and hypertension risk. *Blood Press* 2020;29:103-12. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31709856/)
+5. Joshipura KJ, Muñoz-Torres FJ, Morou-Bermudez E, et al. Over-the-counter mouthwash use and risk of pre-diabetes/diabetes. *Nitric Oxide* 2017;71:14-20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28939409/)
+6. Walsh T, Worthington HV, Glenny AM, et al. Fluoride toothpastes of different concentrations for preventing dental caries. *Cochrane Database Syst Rev* 2019;3:CD007868. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30829399/)
+7. Suez J, Korem T, Zeevi D, et al. Artificial sweeteners induce glucose intolerance by altering the gut microbiota. *Nature* 2014;514:181-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25231862/)
+8. Wastyk HC, Fragiadakis GK, Perelman D, et al. Gut-microbiota-targeted diets modulate human immune status. *Cell* 2021;184:4137-53.e14. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34256014/)
+9. Chassaing B, Compher C, Bonhomme B, et al. Randomized controlled-feeding study of dietary emulsifier carboxymethylcellulose reveals detrimental impacts on the gut microbiota and metabolome. *Gastroenterology* 2022;162:743-56. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34774538/)
+10. Jovanovski E, Yashpal S, Komishon A, et al. Effect of psyllium (Plantago ovata) fiber on LDL cholesterol and alternative lipid targets, non-HDL cholesterol and apolipoprotein B: a systematic review and meta-analysis of randomized controlled trials. *Am J Clin Nutr* 2018;108:922-32. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30239559/)
+11. Ho HV, Sievenpiper JL, Zurbau A, et al. The effect of oat β-glucan on LDL-cholesterol, non-HDL-cholesterol and apoB for CVD risk reduction: a systematic review and meta-analysis of randomised-controlled trials. *Br J Nutr* 2016;116:1369-82. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27724985/)
+12. Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the prevention of disease: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab* 2024;109:1907-47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38828931/)
+13. Hahn J, Cook NR, Alexander EK, et al. Vitamin D and marine omega 3 fatty acid supplementation and incident autoimmune disease: VITAL randomized controlled trial. *BMJ* 2022;376:e066452. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35082139/)
+14. NIH Office of Dietary Supplements. Fact sheets for health professionals: Vitamin D; Magnesium. [Vitamin D](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/) · [Magnesium](https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/)
+15. Bouillon R, Carmeliet G, Verlinden L, et al. Vitamin D and human health: lessons from vitamin D receptor null mice. *Endocr Rev* 2008;29:726-76. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18694980/)
