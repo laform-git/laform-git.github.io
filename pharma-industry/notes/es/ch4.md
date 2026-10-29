@@ -32,7 +32,7 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 | Pfizer | 33% antibióticos |
 | Lilly | 20% antibióticos |
 | Merck | 40% por el antihipertensivo Diuril |
-| Upjohn | 20% por Orinase (Posner lo llama "un derivado" de Diuril 🟡; vale la pena verificarlo, ya que Orinase suele clasificarse como medicamento para la diabetes) |
+| Upjohn | 20% por Orinase (Posner lo llama "un derivado" de Diuril 🟡; Verificación de evidencia: Orinase es tolbutamida, una sulfonilurea para la diabetes tipo 2, no un derivado de un diurético: PubChem) |
 | Smith Kline & French | Casi una cuarta parte por el antipsicótico Thorazine |
 
 - Sospechaba que las empresas usaban **licencias cruzadas** para repartirse los mercados. Citó a **19 empresas** y a sus directores ejecutivos sobre costos y colusión. ✅
@@ -59,7 +59,7 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 ### Sigmamycin y los ocho médicos que no existían
 - **Sigmamycin** (Pfizer) fue la primera **combinación de antibióticos en dosis fija** aprobada por la FDA: dos partes de tetraciclina y una de oleandomicina (un pariente débil de la eritromicina). ✅
 - El anuncio prometía "un control superior de las enfermedades infecciosas mediante un control superior de la población microbiana cambiante", sin ningún estudio que lo respaldara. Welch, siendo jefe de antibióticos de la FDA, dio una conferencia magistral en la que la llamó la **"tercera ola"** de los antibióticos. ✅
-- En 1960 un escritor del *Saturday Evening Post* (Lear) vio un folleto con el aval de ocho médicos, con direcciones, números de teléfono y horarios de consulta. Ninguno de los números funcionaba y las cartas volvían sin entregar: **los médicos eran ficticios**. ✅
+- En 1960 un escritor del *Saturday Evening Post* (Lear) vio un folleto (🟡 el periodista John Lear escribía para la *Saturday Review*, no para el *Saturday Evening Post*; sin verificar aquí) con el aval de ocho médicos, con direcciones, números de teléfono y horarios de consulta. Ninguno de los números funcionaba y las cartas volvían sin entregar: **los médicos eran ficticios**. ✅
 - Arthur Sackler, citado ante el Congreso, culpó a "un redactor publicitario demasiado entusiasta de Pfizer" y eludió su responsabilidad. Posner lo llama el "titiritero" que editaba cada anuncio. 🟡
 - Era legal por un **vacío legal de la FTC**: los anuncios dirigidos a médicos estaban exentos de supervisión, bajo la teoría de que los médicos no caerían en la desinformación. El episodio de los médicos falsos demostró que sí caían. ✅
 
@@ -74,26 +74,27 @@ Esta es la clase en la que nace la regulación farmacéutica moderna. Antes de 1
 - La observación de Posner sobre las tácticas: cuando surge una reforma, la industria "te gana con ciencia" (la reforma "paralizará la innovación" y detendrá "la próxima gran cura contra el cáncer"). 🟡
 
 ## El proyecto que murió — S.1552, la Ley Antimonopolio de la Industria Farmacéutica (abril de 1961)
-Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. 🟡 Sus disposiciones principales:
+Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. 🟡 Sus disposiciones principales (según las enumera Posner; ver la verificación de evidencia abajo):
 
 | Disposición | Detalle |
 | --- | --- |
 | Plazo de patente | Reducido de **17 años a 5** (los plazos europeos iban de 3 a 7, con un promedio de 5) |
-| Licencias obligatorias | Después de 3 años, cualquier empresa que ofreciera una regalía debía recibir licencia |
+| Licencias obligatorias | Después de 3 años, cualquier empresa que ofreciera una regalía debía recibir licencia (✅ Greene 2012) |
 | Licencias cruzadas | Prohibidas |
-| Patentes "me-too" | Debían demostrar "un beneficio terapéutico significativo" |
+| Patentes "me-too" | Debían demostrar "un beneficio terapéutico significativo" (✅ Greene 2012: patente solo si el efecto terapéutico era "significativamente mayor" que el del fármaco sin modificar) |
 | Extensiones de patente | Debían demostrar una mejora superior a cualquier genérico (esto golpeó a Lilly) |
 | Publicidad | "Información completa y precisa", enumerar todos los efectos secundarios reportados, "toda la verdad" |
 
+- 🟡 Verificación de evidencia: el relato histórico que revisamos documenta en el S.1552 las licencias obligatorias a los 3 años, el límite a las patentes por modificaciones moleculares, la revisión de la FDA de las afirmaciones de eficacia y de la publicidad, y los nombres genéricos; no menciona una reducción de 17 a 5 años, así que esa cifra queda sin verificar (Greene 2012).
 - Oposición de la industria: arruinará la innovación, frenará medicamentos que salvan vidas y es "inconstitucional y antiestadounidense", un paso hacia la medicina socializada al estilo europeo. ✅
 - Posner dice que Arthur Sackler fue quien más impulsó el argumento "antiestadounidense", siendo a la vez miembro con carnet del Partido Comunista que daba trabajo a escritores en la lista negra. 🟡 Afirmación de Posner.
-- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto y enterrado". ✅
+- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto y enterrado". ✅ (🟢 En junio de 1962 el gobierno de Kennedy y la industria presentaron un sustituto sin lenguaje sobre patentes, y el S.1552 se daba por muerto hasta que la talidomida revivó una versión recortada: Greene 2012.)
 - Contexto posterior: el plazo de patente pasó de 17 a 20 años, nunca bajó. ✅ (según lo afirmado)
 
 ## La talidomida — "Al rescate"
-- La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅
+- La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅ (más de 10,000 niños: Vargesson 2015)
 - **Frances Kelsey**, una nueva revisora médica de la FDA y una de las pocas mujeres allí, dudó de los estudios europeos. Bajo la **regla de los 60 días**, una solicitud sin respuesta en 60 días quedaba aprobada automáticamente, así que ella siguió declarando incompleta la documentación y pidiendo más datos. ✅
-- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivió el proyecto estancado. ✅
+- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivó el proyecto estancado. ✅
 - El patrón refleja el de 1937: el Elixir Sulfanilamida mató a 107 personas y dio origen a la ley de 1938. ✅
 
 ## Las Enmiendas Kefauver-Harris de 1962 — Siete cambios
@@ -104,7 +105,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 | 2 | Se eliminó la regla de **aprobación automática a los 60 días** |
 | 3 | **Inspecciones in situ** periódicas de las plantas |
 | 4 | **Normas de control de calidad** (antes, el sistema de honor); Posner olvidó esta y la agregó después |
-| 5 | **Facultad de retiro** de medicamentos considerados "un peligro inminente para la salud pública" o que "no cumplieron sus promesas terapéuticas"; usada después para eliminar la mayoría de las combinaciones de antibióticos en dosis fija |
+| 5 | **Facultad de retiro** de medicamentos considerados "un peligro inminente para la salud pública" o que "no cumplieron sus promesas terapéuticas"; usada después para eliminar la mayoría de las combinaciones de antibióticos en dosis fija (🟢 la revisión posterior de eficacia de los fármacos aprobados entre 1938 y 1962, DESI, había clasificado unos 600 medicamentos como ineficaces a principios de los años setenta: Greene 2012) |
 | 6 | Los anuncios dirigidos a médicos deben mantener "un **equilibrio justo**" entre promoción y exactitud (sin definición en la ley) |
 | 7 | **Prueba de eficacia**: "evidencia sustancial" a partir de "estudios adecuados y bien controlados", y retiro de los medicamentos terapéuticamente inútiles |
 
@@ -114,7 +115,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 
 ## Legado — Lo que significa y lo que no significa la aprobación
 - Si tuvieran que elegir, los directores ejecutivos preferirían ensayos clínicos costosos a patentes de 5 años. 🟡 Su experimento mental.
-- La industria presiona por la **revisión acelerada**; la FDA permitió después que las empresas pagaran tarifas por una revisión más rápida. Posner dice que "casi tres cuartas partes" del presupuesto de la FDA provienen de estas tarifas, y luego "más de la mitad". 🟡 Las dos cifras se contradicen; de cualquier forma, él ve el financiamiento de su regulador por parte de la industria como "una mala señal".
+- La industria presiona por la **revisión acelerada**; la FDA permitió después que las empresas pagaran tarifas por una revisión más rápida. Posner dice que "casi tres cuartas partes" del presupuesto de la FDA provienen de estas tarifas, y luego "más de la mitad". 🟡 Las dos cifras se contradicen; de cualquier forma, él ve el financiamiento de su regulador por parte de la industria como "una mala señal". ✅ Verificación de evidencia: en el año fiscal 2022 las tarifas de usuario fueron el 46% del presupuesto total de la FDA y el 66% del presupuesto de su programa de medicamentos para humanos (ASPE 2023), así que "más de la mitad" encaja con la revisión de medicamentos y "casi tres cuartas partes" lo exagera. (Las tarifas empezaron con la Ley de Tarifas de Usuario de Medicamentos de Receta de 1992.)
 - **La aprobación no es una garantía de seguridad.** Medicamentos aprobados después siguieron causando cánceres y coágulos; cita la terapia de reemplazo hormonal temprana y la primera píldora anticonceptiva (1960, que según él tenía diez veces las hormonas necesarias y que llama "el primer fármaco de estilo de vida"). El verdadero ensayo es el público. ✅ / 🟡 (la cifra de "diez veces" es suya)
 
 ## Frases clave y datos citables (Clase 4)
@@ -166,8 +167,8 @@ C. Invocó la facultad de la FDA de exigir pruebas de eficacia
 
 ## Temas abiertos
 - ✅ **Transcripción completa:** la clase cierra con las preguntas del público después del adelanto del Cap. 5; sin vacíos.
-- **Prescripción fuera de indicación** (preguntas y respuestas): Posner la llama "uno de los mayores vacíos legales". Ejemplos: minoxidil (medicamento para la hipertensión, crecimiento del cabello), Botox (que según él se aprobó primero como medicamento huérfano para una constricción de garganta 🟡 y luego se usó con fines cosméticos; Allergan ganó más con el uso fuera de indicación), Viagra y Lupron usado fuera de indicación como bloqueador de la pubertad. Dice que los médicos obtuvieron la facultad de recetar fuera de indicación en 1938 🟡. Prometido para una clase posterior.
-- **Tarifas de revisión acelerada** y participación en el presupuesto de la FDA: las cifras se contradicen; prometido para después.
+- **Prescripción fuera de indicación** (preguntas y respuestas): Posner la llama "uno de los mayores vacíos legales". Ejemplos: minoxidil (medicamento para la hipertensión, crecimiento del cabello), Botox (que según él se aprobó primero como medicamento huérfano para una constricción de garganta 🟡; Verificación de evidencia: como Oculinum se autorizó el 29 de diciembre de 1989 para el estrabismo y el blefaroespasmo, ambos padecimientos de los músculos del ojo: Scott 2023; y luego se usó con fines cosméticos; Allergan ganó más con el uso fuera de indicación), Viagra y Lupron usado fuera de indicación como bloqueador de la pubertad. Dice que los médicos obtuvieron la facultad de recetar fuera de indicación en 1938 🟡 (el uso fuera de indicación se basa en que la FDA no regula la práctica médica, no en una disposición de 1938: Wittich 2012; ver Cap. 2). Prometido para una clase posterior.
+- **Tarifas de revisión acelerada** y participación en el presupuesto de la FDA: resuelto: 46% del presupuesto de la FDA y 66% de la revisión de medicamentos para humanos en el año fiscal 2022 (ASPE 2023).
 - **Biológicos:** dice que la FDA solo obtuvo autoridad sobre ellos en los años setenta 🟡; la innovación continúa, pero desearía que hubiera menos medicamentos "me-too".
 - **Deslocalización:** India y China pueden fabricar medicamentos a cerca del 20% del costo en EE. UU.
 - **Big Food y Big Pharma** como aliados ocasionales: estreptomicina en los cultivos de cítricos de Florida pese a la preocupación por la resistencia a los antibióticos.
@@ -179,3 +180,19 @@ C. Invocó la facultad de la FDA de exigir pruebas de eficacia
 - La redacción de las preguntas del público, conservadas solo como temas resumidos.
 - Los comentarios de Posner sobre lo aburridas que son las audiencias del Congreso y sobre los nombres terminados en "-mycin".
 
+---
+**Referencias:**
+1. Greene JA, Podolsky SH. Reforma, regulación y fármacos: las enmiendas Kefauver-Harris a 50 años [*título original: Reform, regulation, and pharmaceuticals—the Kefauver-Harris Amendments at 50*]. *N Engl J Med* 2012;367(16):1481-3. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/23075174/)
+   - Describe el S.1552 (licencias obligatorias a 3 años, límite a patentes de modificaciones), su sustitución en 1962 sin patentes, la talidomida y la revisión DESI de unos 600 medicamentos.
+2. Vargesson N. Teratogénesis inducida por talidomida: historia y mecanismos [*título original: Thalidomide-induced teratogenesis: history and mechanisms*]. *Birth Defects Res C Embryo Today* 2015;105(2):140-56. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/26043938/)
+   - Más de 10,000 niños nacieron con malformaciones graves por la talidomida.
+3. Wax PM. Elixires, diluyentes y la aprobación de la Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938 [*título original: Elixirs, diluents, and the passage of the 1938 Federal Food, Drug and Cosmetic Act*]. *Ann Intern Med* 1995;122(6):456-61. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/7856995/)
+   - Respalda el paralelo de Posner: el Elixir Sulfanilamida llevó a la Ley de 1938.
+4. Oficina del Subsecretario de Planeación y Evaluación (ASPE), HHS. Tarifas de usuario de la FDA [*título original: FDA User Fees: Examining Changes in Medical Product Development and Economic Benefits*]. Marzo de 2023. [ASPE (en inglés)](https://aspe.hhs.gov/sites/default/files/documents/eafc804ad2c90d9b2a8dd1e04059b378/FDA-User-Fee-Issue-Brief.pdf)
+   - Las tarifas fueron el 46% del presupuesto de la FDA y el 66% del programa de medicamentos para humanos en 2022.
+5. Scott AB, Honeychurch D, Brin MF. Historia temprana del desarrollo de Botox (onabotulinumtoxinA) [*título original: Early development history of Botox (onabotulinumtoxinA)*]. *Medicine (Baltimore)* 2023;102(S1):e32371. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/37499077/)
+   - Oculinum se autorizó en diciembre de 1989 para estrabismo y blefaroespasmo, y Allergan lo adquirió en 1991.
+6. Wittich CM, Burkle CM, Lanier WL. Diez preguntas comunes (y sus respuestas) sobre el uso off-label de fármacos [*título original: Ten common questions (and their answers) about off-label drug use*]. *Mayo Clin Proc* 2012;87(10):982-90. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/22877654/)
+   - El uso fuera de indicación existe porque la FDA no regula la práctica médica.
+7. Biblioteca Nacional de Medicina de EE. UU. Registro de PubChem: tolbutamida [*título original: PubChem compound record: tolbutamide*]. [PubChem (en inglés)](https://pubchem.ncbi.nlm.nih.gov/compound/5505)
+   - La tolbutamida (Orinase) se usa para la diabetes tipo 2.
