@@ -108,3 +108,4 @@ article.note h2 .shr{display:inline-flex;align-items:center;justify-content:cent
 article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;background:color-mix(in srgb,currentColor 10%,transparent)}
 .card.flash{box-shadow:0 0 0 3px var(--accent,#b8661c);transition:box-shadow .3s}
 .toast{position:fixed;left:50%;bottom:90px;transform:translateX(-50%);background:#222;color:#fff;font:600 14px/1 system-ui,sans-serif;padding:10px 16px;border-radius:999px;z-index:99}
+@media print{:root,:root[data-skin]{--bg:#fff!important;--surface:#fff!important;--ink:#111!important;--muted:#444!important;--rule:#ccc!important;--accent:#0b5a8c!important;--accent-soft:#eef3f7!important;--gold:#8a6400!important;color-scheme:light!important}html,body{background:#fff!important;color:#111!important}.skinbar,.thm{display:none!important}}
