@@ -59,7 +59,7 @@ De estrés, inflamación e hiperinsulinemia (las tres causas principales del Cap
 **Metformina** (mixta)
 
 - Mejora genuinamente la sensibilidad a la insulina (captación de glucosa en el músculo, menor producción de glucosa hepática)
-- **Pero:** actúa en parte deteriorando levemente la función mitocondrial — atenúa directamente los beneficios del ejercicio tanto en la salud mitocondrial COMO en la sensibilidad a la insulina si la toma alguien que se ejercita con regularidad. Una tensión real: el fármaco y la mejor intervención de estilo de vida se anulan parcialmente entre sí. 🟢 En adultos mayores, la metformina atenuó las mejoras por ejercicio en la sensibilidad a la insulina y en la respiración mitocondrial del músculo (Konopka 2019).
+- **Pero:** actúa en parte deteriorando levemente la función mitocondrial — atenúa directamente los beneficios del ejercicio tanto en la salud mitocondrial COMO en la sensibilidad a la insulina si la toma alguien que se ejercita con regularidad. Una tensión real: el fármaco y la mejor intervención de estilo de vida se anulan parcialmente entre sí. 🟢 En adultos mayores, la metformina atenúo las mejoras por ejercicio en la sensibilidad a la insulina y en la respiración mitocondrial del músculo (Konopka 2019).
 - El cambio de estilo de vida por sí solo la supera más de 2 veces en datos de ECA — Bikman lo plantea como motivo para cuestionar seriamente recurrir por defecto a este fármaco en una persona activa.
 
 **Agonistas de GLP-1 (semaglutida/Ozempic, liraglutida, etc.)** (mixtos, dependientes de la dosis)
@@ -213,7 +213,7 @@ C. La metformina siempre debería priorizarse sobre el ejercicio porque es una i
 17. Drake C, Roehrs T, Shambroom J, et al. Efectos de la cafeína sobre el sueño tomada 0, 3 o 6 horas antes de acostarse [*título original: Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed*]. *J Clin Sleep Med* 2013;9:1195-200. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/24235903/)
    - Incluso 6 horas antes de dormir, 400 mg de cafeína alteraron el sueño.
 18. Konopka AR, Laurin JL, Schoenberg HM, et al. La metformina inhibe las adaptaciones mitocondriales al entrenamiento aeróbico en adultos mayores [*título original: Metformin inhibits mitochondrial adaptations to aerobic exercise training in older adults*]. *Aging Cell* 2019;18:e12880. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/30548390/)
-   - La metformina atenuó las mejoras del ejercicio en sensibilidad a la insulina y en las mitocondrias.
+   - La metformina atenúo las mejoras del ejercicio en sensibilidad a la insulina y en las mitocondrias.
 19. Wilding JPH, Batterham RL, Davies M, et al. Recuperación de peso y efectos cardiometabólicos tras suspender la semaglutida: extensión del ensayo STEP 1 [*título original: Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension*]. *Diabetes Obes Metab* 2022;24:1553-1564. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/35441470/)
    - Dos tercios del peso perdido regresaron en un año tras suspender la semaglutida.
 20. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutida y desenlaces cardiovasculares en la obesidad sin diabetes [*título original: Semaglutide and cardiovascular outcomes in obesity without diabetes*]. *N Engl J Med* 2023;389:2221-2232. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/37952131/)
