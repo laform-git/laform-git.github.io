@@ -1,0 +1,209 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-07 Elle Bakehouse Fase 1 · Claude Tips</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="theme.css"><script src="theme.js"></script>
+<style>
+.ins{border:2px dashed;border-radius:12px;padding:10px 12px;margin:10px 0;background:#fff}
+.ins b{display:block;margin-bottom:4px;font-size:16px}
+.ins p{margin:2px 0;font-size:15px;color:#374151}
+.chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.dn{text-align:center;font-size:24px;font-weight:700;color:#64748B;line-height:1.2;margin:4px 0}
+.lg{border:2px solid #EA580C;background:#FFF7ED;border-radius:12px;padding:10px 12px;text-align:center}
+.lg b{display:block;color:#C2410C;font-size:16px}
+.lg span{font-size:15px;color:#374151}
+.step{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-top:1px solid rgba(0,0,0,.07)}
+.step:first-child{border-top:none}
+.step .n{flex:none;margin:0}
+.step div p{margin:2px 0 0;font-size:16px;color:#374151}
+.step b{font-size:17px}
+.who{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.06em;border-radius:999px;padding:2px 9px;margin-left:6px;vertical-align:2px}
+.w-out{background:#F1F5F9;color:#334155}.w-cl{background:#FFF7ED;color:#C2410C}.w-ella{background:#EFF6FF;color:#1D4ED8}
+.cols4{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:8px}
+.tcol{border:2px solid #2563EB;background:#EFF6FF;border-radius:10px;padding:8px;text-align:center;font-weight:700;font-size:15px;color:#1D4ED8}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.tile{border:2px solid #CBD5E1;border-radius:12px;padding:12px;background:#fff;min-width:0}
+.tile b{display:block;font-size:16px}
+.tile span{font-size:14px;color:#4B5563}
+.tree{font-size:16px;line-height:1.9;margin:0;padding:0;list-style:none}
+.tree li{padding-left:22px;position:relative}
+.tree li:before{content:"└";position:absolute;left:4px;color:#7C3AED;font-weight:700}
+.master{border:2.5px solid #EA580C;background:#FFF7ED;border-radius:14px;padding:12px;text-align:center}
+.master b{display:block;font-size:19px;color:#C2410C}
+.master span{font-size:15px;color:#374151}
+.kids{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.kids .chip{text-align:center}
+.copy{position:relative}
+.copy pre{font-family:Menlo,Consolas,monospace;font-size:13.5px;line-height:1.55;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:14px;margin:10px 0 0;white-space:pre-wrap;overflow-wrap:anywhere;color:#1F2937;max-height:560px;overflow:auto}
+.copy button{position:absolute;top:8px;right:8px;font:700 14px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:#7C3AED;color:#fff;border:none;border-radius:999px;padding:8px 14px;cursor:pointer}
+.note{font-size:15px;color:#4B5563;margin:10px 0 0}
+.pg2{break-before:page}
+@media (max-width:640px){.cols4{grid-template-columns:1fr 1fr}.tiles{grid-template-columns:1fr 1fr}.kids{grid-template-columns:1fr 1fr}.copy pre{font-size:13px}}
+html.dark .tile,html.dark .tcol{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+html.dark .tile span,html.dark .step div p,html.dark .note{color:#b8bcc4}
+html.dark .copy pre{background:#23272e;color:#e6e7e9}
+html.dark .master{background:#33240f}html.dark .master span{color:#e6e7e9}
+</style></head><body><div class="wrap">
+<div class="top"><a href='index-es.html'>← Todas las guías</a><span>Guía 7</span><span></span></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-07 · NEW BAKERY PROJECT</div><h1>Elle Bakehouse · Fase 1</h1><p>Cómo pasar de la venta en Instagram a un sistema donde ningún pedido se pierde.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">Qué hace cada herramienta</div><div class="cb">
+<div class="row">
+<div class="box gry"><h3>Instagram</h3><p>Donde vendes. Platicas, aceptas el pedido y cobras. Esto no cambia y Claude no entra aquí.</p></div>
+<div class="box blue"><h3>Trello</h3><p>Tu tablero del día. Cada pedido es una tarjeta que mueves con el dedo.</p></div>
+</div>
+<div class="row" style="margin-top:14px">
+<div class="box purple"><h3>Notion</h3><p>La memoria de Claude y tu tablero visual: pedidos, recetas, ingredientes y la bitácora.</p></div>
+<div class="box grn"><h3>Google Drive</h3><p>El archivo. Todo lo que quieras guardar a largo plazo, en la carpeta Elle Bakehouse.</p></div>
+</div>
+<p class="cap">Tú solo haces dos cosas: mandarle a Claude cada venta y mover las tarjetas. Lo demás lo escribe Claude.</p>
+</div></div>
+
+<div class="card"><div class="ch orange">¿Tablero o lista de pendientes?</div><div class="cb">
+<p style="margin:0 0 12px">Una lista como To Do o Recordatorios sirve para cosas sueltas. Un pedido es distinto: pasa por varias etapas, tiene fecha de entrega y se parece a una foto. Esta es la diferencia, con sus pros y contras.</p>
+<div class="row">
+<div class="box rd"><h3>Lista de pendientes</h3>
+<ul class="list"><li>Cada pedido es una línea de texto</li><li>Solo dos estados: pendiente o hecho</li><li>Lo terminado desaparece de la vista</li><li>Con 20 pendientes, el urgente se pierde</li><li>Claude no tiene conexión con To Do, así que lo escribirías tú</li></ul></div>
+<div class="arrow">→</div>
+<div class="box grn"><h3>Tablero (Trello)</h3>
+<ul class="list"><li>Cada pedido es una tarjeta con la foto del producto</li><li>Ves en qué etapa va cada uno: Cocina, Entrega, Completado</li><li>La fecha de entrega se ve en la tarjeta y te avisa</li><li>Lo entregado queda como historial</li><li>Claude crea las tarjetas por ti</li></ul></div>
+</div>
+<p class="note"><b>Lo que cuesta:</b> Trello es una app más y toma unos días acostumbrarse. Si vendes uno o dos pedidos a la semana, una lista alcanza. Si vendes más, o se te han pasado pedidos, el tablero se paga solo.</p>
+</div></div>
+
+<div class="pg2"></div>
+<div class="card"><div class="ch navy">Cableado 1 · La ruta de un pedido</div><div class="cb">
+<div class="step"><span class="n" style="background:#64748B">1</span><div><b>Vendes en Instagram</b><span class="who w-out">FUERA DEL SISTEMA</span><p>Platicas, aceptas y cobras como siempre.</p></div></div>
+<div class="step"><span class="n" style="background:#EA580C">2</span><div><b>Le mandas la venta a Claude</b><span class="who w-ella">TÚ</span><p>Una captura o el texto del pedido, en el chat PEDIDOS. Claude confirma contigo los datos.</p></div></div>
+<div class="step"><span class="n" style="background:#7C3AED">3</span><div><b>Notion registra el pedido</b><span class="who w-cl">CLAUDE</span><p>Clienta, productos, fecha, total y categoría, más los ingredientes que lleva según la receta.</p></div></div>
+<div class="step"><span class="n" style="background:#2563EB">4</span><div><b>Trello recibe la tarjeta en Pedidos</b><span class="who w-cl">CLAUDE</span><p>Con la foto del producto, la fecha de entrega y un enlace al registro de Notion.</p></div></div>
+<div class="step"><span class="n" style="background:#2563EB">5</span><div><b>Tú mueves la tarjeta</b><span class="who w-ella">TÚ</span>
+<div class="cols4"><div class="tcol">Pedidos</div><div class="tcol">Cocina</div><div class="tcol">Entrega</div><div class="tcol">Completado</div></div></div></div>
+<div class="step"><span class="n" style="background:#7C3AED">6</span><div><b>Claude pone Notion al día</b><span class="who w-cl">CLAUDE</span><p>Cada vez que abres un chat, Claude revisa el tablero y copia la etapa a Notion. Cuando un pedido pasa a Cocina, descuenta sus ingredientes de la despensa.</p></div></div>
+<div class="step"><span class="n" style="background:#15803D">7</span><div><b>Lo que vale guardar va a Drive</b><span class="who w-cl">CLAUDE</span><p>Reportes, registros y fotos, en la carpeta Elle Bakehouse.</p></div></div>
+</div></div>
+
+<div class="card"><div class="ch navy">Cableado 2 · Cómo se organizan los chats</div><div class="cb">
+<div class="ins" style="border-color:#334155;text-align:center"><b>Instrucciones del proyecto = el router</b><p>Dice qué chats existen y dónde está la página de Notion de cada uno.</p></div>
+<div class="dn">↓</div>
+<div class="master"><b>MASTER CHAT</b><span>Configura todo, planea la semana y es el único que cambia cómo trabajan los demás.</span></div>
+<div class="dn">↓</div>
+<div class="kids"><div class="chip">PEDIDOS</div><div class="chip">COCINA</div><div class="chip">ENTREGA</div><div class="chip">RECETARIO</div><div class="chip">DESPENSA</div><div class="chip">VITRINA</div></div>
+<p class="note" style="text-align:center">Ejemplos. Tú eliges los nombres durante la configuración. Los chats van en MAYÚSCULAS para distinguirlos.</p>
+<div class="dn">↓ ↑</div>
+<div class="lg"><b>Bitácora maestra (Notion)</b><span>Todos los chats escriben aquí y leen las últimas entradas al abrir. Así DESPENSA sabe lo que registró PEDIDOS.</span></div>
+<p class="cap">Cada chat lee primero su propia página de Notion, con tres secciones: <b>Para qué sirve · Cómo trabaja · Ahora</b>. Si un chat se llena, abres otro con el mismo nombre y sigue donde se quedó.</p>
+</div></div>
+
+<div class="pg2"></div>
+<div class="card"><div class="ch green">Notion: tu tablero visual</div><div class="cb">
+<p style="margin:0 0 12px">La página principal, Elle Bakehouse, se ve como un tablero, no como un documento: tarjetas, fotos y poco texto.</p>
+<div class="tiles">
+<div class="tile"><b>Pedidos de hoy</b><span>Lo que se entrega hoy, con foto</span></div>
+<div class="tile"><b>Esta semana</b><span>Pedidos por etapa, como en Trello</span></div>
+<div class="tile"><b>Recetario</b><span>Galería de recetas con foto y costo</span></div>
+<div class="tile"><b>Por comprar</b><span>Ingredientes que se están acabando</span></div>
+<div class="tile"><b>Bitácora</b><span>Lo último que hizo cada chat</span></div>
+<div class="tile"><b>Avisos</b><span>Chats a la mitad o casi llenos</span></div>
+</div>
+</div></div>
+
+<div class="card"><div class="ch green">Google Drive: el archivo</div><div class="cb">
+<div class="folder"><b style="font-size:18px">📁 Elle Bakehouse</b>
+<ul class="tree"><li>Pedidos anteriores</li><li>Recetas</li><li>Registros</li><li>Imágenes</li><li>Reportes semanales</li></ul></div>
+<p class="cap">Cuando digas "guarda esto", Claude lo pone en la subcarpeta que corresponde.</p>
+</div></div>
+
+<div class="card"><div class="ch red">Regla 50% / 80% en todos los chats</div><div class="cb">
+<p style="margin:0">Un chat tiene un límite. Cuando se llena, las respuestas empeoran. Claude estima qué tan lleno va y te avisa.</p>
+<div class="bar"><div style="background:#16A34A"></div><div style="background:#16A34A"></div><div style="background:#D97706"></div><div style="background:#DC2626"></div></div>
+<div class="barl"><span style="flex:2;color:#15803D">Normal</span><span style="color:#B45309">50%</span><span style="color:#B91C1C">80%</span></div>
+<div class="row" style="margin-top:12px">
+<div class="box amb"><h3>⚠️ 50%</h3><p>Claude te avisa al inicio de su respuesta y lo anota en la bitácora. Puedes seguir.</p></div>
+<div class="box rd"><h3>⚠️ 80%</h3><p>Claude te pide cerrar el chat y abrir uno nuevo con el mismo nombre. Abajo están los pasos.</p></div>
+</div>
+<p class="note">Es una estimación: Claude no ve un medidor exacto, así que avisa con margen.</p>
+</div></div>
+
+<div class="card"><div class="ch red">Cuando un chat se llena</div><div class="cb">
+<p style="margin:0 0 6px">El trabajo no vive en el chat, vive en Notion. Por eso un chat lleno se reemplaza sin perder nada.</p>
+<div class="step"><span class="n" style="background:#DC2626">1</span><div><b>Cierra el chat lleno</b><p>Escribe <b>"Cerramos"</b>. Claude guarda lo pendiente en la página del chat y deja una línea en la bitácora. Este paso es el importante: si no cierras, lo último que hablaron no queda guardado.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">2</span><div><b>Abre un chat nuevo</b><p>Dentro del mismo proyecto.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">3</span><div><b>Renómbralo igual que el viejo</b><p>Con el nombre exacto, en MAYÚSCULAS. Si el lleno era PEDIDOS, el nuevo también se llama PEDIDOS. Así encuentra su página en Notion.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">4</span><div><b>Escribe "Hola"</b><p>El chat nuevo lee su página y la bitácora, te dice qué quedó pendiente y sigue el trabajo.</p></div></div>
+<div class="step"><span class="n" style="background:#15803D">5</span><div><b>Descarta el chat viejo</b><p>Ya no lo necesitas: el chat nuevo tiene todo para continuar. Puedes borrarlo para no confundirte.</p></div></div>
+</div></div>
+
+<div class="pg2"></div>
+<div class="card"><div class="ch navy">El primer día, paso a paso</div><div class="cb">
+<div class="step"><span class="n" style="background:#141B2D">1</span><div><b>Conecta tus apps</b><p>En Claude: Configuración → Conectores. Conecta Notion, Trello y Google Drive.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">2</span><div><b>Crea el proyecto</b><p>Proyectos → Nuevo proyecto. Llámalo <b>Elle Bakehouse</b>.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">3</span><div><b>Pega las instrucciones de arranque</b><p>Dentro del proyecto, en el panel de la derecha, busca <b>Instrucciones</b>. Pega el bloque de abajo completo y guarda.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">4</span><div><b>Abre el MASTER CHAT</b><p>Dentro del proyecto, abre un chat nuevo, llámalo <b>MASTER CHAT</b> y escribe: "Hola, empecemos".</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">5</span><div><b>Contesta las preguntas de Claude</b><p>Te va a pedir los nombres de tus chats y las columnas de Trello. Con eso arma Notion, Trello y la carpeta de Drive.</p></div></div>
+<div class="step"><span class="n" style="background:#EA580C">6</span><div><b>Cambia el router</b><p>Al final, Claude te da las instrucciones definitivas en un bloque. Regresa a <b>Instrucciones</b> del proyecto, borra todo lo que hay, pega el bloque nuevo y guarda. Claude te guía en cada paso.</p></div></div>
+<div class="step"><span class="n" style="background:#141B2D">7</span><div><b>Abre tus chats</b><p>Uno por uno, con los nombres exactos que elegiste, en MAYÚSCULAS. Cada chat lee su página y se presenta.</p></div></div>
+</div></div>
+
+<div class="card"><div class="ch orange">Instrucciones de arranque (para pegar en el paso 3)</div><div class="cb">
+<div class="copy"><button type="button" id="cp">Copiar</button><pre id="router">ELLE BAKEHOUSE · INSTRUCCIONES DEL PROYECTO · ARRANQUE
+
+PROYECTO: Elle Bakehouse (panadería).
+
+ESTADO: pendiente. Mientras diga "pendiente", haz la PRIMERA VEZ en el MASTER CHAT.
+
+PRIMERA VEZ (MASTER CHAT)
+1. Preséntate y explica con palabras sencillas para qué sirve cada herramienta: Trello es el tablero donde ella mueve los pedidos; Notion es tu memoria y su tablero visual; Google Drive es el archivo. Instagram se queda fuera: ahí ella vende y cobra.
+2. Pregunta, una cosa a la vez:
+   · Nombres de los chats que quiere. Sugiere: PEDIDOS, COCINA, ENTREGA, RECETARIO, DESPENSA, VITRINA. Los nombres de los chats siempre van en MAYÚSCULAS.
+   · Columnas de Trello. Sugiere: Pedidos, Cocina, Entrega, Completado.
+3. Notion: crea la página principal "Elle Bakehouse" como tablero visual (galerías y tableros, poco texto). Dentro crea:
+   · Una página por chat con tres secciones: PARA QUÉ SIRVE · CÓMO TRABAJA · AHORA.
+   · Base Pedidos: Clienta, Productos, Categoría, Fecha de entrega, Etapa (las mismas columnas de Trello), Pagado, Total, Ingredientes, Enlace a Trello.
+   · Base Recetas: Nombre, Categoría, Rinde, Horneado, Ingredientes, Alérgenos, Costo, Foto.
+   · Base Ingredientes: Nombre, Unidad, Proveedor, Precio, Existencia, Por comprar.
+   · Base Bitácora maestra: Fecha, Chat, Qué pasó, Tipo (Pedido, Receta, Compra, Publicación, Aviso).
+   · En la página principal, vistas: Pedidos de hoy, Esta semana, Recetario, Por comprar, Bitácora, Avisos.
+4. Trello: crea el tablero con las columnas que eligió.
+5. Google Drive: crea la carpeta "Elle Bakehouse" y dentro: Pedidos anteriores, Recetas, Registros, Imágenes, Reportes semanales.
+6. Escribe las instrucciones finales: este mismo texto con ESTADO: listo, un ROUTER con cada chat y el enlace a su página de Notion, y sin la sección PRIMERA VEZ. Entrégalas en un solo bloque para copiar. Guíala paso a paso: abrir el proyecto, panel de la derecha, Instrucciones, borrar todo, pegar, guardar. Espera a que confirme.
+
+AL ABRIR CUALQUIER CHAT
+Lee la página de Notion que tiene el mismo nombre del chat y las últimas entradas de la Bitácora maestra. Revisa el tablero de Trello y pon al día la Etapa de cada pedido en Notion. Dile en dos líneas qué está pendiente y pregunta en qué trabajamos hoy.
+
+PEDIDOS
+Ella vende y cobra en Instagram y te manda la captura o el texto. Confirma con ella los datos. Luego:
+1. Notion: crea el pedido en la base Pedidos con su categoría y los ingredientes según la receta.
+2. Trello: crea la tarjeta en la primera columna con la foto del producto (si existe), la fecha de entrega y el enlace al registro de Notion.
+Ella mueve la tarjeta a mano. Cuando un pedido pase a Cocina, descuenta sus ingredientes de la base Ingredientes y marca lo que haya que comprar.
+
+ARCHIVO
+Todo lo que se guarde a largo plazo va a la carpeta "Elle Bakehouse" de Google Drive, en la subcarpeta que corresponda.
+
+BITÁCORA
+Al terminar algo importante, escribe una línea en la Bitácora maestra: fecha, chat, qué pasó y tipo.
+
+REGLA 50% / 80% (todos los chats)
+· Cada 10 mensajes, estima qué tan lleno va el chat.
+· 50%: empieza tu respuesta con "⚠️ Chat a la mitad" y escribe un Aviso en la Bitácora.
+· 80%: empieza con "⚠️ Chat casi lleno", escribe el Aviso y pídele que escriba "Cerramos".
+
+CERRAR UN CHAT ("Cerramos")
+1. Guarda en la sección AHORA de la página del chat todo lo pendiente.
+2. Escribe en la Bitácora maestra una línea con lo que se hizo.
+3. Confirma que quedó guardado y dale los pasos: abrir un chat nuevo en el proyecto, renombrarlo con el nombre exacto del chat que reemplaza, en MAYÚSCULAS, y escribir "Hola". El chat viejo ya se puede borrar.
+
+REGLAS
+· Español de México, sencillo, cálido y sin tecnicismos.
+· Confirma antes de borrar o mover algo. Nunca borres: renombra con "BORRAR".
+· Cada documento que entregues termina con una pregunta para mejorar el sistema.</pre></div>
+</div></div>
+
+<div class="rem"><div class="k">RECUERDA</div><div class="m">Instagram vende. Claude escribe. Trello muestra. Notion recuerda. Drive guarda.</div></div>
+<div class="pn"><a href='claude-05-es.html'><small>← Anterior</small>Instrucciones de proyecto y Notion</a><a class='next' href='claude-08-es.html'><small>Siguiente →</small>Elle Bakehouse · Fase 2</a></div>
+<div class="foot">Claude Tips · Claude-07</div></div>
+<script>
+document.getElementById('cp').addEventListener('click',function(){var b=this,t=document.getElementById('router').innerText;
+function sel(){var r=document.createRange();r.selectNodeContents(document.getElementById('router'));var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Seleccionado';}
+if(navigator.clipboard){navigator.clipboard.writeText(t).then(function(){b.textContent='Copiado';},sel);}else{sel();}
+setTimeout(function(){b.textContent='Copiar';},2500);});
+</script>
+</body></html>
