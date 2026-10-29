@@ -133,7 +133,7 @@ C. Prueba de que las primeras compañías no sabían que la heroína venía del 
 
 **3. Dado el efecto de la Ley Harrison de 1914, ¿por qué sobrevivieron las empresas "éticas" mientras colapsaban los fabricantes de medicinas de patente?**
 A. Porque las empresas éticas habían dejado de vender opiáceos en secreto años antes
-B. Porque la Ley eximia a las compañías que listaban ingredientes
+B. Porque la Ley eximía a las compañías que listaban ingredientes
 C. \* Porque los fabricantes de medicinas de patente eran en su mayoría empresas de un solo producto basadas en panaceas adictivas, mientras que Pfizer, Lilly y otras tenían una manufactura más amplia y podían reorientarse
 *Por qué C: Posner llama a los fabricantes de medicinas de patente "flor de un día" barridas por el cambio de golpe; las empresas diversificadas salieron fortalecidas.*
 
