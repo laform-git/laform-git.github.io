@@ -88,13 +88,13 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 - 🟡 Verificación de evidencia: el relato histórico que revisamos documenta en el S.1552 las licencias obligatorias a los 3 años, el límite a las patentes por modificaciones moleculares, la revisión de la FDA de las afirmaciones de eficacia y de la publicidad, y los nombres genéricos; no menciona una reducción de 17 a 5 años, así que esa cifra queda sin verificar (Greene 2012).
 - Oposición de la industria: arruinará la innovación, frenará medicamentos que salvan vidas y es "inconstitucional y antiestadounidense", un paso hacia la medicina socializada al estilo europeo. ✅
 - Posner dice que Arthur Sackler fue quien más impulsó el argumento "antiestadounidense", siendo a la vez miembro con carnet del Partido Comunista que daba trabajo a escritores en la lista negra. 🟡 Afirmación de Posner.
-- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto y enterrado". ✅ (🟢 En junio de 1962 el gobierno de Kennedy y la industria presentaron un sustituto sin lenguaje sobre patentes, y el S.1552 se daba por muerto hasta que la talidomida revivó una versión recortada: Greene 2012.)
+- Una campaña de rumores decía que Kefauver estaba senil o que lo pagaban los "rojos". Para fines del verano de 1961 el proyecto estaba "muerto y enterrado". ✅ (🟢 En junio de 1962 el gobierno de Kennedy y la industria presentaron un sustituto sin lenguaje sobre patentes, y el S.1552 se daba por muerto hasta que la talidomida revivió una versión recortada: Greene 2012.)
 - Contexto posterior: el plazo de patente pasó de 17 a 20 años, nunca bajó. ✅ (según lo afirmado)
 
 ## La talidomida — "Al rescate"
 - La talidomida se vendía en Europa, mayormente sin receta, como sedante y antináuseas para mujeres embarazadas. Cerca de **10,000 bebés** en todo el mundo nacieron con graves malformaciones de extremidades y órganos, además de miles de muertes fetales. ✅ (más de 10,000 niños: Vargesson 2015)
 - **Frances Kelsey**, una nueva revisora médica de la FDA y una de las pocas mujeres allí, dudó de los estudios europeos. Bajo la **regla de los 60 días**, una solicitud sin respuesta en 60 días quedaba aprobada automáticamente, así que ella siguió declarando incompleta la documentación y pidiendo más datos. ✅
-- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivó el proyecto estancado. ✅
+- En ese momento la ley estadounidense exigía pruebas de **seguridad únicamente**, no de eficacia. Su decisión individual protegió a los bebés estadounidenses y revivío el proyecto estancado. ✅
 - El patrón refleja el de 1937: el Elixir Sulfanilamida mató a 107 personas y dio origen a la ley de 1938. ✅
 
 ## Las Enmiendas Kefauver-Harris de 1962 — Siete cambios
