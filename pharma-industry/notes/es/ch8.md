@@ -10,9 +10,9 @@ Esta es la lección culminante. Posner toma el manual que construyó a lo largo 
 ## El planteamiento — Un libro sobre la pandemia equivocada
 - *Pharma* se publicó el **10 de marzo de 2020** (cinco años de investigación con su esposa Trisha, cientos de entrevistas, decenas de miles de páginas de documentos). La OMS declaró el COVID-19 como pandemia **al día siguiente**, y su gira de presentación del libro se vino abajo. ✅
 - El penúltimo capítulo del libro, "The Coming Pandemic", predecía una pandemia, pero de una **superbacteria**: resistencia a los antibióticos, porque las compañías abandonaron los antibióticos (un tratamiento de 5 a 7 días es un mercado pequeño; prefieren los medicamentos crónicos y huérfanos). Se cita a Karen Bush: "No es cuestión de si… es cuestión de cuándo". El COVID no está en el libro. ✅
-- Días después le dijo a *The Intercept*: "Las compañías farmacéuticas ven el COVID-19 como una **oportunidad de negocio única en la vida**". Luego escribió un artículo de opinión en el *New York Times*, "Big Pharma May Pose an Obstacle to Vaccine Development". ✅
+- Días después le dijo a *The Intercept*: "Las compañías farmacéuticas ven el COVID-19 como una **oportunidad de negocio única en la vida**". Luego escribió un artículo de opinión en el *New York Times*, "Big Pharma May Pose an Obstacle to Vaccine Development". ✅ (🟡 orden: el artículo tiene fecha del 2 de marzo de 2020, así que fue anterior a la publicación del libro y a la entrevista con The Intercept: reimpresión de TWN 2020)
 - Reacciones a principios de 2020: en la fase del miedo, la gente le decía que no les importaba si la industria farmacéutica ganaba "un billón de dólares" si salvaba al planeta. 🟡 Su recuerdo del ánimo público.
-- **El umbral de la FDA de junio de 2020:** las vacunas solo tenían que ser **50% más eficaces que el placebo**. Posner dice que las vacunas contra enfermedades infecciosas normalmente necesitan al menos 70%, y que 50% es territorio de la vacuna contra la gripe. Su lectura: un umbral bajo significaba control en lugar de eliminación, y probablemente refuerzos recurrentes. ✅ (el umbral del 50%) / 🟡 (la norma del 70% y su inferencia)
+- **El umbral de la FDA de junio de 2020:** las vacunas solo tenían que ser **50% más eficaces que el placebo**. Posner dice que las vacunas contra enfermedades infecciosas normalmente necesitan al menos 70%, y que 50% es territorio de la vacuna contra la gripe. Su lectura: un umbral bajo significaba control en lugar de eliminación, y probablemente refuerzos recurrentes. ✅ (el umbral del 50%) / 🟡 (la norma del 70% y su inferencia). Verificación de evidencia: la guía de la FDA de junio de 2020 pedía al menos 50% de eficacia frente al placebo (RAPS 2020). No existe una regla general de 70% para las vacunas; el perfil objetivo de la OMS para las vacunas contra el COVID-19 fijó cerca de 50% como mínimo y cerca de 70% como eficacia preferida (TPP de la OMS).
 
 ## La crisis como catalizador — El patrón de un siglo
 
@@ -33,8 +33,8 @@ Esta es la lección culminante. Posner toma el manual que construyó a lo largo 
 **Lo que se quedó la industria farmacéutica:** la propiedad intelectual, que trae poder de fijación de precios a largo plazo y ganancias de distribución global a partir de trabajo financiado con fondos públicos. ✅
 
 - **El modelo de la penicilina que él quería:** financiar a las compañías con generosidad, acelerar todo, pero asegurarse de que **nadie sea dueño de la patente**. Como todavía no existía ningún medicamento contra el COVID, Posner dice que esta era una rara oportunidad limpia, a diferencia del AZT y Truvada (Cap. 7), donde los NIH hicieron el trabajo y las compañías se quedaron con las patentes. 🟡 Su preferencia de política pública.
-- **La cláusula perdida:** el primer tramo de emergencia fue de **unos $8,000 millones, con $3,000 a $4,000 millones para investigación de vacunas**, aprobado unos **ocho días** después bajo un presidente republicano y una Cámara demócrata (Pelosi). El primer borrador contenía una cláusula de no propiedad intelectual privada, y **desapareció del proyecto final**. Los cabilderos de la industria argumentaron que ceder la propiedad intelectual significaría regalar años de conocimiento propietario sobre ARNm. ✅ (según lo reporta)
-- **El dato de los NIH:** desde los años treinta, los NIH han invertido unos **$900,000 millones** en investigación que las compañías usaron para patentar medicamentos de marca (a 2020; "acercándose al billón"). Su analogía: los impuestos financian escuelas que benefician a todos, pero eso no debería permitir que una compañía cobre **$23,000 por un frasco de gel Acthar**. ✅ / 🟡 (analogía)
+- **La cláusula perdida:** el primer tramo de emergencia fue de **unos $8,000 millones, con $3,000 a $4,000 millones para investigación de vacunas**, aprobado unos **ocho días** después bajo un presidente republicano y una Cámara demócrata (Pelosi). El primer borrador contenía una cláusula de no propiedad intelectual privada, y **desapareció del proyecto final**. Los cabilderos de la industria argumentaron que ceder la propiedad intelectual significaría regalar años de conocimiento propietario sobre ARNm. ✅ (según lo reporta) 🟡 Verificación de evidencia: la ley firmada el 6 de marzo de 2020 no contenía disposiciones sobre propiedad intelectual, solo que las compras siguieran reglas de "precios justos y razonables" y que el HHS "podía" actuar conforme a la ley vigente para que los productos fueran asequibles (CRS 2020); un borrador de la Cámara del 2 de marzo añadía que el HHS "no tomará acciones que retrasen el desarrollo" de esos productos (KEI 2020). No encontramos la cláusula de no propiedad intelectual que él describe en ningún borrador que revisamos.
+- **El dato de los NIH:** desde los años treinta, los NIH han invertido unos **$900,000 millones** en investigación que las compañías usaron para patentar medicamentos de marca (a 2020; "acercándose al billón"; 🟡 cifra según la dijo, sin verificar). Su analogía: los impuestos financian escuelas que benefician a todos, pero eso no debería permitir que una compañía cobre **$23,000 por un frasco de gel Acthar**. ✅ / 🟡 (analogía)
 
 ## Los contratos — Secreto, ventaja, mercados garantizados
 - **Contratos secretos:** había que demandar o hacer una solicitud para verlos, y regresaban fuertemente censurados. ✅
@@ -51,6 +51,8 @@ Esta es la lección culminante. Posner toma el manual que construyó a lo largo 
 | Gasto total del gobierno de EE. UU. | $25,300 millones, precio promedio de $20.69 por dosis | 🟡 También llama a los $25,300M el total de compras; la frase está confusa |
 | Total del gobierno, desarrollo + producción + compra de vacunas de ARNm | unos $31,000 millones, luego "$31,900 millones" | 🟡 Se dan dos cifras |
 | Financiamiento del "gobierno de EE. UU. por sí solo" | unos $2,000 millones | 🟡 Contradice las cifras anteriores |
+
+✅ Verificación de evidencia, que aclara la tabla: un estudio de 2023 en el *BMJ* contó al menos **$31,900 millones** de dinero público de EE. UU. para las vacunas de ARNm: **$29,200 millones (92%) para comprar vacunas**, **$2,200 millones (7%) para ensayos clínicos** y $108 millones para manufactura y ciencia, más $337 millones invertidos antes de la pandemia (Lalani 2023). Así que las cifras de $31,900 millones y "unos $2,000 millones" de Posner encajan; las demás son tal como las dijo y no están verificadas.
 | Ingresos por ventas de Moderna + Pfizer | $100,000 millones, 20 veces el presupuesto de la OMS | ✅ (según se indica) |
 | Ventas de Moderna ene–jun 2021 | $6,000 millones (su primer medicamento comercializado) | ✅ |
 | Ventas de Pfizer (mismo periodo, implícito) | más de $11,000 millones | ✅ |
@@ -62,8 +64,8 @@ Esta es la lección culminante. Posner toma el manual que construyó a lo largo 
 ## Ganancias extraordinarias, alzas bursátiles y recompras
 - **Movimientos de las acciones:** Moderna subió **30% en un día (mayo de 2020)** con los resultados de la Fase 1; el anuncio de Pfizer y BioNTech de **noviembre de 2020** de una **eficacia del 90%** impulsó a todo el mercado. Posner cuestiona qué significaba "eficaz" en ese momento. Ninguna compañía anunció nunca malas noticias. ✅ / 🟡 (su inferencia de que las compañías sabían que sus declaraciones movían las acciones)
 - **La posición de Moderna:** una compañía que nunca había llevado un medicamento al mercado recibió miles de millones en ayuda, su primer producto, una revisión acelerada y ningún riesgo de demandas. 🟡 Caracterización.
-- **Las ganancias se duplicaron:** las 20 mayores compañías farmacéuticas pasaron de **$83,000 millones (2020) a $188,000 millones (2022)**. La "marea creciente" incluyó medicamentos respiratorios y kits de prueba (fabricados en China por menos de un dólar cada uno, comprados en enormes cantidades por los gobiernos). ✅
-- **Márgenes:** promedio de las 20 principales, **19%**, a la par del petróleo y el gas (cerca de 17% en 2022). Fabricantes de vacunas: **BioNTech 54%, Moderna 51%, Pfizer 28%**. Bristol-Myers Squibb en 3% porque estas firmas ahora son conglomerados; las compañías puramente farmacéuticas operan entre 25 y 35%. ✅
+- **Las ganancias se duplicaron:** las 20 mayores compañías farmacéuticas pasaron de **$83,000 millones (2020) a $188,000 millones (2022)** (🟡 según lo dijo; no se identificó la fuente). La "marea creciente" incluyó medicamentos respiratorios y kits de prueba (fabricados en China por menos de un dólar cada uno, comprados en enormes cantidades por los gobiernos). ✅
+- **Márgenes:** promedio de las 20 principales, **19%**, a la par del petróleo y el gas (cerca de 17% en 2022). Fabricantes de vacunas: **BioNTech 54%, Moderna 51%, Pfizer 28%** (🟡 según lo dijo; no se identificaron la fuente ni el año). Bristol-Myers Squibb en 3% porque estas firmas ahora son conglomerados; las compañías puramente farmacéuticas operan entre 25 y 35%. ✅
 - **Accionistas vs. I+D:** los pagos (dividendos, recompras, remuneración ejecutiva) estuvieron cerca de la I+D, y algunos la superaron; **AbbVie gastó casi 50% más** en pagos que en I+D. ✅ (También leyó "Pfizer $223 millones, $30 millones I+D" de una gráfica; las unidades probablemente son miles de millones 🟡.)
 
 | Compañía | Recompras de acciones | Bonos ejecutivos |
@@ -79,7 +81,7 @@ Esta es la lección culminante. Posner toma el manual que construyó a lo largo 
 - **Participación de la propiedad intelectual en las dosis** ("bloqueo del conocimiento sobre vacunas"): J&J 70%, AstraZeneca 75%, Moderna 85%, Pfizer/BioNTech 90%. ✅ (según se leyó de una gráfica)
 - **Apuntar a las mujeres:** los mensajes presentaban la vacunación como un cuidado materno ("protege a tu familia"), apoyándose en la ansiedad y la culpa, en eco de campañas anteriores dirigidas a las mujeres (Cap. 5). Las campañas en redes sociales se dirigieron a **mujeres de 25 a 54 años**, el grupo que según la industria toma las decisiones de salud del hogar. 🟡 Su lectura; dice que no sabe si la afirmación sobre el hogar es cierta.
 - **El ARNm como distintivo:** espera que "ARNm" se comercialice como "orgánico", como una etiqueta de vanguardia, sea bueno o no un producto determinado. 🟡
-- **La propiedad intelectual fue la prueba definitiva:** la industria temía una repetición de la penicilina (sin ventaja, con el precio llevado casi a nada). Esta vez tuvo la ventaja y se mantuvo firme. Los mercados anuales de vacunas ya estaban normalizados: hace 20 a 25 años las compañías casi abandonaron las vacunas por los litigios, y luego obtuvieron protección de responsabilidad. 🟡 / ✅ (la salida anterior y la protección provienen de su libro)
+- **La propiedad intelectual fue la prueba definitiva:** la industria temía una repetición de la penicilina (sin ventaja, con el precio llevado casi a nada). Esta vez tuvo la ventaja y se mantuvo firme. Los mercados anuales de vacunas ya estaban normalizados: hace 20 a 25 años las compañías casi abandonaron las vacunas por los litigios, y luego obtuvieron protección de responsabilidad. 🟡 / ✅ (la salida anterior y la protección provienen de su libro) Verificación de evidencia: fue antes: la Ley Nacional de Lesiones por Vacunas Infantiles de **1986** respondió a demandas que "amenazaban con causar escasez de vacunas", y su programa de compensación empezó en 1988 (HRSA).
 - **No es una afirmación conspirativa:** dice abiertamente que la industria farmacéutica no creó el COVID; una vez que ocurrió, se movió para sacarle el mayor provecho posible. ✅
 
 ## El paciente más inteligente — Sus reglas finales
@@ -93,7 +95,7 @@ El equilibrio en el que insiste: **la medicina moderna salva vidas**. Infeccione
 
 ## Preguntas y respuestas — Los médicos, la FDA y ProPublica
 - **FDA:** les da a las aprobaciones el beneficio de la duda al inicio, y luego revisa PubMed más adelante para ver si los ensayos se manejaron correctamente. 🟡 Práctica personal.
-- **Médicos:** ProPublica (con *The New York Times*) construyó una **base de datos consultable** de los pagos de la industria a los médicos. Posner buscó a su propio médico y encontró unos **$384** (un par de cenas); estaba listo para cambiar de médico si la cifra hubiera sido grande. La mayoría de los médicos promedian unos cientos de dólares; un puñado recibe millones, a menudo etiquetados como investigación. ✅
+- **Médicos:** ProPublica (con *The New York Times*) construyó una **base de datos consultable** de los pagos de la industria a los médicos. Posner buscó a su propio médico y encontró unos **$384** (un par de cenas); estaba listo para cambiar de médico si la cifra hubiera sido grande. La mayoría de los médicos promedian unos cientos de dólares; un puñado recibe millones, a menudo etiquetados como investigación. ✅ (La fuente oficial es la base de datos federal **Open Payments**, a la que los fabricantes de medicamentos y dispositivos deben reportar y que cualquiera puede consultar en openpaymentsdata.cms.gov; la herramienta de ProPublica se construyó con datos de este tipo: CMS.)
 - Los titulares lo tergiversan: los "medios afines a la industria farmacéutica" destacaron el promedio pequeño. Los médicos y la industria son aliados, pero no simétricos: la industria necesita a los médicos; los médicos podrían ejercer sin el dinero de la industria. 🟡
 
 ## Frases clave y datos citables (Lección 8)
@@ -112,7 +114,7 @@ El equilibrio en el que insiste: **la medicina moderna salva vidas**. Infeccione
 - 🔴 "Que caigan las ventas de vacunas significa que se acabó la ganancia extraordinaria": el conocimiento sobre ARNm financiado con fondos públicos ahora alimenta un mercado proyectado de terapias de $45,000M.
 - 🔴 "Posner es antivacunas o un teórico de la conspiración": él dice que no es ninguna de las dos cosas; su tema es el dinero, no la eficacia ni el origen.
 - 🔴 "El escepticismo significa rechazar el tratamiento": él lo rechaza explícitamente; haz preguntas y luego acepta la atención necesaria.
-- 🔴 "Los pagos de la industria a tu médico son imposibles de conocer": la base de datos de ProPublica te permite consultarlos.
+- 🔴 "Los pagos de la industria a tu médico son imposibles de conocer": la base de datos de ProPublica y el sitio federal Open Payments te permiten consultarlos.
 
 ## Conclusión práctica
 
@@ -143,7 +145,7 @@ C. Confiar completamente en las aprobaciones de la FDA, porque la regulación el
 
 ## Temas abiertos
 - ✅ **Transcripción completa:** termina de forma natural después de la ronda de preguntas del público sobre ProPublica.
-- 🟡 **Cifras de financiamiento inconsistentes:** se dan $2,000M "solo EE. UU.", $10,000M iniciales, $22,000M de Warp Speed, $25,300M, $31,000M y $31,900M; la frase de los $25,300M / $20.69 por dosis está confusa. Verifícalas con una fuente antes de citarlas.
+- 🟡 **Cifras de financiamiento inconsistentes:** se dan $2,000M "solo EE. UU.", $10,000M iniciales, $22,000M de Warp Speed, $25,300M, $31,000M y $31,900M; la frase de los $25,300M / $20.69 por dosis está confusa. Aclarado en parte: $31,900M en total, de los cuales $2,200M fueron para ensayos clínicos y $29,200M para compras (Lalani 2023).
 - 🟡 **Frase confusa sobre las ventas de Pfizer/BioNTech** ("They formed together a their COVID-19 sales"); la lectura de la gráfica de Pfizer "$223 millones / $30 millones I+D" probablemente está en miles de millones.
 - **Eficacia y formulación de las vacunas:** las dejó explícitamente de lado ("podríamos tener una hora"); no se cubren aquí.
 - **Acuerdo sobre pandemias:** dice que los gobiernos nunca actuaron ante los llamados a poner la salud pública por encima de las ganancias; no da detalles.
@@ -157,3 +159,21 @@ C. Confiar completamente en las aprobaciones de la FDA, porque la regulación el
 - Sus comentarios sobre los "mercadólogos inspirados en los Sackler" de Bristol-Myers más allá del punto del margen del 3%.
 - Repeticiones de "oportunidad única en la vida" y "sigue el dinero".
 
+---
+**Referencias:**
+1. Posner G. Las grandes farmacéuticas podrían ser un obstáculo para el desarrollo de vacunas [*título original: Big Pharma May Pose an Obstacle to Vaccine Development*]. Artículo de opinión del *New York Times*, 2 de marzo de 2020 (reimpreso por Third World Network, 17 de marzo de 2020). [TWN (en inglés)](https://www.twn.my/title2/health.info/2020/hi200303.htm)
+   - El artículo de Posner es del 2 de marzo de 2020, antes de la publicación de su libro.
+2. Regulatory Affairs Professionals Society (RAPS). La FDA emite una guía para vacunas contra el COVID-19 con un umbral de 50% de eficacia [*título original: FDA issues COVID-19 vaccine guidance setting 50% efficacy bar*]. 2020. [RAPS (en inglés)](https://www.raps.org/resource/fda-issues-covid-19-vaccine-guidance-setting-50-ef.html)
+   - Confirma el umbral de al menos 50% de eficacia frente al placebo.
+3. Organización Mundial de la Salud. Perfil objetivo de producto para las vacunas contra el COVID-19 [*título original: Target Product Profile for COVID-19 vaccines*]. [OMS (en inglés)](https://www.who.int/tools/target-product-profile-database/item/tpp--for-covid-19-vaccines)
+   - Fija cerca de 50% como eficacia mínima y cerca de 70% como preferida.
+4. Hickey KJ. Contramedidas médicas contra el COVID-19: propiedad intelectual y asequibilidad [*título original: COVID-19 Medical Countermeasures: Intellectual Property and Affordability*]. Servicio de Investigación del Congreso, LSB10422, 18 de marzo de 2020. [CRS (en inglés)](https://www.everycrsreport.com/reports/LSB10422.html)
+   - La ley de marzo de 2020 solo tenía cláusulas de precio justo y asequibilidad, sin disposiciones sobre propiedad intelectual.
+5. Knowledge Ecology International. Precios irrazonables y la ley de asignaciones suplementarias para el coronavirus de 2020 [*título original: Unreasonable pricing and the "Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020"*]. 5 de marzo de 2020. [KEI (en inglés)](https://www.keionline.org/32308)
+   - Cita el borrador del 2 de marzo: el HHS no debía retrasar el desarrollo de los productos al buscar precios asequibles.
+6. Lalani HS, et al. Inversión pública de EE. UU. en el desarrollo de las vacunas de ARNm contra el COVID-19: estudio de cohorte retrospectivo [*título original: US public investment in development of mRNA covid-19 vaccines: retrospective cohort study*]. *BMJ* 2023;380:e073747. [PubMed (en inglés)](https://pubmed.ncbi.nlm.nih.gov/36858453/)
+   - Al menos $31,900 millones públicos: 92% en compras, 7% en ensayos clínicos.
+7. Administración de Recursos y Servicios de Salud (HRSA). Acerca del Programa Nacional de Compensación por Lesiones por Vacunas [*título original: About the National Vaccine Injury Compensation Program*]. [HRSA (en inglés)](https://www.hrsa.gov/vaccine-compensation/about)
+   - La ley de 1986 respondió a demandas que amenazaban el suministro de vacunas.
+8. Centros de Servicios de Medicare y Medicaid. Open Payments [*título original: Open Payments*]. [CMS (en inglés)](https://www.cms.gov/priorities/key-initiatives/open-payments)
+   - La base de datos federal y pública de pagos de la industria a los médicos.
