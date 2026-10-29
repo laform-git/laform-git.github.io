@@ -157,6 +157,36 @@ Draining ectopic fat from muscle and liver — through exercise, caloric deficit
 - mTORC1 vs mTORC2 — different roles in the same cascade
 
 ---
+
+## Addendum (2026-07-31): Selective Insulin Resistance — Why Insulin Resistance Makes MORE Fat, Not Less
+
+**The paradox**
+
+If part of insulin's job is to build fat, shouldn't insulin resistance mean *less* fat gets made? It would, if the resistance were uniform across the whole cascade. It is not.
+
+**The mechanism: resistance is pathway-specific, not all-or-nothing**
+
+Back to Step 6 above: Akt fires 4 effects from a single signal. In insulin resistance, the saboteurs (DAG at IRS-1, ceramide at Akt) do not switch off all 4 effects equally.
+
+- **Effect 1 (GLUT4/glucose uptake)**: becomes resistant early and severely. It is the pathway most sensitive to the DAG/ceramide jam. 🟢 (Cusi 2000; Petersen 2007)
+- **Effect 4 (mTORC1/SREBP-1c → fat and protein synthesis)**: in the liver, fat-making stays active and even increases. The literature calls this **"selective hepatic insulin resistance"** 🟢 (Brown & Goldstein 2008): the liver goes deaf to insulin's glucose-control message but keeps making fat. 🟡 Whether this is because the SREBP-1c branch stays "fully responsive" to insulin is debated; part of the extra fat may come from excess substrate (glucose and fatty acids) rather than from the insulin signal (Petersen 2007; Petersen & Shulman 2018).
+
+**Why this makes things worse, step by step**
+
+1. Effect 1 is jammed → blood glucose stays high after meals.
+2. The pancreas responds the only way it can: it secretes **more insulin** to try to force the resistant glucose pathway open (compensatory hyperinsulinemia).
+3. That extra insulin cannot fix the jammed glucose pathway (Steps 3/5 are still blocked), but it **does reach the fat-building pathway, which is still responding** 🟡 (Effect 4, SREBP-1c → ACC/FAS → de novo lipogenesis; see the Lipid Triad note).
+4. Net result: high blood sugar **and** higher triglyceride/fat production at the same time; not in spite of the resistance, but *because of* the compensatory response to it.
+
+**The analogy**
+
+Two doors, the same key. The lock on the glucose door wears out (resistant), so the body cuts more copies of the key (more insulin) to force it. The lock on the fat door never wore out. Now it gets far more keys than normal and opens harder and more often than before the resistance began.
+
+**Practical takeaway**
+
+That is why fixing insulin resistance cannot be partial or focused only on glucose: as long as any compensatory hyperinsulinemia persists, it keeps feeding the fat-synthesis branch, even on days when fasting glucose looks fine.
+
+---
 **References:**
 1. Petersen MC, Shulman GI. Mechanisms of insulin action and insulin resistance. *Physiol Rev* 2018;98(4):2133-2223. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30067154/)
 2. Sarbassov DD, Guertin DA, Ali SM, et al. Phosphorylation and regulation of Akt/PKB by the rictor-mTOR complex. *Science* 2005;307(5712):1098-1101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15718470/)
