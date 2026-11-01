@@ -1,0 +1,74 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-08 Connect Claude to Your Apps · Claude Tips</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="theme.css"><script src="theme.js"></script>
+<style>
+.quote{font-family:Menlo,Consolas,monospace;font-size:15px;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:12px 14px;margin:10px 0 0;color:#1F2937;white-space:pre-wrap}
+.qlab{font-size:13px;font-weight:700;letter-spacing:.06em;color:#6D28D9;margin-top:14px}
+.tbl{width:100%;border-collapse:collapse;font-size:15px}
+.tbl th,.tbl td{text-align:left;vertical-align:top;padding:8px 8px;border-top:1px solid #E5E7EB}
+.tbl th{font-size:13px;letter-spacing:.05em;color:#6B7280;border-top:none}
+.tbl td:first-child{font-weight:700;width:30%}
+.tw{overflow-x:auto}
+.goal{font-size:17px;margin:0}
+.goal li{margin:4px 0}
+details.q{border:2px solid #CBD5E1;border-radius:12px;padding:10px 14px;margin:8px 0;background:#fff}
+details.q summary{font-weight:700;cursor:pointer}
+details.q p{margin:8px 0 0}
+.practice li{margin:8px 0;font-size:16px}
+.mini{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.mini .box h3{font-size:17px}
+.mini.two{grid-template-columns:repeat(2,1fr)}
+.flow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;justify-content:center}
+.flow .chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.flow .ar{font-size:20px;color:#64748B;font-weight:700}
+@media (max-width:640px){.mini,.mini.two{grid-template-columns:1fr}.tbl td:first-child{width:36%}}
+html.dark .quote{background:#23272e;color:#e6e7e9}
+html.dark .tbl th,html.dark .tbl td{border-top-color:#3a3d42}
+html.dark details.q,html.dark .flow .chip{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+@media print{details.q{break-inside:avoid}details.q p{display:block}}
+.ch.pur{background:#7C3AED}.ch.gry2{background:#64748B}
+.lv{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.08em;background:#7C3AED;color:#fff;border-radius:999px;padding:2px 9px;margin-left:6px;vertical-align:2px}
+.steps{display:flex;flex-direction:column;gap:8px}
+.steps>div{display:flex;gap:10px;align-items:flex-start;font-size:16px}
+.steps .n{flex:none}
+</style></head><body><div class="wrap">
+<div class="top"><a href='index.html'>← All guides</a><span>Guide 8</span><a class='lang' href='claude-08-es.html'>Español</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-08 · ADVANCED</div><h1>Connect Claude to Your Apps</h1><p>Claude knows the world. Connectors let it know your world: your email, calendar, notes and files.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+<div class="card"><div class="ch navy">In this lesson</div><div class="cb">
+<ul class="goal"><li>What a connector is, and the three ways Claude reaches your stuff</li><li>How to turn a connector on and control what it can do</li><li>How to ask so Claude reads the right things and acts safely</li></ul>
+</div></div>
+<div class="card"><div class="ch orange">The big idea</div><div class="cb">
+<p style="margin:0 0 12px">Without connectors, Claude only sees what you type or attach. With them, it can <b>look things up in your own apps</b> and, when you allow it, <b>do things there</b>: draft an email, add a calendar event, update a Notion page.</p>
+<div class="mini">
+<div class="box blue"><h3>🔌 Connector</h3><p>A secure link to an online app (Gmail, Calendar, Notion, Dropbox…). Works from phone, web and computer. Best for text: emails, events, pages.</p></div>
+<div class="box grn"><h3>📁 Folder</h3><p>A folder on your computer, added in the desktop app. Any file type. Only when you send from that computer.</p></div>
+<div class="box amb"><h3>🌐 Browser</h3><p>For websites with no connector. Claude clicks and fills forms in your browser or its own.</p></div>
+</div>
+<p class="cap"><b>Rule of thumb:</b> connector first, folder for files, browser as the last resort.</p>
+<p class="cap"><b>Reading vs acting.</b> Reading (search my email) is low-risk. Acting (send, delete, book) changes the real world, so Claude shows you what it will do first. Read the draft before you approve.</p>
+</div></div>
+<div class="card"><div class="ch green">Step by step</div><div class="cb">
+<div class="steps">
+<div><span class="n" style="background:#15803D">1</span><span>Open <b>Settings → Connectors</b> in Claude.</span></div>
+<div><span class="n" style="background:#15803D">2</span><span>Pick an app (start with <b>Calendar</b> or <b>Gmail</b>) and choose <b>Connect</b>.</span></div>
+<div><span class="n" style="background:#15803D">3</span><span>Sign in to that app and approve what Claude may see or do.</span></div>
+<div><span class="n" style="background:#15803D">4</span><span>In a chat, use the <b>+</b> / tools menu to switch connectors on or off for that chat.</span></div>
+<div><span class="n" style="background:#15803D">5</span><span>Ask a <b>small read-only question</b> first, then build up to actions.</span></div>
+</div>
+<p class="cap">You can disconnect any app at any time from the same Settings page.</p>
+</div></div>
+<div class="card"><div class="ch pur">Recipes to copy and paste</div><div class="cb">
+<div class="qlab">Inbox triage (read only)</div><div class="quote">Search my Gmail from the last 3 days. List anything that needs a reply from me, oldest first, with one line each on what they want. Do not send anything.</div><div class="qlab">Email → calendar</div><div class="quote">Find the email from Dr. Ruiz about my appointment. Create a calendar event with the date, time and address from that email. Show me the event before you save it.</div><div class="qlab">Week ahead</div><div class="quote">Look at my calendar for next week. Tell me which days are overloaded, and suggest two blocks of 90 minutes for focused work.</div><div class="qlab">Notes from files</div><div class="quote">In Dropbox, find the latest file with "invoice" in the name. Summarize it in five bullet points and save the summary as a new page in my Notion "Finance" page.</div>
+</div></div>
+<div class="card"><div class="ch red">Mistakes to avoid</div><div class="cb">
+<div class="mini two"><div class="box rd"><h3>✕ "Check my email"</h3><p>Too vague. Say which emails: who, which days, what you need from them.</p></div><div class="box rd"><h3>✕ Approving without reading</h3><p>An approved email is sent for real. Read every draft and every event before you say yes.</p></div><div class="box rd"><h3>✕ Turning everything on</h3><p>More connectors in a chat means more noise. Turn on only the ones that chat needs.</p></div><div class="box rd"><h3>✕ Expecting files from a connector</h3><p>Most connectors move text. For PDFs and photos, use a folder from the desktop app.</p></div></div>
+</div></div>
+<div class="card"><div class="ch navy">Practice (10 minutes)</div><div class="cb">
+<ol class="practice"><li>Connect your Calendar. Ask: "What is on my calendar tomorrow?"</li><li>Ask Claude to create one test event 2 days from now. Read it before approving. Then ask it to delete it.</li><li>Connect Gmail. Ask for a 5-line summary of your unread email from today, with nothing sent.</li></ol>
+</div></div>
+<div class="card"><div class="ch gry2">Check yourself</div><div class="cb">
+<details class="q"><summary>You want Claude to save a PDF into a folder. Connector, folder or browser?</summary><p>A folder, from the desktop app. Connectors usually move text only.</p></details><details class="q"><summary>Claude drafted a reply to your landlord. What do you do before approving?</summary><p>Read it all: names, dates, amounts, tone. Once approved, it is sent for real.</p></details><details class="q"><summary>Your bank has no connector. Can Claude still help?</summary><p>Yes, through the browser, carefully. Never give Claude your passwords in the chat; sign in yourself when the browser asks.</p></details>
+</div></div>
+<div class="rem"><div class="k">REMEMBER</div><div class="m">Connector first. Read before you approve. Small question first, then bigger tasks.</div></div>
+<div class="pn"><a href='claude-07.html'><small>← Previous</small>Claude Can Do More Than You Think</a><a class='next' href='claude-09.html'><small>Next →</small>Let Claude Work While You're Away</a></div>
+<div class="foot">Claude Tips · Claude-08</div></div></body></html>
