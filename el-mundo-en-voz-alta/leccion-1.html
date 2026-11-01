@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
 <style>
 /* Una sola página blanca. Atkinson Hyperlegible para todo.
-   Modo VoiceOver: apaga la voz de la página para que solo hable VoiceOver. */
+   Navegación sin desplazar: encabezados en cada parte, menú arriba y botón "Ir arriba". */
 :root{
   color-scheme:light;
   --bg:#ffffff; --fg:#14213d; --muted:#4a5568; --line:#e2e8f0;
@@ -19,7 +19,8 @@ body{background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.
 .wrap{max-width:760px;margin:0 auto;padding-block:max(20px,env(safe-area-inset-top,0px)) 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 button,select{font-family:var(--font)}
 button{cursor:pointer}
-button:focus-visible,select:focus-visible{outline:4px solid var(--sky);outline-offset:3px}
+button:focus-visible,select:focus-visible,[tabindex="-1"]:focus-visible{outline:4px solid var(--sky);outline-offset:3px}
+[tabindex="-1"]:focus{outline:none}
 .series{font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sky);margin:0}
 .series a{color:inherit;text-decoration:none}
 h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:balance}
@@ -34,11 +35,21 @@ h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:bal
 .vo small{display:block;font-size:15px;font-weight:400;margin-top:2px}
 .vo[aria-pressed="true"]{background:var(--fg);color:#fff}
 
+/* Menú para saltar */
+.menu{margin:0 0 22px}
+.menu h2{font-size:22px;margin:0 0 8px}
+.menu .btns{display:grid;gap:10px}
+.kidmenu .btns{grid-template-columns:repeat(3,1fr)}
+.fullmenu .btns{grid-template-columns:1fr 1fr}
+.menu button{min-height:72px;border-radius:16px;border:3px solid var(--sky);background:var(--sky-bg);color:var(--sky);font-size:20px;font-weight:700;padding:6px 8px;line-height:1.15}
+.kidmenu button{font-size:22px;min-height:88px}
+.up{display:block;width:100%;min-height:64px;margin:14px 0 6px;border-radius:16px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:20px;font-weight:700}
+
 .all{width:100%;min-height:96px;border:none;border-radius:22px;background:var(--sun);color:var(--sun-ink);font-size:28px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:14px}
 .all .ic{font-size:36px;line-height:1}
 .all.playing{background:var(--fg);color:#fff}
 
-.voice{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;margin:12px 0 28px;font-size:18px}
+.voice{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;margin:12px 0 22px;font-size:18px}
 .voice label{font-weight:700}
 .voice select{min-width:0;width:100%;min-height:52px;font-size:17px;border:2px solid var(--line);border-radius:12px;padding:6px 10px;background:#fff;color:var(--fg)}
 .voice button{min-height:52px;border-radius:12px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:17px;font-weight:700;padding:0 14px}
@@ -49,20 +60,20 @@ h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:bal
 .spk.on{background:var(--sun);border-color:var(--sun)}
 .reading{background:#fff8d6!important;border-radius:14px;box-shadow:0 0 0 8px #fff8d6}
 
-/* Con Modo VoiceOver: se esconden todos los controles de voz de la página */
 body.vo-on .pagevoice,body.vo-on .spk{display:none!important}
 body.vo-on .kid .say{grid-template-columns:1fr}
 body.vo-on .sec h2{margin-right:0}
 body.vo-on .voon{display:block}
-.voon{display:none;font-size:18px;color:var(--muted);margin:0 0 22px}
+.voon{display:none;font-size:18px;color:var(--muted);margin:0 0 18px}
 
-.kid .say{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:start;padding:24px 0;border-top:2px dashed var(--line)}
-.kid .say:first-of-type{border-top:none;padding-top:4px}
+.kid .say{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:start;padding:22px 0;border-top:2px dashed var(--line)}
 .kid .txt{min-width:0}
 .kid p{font-size:clamp(26px,6.4vw,32px);line-height:1.45;margin:0 0 .5em}
 .kid p:last-child{margin-bottom:0}
 .kid .spk{width:72px;height:72px}
 .kid h2{font-size:clamp(28px,6.6vw,34px);margin:0 0 8px}
+.kid h3{font-size:clamp(25px,6vw,30px);margin:0 0 6px;color:var(--sky)}
+.part{scroll-margin-top:20px}
 .game{border:4px solid var(--sun);border-radius:24px;padding:20px;margin-top:20px;background:#fffdf3}
 .game .say{border-top:none;padding:0 0 6px}
 .q{font-size:clamp(25px,6vw,30px);margin:10px 0 16px;min-height:3em}
@@ -76,7 +87,7 @@ body.vo-on .voon{display:block}
 .challenge{margin-top:26px;border-left:8px solid var(--sky);background:var(--sky-bg);border-radius:14px;padding:18px}
 .challenge .say{border-top:none;padding:0}
 
-.sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;background:#fff;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 14px;margin-bottom:18px}
+.sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;background:#fff;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 14px;margin-bottom:18px;scroll-margin-top:20px}
 .sec .spk{position:absolute;top:12px;right:12px;width:56px;height:56px}
 .sec h2{color:var(--k);font-size:24px;margin:0 70px 6px 0;text-wrap:balance;min-height:44px;display:flex;align-items:center}
 .full p,.full li{font-size:19px;line-height:1.6}
@@ -91,12 +102,12 @@ dd{margin:2px 0 0;font-size:18px}
 .next{margin-top:30px;text-align:center;font-size:18px;color:var(--muted)}
 .next b{color:var(--fg)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-@media (prefers-reduced-motion:no-preference){.all,.answers button,.switch button,.vo{transition:transform .1s}.all:active,.answers button:active,.switch button:active,.vo:active{transform:scale(.97)}}
-@media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}}
+@media (prefers-reduced-motion:no-preference){.all,.answers button,.switch button,.vo,.menu button,.up{transition:transform .1s}.all:active,.answers button:active,.switch button:active,.vo:active,.menu button:active,.up:active{transform:scale(.97)}}
+@media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}.kidmenu button{font-size:19px}}
 </style></head><body>
 <div class="wrap">
   <p class="series"><a href="./">El mundo en voz alta</a> · Nivel 1</p>
-  <h1>Lección 1: ¿Qué es la accesibilidad?</h1>
+  <h1 id="arriba" tabindex="-1">Lección 1: ¿Qué es la accesibilidad?</h1>
   <p class="where">Lección 1 de 6</p>
 
   <button type="button" class="vo" id="vo" aria-pressed="false"><span id="vo-t">Modo VoiceOver: apagado</span><small id="vo-s">Actívalo si usas VoiceOver, para que solo hable una voz</small></button>
@@ -106,7 +117,7 @@ dd{margin:2px 0 0;font-size:18px}
     <button type="button" id="b-full" aria-pressed="false">Versión completa<small>Para mamá, papá y para ti después</small></button>
   </div>
 
-  <p class="voon">VoiceOver lee esta página. Desliza un dedo a la derecha para pasar al siguiente párrafo.</p>
+  <p class="voon">VoiceOver lee esta página. Usa el menú para saltar a cada parte, o gira el rotor a «Encabezados» y desliza un dedo hacia abajo.</p>
 
   <div class="pagevoice" aria-hidden="true">
     <button type="button" class="all" id="all" tabindex="-1"><span class="ic">▶</span><span id="all-t">Escuchar todo</span></button>
@@ -120,21 +131,37 @@ dd{margin:2px 0 0;font-size:18px}
 
   <!-- VERSIÓN NIÑA -->
   <section class="kid" id="v-kid" aria-label="Juega y aprende">
-    <div class="say"><div class="txt">
-      <p>¡Hola! Bienvenida a <b>El mundo en voz alta</b>. Hoy vas a aprender una palabra nueva: <b>accesibilidad</b>.</p>
-      <p>Es una palabra larga… ¡pero quiere decir algo muy fácil! Quiere decir que <b>todas las personas</b> pueden usar las cosas, cada quien a su manera.</p>
-    </div></div>
-    <div class="say"><div class="txt">
-      <p>Tú conoces el mundo con tus oídos y con tus manos. ¡Eso es un superpoder!</p>
-      <p>Tu iPhone también puede usar tu superpoder. Cuando tocas la pantalla, te dice en voz alta qué hay ahí. ¡Es como un amigo que te cuenta todo!</p>
-    </div></div>
-    <div class="say"><div class="txt">
-      <p>Y si le hablas, también te escucha. Le puedes pedir que llame a mamá o que te diga la hora.</p>
-    </div></div>
+    <nav class="menu kidmenu" aria-labelledby="m-kid">
+      <h2 id="m-kid">¿A dónde quieres ir?</h2>
+      <div class="btns">
+        <button type="button" data-go="k-historia">1. Historia</button>
+        <button type="button" data-go="k-juego">2. Juego</button>
+        <button type="button" data-go="k-reto">3. Reto</button>
+      </div>
+    </nav>
 
-    <div class="game">
+    <div class="part" id="k-historia" tabindex="-1">
+      <h2>1. Historia</h2>
       <div class="say"><div class="txt">
-        <h2>🎲 Juego: ¿es accesibilidad?</h2>
+        <h3>Una palabra nueva</h3>
+        <p>¡Hola! Bienvenida a <b>El mundo en voz alta</b>. Hoy vas a aprender una palabra nueva: <b>accesibilidad</b>.</p>
+        <p>Es una palabra larga… ¡pero quiere decir algo muy fácil! Quiere decir que <b>todas las personas</b> pueden usar las cosas, cada quien a su manera.</p>
+      </div></div>
+      <div class="say"><div class="txt">
+        <h3>Tu superpoder</h3>
+        <p>Tú conoces el mundo con tus oídos y con tus manos. ¡Eso es un superpoder!</p>
+        <p>Tu iPhone también puede usar tu superpoder. Cuando tocas la pantalla, te dice en voz alta qué hay ahí. ¡Es como un amigo que te cuenta todo!</p>
+      </div></div>
+      <div class="say"><div class="txt">
+        <h3>Tu iPhone te escucha</h3>
+        <p>Y si le hablas, también te escucha. Le puedes pedir que llame a mamá o que te diga la hora.</p>
+      </div></div>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
+    </div>
+
+    <div class="part game" id="k-juego" tabindex="-1">
+      <div class="say"><div class="txt">
+        <h2>2. Juego: ¿es accesibilidad?</h2>
         <p>Te voy a decir una cosa. Tú decides: ¿ayuda a que todos la puedan usar?</p>
       </div></div>
       <p class="q" id="q" aria-live="polite"></p>
@@ -145,25 +172,40 @@ dd{margin:2px 0 0;font-size:18px}
       <p class="fb" id="fb" role="status" aria-live="polite"></p>
       <p class="stars" id="stars" aria-label="Estrellas ganadas: 0"></p>
       <button type="button" class="again" id="again" hidden>Jugar otra vez</button>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="challenge">
+    <div class="part challenge" id="k-reto" tabindex="-1">
       <div class="say"><div class="txt">
-        <h2>⭐ Tu reto de hoy</h2>
+        <h2>3. Tu reto de hoy</h2>
         <p>Busca en tu casa algo que tenga un sonido o una textura especial para ayudarte. Puede ser un botón con relieve, una alarma que suena o un juguete. ¡Cuéntale a mamá o a papá lo que encontraste!</p>
       </div></div>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
   </section>
 
   <!-- VERSIÓN COMPLETA -->
   <section class="full" id="v-full" aria-label="Versión completa" hidden>
-    <div class="sec say" style="--k:var(--c1)">
+    <nav class="menu fullmenu" aria-labelledby="m-full">
+      <h2 id="m-full">Ir a una sección</h2>
+      <div class="btns">
+        <button type="button" data-go="f1">Qué es</button>
+        <button type="button" data-go="f2">Dónde está</button>
+        <button type="button" data-go="f3">Primer ajuste</button>
+        <button type="button" data-go="f4">Cómo acompañarla</button>
+        <button type="button" data-go="f5">Para ti</button>
+        <button type="button" data-go="f6">Palabras</button>
+      </div>
+    </nav>
+
+    <div class="sec say" id="f1" tabindex="-1" style="--k:var(--c1)">
       <h2>Qué es la accesibilidad</h2>
       <p>La accesibilidad es diseñar las cosas para que todas las personas las puedan usar, sin importar cómo ven, oyen o se mueven. Una rampa, un libro en braille o un semáforo que suena son ejemplos de accesibilidad en la calle.</p>
       <p>En un teléfono es lo mismo: son herramientas que cambian la forma de usarlo. Una persona con discapacidad visual no necesita ver la pantalla, porque el teléfono le dice en voz alta lo que hay en ella.</p>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="sec say" style="--k:var(--c3)">
+    <div class="sec say" id="f2" tabindex="-1" style="--k:var(--c3)">
       <h2>Dónde está en el iPhone</h2>
       <p>Todas estas herramientas vienen incluidas en el iPhone. Están en <span class="path">Configuración → Accesibilidad</span>, divididas en grupos: Visión, Interacción física y motriz, Audición y Habla.</p>
       <p>Para ella, lo más importante está en el grupo Visión. Estas son las tres herramientas que va a usar primero:</p>
@@ -172,16 +214,18 @@ dd{margin:2px 0 0;font-size:18px}
         <li><b>Siri.</b> El asistente de voz. Le permite hacer cosas solo hablando, como llamar, mandar un mensaje o preguntar la hora.</li>
         <li><b>Lectura en voz alta.</b> Hace que el iPhone lea en voz alta un texto o una pantalla completa cuando se lo pide. Ahí también se eligen y se descargan las voces: búsquenlo en Configuración escribiendo «Voces».</li>
       </ul>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="sec say" style="--k:var(--c5)">
+    <div class="sec say" id="f3" tabindex="-1" style="--k:var(--c5)">
       <h2>Primer ajuste: el atajo de accesibilidad</h2>
       <p>Antes de la lección 4, configuren el atajo. Así, apretar tres veces seguidas el botón lateral enciende o apaga VoiceOver.</p>
       <p>Vayan a <span class="path">Configuración → Accesibilidad → Atajo de accesibilidad</span> y elijan VoiceOver. Es la salida de emergencia: si alguien de la familia se pierde con VoiceOver encendido, tres clics y se apaga.</p>
-      <p class="tip"><b>Importante:</b> cuando ella use VoiceOver, toquen el botón <b>Modo VoiceOver</b> arriba de la página. Se apagan las bocinas de la página y solo habla VoiceOver. La página lo recuerda. Con VoiceOver, se desliza un dedo a la derecha para pasar al siguiente párrafo, y la página baja sola.</p>
+      <p class="tip"><b>Con VoiceOver:</b> toquen el botón <b>Modo VoiceOver</b> arriba de la página para que solo hable VoiceOver; la página lo recuerda. Para moverse sin desplazar con tres dedos: usen el menú de botones, o giren el rotor (dos dedos, como una perilla) hasta «Encabezados» y deslicen un dedo hacia abajo para saltar de sección en sección. Al final de cada parte hay un botón «Ir arriba».</p>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="sec say" style="--k:var(--c2)">
+    <div class="sec say" id="f4" tabindex="-1" style="--k:var(--c2)">
       <h2>Cómo acompañarla en esta lección</h2>
       <ul>
         <li><b>Escúchenla juntos.</b> Sin VoiceOver, usen el botón amarillo para oír la versión "Juega y aprende" con ella. La página baja sola mientras lee.</li>
@@ -189,14 +233,16 @@ dd{margin:2px 0 0;font-size:18px}
         <li><b>Hagan el reto.</b> Que busque en casa cosas con sonido o relieve. Pregúntenle cómo las reconoce.</li>
         <li><b>No lo hagan por ella.</b> El objetivo de toda la serie es que ella pueda usar el iPhone sola. Ayuden con palabras, no con las manos.</li>
       </ul>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="sec say" style="--k:var(--c4)">
+    <div class="sec say" id="f5" tabindex="-1" style="--k:var(--c4)">
       <h2>Para ti, cuando quieras saber más</h2>
       <p>Esta versión también es tuya. Cuando ya manejes VoiceOver, puedes entrar sola a Configuración, Accesibilidad, y explorar cada opción. Ahí puedes cambiar la velocidad de la voz, el idioma y muchas cosas más. Tu iPhone se adapta a ti.</p>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
 
-    <div class="sec say" style="--k:var(--c6)">
+    <div class="sec say" id="f6" tabindex="-1" style="--k:var(--c6)">
       <h2>Palabras de esta lección</h2>
       <dl>
         <dt>Accesibilidad</dt><dd>Que todas las personas puedan usar algo, cada quien a su manera.</dd>
@@ -204,6 +250,7 @@ dd{margin:2px 0 0;font-size:18px}
         <dt>VoiceOver</dt><dd>El lector de pantalla del iPhone.</dd>
         <dt>Siri</dt><dd>La asistente de voz del iPhone. Hace cosas cuando le hablas.</dd>
       </dl>
+      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
     </div>
   </section>
 
@@ -223,6 +270,14 @@ dd{margin:2px 0 0;font-size:18px}
 
   function follow(el){ if(!el||!el.scrollIntoView) return; try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'center'}); }catch(e){ el.scrollIntoView(); } }
 
+  // Saltar: mueve la página y el foco de VoiceOver al destino
+  function go(id){
+    var el=document.getElementById(id); if(!el) return; stop();
+    try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'start'}); }catch(e){ el.scrollIntoView(); }
+    setTimeout(function(){ try{ el.focus({preventScroll:true}); }catch(e){ el.focus(); } }, calm?0:350);
+  }
+  document.querySelectorAll('[data-go]').forEach(function(b){ b.addEventListener('click',function(){ go(b.getAttribute('data-go')); }); });
+
   function fillVoices(){
     if(!synth) return; var all=synth.getVoices(); if(!all.length) return;
     var es=all.filter(function(v){return /^es/i.test(v.lang)});
@@ -241,14 +296,13 @@ dd{margin:2px 0 0;font-size:18px}
   sel.addEventListener('change',function(){ chosen=sel.value; store('emva-voz',chosen); });
 
   function textOf(el){
-    var parts=el.querySelectorAll('h2,p,li,dt,dd');
+    var parts=el.querySelectorAll('h2,h3,p,li,dt,dd');
     var list=parts.length?Array.prototype.map.call(parts,function(n){return n.textContent}):[el.textContent];
-    return list.map(function(t){t=t.replace(/[🎲⭐]/g,'').replace(/\s+/g,' ').trim(); return /[.!?…:]$/.test(t)?t:t+'.'}).join(' ');
+    return list.map(function(t){t=t.replace(/\s+/g,' ').trim(); return /[.!?…:]$/.test(t)?t:t+'.'}).join(' ');
   }
   function clearMarks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
   function setAll(on){ var b=document.getElementById('all'); b.classList.toggle('playing',on); b.querySelector('.ic').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Detener':'Escuchar todo'; }
   function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; clearMarks(); setAll(false); }
-  // En Modo VoiceOver la página nunca habla: VoiceOver lee los avisos del juego
   function speak(text,el,done){
     if(voMode||!synth){ if(done) setTimeout(done, voMode?3000:0); return; }
     var u=new SpeechSynthesisUtterance(text), v=getVoice(); u.lang=v?v.lang:'es-MX'; if(v) u.voice=v; u.rate=mode==='kid'?0.9:1;
@@ -258,11 +312,10 @@ dd{margin:2px 0 0;font-size:18px}
   }
   document.getElementById('probar').addEventListener('click',function(){ stop(); speak('Hola. Así suena esta voz.',null); });
 
-  // Bocinas: visibles para quien mira, invisibles para VoiceOver
   document.querySelectorAll('.say').forEach(function(el){
     var b=document.createElement('button'); b.type='button'; b.className='spk'; b.innerHTML=SPK;
     b.setAttribute('aria-hidden','true'); b.tabIndex=-1;
-    b.addEventListener('click',function(){ var same=current===el; stop(); if(same) return; current=el; speak(textOf(el),el,function(){current=null}); });
+    b.addEventListener('click',function(e){ e.stopPropagation(); var same=current===el; stop(); if(same) return; current=el; speak(textOf(el),el,function(){current=null}); });
     el.appendChild(b);
   });
 
@@ -273,7 +326,6 @@ dd{margin:2px 0 0;font-size:18px}
     playingAll=true; setAll(true); next();
   });
 
-  // Modo VoiceOver
   var voBtn=document.getElementById('vo');
   function setVO(on){ voMode=on; stop(); document.body.classList.toggle('vo-on',on); voBtn.setAttribute('aria-pressed',on);
     document.getElementById('vo-t').textContent=on?'Modo VoiceOver: encendido':'Modo VoiceOver: apagado';
@@ -290,7 +342,6 @@ dd{margin:2px 0 0;font-size:18px}
   document.getElementById('b-full').addEventListener('click',function(){setMode('full')});
   if(load('emva-mode')==='full') setMode('full');
 
-  // Juego
   var items=[
     ['Un semáforo que hace bip, bip, para saber cuándo cruzar la calle.',true,'¡Sí! El sonido avisa a todos cuándo cruzar.'],
     ['Un libro escrito en braille.',true,'¡Sí! Con el braille se lee con los dedos.'],
