@@ -183,19 +183,26 @@
   {
     "name": "Elle Bakehouse",
     "section": "Tech",
-    "path": "elle-bakehouse/",
-    "label": "Proyecto con Claude",
-    "blurb": "Una repostería que vende por Instagram, organizada con Claude, Trello, Notion y Google Drive, en dos fases.",
-    "langs": "Español",
-    "status": "Live"
+    "path": "elle-bakehouse/index-en.html",
+    "label": "Project with Claude",
+    "blurb": "A home bakery that sells on Instagram, organized with Claude, Trello, Notion and Google Drive, in two phases.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Elle Bakehouse",
+    "label_es": "Proyecto con Claude",
+    "blurb_es": "Una repostería que vende por Instagram, organizada con Claude, Trello, Notion y Google Drive, en dos fases.",
+    "path_es": "elle-bakehouse/"
   },
   {
     "name": "El mundo en voz alta",
     "section": "Tech",
-    "path": "el-mundo-en-voz-alta/",
-    "blurb": "Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero.",
-    "langs": "Español",
-    "status": "Live"
+    "path": "el-mundo-en-voz-alta/index-en.html",
+    "blurb": "Lessons for learning to use the iPhone with VoiceOver and Siri, from scratch.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "El mundo en voz alta",
+    "blurb_es": "Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero.",
+    "path_es": "el-mundo-en-voz-alta/"
   },
   {
     "name": "Architects of the Culture of Death",
