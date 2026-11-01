@@ -23,8 +23,15 @@ button:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset
 .answers button:disabled{opacity:.55}
 .fb{font-weight:700;min-height:1.5em;margin-top:18px}
 .again{width:100%;min-height:96px;margin-top:10px;border-radius:24px;border:4px solid var(--sky);background:#fff;color:var(--sky);font-size:30px;font-weight:700}
-.end{padding-top:30px;border-top:3px solid var(--line)}
-.end a{display:block;font-size:20px;color:var(--muted);padding:14px 0}
+.end{display:grid;grid-template-columns:1fr 1fr;margin-top:30px;background:#f5f8ff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.end a{display:grid;grid-template-columns:36px minmax(0,1fr);column-gap:10px;align-items:center;align-content:center;padding:14px 12px;font-size:18px;font-weight:700;line-height:1.25;color:var(--fg);text-decoration:none;min-width:0}
+.end a::before{content:"\2190";grid-column:1;grid-row:1/3;width:32px;height:32px;border-radius:50%;border:2px solid var(--sky);color:var(--sky);display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a small{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.end a.next{grid-template-columns:minmax(0,1fr) 36px;text-align:right}
+.end a.next::before{content:none}
+.end a.next::after{content:"\2192";grid-column:2;grid-row:1/3;width:32px;height:32px;border-radius:50%;background:var(--sky);border:2px solid var(--sky);color:#fff;display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a+a{border-left:1px solid var(--line)}
+.end a:active{background:var(--sky-bg)}
 </style></head><body>
 <main class="wrap">
   <h1>Lección 1: ¿Qué es la accesibilidad?</h1>
@@ -57,8 +64,8 @@ button:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset
   </section>
 
   <nav class="end" aria-label="Más">
-    <a href="leccion-1-padres.html">Notas para mamá y papá</a>
-    <a href="./">Todas las lecciones</a>
+    <a href="./"><small>Inicio</small>Todas las lecciones</a>
+    <a class="next" href="leccion-1-padres.html"><small>Siguiente</small>Notas para mamá y papá</a>
   </nav>
 </main>
 
