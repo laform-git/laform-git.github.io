@@ -56,7 +56,8 @@
     "label": "Prayer",
     "blurb": "The four antiphons to Our Lady, spaced for singing.",
     "langs": "Latin · English",
-    "status": "Live",
+    "status": "Pulled",
+    "note": "Private: moved to a Claude artifact (2026-11-01)",
     "name_es": "Antífonas marianas",
     "label_es": "Oración",
     "blurb_es": "Las cuatro antífonas a Nuestra Señora, espaciadas para cantar."
