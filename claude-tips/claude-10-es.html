@@ -1,0 +1,77 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-10 Haz que Claude sea tuyo · Claude Tips</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="theme.css"><script src="theme.js"></script>
+<style>
+.quote{font-family:Menlo,Consolas,monospace;font-size:15px;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:12px 14px;margin:10px 0 0;color:#1F2937;white-space:pre-wrap}
+.qlab{font-size:13px;font-weight:700;letter-spacing:.06em;color:#6D28D9;margin-top:14px}
+.tbl{width:100%;border-collapse:collapse;font-size:15px}
+.tbl th,.tbl td{text-align:left;vertical-align:top;padding:8px 8px;border-top:1px solid #E5E7EB}
+.tbl th{font-size:13px;letter-spacing:.05em;color:#6B7280;border-top:none}
+.tbl td:first-child{font-weight:700;width:30%}
+.tw{overflow-x:auto}
+.goal{font-size:17px;margin:0}
+.goal li{margin:4px 0}
+details.q{border:2px solid #CBD5E1;border-radius:12px;padding:10px 14px;margin:8px 0;background:#fff}
+details.q summary{font-weight:700;cursor:pointer}
+details.q p{margin:8px 0 0}
+.practice li{margin:8px 0;font-size:16px}
+.mini{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.mini .box h3{font-size:17px}
+.mini.two{grid-template-columns:repeat(2,1fr)}
+.flow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;justify-content:center}
+.flow .chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.flow .ar{font-size:20px;color:#64748B;font-weight:700}
+@media (max-width:640px){.mini,.mini.two{grid-template-columns:1fr}.tbl td:first-child{width:36%}}
+html.dark .quote{background:#23272e;color:#e6e7e9}
+html.dark .tbl th,html.dark .tbl td{border-top-color:#3a3d42}
+html.dark details.q,html.dark .flow .chip{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+@media print{details.q{break-inside:avoid}details.q p{display:block}}
+.ch.pur{background:#7C3AED}.ch.gry2{background:#64748B}
+.lv{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.08em;background:#7C3AED;color:#fff;border-radius:999px;padding:2px 9px;margin-left:6px;vertical-align:2px}
+.steps{display:flex;flex-direction:column;gap:8px}
+.steps>div{display:flex;gap:10px;align-items:flex-start;font-size:16px}
+.steps .n{flex:none}
+</style></head><body><div class="wrap">
+<div class="top"><a href='index-es.html'>← Todas las guías</a><span>Guía 10</span><a class='lang' href='claude-10.html'>English</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-10 · AVANZADO</div><h1>Haz que Claude sea tuyo</h1><p>Deja de repetirte. Enséñale a Claude una vez, en el lugar correcto, y deja que él te enseñe a ti.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+<div class="card"><div class="ch navy">En esta lección</div><div class="cb">
+<ul class="goal"><li>Los cuatro lugares donde Claude guarda "cómo te gustan las cosas"</li><li>Cómo convertir un trabajo que acabas de hacer en una habilidad reutilizable</li><li>Cómo usar a Claude como tu maestro personal</li></ul>
+</div></div>
+<div class="card"><div class="ch orange">La idea clave</div><div class="cb">
+<p style="margin:0 0 10px">Cada vez que explicas lo mismo dos veces, estás haciendo la tarea de Claude. Pon cada tipo de conocimiento en su lugar:</p>
+<div class="tw"><table class="tbl"><tr><th>Lugar</th><th>Qué va ahí</th><th>Ejemplo</th></tr>
+<tr><td>🧠 Memoria</td><td>Datos sobre ti, usados en todos los chats</td><td>"Escribo en español de México. Tengo una panadería pequeña."</td></tr>
+<tr><td>📁 Instrucciones del proyecto</td><td>Reglas para un área de tu vida o trabajo</td><td>"En Negocio: usa nuestro formato de factura, precios en pesos."</td></tr>
+<tr><td>🛠️ Habilidad (skill)</td><td>Una receta paso a paso para un trabajo que repites</td><td>"Reporte semanal de ventas: estas fuentes, este formato, guárdalo aquí."</td></tr>
+<tr><td>🧊 Artefacto</td><td>Una herramienta o página que guardas y reutilizas</td><td>Una calculadora de precios, una lista, un registro que vas llenando</td></tr></table></div>
+<p class="cap"><b>Prueba rápida:</b> ¿es sobre <i>mí</i>? Memoria. ¿Sobre <i>esta área</i>? Proyecto. ¿Un <i>proceso</i>? Habilidad. ¿Una <i>cosa para usar</i>? Artefacto.</p>
+</div></div>
+<div class="card"><div class="ch green">Paso a paso</div><div class="cb">
+<p style="margin:0 0 8px"><b>Convierte un trabajo en una habilidad</b></p>
+<div class="steps">
+<div><span class="n" style="background:#15803D">1</span><span>Haz el trabajo una vez en un chat y corrígelo hasta que quede exactamente bien.</span></div>
+<div><span class="n" style="background:#15803D">2</span><span>Di: <i>"Convierte lo que acabamos de hacer en una skill llamada Reporte Semanal."</i></span></div>
+<div><span class="n" style="background:#15803D">3</span><span>Claude te muestra una tarjeta con la habilidad. Lee los pasos y toca <b>Guardar</b>.</span></div>
+<div><span class="n" style="background:#15803D">4</span><span>La próxima vez solo pide el trabajo ("haz el reporte semanal") y Claude sigue los pasos guardados.</span></div>
+</div>
+<p style="margin:14px 0 8px"><b>Revisa y corrige lo que Claude sabe</b></p>
+<div class="steps">
+<div><span class="n" style="background:#15803D">1</span><span>Pregunta: <i>"¿Qué recuerdas de mí?"</i> Corrige lo que esté mal.</span></div>
+<div><span class="n" style="background:#15803D">2</span><span>La memoria y las habilidades se pueden revisar y apagar en <b>Configuración</b>.</span></div>
+</div>
+</div></div>
+<div class="card"><div class="ch pur">Recetas para copiar y pegar</div><div class="cb">
+<div class="qlab">Haz de Claude tu maestro</div><div class="quote">Enséñame cómo funciona [tema], paso a paso, como si fuera nuevo en esto. Después de cada paso, hazme una pregunta para comprobar que entendí antes de seguir.</div><div class="qlab">Aprende haciendo</div><div class="quote">Quiero aprender a [tarea] yo mismo. No lo hagas por mí. Dame el primer paso, espera mi respuesta y luego dime qué hice bien y qué debo corregir.</div><div class="qlab">Encuentra lo que te falta</div><div class="quote">Así uso Claude ahora: [describe]. ¿Cuáles son las tres funciones que no estoy usando y que más tiempo me ahorrarían? Explica cada una en dos líneas con un ejemplo.</div><div class="qlab">Guarda una preferencia</div><div class="quote">Recuerda que prefiero respuestas cortas con una lista de pasos, y que escribo en español de México.</div>
+</div></div>
+<div class="card"><div class="ch red">Errores comunes</div><div class="cb">
+<div class="mini two"><div class="box rd"><h3>✕ Reglas en cada mensaje</h3><p>Si escribes la misma regla dos veces, va en la Memoria o en las instrucciones del proyecto.</p></div><div class="box rd"><h3>✕ Una habilidad de un mal intento</h3><p>Guarda una habilidad solo cuando el trabajo salió bien. Una habilidad también copia los errores.</p></div><div class="box rd"><h3>✕ Nunca revisar la Memoria</h3><p>Los datos viejos se quedan hasta que los corriges. Pregunta de vez en cuando "¿qué recuerdas de mí?"</p></div><div class="box rd"><h3>✕ Pedir solo respuestas</h3><p>Si quieres aprender, pídele a Claude que te haga preguntas y que te deje intentarlo primero.</p></div></div>
+</div></div>
+<div class="card"><div class="ch navy">Practica (10 minutos)</div><div class="cb">
+<ol class="practice"><li>Pregunta "¿Qué recuerdas de mí?" Corrige una cosa que esté mal o falte.</li><li>Elige un trabajo que hiciste con Claude esta semana. Conviértelo en una habilidad y guárdala.</li><li>Usa la receta "Haz de Claude tu maestro" con una función de Claude que todavía no entiendas.</li></ol>
+</div></div>
+<div class="card"><div class="ch gry2">Ponte a prueba</div><div class="cb">
+<details class="q"><summary>Siempre quieres precios en pesos en los chats de tu negocio. ¿Dónde va eso?</summary><p>En las instrucciones de ese proyecto. Es una regla de un área, no un dato tuyo para todo.</p></details><details class="q"><summary>¿Cuándo es el momento correcto para guardar una habilidad?</summary><p>Cuando el trabajo salió exactamente bien, para que la habilidad copie un buen resultado.</p></details><details class="q"><summary>¿Cómo haces que Claude te enseñe en lugar de solo responder?</summary><p>Pídele que vaya paso a paso, que te haga una pregunta después de cada paso y que te deje intentarlo primero.</p></details>
+</div></div>
+<div class="rem"><div class="k">RECUERDA</div><div class="m">Yo → Memoria. Área → Proyecto. Proceso → Habilidad. Herramienta → Artefacto. Y deja que Claude te pregunte.</div></div>
+<div class="pn"><a href='claude-09-es.html'><small>← Anterior</small>Deja que Claude trabaje mientras no estás</a><a class='next' href='index-es.html'><small>Listo →</small>Todas las guías</a></div>
+<div class="foot">Claude Tips · Claude-10</div></div></body></html>
