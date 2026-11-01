@@ -4,7 +4,7 @@
 .thm button[aria-pressed="true"]{background:#F97316;border-color:#F97316;color:#fff}
 html:not(.dark){background:#ffffff;color-scheme:light}
 html:not(.dark) body{background:#ffffff}
-html:not(.dark) .card,html:not(.dark) .g,html:not(.dark) .pn a{border-color:#E5E7EB}
+html:not(.dark) .card,html:not(.dark) .g{border-color:#E5E7EB}
 html:not(.dark) .g{border-left-color:#F97316}
 @media print{.thm{display:none}}
 @media screen{
@@ -12,10 +12,10 @@ html.dark{color-scheme:dark;background:#1c1d1f}
 html.dark body{background:#1c1d1f;color:#e6e7e9}
 html.dark .top a{color:#7fb0ff}
 html.dark .hdr{background:#0f1420;border:1px solid #2c3340}
-html.dark .card,html.dark .pn a,html.dark .g,html.dark .chip,html.dark .ins{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+html.dark .card,html.dark .g,html.dark .chip,html.dark .ins{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
 html.dark .g{border-left-color:#F97316}
 html.dark .navy{background:#0f1420}
-html.dark .box p,html.dark .ins p,html.dark .lg span,html.dark .proj .sub,html.dark .g p,html.dark .pn a small,html.dark .foot{color:#b8bcc4}
+html.dark .box p,html.dark .ins p,html.dark .lg span,html.dark .proj .sub,html.dark .g p,html.dark .foot{color:#b8bcc4}
 html.dark .blue{background:#16233a}html.dark .blue h3{color:#8ab4ff}
 html.dark .purple,html.dark .folder{background:#251d3a}html.dark .purple h3{color:#c4a8ff}
 html.dark .grn{background:#15291d}html.dark .grn h3{color:#7ad694}
