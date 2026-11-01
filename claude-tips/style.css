@@ -45,7 +45,7 @@ a{color:inherit}
 .rem .m{font-size:23px;font-weight:700;margin-top:4px;color:#141B2D}
 .pn{display:grid;grid-template-columns:1fr 1fr;margin:18px 0 12px;background:#F8FAFC;border:1px solid #E5E7EB;border-radius:14px;overflow:hidden}
 .pn a{display:grid;grid-template-columns:34px minmax(0,1fr);column-gap:10px;align-items:center;align-content:center;text-decoration:none;color:#141B2D!important;padding:12px;font-weight:800;font-size:15px;line-height:1.25;min-width:0}
-.pn a::before{content:"\2190";grid-column:1;grid-row:1/3;width:30px;height:30px;border-radius:50%;border:2px solid #F97316;color:#F97316;display:grid;place-items:center;font-weight:900;font-size:16px;line-height:1}
+.pn a::before{content:"\2190";grid-column:1;grid-row:1/3;width:30px;height:30px;border-radius:50%;border:2px solid #F97316;background:#F97316;color:#fff;display:grid;place-items:center;font-weight:900;font-size:16px;line-height:1}
 .pn a small{display:block;font-weight:700;color:#64748B!important;font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-bottom:2px}
 .pn a.next{grid-template-columns:minmax(0,1fr) 34px;text-align:right}
 .pn a.next::before{content:none}
@@ -57,7 +57,7 @@ html.dark .pn{background:#26282b;border-color:#3a3d42}
 html.dark .pn a{color:#e6e7e9!important}
 html.dark .pn a small{color:#9aa1ad!important}
 html.dark .pn a+a{border-left-color:#3a3d42}
-html.dark .pn a::before{border-color:#FB923C;color:#FB923C}
+html.dark .pn a::before{border-color:#FB923C;background:#FB923C;color:#fff}
 html.dark .pn a.next::after{border-color:#FB923C;background:#FB923C}
 .foot{text-align:center;font-size:13px;color:#6B7280;margin:10px 0 20px}
 /* home */
