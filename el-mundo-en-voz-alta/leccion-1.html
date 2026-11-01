@@ -1,347 +1,69 @@
 <!doctype html><html lang="es-MX"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Lección 1 · El mundo en voz alta</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
 <style>
-/* Una sola página blanca. Atkinson Hyperlegible para todo.
-   Navegación sin desplazar: encabezados en cada parte, menú arriba y botón "Ir arriba". */
-:root{
-  color-scheme:light;
-  --bg:#ffffff; --fg:#14213d; --muted:#4a5568; --line:#e2e8f0;
-  --sun:#ffd23f; --sun-ink:#5c4400; --sky:#1d4ed8; --sky-bg:#e8efff;
-  --c1:#1d4ed8; --c2:#b42318; --c3:#0f7a4a; --c4:#7a3fb8; --c5:#b45309; --c6:#0e7490;
-  --ok:#0f7a4a; --ok-bg:#e6f6ee; --no:#b42318; --no-bg:#fdecea;
-  --font:"Atkinson Hyperlegible",Verdana,"Segoe UI",system-ui,sans-serif;
-}
+/* Página para ella: limpia, sin bocinas. La lee VoiceOver.
+   Solo tres partes con encabezado y dos botones de juego. */
+:root{color-scheme:light;--fg:#14213d;--muted:#4a5568;--line:#e2e8f0;--sky:#1d4ed8;--sky-bg:#e8efff;--sun:#ffd23f;--ok:#0f7a4a;--ok-bg:#e6f6ee;--no:#b42318;--no-bg:#fdecea;--font:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif}
 *{box-sizing:border-box}
-html{scroll-padding-top:20px}
-body{background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.5;margin:0}
-.wrap{max-width:760px;margin:0 auto;padding-block:max(20px,env(safe-area-inset-top,0px)) 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-button,select{font-family:var(--font)}
-button{cursor:pointer}
-button:focus-visible,select:focus-visible,[tabindex="-1"]:focus-visible{outline:4px solid var(--sky);outline-offset:3px}
-[tabindex="-1"]:focus{outline:none}
-.series{font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sky);margin:0}
-.series a{color:inherit;text-decoration:none}
-h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:balance}
-.where{font-size:17px;color:var(--muted);margin:0 0 18px}
-
-.switch{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
-.switch button{min-height:76px;border-radius:18px;border:3px solid var(--sky);background:#fff;color:var(--sky);font-size:21px;font-weight:700;padding:8px 10px;line-height:1.15}
-.switch button[aria-pressed="true"]{background:var(--sky);color:#fff}
-.switch small{display:block;font-size:14px;font-weight:400;margin-top:2px}
-
-.vo{width:100%;min-height:72px;border-radius:18px;border:3px solid var(--fg);background:#fff;color:var(--fg);font-size:21px;font-weight:700;padding:8px 14px;margin-bottom:16px;line-height:1.2;text-align:center}
-.vo small{display:block;font-size:15px;font-weight:400;margin-top:2px}
-.vo[aria-pressed="true"]{background:var(--fg);color:#fff}
-
-/* Menú para saltar */
-.menu{margin:0 0 22px}
-.menu h2{font-size:22px;margin:0 0 8px}
-.menu .btns{display:grid;gap:10px}
-.kidmenu .btns{grid-template-columns:repeat(3,1fr)}
-.fullmenu .btns{grid-template-columns:1fr 1fr}
-.menu button{min-height:72px;border-radius:16px;border:3px solid var(--sky);background:var(--sky-bg);color:var(--sky);font-size:20px;font-weight:700;padding:6px 8px;line-height:1.15}
-.kidmenu button{font-size:22px;min-height:88px}
-.up{display:block;width:100%;min-height:64px;margin:14px 0 6px;border-radius:16px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:20px;font-weight:700}
-
-.all{width:100%;min-height:96px;border:none;border-radius:22px;background:var(--sun);color:var(--sun-ink);font-size:28px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:14px}
-.all .ic{font-size:36px;line-height:1}
-.all.playing{background:var(--fg);color:#fff}
-
-.voice{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;margin:12px 0 22px;font-size:18px}
-.voice label{font-weight:700}
-.voice select{min-width:0;width:100%;min-height:52px;font-size:17px;border:2px solid var(--line);border-radius:12px;padding:6px 10px;background:#fff;color:var(--fg)}
-.voice button{min-height:52px;border-radius:12px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:17px;font-weight:700;padding:0 14px}
-.voice .hint{grid-column:1/-1;font-size:15px;color:var(--muted);margin:0}
-
-.spk{flex:none;border:2px solid var(--line);background:#fff;border-radius:50%;display:grid;place-items:center;color:var(--sky)}
-.spk svg{width:55%;height:55%}
-.spk.on{background:var(--sun);border-color:var(--sun)}
-.reading{background:#fff8d6!important;border-radius:14px;box-shadow:0 0 0 8px #fff8d6}
-
-body.vo-on .pagevoice,body.vo-on .spk{display:none!important}
-body.vo-on .kid .say{grid-template-columns:1fr}
-body.vo-on .sec h2{margin-right:0}
-body.vo-on .voon{display:block}
-.voon{display:none;font-size:18px;color:var(--muted);margin:0 0 18px}
-
-.kid .say{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:start;padding:22px 0;border-top:2px dashed var(--line)}
-.kid .txt{min-width:0}
-.kid p{font-size:clamp(26px,6.4vw,32px);line-height:1.45;margin:0 0 .5em}
-.kid p:last-child{margin-bottom:0}
-.kid .spk{width:72px;height:72px}
-.kid h2{font-size:clamp(28px,6.6vw,34px);margin:0 0 8px}
-.kid h3{font-size:clamp(25px,6vw,30px);margin:0 0 6px;color:var(--sky)}
-.part{scroll-margin-top:20px}
-.game{border:4px solid var(--sun);border-radius:24px;padding:20px;margin-top:20px;background:#fffdf3}
-.game .say{border-top:none;padding:0 0 6px}
-.q{font-size:clamp(25px,6vw,30px);margin:10px 0 16px;min-height:3em}
-.answers{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.answers button{min-height:110px;border-radius:20px;font-size:28px;font-weight:700;border:4px solid}
-.yes{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)!important}
-.nope{background:var(--no-bg);color:var(--no);border-color:var(--no)!important}
-.fb{font-size:clamp(23px,5.6vw,28px);font-weight:700;margin:16px 0 0;min-height:1.5em}
-.stars{font-size:40px;letter-spacing:8px;margin:8px 0 0;min-height:1.2em}
-.again{margin-top:14px;min-height:72px;width:100%;border-radius:18px;border:3px solid var(--sky);background:#fff;color:var(--sky);font-size:23px;font-weight:700}
-.challenge{margin-top:26px;border-left:8px solid var(--sky);background:var(--sky-bg);border-radius:14px;padding:18px}
-.challenge .say{border-top:none;padding:0}
-
-.sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;background:#fff;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 14px;margin-bottom:18px;scroll-margin-top:20px}
-.sec .spk{position:absolute;top:12px;right:12px;width:56px;height:56px}
-.sec h2{color:var(--k);font-size:24px;margin:0 70px 6px 0;text-wrap:balance;min-height:44px;display:flex;align-items:center}
-.full p,.full li{font-size:19px;line-height:1.6}
-.full p{margin:0 0 10px}
-.path{display:inline-block;font-weight:700;background:var(--sky-bg);color:var(--sky);border-radius:8px;padding:1px 8px}
-.full ul{margin:4px 0 6px;padding-left:22px}
-.full li{margin:6px 0}
-.tip{border:2px dashed var(--c5);border-radius:14px;padding:12px 14px;margin:10px 0 4px}
-dl{margin:4px 0 0}
-dt{font-weight:700;font-size:19px;color:var(--c6);margin-top:10px}
-dd{margin:2px 0 0;font-size:18px}
-.next{margin-top:30px;text-align:center;font-size:18px;color:var(--muted)}
-.next b{color:var(--fg)}
-.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-@media (prefers-reduced-motion:no-preference){.all,.answers button,.switch button,.vo,.menu button,.up{transition:transform .1s}.all:active,.answers button:active,.switch button:active,.vo:active,.menu button:active,.up:active{transform:scale(.97)}}
-@media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}.kidmenu button{font-size:19px}}
+body{background:#fff;color:var(--fg);font-family:var(--font);margin:0;line-height:1.45}
+.wrap{max-width:720px;margin:0 auto;padding:max(24px,env(safe-area-inset-top,0px)) max(18px,env(safe-area-inset-right,0px)) 60px max(18px,env(safe-area-inset-left,0px))}
+h1{font-size:clamp(32px,8vw,44px);line-height:1.1;margin:0 0 28px}
+h2{font-size:clamp(30px,7.4vw,38px);margin:0 0 14px;color:var(--sky)}
+p{font-size:clamp(27px,6.6vw,33px);margin:0 0 .7em}
+section{padding:30px 0;border-top:3px solid var(--line)}
+button{font-family:var(--font);cursor:pointer}
+button:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset:4px}
+.q{min-height:3em}
+.answers{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:8px}
+.answers button{min-height:130px;border-radius:24px;font-size:34px;font-weight:700;border:4px solid}
+.yes{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+.nope{background:var(--no-bg);color:var(--no);border-color:var(--no)}
+.answers button:disabled{opacity:.55}
+.fb{font-weight:700;min-height:1.5em;margin-top:18px}
+.again{width:100%;min-height:96px;margin-top:10px;border-radius:24px;border:4px solid var(--sky);background:#fff;color:var(--sky);font-size:30px;font-weight:700}
+.end{padding-top:30px;border-top:3px solid var(--line)}
+.end a{display:block;font-size:20px;color:var(--muted);padding:14px 0}
 </style></head><body>
-<div class="wrap">
-  <p class="series"><a href="./">El mundo en voz alta</a> · Nivel 1</p>
-  <h1 id="arriba" tabindex="-1">Lección 1: ¿Qué es la accesibilidad?</h1>
-  <p class="where">Lección 1 de 6</p>
+<main class="wrap">
+  <h1>Lección 1: ¿Qué es la accesibilidad?</h1>
 
-  <button type="button" class="vo" id="vo" aria-pressed="false"><span id="vo-t">Modo VoiceOver: apagado</span><small id="vo-s">Actívalo si usas VoiceOver, para que solo hable una voz</small></button>
-
-  <div class="switch" role="group" aria-label="Elige la versión">
-    <button type="button" id="b-kid" aria-pressed="true">Juega y aprende<small>Para ti</small></button>
-    <button type="button" id="b-full" aria-pressed="false">Versión completa<small>Para mamá, papá y para ti después</small></button>
-  </div>
-
-  <p class="voon">VoiceOver lee esta página. Usa el menú para saltar a cada parte, o gira el rotor a «Encabezados» y desliza un dedo hacia abajo.</p>
-
-  <div class="pagevoice" aria-hidden="true">
-    <button type="button" class="all" id="all" tabindex="-1"><span class="ic">▶</span><span id="all-t">Escuchar todo</span></button>
-    <div class="voice">
-      <label for="voz">Voz</label>
-      <select id="voz" tabindex="-1"><option value="">Automática</option></select>
-      <button type="button" id="probar" tabindex="-1">Probar</button>
-      <p class="hint">Si no aparece la voz que quieres, abre Configuración, escribe «Voces» en la barra de búsqueda, descarga una voz en español y vuelve a abrir esta página.</p>
-    </div>
-  </div>
-
-  <!-- VERSIÓN NIÑA -->
-  <section class="kid" id="v-kid" aria-label="Juega y aprende">
-    <nav class="menu kidmenu" aria-labelledby="m-kid">
-      <h2 id="m-kid">¿A dónde quieres ir?</h2>
-      <div class="btns">
-        <button type="button" data-go="k-historia">1. Historia</button>
-        <button type="button" data-go="k-juego">2. Juego</button>
-        <button type="button" data-go="k-reto">3. Reto</button>
-      </div>
-    </nav>
-
-    <div class="part" id="k-historia" tabindex="-1">
-      <h2>1. Historia</h2>
-      <div class="say"><div class="txt">
-        <h3>Una palabra nueva</h3>
-        <p>¡Hola! Bienvenida a <b>El mundo en voz alta</b>. Hoy vas a aprender una palabra nueva: <b>accesibilidad</b>.</p>
-        <p>Es una palabra larga… ¡pero quiere decir algo muy fácil! Quiere decir que <b>todas las personas</b> pueden usar las cosas, cada quien a su manera.</p>
-      </div></div>
-      <div class="say"><div class="txt">
-        <h3>Tu superpoder</h3>
-        <p>Tú conoces el mundo con tus oídos y con tus manos. ¡Eso es un superpoder!</p>
-        <p>Tu iPhone también puede usar tu superpoder. Cuando tocas la pantalla, te dice en voz alta qué hay ahí. ¡Es como un amigo que te cuenta todo!</p>
-      </div></div>
-      <div class="say"><div class="txt">
-        <h3>Tu iPhone te escucha</h3>
-        <p>Y si le hablas, también te escucha. Le puedes pedir que llame a mamá o que te diga la hora.</p>
-      </div></div>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="part game" id="k-juego" tabindex="-1">
-      <div class="say"><div class="txt">
-        <h2>2. Juego: ¿es accesibilidad?</h2>
-        <p>Te voy a decir una cosa. Tú decides: ¿ayuda a que todos la puedan usar?</p>
-      </div></div>
-      <p class="q" id="q" aria-live="polite"></p>
-      <div class="answers">
-        <button type="button" class="yes" id="a-yes">Sí</button>
-        <button type="button" class="nope" id="a-no">No</button>
-      </div>
-      <p class="fb" id="fb" role="status" aria-live="polite"></p>
-      <p class="stars" id="stars" aria-label="Estrellas ganadas: 0"></p>
-      <button type="button" class="again" id="again" hidden>Jugar otra vez</button>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="part challenge" id="k-reto" tabindex="-1">
-      <div class="say"><div class="txt">
-        <h2>3. Tu reto de hoy</h2>
-        <p>Busca en tu casa algo que tenga un sonido o una textura especial para ayudarte. Puede ser un botón con relieve, una alarma que suena o un juguete. ¡Cuéntale a mamá o a papá lo que encontraste!</p>
-      </div></div>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
+  <section aria-labelledby="h1s">
+    <h2 id="h1s">Historia</h2>
+    <p>¡Hola! Hoy vas a aprender una palabra nueva: accesibilidad.</p>
+    <p>Es una palabra larga, pero quiere decir algo fácil: que todas las personas pueden usar las cosas, cada quien a su manera.</p>
+    <p>Tú conoces el mundo con tus oídos y con tus manos. ¡Eso es un superpoder!</p>
+    <p>Tu iPhone usa tu superpoder. Cuando tocas la pantalla, te dice en voz alta qué hay ahí.</p>
+    <p>Y si le hablas, te escucha. Le puedes pedir que llame a mamá o que te diga la hora.</p>
   </section>
 
-  <!-- VERSIÓN COMPLETA -->
-  <section class="full" id="v-full" aria-label="Versión completa" hidden>
-    <nav class="menu fullmenu" aria-labelledby="m-full">
-      <h2 id="m-full">Ir a una sección</h2>
-      <div class="btns">
-        <button type="button" data-go="f1">Qué es</button>
-        <button type="button" data-go="f2">Dónde está</button>
-        <button type="button" data-go="f3">Primer ajuste</button>
-        <button type="button" data-go="f4">Cómo acompañarla</button>
-        <button type="button" data-go="f5">Para ti</button>
-        <button type="button" data-go="f6">Palabras</button>
-      </div>
-    </nav>
-
-    <div class="sec say" id="f1" tabindex="-1" style="--k:var(--c1)">
-      <h2>Qué es la accesibilidad</h2>
-      <p>La accesibilidad es diseñar las cosas para que todas las personas las puedan usar, sin importar cómo ven, oyen o se mueven. Una rampa, un libro en braille o un semáforo que suena son ejemplos de accesibilidad en la calle.</p>
-      <p>En un teléfono es lo mismo: son herramientas que cambian la forma de usarlo. Una persona con discapacidad visual no necesita ver la pantalla, porque el teléfono le dice en voz alta lo que hay en ella.</p>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
+  <section aria-labelledby="h2s">
+    <h2 id="h2s">Juego</h2>
+    <p>Te digo una cosa. Tú decides: ¿ayuda a que todos la puedan usar?</p>
+    <p class="q" id="q"></p>
+    <div class="answers">
+      <button type="button" class="yes" id="a-yes">Sí</button>
+      <button type="button" class="nope" id="a-no">No</button>
     </div>
-
-    <div class="sec say" id="f2" tabindex="-1" style="--k:var(--c3)">
-      <h2>Dónde está en el iPhone</h2>
-      <p>Todas estas herramientas vienen incluidas en el iPhone. Están en <span class="path">Configuración → Accesibilidad</span>, divididas en grupos: Visión, Interacción física y motriz, Audición y Habla.</p>
-      <p>Para ella, lo más importante está en el grupo Visión. Estas son las tres herramientas que va a usar primero:</p>
-      <ul>
-        <li><b>VoiceOver.</b> El lector de pantalla. Lee en voz alta todo lo que ella toca y se usa con gestos. Es la herramienta principal de esta serie.</li>
-        <li><b>Siri.</b> El asistente de voz. Le permite hacer cosas solo hablando, como llamar, mandar un mensaje o preguntar la hora.</li>
-        <li><b>Lectura en voz alta.</b> Hace que el iPhone lea en voz alta un texto o una pantalla completa cuando se lo pide. Ahí también se eligen y se descargan las voces: búsquenlo en Configuración escribiendo «Voces».</li>
-      </ul>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="sec say" id="f3" tabindex="-1" style="--k:var(--c5)">
-      <h2>Primer ajuste: el atajo de accesibilidad</h2>
-      <p>Antes de la lección 4, configuren el atajo. Así, apretar tres veces seguidas el botón lateral enciende o apaga VoiceOver.</p>
-      <p>Vayan a <span class="path">Configuración → Accesibilidad → Atajo de accesibilidad</span> y elijan VoiceOver. Es la salida de emergencia: si alguien de la familia se pierde con VoiceOver encendido, tres clics y se apaga.</p>
-      <p class="tip"><b>Con VoiceOver:</b> toquen el botón <b>Modo VoiceOver</b> arriba de la página para que solo hable VoiceOver; la página lo recuerda. Para moverse sin desplazar con tres dedos: usen el menú de botones, o giren el rotor (dos dedos, como una perilla) hasta «Encabezados» y deslicen un dedo hacia abajo para saltar de sección en sección. Al final de cada parte hay un botón «Ir arriba».</p>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="sec say" id="f4" tabindex="-1" style="--k:var(--c2)">
-      <h2>Cómo acompañarla en esta lección</h2>
-      <ul>
-        <li><b>Escúchenla juntos.</b> Sin VoiceOver, usen el botón amarillo para oír la versión "Juega y aprende" con ella. La página baja sola mientras lee.</li>
-        <li><b>Hagan el juego.</b> Son cinco preguntas. Dejen que ella conteste sola, aunque se equivoque.</li>
-        <li><b>Hagan el reto.</b> Que busque en casa cosas con sonido o relieve. Pregúntenle cómo las reconoce.</li>
-        <li><b>No lo hagan por ella.</b> El objetivo de toda la serie es que ella pueda usar el iPhone sola. Ayuden con palabras, no con las manos.</li>
-      </ul>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="sec say" id="f5" tabindex="-1" style="--k:var(--c4)">
-      <h2>Para ti, cuando quieras saber más</h2>
-      <p>Esta versión también es tuya. Cuando ya manejes VoiceOver, puedes entrar sola a Configuración, Accesibilidad, y explorar cada opción. Ahí puedes cambiar la velocidad de la voz, el idioma y muchas cosas más. Tu iPhone se adapta a ti.</p>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
-
-    <div class="sec say" id="f6" tabindex="-1" style="--k:var(--c6)">
-      <h2>Palabras de esta lección</h2>
-      <dl>
-        <dt>Accesibilidad</dt><dd>Que todas las personas puedan usar algo, cada quien a su manera.</dd>
-        <dt>Lector de pantalla</dt><dd>Programa que lee en voz alta lo que hay en la pantalla.</dd>
-        <dt>VoiceOver</dt><dd>El lector de pantalla del iPhone.</dd>
-        <dt>Siri</dt><dd>La asistente de voz del iPhone. Hace cosas cuando le hablas.</dd>
-      </dl>
-      <button type="button" class="up" data-go="arriba">↑ Ir arriba</button>
-    </div>
+    <p class="fb" id="fb" role="status" aria-live="polite"></p>
+    <button type="button" class="again" id="again" hidden>Jugar otra vez</button>
   </section>
 
-  <p class="next">Siguiente: <b>Lección 2 · ¿Por qué iPhone?</b> (próximamente)</p>
-  <p class="sr" id="sr" aria-live="assertive"></p>
-</div>
+  <section aria-labelledby="h3s">
+    <h2 id="h3s">Tu reto de hoy</h2>
+    <p>Busca en tu casa algo con un sonido o una textura especial. Puede ser un botón con relieve, una alarma o un juguete.</p>
+    <p>¡Cuéntale a mamá o a papá lo que encontraste!</p>
+  </section>
+
+  <nav class="end" aria-label="Más">
+    <a href="leccion-1-padres.html">Notas para mamá y papá</a>
+    <a href="./">Todas las lecciones</a>
+  </nav>
+</main>
 
 <script>
 (function(){
-  var SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
-  var synth=window.speechSynthesis, voices=[], chosen='', mode='kid', queue=[], playingAll=false, current=null, voMode=false;
-  var calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var sel=document.getElementById('voz');
-  function store(k,v){try{localStorage.setItem(k,v)}catch(e){}}
-  function load(k){try{return localStorage.getItem(k)}catch(e){return null}}
-  chosen=load('emva-voz')||'';
-
-  function follow(el){ if(!el||!el.scrollIntoView) return; try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'center'}); }catch(e){ el.scrollIntoView(); } }
-
-  // Saltar: mueve la página y el foco de VoiceOver al destino
-  function go(id){
-    var el=document.getElementById(id); if(!el) return; stop();
-    try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'start'}); }catch(e){ el.scrollIntoView(); }
-    setTimeout(function(){ try{ el.focus({preventScroll:true}); }catch(e){ el.focus(); } }, calm?0:350);
-  }
-  document.querySelectorAll('[data-go]').forEach(function(b){ b.addEventListener('click',function(){ go(b.getAttribute('data-go')); }); });
-
-  function fillVoices(){
-    if(!synth) return; var all=synth.getVoices(); if(!all.length) return;
-    var es=all.filter(function(v){return /^es/i.test(v.lang)});
-    var rank=function(v){return /MX/i.test(v.lang)?0:/US/i.test(v.lang)?1:2};
-    es.sort(function(a,b){return rank(a)-rank(b)||a.name.localeCompare(b.name)});
-    voices=es.length?es:all;
-    sel.innerHTML='<option value="">Automática</option>';
-    voices.forEach(function(v){var o=document.createElement('option');o.value=v.voiceURI;o.textContent=v.name+' ('+v.lang+')';sel.appendChild(o)});
-    if(chosen&&voices.some(function(v){return v.voiceURI===chosen})) sel.value=chosen;
-  }
-  if(synth){ fillVoices(); if('onvoiceschanged' in synth) synth.onvoiceschanged=fillVoices; setTimeout(fillVoices,500); }
-  function getVoice(){
-    if(chosen){ var c=voices.find(function(v){return v.voiceURI===chosen}); if(c) return c; }
-    return voices.find(function(v){return /es[-_]MX/i.test(v.lang)})||voices.find(function(v){return /^es/i.test(v.lang)})||null;
-  }
-  sel.addEventListener('change',function(){ chosen=sel.value; store('emva-voz',chosen); });
-
-  function textOf(el){
-    var parts=el.querySelectorAll('h2,h3,p,li,dt,dd');
-    var list=parts.length?Array.prototype.map.call(parts,function(n){return n.textContent}):[el.textContent];
-    return list.map(function(t){t=t.replace(/\s+/g,' ').trim(); return /[.!?…:]$/.test(t)?t:t+'.'}).join(' ');
-  }
-  function clearMarks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
-  function setAll(on){ var b=document.getElementById('all'); b.classList.toggle('playing',on); b.querySelector('.ic').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Detener':'Escuchar todo'; }
-  function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; clearMarks(); setAll(false); }
-  function speak(text,el,done){
-    if(voMode||!synth){ if(done) setTimeout(done, voMode?3000:0); return; }
-    var u=new SpeechSynthesisUtterance(text), v=getVoice(); u.lang=v?v.lang:'es-MX'; if(v) u.voice=v; u.rate=mode==='kid'?0.9:1;
-    u.onstart=function(){ clearMarks(); if(el){ el.classList.add('reading'); var b=el.querySelector('.spk'); if(b) b.classList.add('on'); } if(playingAll) follow(el); };
-    u.onend=function(){ if(el){ el.classList.remove('reading'); var b=el.querySelector('.spk'); if(b) b.classList.remove('on'); } if(done) done(); };
-    synth.speak(u);
-  }
-  document.getElementById('probar').addEventListener('click',function(){ stop(); speak('Hola. Así suena esta voz.',null); });
-
-  document.querySelectorAll('.say').forEach(function(el){
-    var b=document.createElement('button'); b.type='button'; b.className='spk'; b.innerHTML=SPK;
-    b.setAttribute('aria-hidden','true'); b.tabIndex=-1;
-    b.addEventListener('click',function(e){ e.stopPropagation(); var same=current===el; stop(); if(same) return; current=el; speak(textOf(el),el,function(){current=null}); });
-    el.appendChild(b);
-  });
-
-  function next(){ if(!playingAll) return; var el=queue.shift(); if(!el){ stop(); return; } current=el; speak(textOf(el),el,next); }
-  document.getElementById('all').addEventListener('click',function(){
-    if(playingAll){ stop(); return; }
-    stop(); queue=Array.prototype.slice.call(document.getElementById(mode==='kid'?'v-kid':'v-full').querySelectorAll('.say'));
-    playingAll=true; setAll(true); next();
-  });
-
-  var voBtn=document.getElementById('vo');
-  function setVO(on){ voMode=on; stop(); document.body.classList.toggle('vo-on',on); voBtn.setAttribute('aria-pressed',on);
-    document.getElementById('vo-t').textContent=on?'Modo VoiceOver: encendido':'Modo VoiceOver: apagado';
-    document.getElementById('vo-s').textContent=on?'Solo habla VoiceOver. Tócalo para volver a las bocinas':'Actívalo si usas VoiceOver, para que solo hable una voz';
-    store('emva-vo',on?'1':'0'); }
-  voBtn.addEventListener('click',function(){ setVO(!voMode); });
-  if(load('emva-vo')==='1') setVO(true);
-
-  function setMode(m){ stop(); mode=m;
-    document.getElementById('v-kid').hidden=m!=='kid'; document.getElementById('v-full').hidden=m!=='full';
-    document.getElementById('b-kid').setAttribute('aria-pressed',m==='kid'); document.getElementById('b-full').setAttribute('aria-pressed',m==='full');
-    store('emva-mode',m); }
-  document.getElementById('b-kid').addEventListener('click',function(){setMode('kid')});
-  document.getElementById('b-full').addEventListener('click',function(){setMode('full')});
-  if(load('emva-mode')==='full') setMode('full');
-
   var items=[
     ['Un semáforo que hace bip, bip, para saber cuándo cruzar la calle.',true,'¡Sí! El sonido avisa a todos cuándo cruzar.'],
     ['Un libro escrito en braille.',true,'¡Sí! Con el braille se lee con los dedos.'],
@@ -349,17 +71,20 @@ dd{margin:2px 0 0;font-size:18px}
     ['Un iPhone que te dice en voz alta lo que tocas.',true,'¡Sí! Eso es VoiceOver, y lo vas a conocer muy pronto.'],
     ['Un juego que solo funciona si ves los colores.',false,'¡Exacto! Un juego accesible también se juega con sonidos.']
   ], i=0, stars=0;
-  var qEl=document.getElementById('q'), fb=document.getElementById('fb'), st=document.getElementById('stars'), again=document.getElementById('again');
+  var q=document.getElementById('q'), fb=document.getElementById('fb'), again=document.getElementById('again');
   var yes=document.getElementById('a-yes'), no=document.getElementById('a-no');
-  function show(){ qEl.textContent=(i+1)+' de '+items.length+'. '+items[i][0]; fb.textContent=''; yes.disabled=no.disabled=false; }
-  function answer(v){ yes.disabled=no.disabled=true; var it=items[i], right=(v===it[1]);
-    if(right){ stars++; st.textContent='⭐'.repeat(stars); st.setAttribute('aria-label','Estrellas ganadas: '+stars); }
+  function show(){ q.textContent='Pregunta '+(i+1)+' de '+items.length+'. '+items[i][0]; yes.disabled=no.disabled=false; }
+  function answer(v){
+    if(yes.disabled) return; yes.disabled=no.disabled=true;
+    var it=items[i], right=(v===it[1]); if(right) stars++;
     var msg=right?it[2]:'Casi. '+(it[1]?'Sí es accesibilidad. ':'No es accesibilidad. ')+it[2].replace(/^¡[^!]*! /,'');
-    fb.textContent=msg; stop();
-    speak(msg,null,function(){ i++; if(i<items.length){ show(); speak(qEl.textContent,null); } else { var end='¡Terminaste! Ganaste '+stars+' de '+items.length+' estrellas.'; qEl.textContent=end; fb.textContent=''; again.hidden=false; follow(again); speak(end,null); } });
+    i++;
+    if(i<items.length){ show(); fb.textContent=msg+' Siguiente. '+q.textContent; }
+    else { q.textContent='¡Terminaste! Ganaste '+stars+' de '+items.length+' estrellas.'; fb.textContent=msg+' '+q.textContent; again.hidden=false; }
   }
-  yes.addEventListener('click',function(){answer(true)}); no.addEventListener('click',function(){answer(false)});
-  again.addEventListener('click',function(){ i=0; stars=0; st.textContent=''; st.setAttribute('aria-label','Estrellas ganadas: 0'); again.hidden=true; show(); stop(); follow(qEl); speak(qEl.textContent,null); });
+  yes.addEventListener('click',function(){answer(true)});
+  no.addEventListener('click',function(){answer(false)});
+  again.addEventListener('click',function(){ i=0; stars=0; again.hidden=true; show(); fb.textContent='Otra vez. '+q.textContent; yes.focus(); });
   show();
 })();
 </script>

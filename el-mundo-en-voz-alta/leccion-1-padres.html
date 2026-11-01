@@ -1,0 +1,145 @@
+<!doctype html><html lang="es-MX"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Lección 1 · Notas para mamá y papá · El mundo en voz alta</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Notas para los papás: una bocina por sección y un botón para escuchar todo. */
+:root{color-scheme:light;--fg:#14213d;--muted:#4a5568;--line:#e2e8f0;--sky:#1d4ed8;--sky-bg:#e8efff;--sun:#ffd23f;--sun-ink:#5c4400;
+  --c1:#1d4ed8;--c2:#0f7a4a;--c3:#b45309;--c4:#7a3fb8;--c5:#b42318;--c6:#0e7490;--font:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif}
+*{box-sizing:border-box}
+body{background:#fff;color:var(--fg);font-family:var(--font);margin:0;line-height:1.55}
+.wrap{max-width:740px;margin:0 auto;padding:max(22px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 60px max(16px,env(safe-area-inset-left,0px))}
+button,select{font-family:var(--font);cursor:pointer}
+button:focus-visible,select:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset:3px}
+.kicker{font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sky);margin:0}
+h1{font-size:clamp(28px,6.6vw,38px);line-height:1.15;margin:4px 0 18px}
+.all{width:100%;min-height:84px;border:none;border-radius:20px;background:var(--sun);color:var(--sun-ink);font-size:25px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:12px}
+.all.playing{background:var(--fg);color:#fff}
+.voice{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;margin:12px 0 26px;font-size:17px}
+.voice label{font-weight:700}
+.voice select{min-width:0;width:100%;min-height:50px;font-size:16px;border:2px solid var(--line);border-radius:12px;padding:6px 10px;background:#fff;color:var(--fg)}
+.voice button{min-height:50px;border-radius:12px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:16px;font-weight:700;padding:0 14px}
+.voice .hint{grid-column:1/-1;font-size:15px;color:var(--muted);margin:0}
+.sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 12px;margin-bottom:18px}
+.sec h2{color:var(--k);font-size:23px;margin:0 72px 8px 0;min-height:52px;display:flex;align-items:center}
+.spk{position:absolute;top:12px;right:12px;width:58px;height:58px;border-radius:50%;border:2px solid var(--line);background:#fff;color:var(--sky);display:grid;place-items:center}
+.spk svg{width:55%;height:55%}
+.spk.on{background:var(--sun);border-color:var(--sun)}
+.reading{background:#fff8d6}
+p,li{font-size:19px}
+p{margin:0 0 10px}
+ul{margin:4px 0 8px;padding-left:22px}
+li{margin:6px 0}
+.path{font-weight:700;background:var(--sky-bg);color:var(--sky);border-radius:8px;padding:1px 8px}
+dt{font-weight:700;font-size:19px;color:var(--c6);margin-top:10px}
+dd{margin:2px 0 0;font-size:18px}
+.end a{display:block;font-size:18px;color:var(--sky);padding:12px 0}
+@media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}}
+</style></head><body>
+<main class="wrap">
+  <p class="kicker">El mundo en voz alta · Lección 1</p>
+  <h1>Notas para mamá y papá</h1>
+
+  <button type="button" class="all" id="all"><span id="all-i" aria-hidden="true">▶</span><span id="all-t">Escuchar todo</span></button>
+  <div class="voice">
+    <label for="voz">Voz</label>
+    <select id="voz"><option value="">Automática</option></select>
+    <button type="button" id="probar">Probar</button>
+    <p class="hint">¿No aparece la voz que quieres? En Configuración busquen «Voces», descarguen una en español, cierren Safari por completo y vuelvan a abrir esta página.</p>
+  </div>
+
+  <section class="sec say" style="--k:var(--c1)">
+    <h2>Qué es la accesibilidad</h2>
+    <p>Es diseñar las cosas para que todas las personas las puedan usar, sin importar cómo ven, oyen o se mueven. Una rampa, un libro en braille o un semáforo que suena son ejemplos.</p>
+    <p>En el teléfono es igual: una persona con discapacidad visual no necesita ver la pantalla, porque el teléfono le dice en voz alta lo que hay en ella.</p>
+  </section>
+
+  <section class="sec say" style="--k:var(--c2)">
+    <h2>Dónde está en el iPhone</h2>
+    <p>Todo viene incluido, en <span class="path">Configuración → Accesibilidad</span>. Para ella lo importante está en el grupo Visión:</p>
+    <ul>
+      <li><b>VoiceOver.</b> El lector de pantalla. Lee en voz alta lo que ella toca y se usa con gestos.</li>
+      <li><b>Siri.</b> Hace cosas solo hablando: llamar, mandar un mensaje, preguntar la hora.</li>
+      <li><b>Lectura en voz alta.</b> Lee un texto o una pantalla completa. Ahí se descargan las voces: busquen «Voces» en Configuración.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c3)">
+    <h2>Primer ajuste: la salida de emergencia</h2>
+    <p>Vayan a <span class="path">Configuración → Accesibilidad → Atajo de accesibilidad</span> y elijan VoiceOver.</p>
+    <p>Desde entonces, tres clics seguidos en el botón lateral encienden o apagan VoiceOver. Si alguien se pierde con VoiceOver encendido, tres clics y se apaga.</p>
+  </section>
+
+  <section class="sec say" style="--k:var(--c4)">
+    <h2>Cómo moverse en la lección con VoiceOver</h2>
+    <ul>
+      <li><b>Siguiente cosa:</b> deslizar un dedo a la derecha. A la izquierda regresa.</li>
+      <li><b>Pasar de pantalla:</b> deslizar tres dedos hacia arriba. No baja poco a poco: salta una pantalla entera y dice «página 2 de 4». Tres dedos hacia abajo regresa.</li>
+      <li><b>Saltar de parte en parte:</b> girar dos dedos en la pantalla como una perilla hasta oír «Encabezados». Luego un dedo hacia abajo salta a la siguiente parte.</li>
+      <li><b>Volver al principio:</b> tocar arriba de todo, donde está la hora, y tocar dos veces.</li>
+      <li><b>Leer todo seguido:</b> deslizar dos dedos hacia abajo. Un toque con dos dedos lo detiene.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c5)">
+    <h2>Cómo acompañarla</h2>
+    <ul>
+      <li><b>Abran juntos la lección</b> con VoiceOver encendido. La página de ella no tiene bocinas: solo habla VoiceOver.</li>
+      <li><b>Hagan el juego.</b> Son cinco preguntas. Dejen que conteste sola, aunque se equivoque.</li>
+      <li><b>Hagan el reto.</b> Que busque en casa cosas con sonido o relieve, y pregúntenle cómo las reconoce.</li>
+      <li><b>Ayuden con palabras, no con las manos.</b> La meta es que ella use el iPhone sola.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c6)">
+    <h2>Palabras de esta lección</h2>
+    <dl>
+      <dt>Accesibilidad</dt><dd>Que todas las personas puedan usar algo, cada quien a su manera.</dd>
+      <dt>Lector de pantalla</dt><dd>Programa que lee en voz alta lo que hay en la pantalla.</dd>
+      <dt>VoiceOver</dt><dd>El lector de pantalla del iPhone.</dd>
+      <dt>Siri</dt><dd>La asistente de voz del iPhone.</dd>
+    </dl>
+  </section>
+
+  <nav class="end" aria-label="Más">
+    <a href="leccion-1.html">Volver a la lección de ella</a>
+    <a href="./">Todas las lecciones</a>
+  </nav>
+</main>
+
+<script>
+(function(){
+  var SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
+  var synth=window.speechSynthesis, voices=[], chosen='', queue=[], playingAll=false, current=null;
+  var calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var sel=document.getElementById('voz');
+  try{chosen=localStorage.getItem('emva-voz')||''}catch(e){}
+  function fill(){ if(!synth) return; var all=synth.getVoices(); if(!all.length) return;
+    var es=all.filter(function(v){return /^es/i.test(v.lang)}), r=function(v){return /MX/i.test(v.lang)?0:/US/i.test(v.lang)?1:2};
+    es.sort(function(a,b){return r(a)-r(b)||a.name.localeCompare(b.name)}); voices=es.length?es:all;
+    sel.innerHTML='<option value="">Automática</option>';
+    voices.forEach(function(v){var o=document.createElement('option');o.value=v.voiceURI;o.textContent=v.name+' ('+v.lang+')';sel.appendChild(o)});
+    if(chosen&&voices.some(function(v){return v.voiceURI===chosen})) sel.value=chosen; }
+  if(synth){ fill(); if('onvoiceschanged' in synth) synth.onvoiceschanged=fill; setTimeout(fill,500); }
+  sel.addEventListener('change',function(){ chosen=sel.value; try{localStorage.setItem('emva-voz',chosen)}catch(e){} });
+  function voice(){ if(chosen){var c=voices.find(function(v){return v.voiceURI===chosen}); if(c) return c;} return voices.find(function(v){return /es[-_]MX/i.test(v.lang)})||voices.find(function(v){return /^es/i.test(v.lang)})||null; }
+  function text(el){ return Array.prototype.map.call(el.querySelectorAll('h2,p,li,dt,dd'),function(n){var t=n.textContent.replace(/\s+/g,' ').trim(); return /[.!?:]$/.test(t)?t:t+'.'}).join(' '); }
+  function marks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
+  function setAll(on){ document.getElementById('all').classList.toggle('playing',on); document.getElementById('all-i').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Detener':'Escuchar todo'; }
+  function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; marks(); setAll(false); }
+  function speak(t,el,done){ if(!synth){ if(done) done(); return; }
+    var u=new SpeechSynthesisUtterance(t), v=voice(); u.lang=v?v.lang:'es-MX'; if(v) u.voice=v;
+    u.onstart=function(){ marks(); if(el){ el.classList.add('reading'); el.querySelector('.spk').classList.add('on'); if(playingAll){ try{el.scrollIntoView({behavior:calm?'auto':'smooth',block:'start'})}catch(e){el.scrollIntoView()} } } };
+    u.onend=function(){ if(el){ el.classList.remove('reading'); el.querySelector('.spk').classList.remove('on'); } if(done) done(); };
+    synth.speak(u); }
+  document.querySelectorAll('.say').forEach(function(el){
+    var b=document.createElement('button'); b.type='button'; b.className='spk'; b.innerHTML=SPK;
+    b.setAttribute('aria-label','Escuchar: '+el.querySelector('h2').textContent);
+    b.addEventListener('click',function(){ var same=current===el; stop(); if(same) return; current=el; speak(text(el),el,function(){current=null}); });
+    el.appendChild(b); });
+  function next(){ if(!playingAll) return; var el=queue.shift(); if(!el){ stop(); return; } current=el; speak(text(el),el,next); }
+  document.getElementById('all').addEventListener('click',function(){ if(playingAll){ stop(); return; } stop(); queue=Array.prototype.slice.call(document.querySelectorAll('.say')); playingAll=true; setAll(true); next(); });
+  document.getElementById('probar').addEventListener('click',function(){ stop(); speak('Hola. Así suena esta voz.',null); });
+})();
+</script>
+</body></html>
