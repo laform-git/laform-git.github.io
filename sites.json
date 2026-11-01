@@ -130,6 +130,15 @@
     "status": "Live"
   },
   {
+    "name": "Elle Bakehouse",
+    "section": "Tech",
+    "path": "elle-bakehouse/",
+    "label": "Proyecto con Claude",
+    "blurb": "Una repostería que vende por Instagram, organizada con Claude, Trello, Notion y Google Drive, en dos fases.",
+    "langs": "Español",
+    "status": "Live"
+  },
+  {
     "name": "El mundo en voz alta",
     "section": "Tech",
     "path": "el-mundo-en-voz-alta/",
