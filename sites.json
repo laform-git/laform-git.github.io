@@ -130,6 +130,14 @@
     "status": "Live"
   },
   {
+    "name": "El mundo en voz alta",
+    "section": "Tech",
+    "path": "el-mundo-en-voz-alta/",
+    "blurb": "Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero.",
+    "langs": "Español",
+    "status": "Live"
+  },
+  {
     "name": "Architects of the Culture of Death",
     "section": "Mindforge",
     "path": "architects/",
