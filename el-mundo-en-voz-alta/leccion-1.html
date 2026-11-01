@@ -3,8 +3,8 @@
 <title>Lección 1 · El mundo en voz alta</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
 <style>
-/* Una sola página blanca. Atkinson Hyperlegible (creada por el Braille Institute) para todo.
-   Versión niña: letra muy grande, pocos botones y separados. Versión completa: una bocina por sección. */
+/* Una sola página blanca. Atkinson Hyperlegible para todo.
+   Modo VoiceOver: apaga la voz de la página para que solo hable VoiceOver. */
 :root{
   color-scheme:light;
   --bg:#ffffff; --fg:#14213d; --muted:#4a5568; --line:#e2e8f0;
@@ -25,10 +25,14 @@ button:focus-visible,select:focus-visible{outline:4px solid var(--sky);outline-o
 h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:balance}
 .where{font-size:17px;color:var(--muted);margin:0 0 18px}
 
-.switch{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px}
+.switch{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
 .switch button{min-height:76px;border-radius:18px;border:3px solid var(--sky);background:#fff;color:var(--sky);font-size:21px;font-weight:700;padding:8px 10px;line-height:1.15}
 .switch button[aria-pressed="true"]{background:var(--sky);color:#fff}
 .switch small{display:block;font-size:14px;font-weight:400;margin-top:2px}
+
+.vo{width:100%;min-height:72px;border-radius:18px;border:3px solid var(--fg);background:#fff;color:var(--fg);font-size:21px;font-weight:700;padding:8px 14px;margin-bottom:16px;line-height:1.2;text-align:center}
+.vo small{display:block;font-size:15px;font-weight:400;margin-top:2px}
+.vo[aria-pressed="true"]{background:var(--fg);color:#fff}
 
 .all{width:100%;min-height:96px;border:none;border-radius:22px;background:var(--sun);color:var(--sun-ink);font-size:28px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:14px}
 .all .ic{font-size:36px;line-height:1}
@@ -45,7 +49,13 @@ h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:bal
 .spk.on{background:var(--sun);border-color:var(--sun)}
 .reading{background:#fff8d6!important;border-radius:14px;box-shadow:0 0 0 8px #fff8d6}
 
-/* Versión niña: pocos párrafos, cada uno con su bocina */
+/* Con Modo VoiceOver: se esconden todos los controles de voz de la página */
+body.vo-on .pagevoice,body.vo-on .spk{display:none!important}
+body.vo-on .kid .say{grid-template-columns:1fr}
+body.vo-on .sec h2{margin-right:0}
+body.vo-on .voon{display:block}
+.voon{display:none;font-size:18px;color:var(--muted);margin:0 0 22px}
+
 .kid .say{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:start;padding:24px 0;border-top:2px dashed var(--line)}
 .kid .say:first-of-type{border-top:none;padding-top:4px}
 .kid .txt{min-width:0}
@@ -66,7 +76,6 @@ h1{font-size:clamp(30px,7vw,42px);line-height:1.1;margin:4px 0 2px;text-wrap:bal
 .challenge{margin-top:26px;border-left:8px solid var(--sky);background:var(--sky-bg);border-radius:14px;padding:18px}
 .challenge .say{border-top:none;padding:0}
 
-/* Versión completa: una bocina por sección */
 .sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;background:#fff;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 14px;margin-bottom:18px}
 .sec .spk{position:absolute;top:12px;right:12px;width:56px;height:56px}
 .sec h2{color:var(--k);font-size:24px;margin:0 70px 6px 0;text-wrap:balance;min-height:44px;display:flex;align-items:center}
@@ -82,7 +91,7 @@ dd{margin:2px 0 0;font-size:18px}
 .next{margin-top:30px;text-align:center;font-size:18px;color:var(--muted)}
 .next b{color:var(--fg)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-@media (prefers-reduced-motion:no-preference){.all,.answers button,.switch button{transition:transform .1s}.all:active,.answers button:active,.switch button:active{transform:scale(.97)}}
+@media (prefers-reduced-motion:no-preference){.all,.answers button,.switch button,.vo{transition:transform .1s}.all:active,.answers button:active,.switch button:active,.vo:active{transform:scale(.97)}}
 @media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}}
 </style></head><body>
 <div class="wrap">
@@ -90,18 +99,23 @@ dd{margin:2px 0 0;font-size:18px}
   <h1>Lección 1: ¿Qué es la accesibilidad?</h1>
   <p class="where">Lección 1 de 6</p>
 
+  <button type="button" class="vo" id="vo" aria-pressed="false"><span id="vo-t">Modo VoiceOver: apagado</span><small id="vo-s">Actívalo si usas VoiceOver, para que solo hable una voz</small></button>
+
   <div class="switch" role="group" aria-label="Elige la versión">
     <button type="button" id="b-kid" aria-pressed="true">Juega y aprende<small>Para ti</small></button>
     <button type="button" id="b-full" aria-pressed="false">Versión completa<small>Para mamá, papá y para ti después</small></button>
   </div>
 
-  <button type="button" class="all" id="all"><span class="ic" aria-hidden="true">▶</span><span id="all-t">Escuchar todo</span></button>
+  <p class="voon">VoiceOver lee esta página. Desliza un dedo a la derecha para pasar al siguiente párrafo.</p>
 
-  <div class="voice">
-    <label for="voz">Voz</label>
-    <select id="voz"><option value="">Automática</option></select>
-    <button type="button" id="probar">Probar</button>
-    <p class="hint">Si no aparece la voz que quieres, abre Configuración, escribe «Voces» en la barra de búsqueda, descarga una voz en español y vuelve a abrir esta página.</p>
+  <div class="pagevoice" aria-hidden="true">
+    <button type="button" class="all" id="all" tabindex="-1"><span class="ic">▶</span><span id="all-t">Escuchar todo</span></button>
+    <div class="voice">
+      <label for="voz">Voz</label>
+      <select id="voz" tabindex="-1"><option value="">Automática</option></select>
+      <button type="button" id="probar" tabindex="-1">Probar</button>
+      <p class="hint">Si no aparece la voz que quieres, abre Configuración, escribe «Voces» en la barra de búsqueda, descarga una voz en español y vuelve a abrir esta página.</p>
+    </div>
   </div>
 
   <!-- VERSIÓN NIÑA -->
@@ -125,8 +139,8 @@ dd{margin:2px 0 0;font-size:18px}
       </div></div>
       <p class="q" id="q" aria-live="polite"></p>
       <div class="answers">
-        <button type="button" class="yes" id="a-yes">Sí ✔</button>
-        <button type="button" class="nope" id="a-no">No ✘</button>
+        <button type="button" class="yes" id="a-yes">Sí</button>
+        <button type="button" class="nope" id="a-no">No</button>
       </div>
       <p class="fb" id="fb" role="status" aria-live="polite"></p>
       <p class="stars" id="stars" aria-label="Estrellas ganadas: 0"></p>
@@ -164,13 +178,13 @@ dd{margin:2px 0 0;font-size:18px}
       <h2>Primer ajuste: el atajo de accesibilidad</h2>
       <p>Antes de la lección 4, configuren el atajo. Así, apretar tres veces seguidas el botón lateral enciende o apaga VoiceOver.</p>
       <p>Vayan a <span class="path">Configuración → Accesibilidad → Atajo de accesibilidad</span> y elijan VoiceOver. Es la salida de emergencia: si alguien de la familia se pierde con VoiceOver encendido, tres clics y se apaga.</p>
-      <p class="tip"><b>Importante:</b> los botones de bocina de esta página leen el texto con una voz del teléfono. Cuando ella ya use VoiceOver, es mejor que VoiceOver lea la página, para que no hablen dos voces al mismo tiempo. Con VoiceOver, se desliza un dedo a la derecha para pasar al siguiente párrafo, y la página baja sola.</p>
+      <p class="tip"><b>Importante:</b> cuando ella use VoiceOver, toquen el botón <b>Modo VoiceOver</b> arriba de la página. Se apagan las bocinas de la página y solo habla VoiceOver. La página lo recuerda. Con VoiceOver, se desliza un dedo a la derecha para pasar al siguiente párrafo, y la página baja sola.</p>
     </div>
 
     <div class="sec say" style="--k:var(--c2)">
       <h2>Cómo acompañarla en esta lección</h2>
       <ul>
-        <li><b>Escúchenla juntos.</b> Usen el botón amarillo para oír la versión "Juega y aprende" con ella. La página baja sola mientras lee.</li>
+        <li><b>Escúchenla juntos.</b> Sin VoiceOver, usen el botón amarillo para oír la versión "Juega y aprende" con ella. La página baja sola mientras lee.</li>
         <li><b>Hagan el juego.</b> Son cinco preguntas. Dejen que ella conteste sola, aunque se equivoque.</li>
         <li><b>Hagan el reto.</b> Que busque en casa cosas con sonido o relieve. Pregúntenle cómo las reconoce.</li>
         <li><b>No lo hagan por ella.</b> El objetivo de toda la serie es que ella pueda usar el iPhone sola. Ayuden con palabras, no con las manos.</li>
@@ -200,17 +214,15 @@ dd{margin:2px 0 0;font-size:18px}
 <script>
 (function(){
   var SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
-  var synth=window.speechSynthesis, voices=[], chosen='', mode='kid', queue=[], playingAll=false, current=null;
+  var synth=window.speechSynthesis, voices=[], chosen='', mode='kid', queue=[], playingAll=false, current=null, voMode=false;
   var calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var sel=document.getElementById('voz');
   function store(k,v){try{localStorage.setItem(k,v)}catch(e){}}
   function load(k){try{return localStorage.getItem(k)}catch(e){return null}}
   chosen=load('emva-voz')||'';
 
-  // La página sigue a la voz: lleva a la vista lo que se está leyendo
   function follow(el){ if(!el||!el.scrollIntoView) return; try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'center'}); }catch(e){ el.scrollIntoView(); } }
 
-  // Menú de voces: primero español de México, luego el resto del español
   function fillVoices(){
     if(!synth) return; var all=synth.getVoices(); if(!all.length) return;
     var es=all.filter(function(v){return /^es/i.test(v.lang)});
@@ -222,14 +234,12 @@ dd{margin:2px 0 0;font-size:18px}
     if(chosen&&voices.some(function(v){return v.voiceURI===chosen})) sel.value=chosen;
   }
   if(synth){ fillVoices(); if('onvoiceschanged' in synth) synth.onvoiceschanged=fillVoices; setTimeout(fillVoices,500); }
-  else { sel.disabled=true; document.getElementById('probar').disabled=true; }
   function getVoice(){
     if(chosen){ var c=voices.find(function(v){return v.voiceURI===chosen}); if(c) return c; }
     return voices.find(function(v){return /es[-_]MX/i.test(v.lang)})||voices.find(function(v){return /^es/i.test(v.lang)})||null;
   }
   sel.addEventListener('change',function(){ chosen=sel.value; store('emva-voz',chosen); });
 
-  // Texto que se lee: encabezados, párrafos, puntos y palabras, con pausas entre ellos
   function textOf(el){
     var parts=el.querySelectorAll('h2,p,li,dt,dd');
     var list=parts.length?Array.prototype.map.call(parts,function(n){return n.textContent}):[el.textContent];
@@ -238,24 +248,24 @@ dd{margin:2px 0 0;font-size:18px}
   function clearMarks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
   function setAll(on){ var b=document.getElementById('all'); b.classList.toggle('playing',on); b.querySelector('.ic').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Detener':'Escuchar todo'; }
   function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; clearMarks(); setAll(false); }
-  function speak(text,el,done,scrollTo){
-    if(!synth){ document.getElementById('sr').textContent=text; if(done) done(); return; }
+  // En Modo VoiceOver la página nunca habla: VoiceOver lee los avisos del juego
+  function speak(text,el,done){
+    if(voMode||!synth){ if(done) setTimeout(done, voMode?3000:0); return; }
     var u=new SpeechSynthesisUtterance(text), v=getVoice(); u.lang=v?v.lang:'es-MX'; if(v) u.voice=v; u.rate=mode==='kid'?0.9:1;
-    u.onstart=function(){ clearMarks(); if(el){ el.classList.add('reading'); var b=el.querySelector('.spk'); if(b) b.classList.add('on'); } if(playingAll) follow(scrollTo||el); };
+    u.onstart=function(){ clearMarks(); if(el){ el.classList.add('reading'); var b=el.querySelector('.spk'); if(b) b.classList.add('on'); } if(playingAll) follow(el); };
     u.onend=function(){ if(el){ el.classList.remove('reading'); var b=el.querySelector('.spk'); if(b) b.classList.remove('on'); } if(done) done(); };
     synth.speak(u);
   }
   document.getElementById('probar').addEventListener('click',function(){ stop(); speak('Hola. Así suena esta voz.',null); });
 
-  // Una bocina por bloque
+  // Bocinas: visibles para quien mira, invisibles para VoiceOver
   document.querySelectorAll('.say').forEach(function(el){
     var b=document.createElement('button'); b.type='button'; b.className='spk'; b.innerHTML=SPK;
-    var h=el.querySelector('h2'); b.setAttribute('aria-label', h?'Escuchar la sección: '+h.textContent.replace(/[🎲⭐]/g,'').trim():'Escuchar este párrafo');
+    b.setAttribute('aria-hidden','true'); b.tabIndex=-1;
     b.addEventListener('click',function(){ var same=current===el; stop(); if(same) return; current=el; speak(textOf(el),el,function(){current=null}); });
     el.appendChild(b);
   });
 
-  // Escuchar todo: lee bloque por bloque y la página va bajando sola
   function next(){ if(!playingAll) return; var el=queue.shift(); if(!el){ stop(); return; } current=el; speak(textOf(el),el,next); }
   document.getElementById('all').addEventListener('click',function(){
     if(playingAll){ stop(); return; }
@@ -263,7 +273,15 @@ dd{margin:2px 0 0;font-size:18px}
     playingAll=true; setAll(true); next();
   });
 
-  // Cambiar versión
+  // Modo VoiceOver
+  var voBtn=document.getElementById('vo');
+  function setVO(on){ voMode=on; stop(); document.body.classList.toggle('vo-on',on); voBtn.setAttribute('aria-pressed',on);
+    document.getElementById('vo-t').textContent=on?'Modo VoiceOver: encendido':'Modo VoiceOver: apagado';
+    document.getElementById('vo-s').textContent=on?'Solo habla VoiceOver. Tócalo para volver a las bocinas':'Actívalo si usas VoiceOver, para que solo hable una voz';
+    store('emva-vo',on?'1':'0'); }
+  voBtn.addEventListener('click',function(){ setVO(!voMode); });
+  if(load('emva-vo')==='1') setVO(true);
+
   function setMode(m){ stop(); mode=m;
     document.getElementById('v-kid').hidden=m!=='kid'; document.getElementById('v-full').hidden=m!=='full';
     document.getElementById('b-kid').setAttribute('aria-pressed',m==='kid'); document.getElementById('b-full').setAttribute('aria-pressed',m==='full');
