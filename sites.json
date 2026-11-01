@@ -5,7 +5,10 @@
     "path": "christianity-and-islam/",
     "blurb": "What Muslims believe, the Crusades, the hard questions, and the Catholic response.",
     "status": "Live",
-    "langs": "English · Español"
+    "langs": "English · Español",
+    "name_es": "Cristianismo e Islam",
+    "blurb_es": "Lo que creen los musulmanes, las Cruzadas, las preguntas difíciles y la respuesta católica.",
+    "path_es": "christianity-and-islam/#es/"
   },
   {
     "name": "Thomas Aquinas",
@@ -14,7 +17,11 @@
     "label": "Bishop Robert Barron",
     "blurb": "God, creation, providence, the soul and happiness in the Angelic Doctor.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Tomás de Aquino",
+    "label_es": "Obispo Robert Barron",
+    "blurb_es": "Dios, la creación, la providencia, el alma y la felicidad en el Doctor Angélico.",
+    "path_es": "aquinas/#es/"
   },
   {
     "name": "Jehovah's Witnesses",
@@ -23,7 +30,11 @@
     "label": "Apologetics",
     "blurb": "Their 10 main errors and how to answer them at the door.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Testigos de Jehová",
+    "label_es": "Apologética",
+    "blurb_es": "Sus 10 errores principales y cómo responderles en la puerta.",
+    "path_es": "jehovahs-witnesses/#es/"
   },
   {
     "name": "Latter-day Saints (Mormons)",
@@ -32,7 +43,11 @@
     "label": "Apologetics",
     "blurb": "Their 10 main errors and how to answer the missionaries at the door.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Santos de los Últimos Días (mormones)",
+    "label_es": "Apologética",
+    "blurb_es": "Sus 10 errores principales y cómo responder a los misioneros en la puerta.",
+    "path_es": "mormonism/#es/"
   },
   {
     "name": "Marian Antiphons",
@@ -41,7 +56,10 @@
     "label": "Prayer",
     "blurb": "The four antiphons to Our Lady, spaced for singing.",
     "langs": "Latin · English",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Antífonas marianas",
+    "label_es": "Oración",
+    "blurb_es": "Las cuatro antífonas a Nuestra Señora, espaciadas para cantar."
   },
   {
     "name": "Bikman Study Hub",
@@ -58,7 +76,11 @@
     "label": "Dr. Benjamin Bikman",
     "blurb": "A ground-floor tour of the cell: what life is, how molecules cross the membrane, what cells are built from, how genes become proteins, how cells divide, and how they turn food into energy.",
     "status": "Live",
-    "langs": "English · Español"
+    "langs": "English · Español",
+    "name_es": "Fundamentos de Biología",
+    "label_es": "Dr. Benjamin Bikman",
+    "blurb_es": "Un recorrido desde lo más básico por la célula: qué es la vida, cómo cruzan las moléculas la membrana, de qué están hechas las células, cómo los genes se vuelven proteínas, cómo se dividen y cómo convierten la comida en energía.",
+    "path_es": "bikman-biology/#es/"
   },
   {
     "name": "Fundamentals of Physiology",
@@ -67,7 +89,11 @@
     "label": "Dr. Benjamin Bikman",
     "blurb": "A tour of how the body works, built up from the single cell to nerves, muscle, heart and lungs, gut, hormones, and fat.",
     "status": "Live",
-    "langs": "English · Español"
+    "langs": "English · Español",
+    "name_es": "Fundamentos de Fisiología",
+    "label_es": "Dr. Benjamin Bikman",
+    "blurb_es": "Cómo funciona el cuerpo, desde la célula hasta los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa.",
+    "path_es": "bikman-physiology/#es/"
   },
   {
     "name": "Essentials of Endocrinology",
@@ -76,7 +102,11 @@
     "label": "Dr. Benjamin Bikman",
     "blurb": "How hormones are built, sent, controlled, and read, from the brain's control axes to the thyroid, adrenals, gonads, pancreas, and fat.",
     "status": "Live",
-    "langs": "English · Español"
+    "langs": "English · Español",
+    "name_es": "Esenciales de Endocrinología",
+    "label_es": "Dr. Benjamin Bikman",
+    "blurb_es": "Cómo se fabrican, envían, controlan y leen las hormonas: de los ejes de control del cerebro a la tiroides, las suprarrenales, las gónadas, el páncreas y la grasa.",
+    "path_es": "bikman-endocrinology/#es/"
   },
   {
     "name": "Why We Get Sick",
@@ -85,7 +115,11 @@
     "label": "Dr. Benjamin Bikman",
     "blurb": "Insulin resistance: what it is, the diseases it drives, and how to reverse it.",
     "status": "Live",
-    "langs": "English · Español"
+    "langs": "English · Español",
+    "name_es": "Por qué enfermamos",
+    "label_es": "Dr. Benjamin Bikman",
+    "blurb_es": "La resistencia a la insulina: qué es, las enfermedades que provoca y cómo revertirla.",
+    "path_es": "bikman-why-we-get-sick/#es/"
   },
   {
     "name": "Insulin & Glucose",
@@ -93,7 +127,10 @@
     "path": "insulin-resistance/",
     "blurb": "What insulin resistance is, how it develops in the cell, where it travels in the body, and how to reverse it. 5 notes.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Insulina y Glucosa",
+    "blurb_es": "Qué es la resistencia a la insulina, cómo se desarrolla en la célula, por dónde viaja en el cuerpo y cómo revertirla. 5 notas.",
+    "path_es": "insulin-resistance/#es/"
   },
   {
     "name": "Perfect Sleep",
@@ -101,7 +138,10 @@
     "path": "perfect-sleep/",
     "blurb": "What sleep is made of, why it breaks at night, and every factor that acts on it. 21 notes.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Sueño Perfecto",
+    "blurb_es": "De qué está hecho el sueño, por qué se rompe en la noche y cada factor que lo afecta. 21 notas.",
+    "path_es": "perfect-sleep/#es/"
   },
   {
     "name": "The Pharmaceutical Industry",
@@ -110,7 +150,11 @@
     "label": "Gerald Posner",
     "blurb": "Snake oil to pandemic profits: how drugs are sold, regulated and priced.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "La industria farmacéutica",
+    "label_es": "Gerald Posner",
+    "blurb_es": "Del aceite de serpiente a las ganancias de la pandemia: cómo se venden, regulan y ponen precio a los medicamentos.",
+    "path_es": "pharma-industry/#es/"
   },
   {
     "name": "Introduction to Nutrition",
@@ -119,15 +163,22 @@
     "label": "Max Lugavere",
     "blurb": "Macros, satiety, timing, controversies, genius foods and the microbiome.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Introducción a la nutrición",
+    "label_es": "Max Lugavere",
+    "blurb_es": "Macronutrientes, saciedad, horarios, controversias, alimentos para el cerebro y la microbiota.",
+    "path_es": "nutrition/#es/"
   },
   {
     "name": "Claude Tips",
     "section": "Tech",
     "path": "claude-tips/",
-    "blurb": "Simple guides for getting started with Claude.",
+    "blurb": "Simple guides for getting started with Claude, from the basics to advanced use.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Claude Tips",
+    "blurb_es": "Guías sencillas para empezar a usar Claude, de lo básico a lo avanzado.",
+    "path_es": "claude-tips/index-es.html"
   },
   {
     "name": "Elle Bakehouse",
@@ -153,6 +204,10 @@
     "label": "DeMarco & Wiker",
     "blurb": "Twenty-three thinkers in seven categories behind the culture of death.",
     "langs": "English · Español",
-    "status": "Live"
+    "status": "Live",
+    "name_es": "Arquitectos de la Cultura de la Muerte",
+    "label_es": "DeMarco y Wiker",
+    "blurb_es": "Veintitrés pensadores en siete categorías detrás de la cultura de la muerte.",
+    "path_es": "architects/#es/"
   }
 ]
