@@ -14,6 +14,7 @@
   --font:"Atkinson Hyperlegible",Verdana,"Segoe UI",system-ui,sans-serif;
 }
 *{box-sizing:border-box}
+html{scroll-padding-top:20px}
 body{background:var(--bg);color:var(--fg);font-family:var(--font);line-height:1.5;margin:0}
 .wrap{max-width:760px;margin:0 auto;padding-block:max(20px,env(safe-area-inset-top,0px)) 60px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 button,select{font-family:var(--font)}
@@ -163,13 +164,13 @@ dd{margin:2px 0 0;font-size:18px}
       <h2>Primer ajuste: el atajo de accesibilidad</h2>
       <p>Antes de la lección 4, configuren el atajo. Así, apretar tres veces seguidas el botón lateral enciende o apaga VoiceOver.</p>
       <p>Vayan a <span class="path">Configuración → Accesibilidad → Atajo de accesibilidad</span> y elijan VoiceOver. Es la salida de emergencia: si alguien de la familia se pierde con VoiceOver encendido, tres clics y se apaga.</p>
-      <p class="tip"><b>Importante:</b> los botones de bocina de esta página leen el texto con una voz del teléfono. Cuando ella ya use VoiceOver, es mejor que VoiceOver lea la página, para que no hablen dos voces al mismo tiempo.</p>
+      <p class="tip"><b>Importante:</b> los botones de bocina de esta página leen el texto con una voz del teléfono. Cuando ella ya use VoiceOver, es mejor que VoiceOver lea la página, para que no hablen dos voces al mismo tiempo. Con VoiceOver, se desliza un dedo a la derecha para pasar al siguiente párrafo, y la página baja sola.</p>
     </div>
 
     <div class="sec say" style="--k:var(--c2)">
       <h2>Cómo acompañarla en esta lección</h2>
       <ul>
-        <li><b>Escúchenla juntos.</b> Usen el botón amarillo para oír la versión "Juega y aprende" con ella.</li>
+        <li><b>Escúchenla juntos.</b> Usen el botón amarillo para oír la versión "Juega y aprende" con ella. La página baja sola mientras lee.</li>
         <li><b>Hagan el juego.</b> Son cinco preguntas. Dejen que ella conteste sola, aunque se equivoque.</li>
         <li><b>Hagan el reto.</b> Que busque en casa cosas con sonido o relieve. Pregúntenle cómo las reconoce.</li>
         <li><b>No lo hagan por ella.</b> El objetivo de toda la serie es que ella pueda usar el iPhone sola. Ayuden con palabras, no con las manos.</li>
@@ -200,10 +201,14 @@ dd{margin:2px 0 0;font-size:18px}
 (function(){
   var SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
   var synth=window.speechSynthesis, voices=[], chosen='', mode='kid', queue=[], playingAll=false, current=null;
+  var calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var sel=document.getElementById('voz');
   function store(k,v){try{localStorage.setItem(k,v)}catch(e){}}
   function load(k){try{return localStorage.getItem(k)}catch(e){return null}}
   chosen=load('emva-voz')||'';
+
+  // La página sigue a la voz: lleva a la vista lo que se está leyendo
+  function follow(el){ if(!el||!el.scrollIntoView) return; try{ el.scrollIntoView({behavior:calm?'auto':'smooth',block:'center'}); }catch(e){ el.scrollIntoView(); } }
 
   // Menú de voces: primero español de México, luego el resto del español
   function fillVoices(){
@@ -233,10 +238,10 @@ dd{margin:2px 0 0;font-size:18px}
   function clearMarks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
   function setAll(on){ var b=document.getElementById('all'); b.classList.toggle('playing',on); b.querySelector('.ic').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Detener':'Escuchar todo'; }
   function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; clearMarks(); setAll(false); }
-  function speak(text,el,done){
+  function speak(text,el,done,scrollTo){
     if(!synth){ document.getElementById('sr').textContent=text; if(done) done(); return; }
     var u=new SpeechSynthesisUtterance(text), v=getVoice(); u.lang=v?v.lang:'es-MX'; if(v) u.voice=v; u.rate=mode==='kid'?0.9:1;
-    u.onstart=function(){ clearMarks(); if(el){ el.classList.add('reading'); var b=el.querySelector('.spk'); if(b) b.classList.add('on'); } };
+    u.onstart=function(){ clearMarks(); if(el){ el.classList.add('reading'); var b=el.querySelector('.spk'); if(b) b.classList.add('on'); } if(playingAll) follow(scrollTo||el); };
     u.onend=function(){ if(el){ el.classList.remove('reading'); var b=el.querySelector('.spk'); if(b) b.classList.remove('on'); } if(done) done(); };
     synth.speak(u);
   }
@@ -250,7 +255,7 @@ dd{margin:2px 0 0;font-size:18px}
     el.appendChild(b);
   });
 
-  // Escuchar todo
+  // Escuchar todo: lee bloque por bloque y la página va bajando sola
   function next(){ if(!playingAll) return; var el=queue.shift(); if(!el){ stop(); return; } current=el; speak(textOf(el),el,next); }
   document.getElementById('all').addEventListener('click',function(){
     if(playingAll){ stop(); return; }
@@ -282,10 +287,10 @@ dd{margin:2px 0 0;font-size:18px}
     if(right){ stars++; st.textContent='⭐'.repeat(stars); st.setAttribute('aria-label','Estrellas ganadas: '+stars); }
     var msg=right?it[2]:'Casi. '+(it[1]?'Sí es accesibilidad. ':'No es accesibilidad. ')+it[2].replace(/^¡[^!]*! /,'');
     fb.textContent=msg; stop();
-    speak(msg,null,function(){ i++; if(i<items.length){ show(); speak(qEl.textContent,null); } else { var end='¡Terminaste! Ganaste '+stars+' de '+items.length+' estrellas.'; qEl.textContent=end; fb.textContent=''; again.hidden=false; speak(end,null); } });
+    speak(msg,null,function(){ i++; if(i<items.length){ show(); speak(qEl.textContent,null); } else { var end='¡Terminaste! Ganaste '+stars+' de '+items.length+' estrellas.'; qEl.textContent=end; fb.textContent=''; again.hidden=false; follow(again); speak(end,null); } });
   }
   yes.addEventListener('click',function(){answer(true)}); no.addEventListener('click',function(){answer(false)});
-  again.addEventListener('click',function(){ i=0; stars=0; st.textContent=''; st.setAttribute('aria-label','Estrellas ganadas: 0'); again.hidden=true; show(); stop(); speak(qEl.textContent,null); });
+  again.addEventListener('click',function(){ i=0; stars=0; st.textContent=''; st.setAttribute('aria-label','Estrellas ganadas: 0'); again.hidden=true; show(); stop(); follow(qEl); speak(qEl.textContent,null); });
   show();
 })();
 </script>
