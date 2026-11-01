@@ -1,0 +1,100 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Lesson 1 · El mundo en voz alta</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Her page: clean, no speakers. VoiceOver reads it.
+   Just three parts with headings and two game buttons. */
+:root{color-scheme:light;--fg:#14213d;--muted:#4a5568;--line:#e2e8f0;--sky:#1d4ed8;--sky-bg:#e8efff;--sun:#ffd23f;--ok:#0f7a4a;--ok-bg:#e6f6ee;--no:#b42318;--no-bg:#fdecea;--font:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif}
+*{box-sizing:border-box}
+body{background:#fff;color:var(--fg);font-family:var(--font);margin:0;line-height:1.45}
+.wrap{max-width:720px;margin:0 auto;padding:max(24px,env(safe-area-inset-top,0px)) max(18px,env(safe-area-inset-right,0px)) 60px max(18px,env(safe-area-inset-left,0px))}
+h1{font-size:clamp(32px,8vw,44px);line-height:1.1;margin:0 0 28px}
+h2{font-size:clamp(30px,7.4vw,38px);margin:0 0 14px;color:var(--sky)}
+p{font-size:clamp(27px,6.6vw,33px);margin:0 0 .7em}
+section{padding:30px 0;border-top:3px solid var(--line)}
+button{font-family:var(--font);cursor:pointer}
+button:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset:4px}
+.q{min-height:3em}
+.answers{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:8px}
+.answers button{min-height:130px;border-radius:24px;font-size:34px;font-weight:700;border:4px solid}
+.yes{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+.nope{background:var(--no-bg);color:var(--no);border-color:var(--no)}
+.answers button:disabled{opacity:.55}
+.fb{font-weight:700;min-height:1.5em;margin-top:18px}
+.again{width:100%;min-height:96px;margin-top:10px;border-radius:24px;border:4px solid var(--sky);background:#fff;color:var(--sky);font-size:30px;font-weight:700}
+.end{display:grid;grid-template-columns:1fr 1fr;margin-top:30px;background:#f5f8ff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.end a{display:grid;grid-template-columns:36px minmax(0,1fr);column-gap:10px;align-items:center;align-content:center;padding:14px 12px;font-size:18px;font-weight:700;line-height:1.25;color:var(--fg);text-decoration:none;min-width:0}
+.end a::before{content:"\2190";grid-column:1;grid-row:1/3;width:32px;height:32px;border-radius:50%;border:2px solid var(--sky);color:var(--sky);display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a small{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.end a.next{grid-template-columns:minmax(0,1fr) 36px;text-align:right}
+.end a.next::before{content:none}
+.end a.next::after{content:"\2192";grid-column:2;grid-row:1/3;width:32px;height:32px;border-radius:50%;background:var(--sky);border:2px solid var(--sky);color:#fff;display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a+a{border-left:1px solid var(--line)}
+.end a:active{background:var(--sky-bg)}
+.langsw{display:flex;justify-content:flex-end;margin:0 0 12px}.langsw a{font-size:17px;font-weight:700;color:var(--sky);border:2px solid var(--sky);border-radius:999px;padding:6px 16px;text-decoration:none}
+</style></head><body>
+<main class="wrap">
+  <nav class="langsw" aria-label="Language"><a href="leccion-1.html" lang="es">Español</a></nav>
+  <h1>Lesson 1: What is accessibility?</h1>
+
+  <section aria-labelledby="h1s">
+    <h2 id="h1s">Story</h2>
+    <p>Hi! Today you are going to learn a new word: accessibility.</p>
+    <p>It is a long word, but it means something easy: everyone can use things, each in their own way.</p>
+    <p>You get to know the world with your ears and your hands. That is a superpower!</p>
+    <p>Your iPhone uses your superpower. When you touch the screen, it tells you out loud what is there.</p>
+    <p>And if you talk to it, it listens. You can ask it to call Mom or to tell you the time.</p>
+  </section>
+
+  <section aria-labelledby="h2s">
+    <h2 id="h2s">Game</h2>
+    <p>I tell you about a thing. You decide: does it help everyone use it?</p>
+    <p class="q" id="q"></p>
+    <div class="answers">
+      <button type="button" class="yes" id="a-yes">Yes</button>
+      <button type="button" class="nope" id="a-no">No</button>
+    </div>
+    <p class="fb" id="fb" role="status" aria-live="polite"></p>
+    <button type="button" class="again" id="again" hidden>Play again</button>
+  </section>
+
+  <section aria-labelledby="h3s">
+    <h2 id="h3s">Your challenge for today</h2>
+    <p>Look around your home for something with a special sound or texture. It could be a raised button, an alarm or a toy.</p>
+    <p>Tell Mom or Dad what you found!</p>
+  </section>
+
+  <nav class="end" aria-label="More">
+    <a href="index-en.html"><small>Home</small>All lessons</a>
+    <a class="next" href="leccion-1-padres-en.html"><small>Next</small>Notes for Mom and Dad</a>
+  </nav>
+</main>
+
+<script>
+(function(){
+  var items=[
+    ['A traffic light that goes beep, beep, so you know when to cross the street.',true,'Yes! The sound tells everyone when to cross.'],
+    ['A book written in braille.',true,'Yes! With braille you read with your fingers.'],
+    ['A door that only opens with a hidden key nobody can find.',false,'Very good! Nobody can use it, so it is not accessible.'],
+    ['An iPhone that tells you out loud what you touch.',true,'Yes! That is VoiceOver, and you are going to meet it very soon.'],
+    ['A game that only works if you can see the colors.',false,'Exactly! An accessible game can also be played with sounds.']
+  ], i=0, stars=0;
+  var q=document.getElementById('q'), fb=document.getElementById('fb'), again=document.getElementById('again');
+  var yes=document.getElementById('a-yes'), no=document.getElementById('a-no');
+  function show(){ q.textContent='Question '+(i+1)+' of '+items.length+'. '+items[i][0]; yes.disabled=no.disabled=false; }
+  function answer(v){
+    if(yes.disabled) return; yes.disabled=no.disabled=true;
+    var it=items[i], right=(v===it[1]); if(right) stars++;
+    var msg=right?it[2]:'Almost. '+(it[1]?'That is accessibility. ':'That is not accessibility. ')+it[2].replace(/^[^!]*! /,'');
+    i++;
+    if(i<items.length){ show(); fb.textContent=msg+' Next. '+q.textContent; }
+    else { q.textContent='You finished! You won '+stars+' of '+items.length+' stars.'; fb.textContent=msg+' '+q.textContent; again.hidden=false; }
+  }
+  yes.addEventListener('click',function(){answer(true)});
+  no.addEventListener('click',function(){answer(false)});
+  again.addEventListener('click',function(){ i=0; stars=0; again.hidden=true; show(); fb.textContent='Again. '+q.textContent; yes.focus(); });
+  show();
+})();
+</script>
+</body></html>
