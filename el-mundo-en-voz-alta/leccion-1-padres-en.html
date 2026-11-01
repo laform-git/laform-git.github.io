@@ -1,0 +1,155 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Lesson 1 · Notes for Mom and Dad · El mundo en voz alta</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Notes for parents: a speaker per section and a button to hear everything. */
+:root{color-scheme:light;--fg:#14213d;--muted:#4a5568;--line:#e2e8f0;--sky:#1d4ed8;--sky-bg:#e8efff;--sun:#ffd23f;--sun-ink:#5c4400;
+  --c1:#1d4ed8;--c2:#0f7a4a;--c3:#b45309;--c4:#7a3fb8;--c5:#b42318;--c6:#0e7490;--font:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif}
+*{box-sizing:border-box}
+body{background:#fff;color:var(--fg);font-family:var(--font);margin:0;line-height:1.55}
+.wrap{max-width:740px;margin:0 auto;padding:max(22px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 60px max(16px,env(safe-area-inset-left,0px))}
+button,select{font-family:var(--font);cursor:pointer}
+button:focus-visible,select:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset:3px}
+.kicker{font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--sky);margin:0}
+h1{font-size:clamp(28px,6.6vw,38px);line-height:1.15;margin:4px 0 18px}
+.all{width:100%;min-height:84px;border:none;border-radius:20px;background:var(--sun);color:var(--sun-ink);font-size:25px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:12px}
+.all.playing{background:var(--fg);color:#fff}
+.voice{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;margin:12px 0 26px;font-size:17px}
+.voice label{font-weight:700}
+.voice select{min-width:0;width:100%;min-height:50px;font-size:16px;border:2px solid var(--line);border-radius:12px;padding:6px 10px;background:#fff;color:var(--fg)}
+.voice button{min-height:50px;border-radius:12px;border:2px solid var(--sky);background:#fff;color:var(--sky);font-size:16px;font-weight:700;padding:0 14px}
+.voice .hint{grid-column:1/-1;font-size:15px;color:var(--muted);margin:0}
+.sec{position:relative;border-top:6px solid var(--k);border-radius:4px 4px 16px 16px;box-shadow:0 0 0 1px var(--line) inset;padding:16px 18px 12px;margin-bottom:18px}
+.sec h2{color:var(--k);font-size:23px;margin:0 72px 8px 0;min-height:52px;display:flex;align-items:center}
+.spk{position:absolute;top:12px;right:12px;width:58px;height:58px;border-radius:50%;border:2px solid var(--line);background:#fff;color:var(--sky);display:grid;place-items:center}
+.spk svg{width:55%;height:55%}
+.spk.on{background:var(--sun);border-color:var(--sun)}
+.reading{background:#fff8d6}
+p,li{font-size:19px}
+p{margin:0 0 10px}
+ul{margin:4px 0 8px;padding-left:22px}
+li{margin:6px 0}
+.path{font-weight:700;background:var(--sky-bg);color:var(--sky);border-radius:8px;padding:1px 8px}
+dt{font-weight:700;font-size:19px;color:var(--c6);margin-top:10px}
+dd{margin:2px 0 0;font-size:18px}
+@media (max-width:420px){.voice{grid-template-columns:1fr auto}.voice label{grid-column:1/-1}}
+.end{display:grid;grid-template-columns:1fr 1fr;margin-top:30px;background:#f5f8ff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.end a{display:grid;grid-template-columns:36px minmax(0,1fr);column-gap:10px;align-items:center;align-content:center;padding:14px 12px;font-size:18px;font-weight:700;line-height:1.25;color:var(--fg);text-decoration:none;min-width:0}
+.end a::before{content:"\2190";grid-column:1;grid-row:1/3;width:32px;height:32px;border-radius:50%;border:2px solid var(--sky);color:var(--sky);display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a small{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.end a.next{grid-template-columns:minmax(0,1fr) 36px;text-align:right}
+.end a.next::before{content:none}
+.end a.next::after{content:"\2192";grid-column:2;grid-row:1/3;width:32px;height:32px;border-radius:50%;background:var(--sky);border:2px solid var(--sky);color:#fff;display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
+.end a+a{border-left:1px solid var(--line)}
+.end a:active{background:var(--sky-bg)}
+.langsw{display:flex;justify-content:flex-end;margin:0 0 12px}.langsw a{font-size:17px;font-weight:700;color:var(--sky);border:2px solid var(--sky);border-radius:999px;padding:6px 16px;text-decoration:none}
+</style></head><body>
+<main class="wrap">
+  <nav class="langsw" aria-label="Language"><a href="leccion-1-padres.html" lang="es">Español</a></nav>
+  <p class="kicker">El mundo en voz alta · Lesson 1</p>
+  <h1>Notes for Mom and Dad</h1>
+
+  <button type="button" class="all" id="all"><span id="all-i" aria-hidden="true">▶</span><span id="all-t">Listen to all</span></button>
+  <div class="voice">
+    <label for="voz">Voice</label>
+    <select id="voz"><option value="">Automatic</option></select>
+    <button type="button" id="probar">Test</button>
+    <p class="hint">Don't see the voice you want? In Settings, search for "Voices", download an English one, close Safari completely and open this page again.</p>
+  </div>
+
+  <section class="sec say" style="--k:var(--c1)">
+    <h2>What accessibility is</h2>
+    <p>It means designing things so everyone can use them, no matter how they see, hear or move. A ramp, a braille book or a traffic light that beeps are examples.</p>
+    <p>On the phone it's the same: a person with a visual disability doesn't need to see the screen, because the phone tells them out loud what is on it.</p>
+  </section>
+
+  <section class="sec say" style="--k:var(--c2)">
+    <h2>Where it is on the iPhone</h2>
+    <p>It's all built in, in <span class="path">Settings → Accessibility</span>. For her, what matters is in the Vision group:</p>
+    <ul>
+      <li><b>VoiceOver.</b> The screen reader. It reads out loud what she touches and is used with gestures.</li>
+      <li><b>Siri.</b> Does things just by talking: call, send a message, ask the time.</li>
+      <li><b>Spoken Content.</b> Reads a text or a whole screen out loud. That's where voices are downloaded: search for "Voices" in Settings.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c3)">
+    <h2>First setting: the emergency exit</h2>
+    <p>Go to <span class="path">Settings → Accessibility → Accessibility Shortcut</span> and choose VoiceOver.</p>
+    <p>From then on, three quick clicks on the side button turn VoiceOver on or off. If someone gets lost with VoiceOver on, three clicks and it turns off.</p>
+  </section>
+
+  <section class="sec say" style="--k:var(--c4)">
+    <h2>How to move through the lesson with VoiceOver</h2>
+    <ul>
+      <li><b>Next item:</b> swipe one finger to the right. To the left goes back.</li>
+      <li><b>Next screen:</b> swipe three fingers up. It doesn't scroll little by little: it jumps a whole screen and says "page 2 of 4". Three fingers down goes back.</li>
+      <li><b>Jump from part to part:</b> turn two fingers on the screen like a knob until you hear "Headings". Then one finger down jumps to the next part.</li>
+      <li><b>Back to the top:</b> touch the very top, where the time is, and double-tap.</li>
+      <li><b>Read everything in a row:</b> swipe two fingers down. A two-finger tap stops it.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c5)">
+    <h2>How to support her</h2>
+    <ul>
+      <li><b>Open the lesson together</b> with VoiceOver on. Her page has no speaker buttons: only VoiceOver talks.</li>
+      <li><b>Play the game.</b> There are five questions. Let her answer on her own, even if she gets it wrong.</li>
+      <li><b>Do the challenge.</b> Have her look around the house for things with sound or raised texture, and ask her how she recognizes them.</li>
+      <li><b>Help with words, not with your hands.</b> The goal is for her to use the iPhone on her own.</li>
+    </ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c6)">
+    <h2>Words in this lesson</h2>
+    <dl>
+      <dt>Accessibility</dt><dd>Everyone being able to use something, each in their own way.</dd>
+      <dt>Screen reader</dt><dd>A program that reads out loud what is on the screen.</dd>
+      <dt>VoiceOver</dt><dd>The iPhone's screen reader.</dd>
+      <dt>Siri</dt><dd>The iPhone's voice assistant.</dd>
+    </dl>
+  </section>
+
+  <nav class="end" aria-label="More">
+    <a href="leccion-1-en.html"><small>Back</small>Her lesson</a>
+    <a class="next" href="index-en.html"><small>Home</small>All lessons</a>
+  </nav>
+</main>
+
+<script>
+(function(){
+  var SPK='<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
+  var synth=window.speechSynthesis, voices=[], chosen='', queue=[], playingAll=false, current=null;
+  var calm=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var sel=document.getElementById('voz');
+  try{chosen=localStorage.getItem('emva-voice-en')||''}catch(e){}
+  function fill(){ if(!synth) return; var all=synth.getVoices(); if(!all.length) return;
+    var es=all.filter(function(v){return /^en/i.test(v.lang)}), r=function(v){return /US/i.test(v.lang)?0:/GB/i.test(v.lang)?1:2};
+    es.sort(function(a,b){return r(a)-r(b)||a.name.localeCompare(b.name)}); voices=es.length?es:all;
+    sel.innerHTML='<option value="">Automatic</option>';
+    voices.forEach(function(v){var o=document.createElement('option');o.value=v.voiceURI;o.textContent=v.name+' ('+v.lang+')';sel.appendChild(o)});
+    if(chosen&&voices.some(function(v){return v.voiceURI===chosen})) sel.value=chosen; }
+  if(synth){ fill(); if('onvoiceschanged' in synth) synth.onvoiceschanged=fill; setTimeout(fill,500); }
+  sel.addEventListener('change',function(){ chosen=sel.value; try{localStorage.setItem('emva-voice-en',chosen)}catch(e){} });
+  function voice(){ if(chosen){var c=voices.find(function(v){return v.voiceURI===chosen}); if(c) return c;} return voices.find(function(v){return /en[-_]US/i.test(v.lang)})||voices.find(function(v){return /^en/i.test(v.lang)})||null; }
+  function text(el){ return Array.prototype.map.call(el.querySelectorAll('h2,p,li,dt,dd'),function(n){var t=n.textContent.replace(/\s+/g,' ').trim(); return /[.!?:]$/.test(t)?t:t+'.'}).join(' '); }
+  function marks(){ document.querySelectorAll('.reading').forEach(function(e){e.classList.remove('reading')}); document.querySelectorAll('.spk.on').forEach(function(b){b.classList.remove('on')}); }
+  function setAll(on){ document.getElementById('all').classList.toggle('playing',on); document.getElementById('all-i').textContent=on?'■':'▶'; document.getElementById('all-t').textContent=on?'Stop':'Listen to all'; }
+  function stop(){ if(synth) synth.cancel(); queue=[]; playingAll=false; current=null; marks(); setAll(false); }
+  function speak(t,el,done){ if(!synth){ if(done) done(); return; }
+    var u=new SpeechSynthesisUtterance(t), v=voice(); u.lang=v?v.lang:'en-US'; if(v) u.voice=v;
+    u.onstart=function(){ marks(); if(el){ el.classList.add('reading'); el.querySelector('.spk').classList.add('on'); if(playingAll){ try{el.scrollIntoView({behavior:calm?'auto':'smooth',block:'start'})}catch(e){el.scrollIntoView()} } } };
+    u.onend=function(){ if(el){ el.classList.remove('reading'); el.querySelector('.spk').classList.remove('on'); } if(done) done(); };
+    synth.speak(u); }
+  document.querySelectorAll('.say').forEach(function(el){
+    var b=document.createElement('button'); b.type='button'; b.className='spk'; b.innerHTML=SPK;
+    b.setAttribute('aria-label','Listen: '+el.querySelector('h2').textContent);
+    b.addEventListener('click',function(){ var same=current===el; stop(); if(same) return; current=el; speak(text(el),el,function(){current=null}); });
+    el.appendChild(b); });
+  function next(){ if(!playingAll) return; var el=queue.shift(); if(!el){ stop(); return; } current=el; speak(text(el),el,next); }
+  document.getElementById('all').addEventListener('click',function(){ if(playingAll){ stop(); return; } stop(); queue=Array.prototype.slice.call(document.querySelectorAll('.say')); playingAll=true; setAll(true); next(); });
+  document.getElementById('probar').addEventListener('click',function(){ stop(); speak('Hello. This is how this voice sounds.',null); });
+})();
+</script>
+</body></html>
