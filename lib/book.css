@@ -123,3 +123,11 @@ article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;backgrou
 .crumbs .libbtn:hover{filter:brightness(1.08)}
 .crumbs.sticky .libbtn{padding:6px 13px;min-height:34px;font-size:14px}
 @media (max-width:520px){.crumbs.sticky .bk{display:none}.crumbs:not(.sticky) .libbtn{order:-2}}
+
+/* series tile on the cover */
+.ptile{position:relative;width:132px;height:132px;border-radius:16px;color:#fff;background:linear-gradient(180deg,var(--ta),var(--tb));box-shadow:0 2px 8px rgba(0,0,0,.18);margin:0 0 18px}
+.ptile i{position:absolute;inset:12px;border:3px solid #fff}
+.ptile b{position:absolute;left:22px;top:34px;font:700 52px/1 -apple-system,"Helvetica Neue",Arial,sans-serif;letter-spacing:-1.5px}
+.ptile em{position:absolute;top:20px;right:22px;font:600 15px/1 -apple-system,"Helvetica Neue",Arial,sans-serif;font-style:normal}
+.ptile small{position:absolute;left:14px;right:14px;bottom:20px;text-align:center;font:600 11px/1.1 -apple-system,"Helvetica Neue",Arial,sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (min-width:700px){.ptile{float:right;margin:4px 0 12px 24px;width:150px;height:150px}.ptile b{font-size:60px;top:38px;left:26px}.ptile small{font-size:12px;bottom:24px}header.hero{display:flow-root}}

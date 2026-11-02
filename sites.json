@@ -8,7 +8,9 @@
     "langs": "English · Español",
     "name_es": "Cristianismo e Islam",
     "blurb_es": "Lo que creen los musulmanes, las Cruzadas, las preguntas difíciles y la respuesta católica.",
-    "path_es": "christianity-and-islam/#es/"
+    "path_es": "christianity-and-islam/#es/",
+    "sym": "Ci",
+    "num": 1
   },
   {
     "name": "The Church",
@@ -21,7 +23,9 @@
     "name_es": "La Iglesia",
     "label_es": "Apologética",
     "blurb_es": "Una serie de estudio para el escéptico honesto: lo que la Iglesia construyó, puesto a prueba frente a la evidencia, y por qué.",
-    "path_es": "the-church/#es/"
+    "path_es": "the-church/#es/",
+    "sym": "Ch",
+    "num": 2
   },
   {
     "name": "Thomas Aquinas",
@@ -34,7 +38,9 @@
     "name_es": "Tomás de Aquino",
     "label_es": "Obispo Robert Barron",
     "blurb_es": "Dios, la creación, la providencia, el alma y la felicidad en el Doctor Angélico.",
-    "path_es": "aquinas/#es/"
+    "path_es": "aquinas/#es/",
+    "sym": "Aq",
+    "num": 3
   },
   {
     "name": "Jehovah's Witnesses",
@@ -47,7 +53,9 @@
     "name_es": "Testigos de Jehová",
     "label_es": "Apologética",
     "blurb_es": "Sus 10 errores principales y cómo responderles en la puerta.",
-    "path_es": "jehovahs-witnesses/#es/"
+    "path_es": "jehovahs-witnesses/#es/",
+    "sym": "Jw",
+    "num": 4
   },
   {
     "name": "Latter-day Saints (Mormons)",
@@ -60,7 +68,9 @@
     "name_es": "Santos de los Últimos Días (mormones)",
     "label_es": "Apologética",
     "blurb_es": "Sus 10 errores principales y cómo responder a los misioneros en la puerta.",
-    "path_es": "mormonism/#es/"
+    "path_es": "mormonism/#es/",
+    "sym": "Ld",
+    "num": 5
   },
   {
     "name": "Bikman Study Hub",
@@ -81,7 +91,9 @@
     "name_es": "Fundamentos de Biología",
     "label_es": "Dr. Benjamin Bikman",
     "blurb_es": "Un recorrido desde lo más básico por la célula: qué es la vida, cómo cruzan las moléculas la membrana, de qué están hechas las células, cómo los genes se vuelven proteínas, cómo se dividen y cómo convierten la comida en energía.",
-    "path_es": "bikman-biology/#es/"
+    "path_es": "bikman-biology/#es/",
+    "sym": "Bi",
+    "num": 6
   },
   {
     "name": "Fundamentals of Physiology",
@@ -94,7 +106,9 @@
     "name_es": "Fundamentos de Fisiología",
     "label_es": "Dr. Benjamin Bikman",
     "blurb_es": "Cómo funciona el cuerpo, desde la célula hasta los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa.",
-    "path_es": "bikman-physiology/#es/"
+    "path_es": "bikman-physiology/#es/",
+    "sym": "Ph",
+    "num": 7
   },
   {
     "name": "Essentials of Endocrinology",
@@ -107,7 +121,9 @@
     "name_es": "Esenciales de Endocrinología",
     "label_es": "Dr. Benjamin Bikman",
     "blurb_es": "Cómo se fabrican, envían, controlan y leen las hormonas: de los ejes de control del cerebro a la tiroides, las suprarrenales, las gónadas, el páncreas y la grasa.",
-    "path_es": "bikman-endocrinology/#es/"
+    "path_es": "bikman-endocrinology/#es/",
+    "sym": "En",
+    "num": 8
   },
   {
     "name": "Why We Get Sick",
@@ -120,7 +136,9 @@
     "name_es": "Por qué nos enfermamos",
     "label_es": "Dr. Benjamin Bikman",
     "blurb_es": "La resistencia a la insulina: qué es, las enfermedades que provoca y cómo revertirla.",
-    "path_es": "bikman-why-we-get-sick/#es/"
+    "path_es": "bikman-why-we-get-sick/#es/",
+    "sym": "Ws",
+    "num": 9
   },
   {
     "name": "Insulin & Glucose",
@@ -131,7 +149,9 @@
     "status": "Live",
     "name_es": "Insulina y Glucosa",
     "blurb_es": "Qué es la resistencia a la insulina, cómo se desarrolla en la célula, por dónde viaja en el cuerpo y cómo revertirla. 5 notas.",
-    "path_es": "insulin-resistance/#es/"
+    "path_es": "insulin-resistance/#es/",
+    "sym": "Ig",
+    "num": 10
   },
   {
     "name": "Perfect Sleep",
@@ -142,7 +162,9 @@
     "status": "Live",
     "name_es": "Sueño Perfecto",
     "blurb_es": "De qué está hecho el sueño, por qué se rompe en la noche y cada factor que lo afecta. 21 notas.",
-    "path_es": "perfect-sleep/#es/"
+    "path_es": "perfect-sleep/#es/",
+    "sym": "Ps",
+    "num": 11
   },
   {
     "name": "Depression",
@@ -153,7 +175,9 @@
     "status": "Live",
     "name_es": "Depresión",
     "blurb_es": "Qué es y qué no es la depresión, los sistemas detrás de ella, el duelo, el sueño y una comparación honesta de tratamientos. 14 notas.",
-    "path_es": "depression/#es/"
+    "path_es": "depression/#es/",
+    "sym": "Dp",
+    "num": 12
   },
   {
     "name": "The Pharmaceutical Industry",
@@ -166,7 +190,9 @@
     "name_es": "La industria farmacéutica",
     "label_es": "Gerald Posner",
     "blurb_es": "Del aceite de serpiente a las ganancias de la pandemia: cómo se venden, regulan y ponen precio a los medicamentos.",
-    "path_es": "pharma-industry/#es/"
+    "path_es": "pharma-industry/#es/",
+    "sym": "Rx",
+    "num": 13
   },
   {
     "name": "Introduction to Nutrition",
@@ -179,7 +205,9 @@
     "name_es": "Introducción a la nutrición",
     "label_es": "Max Lugavere",
     "blurb_es": "Macronutrientes, saciedad, horarios, controversias, alimentos para el cerebro y la microbiota.",
-    "path_es": "nutrition/#es/"
+    "path_es": "nutrition/#es/",
+    "sym": "Nu",
+    "num": 14
   },
   {
     "name": "Claude Tips",
@@ -190,7 +218,9 @@
     "status": "Live",
     "name_es": "Claude Tips",
     "blurb_es": "Guías sencillas para empezar a usar Claude, de lo básico a lo avanzado.",
-    "path_es": "claude-tips/index-es.html"
+    "path_es": "claude-tips/index-es.html",
+    "sym": "Ct",
+    "num": 15
   },
   {
     "name": "Elle Bakehouse",
@@ -199,7 +229,9 @@
     "label": "Proyecto con Claude",
     "blurb": "Una repostería que vende por Instagram, organizada con Claude, Trello, Notion y Google Drive, en dos fases.",
     "langs": "Español",
-    "status": "Live"
+    "status": "Live",
+    "sym": "Eb",
+    "num": 16
   },
   {
     "name": "El mundo en voz alta",
@@ -207,7 +239,9 @@
     "path": "el-mundo-en-voz-alta/",
     "blurb": "Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero.",
     "langs": "Español",
-    "status": "Live"
+    "status": "Live",
+    "sym": "Mv",
+    "num": 17
   },
   {
     "name": "Architects of the Culture of Death",
@@ -220,6 +254,8 @@
     "name_es": "Arquitectos de la Cultura de la Muerte",
     "label_es": "DeMarco y Wiker",
     "blurb_es": "Veintitrés pensadores en siete categorías detrás de la cultura de la muerte.",
-    "path_es": "architects/#es/"
+    "path_es": "architects/#es/",
+    "sym": "Ac",
+    "num": 18
   }
 ]
