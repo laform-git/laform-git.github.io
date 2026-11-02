@@ -145,6 +145,17 @@
     "path_es": "perfect-sleep/#es/"
   },
   {
+    "name": "Depression",
+    "section": "Health",
+    "path": "depression/",
+    "blurb": "What depression is and is not, the systems behind it, grief, sleep and an honest comparison of treatments. 14 notes.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Depresión",
+    "blurb_es": "Qué es y qué no es la depresión, los sistemas detrás de ella, el duelo, el sueño y una comparación honesta de tratamientos. 14 notas.",
+    "path_es": "depression/#es/"
+  },
+  {
     "name": "The Pharmaceutical Industry",
     "section": "Health",
     "path": "pharma-industry/",
