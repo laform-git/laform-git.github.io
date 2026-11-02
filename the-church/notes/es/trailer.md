@@ -2,6 +2,7 @@
 
 > **Tráiler de la serie** · 2:05 · vertical 1080×1920 · Serie: LA IGLESIA
 
+<video controls playsinline preload="metadata" src="video/iglesia-trailer-es.mp4" style="display:block;width:100%;max-width:360px;margin:1em auto;border-radius:10px"></video>
 
 ---
 
