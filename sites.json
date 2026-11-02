@@ -11,6 +11,19 @@
     "path_es": "christianity-and-islam/#es/"
   },
   {
+    "name": "The Church",
+    "section": "Faith",
+    "path": "the-church/",
+    "label": "Apologetics",
+    "blurb": "A study series for the honest skeptic: what the Church built, tested against the evidence, and why.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "La Iglesia",
+    "label_es": "Apologética",
+    "blurb_es": "Una serie de estudio para el escéptico honesto: lo que la Iglesia construyó, puesto a prueba frente a la evidencia, y por qué.",
+    "path_es": "the-church/#es/"
+  },
+  {
     "name": "Thomas Aquinas",
     "section": "Faith",
     "path": "aquinas/",
