@@ -74,7 +74,7 @@ body{padding-bottom:150px}
 .crumbs .prog{position:absolute;left:0;bottom:-1px;height:3px;width:0;background:var(--accent);transition:width .1s}
 .crumbs.sticky .langs{font-size:15px}.crumbs.sticky .langs a,.crumbs.sticky .langs .on{padding:7px 14px;min-height:38px}
 @media (max-width:520px){.crumbs.sticky .here,.crumbs.sticky .sep{display:none}.crumbs.sticky .langs{width:auto;order:0}.crumbs.sticky .langs a,.crumbs.sticky .langs .on,.tocbtn{padding:7px 11px;font-size:14px}}
-@media (max-width:380px){.crumbs.sticky>a:first-of-type{display:none}}
+@media (max-width:380px){.crumbs.sticky .bk{display:none}}
 .layout{display:grid;grid-template-columns:240px minmax(0,780px);gap:48px;justify-content:center}
 .toc{position:sticky;top:84px;align-self:start;max-height:calc(100vh - 110px);overflow:auto;padding-top:34px;font:500 15px/1.35 var(--display)}
 .toc ol{list-style:none;margin:10px 0 0;padding:0;border-left:2px solid var(--rule)}
@@ -117,3 +117,9 @@ article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;backgrou
 .card.flash{box-shadow:0 0 0 3px var(--accent,#b8661c);transition:box-shadow .3s}
 .toast{position:fixed;left:50%;bottom:90px;transform:translateX(-50%);background:#222;color:#fff;font:600 14px/1 system-ui,sans-serif;padding:10px 16px;border-radius:999px;z-index:99}
 @media print{:root,:root[data-skin]{--bg:#fff!important;--surface:#fff!important;--ink:#111!important;--muted:#444!important;--rule:#ccc!important;--accent:#0b5a8c!important;--accent-soft:#eef3f7!important;--gold:#8a6400!important;color-scheme:light!important}html,body{background:#fff!important;color:#111!important}.skinbar,.thm{display:none!important}}
+
+/* Library button: prominent, top left, on every booklet page */
+.crumbs .libbtn{display:inline-flex;align-items:center;gap:4px;padding:8px 16px;min-height:40px;border-radius:999px;background:var(--accent);color:var(--surface);font:700 16px/1 var(--display);text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,.18)}
+.crumbs .libbtn:hover{filter:brightness(1.08)}
+.crumbs.sticky .libbtn{padding:6px 13px;min-height:34px;font-size:14px}
+@media (max-width:520px){.crumbs.sticky .bk{display:none}.crumbs:not(.sticky) .libbtn{order:-2}}
