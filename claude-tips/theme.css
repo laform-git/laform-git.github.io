@@ -6,6 +6,10 @@ html:not(.dark){background:#ffffff;color-scheme:light}
 html:not(.dark) body{background:#ffffff}
 html:not(.dark) .card,html:not(.dark) .g{border-color:#E5E7EB}
 html:not(.dark) .g{border-left-color:#F97316}
+html:not(.dark) .hdr{background:#FFF7ED;color:#141B2D;border:1px solid #FED7AA}
+html:not(.dark) .hdr p{color:#475569}
+html:not(.dark) .hdr .lvl{color:#C2410C}
+html:not(.dark) .navy{background:#EEF2F7;color:#141B2D;border-bottom:1px solid #E2E8F0}
 @media print{.thm{display:none}}
 @media screen{
 html.dark{color-scheme:dark;background:#1c1d1f}
