@@ -213,14 +213,15 @@
     "path": "abnormal-psychology/",
     "label": "Dr. Robert Pihl",
     "blurb": "Mental illness, depression, risk and addiction, plus the real dangers of alcohol, cannabis and psilocybin, especially from unregulated sources.",
-    "langs": "English · Español soon",
+    "langs": "English · Español",
     "status": "Live",
     "name_es": "Psicología anormal",
     "label_es": "Dr. Robert Pihl",
-    "blurb_es": "La enfermedad mental, la depresión, el riesgo y la adicción, y los peligros reales del alcohol, el cannabis y la psilocibina. Por ahora solo en inglés.",
+    "blurb_es": "La enfermedad mental, la depresión, el riesgo y la adicción, y los peligros reales del alcohol, el cannabis y la psilocibina, sobre todo de fuentes no reguladas.",
     "sym": "Ap",
     "num": 20,
-    "icon": "<path d=\"M24 14a9 9 0 0 0-9 9 8 8 0 0 0-3 14 9 9 0 0 0 9 11h3V14z\"/><path d=\"M40 14a9 9 0 0 1 9 9 8 8 0 0 1 3 14 9 9 0 0 1-9 11h-3V14z\"/><path d=\"M32 12v40\"/><path d=\"M24 26h-4M44 26h-4M24 38h-5M45 38h-5\"/>"
+    "icon": "<path d=\"M24 14a9 9 0 0 0-9 9 8 8 0 0 0-3 14 9 9 0 0 0 9 11h3V14z\"/><path d=\"M40 14a9 9 0 0 1 9 9 8 8 0 0 1 3 14 9 9 0 0 1-9 11h-3V14z\"/><path d=\"M32 12v40\"/><path d=\"M24 26h-4M44 26h-4M24 38h-5M45 38h-5\"/>",
+    "path_es": "abnormal-psychology/#es/"
   },
   {
     "name": "The Pharmaceutical Industry",

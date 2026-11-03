@@ -1,1 +1,428 @@
-{"title":{"en":"Abnormal Psychology"},"titleHtml":{"en":"Abnormal <span>Psychology</span>"},"eyebrow":{"en":"Study series · 19 notes"},"lede":{"en":"Dr. Robert Pihl's two-part course on mental illness, depression, risk and addiction, plus a section on the real dangers of alcohol, cannabis and psilocybin, especially from unregulated sources. Educational, not medical advice."},"langs":["en"],"sections":[{"title":{"en":"Part I · Understanding Mental Illness"},"notes":[{"id":"a1","en":{"title":"Ch.1: Defining Mental Illness","h1":"Pihl — Abnormal Psychology Part I, Ch.1: Defining Mental Illness","file":"en/a1.md","aka":["Pihl — Abnormal Psychology Part I, Ch.1 Defining Mental Illness"]}},{"id":"a2","en":{"title":"Ch.2: Shifts in Mental Health Care","h1":"Pihl — Abnormal Psychology Part I, Ch.2: Shifts in Mental Health Care","file":"en/a2.md","aka":["Pihl — Abnormal Psychology Part I, Ch.2 Shifts in Mental Health Care"]}},{"id":"a3","en":{"title":"Ch.3: Classifying Mental Disorders","h1":"Pihl — Abnormal Psychology Part I, Ch.3: Classifying Mental Disorders","file":"en/a3.md","aka":["Pihl — Abnormal Psychology Part I, Ch.3 Classifying Mental Disorders"]}},{"id":"a4","en":{"title":"Ch.4: Diagnosing Abnormal Behavior","h1":"Pihl — Abnormal Psychology Part I, Ch.4: Diagnosing Abnormal Behavior","file":"en/a4.md","aka":["Pihl — Abnormal Psychology Part I, Ch.4 Diagnosing Abnormal Behavior"]}},{"id":"a5","en":{"title":"Ch.5: Influences on Mental Health","h1":"Pihl — Abnormal Psychology Part I, Ch.5: Influences on Mental Health","file":"en/a5.md","aka":["Pihl — Abnormal Psychology Part I, Ch.5 Influences on Mental Health"]}},{"id":"a6","en":{"title":"Ch.6: Brain Health and Mental Illness","h1":"Pihl — Abnormal Psychology Part I, Ch.6: Brain Health and Mental Illness","file":"en/a6.md","aka":["Pihl — Abnormal Psychology Part I, Ch.6 Brain Health and Mental Illness"]}}]},{"title":{"en":"Part II · Depression, Risk and Addiction"},"notes":[{"id":"b1","en":{"title":"Ch.1: A Rise in Depression","h1":"Pihl — Abnormal Psychology Part II, Ch.1: A Rise in Depression","file":"en/b1.md","aka":["Pihl — Abnormal Psychology Part II, Ch.1 A Rise in Depression"]}},{"id":"b2","en":{"title":"Ch.2: Inside Depression","h1":"Pihl — Abnormal Psychology Part II, Ch.2: Inside Depression","file":"en/b2.md","aka":["Pihl — Abnormal Psychology Part II, Ch.2 Inside Depression"]}},{"id":"b3","en":{"title":"Ch.3: Recognizing Risk","h1":"Pihl — Abnormal Psychology Part II, Ch.3: Recognizing Risk","file":"en/b3.md","aka":["Pihl — Abnormal Psychology Part II, Ch.3 Recognizing Risk"]}},{"id":"b4","en":{"title":"Ch.4: Reducing Risk","h1":"Pihl — Abnormal Psychology Part II, Ch.4: Reducing Risk","file":"en/b4.md","aka":["Pihl — Abnormal Psychology Part II, Ch.4 Reducing Risk"]}},{"id":"b5","en":{"title":"Ch.5: The Scope of Addiction","h1":"Pihl — Abnormal Psychology Part II, Ch.5: The Scope of Addiction","file":"en/b5.md","aka":["Pihl — Abnormal Psychology Part II, Ch.5 The Scope of Addiction"]}},{"id":"b6","en":{"title":"Ch.6: Breaking the Cycle","h1":"Pihl — Abnormal Psychology Part II, Ch.6: Breaking the Cycle","file":"en/b6.md","aka":["Pihl — Abnormal Psychology Part II, Ch.6 Breaking the Cycle"]}}]},{"title":{"en":"Part III · Substances and Their Risks"},"notes":[{"id":"s0","en":{"title":"Street Supply, the Hidden Danger","h1":"Substances — 00 Street Supply, the Hidden Danger","file":"en/s0.md","aka":["Substances — 00 Street Supply, the Hidden Danger"]}},{"id":"s1","en":{"title":"Alcohol, Risks and Dependence","h1":"Substances — 01 Alcohol, Risks and Dependence","file":"en/s1.md","aka":["Substances — 01 Alcohol, Risks and Dependence"]}},{"id":"s2","en":{"title":"Cannabis, the Real Risks","h1":"Substances — 02 Cannabis, the Real Risks","file":"en/s2.md","aka":["Substances — 02 Cannabis, the Real Risks"]}},{"id":"s3","en":{"title":"The Endocannabinoid System","h1":"The Endocannabinoid System","file":"en/s3.md","aka":["The Endocannabinoid System"]}},{"id":"s4","en":{"title":"THC & Neurotransmitters","h1":"THC & Neurotransmitters","file":"en/s4.md","aka":["THC & Neurotransmitters"]}},{"id":"s5","en":{"title":"THC — Benefits & Costs","h1":"THC — Benefits & Costs","file":"en/s5.md","aka":["THC — Benefits & Costs"]}},{"id":"s6","en":{"title":"Psilocybin, Evidence and Risks","h1":"Substances — 03 Psilocybin, Evidence and Risks","file":"en/s6.md","aka":["Substances — 03 Psilocybin, Evidence and Risks"]}}]}]}
+{
+ "title": {
+  "en": "Abnormal Psychology",
+  "es": "Psicología anormal"
+ },
+ "titleHtml": {
+  "en": "Abnormal <span>Psychology</span>",
+  "es": "Psicología <span>anormal</span>"
+ },
+ "eyebrow": {
+  "en": "Study series · 19 notes",
+  "es": "Serie de estudio · 19 notas"
+ },
+ "lede": {
+  "en": "Dr. Robert Pihl's two-part course on mental illness, depression, risk and addiction, plus a section on the real dangers of alcohol, cannabis and psilocybin, especially from unregulated sources. Educational, not medical advice.",
+  "es": "El curso en dos partes del Dr. Robert Pihl sobre la enfermedad mental, la depresión, el riesgo y la adicción, más una sección sobre los peligros reales del alcohol, el cannabis y la psilocibina, sobre todo de fuentes no reguladas. Educativo, no es consejo médico."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Part I · Understanding Mental Illness",
+    "es": "Parte I · Entender la enfermedad mental"
+   },
+   "notes": [
+    {
+     "id": "a1",
+     "en": {
+      "title": "Ch.1: Defining Mental Illness",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.1: Defining Mental Illness",
+      "file": "en/a1.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.1 Defining Mental Illness"
+      ]
+     },
+     "es": {
+      "title": "Cap. 1: Definir la enfermedad mental",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 1: Definir la enfermedad mental",
+      "file": "es/a1.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 1: Definir la enfermedad mental",
+       "Pihl — Psicología anormal Parte I, Cap. 1 Definir la enfermedad mental"
+      ]
+     }
+    },
+    {
+     "id": "a2",
+     "en": {
+      "title": "Ch.2: Shifts in Mental Health Care",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.2: Shifts in Mental Health Care",
+      "file": "en/a2.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.2 Shifts in Mental Health Care"
+      ]
+     },
+     "es": {
+      "title": "Cap. 2: Cambios en la atención de la salud mental",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 2: Cambios en la atención de la salud mental",
+      "file": "es/a2.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 2: Cambios en la atención de la salud mental",
+       "Pihl — Psicología anormal Parte I, Cap. 2 Cambios en la atención de la salud mental"
+      ]
+     }
+    },
+    {
+     "id": "a3",
+     "en": {
+      "title": "Ch.3: Classifying Mental Disorders",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.3: Classifying Mental Disorders",
+      "file": "en/a3.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.3 Classifying Mental Disorders"
+      ]
+     },
+     "es": {
+      "title": "Cap. 3: Clasificar los trastornos mentales",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 3: Clasificar los trastornos mentales",
+      "file": "es/a3.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 3: Clasificar los trastornos mentales",
+       "Pihl — Psicología anormal Parte I, Cap. 3 Clasificar los trastornos mentales"
+      ]
+     }
+    },
+    {
+     "id": "a4",
+     "en": {
+      "title": "Ch.4: Diagnosing Abnormal Behavior",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.4: Diagnosing Abnormal Behavior",
+      "file": "en/a4.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.4 Diagnosing Abnormal Behavior"
+      ]
+     },
+     "es": {
+      "title": "Cap. 4: Diagnosticar la conducta anormal",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 4: Diagnosticar la conducta anormal",
+      "file": "es/a4.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 4: Diagnosticar la conducta anormal",
+       "Pihl — Psicología anormal Parte I, Cap. 4 Diagnosticar la conducta anormal"
+      ]
+     }
+    },
+    {
+     "id": "a5",
+     "en": {
+      "title": "Ch.5: Influences on Mental Health",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.5: Influences on Mental Health",
+      "file": "en/a5.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.5 Influences on Mental Health"
+      ]
+     },
+     "es": {
+      "title": "Cap. 5: Influencias en la salud mental",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 5: Influencias en la salud mental",
+      "file": "es/a5.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 5: Influencias en la salud mental",
+       "Pihl — Psicología anormal Parte I, Cap. 5 Influencias en la salud mental"
+      ]
+     }
+    },
+    {
+     "id": "a6",
+     "en": {
+      "title": "Ch.6: Brain Health and Mental Illness",
+      "h1": "Pihl — Abnormal Psychology Part I, Ch.6: Brain Health and Mental Illness",
+      "file": "en/a6.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part I, Ch.6 Brain Health and Mental Illness"
+      ]
+     },
+     "es": {
+      "title": "Cap. 6: Salud cerebral y enfermedad mental",
+      "h1": "Pihl — Psicología anormal Parte I, Cap. 6: Salud cerebral y enfermedad mental",
+      "file": "es/a6.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte I, Cap. 6: Salud cerebral y enfermedad mental",
+       "Pihl — Psicología anormal Parte I, Cap. 6 Salud cerebral y enfermedad mental"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Part II · Depression, Risk and Addiction",
+    "es": "Parte II · Depresión, riesgo y adicción"
+   },
+   "notes": [
+    {
+     "id": "b1",
+     "en": {
+      "title": "Ch.1: A Rise in Depression",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.1: A Rise in Depression",
+      "file": "en/b1.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.1 A Rise in Depression"
+      ]
+     },
+     "es": {
+      "title": "Cap. 1: El aumento de la depresión",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 1: El aumento de la depresión",
+      "file": "es/b1.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 1: El aumento de la depresión",
+       "Pihl — Psicología anormal Parte II, Cap. 1 El aumento de la depresión"
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "en": {
+      "title": "Ch.2: Inside Depression",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.2: Inside Depression",
+      "file": "en/b2.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.2 Inside Depression"
+      ]
+     },
+     "es": {
+      "title": "Cap. 2: Dentro de la depresión",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 2: Dentro de la depresión",
+      "file": "es/b2.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 2: Dentro de la depresión",
+       "Pihl — Psicología anormal Parte II, Cap. 2 Dentro de la depresión"
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "en": {
+      "title": "Ch.3: Recognizing Risk",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.3: Recognizing Risk",
+      "file": "en/b3.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.3 Recognizing Risk"
+      ]
+     },
+     "es": {
+      "title": "Cap. 3: Reconocer el riesgo",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 3: Reconocer el riesgo",
+      "file": "es/b3.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 3: Reconocer el riesgo",
+       "Pihl — Psicología anormal Parte II, Cap. 3 Reconocer el riesgo"
+      ]
+     }
+    },
+    {
+     "id": "b4",
+     "en": {
+      "title": "Ch.4: Reducing Risk",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.4: Reducing Risk",
+      "file": "en/b4.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.4 Reducing Risk"
+      ]
+     },
+     "es": {
+      "title": "Cap. 4: Reducir el riesgo",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 4: Reducir el riesgo",
+      "file": "es/b4.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 4: Reducir el riesgo",
+       "Pihl — Psicología anormal Parte II, Cap. 4 Reducir el riesgo"
+      ]
+     }
+    },
+    {
+     "id": "b5",
+     "en": {
+      "title": "Ch.5: The Scope of Addiction",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.5: The Scope of Addiction",
+      "file": "en/b5.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.5 The Scope of Addiction"
+      ]
+     },
+     "es": {
+      "title": "Cap. 5: El alcance de la adicción",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 5: El alcance de la adicción",
+      "file": "es/b5.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 5: El alcance de la adicción",
+       "Pihl — Psicología anormal Parte II, Cap. 5 El alcance de la adicción"
+      ]
+     }
+    },
+    {
+     "id": "b6",
+     "en": {
+      "title": "Ch.6: Breaking the Cycle",
+      "h1": "Pihl — Abnormal Psychology Part II, Ch.6: Breaking the Cycle",
+      "file": "en/b6.md",
+      "aka": [
+       "Pihl — Abnormal Psychology Part II, Ch.6 Breaking the Cycle"
+      ]
+     },
+     "es": {
+      "title": "Cap. 6: Romper el ciclo",
+      "h1": "Pihl — Psicología anormal Parte II, Cap. 6: Romper el ciclo",
+      "file": "es/b6.md",
+      "aka": [
+       "Pihl — Psicología anormal Parte II, Cap. 6: Romper el ciclo",
+       "Pihl — Psicología anormal Parte II, Cap. 6 Romper el ciclo"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Part III · Substances and Their Risks",
+    "es": "Parte III · Las sustancias y sus riesgos"
+   },
+   "notes": [
+    {
+     "id": "s0",
+     "en": {
+      "title": "Street Supply, the Hidden Danger",
+      "h1": "Substances — 00 Street Supply, the Hidden Danger",
+      "file": "en/s0.md",
+      "aka": [
+       "Substances — 00 Street Supply, the Hidden Danger"
+      ]
+     },
+     "es": {
+      "title": "El suministro callejero, el peligro oculto",
+      "h1": "Sustancias — 00 El suministro callejero, el peligro oculto",
+      "file": "es/s0.md",
+      "aka": [
+       "Sustancias — 00 El suministro callejero, el peligro oculto",
+       "Sustancias — 00 El suministro callejero, el peligro oculto"
+      ]
+     }
+    },
+    {
+     "id": "s1",
+     "en": {
+      "title": "Alcohol, Risks and Dependence",
+      "h1": "Substances — 01 Alcohol, Risks and Dependence",
+      "file": "en/s1.md",
+      "aka": [
+       "Substances — 01 Alcohol, Risks and Dependence"
+      ]
+     },
+     "es": {
+      "title": "Alcohol, riesgos y dependencia",
+      "h1": "Sustancias — 01 Alcohol, riesgos y dependencia",
+      "file": "es/s1.md",
+      "aka": [
+       "Sustancias — 01 Alcohol, riesgos y dependencia",
+       "Sustancias — 01 Alcohol, riesgos y dependencia"
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "en": {
+      "title": "Cannabis, the Real Risks",
+      "h1": "Substances — 02 Cannabis, the Real Risks",
+      "file": "en/s2.md",
+      "aka": [
+       "Substances — 02 Cannabis, the Real Risks"
+      ]
+     },
+     "es": {
+      "title": "Cannabis, los riesgos reales",
+      "h1": "Sustancias — 02 Cannabis, los riesgos reales",
+      "file": "es/s2.md",
+      "aka": [
+       "Sustancias — 02 Cannabis, los riesgos reales",
+       "Sustancias — 02 Cannabis, los riesgos reales"
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "en": {
+      "title": "The Endocannabinoid System",
+      "h1": "The Endocannabinoid System",
+      "file": "en/s3.md",
+      "aka": [
+       "The Endocannabinoid System"
+      ]
+     },
+     "es": {
+      "title": "El sistema endocannabinoide",
+      "h1": "El sistema endocannabinoide",
+      "file": "es/s3.md",
+      "aka": [
+       "El sistema endocannabinoide",
+       "El sistema endocannabinoide"
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "en": {
+      "title": "THC & Neurotransmitters",
+      "h1": "THC & Neurotransmitters",
+      "file": "en/s4.md",
+      "aka": [
+       "THC & Neurotransmitters"
+      ]
+     },
+     "es": {
+      "title": "El THC y los neurotransmisores",
+      "h1": "El THC y los neurotransmisores",
+      "file": "es/s4.md",
+      "aka": [
+       "El THC y los neurotransmisores",
+       "El THC y los neurotransmisores"
+      ]
+     }
+    },
+    {
+     "id": "s5",
+     "en": {
+      "title": "THC — Benefits & Costs",
+      "h1": "THC — Benefits & Costs",
+      "file": "en/s5.md",
+      "aka": [
+       "THC — Benefits & Costs"
+      ]
+     },
+     "es": {
+      "title": "THC — Beneficios y costos",
+      "h1": "THC — Beneficios y costos",
+      "file": "es/s5.md",
+      "aka": [
+       "THC — Beneficios y costos",
+       "THC — Beneficios y costos"
+      ]
+     }
+    },
+    {
+     "id": "s6",
+     "en": {
+      "title": "Psilocybin, Evidence and Risks",
+      "h1": "Substances — 03 Psilocybin, Evidence and Risks",
+      "file": "en/s6.md",
+      "aka": [
+       "Substances — 03 Psilocybin, Evidence and Risks"
+      ]
+     },
+     "es": {
+      "title": "Psilocibina, evidencia y riesgos",
+      "h1": "Sustancias — 03 Psilocibina, evidencia y riesgos",
+      "file": "es/s6.md",
+      "aka": [
+       "Sustancias — 03 Psilocibina, evidencia y riesgos",
+       "Sustancias — 03 Psilocibina, evidencia y riesgos"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
