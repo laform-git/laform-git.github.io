@@ -30,6 +30,22 @@
     "icon": "<path d=\"M32 6v10M28 10h8\"/><path d=\"M14 54V30l18-14l18 14v24z\"/><path d=\"M27 54V42a5 5 0 0 1 10 0v12\"/>"
   },
   {
+    "name": "Apologetics Q&A",
+    "section": "Faith",
+    "path": "apologetics-qa/",
+    "label": "Apologetics",
+    "blurb": "163 questions about God, Christ, the Church, history and morality, each with a short answer, Catechism references and a question for class.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Apologética: preguntas y respuestas",
+    "label_es": "Apologética",
+    "blurb_es": "163 preguntas sobre Dios, Cristo, la Iglesia, la historia y la moral, cada una con una respuesta breve, referencias al Catecismo y una pregunta para la clase.",
+    "path_es": "apologetics-qa/#es/",
+    "sym": "Qa",
+    "num": 19,
+    "icon": "<path d=\"M8 10h48v32H30l-12 10v-10H8z\"/><path d=\"M27 21a5 5 0 1 1 7 4.6c-1.4.7-2 1.6-2 3.4\"/><circle cx=\"32\" cy=\"35\" r=\"1.6\" fill=\"currentColor\"/>"
+  },
+  {
     "name": "Thomas Aquinas",
     "section": "Faith",
     "path": "aquinas/",
