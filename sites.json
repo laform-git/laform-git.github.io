@@ -298,13 +298,13 @@
     "icon": "<path d=\"M16 34h32l-5 22H21z\"/><path d=\"M14 34c-4-12 6-18 12-14c2-8 14-8 16 0c6-4 16 2 12 14z\"/><path d=\"M26 34l2 22M38 34l-2 22\"/><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"currentColor\"/>"
   },
   {
-    "name": "El mundo en voz alta",
+    "name": "Toca, escucha y aprende",
     "section": "Tech",
-    "path": "el-mundo-en-voz-alta/",
+    "path": "toca-escucha-y-aprende/",
     "blurb": "Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero.",
     "langs": "Español",
     "status": "Live",
-    "sym": "Mv",
+    "sym": "Te",
     "num": 17,
     "icon": "<path d=\"M10 24h10l14-12v40L20 40H10z\"/><path d=\"M42 22a14 14 0 0 1 0 20M48 16a22 22 0 0 1 0 32\"/>"
   },
