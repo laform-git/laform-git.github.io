@@ -1,0 +1,51 @@
+{
+ "title": {
+  "en": "John Paul II: Jesus Christ",
+  "es": "Juan Pablo II: Jesucristo"
+ },
+ "titleHtml": {
+  "en": "John Paul II: <span>Jesus Christ</span>",
+  "es": "Juan Pablo II: <span>Jesucristo</span>"
+ },
+ "eyebrow": {
+  "en": "Wednesday audiences · 1 note",
+  "es": "Audiencias de los miércoles · 1 nota"
+ },
+ "lede": {
+  "en": "Study notes on John Paul II's Wednesday catechesis on Jesus Christ, starting with the prologue on sin and the promise of a Redeemer (1986). More chapters to come.",
+  "es": "Notas de estudio sobre la catequesis de los miércoles de Juan Pablo II sobre Jesucristo, empezando por el prólogo sobre el pecado y la promesa del Redentor (1986). Vendrán más capítulos."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Prologue",
+    "es": "Prólogo"
+   },
+   "notes": [
+    {
+     "id": "0a",
+     "en": {
+      "title": "Sin & the Promise of a Redeemer",
+      "h1": "JP2-JesusChrist-0a Sin & the Promise of a Redeemer",
+      "file": "en/0a.md",
+      "aka": [
+       "JesusChrist-0a Sin & the Promise of a Redeemer"
+      ]
+     },
+     "es": {
+      "title": "El pecado y la promesa del Redentor",
+      "h1": "Jesucristo-0a El pecado y la promesa del Redentor",
+      "file": "es/0a.md",
+      "aka": [
+       "Jesucristo-0a El pecado y la promesa del Redentor"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

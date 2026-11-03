@@ -46,6 +46,22 @@
     "icon": "<path d=\"M8 10h48v32H30l-12 10v-10H8z\"/><path d=\"M27 21a5 5 0 1 1 7 4.6c-1.4.7-2 1.6-2 3.4\"/><circle cx=\"32\" cy=\"35\" r=\"1.6\" fill=\"currentColor\"/>"
   },
   {
+    "name": "John Paul II: Jesus Christ",
+    "section": "Faith",
+    "path": "jp2-jesus-christ/",
+    "label": "Wednesday audiences",
+    "blurb": "John Paul II's catechesis on Christ, beginning with sin, the Fall and the promise of a Redeemer.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Juan Pablo II: Jesucristo",
+    "label_es": "Audiencias de los miércoles",
+    "blurb_es": "La catequesis de Juan Pablo II sobre Cristo, empezando por el pecado, la caída y la promesa del Redentor.",
+    "path_es": "jp2-jesus-christ/#es/",
+    "sym": "Jp",
+    "num": 21,
+    "icon": "<circle cx=\"22\" cy=\"24\" r=\"9\"/><circle cx=\"42\" cy=\"24\" r=\"9\"/><circle cx=\"32\" cy=\"15\" r=\"9\"/><path d=\"M32 30v26M24 56h16\"/><path d=\"M38 34c-6 0-6 6 0 6s6 6 0 6-6 4-2 6\"/>"
+  },
+  {
     "name": "Thomas Aquinas",
     "section": "Faith",
     "path": "aquinas/",
