@@ -44,7 +44,7 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
 /* Juego */
 .q{font-size:clamp(27px,7vw,34px);line-height:1.35;margin:0 0 18px}
 .answers{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.answers button{min-height:clamp(100px,16vh,130px);border-radius:24px;font-size:36px;font-weight:700;border:4px solid}
+.answers button{min-height:clamp(100px,16vh,130px);border-radius:24px;font-size:34px;font-weight:700;border:4px solid}
 .yes{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
 .nope{background:var(--no-bg);color:var(--no);border-color:var(--no)}
 .answers button:disabled{opacity:.5}
@@ -64,7 +64,7 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
       <button type="button" class="bubble b2" data-go="juego"><span class="n" aria-hidden="true">2</span>Juego</button>
       <button type="button" class="bubble b3" data-go="reto"><span class="n" aria-hidden="true">3</span>Reto</button>
     </div>
-    <a class="parents" href="leccion-1-padres.html">Notas para mamá y papá</a>
+    <a class="parents" href="leccion-1-padres.html">Notas para mamá</a>
   </div>
 </section>
 
@@ -86,11 +86,11 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
 <section class="screen" id="s-juego" aria-labelledby="t-juego" hidden>
   <p class="top" id="j-count"></p>
   <div class="body">
-    <h2 id="t-juego">Juego: ¿es accesibilidad?</h2>
+    <h2 id="t-juego">Juego: ¿cierto o falso?</h2>
     <p class="q" id="q" tabindex="-1"></p>
     <div class="answers" id="answers">
-      <button type="button" class="yes" id="a-yes">Sí</button>
-      <button type="button" class="nope" id="a-no">No</button>
+      <button type="button" class="yes" id="a-yes">Cierto</button>
+      <button type="button" class="nope" id="a-no">Falso</button>
     </div>
     <p class="fb" id="fb" role="status" aria-live="polite"></p>
     <p class="stars" id="stars" aria-hidden="true"></p>
@@ -105,7 +105,7 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
 <section class="screen" id="s-reto" aria-labelledby="t-reto" hidden>
   <div class="body">
     <h2 id="t-reto">Tu reto de hoy</h2>
-    <p class="big" id="r-text" tabindex="-1">Busca en tu casa algo con un sonido o una textura especial, como un botón con relieve o una alarma. ¡Cuéntale a mamá o a papá lo que encontraste!</p>
+    <p class="big" id="r-text" tabindex="-1">Toma tu iPhone. Busca con los dedos los botones de los lados. Cuéntale a mamá cuántos encontraste y para qué crees que sirve cada uno.</p>
   </div>
   <div class="bar">
     <button type="button" class="home" data-go="menu">Volver al menú</button>
@@ -116,10 +116,10 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
 (function(){
   var historia=[
     '¡Hola! Hoy vas a aprender una palabra nueva: accesibilidad.',
-    'Es una palabra larga, pero quiere decir algo fácil: que todas las personas pueden usar las cosas, cada quien a su manera.',
-    'Tú conoces el mundo con tus oídos y con tus manos. ¡Eso es un superpoder!',
-    'Tu iPhone usa tu superpoder. Cuando tocas la pantalla, te dice en voz alta qué hay ahí.',
-    'Y si le hablas, te escucha. Le puedes pedir que llame a mamá o que te diga la hora.'
+    'Quiere decir que todas las personas pueden usar las cosas, cada quien a su manera.',
+    'Tú conoces el mundo con tus oídos y con tus manos. Tu iPhone está hecho para trabajar así contigo.',
+    'Cuando tocas la pantalla, VoiceOver te dice en voz alta qué hay ahí. No necesitas verla.',
+    'Y si le hablas a Siri, te escucha. Le puedes pedir que llame a mamá o que te diga la hora.'
   ];
   var screens=['menu','historia','juego','reto'];
   function $(id){return document.getElementById(id)}
@@ -148,20 +148,20 @@ p.big{font-size:clamp(30px,7.8vw,40px);line-height:1.35;margin:0}
   window.addEventListener('hashchange',function(){ show(location.hash.slice(1)); });
   document.addEventListener('click',function(e){ var b=e.target.closest('[data-go]'); if(b){ e.preventDefault(); go(b.dataset.go); } });
 
-  // Juego
+  // Juego: cierto o falso sobre el iPhone
   var items=[
-    ['Un semáforo que hace bip, bip, para saber cuándo cruzar la calle.',true,'¡Sí! El sonido avisa a todos cuándo cruzar.'],
-    ['Un libro escrito en braille.',true,'¡Sí! Con el braille se lee con los dedos.'],
-    ['Una puerta que solo se abre con una llave escondida que nadie encuentra.',false,'¡Muy bien! Nadie la puede usar, así que no es accesible.'],
-    ['Un iPhone que te dice en voz alta lo que tocas.',true,'¡Sí! Eso es VoiceOver, y lo vas a conocer muy pronto.'],
-    ['Un juego que solo funciona si ves los colores.',false,'¡Exacto! Un juego accesible también se juega con sonidos.']
+    ['VoiceOver te dice en voz alta lo que tocas en la pantalla.',true,'¡Cierto! Por eso puedes usar el iPhone sin verlo.'],
+    ['Para usar un iPhone necesitas ver la pantalla.',false,'¡Bien! Es falso. Con VoiceOver y Siri lo usas con tus oídos y tus dedos.'],
+    ['Siri puede llamar a mamá si se lo pides.',true,'¡Cierto! Solo dile: Oye Siri, llama a mamá.'],
+    ['Las herramientas de accesibilidad hay que comprarlas aparte.',false,'¡Bien! Es falso. Ya vienen dentro de tu iPhone, en Configuración.'],
+    ['Puedes encontrar los botones del iPhone con los dedos.',true,'¡Cierto! Están en los lados, y cada uno tiene su lugar.']
   ], i=0, stars=0;
   var yes=$('a-yes'), no=$('a-no'), q=$('q'), fb=$('fb'), again=$('again');
   function ask(){ $('j-count').textContent='Pregunta '+(i+1)+' de '+items.length; q.textContent=items[i][0]; yes.disabled=no.disabled=false; }
   function answer(v){
     if(yes.disabled) return; yes.disabled=no.disabled=true;
     var it=items[i], right=(v===it[1]); if(right){ stars++; $('stars').textContent='⭐'.repeat(stars); }
-    var msg=right?it[2]:'Casi. '+(it[1]?'Sí es accesibilidad. ':'No es accesibilidad. ')+it[2].replace(/^¡[^!]*! /,'');
+    var msg=right?it[2]:'Casi. Es '+(it[1]?'cierto. ':'falso. ')+it[2].replace(/^¡[^!]*! (Es falso\. )?/,'');
     i++;
     if(i<items.length){ ask(); fb.textContent=msg+' Siguiente pregunta: '+q.textContent; }
     else { $('j-count').textContent='Fin del juego'; q.textContent='¡Terminaste! Ganaste '+stars+' de '+items.length+' estrellas.'; fb.textContent=msg; $('answers').hidden=true; again.hidden=false; setTimeout(function(){q.focus()},60); }
