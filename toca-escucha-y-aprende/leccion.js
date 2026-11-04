@@ -71,7 +71,7 @@
       var ft=el('p',{'class':'txt',tabindex:'-1'},'Terminaste la lección '+L.num+'. '+(stars?'Ganaste '+stars+(stars===1?' estrella. ':' estrellas. '):'')+(L.despedida||''));
       body.appendChild(ft); focusEl=ft;
     } else {
-      if(p.k===1 || p.t!=='texto') body.appendChild(el('h2',{},p.titulo||p.secName));
+      if(p.k===1 || p.t!=='texto') body.appendChild(el('h2',p.t==='salud'?{'class':'salud'}:{},p.titulo||p.secName));
       var t=el('p',{'class':'txt',tabindex:'-1'},p.text); body.appendChild(t); focusEl=t;
     }
 

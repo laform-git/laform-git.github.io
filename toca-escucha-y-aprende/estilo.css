@@ -80,3 +80,5 @@ h2{font-size:clamp(28px,7.4vw,38px)}
 .nivel-c .choices{margin-top:14px}
 .nivel-c .fb{margin-top:10px;font-size:clamp(20px,5.4vw,24px)}
 .nivel-c .stars{font-size:24px;margin-top:4px}
+h2.salud{color:var(--ok)}
+h2.salud::before{content:"";display:inline-block;width:.55em;height:.55em;border-radius:50%;background:var(--ok);margin-right:.35em;vertical-align:.08em}
