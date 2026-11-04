@@ -29,7 +29,7 @@ dict(num=1, titulo="¿Qué es la accesibilidad?", nivel="a",
  ],
  despedida="En la próxima lección aparece un botón nuevo: Atrás.",
  mama=[
-  ("Salud de esta lección: sol de la mañana", ["<p>Unos minutos de luz de día por la mañana ayudan a ajustar el reloj del cuerpo y a dormir mejor en la noche. Salgan juntas al patio o a caminar. Si van a estar más tiempo al sol, usen protector solar y gorra.</p>"]),
+  ("Su salud: la luz de la mañana", ["<p>Un ratito de luz de día por la mañana le ayuda a su cuerpo a saber que empezó el día, y en la noche duerme mejor. No hace falta nada especial: que desayune junto a una ventana abierta o salga unos minutos al patio.</p>"]),
   ("De qué trata esta lección", [
    "<p>Accesibilidad es diseñar las cosas para que todas las personas las puedan usar, sin importar cómo ven, oyen o se mueven.</p>",
    "<p>En el iPhone eso quiere decir que ella no necesita ver la pantalla: el teléfono le dice en voz alta lo que hay, y ella le puede hablar para pedirle cosas.</p>"]),
@@ -57,7 +57,7 @@ dict(num=2, titulo="¿Por qué iPhone?", nivel="b",
    dict(t="texto", text="VoiceOver y Siri ya vienen dentro de tu iPhone. No tienes que instalar nada."),
    dict(t="texto", text="Los gestos de VoiceOver son los mismos en todas las apps. Una app nueva solo tiene otros botones en otro lugar."),
    dict(t="texto", text="Muchas personas con discapacidad visual usan iPhone: estudiantes, maestros y hasta programadores. Si tienes una duda, hay mucha gente que te puede ayudar."),
-   dict(t="salud", titulo="Tip de salud", text="Tu cuerpo necesita moverse, igual que tu cerebro necesita aprender. Brinca, baila o camina con mamá. Lo mejor es moverte un rato todos los días, hasta juntar una hora."),
+   dict(t="salud", titulo="Tip de salud", text="Tu cuerpo necesita moverse, igual que tu cerebro necesita aprender. Brinca, baila o pon tu canción favorita. Lo mejor es moverte un rato todos los días."),
   ]),
   dict(nombre="Juego", pantallas=[
    dict(t="texto", titulo="Juego: ¿cierto o falso?", text="Seis frases más. Recuerda: si quieres oír otra vez una pantalla, usa Atrás."),
@@ -74,7 +74,7 @@ dict(num=2, titulo="¿Por qué iPhone?", nivel="b",
  ],
  despedida="La próxima lección es para tus manos: vas a conocer cada parte de tu iPhone.",
  mama=[
-  ("Salud de esta lección: moverse", ["<p>A su edad se recomienda una hora de actividad física al día, sumando ratos cortos: caminar, bailar, brincar, nadar. Cuando ella se mueva con seguridad, que sea con alguien al lado o en un espacio que ya conoce.</p>"]),
+  ("Su salud: moverse jugando", ["<p>A ella le hace bien moverse un rato todos los días. No tiene que ser ejercicio: bailar una canción en la sala, jugar o ir caminando a la tienda cuentan.</p>", "<p>Tu papel es acompañarla: poner su música, contar sus brincos o aplaudirle. Que sea en un espacio que ella ya conoce, para que se mueva con confianza.</p>"]),
   ("De qué trata esta lección", [
    "<p>Android también tiene herramientas para personas con discapacidad visual, como TalkBack, que lee la pantalla en voz alta, y permite personalizar más el teléfono. La diferencia es que en Android cada marca funciona un poco distinto, mientras que VoiceOver funciona igual en todos los iPhone y en casi todas las aplicaciones.</p>",
    "<p>Así, lo que ella aprenda hoy le va a servir por muchos años. Además, la mayoría de las apps están hechas para funcionar bien con VoiceOver, y hay más maestros, escuelas y personas con discapacidad visual que usan iPhone, por eso es más fácil encontrar ayuda cuando la necesiten.</p>"]),
@@ -117,7 +117,7 @@ dict(num=3, titulo="Conoce tu iPhone con las manos", nivel="b",
  ],
  despedida="En la próxima lección conoces bien a VoiceOver, y la lección tendrá un menú.",
  mama=[
-  ("Salud de esta lección: pausas", ["<p>Cada rato con el iPhone, una pausa para estirarse: brazos arriba, hombros, cuello. Enséñale a dejar el teléfono sobre la mesa y no sostenerlo con el cuello doblado.</p>"]),
+  ("Su salud: una pausa", ["<p>Después de un rato con el iPhone, recuérdale hacer una pausa para estirarse: brazos arriba, hombros y cuello.</p>", "<p>Enséñale a dejar el teléfono sobre la mesa en lugar de sostenerlo con el cuello doblado.</p>"]),
   ("De qué trata esta lección", [
    "<p>Ella aprende a ubicar cada parte del iPhone por tacto: cuál lado es arriba, el botón lateral, los dos botones de volumen, el botón de Acción, el puerto de carga y las bocinas.</p>"]),
   ("Antes de empezar", [
@@ -158,7 +158,7 @@ dict(num=4, titulo="Conoce a VoiceOver", nivel="c",
  ],
  despedida="Ya sabes los gestos más importantes de VoiceOver. En la próxima lección conoces a Siri.",
  mama=[
-  ("Salud de esta lección: el sueño", ["<p>A su edad se recomiendan entre 9 y 12 horas de sueño. Una hora antes de dormir, el iPhone se queda cargando fuera de la cama. Un horario fijo para dormir y despertar ayuda más que cualquier truco.</p>"]),
+  ("Su salud: el descanso", ["<p>A su edad se recomiendan entre 9 y 12 horas de sueño. Una hora antes de dormir, su iPhone se queda cargando fuera de la cama.</p>", "<p>Un horario fijo para dormir y despertar le ayuda más que cualquier truco. Ayuda también que la casa baje el ritmo a esa hora.</p>"]),
   ("De qué trata esta lección", [
    "<p>Los gestos básicos de VoiceOver: tocar para escuchar, deslizar a la derecha y a la izquierda, tocar dos veces para presionar, tocar con dos dedos para callar, ir a la pantalla de inicio y apagar VoiceOver para prestar el teléfono.</p>"]),
   ("Antes de empezar", [
@@ -202,7 +202,7 @@ dict(num=5, titulo="Conoce a Siri", nivel="c",
  ],
  despedida="En la última lección del nivel usas todo lo que aprendiste, con misiones.",
  mama=[
-  ("Salud de esta lección: Siri para cuidarse", ["<p>Ella puede usar Siri para una alarma diaria a la misma hora, para saber a qué hora sale el sol, o para un temporizador de movimiento. Así la tecnología le ayuda a tener rutinas sanas.</p>"]),
+  ("Su salud: Siri ayuda con las rutinas", ["<p>Ella puede usar Siri para una alarma diaria a la misma hora, para saber a qué hora sale el sol o para un temporizador de baile. Así la tecnología le ayuda con sus rutinas, sin depender de nadie.</p>"]),
   ("De qué trata esta lección", [
    "<p>Cómo hablarle a Siri y qué le puede pedir: la hora, el clima, la batería, alarmas, llamadas, mensajes y encender o apagar VoiceOver.</p>"]),
   ("Antes de empezar", [
@@ -225,7 +225,7 @@ dict(num=6, titulo="Practicamos juntas", nivel="c",
    dict(t="mision", text="Di «Oye Siri, pon un temporizador de diez minutos» y baila o brinca hasta que suene."),
    dict(t="mision", text="Ve a la pantalla de inicio deslizando un dedo desde abajo hasta sentir la vibración."),
    dict(t="mision", text="Di «Oye Siri, ¿cuánta batería tengo?» y cuéntale a mamá la respuesta."),
-   dict(t="mision", text="Mañana temprano: pregúntale a Siri qué tiempo hace, y sal al sol diez minutos con mamá."),
+   dict(t="mision", text="Mañana temprano: pregúntale a Siri qué tiempo hace, y sal un rato a la luz de la mañana con mamá."),
    dict(t="mision", text="Di «Oye Siri, mándale un mensaje a mamá». Cuando Siri pregunte qué dice, contesta: «Ya terminé mi misión»."),
    dict(t="mision", text="Apaga VoiceOver con tres clics, préstale el teléfono a mamá, y cuando te lo regrese, enciéndelo otra vez."),
   ]),
@@ -244,7 +244,7 @@ dict(num=6, titulo="Practicamos juntas", nivel="c",
  ],
  despedida="¡Terminaste el Nivel 1! Ya sabes moverte con VoiceOver y hablar con Siri.",
  mama=[
-  ("Salud de esta lección: misiones", ["<p>Dos misiones son de salud: bailar o brincar diez minutos con un temporizador de Siri, y salir al sol por la mañana. Repítanlas aunque ya terminen el nivel.</p>"]),
+  ("Su salud: las misiones", ["<p>Dos misiones son de salud: bailar o brincar con un temporizador de Siri, y salir un rato a la luz de la mañana.</p>", "<p>Tu papel es acompañarla y celebrarla. Si le gustan, que las siga haciendo aunque ya termine el nivel.</p>"]),
   ("De qué trata esta lección", [
    "<p>Repaso del Nivel 1 con misiones reales: botones, volumen, pantalla de inicio, Siri, mensajes y prestar el teléfono. Al final ella le enseña un gesto a mamá.</p>"]),
   ("Cómo funcionan las misiones", [
