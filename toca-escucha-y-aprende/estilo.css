@@ -1,0 +1,82 @@
+/* Toca, escucha y aprende: estilo de las lecciones de ella.
+   Una pantalla a la vez, sin desplazar. Los botones empiezan enormes (nivel a)
+   y se hacen más pequeños y numerosos lección por lección (niveles b y c). */
+:root{color-scheme:light;--fg:#14213d;--muted:#4a5568;--line:#e2e8f0;--sky:#1d4ed8;--sky-bg:#e8efff;--org:#F97316;--org-ink:#9a3d06;
+  --ok:#0f7a4a;--ok-bg:#e6f6ee;--no:#b42318;--no-bg:#fdecea;--pur:#7a3fb8;--font:"Atkinson Hyperlegible",Verdana,system-ui,sans-serif}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{height:100%;margin:0;overflow:hidden}
+body{background:#fff;color:var(--fg);font-family:var(--font);line-height:1.4}
+button,a{font-family:var(--font)}
+button{cursor:pointer}
+button:focus-visible,a:focus-visible{outline:4px solid var(--sky);outline-offset:4px}
+[tabindex="-1"]:focus{outline:none}
+
+.screen{position:fixed;inset:0;display:flex;flex-direction:column;
+  padding:max(16px,env(safe-area-inset-top,0px)) max(18px,env(safe-area-inset-right,0px)) max(14px,env(safe-area-inset-bottom,0px)) max(18px,env(safe-area-inset-left,0px))}
+.top{font-size:18px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px;min-height:1.3em}
+.body{flex:1;min-height:0;overflow-y:auto;display:flex;flex-direction:column;justify-content:center;max-width:720px;width:100%;margin:0 auto}
+h1,h2{line-height:1.12;margin:0 0 12px;color:var(--sky)}
+h1{font-size:clamp(30px,8vw,42px);color:var(--fg)}
+h2{font-size:clamp(28px,7.4vw,38px)}
+.txt{font-size:clamp(28px,7.6vw,38px);line-height:1.35;margin:0}
+.fb{font-size:clamp(23px,6vw,28px);font-weight:700;margin:16px 0 0}
+.fb:empty{display:none}
+.fb.good{color:var(--ok)}.fb.bad{color:var(--no)}
+.stars{font-size:30px;letter-spacing:4px;margin:8px 0 0}
+.stars:empty{display:none}
+
+/* Botones de respuesta */
+.choices{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:20px}
+.choices button{min-height:clamp(100px,16vh,130px);border-radius:24px;font-size:clamp(28px,7.6vw,36px);font-weight:700;border:4px solid}
+.yes{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+.nope{background:var(--no-bg);color:var(--no);border-color:var(--no)}
+.pick{background:#fff;color:var(--fg);border-color:var(--sky)}
+.pick.found{background:var(--ok-bg);color:var(--ok);border-color:var(--ok)}
+
+/* Barra de abajo */
+.bar{display:grid;grid-template-columns:1fr;gap:12px;max-width:720px;width:100%;margin:12px auto 0}
+.bar.two{grid-template-columns:1fr 1fr}
+.bar button,.bar a{display:flex;align-items:center;justify-content:center;text-align:center;text-decoration:none;border-radius:24px;font-weight:700;border:4px solid var(--org);background:#fff;color:var(--org-ink)}
+.bar .go{background:var(--org);color:#fff}
+.bar .home{grid-column:1/-1;border-color:var(--line);color:var(--fg)}
+
+/* Menú de burbujas (nivel c) */
+.bubbles{display:grid;gap:16px;margin-top:6px}
+.bubble{display:flex;align-items:center;gap:18px;min-height:clamp(84px,15vh,120px);border:none;border-radius:999px;padding:0 26px;font-size:clamp(28px,7.6vw,36px);font-weight:700;text-align:left;color:#fff}
+.bubble .n{flex:none;width:52px;height:52px;border-radius:50%;background:#fff;display:grid;place-items:center;font-size:26px}
+.bubble:nth-child(1){background:var(--sky)}.bubble:nth-child(1) .n{color:var(--sky)}
+.bubble:nth-child(2){background:var(--ok)}.bubble:nth-child(2) .n{color:var(--ok)}
+.bubble:nth-child(3){background:var(--pur)}.bubble:nth-child(3) .n{color:var(--pur)}
+
+/* Nivel a: un solo botón gigante */
+.nivel-a .bar button,.nivel-a .bar a{min-height:clamp(110px,18vh,150px);font-size:clamp(32px,9vw,42px)}
+/* Nivel b: Atrás y Siguiente */
+.nivel-b .bar button,.nivel-b .bar a{min-height:clamp(92px,14vh,120px);font-size:clamp(26px,7vw,34px)}
+/* Nivel c: más botones y más pequeños, como una app real */
+.nivel-c .txt{font-size:clamp(25px,6.6vw,32px)}
+.nivel-c .bar button,.nivel-c .bar a{min-height:72px;font-size:clamp(22px,6vw,27px);border-radius:18px}
+.nivel-c .bar .home{min-height:56px;font-size:20px}
+.nivel-c .choices{grid-template-columns:1fr 1fr;gap:12px}
+.nivel-c .choices button{min-height:72px;font-size:clamp(22px,6vw,27px);border-radius:18px;border-width:3px}
+.nivel-c .choices.many{grid-template-columns:repeat(3,1fr);gap:8px}
+.nivel-c .choices.many button{min-height:64px;font-size:clamp(18px,5vw,23px);padding:4px;overflow-wrap:anywhere}
+
+@media (max-height:620px){
+  .top{font-size:15px}h2{font-size:27px;margin-bottom:8px}
+  .txt{font-size:clamp(25px,6.8vw,32px)}
+  .nivel-a .bar button,.nivel-a .bar a{min-height:96px;font-size:32px}
+  .nivel-b .bar button,.nivel-b .bar a{min-height:76px;font-size:26px}
+  .nivel-c .txt{font-size:24px}
+  .nivel-c .bar button,.nivel-c .bar a{min-height:60px;font-size:21px}
+  .nivel-c .bar .home{min-height:48px}
+  .nivel-c .choices button{min-height:56px}
+  .nivel-c .choices.many button{min-height:52px}
+  .bubbles{gap:10px}.bubble{min-height:64px;font-size:26px}.bubble .n{width:42px;height:42px;font-size:22px}
+  h1{font-size:28px;margin-bottom:6px}
+  .choices button{min-height:88px}
+  .fb{font-size:21px;margin-top:10px}.stars{font-size:24px}
+}
+.nivel-c .choices{margin-top:14px}
+.nivel-c .fb{margin-top:10px;font-size:clamp(20px,5.4vw,24px)}
+.nivel-c .stars{font-size:24px;margin-top:4px}
