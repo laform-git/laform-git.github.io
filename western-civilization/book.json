@@ -275,5 +275,17 @@
     }
    ]
   }
- ]
+ ],
+ "film": {
+  "en": {
+   "src": "media/how-the-church-built-the-west.mp4",
+   "poster": "media/film-poster.jpg",
+   "label": "Short introduction"
+  },
+  "es": {
+   "src": "media/como-la-iglesia-construyo-occidente.mp4",
+   "poster": "media/film-poster-es.jpg",
+   "label": "Introducción breve"
+  }
+ }
 }
