@@ -22,8 +22,8 @@
  "sections": [
   {
    "title": {
-    "en": "Overview",
-    "es": "Visión general"
+    "en": "Contents",
+    "es": "Contenido"
    },
    "notes": [
     {
@@ -44,15 +44,7 @@
        "Cómo la Iglesia construyó la civilización occidental — Índice de la serie"
       ]
      }
-    }
-   ]
-  },
-  {
-   "title": {
-    "en": "Chapters",
-    "es": "Capítulos"
-   },
-   "notes": [
+    },
     {
      "id": "c01",
      "en": {
