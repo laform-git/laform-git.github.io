@@ -157,3 +157,7 @@ article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;backgrou
 @media (min-width:700px){.ptile.ic svg{width:66px;height:66px}.ptile.ic small{font-size:11px;bottom:20px}}
 .ptile.ic svg{width:66px;height:66px}
 @media (min-width:700px){.ptile.ic svg{width:78px;height:78px}}
+
+/* up link: note → series, series → library */
+.crumbs .libbtn.up{max-width:62vw;min-width:0}.crumbs .libbtn.up span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+@media (max-width:520px){.crumbs.sticky .libbtn.up{max-width:46vw}}
