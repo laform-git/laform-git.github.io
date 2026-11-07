@@ -1,0 +1,710 @@
+{
+ "title": {
+  "en": "Mere Christianity",
+  "es": "Mero cristianismo"
+ },
+ "titleHtml": {
+  "en": "Mere <span>Christianity</span>",
+  "es": "Mero <span>cristianismo</span>"
+ },
+ "eyebrow": {
+  "en": "C. S. Lewis · 1952 · 33 chapters in four books",
+  "es": "C. S. Lewis · 1952 · 33 capítulos en cuatro libros"
+ },
+ "lede": {
+  "en": "From the moral law everyone already appeals to, through what Christians believe and how they live, to the new kind of life God offers: one short study note per chapter, each with meditations and a question to sit with.",
+  "es": "De la ley moral a la que todos apelamos, pasando por lo que creen y cómo viven los cristianos, hasta la nueva clase de vida que Dios ofrece: una nota breve por capítulo, cada una con meditaciones y una pregunta para pensar."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Overview",
+    "es": "Visión general"
+   },
+   "notes": [
+    {
+     "id": "m00",
+     "en": {
+      "title": "Overview",
+      "h1": "Overview",
+      "file": "en/m00.md",
+      "aka": [
+       "Mere Christianity - 0 - Series Hub"
+      ]
+     },
+     "es": {
+      "title": "Visión general",
+      "h1": "Visión general",
+      "file": "es/m00.md",
+      "aka": [
+       "Mero cristianismo - 0 - Índice de la serie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Book 1 · Right and Wrong as a Clue to the Meaning of the Universe",
+    "es": "Libro 1 · El bien y el mal como clave del sentido del universo"
+   },
+   "notes": [
+    {
+     "id": "b1c01",
+     "en": {
+      "title": "The Law Behind the Quarrel",
+      "h1": "The Law Behind the Quarrel",
+      "file": "en/b1c01.md",
+      "aka": [
+       "Mere Christianity - Bk1 Ch1 - The Law Behind the Quarrel"
+      ]
+     },
+     "es": {
+      "title": "La ley detrás de la disputa",
+      "h1": "La ley detrás de la disputa",
+      "file": "es/b1c01.md",
+      "aka": [
+       "Mero cristianismo - L1 C1 - La ley detrás de la disputa"
+      ]
+     }
+    },
+    {
+     "id": "b1c02",
+     "en": {
+      "title": "Instinct and Convention Aren't Enough",
+      "h1": "Instinct and Convention Aren't Enough",
+      "file": "en/b1c02.md",
+      "aka": [
+       "Mere Christianity - Bk1 Ch2 - Instinct and Convention Aren't Enough"
+      ]
+     },
+     "es": {
+      "title": "El instinto y la convención no bastan",
+      "h1": "El instinto y la convención no bastan",
+      "file": "es/b1c02.md",
+      "aka": [
+       "Mero cristianismo - L1 C2 - El instinto y la convención no bastan"
+      ]
+     }
+    },
+    {
+     "id": "b1c03",
+     "en": {
+      "title": "The Reality of the Law",
+      "h1": "The Reality of the Law",
+      "file": "en/b1c03.md",
+      "aka": [
+       "Mere Christianity - Bk1 Ch3 - The Reality of the Law"
+      ]
+     },
+     "es": {
+      "title": "La realidad de la ley",
+      "h1": "La realidad de la ley",
+      "file": "es/b1c03.md",
+      "aka": [
+       "Mero cristianismo - L1 C3 - La realidad de la ley"
+      ]
+     }
+    },
+    {
+     "id": "b1c04",
+     "en": {
+      "title": "What Lies Behind the Law",
+      "h1": "What Lies Behind the Law",
+      "file": "en/b1c04.md",
+      "aka": [
+       "Mere Christianity - Bk1 Ch4 - What Lies Behind the Law"
+      ]
+     },
+     "es": {
+      "title": "Lo que hay detrás de la ley",
+      "h1": "Lo que hay detrás de la ley",
+      "file": "es/b1c04.md",
+      "aka": [
+       "Mero cristianismo - L1 C4 - Lo que hay detrás de la ley"
+      ]
+     }
+    },
+    {
+     "id": "b1c05",
+     "en": {
+      "title": "We Have Cause to Be Uneasy",
+      "h1": "We Have Cause to Be Uneasy",
+      "file": "en/b1c05.md",
+      "aka": [
+       "Mere Christianity - Bk1 Ch5 - We Have Cause to Be Uneasy"
+      ]
+     },
+     "es": {
+      "title": "Tenemos motivos para inquietarnos",
+      "h1": "Tenemos motivos para inquietarnos",
+      "file": "es/b1c05.md",
+      "aka": [
+       "Mero cristianismo - L1 C5 - Tenemos motivos para inquietarnos"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Book 2 · What Christians Believe",
+    "es": "Libro 2 · Lo que creen los cristianos"
+   },
+   "notes": [
+    {
+     "id": "b2c01",
+     "en": {
+      "title": "The Rival Conceptions of God",
+      "h1": "The Rival Conceptions of God",
+      "file": "en/b2c01.md",
+      "aka": [
+       "Mere Christianity - Bk2 Ch1 - The Rival Conceptions of God"
+      ]
+     },
+     "es": {
+      "title": "Las ideas rivales sobre Dios",
+      "h1": "Las ideas rivales sobre Dios",
+      "file": "es/b2c01.md",
+      "aka": [
+       "Mero cristianismo - L2 C1 - Las ideas rivales sobre Dios"
+      ]
+     }
+    },
+    {
+     "id": "b2c02",
+     "en": {
+      "title": "The Invasion",
+      "h1": "The Invasion",
+      "file": "en/b2c02.md",
+      "aka": [
+       "Mere Christianity - Bk2 Ch2 - The Invasion"
+      ]
+     },
+     "es": {
+      "title": "La invasión",
+      "h1": "La invasión",
+      "file": "es/b2c02.md",
+      "aka": [
+       "Mero cristianismo - L2 C2 - La invasión"
+      ]
+     }
+    },
+    {
+     "id": "b2c03",
+     "en": {
+      "title": "The Shocking Alternative",
+      "h1": "The Shocking Alternative",
+      "file": "en/b2c03.md",
+      "aka": [
+       "Mere Christianity - Bk2 Ch3 - The Shocking Alternative"
+      ]
+     },
+     "es": {
+      "title": "La alternativa escandalosa",
+      "h1": "La alternativa escandalosa",
+      "file": "es/b2c03.md",
+      "aka": [
+       "Mero cristianismo - L2 C3 - La alternativa escandalosa"
+      ]
+     }
+    },
+    {
+     "id": "b2c04",
+     "en": {
+      "title": "The Perfect Penitent",
+      "h1": "The Perfect Penitent",
+      "file": "en/b2c04.md",
+      "aka": [
+       "Mere Christianity - Bk2 Ch4 - The Perfect Penitent"
+      ]
+     },
+     "es": {
+      "title": "El penitente perfecto",
+      "h1": "El penitente perfecto",
+      "file": "es/b2c04.md",
+      "aka": [
+       "Mero cristianismo - L2 C4 - El penitente perfecto"
+      ]
+     }
+    },
+    {
+     "id": "b2c05",
+     "en": {
+      "title": "The Practical Conclusion",
+      "h1": "The Practical Conclusion",
+      "file": "en/b2c05.md",
+      "aka": [
+       "Mere Christianity - Bk2 Ch5 - The Practical Conclusion"
+      ]
+     },
+     "es": {
+      "title": "La conclusión práctica",
+      "h1": "La conclusión práctica",
+      "file": "es/b2c05.md",
+      "aka": [
+       "Mero cristianismo - L2 C5 - La conclusión práctica"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Book 3 · Christian Behaviour",
+    "es": "Libro 3 · La conducta cristiana"
+   },
+   "notes": [
+    {
+     "id": "b3c01",
+     "en": {
+      "title": "The Three Parts of Morality",
+      "h1": "The Three Parts of Morality",
+      "file": "en/b3c01.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch1 - The Three Parts of Morality"
+      ]
+     },
+     "es": {
+      "title": "Las tres partes de la moral",
+      "h1": "Las tres partes de la moral",
+      "file": "es/b3c01.md",
+      "aka": [
+       "Mero cristianismo - L3 C1 - Las tres partes de la moral"
+      ]
+     }
+    },
+    {
+     "id": "b3c02",
+     "en": {
+      "title": "The Cardinal Virtues",
+      "h1": "The Cardinal Virtues",
+      "file": "en/b3c02.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch2 - The Cardinal Virtues"
+      ]
+     },
+     "es": {
+      "title": "Las virtudes cardinales",
+      "h1": "Las virtudes cardinales",
+      "file": "es/b3c02.md",
+      "aka": [
+       "Mero cristianismo - L3 C2 - Las virtudes cardinales"
+      ]
+     }
+    },
+    {
+     "id": "b3c03",
+     "en": {
+      "title": "Social Morality",
+      "h1": "Social Morality",
+      "file": "en/b3c03.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch3 - Social Morality"
+      ]
+     },
+     "es": {
+      "title": "La moral social",
+      "h1": "La moral social",
+      "file": "es/b3c03.md",
+      "aka": [
+       "Mero cristianismo - L3 C3 - La moral social"
+      ]
+     }
+    },
+    {
+     "id": "b3c04",
+     "en": {
+      "title": "Morality and Psychoanalysis",
+      "h1": "Morality and Psychoanalysis",
+      "file": "en/b3c04.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch4 - Morality and Psychoanalysis"
+      ]
+     },
+     "es": {
+      "title": "La moral y el psicoanálisis",
+      "h1": "La moral y el psicoanálisis",
+      "file": "es/b3c04.md",
+      "aka": [
+       "Mero cristianismo - L3 C4 - La moral y el psicoanálisis"
+      ]
+     }
+    },
+    {
+     "id": "b3c05",
+     "en": {
+      "title": "Sexual Morality",
+      "h1": "Sexual Morality",
+      "file": "en/b3c05.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch5 - Sexual Morality"
+      ]
+     },
+     "es": {
+      "title": "La moral sexual",
+      "h1": "La moral sexual",
+      "file": "es/b3c05.md",
+      "aka": [
+       "Mero cristianismo - L3 C5 - La moral sexual"
+      ]
+     }
+    },
+    {
+     "id": "b3c06",
+     "en": {
+      "title": "Christian Marriage",
+      "h1": "Christian Marriage",
+      "file": "en/b3c06.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch6 - Christian Marriage"
+      ]
+     },
+     "es": {
+      "title": "El matrimonio cristiano",
+      "h1": "El matrimonio cristiano",
+      "file": "es/b3c06.md",
+      "aka": [
+       "Mero cristianismo - L3 C6 - El matrimonio cristiano"
+      ]
+     }
+    },
+    {
+     "id": "b3c07",
+     "en": {
+      "title": "Forgiveness",
+      "h1": "Forgiveness",
+      "file": "en/b3c07.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch7 - Forgiveness"
+      ]
+     },
+     "es": {
+      "title": "El perdón",
+      "h1": "El perdón",
+      "file": "es/b3c07.md",
+      "aka": [
+       "Mero cristianismo - L3 C7 - El perdón"
+      ]
+     }
+    },
+    {
+     "id": "b3c08",
+     "en": {
+      "title": "The Great Sin",
+      "h1": "The Great Sin",
+      "file": "en/b3c08.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch8 - The Great Sin"
+      ]
+     },
+     "es": {
+      "title": "El gran pecado",
+      "h1": "El gran pecado",
+      "file": "es/b3c08.md",
+      "aka": [
+       "Mero cristianismo - L3 C8 - El gran pecado"
+      ]
+     }
+    },
+    {
+     "id": "b3c09",
+     "en": {
+      "title": "Charity",
+      "h1": "Charity",
+      "file": "en/b3c09.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch9 - Charity"
+      ]
+     },
+     "es": {
+      "title": "La caridad",
+      "h1": "La caridad",
+      "file": "es/b3c09.md",
+      "aka": [
+       "Mero cristianismo - L3 C9 - La caridad"
+      ]
+     }
+    },
+    {
+     "id": "b3c10",
+     "en": {
+      "title": "Hope",
+      "h1": "Hope",
+      "file": "en/b3c10.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch10 - Hope"
+      ]
+     },
+     "es": {
+      "title": "La esperanza",
+      "h1": "La esperanza",
+      "file": "es/b3c10.md",
+      "aka": [
+       "Mero cristianismo - L3 C10 - La esperanza"
+      ]
+     }
+    },
+    {
+     "id": "b3c11",
+     "en": {
+      "title": "Faith",
+      "h1": "Faith",
+      "file": "en/b3c11.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch11 - Faith"
+      ]
+     },
+     "es": {
+      "title": "La fe",
+      "h1": "La fe",
+      "file": "es/b3c11.md",
+      "aka": [
+       "Mero cristianismo - L3 C11 - La fe"
+      ]
+     }
+    },
+    {
+     "id": "b3c12",
+     "en": {
+      "title": "Faith (cont.)",
+      "h1": "Faith (cont.)",
+      "file": "en/b3c12.md",
+      "aka": [
+       "Mere Christianity - Bk3 Ch12 - Faith (cont.)"
+      ]
+     },
+     "es": {
+      "title": "La fe (continuación)",
+      "h1": "La fe (continuación)",
+      "file": "es/b3c12.md",
+      "aka": [
+       "Mero cristianismo - L3 C12 - La fe (continuación)"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Book 4 · Beyond Personality",
+    "es": "Libro 4 · Más allá de la personalidad"
+   },
+   "notes": [
+    {
+     "id": "b4c01",
+     "en": {
+      "title": "Making and Begetting",
+      "h1": "Making and Begetting",
+      "file": "en/b4c01.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch1 - Making and Begetting"
+      ]
+     },
+     "es": {
+      "title": "Hacer y engendrar",
+      "h1": "Hacer y engendrar",
+      "file": "es/b4c01.md",
+      "aka": [
+       "Mero cristianismo - L4 C1 - Hacer y engendrar"
+      ]
+     }
+    },
+    {
+     "id": "b4c02",
+     "en": {
+      "title": "The Three-Personal God",
+      "h1": "The Three-Personal God",
+      "file": "en/b4c02.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch2 - The Three-Personal God"
+      ]
+     },
+     "es": {
+      "title": "El Dios tripersonal",
+      "h1": "El Dios tripersonal",
+      "file": "es/b4c02.md",
+      "aka": [
+       "Mero cristianismo - L4 C2 - El Dios tripersonal"
+      ]
+     }
+    },
+    {
+     "id": "b4c03",
+     "en": {
+      "title": "Time and Beyond Time",
+      "h1": "Time and Beyond Time",
+      "file": "en/b4c03.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch3 - Time and Beyond Time"
+      ]
+     },
+     "es": {
+      "title": "El tiempo y más allá del tiempo",
+      "h1": "El tiempo y más allá del tiempo",
+      "file": "es/b4c03.md",
+      "aka": [
+       "Mero cristianismo - L4 C3 - El tiempo y más allá del tiempo"
+      ]
+     }
+    },
+    {
+     "id": "b4c04",
+     "en": {
+      "title": "Good Infection",
+      "h1": "Good Infection",
+      "file": "en/b4c04.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch4 - Good Infection"
+      ]
+     },
+     "es": {
+      "title": "El buen contagio",
+      "h1": "El buen contagio",
+      "file": "es/b4c04.md",
+      "aka": [
+       "Mero cristianismo - L4 C4 - El buen contagio"
+      ]
+     }
+    },
+    {
+     "id": "b4c05",
+     "en": {
+      "title": "The Obstinate Toy Soldiers",
+      "h1": "The Obstinate Toy Soldiers",
+      "file": "en/b4c05.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch5 - The Obstinate Toy Soldiers"
+      ]
+     },
+     "es": {
+      "title": "Los soldaditos de plomo testarudos",
+      "h1": "Los soldaditos de plomo testarudos",
+      "file": "es/b4c05.md",
+      "aka": [
+       "Mero cristianismo - L4 C5 - Los soldaditos de plomo testarudos"
+      ]
+     }
+    },
+    {
+     "id": "b4c06",
+     "en": {
+      "title": "Two Notes",
+      "h1": "Two Notes",
+      "file": "en/b4c06.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch6 - Two Notes"
+      ]
+     },
+     "es": {
+      "title": "Dos notas",
+      "h1": "Dos notas",
+      "file": "es/b4c06.md",
+      "aka": [
+       "Mero cristianismo - L4 C6 - Dos notas"
+      ]
+     }
+    },
+    {
+     "id": "b4c07",
+     "en": {
+      "title": "Let's Pretend",
+      "h1": "Let's Pretend",
+      "file": "en/b4c07.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch7 - Let's Pretend"
+      ]
+     },
+     "es": {
+      "title": "Hagamos como si",
+      "h1": "Hagamos como si",
+      "file": "es/b4c07.md",
+      "aka": [
+       "Mero cristianismo - L4 C7 - Hagamos como si"
+      ]
+     }
+    },
+    {
+     "id": "b4c08",
+     "en": {
+      "title": "Is Christianity Hard or Easy",
+      "h1": "Is Christianity Hard or Easy",
+      "file": "en/b4c08.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch8 - Is Christianity Hard or Easy"
+      ]
+     },
+     "es": {
+      "title": "Es fácil o difícil el cristianismo",
+      "h1": "Es fácil o difícil el cristianismo",
+      "file": "es/b4c08.md",
+      "aka": [
+       "Mero cristianismo - L4 C8 - Es fácil o difícil el cristianismo"
+      ]
+     }
+    },
+    {
+     "id": "b4c09",
+     "en": {
+      "title": "Counting the Cost",
+      "h1": "Counting the Cost",
+      "file": "en/b4c09.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch9 - Counting the Cost"
+      ]
+     },
+     "es": {
+      "title": "Calcular el costo",
+      "h1": "Calcular el costo",
+      "file": "es/b4c09.md",
+      "aka": [
+       "Mero cristianismo - L4 C9 - Calcular el costo"
+      ]
+     }
+    },
+    {
+     "id": "b4c10",
+     "en": {
+      "title": "Nice People or New Men",
+      "h1": "Nice People or New Men",
+      "file": "en/b4c10.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch10 - Nice People or New Men"
+      ]
+     },
+     "es": {
+      "title": "Gente amable u hombres nuevos",
+      "h1": "Gente amable u hombres nuevos",
+      "file": "es/b4c10.md",
+      "aka": [
+       "Mero cristianismo - L4 C10 - Gente amable u hombres nuevos"
+      ]
+     }
+    },
+    {
+     "id": "b4c11",
+     "en": {
+      "title": "The New Men",
+      "h1": "The New Men",
+      "file": "en/b4c11.md",
+      "aka": [
+       "Mere Christianity - Bk4 Ch11 - The New Men"
+      ]
+     },
+     "es": {
+      "title": "Los hombres nuevos",
+      "h1": "Los hombres nuevos",
+      "file": "es/b4c11.md",
+      "aka": [
+       "Mero cristianismo - L4 C11 - Los hombres nuevos"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

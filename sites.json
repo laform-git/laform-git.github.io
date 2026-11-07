@@ -323,5 +323,37 @@
     "sym": "Ac",
     "num": 18,
     "icon": "<path d=\"M12 12h40M14 18h36M12 56h40M16 50h32\"/><path d=\"M20 18v32M28 18v32M36 18v14l-4 6l4 4v8M44 18v32\"/>"
+  },
+  {
+    "name": "How the Catholic Church Built Western Civilization",
+    "section": "Mindforge",
+    "path": "western-civilization/",
+    "label": "Thomas E. Woods, Jr.",
+    "blurb": "Universities, science, law, economics, charity, art and morality: what the Church built, chapter by chapter.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Cómo la Iglesia construyó la civilización occidental",
+    "label_es": "Thomas E. Woods, Jr.",
+    "blurb_es": "Universidades, ciencia, derecho, economía, caridad, arte y moral: lo que la Iglesia construyó, capítulo por capítulo.",
+    "path_es": "western-civilization/#es/",
+    "sym": "Wc",
+    "num": 22,
+    "icon": "<path d=\"M10 54h44M14 54V30M24 54V30M40 54V30M50 54V30M8 30h48L32 12z\"/><path d=\"M32 4v6M29 7h6\"/>"
+  },
+  {
+    "name": "Mere Christianity",
+    "section": "Mindforge",
+    "path": "mere-christianity/",
+    "label": "C. S. Lewis",
+    "blurb": "From the moral law to the new kind of life God offers: one study note for each of the 33 chapters.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Mero cristianismo",
+    "label_es": "C. S. Lewis",
+    "blurb_es": "De la ley moral a la nueva clase de vida que Dios ofrece: una nota de estudio por cada uno de los 33 capítulos.",
+    "path_es": "mere-christianity/#es/",
+    "sym": "Mc",
+    "num": 23,
+    "icon": "<path d=\"M32 8v48M18 22h28\"/><path d=\"M12 56c6-8 14-12 20-12s14 4 20 12\"/>"
   }
 ]

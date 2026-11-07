@@ -1,0 +1,287 @@
+{
+ "title": {
+  "en": "How the Catholic Church Built Western Civilization",
+  "es": "Cómo la Iglesia construyó la civilización occidental"
+ },
+ "titleHtml": {
+  "en": "How the Catholic Church Built <span>Western Civilization</span>",
+  "es": "Cómo la Iglesia construyó la <span>civilización occidental</span>"
+ },
+ "eyebrow": {
+  "en": "Thomas E. Woods, Jr. · 2005 · 11 chapters + conclusion",
+  "es": "Thomas E. Woods, Jr. · 2005 · 11 capítulos y conclusión"
+ },
+ "lede": {
+  "en": "Universities, science, international law, economics, charity, art and morality: what the Church built, chapter by chapter, with the evidence, the objections and questions for discussion.",
+  "es": "Universidades, ciencia, derecho internacional, economía, caridad, arte y moral: lo que la Iglesia construyó, capítulo por capítulo, con las pruebas, las objeciones y preguntas para discutir."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Overview",
+    "es": "Visión general"
+   },
+   "notes": [
+    {
+     "id": "c00",
+     "en": {
+      "title": "Overview",
+      "h1": "Overview",
+      "file": "en/c00.md",
+      "aka": [
+       "How the Catholic Church Built Western Civilization - 0 - Series Hub"
+      ]
+     },
+     "es": {
+      "title": "Visión general",
+      "h1": "Visión general",
+      "file": "es/c00.md",
+      "aka": [
+       "Cómo la Iglesia construyó la civilización occidental — Índice de la serie"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Chapters",
+    "es": "Capítulos"
+   },
+   "notes": [
+    {
+     "id": "c01",
+     "en": {
+      "title": "1. The Indispensable Church",
+      "h1": "1. The Indispensable Church",
+      "file": "en/c01.md",
+      "aka": [
+       "01 — The Indispensable Church"
+      ]
+     },
+     "es": {
+      "title": "1. La Iglesia indispensable",
+      "h1": "1. La Iglesia indispensable",
+      "file": "es/c01.md",
+      "aka": [
+       "01 — La Iglesia indispensable"
+      ]
+     }
+    },
+    {
+     "id": "c02",
+     "en": {
+      "title": "2. A Light in the Darkness",
+      "h1": "2. A Light in the Darkness",
+      "file": "en/c02.md",
+      "aka": [
+       "02 — A Light in the Darkness"
+      ]
+     },
+     "es": {
+      "title": "2. Una luz en la oscuridad",
+      "h1": "2. Una luz en la oscuridad",
+      "file": "es/c02.md",
+      "aka": [
+       "02 — Una luz en la oscuridad"
+      ]
+     }
+    },
+    {
+     "id": "c03",
+     "en": {
+      "title": "3. How the Monks Saved Civilization",
+      "h1": "3. How the Monks Saved Civilization",
+      "file": "en/c03.md",
+      "aka": [
+       "03 — How the Monks Saved Civilization"
+      ]
+     },
+     "es": {
+      "title": "3. Cómo los monjes salvaron la civilización",
+      "h1": "3. Cómo los monjes salvaron la civilización",
+      "file": "es/c03.md",
+      "aka": [
+       "03 — Cómo los monjes salvaron la civilización"
+      ]
+     }
+    },
+    {
+     "id": "c04",
+     "en": {
+      "title": "4. The Church and the University",
+      "h1": "4. The Church and the University",
+      "file": "en/c04.md",
+      "aka": [
+       "04 — The Church and the University"
+      ]
+     },
+     "es": {
+      "title": "4. La Iglesia y la universidad",
+      "h1": "4. La Iglesia y la universidad",
+      "file": "es/c04.md",
+      "aka": [
+       "04 — La Iglesia y la universidad"
+      ]
+     }
+    },
+    {
+     "id": "c05",
+     "en": {
+      "title": "5. The Church and Science",
+      "h1": "5. The Church and Science",
+      "file": "en/c05.md",
+      "aka": [
+       "05 — The Church and Science"
+      ]
+     },
+     "es": {
+      "title": "5. La Iglesia y la ciencia",
+      "h1": "5. La Iglesia y la ciencia",
+      "file": "es/c05.md",
+      "aka": [
+       "05 — La Iglesia y la ciencia"
+      ]
+     }
+    },
+    {
+     "id": "c06",
+     "en": {
+      "title": "6. Art, Architecture, and the Church",
+      "h1": "6. Art, Architecture, and the Church",
+      "file": "en/c06.md",
+      "aka": [
+       "06 — Art, Architecture, and the Church"
+      ]
+     },
+     "es": {
+      "title": "6. El arte, la arquitectura y la Iglesia",
+      "h1": "6. El arte, la arquitectura y la Iglesia",
+      "file": "es/c06.md",
+      "aka": [
+       "06 — El arte, la arquitectura y la Iglesia"
+      ]
+     }
+    },
+    {
+     "id": "c07",
+     "en": {
+      "title": "7. The Origins of International Law",
+      "h1": "7. The Origins of International Law",
+      "file": "en/c07.md",
+      "aka": [
+       "07 — The Origins of International Law"
+      ]
+     },
+     "es": {
+      "title": "7. Los orígenes del derecho internacional",
+      "h1": "7. Los orígenes del derecho internacional",
+      "file": "es/c07.md",
+      "aka": [
+       "07 — Los orígenes del derecho internacional"
+      ]
+     }
+    },
+    {
+     "id": "c08",
+     "en": {
+      "title": "8. The Church and Economics",
+      "h1": "8. The Church and Economics",
+      "file": "en/c08.md",
+      "aka": [
+       "08 — The Church and Economics"
+      ]
+     },
+     "es": {
+      "title": "8. La Iglesia y la economía",
+      "h1": "8. La Iglesia y la economía",
+      "file": "es/c08.md",
+      "aka": [
+       "08 — La Iglesia y la economía"
+      ]
+     }
+    },
+    {
+     "id": "c09",
+     "en": {
+      "title": "9. How Catholic Charity Changed the World",
+      "h1": "9. How Catholic Charity Changed the World",
+      "file": "en/c09.md",
+      "aka": [
+       "09 — How Catholic Charity Changed the World"
+      ]
+     },
+     "es": {
+      "title": "9. Cómo la caridad católica cambió el mundo",
+      "h1": "9. Cómo la caridad católica cambió el mundo",
+      "file": "es/c09.md",
+      "aka": [
+       "09 — Cómo la caridad católica cambió el mundo"
+      ]
+     }
+    },
+    {
+     "id": "c10",
+     "en": {
+      "title": "10. The Church and Western Law",
+      "h1": "10. The Church and Western Law",
+      "file": "en/c10.md",
+      "aka": [
+       "10 — The Church and Western Law"
+      ]
+     },
+     "es": {
+      "title": "10. La Iglesia y el derecho occidental",
+      "h1": "10. La Iglesia y el derecho occidental",
+      "file": "es/c10.md",
+      "aka": [
+       "10 — La Iglesia y el derecho occidental"
+      ]
+     }
+    },
+    {
+     "id": "c11",
+     "en": {
+      "title": "11. The Church and Western Morality",
+      "h1": "11. The Church and Western Morality",
+      "file": "en/c11.md",
+      "aka": [
+       "11 — The Church and Western Morality"
+      ]
+     },
+     "es": {
+      "title": "11. La Iglesia y la moral occidental",
+      "h1": "11. La Iglesia y la moral occidental",
+      "file": "es/c11.md",
+      "aka": [
+       "11 — La Iglesia y la moral occidental"
+      ]
+     }
+    },
+    {
+     "id": "c12",
+     "en": {
+      "title": "A World Without God",
+      "h1": "A World Without God",
+      "file": "en/c12.md",
+      "aka": [
+       "Conclusion — A World Without God"
+      ]
+     },
+     "es": {
+      "title": "Un mundo sin Dios",
+      "h1": "Un mundo sin Dios",
+      "file": "es/c12.md",
+      "aka": [
+       "Conclusión — Un mundo sin Dios"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
