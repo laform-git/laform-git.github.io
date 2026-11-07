@@ -17,7 +17,7 @@ def leccion(L):
     js = json.dumps(data, ensure_ascii=False, indent=1).replace('</', '<\\/')
     # Texto de respaldo si el script no carga
     nos = ''.join(f'<p>{html.escape(p["text"])}</p>' for s in L['secciones'] for p in s['pantallas'])
-    return (HEAD + f'<title>Lección {n} · {SERIE}</title>\n{FONT}\n<link rel="stylesheet" href="estilo.css">\n</head><body>\n'
+    return (HEAD + f'<title>Lección {n} · {SERIE}</title>\n{FONT}\n<link rel="stylesheet" href="estilo.css">\n<script src="../lib/tech-theme.js" data-toggle="none" data-lang="es"></script>\n</head><body>\n'
             f'<main id="app"></main>\n<noscript><div style="padding:20px;font-size:24px"><h1>Lección {n}: {html.escape(L["titulo"])}</h1>{nos}</div></noscript>\n'
             f'<script>window.LECCION={js};</script>\n<script src="leccion.js"></script>\n</body></html>\n')
 
@@ -37,7 +37,7 @@ def mama(L):
         secs.append(f'  <section class="sec say" style="--k:var(--c{k%6+1})">\n    <h2>{h}</h2>\n    ' + '\n    '.join(parts) + '\n  </section>\n')
     nxt = (f'<a class="next" href="leccion-{n+1}-mama.html"><small>Siguiente</small>Notas de la lección {n+1}</a>' if n < N
            else '<a class="next" href="./"><small>Inicio</small>Todas las lecciones</a>')
-    return (HEAD + f'<title>Lección {n} · Notas para mamá · {SERIE}</title>\n{FONT}\n<link rel="stylesheet" href="mama.css">\n</head><body>\n<main class="wrap">\n'
+    return (HEAD + f'<title>Lección {n} · Notas para mamá · {SERIE}</title>\n{FONT}\n<link rel="stylesheet" href="mama.css">\n<script src="../lib/tech-theme.js" data-toggle="bottom" data-lang="es"></script>\n</head><body>\n<main class="wrap">\n'
             f'  <p class="kicker">{SERIE} · Lección {n}</p>\n  <h1>Notas para mamá: {html.escape(L["titulo"])}</h1>\n\n' + VOICE + '\n' + '\n'.join(secs) +
             f'\n  <nav class="end" aria-label="Más">\n    <a href="leccion-{n}.html"><small>Volver</small>La lección de ella</a>\n    {nxt}\n  </nav>\n</main>\n<script src="mama.js"></script>\n</body></html>\n')
 
@@ -58,7 +58,7 @@ def index():
  'a.m{font-size:16px;color:var(--sky);font-weight:700;padding:6px 16px}\n'
  'a:focus-visible{outline:4px solid var(--sky);outline-offset:3px}\n'
  '.n{flex:none;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:#fff;font-weight:700}\n'
- '.later{margin-top:18px;font-size:18px;color:var(--muted)}\n</style></head><body>\n<div class="wrap">\n'
+ '.later{margin-top:18px;font-size:18px;color:var(--muted)}\n</style>\n<script src="../lib/tech-theme.js" data-toggle="bottom" data-lang="es"></script>\n</head><body>\n<div class="wrap">\n'
  f'  <h1>{SERIE}</h1>\n  <p class="lede">Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero. Cada lección tiene una página para ella, que se escucha con VoiceOver, y notas para mamá.</p>\n'
  '  <section class="lvl" aria-labelledby="n1">\n    <h2 id="n1">Nivel 1 · Primeros pasos</h2>\n    <ol>\n' + '\n'.join(items) + '\n    </ol>\n  </section>\n'
  '  <p class="later">El Nivel 2 llegará después.</p>\n</div>\n</body></html>\n')
