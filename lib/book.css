@@ -161,3 +161,15 @@ article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;backgrou
 /* up link: note → series, series → library */
 .crumbs .libbtn.up{max-width:62vw;min-width:0}.crumbs .libbtn.up span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
 @media (max-width:520px){.crumbs.sticky .libbtn.up{max-width:46vw}}
+
+/* one-tap controls (261107): theme and language each show only the other choice, side by side in the top bar */
+.crumbs .skinbar{display:inline-flex;margin:0 0 0 auto!important;padding:0!important;max-width:none!important;justify-content:flex-end}
+.crumbs .skinbar+.langs,.crumbs .skinbar~.langs{margin-left:6px!important;gap:0!important}.crumbs:has(.skinbar){gap:6px}
+.crumbs .langs{border:0!important;border-radius:0!important;overflow:visible!important;width:auto!important;order:0!important}
+.crumbs .langs .on{display:none!important}
+.crumbs .langs a{font:800 14px/1 var(--display,system-ui)!important;border:1.5px solid var(--accent)!important;background:var(--surface)!important;color:var(--accent)!important;border-radius:999px!important;padding:9px 14px!important;min-height:38px!important;flex:none!important}
+.crumbs .langs a:hover{background:var(--accent-soft,var(--surface))!important}
+.crumbs:not(.sticky){flex-wrap:nowrap!important}
+.crumbs:not(.sticky) .libbtn{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.crumbs .skinbar .onetap,.crumbs .langs a{white-space:nowrap}
+@media (max-width:420px){.crumbs .skinbar .onetap,.crumbs .langs a{padding:8px 11px!important;font-size:13.5px!important}}

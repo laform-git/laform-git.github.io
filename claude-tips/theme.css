@@ -41,3 +41,10 @@ html.dark [style*="color:#15803D"]{color:#7ad694!important}
 html.dark [style*="color:#6D28D9"]{color:#c4a8ff!important}
 html.dark .proj h3{filter:brightness(1.6)}
 }
+
+/* one-tap theme button (261107): shows only the other choice, next to the language link */
+.thm button[aria-pressed="true"],html.dark .thm button[aria-pressed="true"]{display:none}
+.thm button,.thm button:first-child,.thm button:last-child{border-radius:999px!important;border:2px solid #F97316!important;color:#c2410c!important;background:#fff!important;font-weight:700}
+html.dark .thm button{background:#26282b!important;border-color:#F97316!important;color:#fb923c!important}
+.homebar .thm{margin:0 0 0 auto}.homebar .thm+.lang{margin-left:8px}
+.thm button{white-space:nowrap;padding:7px 11px!important}.homebar .lang{white-space:nowrap}
