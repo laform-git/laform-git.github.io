@@ -355,5 +355,21 @@
     "sym": "Mc",
     "num": 23,
     "icon": "<path d=\"M32 8v48M18 22h28\"/><path d=\"M12 56c6-8 14-12 20-12s14 4 20 12\"/>"
+  },
+  {
+    "name": "Scientific Evidence for a Creator",
+    "section": "Faith",
+    "path": "creator-evidence/",
+    "label": "Stephen C. Meyer",
+    "blurb": "DNA's information and the universe's fine-tuning: Meyer's case that design is detectable and points to God. With diagrams.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Evidencia científica de un Creador",
+    "label_es": "Stephen C. Meyer",
+    "blurb_es": "La información del ADN y el ajuste fino del universo: el argumento de Meyer de que el diseño es detectable y apunta a Dios. Con diagramas.",
+    "path_es": "creator-evidence/#es/",
+    "sym": "Sc",
+    "num": 24,
+    "icon": "<path d=\"M22 8c0 10 20 14 20 24s-20 14-20 24\"/><path d=\"M42 8c0 10-20 14-20 24s20 14 20 24\"/><path d=\"M25 18h14M24 32h16M25 46h14\"/>"
   }
 ]

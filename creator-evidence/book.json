@@ -1,0 +1,146 @@
+{
+ "title": {
+  "en": "Scientific Evidence for a Creator",
+  "es": "Evidencia científica de un Creador"
+ },
+ "titleHtml": {
+  "en": "Scientific Evidence <span>for a Creator</span>",
+  "es": "Evidencia científica <span>de un Creador</span>"
+ },
+ "eyebrow": {
+  "en": "Stephen C. Meyer · Study notes · 6 notes",
+  "es": "Stephen C. Meyer · Notas de estudio · 6 notas"
+ },
+ "lede": {
+  "en": "Two independent lines of evidence, the information in DNA and the fine-tuning of the universe, and why Meyer argues they point to a transcendent designer. With diagrams.",
+  "es": "Dos líneas de evidencia independientes, la información del ADN y el ajuste fino del universo, y por qué Meyer sostiene que apuntan a un diseñador trascendente. Con diagramas."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Contents",
+    "es": "Contenido"
+   },
+   "notes": [
+    {
+     "id": "s1",
+     "en": {
+      "title": "The Core Question",
+      "h1": "The Core Question",
+      "file": "en/s1.md",
+      "aka": [
+       "The Core Question"
+      ]
+     },
+     "es": {
+      "title": "La pregunta central",
+      "h1": "La pregunta central",
+      "file": "es/s1.md",
+      "aka": [
+       "La pregunta central"
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "en": {
+      "title": "Line of Evidence #1 — Information in DNA",
+      "h1": "Line of Evidence #1 — Information in DNA",
+      "file": "en/s2.md",
+      "aka": [
+       "Line of Evidence #1 — Information in DNA"
+      ]
+     },
+     "es": {
+      "title": "Primera línea de evidencia: la información en el ADN",
+      "h1": "Primera línea de evidencia: la información en el ADN",
+      "file": "es/s2.md",
+      "aka": [
+       "Primera línea de evidencia: la información en el ADN"
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "en": {
+      "title": "Line of Evidence #2 — Cosmic Fine-Tuning",
+      "h1": "Line of Evidence #2 — Cosmic Fine-Tuning",
+      "file": "en/s3.md",
+      "aka": [
+       "Line of Evidence #2 — Cosmic Fine-Tuning"
+      ]
+     },
+     "es": {
+      "title": "Segunda línea de evidencia: el ajuste fino del cosmos",
+      "h1": "Segunda línea de evidencia: el ajuste fino del cosmos",
+      "file": "es/s3.md",
+      "aka": [
+       "Segunda línea de evidencia: el ajuste fino del cosmos"
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "en": {
+      "title": "From \"Designer\" to Theistic Implications",
+      "h1": "From \"Designer\" to Theistic Implications",
+      "file": "en/s4.md",
+      "aka": [
+       "From \"Designer\" to Theistic Implications"
+      ]
+     },
+     "es": {
+      "title": "Del \"diseñador\" a las implicaciones teístas",
+      "h1": "Del \"diseñador\" a las implicaciones teístas",
+      "file": "es/s4.md",
+      "aka": [
+       "Del \"diseñador\" a las implicaciones teístas"
+      ]
+     }
+    },
+    {
+     "id": "s5",
+     "en": {
+      "title": "Key Names & Sources Cited",
+      "h1": "Key Names & Sources Cited",
+      "file": "en/s5.md",
+      "aka": [
+       "Key Names & Sources Cited"
+      ]
+     },
+     "es": {
+      "title": "Nombres y fuentes citados",
+      "h1": "Nombres y fuentes citados",
+      "file": "es/s5.md",
+      "aka": [
+       "Nombres y fuentes citados"
+      ]
+     }
+    },
+    {
+     "id": "s6",
+     "en": {
+      "title": "One-Paragraph Takeaway",
+      "h1": "One-Paragraph Takeaway",
+      "file": "en/s6.md",
+      "aka": [
+       "One-Paragraph Takeaway"
+      ]
+     },
+     "es": {
+      "title": "Conclusión en un párrafo",
+      "h1": "Conclusión en un párrafo",
+      "file": "es/s6.md",
+      "aka": [
+       "Conclusión en un párrafo"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
