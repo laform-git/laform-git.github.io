@@ -165,11 +165,14 @@ article.note h2 .shr:hover,article.note h2 .shr:focus-visible{opacity:1;backgrou
 /* one-tap controls (261107): theme and language each show only the other choice, side by side in the top bar */
 .crumbs .skinbar{display:inline-flex;margin:0 0 0 auto!important;padding:0!important;max-width:none!important;justify-content:flex-end}
 .crumbs .skinbar+.langs,.crumbs .skinbar~.langs{margin-left:6px!important;gap:0!important}.crumbs:has(.skinbar){gap:6px}
-.crumbs .langs{border:0!important;border-radius:0!important;overflow:visible!important;width:auto!important;order:0!important}
-.crumbs .langs .on{display:none!important}
-.crumbs .langs a{font:800 14px/1 var(--display,system-ui)!important;border:1.5px solid var(--accent)!important;background:var(--surface)!important;color:var(--accent)!important;border-radius:999px!important;padding:9px 14px!important;min-height:38px!important;flex:none!important}
+.crumbs .langs{width:auto!important;order:0!important}
+.crumbs .langs{border:1.5px solid var(--accent)!important;border-radius:999px!important;overflow:hidden!important;flex:none}
+.crumbs .langs a,.crumbs .langs .on{font:800 14px/1 var(--display,system-ui)!important;border:0!important;border-radius:0!important;padding:9px 13px!important;min-height:36px!important;flex:none!important}
+.crumbs .langs a{background:var(--surface)!important;color:var(--accent)!important}
+.crumbs .langs .on{background:var(--accent)!important;color:var(--surface)!important}
 .crumbs .langs a:hover{background:var(--accent-soft,var(--surface))!important}
 .crumbs:not(.sticky){flex-wrap:nowrap!important}
 .crumbs:not(.sticky) .libbtn{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .crumbs .skinbar .onetap,.crumbs .langs a{white-space:nowrap}
-@media (max-width:420px){.crumbs .skinbar .onetap,.crumbs .langs a{padding:8px 11px!important;font-size:13.5px!important}}
+@media (max-width:420px){.crumbs .skinbar .onetap,.crumbs .langs a,.crumbs .langs .on{padding:8px 10px!important;font-size:13px!important}}
+.libbtn .ls{display:none}@media (max-width:420px){.crumbs:not(.sticky) .libbtn .lt{display:none}.crumbs:not(.sticky) .libbtn .ls{display:inline}}
