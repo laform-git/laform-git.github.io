@@ -1,152 +1,152 @@
 # Bikman — Fundamentos de Fisiología, Cap. 1: Células en equilibrio
 
-*Clase fundamental: homeostasis y retroalimentación, cómo las moléculas atraviesan la membrana celular y cómo los iones generan las señales eléctricas que hacen funcionar el sistema nervioso.*
+*Clase de base: cómo el cuerpo se mantiene parejo (homeostasis) y se corrige solo (retroalimentación), cómo pasan las moléculas por la pared de la célula (membrana) y cómo las partículas con carga (iones) crean las señales eléctricas que hacen funcionar los nervios.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 1 (transcripción). Mismo profesor que las series "Why We Get Sick" y "Essentials of Endocrinology", pero es un curso distinto: el funcionamiento de todo el cuerpo construido a partir de la célula. Nueva serie, nuevo hilo de notas.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 1 (transcripción). El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology", pero es otro curso: cómo funciona todo el cuerpo, armado a partir de la célula. Serie nueva, notas nuevas.*
 
 ## Por qué importa
-Esta clase sienta el vocabulario base de todo el curso de fisiología: el sistema nervioso, el músculo, el corazón y los pulmones, el intestino, el sistema endocrino y la grasa reutilizan las tres ideas que se presentan aquí: los circuitos de retroalimentación que restablecen un punto de ajuste, los gradientes que requieren ATP para mantenerse y las señales eléctricas formadas por iones en movimiento.
+Esta clase pone las palabras básicas de todo el curso de fisiología (cómo funciona el cuerpo): los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa usan otra vez las tres ideas que se ven aquí: los círculos que se corrigen solos y regresan a un punto fijo, las diferencias entre adentro y afuera que necesitan energía (ATP) para mantenerse, y las señales eléctricas que salen de partículas con carga que se mueven.
 
-## Planteamiento del alcance — El cuerpo tiene muchos niveles, pero es un todo
-La fisiología estudia el organismo completo: moléculas → células → tejidos/órganos → sistemas de órganos → cuerpo. El orden del curso de Bikman: fisiología celular → sistema nervioso periférico → músculo esquelético → cardiopulmonar → gastrointestinal → endocrino (su favorito, según dice). ✅ Su enfoque: el milagro no es solo que el cuerpo funcione, sino que todo salga bien *con tanta frecuencia*, considerando cuántas cosas podrían salir mal.
+## Lo que abarca — el cuerpo tiene muchos niveles, pero es uno solo
+La fisiología estudia el cuerpo completo: moléculas → células → tejidos y órganos → sistemas de órganos → cuerpo. El orden del curso de Bikman: la célula → los nervios fuera del cerebro → el músculo del esqueleto → el corazón y los pulmones → el aparato digestivo → las hormonas (su favorito, dice). ✅ Su forma de verlo: lo maravilloso no es solo que el cuerpo funcione, sino que todo salga bien *tan seguido*, con todas las cosas que podrían salir mal.
 
-## Frases clave y datos citables (Clase 1)
-- **"El equilibrio es la muerte."** — una célula *necesita* concentraciones diferentes dentro y fuera; el equilibrio significa que la célula deja de funcionar.
-- **Todo el torrente sanguíneo contiene solo alrededor de una cucharadita de glucosa** — una sola barra de chocolate puede contener aproximadamente 10x esa cantidad, por eso una señal de corrección de acción rápida (la insulina) es indispensable. 🟢 Verificación de evidencia: la sangre de un adulto de 70 kg contiene unos 4 g de glucosa, más o menos una cucharadita (Wasserman 2009); una barra de chocolate de tamaño normal suele tener unos 20–30 g de azúcar, así que 5–7x es más preciso que 10x.
-- **El sodio está unas 10x más concentrado fuera de la célula; el potasio, unas 30x más dentro.** La célula gasta energía en mantener este desequilibrio, no en eliminarlo.
-- **La mielina hace que la señal sea unas 50x más rápida** que en el mismo axón sin ella — y se describe a la mielina como rica en colesterol y grasa. 🟢 Verificación de evidencia: el rango estándar de los libros de texto es de 5 a 50 veces, así que 50x es el extremo superior (Guyton & Hall); la mielina tiene el mayor contenido de colesterol del cerebro y el colesterol es indispensable para formarla (Saher 2005).
-- **"El agua persigue a los electrolitos."** — adonde van los iones, el agua los sigue a través de canales.
-- **La lidocaína adormece al bloquear los canales de sodio dependientes de voltaje**, de modo que el nervio no puede despolarizarse y no se forma ninguna señal. ✅ (Hille 1977)
-- **Energía celular = moléculas que permiten a la célula realizar trabajo** (ATP), no "energía" en el sentido de una central eléctrica.
+## Frases clave y datos para recordar (Clase 1)
+- **"Que todo esté igual es la muerte."** — una célula *necesita* que adentro y afuera sean distintos; si se igualan, la célula deja de funcionar.
+- **Toda la sangre del cuerpo tiene solo como una cucharadita de azúcar (glucosa)** — una sola barra de chocolate puede traer más o menos 10 veces eso, y por eso es indispensable una señal que corrija rápido (la insulina). 🟢 Revisión de la evidencia: la sangre de un adulto de 70 kg tiene unos 4 g de glucosa, más o menos una cucharadita (Wasserman 2009); una barra de chocolate de tamaño normal suele tener unos 20–30 g de azúcar, así que 5 a 7 veces es más exacto que 10.
+- **El sodio está unas 10 veces más concentrado afuera de la célula; el potasio, unas 30 veces más adentro.** La célula gasta energía en mantener esta diferencia, no en quitarla.
+- **La mielina hace la señal unas 50 veces más rápida** que en el mismo cable del nervio sin ella — y se dice que la mielina tiene mucho colesterol y grasa. 🟢 Revisión de la evidencia: lo que dicen los libros es de 5 a 50 veces, así que 50 es lo más alto (Guyton & Hall); la mielina es lo que más colesterol tiene en el cerebro y el colesterol es indispensable para formarla (Saher 2005).
+- **"El agua va detrás de las sales (electrolitos)."** — a donde van las partículas con carga, el agua las sigue por unos canales.
+- **La lidocaína duerme la zona porque tapa los canales de sodio que se abren con el voltaje**, y así el nervio no se puede "encender" y no sale ninguna señal. ✅ (Hille 1977)
+- **La energía de la célula = moléculas que le dejan hacer trabajo** (ATP), no "energía" como la de una planta de luz.
 
-## Homeostasis y retroalimentación
-**Homeostasis:** el cuerpo vuelve constantemente hacia un punto de ajuste (lo normal) en innumerables variables.
-- **Temperatura corporal:** se mantiene dentro de un par de grados, alrededor de 36–38 C ✅
-- **pH:** más allá de las afirmaciones de que el cuerpo está "demasiado ácido", se mantiene en un rango excepcionalmente estrecho (en sangre arterial, alrededor de 7.35–7.45) ✅
-- **Glucosa en sangre:** alrededor de 70–110 mg/dL; muy por fuera de ese rango es agudamente peligroso ✅ 🟢 Verificación de evidencia: la ADA define la glucosa normal en ayunas como menor de 100 mg/dL, y hasta unos 140 mg/dL dos horas después de una carga de glucosa sigue siendo normal (ADA 2025).
+## Mantenerse parejo y corregirse solo
+**Homeostasis:** el cuerpo siempre regresa a un punto fijo (lo normal) en muchísimas cosas.
+- **Temperatura del cuerpo:** se mantiene en un par de grados, más o menos 36–38 C ✅
+- **pH (qué tan ácido está):** aunque se diga que el cuerpo está "muy ácido", se mantiene en un rango muy angosto (en la sangre de las arterias, más o menos 7.35–7.45) ✅
+- **Azúcar en la sangre:** más o menos 70–110 mg/dL; muy fuera de eso es peligroso en el momento ✅ 🟢 Revisión de la evidencia: la ADA (asociación de diabetes de EE. UU.) dice que el azúcar normal en ayunas es menos de 100 mg/dL, y hasta unos 140 mg/dL dos horas después de tomar azúcar sigue siendo normal (ADA 2025).
 
-**Retroalimentación negativa** (la opción por defecto): detectar un cambio → provocar una respuesta → la respuesta restablece el punto de partida y se apaga a sí misma. Tres componentes:
+**Corregirse solo hacia atrás (retroalimentación negativa)** (lo normal): notar un cambio → dar una respuesta → la respuesta regresa todo al punto de partida y se apaga sola. Tres partes:
 
-| Componente | Función | Termostato | Glucosa en sangre | Parto (positiva) |
+| Parte | Qué hace | Termostato | Azúcar en la sangre | Parto (hacia adelante) |
 |---|---|---|---|---|
-| **Sensor** | Mide la variable | Termómetro | Célula beta pancreática | Cuello uterino (estiramiento) |
-| **Centro de control** | Compara la lectura con el punto de ajuste | Termostato | Célula beta pancreática | Hipotálamo |
-| **Efector** | Produce la respuesta correctiva | Calefacción / aire acondicionado | Liberación de insulina, que abre puertas para que la glucosa entre a las células | Oxitocina → contracción uterina |
+| **Sensor** | Mide la cosa | Termómetro | Célula beta del páncreas | Cuello de la matriz (estiramiento) |
+| **Centro de control** | Compara lo que mide con el punto fijo | Termostato | Célula beta del páncreas | Hipotálamo (zona del fondo del cerebro) |
+| **El que actúa (efector)** | Da la respuesta que corrige | Calefacción / aire acondicionado | Sale insulina, que abre puertas para que el azúcar entre a las células | Oxitocina → la matriz se aprieta |
 
-- En la fisiología real, las tres partes suelen estar agrupadas: la célula beta es sensor, centro de control y fuente del efector al mismo tiempo. ✅
-- **Retroalimentación positiva:** una señal que se amplifica a sí misma (un micrófono demasiado cerca de la bocina). Poco común, siempre temporal, necesita un propósito preciso y una forma de apagarse. ✅
-- **Ejemplo del parto:** el bebé presiona el cuello uterino → señal de estiramiento al hipotálamo → oxitocina → contracciones uterinas → más estiramiento → más oxitocina, hasta que el nacimiento cierra el circuito. ✅ Bikman señala que la mayoría de los ejemplos de retroalimentación positiva ocurren en el cuerpo femenino, con menos en el cuerpo masculino. 🔴 Verificación de evidencia: este es su enfoque; también hay circuitos positivos en todos los cuerpos, por ejemplo la cascada de la coagulación y la apertura de canales de sodio que impulsa cada potencial de acción (Guyton & Hall).
-- ✅ La transcripción dice que el hipotálamo "libera" oxitocina. Anatómicamente, la oxitocina la fabrican neuronas del hipotálamo (núcleos supraóptico y paraventricular) y se libera a la sangre desde sus terminaciones nerviosas en la hipófisis posterior, así que el hipotálamo sí es el centro de control correcto (Gimpl & Fahrenholz 2001).
-- ✅ Incluso la retroalimentación positiva sirve a la homeostasis: el resultado final (bebé nacido, cuello uterino ya no estirado) es un regreso a un estado estable.
+- En el cuerpo de verdad, las tres partes suelen estar juntas: la célula beta es sensor, centro de control y de donde sale la respuesta al mismo tiempo. ✅
+- **Corregirse hacia adelante (retroalimentación positiva):** una señal que se hace más grande sola (un micrófono muy cerca de la bocina). Es rara, siempre por un rato, necesita un propósito claro y una forma de apagarse. ✅
+- **El ejemplo del parto:** el bebé empuja el cuello de la matriz → señal de estiramiento al hipotálamo → oxitocina → la matriz se aprieta → más estiramiento → más oxitocina, hasta que el nacimiento cierra el círculo. ✅ Bikman dice que casi todos los ejemplos de corregirse hacia adelante pasan en el cuerpo de la mujer, y menos en el del hombre. 🔴 Revisión de la evidencia: es su forma de verlo; también hay círculos hacia adelante en todos los cuerpos, por ejemplo la cadena que forma los coágulos y la apertura de canales de sodio en cada señal del nervio (Guyton & Hall).
+- ✅ La transcripción dice que el hipotálamo "suelta" la oxitocina. Por cómo está hecho el cuerpo, la oxitocina la fabrican neuronas del hipotálamo (núcleos supraóptico y paraventricular) y sale a la sangre desde las puntas de esos nervios en la parte de atrás de la hipófisis, así que el hipotálamo sí es el centro de control correcto (Gimpl & Fahrenholz 2001).
+- ✅ Hasta corregirse hacia adelante sirve para mantenerse parejo: el resultado final (el bebé nacido, el cuello de la matriz ya no estirado) es regresar a un estado estable.
 
-## Transporte de membrana
-La membrana celular es una **bicapa lipídica** cargada de grasas — Bikman usa esto como razón para no temerle a la grasa de la dieta, ya que la grasa es un componente estructural de cada célula. ✅ 🔴 Verificación de evidencia: el dato de la membrana es sólido, pero el cuerpo fabrica él mismo la mayoría de los lípidos de sus membranas, así que esto no resuelve las preguntas sobre la grasa de la dieta; la AHA y la revisión Cochrane se centran en el *tipo* de grasa y favorecen la insaturada sobre la saturada (Sacks 2017; Hooper 2020). Todo lo que entra o sale está estrictamente regulado.
+## Cómo pasan las cosas por la pared de la célula
+La pared de la célula es una **doble capa de grasa** (bicapa lipídica) — Bikman usa esto como razón para no tenerle miedo a la grasa de la comida, porque la grasa es parte de cómo está hecha cada célula. ✅ 🔴 Revisión de la evidencia: lo de la pared de la célula es firme, pero el cuerpo fabrica él mismo casi todas las grasas de sus paredes, así que esto no resuelve las preguntas sobre la grasa de la comida; la asociación del corazón de EE. UU. (AHA) y la revisión Cochrane se fijan en el *tipo* de grasa y prefieren la insaturada sobre la saturada (Sacks 2017; Hooper 2020). Todo lo que entra o sale está muy controlado.
 
-**La configuración de los gradientes (la parte de la que depende todo lo demás):**
-- Sodio: ~10x más alto en el líquido extracelular (LEC) que en el intracelular (LIC) → empuja constantemente hacia **dentro**.
-- Potasio: ~30x más alto en el LIC → se fuga constantemente hacia **fuera**.
-- Los iones que "ruedan cuesta abajo" crean juntos un **gradiente de concentración** y un **gradiente eléctrico** = el **gradiente electroquímico**. ✅
+**Las diferencias entre adentro y afuera (la parte de la que depende todo lo demás):**
+- Sodio: ~10 veces más alto en el líquido de afuera de la célula (LEC) que en el de adentro (LIC) → empuja siempre hacia **adentro**.
+- Potasio: ~30 veces más alto adentro (LIC) → se sale siempre hacia **afuera**.
+- Las partículas con carga que "ruedan cuesta abajo" crean juntas una **diferencia de cantidad** y una **diferencia eléctrica** = la **diferencia electroquímica** (gradiente electroquímico). ✅
 
-| Tipo | Uso de energía | Mecanismo | Notas |
+| Tipo | Energía que usa | Cómo funciona | Notas |
 |---|---|---|---|
-| **Difusión simple — a través de la bicapa** | Ninguno en el momento | La molécula se filtra a través de las capas lipídicas | La velocidad depende de la pendiente del gradiente, la superficie de la membrana y la permeabilidad |
-| **Difusión simple — canal** | Ninguno en el momento | Poro abierto a través de ambas capas | Los iones y el agua usan canales |
-| **Difusión facilitada** | Ninguno en el momento | Un transportador ("Pac-Man") se une a la molécula, cambia de forma y libera exactamente esa cantidad dentro | Regulada con precisión; mediada por transportador |
-| **Transporte activo primario** | Usa ATP directamente | Bomba impulsada por la ruptura de ATP, que mueve moléculas cuesta arriba | La ATPasa de sodio-potasio es el ejemplo famoso |
-| **Activo secundario — simporte** | Indirecto | Un ion va cuesta abajo y otro se va "de aventón" en la **misma** dirección, cuesta arriba | Usa un gradiente construido previamente |
-| **Activo secundario — antiporte** | Indirecto | Un ion va cuesta abajo y otro va en dirección **opuesta**, cuesta arriba | Se cruzan sin chocar |
+| **Pasar solo — por la capa de grasa** | Ninguna en el momento | La molécula se cuela por las capas de grasa | Qué tan rápido depende de qué tan grande es la diferencia, cuánta pared hay y qué tan fácil se deja pasar |
+| **Pasar solo — por un canal** | Ninguna en el momento | Un hoyo abierto que cruza las dos capas | Las partículas con carga y el agua usan canales |
+| **Pasar con ayuda (difusión facilitada)** | Ninguna en el momento | Un transportador ("Pac-Man") agarra la molécula, cambia de forma y la suelta adentro, justo esa cantidad | Muy controlado; con transportador |
+| **Bombear con energía directa (transporte activo primario)** | Usa ATP directo | Una bomba que funciona rompiendo ATP y que mueve moléculas cuesta arriba | La bomba de sodio-potasio (ATPasa de sodio-potasio) es el ejemplo famoso |
+| **Bombear de segunda mano — mismo lado (simporte)** | Indirecta | Una partícula va cuesta abajo y otra se va "de aventón" en el **mismo** sentido, cuesta arriba | Usa una diferencia que ya se armó antes |
+| **Bombear de segunda mano — lados contrarios (antiporte)** | Indirecta | Una partícula va cuesta abajo y otra va en sentido **contrario**, cuesta arriba | Se cruzan sin chocar |
 
-✅ Esta tabla es la referencia más reutilizable de la clase: cada transportador futuro del curso encajará en una de estas filas.
+✅ Esta tabla es lo que más se va a volver a usar de la clase: cada transportador que venga en el curso cae en una de estas filas.
 
-**Puntos clave que vale la pena conservar:**
-- **La metáfora de la piedra en la colina:** pasivo = la piedra rueda cuesta abajo; activo = empujar la piedra cuesta arriba. Incluso el transporte "pasivo" dependió de energía gastada antes para construir el gradiente. ✅
-- **Superficie:** más membrana significa difusión simple más rápida. El ejemplo de Bikman: los músculos más grandes captan glucosa más rápido simplemente por tener más puntos de entrada — una razón por la que aumentar la masa muscular ayuda a regular el azúcar en sangre. ✅ 🟡 La clase lo vincula a la superficie y no especifica el mecanismo de transporte exacto de la entrada de glucosa. ✅ Verificación de evidencia: la glucosa entra al músculo por difusión facilitada a través de transportadores GLUT4 (la insulina y la contracción llevan más de ellos a la membrana), no por difusión simple. El músculo capta la mayor parte de la glucosa que se elimina bajo el efecto de la insulina (DeFronzo 1981), y una mayor masa muscular relativa se asocia con menos resistencia a la insulina y prediabetes (Srikanthan & Karlamangla 2011).
-- **El agua sigue a los iones:** los médicos pueden hacer que se eliminen electrolitos por la orina para que el agua los siga, bajando la presión arterial en personas con exceso de agua corporal. ✅ (el detalle renal deliberadamente no se cubre)
-- **ATP** (adenosín trifosfato): romper los enlaces de fosfato de alta energía (hidrólisis) libera energía con la que la célula "paga" el trabajo. Lo fabrican las mitocondrias a partir de grasas y glucosa. El sufijo **-asa** indica una enzima. ✅
-- **ATPasa de sodio-potasio:** bombea sodio hacia fuera y potasio hacia dentro, cada uno contra su gradiente, usando una sola proteína impulsada por ATP (saca 3 de sodio y mete 2 de potasio por cada ATP). ✅ (Clausen 2017) Restablece el desequilibrio después de la señalización.
+**Puntos clave que vale la pena guardar:**
+- **La comparación de la piedra en el cerro:** pasar solo = la piedra rueda cuesta abajo; bombear = empujar la piedra cuesta arriba. Hasta lo de "pasar solo" dependió de energía que se gastó antes para armar la diferencia. ✅
+- **Cuánta pared hay:** más pared quiere decir que se pasa solo más rápido. El ejemplo de Bikman: los músculos más grandes toman azúcar más rápido solo por tener más puertas de entrada — una razón por la que tener más músculo ayuda a controlar el azúcar en la sangre. ✅ 🟡 La clase lo une a cuánta pared hay y no dice exactamente cómo entra el azúcar. ✅ Revisión de la evidencia: el azúcar entra al músculo "con ayuda" por unos transportadores llamados GLUT4 (la insulina y apretar el músculo ponen más en la pared), no pasando solo. El músculo se lleva casi todo el azúcar que se saca de la sangre con la insulina (DeFronzo 1981), y tener más músculo comparado con el cuerpo va junto con que la insulina funcione mejor y con menos prediabetes (Srikanthan & Karlamangla 2011).
+- **El agua sigue a las partículas con carga:** los médicos pueden hacer que se saquen sales por la orina para que el agua las siga, y así bajar la presión en personas con agua de más en el cuerpo. ✅ (lo del riñón a propósito no se ve aquí)
+- **ATP** (adenosín trifosfato): romper sus uniones de fosfato con mucha energía (hidrólisis) suelta la energía con la que la célula "paga" el trabajo. Lo fabrican las mitocondrias (las "plantas de energía" de la célula) con grasas y azúcar. La terminación **-asa** quiere decir que es una enzima. ✅
+- **La bomba de sodio-potasio (ATPasa):** saca sodio y mete potasio, los dos contra su diferencia, usando una sola proteína que funciona con ATP (saca 3 de sodio y mete 2 de potasio por cada ATP). ✅ (Clausen 2017) Vuelve a armar la diferencia después de cada señal.
 
-## Electrofisiología — Señales eléctricas a partir de iones
-**Potencial de membrana:** el voltaje a través de la membrana (milivoltios), creado por el movimiento de iones. ✅
-- La salida de potasio → hace el interior más **negativo**. La entrada de sodio → lo hace más **positivo**. ✅
-- Un movimiento de potasio ligeramente mayor que el de sodio en reposo mantiene la célula en un **potencial de reposo de alrededor de -70 mV** (polarizada). ✅
+## Señales eléctricas a partir de partículas con carga
+**Voltaje de la pared (potencial de membrana):** la diferencia eléctrica entre adentro y afuera (en milivoltios), que se crea cuando se mueven las partículas con carga. ✅
+- El potasio que sale → hace el interior más **negativo**. El sodio que entra → lo hace más **positivo**. ✅
+- Como en reposo se mueve un poco más potasio que sodio, la célula se queda en un **voltaje de reposo de unos -70 mV** (polarizada). ✅
 
-| Término | Qué sucede | Ion responsable |
+| Palabra | Qué pasa | Partícula responsable |
 |---|---|---|
-| **Despolarización** | El potencial de membrana sube de -70 hacia valores positivos | Entrada rápida de sodio |
-| **Repolarización** | Vuelve hacia -70 | Salida rápida de potasio |
-| **Hiperpolarización** | Baja por debajo de -70 (p. ej., -80, -90) — más lejos de disparar | El potasio sigue saliendo de la célula |
+| **Despolarización** | El voltaje sube de -70 hacia positivo | Entra sodio muy rápido |
+| **Repolarización** | Regresa hacia -70 | Sale potasio muy rápido |
+| **Hiperpolarización** | Baja más de -70 (por ejemplo, -80, -90) — más lejos de dispararse | El potasio se sigue saliendo de la célula |
 
-- 🟡 La clase describe la hiperpolarización como "más potasio entrando" en un punto, mientras que en otros vincula el potasio con su salida de la célula; lo único firme es que **el movimiento de potasio impulsa el desplazamiento negativo**. ✅ Verificación de evidencia: la hiperpolarización se debe a que el potasio sigue **saliendo** mientras los canales de potasio lentos dependientes de voltaje siguen abiertos; lo de "entrando" fue un desliz (Hodgkin & Huxley 1952).
-- La hiperpolarización tiene consecuencias reales: las señales no llegan al corazón o a los nervios, por lo que el corazón puede detenerse o se puede perder la sensibilidad. 🟢 Verificación de evidencia: una célula hiperpolarizada es más difícil de activar, y así es como la acetilcolina hace más lento el corazón; sin embargo, en los trastornos clínicos del potasio, el paro cardíaco es más típico del potasio *alto*, que despolariza las células e inactiva los canales de sodio (Weiss 2017).
+- 🟡 La clase en un momento dice que la hiperpolarización es "más potasio entrando", mientras que en otros une el potasio con su salida de la célula; lo único firme es que **mover potasio empuja el voltaje a negativo**. ✅ Revisión de la evidencia: la hiperpolarización pasa porque el potasio se sigue **saliendo** mientras los canales de potasio lentos siguen abiertos; lo de "entrando" fue un error al hablar (Hodgkin & Huxley 1952).
+- La hiperpolarización tiene efectos reales: las señales no llegan al corazón o a los nervios, así que el corazón se puede parar o se puede perder la sensibilidad. 🟢 Revisión de la evidencia: una célula hiperpolarizada cuesta más prenderla, y así es como la acetilcolina hace más lento el corazón; pero en los problemas de potasio que ven los médicos, que el corazón se pare es más típico del potasio *alto*, que despolariza las células y apaga los canales de sodio (Weiss 2017).
 
-**Potenciales graduados vs. potenciales de acción**
-- **Potencial graduado:** pequeño, local, "pequeños baches" — a menudo por canales con compuerta. Los tres tipos de compuerta: **dependientes de ligando químico** (neurotransmisor, p. ej., acetilcolina), **dependientes de voltaje** (importantes en el músculo esquelético y cardíaco), **dependientes de presión** (tacto, vibración y distensión intestinal por gases). ✅
-- **Umbral: alrededor de -55 mV.** Al alcanzarlo, la respuesta se vuelve de todo o nada. ✅ Un toque demasiado leve para sentirse es un potencial graduado que no alcanzó el umbral.
+**Señales chicas contra señales completas (potenciales graduados contra potenciales de acción)**
+- **Señal chica (potencial graduado):** chica, en un solo lugar, "pequeños baches" — muchas veces por canales con compuerta. Los tres tipos de compuerta: **que se abren con una sustancia química** (un mensajero químico, por ejemplo la acetilcolina), **que se abren con el voltaje** (importantes en el músculo del esqueleto y del corazón), **que se abren con presión** (tocar, vibración y la panza estirada por gases). ✅
+- **El punto de disparo (umbral): unos -55 mV.** Al llegar ahí, la respuesta es de todo o nada. ✅ Un toque tan suave que no se siente es una señal chica que no llegó al punto de disparo.
 
-**Los cuatro pasos de un potencial de acción**
-1. Los potenciales graduados despolarizan la membrana de -70 hasta el umbral (-55).
-2. Se abren los canales de **sodio** dependientes de voltaje; el sodio entra en masa; el potencial sube a alrededor de **+30 mV** (Hodgkin & Huxley 1952).
-3. Los canales de sodio se cierran y se abren los canales de **potasio** dependientes de voltaje; el potasio sale → repolarización rápida.
-4. A menudo hay un breve exceso de hiperpolarización, corregido por la **ATPasa de sodio-potasio**. ✅
+**Los cuatro pasos de una señal completa (potencial de acción)**
+1. Las señales chicas suben el voltaje de -70 hasta el punto de disparo (-55).
+2. Se abren los canales de **sodio** que se abren con el voltaje; el sodio entra de golpe; el voltaje sube a unos **+30 mV** (Hodgkin & Huxley 1952).
+3. Los canales de sodio se cierran y se abren los canales de **potasio** que se abren con el voltaje; el potasio sale → el voltaje regresa rápido.
+4. Muchas veces se pasa un poco para abajo (hiperpolarización), y lo corrige la **bomba de sodio-potasio**. ✅
 
-**Propagación a lo largo de una neurona**
+**Cómo viaja la señal por un nervio**
 - Las neuronas pueden medir varios pies de largo (las células más largas del cuerpo); el **axón** es el hilo largo. ✅
-- **Propagación continua:** señal ininterrumpida a lo largo de un axón no mielinizado — rápida, pero no lo suficiente para muchas necesidades.
-- **Propagación saltatoria:** vainas de mielina ("perlas") envuelven el axón; solo los **nodos** expuestos se despolarizan, así que la señal salta hacia adelante, unas **50x más rápido**. ✅
+- **Viaje seguido (propagación continua):** la señal va sin cortes por un axón sin mielina — rápido, pero no lo bastante para muchas cosas.
+- **Viaje a brincos (propagación saltatoria):** capas de mielina ("perlas") envuelven el axón; solo los **nodos** descubiertos se prenden, así que la señal brinca hacia adelante, unas **50 veces más rápido**. ✅
 
-**Transmisión sináptica** (relevo químico)
-1. El potencial de acción llega a la terminal presináptica.
-2. Se abren los canales de **calcio** dependientes de voltaje; el calcio entra rápidamente (es más alto fuera).
-3. El calcio atrae hacia la membrana las vesículas llenas de neurotransmisor, que liberan su contenido en la **hendidura sináptica**.
-4. El neurotransmisor se une a receptores en la célula postsináptica (neurona, músculo u otro tejido), abriendo canales dependientes de ligando químico.
-5. **Tres formas de apagar la señal:** un transportador de recaptación lo devuelve al interior, las enzimas lo degradan o se difunde lejos. ✅
-- 🟢 Bikman señala el calcio como un tema recurrente en las clases de músculo y corazón.
+**Cómo pasa la señal de una célula a otra (transmisión sináptica)**
+1. La señal completa llega a la punta del nervio.
+2. Se abren los canales de **calcio** que se abren con el voltaje; el calcio entra rápido (hay más afuera).
+3. El calcio jala hacia la pared unas bolsitas llenas de mensajero químico, que sueltan lo que traen en el **espacio entre las dos células** (hendidura sináptica).
+4. El mensajero químico se pega a receptores en la célula de enfrente (neurona, músculo u otro tejido) y abre canales que se abren con sustancias químicas.
+5. **Tres formas de apagar la señal:** un transportador lo vuelve a meter (recaptación), las enzimas lo deshacen o se va flotando lejos. ✅
+- 🟢 Bikman dice que el calcio va a salir una y otra vez en las clases del músculo y el corazón.
 
-## Correcciones clave para tener presentes
-- 🔴 Suponer que el objetivo de una célula es el balance o el equilibrio: la célula trabaja para mantener el interior y el exterior **diferentes**; el equilibrio significa pérdida de función.
-- 🔴 Suponer que la "energía" en biología significa algo como electricidad o combustible: la energía celular es el ATP, moléculas cuyos enlaces se rompen para pagar el trabajo.
-- 🔴 Suponer que la retroalimentación positiva siempre es patológica: es rara, temporal y con propósito (el parto), y aun así termina en un regreso a la normalidad.
-- 🔴 Suponer que el transporte pasivo es "gratis": solo es gratis en el momento, porque la energía se gastó antes para construir el gradiente.
-- 🔴 Suponer que el cuerpo está "demasiado ácido" en un sentido vago: el pH se mantiene en un rango excepcionalmente estrecho mediante ajuste activo.
+## Correcciones clave para recordar
+- 🔴 Pensar que la meta de una célula es que todo esté parejo: la célula trabaja para que adentro y afuera sean **distintos**; que se igualen quiere decir que deja de funcionar.
+- 🔴 Pensar que la "energía" en biología es algo como luz o gasolina: la energía de la célula es el ATP, moléculas cuyas uniones se rompen para pagar el trabajo.
+- 🔴 Pensar que corregirse hacia adelante siempre es una enfermedad: es raro, por un rato y con propósito (el parto), y aun así termina regresando a lo normal.
+- 🔴 Pensar que pasar solo es "gratis": solo es gratis en el momento, porque la energía se gastó antes para armar la diferencia.
+- 🔴 Pensar que el cuerpo está "muy ácido" así nada más: el pH se mantiene en un rango muy angosto porque el cuerpo lo ajusta todo el tiempo.
 
 ## Conclusión práctica
-Cuando cualquier variable fisiológica se desvíe, haz las tres preguntas: **¿cuál es el sensor, dónde se compara con el punto de ajuste y cuál es el efector?** Y siempre que intervenga una señal, una contracción o un impulso nervioso, rastréalo hasta un gradiente iónico mantenido que el ATP está pagando. Ese marco organizará cada sistema en las seis clases restantes.
+Cuando cualquier cosa del cuerpo se salga de lo normal, haz las tres preguntas: **¿cuál es el sensor, dónde se compara con el punto fijo y quién da la respuesta?** Y siempre que haya una señal, un músculo que se aprieta o un impulso del nervio, síguelo hasta una diferencia de partículas con carga que se mantiene y que el ATP está pagando. Esa forma de ver va a ordenar cada sistema en las seis clases que siguen.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dado que la superficie de la membrana acelera la difusión simple, ¿qué sugiere esto sobre por qué desarrollar músculo puede ayudar a regular el azúcar en sangre?**
-A. Los músculos más grandes ralentizan la entrada de glucosa, así que el azúcar en sangre sube menos
-B. La masa muscular solo importa para la fuerza, no para el manejo de la glucosa
-C. \* Una membrana de célula muscular más grande le da a la glucosa más puntos de entrada, así que el músculo puede captar glucosa más rápidamente, lo que ayuda a regular el azúcar en sangre
-*Por qué C: Bikman menciona que los músculos más grandes tienen más superficie de membrana y, por lo tanto, más puntos de entrada para la glucosa, lo que hace de la masa muscular una de las mejores formas de ayudar a regular el azúcar en sangre.*
+**1. Como más pared hace que se pase más rápido, ¿qué sugiere esto sobre por qué tener más músculo puede ayudar a controlar el azúcar en la sangre?**
+A. Los músculos más grandes hacen más lenta la entrada del azúcar, así que el azúcar en la sangre sube menos
+B. El músculo solo importa para la fuerza, no para el azúcar
+C. \* Una pared más grande de las células del músculo le da al azúcar más puertas de entrada, así que el músculo puede tomar azúcar más rápido, y eso ayuda a controlar el azúcar en la sangre
+*Por qué C: Bikman dice que los músculos más grandes tienen más pared y, por eso, más puertas de entrada para el azúcar, lo que hace del músculo una de las mejores formas de ayudar a controlar el azúcar en la sangre.*
 
-**2. En el parto, ¿qué correspondencia de los tres componentes de la retroalimentación es correcta?**
-A. \* Sensor = estiramiento del cuello uterino, centro de control = hipotálamo, efector = oxitocina actuando sobre el útero
-B. Sensor = útero, centro de control = cuello uterino, efector = hipotálamo
-C. Sensor = oxitocina, centro de control = útero, efector = cuello uterino
-*Por qué A: el estiramiento se detecta en el cuello uterino, se interpreta en el hipotálamo y se responde con oxitocina que impulsa contracciones, que estiran aún más el cuello uterino — retroalimentación positiva con las mismas tres partes que la negativa.*
+**2. En el parto, ¿qué forma de unir las tres partes es correcta?**
+A. \* Sensor = estiramiento del cuello de la matriz, centro de control = hipotálamo, el que actúa = la oxitocina sobre la matriz
+B. Sensor = la matriz, centro de control = el cuello de la matriz, el que actúa = el hipotálamo
+C. Sensor = la oxitocina, centro de control = la matriz, el que actúa = el cuello de la matriz
+*Por qué A: el estiramiento se nota en el cuello de la matriz, se lee en el hipotálamo y se responde con oxitocina que hace que la matriz se apriete, y eso estira más el cuello — corregirse hacia adelante con las mismas tres partes que hacia atrás.*
 
-**3. Dado que la lidocaína adormece al bloquear los canales de sodio dependientes de voltaje, ¿por qué eso elimina la sensación?**
-A. Aumenta la salida de potasio, de modo que el nervio se hiperpolariza permanentemente
-B. \* Sin entrada de sodio, el nervio no puede despolarizarse hasta el umbral, así que no se forma ningún potencial de acción y no viaja ninguna señal
-C. Destruye la mielina, por lo que se detiene la conducción saltatoria
-*Por qué B: el potencial de acción depende de la entrada rápida de sodio una vez alcanzado el umbral (-55 mV); si se bloquea ese paso, la señal nunca comienza.*
+**3. Como la lidocaína duerme la zona porque tapa los canales de sodio que se abren con el voltaje, ¿por qué eso quita la sensación?**
+A. Hace que salga más potasio, así que el nervio se queda hiperpolarizado para siempre
+B. \* Sin sodio que entre, el nervio no puede llegar al punto de disparo, así que no se forma ninguna señal completa y no viaja ninguna señal
+C. Destruye la mielina, así que se para el viaje a brincos
+*Por qué B: la señal completa depende de que entre sodio rápido al llegar al punto de disparo (-55 mV); si se tapa ese paso, la señal nunca empieza.*
 
-**4. ¿Por qué el transporte activo secundario cuenta como uso "indirecto" de energía?**
-A. No usa energía en absoluto, como la difusión simple
-B. Consume ATP directamente en el transportador, como la bomba de sodio-potasio
-C. \* Aprovecha un gradiente que se construyó antes con energía, permitiendo que un ion baje por su gradiente para mover otro cuesta arriba (simporte o antiporte)
-*Por qué C: una bomba primaria ya había empujado la piedra cuesta arriba; el simporte y el antiporte simplemente aprovechan ese gradiente almacenado.*
+**4. ¿Por qué bombear de segunda mano cuenta como usar energía "indirecta"?**
+A. No usa nada de energía, como pasar solo
+B. Gasta ATP directo en el transportador, como la bomba de sodio-potasio
+C. \* Aprovecha una diferencia que se armó antes con energía, dejando que una partícula baje por su diferencia para subir otra (mismo lado o lados contrarios)
+*Por qué C: una bomba de energía directa ya había empujado la piedra cuesta arriba; el mismo lado y los lados contrarios solo aprovechan esa diferencia guardada.*
 
-## Hilos abiertos
-- **Sistema nervioso periférico (Clase 2)** — aplicará directamente los potenciales de acción, la propagación y las sinapsis.
-- **Músculo esquelético y corazón (Clases 3–4)** — los canales dependientes de voltaje, el calcio y la hidrólisis de ATP regresan aquí.
-- **Sistema endocrino (Clase 6)** — reaparecen tanto el marco de retroalimentación como el hipotálamo.
-- **Riñón y manejo del agua/electrolitos** — mencionados solo de pasada en esta clase.
+## Temas abiertos
+- **Los nervios fuera del cerebro (Clase 2)** — va a usar directo las señales completas, cómo viajan y cómo pasan de una célula a otra.
+- **El músculo del esqueleto y el corazón (Clases 3–4)** — los canales que se abren con el voltaje, el calcio y romper ATP regresan aquí.
+- **Las hormonas (Clase 6)** — vuelven a salir la forma de corregirse y el hipotálamo.
+- **El riñón y cómo se manejan el agua y las sales** — se mencionan solo de pasada en esta clase.
 
-## Lo que se recortó deliberadamente (autoevaluación)
-- Comentarios personales: las digresiones sobre el termostato en Canadá frente a Florida, su formación de doctorado en bioenergética, las descripciones de neuronas con mímica.
-- Repeticiones de las proporciones de sodio/potasio y de la metáfora de la piedra en la colina más allá de su primer uso claro.
-- Detalle del plan del curso más allá de una línea (se cubre en la nota de cada clase siguiente).
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: los desvíos sobre el termostato en Canadá contra Florida, su doctorado en energía de las células (bioenergética), cuando describía las neuronas con las manos.
+- Repeticiones de las proporciones de sodio y potasio y de la comparación de la piedra en el cerro más allá de la primera vez clara.
+- Detalle del plan del curso más allá de una línea (se ve en la nota de cada clase que sigue).
 
 ---
 **Referencias:**
