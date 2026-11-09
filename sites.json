@@ -371,5 +371,21 @@
     "sym": "Sc",
     "num": 24,
     "icon": "<path d=\"M22 8c0 10 20 14 20 24s-20 14-20 24\"/><path d=\"M42 8c0 10-20 14-20 24s20 14 20 24\"/><path d=\"M25 18h14M24 32h16M25 46h14\"/>"
+  },
+  {
+    "name": "How to Plan Your Life",
+    "section": "Mindforge",
+    "path": "plan-your-life/",
+    "label": "Jordan Peterson",
+    "blurb": "Six sessions on building a vision for your life and turning it into a plan, from order and chaos to faith.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Cómo planear tu vida",
+    "label_es": "Jordan Peterson",
+    "blurb_es": "Seis sesiones para construir una visión de tu vida y convertirla en un plan, del orden y el caos hasta la fe.",
+    "path_es": "plan-your-life/#es/",
+    "sym": "Pl",
+    "num": 25,
+    "icon": "<path d=\"M10 54h12V42h12V30h12V18h8\"/><path d=\"M46 10l8 8l-8 8\"/>"
   }
 ]

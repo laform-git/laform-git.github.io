@@ -1,0 +1,146 @@
+{
+ "title": {
+  "en": "How to Plan Your Life",
+  "es": "Cómo planear tu vida"
+ },
+ "titleHtml": {
+  "en": "How to Plan <span>Your Life</span>",
+  "es": "Cómo planear <span>tu vida</span>"
+ },
+ "eyebrow": {
+  "en": "Jordan Peterson · Peterson Academy · 6 sessions",
+  "es": "Jordan Peterson · Peterson Academy · 6 sesiones"
+ },
+ "lede": {
+  "en": "Order and chaos, boundaries, desire and discipline, fear, tragedy and faith: how to build a vision for your life and turn it into a plan, with the evidence checked and Catholic notes along the way.",
+  "es": "Orden y caos, límites, deseo y disciplina, miedo, tragedia y fe: cómo construir una visión para tu vida y convertirla en un plan, con las pruebas revisadas y notas católicas en el camino."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Sessions",
+    "es": "Sesiones"
+   },
+   "notes": [
+    {
+     "id": "s1",
+     "en": {
+      "title": "1. Between Order and Chaos",
+      "h1": "1. Between Order and Chaos",
+      "file": "en/s1.md",
+      "aka": [
+       "How to Plan Your Life — S1 — Between Order and Chaos"
+      ]
+     },
+     "es": {
+      "title": "1. Entre el orden y el caos",
+      "h1": "1. Entre el orden y el caos",
+      "file": "es/s1.md",
+      "aka": [
+       "Cómo planear tu vida — S1 — Entre el orden y el caos"
+      ]
+     }
+    },
+    {
+     "id": "s2",
+     "en": {
+      "title": "2. The Walled Garden",
+      "h1": "2. The Walled Garden",
+      "file": "en/s2.md",
+      "aka": [
+       "How to Plan Your Life — S2 — The Walled Garden"
+      ]
+     },
+     "es": {
+      "title": "2. El jardín amurallado",
+      "h1": "2. El jardín amurallado",
+      "file": "es/s2.md",
+      "aka": [
+       "Cómo planear tu vida — S2 — El jardín amurallado"
+      ]
+     }
+    },
+    {
+     "id": "s3",
+     "en": {
+      "title": "3. Desire and Discipline",
+      "h1": "3. Desire and Discipline",
+      "file": "en/s3.md",
+      "aka": [
+       "How to Plan Your Life — S3 — Desire and Discipline"
+      ]
+     },
+     "es": {
+      "title": "3. Deseo y disciplina",
+      "h1": "3. Deseo y disciplina",
+      "file": "es/s3.md",
+      "aka": [
+       "Cómo planear tu vida — S3 — Deseo y disciplina"
+      ]
+     }
+    },
+    {
+     "id": "s4",
+     "en": {
+      "title": "4. Fear as a Catalyst",
+      "h1": "4. Fear as a Catalyst",
+      "file": "en/s4.md",
+      "aka": [
+       "How to Plan Your Life — S4 — Fear as a Catalyst"
+      ]
+     },
+     "es": {
+      "title": "4. El miedo como impulso",
+      "h1": "4. El miedo como impulso",
+      "file": "es/s4.md",
+      "aka": [
+       "Cómo planear tu vida — S4 — El miedo como impulso"
+      ]
+     }
+    },
+    {
+     "id": "s5",
+     "en": {
+      "title": "5. Faith in Tragedy",
+      "h1": "5. Faith in Tragedy",
+      "file": "en/s5.md",
+      "aka": [
+       "How to Plan Your Life — S5 — Faith in Tragedy"
+      ]
+     },
+     "es": {
+      "title": "5. La fe en la tragedia",
+      "h1": "5. La fe en la tragedia",
+      "file": "es/s5.md",
+      "aka": [
+       "Cómo planear tu vida — S5 — La fe en la tragedia"
+      ]
+     }
+    },
+    {
+     "id": "s6",
+     "en": {
+      "title": "6. A Higher Vision",
+      "h1": "6. A Higher Vision",
+      "file": "en/s6.md",
+      "aka": [
+       "How to Plan Your Life — S6 — A Higher Vision"
+      ]
+     },
+     "es": {
+      "title": "6. Una visión más alta",
+      "h1": "6. Una visión más alta",
+      "file": "es/s6.md",
+      "aka": [
+       "Cómo planear tu vida — S6 — Una visión más alta"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
