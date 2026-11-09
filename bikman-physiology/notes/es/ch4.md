@@ -1,166 +1,166 @@
 # Bikman — Fundamentos de Fisiología, Cap. 4: Fisiología cardiopulmonar
 
-*Por qué el corazón y los pulmones son un solo sistema: una bomba que arranca sola, un circuito doble, la física de presiones de la respiración y cómo la sangre entrega oxígeno y CO₂ donde se necesitan.*
+*Por qué el corazón y los pulmones son un solo sistema: una bomba que arranca sola, un camino doble, cómo la presión hace que respiremos y cómo la sangre lleva oxígeno y CO₂ a donde hacen falta.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 4 (transcripción). Mismo profesor y mismo hilo del curso que los Cap. 1 a 3; esta clase se basa en la maquinaria de iones/calcio y del músculo esquelético de los capítulos anteriores y da paso a la clase endocrina que sigue.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 4 (transcripción). El mismo maestro y la misma línea del curso que los Cap. 1 a 3; esta clase se apoya en lo de las partículas con carga, el calcio y el músculo del esqueleto de los capítulos anteriores y abre paso a la clase de hormonas que sigue.*
 
 ## Por qué importa
-La única función del corazón es mover la sangre, y la sangre solo vale la pena moverla por lo que los pulmones acaban de hacerle. El enfoque de Bikman: no se puede entender uno sin el otro. Este capítulo aporta la mecánica detrás de las cifras de presión arterial, los ruidos cardíacos, los soplos, la frecuencia respiratoria y un informe de espirometría. También muestra, una vez más, un tema recurrente del curso: el cuerpo se regula a sí mismo mediante la química (CO₂, iones de hidrógeno, estiramiento, presión) y no mediante una conciencia central.
+El único trabajo del corazón es mover la sangre, y la sangre solo vale la pena moverla por lo que los pulmones le acaban de hacer. La forma de verlo de Bikman: no se puede entender uno sin el otro. Este capítulo da cómo funciona lo que hay detrás de los números de la presión, los ruidos del corazón, los soplos, cuántas veces respiramos y un estudio de soplar (espirometría). También muestra, otra vez, algo que se repite en el curso: el cuerpo se maneja solo con la química (CO₂, iones de hidrógeno, estiramiento, presión) y no con un centro que lo piense.
 
-## El "8" de dos circuitos — Recorrido del flujo sanguíneo
-El corazón tiene cuatro cámaras: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo, y cada aurícula se vacía en el ventrículo que tiene debajo. La sangre recorre sin parar un doble circuito; cada uno de los dos lo impulsa un lado del corazón. ✅
+## El "8" de dos caminos — por dónde va la sangre
+El corazón tiene cuatro cuartos: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo, y cada aurícula se vacía en el ventrículo que tiene debajo. La sangre recorre sin parar un camino doble; a cada uno lo empuja un lado del corazón. ✅
 
-| Paso | Adónde va la sangre | Nota |
+| Paso | A dónde va la sangre | Nota |
 |---|---|---|
-| 1 | **Ventrículo izquierdo** → válvula aórtica → cuerpo (circuito sistémico) | La cámara más grande y fuerte; debe impulsar la sangre por todo el cuerpo |
-| 2 | Vena cava → **aurícula derecha** → válvula AV derecha (tricúspide) → **ventrículo derecho** | Las aurículas son débiles; solo se contraen y bajan la sangre a la cámara de abajo |
-| 3 | Ventrículo derecho → arterias pulmonares → **pulmones** (circuito pulmonar) | Tarea fácil y de baja presión, por eso un ventrículo más liviano |
-| 4 | Pulmones → **aurícula izquierda** → válvula AV izquierda (bicúspide) → **ventrículo izquierdo** | El circuito se cierra; ambas aurículas se contraen en el mismo momento |
+| 1 | **Ventrículo izquierdo** → válvula aórtica → cuerpo (camino del cuerpo) | El cuarto más grande y fuerte; tiene que empujar la sangre por todo el cuerpo |
+| 2 | Vena cava → **aurícula derecha** → válvula derecha entre aurícula y ventrículo (tricúspide) → **ventrículo derecho** | Las aurículas son débiles; solo se aprietan y bajan la sangre al cuarto de abajo |
+| 3 | Ventrículo derecho → arterias de los pulmones → **pulmones** (camino de los pulmones) | Trabajo fácil y de poca presión, por eso un ventrículo más ligero |
+| 4 | Pulmones → **aurícula izquierda** → válvula izquierda entre aurícula y ventrículo (bicúspide) → **ventrículo izquierdo** | Se cierra el camino; las dos aurículas se aprietan al mismo tiempo |
 
-Los ventrículos son más gruesos y carnosos que las aurículas porque deben bombear la sangre más lejos. ✅
+Los ventrículos son más gruesos y carnosos que las aurículas porque tienen que bombear la sangre más lejos. ✅
 
-## Ruidos cardíacos y soplos
-- El clásico "lub-dub" lo producen las **válvulas al cerrarse de golpe**, no la sangre en movimiento. ✅
-- **Lub (ruido 1):** el cierre de la válvula AV izquierda (bicúspide) cuando la aurícula izquierda se vacía en el ventrículo. **Dub (ruido 2):** el cierre de la válvula aórtica después de que el ventrículo izquierdo eyecta. ✅ en cuanto a la idea del cierre valvular. ✅ Corrección sobre el momento: el R1 es el cierre de **ambas** válvulas AV (mitral y tricúspide) al inicio de la contracción ventricular, no mientras la aurícula se vacía; el R2 es el cierre de las válvulas aórtica **y** pulmonar (Guyton & Hall).
-- Las válvulas del lado derecho (tricúspide, lado pulmonar) son demasiado silenciosas para oírse con un estetoscopio: baja presión, flujo fácil. El lado izquierdo genera mucha más fuerza, así que sus válvulas son las audibles. 🟡 Verificación de evidencia: los componentes del lado izquierdo son más fuertes, pero los cierres del lado derecho también se oyen; los médicos auscultan un foco tricuspídeo específico y oyen el componente pulmonar como el "desdoblamiento" normal del R2 al inhalar (Guyton & Hall).
-- **Soplo** = el lub-dub se alarga o se difumina. Se nombran dos causas: **estenosis** (la válvula no se abre bien, lo que da un "luuub-dub" alargado) o **regurgitación** (una forma alterada de la válvula deja que la sangre salga a chorro hacia atrás). Por lo general, una de las dos válvulas del lado izquierdo. ✅
+## Los ruidos del corazón y los soplos
+- El típico "lub-dub" lo hacen las **válvulas al cerrarse de golpe**, no la sangre moviéndose. ✅
+- **Lub (ruido 1):** el cierre de la válvula izquierda entre aurícula y ventrículo (bicúspide) cuando la aurícula izquierda se vacía en el ventrículo. **Dub (ruido 2):** el cierre de la válvula aórtica después de que el ventrículo izquierdo saca la sangre. ✅ en cuanto a la idea de que son válvulas cerrándose. ✅ Corrección sobre cuándo pasa: el ruido 1 es el cierre de **las dos** válvulas entre aurícula y ventrículo (mitral y tricúspide) al empezar a apretarse los ventrículos, no mientras la aurícula se vacía; el ruido 2 es el cierre de las válvulas aórtica **y** pulmonar (Guyton & Hall).
+- Las válvulas del lado derecho (tricúspide, lado de los pulmones) son muy calladas para oírse con un estetoscopio: poca presión, la sangre pasa fácil. El lado izquierdo hace mucha más fuerza, así que sus válvulas son las que se oyen. 🟡 Revisión de la evidencia: lo del lado izquierdo se oye más fuerte, pero los cierres del lado derecho también se oyen; los médicos escuchan en un punto especial para la tricúspide y oyen la parte pulmonar como el "desdoble" normal del ruido 2 al meter aire (Guyton & Hall).
+- **Soplo** = el lub-dub se alarga o se hace borroso. Se nombran dos causas: **estenosis** (la válvula no se abre bien, y da un "luuub-dub" alargado) o **regurgitación** (una válvula mal formada deja que la sangre se regrese a chorro). Normalmente es una de las dos válvulas del lado izquierdo. ✅
 
-## Microcirculación — Donde ocurre el trabajo
-Corazón → **arterias** (gruesas, musculosas) → **arteriolas** → **capilares** → **vénulas** → **venas** → corazón. El capilar es "donde se hace el trabajo": el único lugar donde la sangre entrega cosas a las células y recoge otras. ✅ Los capilares sistémicos (músculo, hígado, riñón) liberan oxígeno y captan CO₂; los capilares pulmonares hacen exactamente lo contrario.
+## Los vasos chiquitos — donde se hace el trabajo
+Corazón → **arterias** (gruesas, con músculo) → **arteriolas** → **capilares** → **vénulas** → **venas** → corazón. El capilar es "donde se hace el trabajo": el único lugar donde la sangre les entrega cosas a las células y recoge otras. ✅ Los capilares del cuerpo (músculo, hígado, riñón) sueltan oxígeno y recogen CO₂; los capilares de los pulmones hacen justo lo contrario.
 
-## El ciclo cardíaco y el gasto cardíaco
-- **Diástole** = los *ventrículos* están relajados y llenándose. **Sístole** = los *ventrículos* se contraen y eyectan. La presión arterial diastólica y la sistólica son las presiones en esos dos estados. ✅
-- Bikman insiste en la precisión: son los ventrículos, no "el corazón", los que definen las fases. Técnicamente, las aurículas se contraen al final de la diástole, aportando el último llenado, y eso da inicio a la sístole. ✅
-- **Volumen telediastólico (VTD)** = la sangre en el ventrículo justo antes de la contracción. **Volumen telesistólico (VTS)** = la sangre que queda justo después de la contracción.
-- **Volumen sistólico = VTD − VTS** (lo que sale por latido). **Gasto cardíaco = volumen sistólico × frecuencia cardíaca** (litros por minuto), la métrica más funcional del corazón. ✅
+## El ciclo del corazón y cuánta sangre saca
+- **Diástole** = los *ventrículos* están relajados y llenándose. **Sístole** = los *ventrículos* se aprietan y sacan la sangre. La presión de abajo (diastólica) y la de arriba (sistólica) son las presiones en esos dos momentos. ✅
+- Bikman insiste en ser exacto: son los ventrículos, no "el corazón", los que marcan las fases. Técnicamente, las aurículas se aprietan al final de la diástole, dan el último llenado, y eso da paso a la sístole. ✅
+- **Volumen al final del llenado (VTD)** = la sangre en el ventrículo justo antes de apretarse. **Volumen al final del apretón (VTS)** = la sangre que queda justo después de apretarse.
+- **Sangre por latido (volumen sistólico) = VTD − VTS** (lo que sale en cada latido). **Sangre por minuto (gasto cardíaco) = sangre por latido × latidos por minuto** (litros por minuto), lo que mejor dice cómo trabaja el corazón. ✅
 
-## Por qué el corazón late por sí solo — Conducción y potencial de acción cardíaco
-El músculo esquelético necesita un nervio externo para cada fibra; el corazón genera su propio ritmo. Por eso puede responder al instante al sistema nervioso autónomo: el simpático lo acelera y lo fortalece, el parasimpático lo enlentece. ✅
+## Por qué el corazón late solo — el camino de la señal y la señal del corazón
+El músculo del esqueleto necesita un nervio de fuera para cada fibra; el corazón hace su propio ritmo. Por eso puede responder al momento al sistema automático: el simpático lo acelera y lo hace más fuerte, el parasimpático lo hace más lento. ✅
 
-| Característica | Músculo esquelético (Cap. 3) | Músculo cardíaco |
+| Característica | Músculo del esqueleto (Cap. 3) | Músculo del corazón |
 |---|---|---|
-| **Disparador** | Neurona motora, una por fibra | **Células marcapasos (P)** del nódulo SA; no se necesita neurona |
-| **Propagación de la señal** | Cada fibra por separado; se reclutan algunas, no otras | De célula a célula a través de **uniones en hendidura (gap junctions)** en los **discos intercalares**; todo o nada |
-| **Túbulos T** | Presentes | Presentes en las células ventriculares (más anchos, a la altura de las líneas Z); escasos en las auriculares (Bers 2002) |
-| **Fuente de calcio** | Solo el retículo sarcoplásmico (RS) | **Primero del exterior de la célula** (canales tipo L), que luego abre el receptor de rianodina del RS para la gran liberación |
-| **Eliminación del calcio** | Bomba SERCA de regreso al RS | SERCA **más dos transportadores** que bombean el calcio fuera de la célula (el intercambiador sodio-calcio y la ATPasa de calcio de la membrana plasmática), para una relajación rápida (Bers 2002) |
-| **Ciclo de puentes cruzados** | Igual | Igual; solo difiere la forma en que llega el calcio |
+| **Qué lo dispara** | Una neurona que mueve, una por fibra | **Células marcapasos (P)** del nódulo SA; no hace falta neurona |
+| **Cómo pasa la señal** | Cada fibra por su lado; se usan unas, otras no | De célula a célula por **puertas entre células (uniones en hendidura)** en los **discos intercalares**; todo o nada |
+| **Túbulos T** | Sí tiene | Sí en las células de los ventrículos (más anchos, a la altura de las líneas Z); pocos en las de las aurículas (Bers 2002) |
+| **De dónde viene el calcio** | Solo del retículo sarcoplásmico (RS) | **Primero de afuera de la célula** (canales tipo L), que luego abre el receptor de rianodina del RS para que salga mucho más |
+| **Cómo se quita el calcio** | Bomba SERCA de regreso al RS | SERCA **más dos transportadores** que sacan el calcio de la célula (el que cambia sodio por calcio y la bomba de calcio de la pared), para relajarse rápido (Bers 2002) |
+| **Ciclo de agarrar y jalar** | Igual | Igual; solo cambia cómo llega el calcio |
 
-**La secuencia de conducción:** nódulo SA → paredes auriculares (las aurículas se contraen hacia abajo) → **nódulo AV (una breve pausa deliberada para que los ventrículos se llenen)** → **fibras de Purkinje** hasta la parte inferior del corazón → los ventrículos se contraen de abajo hacia arriba, impulsando la sangre por las salidas de la parte superior. Las válvulas unidireccionales impiden el reflujo porque la propia presión las cierra de golpe. ✅
+**El orden de la señal:** nódulo SA → paredes de las aurículas (las aurículas se aprietan hacia abajo) → **nódulo AV (una pausa corta a propósito para que se llenen los ventrículos)** → **fibras de Purkinje** hasta la parte de abajo del corazón → los ventrículos se aprietan de abajo hacia arriba y empujan la sangre por las salidas de arriba. Las válvulas de un solo sentido no dejan que la sangre se regrese porque la misma presión las cierra de golpe. ✅
 
-## Ley de Frank-Starling
-El gasto cardíaco depende de la **contractilidad ventricular** y del **volumen telediastólico**. Frank-Starling: **cuanto mayor sea el llenado y el estiramiento de los ventrículos, más fuerte será la contracción**. En una gráfica, un VTD más alto da un volumen sistólico más alto. Significado práctico: cuando corres y la sangre regresa más rápido, el corazón se llena más y automáticamente se contrae con más fuerza para eyectarla toda. ✅
+## La ley de Frank-Starling
+La sangre por minuto depende de **qué tan fuerte se aprieta el ventrículo** y de **cuánto se llenó**. Frank-Starling: **entre más se llenan y se estiran los ventrículos, más fuerte se aprietan**. En una gráfica, más llenado da más sangre por latido. Lo que quiere decir en la práctica: cuando corres y la sangre regresa más rápido, el corazón se llena más y solo se aprieta más fuerte para sacarla toda. ✅
 
-## Pulmones — Anatomía y las dos variables del flujo de aire
-- Tráquea → bronquios → bronquiolos, como un sistema de raíces invertido, que terminan en los **alvéolos** (pequeños globos), cada uno envuelto en una red de capilares. Los glóbulos rojos llegan cargados de CO₂, lo dejan en el alvéolo y recogen oxígeno. ✅
-- **El flujo de aire depende de (1) la diferencia de presión entre la atmósfera y los alvéolos y (2) el radio de las vías respiratorias.** ✅
+## Los pulmones — cómo están hechos y las dos cosas que mueven el aire
+- Tráquea → bronquios → bronquiolos, como un sistema de raíces al revés, que terminan en los **alvéolos** (globitos), cada uno envuelto en una red de capilares. Los glóbulos rojos llegan cargados de CO₂, lo dejan en el alvéolo y recogen oxígeno. ✅
+- **El paso del aire depende de (1) la diferencia de presión entre el aire de afuera y los alvéolos y (2) qué tan anchas están las vías del aire.** ✅
 
-**Lado de la presión (ley de Boyle: el volumen y la presión son inversos):**
-- La atmósfera está a unos 760 mmHg; el espacio intrapleural está a unos 756 mmHg, una **presión intrapleural** ligeramente negativa (unos −4 mmHg respecto a la atmósfera), que da una **presión transpulmonar** positiva (alveolar menos intrapleural, unos +4 mmHg) que mantiene los pulmones abiertos contra la pared torácica. La imagen de Bikman: un puño presionado contra un globo. ✅
-- **Inhalar:** el diafragma baja, los intercostales expanden la caja torácica → sube el volumen → la presión cae por debajo de la atmosférica → el aire entra. **Exhalar:** baja el volumen → la presión sube por encima de la atmosférica → el aire sale. La gravedad y la posición del cuerpo son irrelevantes para este mecanismo básico de presión. ✅ (La posición del cuerpo sí cambia los volúmenes pulmonares y hacia dónde va la ventilación; Guyton & Hall.)
+**El lado de la presión (ley de Boyle: el espacio y la presión van al revés):**
+- El aire de afuera está a unos 760 mmHg; el espacio entre el pulmón y la pared del pecho (intrapleural) está a unos 756 mmHg, una **presión de ese espacio** un poco negativa (unos −4 mmHg comparada con afuera), que da una **presión a través del pulmón** positiva (la del alvéolo menos la de ese espacio, unos +4 mmHg) que mantiene los pulmones abiertos contra la pared del pecho. La imagen de Bikman: un puño empujando un globo. ✅
+- **Meter aire:** el diafragma baja, los músculos entre las costillas abren la caja del pecho → sube el espacio → la presión baja más que la de afuera → entra el aire. **Sacar aire:** baja el espacio → la presión sube más que la de afuera → sale el aire. La gravedad y la posición del cuerpo no importan para esto básico de la presión. ✅ (La posición del cuerpo sí cambia cuánto aire cabe en los pulmones y a dónde va; Guyton & Hall.)
 
-**Lado de la resistencia (radio de las vías respiratorias):** la activación simpática produce **broncodilatación** (más flujo de aire al huir); la parasimpática produce una ligera broncoconstricción (un estado de menor demanda). 🟡 En la transcripción Bikman dice que la broncodilatación es "reducir el radio"; es un desliz. La dilatación ensancha la vía aérea, y la propia conclusión de la frase (mejor flujo de aire) lo confirma.
+**El lado del estorbo (qué tan anchas están las vías del aire):** el lado simpático **abre las vías del aire** (más aire al huir); el parasimpático las cierra un poco (cuando se necesita menos). 🟡 En la transcripción Bikman dice que abrirlas es "hacerlas más chicas"; es un error al hablar. Abrirlas las hace más anchas, y la misma frase lo confirma al final (pasa mejor el aire).
 
-## Distensibilidad, elasticidad y surfactante
-- **Distensibilidad** = qué tan fácilmente se estira el pulmón. **Elasticidad** = qué tan bien vuelve a su forma. El pulmón necesita ambas: la elastina (tejido conectivo elástico) más el **surfactante**. ✅
-- Las **células alveolares tipo II** producen surfactante, una película acuosa ligeramente aceitosa. El agua es pegajosa (su demostración del plato sobre una encimera mojada), y sin surfactante los alvéolos no podrían inflarse con una respiración normal. ✅
-- **Síndrome de dificultad respiratoria (SDR):** los pulmones son el último tejido en desarrollarse porque el feto respira a través de la placenta. Un bebé prematuro puede carecer de surfactante; la solución es aplicar surfactante en la vía aérea y ganar tiempo para que los pulmones terminen de desarrollarse. ✅ (Además de los esteroides que se dan a la madre antes del parto; McGoldrick 2020.)
+## Qué tan fácil se estira, qué tan bien regresa, y el surfactante
+- **Qué tan fácil se estira (distensibilidad)** = qué tan fácil se estira el pulmón. **Qué tan bien regresa (elasticidad)** = qué tan bien vuelve a su forma. El pulmón necesita las dos: la elastina (un tejido que se estira) más el **surfactante**. ✅
+- Las **células del alvéolo tipo II** hacen el surfactante, una capita de agua un poco aceitosa. El agua es pegajosa (cuando muestra el plato sobre una barra mojada), y sin surfactante los alvéolos no se podrían inflar con una respiración normal. ✅
+- **Síndrome de dificultad para respirar (SDR):** los pulmones son lo último que se forma porque el bebé respira por la placenta. Un bebé prematuro puede no tener surfactante; la solución es ponerle surfactante en la vía del aire y ganar tiempo para que los pulmones se terminen de formar. ✅ (Además de los esteroides que se le dan a la mamá antes del parto; McGoldrick 2020.)
 
-## Transporte de gases — Oxígeno, CO₂ y hemoglobina
-**Oxígeno:** alrededor del 3% está disuelto en el plasma (Guyton & Hall); la gran mayoría (alrededor del 97%) está unida a los sitios de hierro (hemo) de la **hemoglobina** dentro de los glóbulos rojos. ✅ Que la hemoglobina retenga o libere oxígeno sigue la **curva de disociación oxígeno-hemoglobina**. ✅ Corrección: funciona al revés: donde hay mucho oxígeno (los pulmones), la hemoglobina se carga; donde hay poco (el tejido en actividad), lo suelta (Guyton & Hall).
+## Cómo se llevan los gases — oxígeno, CO₂ y hemoglobina
+**Oxígeno:** cerca del 3% va disuelto en el líquido de la sangre (Guyton & Hall); casi todo (cerca del 97%) va pegado a los lugares de hierro (hemo) de la **hemoglobina** dentro de los glóbulos rojos. ✅ Que la hemoglobina guarde o suelte el oxígeno sigue la **curva de cómo se suelta el oxígeno de la hemoglobina**. ✅ Corrección: funciona al revés: donde hay mucho oxígeno (los pulmones), la hemoglobina se carga; donde hay poco (el tejido trabajando), lo suelta (Guyton & Hall).
 
-| Señal | Efecto sobre la hemoglobina | Dónde tiene sentido |
+| Señal | Qué le hace a la hemoglobina | Dónde tiene sentido |
 |---|---|---|
-| **Más CO₂** | Libera O₂ con más facilidad | El músculo en actividad que quema glucosa o grasa produce CO₂ |
-| **Más iones de hidrógeno** | Libera O₂ con más facilidad | La hidrólisis del ATP en un músculo activo produce H⁺ |
-| **Más 2,3-DPG** | Libera O₂ con más facilidad | La placenta indica a los glóbulos rojos de la madre que eleven el 2,3-DPG para que el bebé reciba oxígeno abundante. 🟡 Verificación de evidencia: el 2,3-DPG sube en el embarazo, en la altura y en la anemia, pero la señal placentaria no está verificada; la razón principal de que el feto reciba oxígeno es que la hemoglobina fetal se une débilmente al 2,3-DPG y por eso retiene el oxígeno con más fuerza (Guyton & Hall) |
+| **Más CO₂** | Suelta el oxígeno más fácil | El músculo trabajando que quema azúcar o grasa hace CO₂ |
+| **Más iones de hidrógeno** | Suelta el oxígeno más fácil | Romper ATP en un músculo activo hace H⁺ |
+| **Más 2,3-DPG** | Suelta el oxígeno más fácil | La placenta les dice a los glóbulos rojos de la mamá que suban el 2,3-DPG para que al bebé le llegue mucho oxígeno. 🟡 Revisión de la evidencia: el 2,3-DPG sube en el embarazo, en la altura y en la anemia, pero lo de la señal de la placenta no está comprobado; la razón principal de que al bebé le llegue oxígeno es que la hemoglobina del bebé casi no se pega al 2,3-DPG y por eso agarra el oxígeno más fuerte (Guyton & Hall) |
 
-✅ Los dos primeros son lo que los objetivos de aprendizaje de Bikman llaman el **efecto Bohr**. Ambos aumentan con el ejercicio, así que el músculo efectivamente "exige" oxígeno sin ninguna señal consciente.
+✅ Los dos primeros son lo que las metas de la clase de Bikman llaman el **efecto Bohr**. Los dos suben con el ejercicio, así que el músculo "pide" oxígeno sin ninguna señal consciente.
 
-**CO₂:** se transporta en la hemoglobina y disuelto en el plasma, pero la abrumadora mayoría viaja como **bicarbonato (HCO₃)**, un reservorio inofensivo. En los pulmones el bicarbonato se separa de nuevo en agua y CO₂, que se exhala. ✅
+**CO₂:** va en la hemoglobina y disuelto en el líquido de la sangre, pero casi todo viaja como **bicarbonato (HCO₃)**, una reserva que no hace daño. En los pulmones el bicarbonato se vuelve a separar en agua y CO₂, que se saca al respirar. ✅
 
-## Qué nos hace respirar — Regulación de la ventilación
-- **Quimiorreceptores centrales (cerebro, detrás de la barrera hematoencefálica):** el CO₂ la atraviesa, se convierte en bicarbonato y libera un ion de hidrógeno libre. El receptor detecta el **hidrógeno (pH)**, no el CO₂ en sí. Más H⁺ da una respiración más rápida y más profunda. ✅
-- **Quimiorreceptores periféricos:** los **cuerpos carotídeos** y los **cuerpos aórticos**, justo encima del corazón en la aorta y las arterias carótidas. Detectan tanto el H⁺ como el CO₂. ✅ También son los principales sensores de **oxígeno bajo** del cuerpo, el estímulo que importa en la altura y en las enfermedades pulmonares (Guyton & Hall).
-- **La hiperventilación del ejercicio** no es, por lo tanto, que los músculos le envíen un mensaje a un nervio: el músculo en actividad cambia el CO₂ y el H⁺ de la sangre, y los quimiorreceptores responden. 🔴 Verificación de evidencia: en el ejercicio moderado, el CO₂ y el pH arteriales se mantienen casi normales; la visión actual es que los quimiorreceptores no son el impulso principal y que contribuyen las señales del mando motor del cerebro (comando central) y de los nervios de las extremidades en ejercicio, aunque ningún mecanismo lo explica por completo (Forster 2012).
-- **Receptores pulmonares:** receptores de irritantes (el humo provoca tos o respiración restringida) y **receptores de estiramiento** (detienen la inhalación al estiramiento máximo). ✅
+## Qué nos hace respirar — cómo se controla
+- **Receptores químicos del centro (en el cerebro, detrás de la barrera que lo protege):** el CO₂ la cruza, se vuelve bicarbonato y suelta un ion de hidrógeno. El receptor nota el **hidrógeno (pH)**, no el CO₂ en sí. Más H⁺ da una respiración más rápida y más honda. ✅
+- **Receptores químicos de afuera (periféricos):** los **cuerpos carotídeos** y los **cuerpos aórticos**, justo arriba del corazón en la aorta y en las arterias del cuello (carótidas). Notan el H⁺ y el CO₂. ✅ También son los principales sensores de **poco oxígeno** del cuerpo, lo que importa en la altura y en las enfermedades de los pulmones (Guyton & Hall).
+- **Respirar rápido con el ejercicio** entonces no es que los músculos le manden un mensaje a un nervio: el músculo trabajando cambia el CO₂ y el H⁺ de la sangre, y los receptores químicos responden. 🔴 Revisión de la evidencia: en el ejercicio mediano, el CO₂ y el pH de la sangre de las arterias se quedan casi normales; lo que se piensa hoy es que los receptores químicos no son lo que más empuja y que ayudan las señales de la orden de mover que da el cerebro (comando central) y de los nervios de los brazos y piernas que trabajan, aunque nada lo explica del todo (Forster 2012).
+- **Receptores de los pulmones:** receptores de cosas que irritan (el humo da tos o hace que uno respire menos) y **receptores de estiramiento** (paran el meter aire cuando el pulmón está lo más estirado). ✅
 
-## Espirometría — Interpretar un problema respiratorio
-La espirometría produce un **espirograma**, un trazo que sube con la inhalación y baja con la exhalación. Se destacan dos métricas (existen alrededor de una docena):
+## Espirometría — leer un problema de la respiración
+La espirometría da un **espirograma**, una línea que sube al meter aire y baja al sacarlo. Se resaltan dos medidas (hay como una docena):
 
-| Métrica | Cómo se mide | Un valor bajo apunta a |
+| Medida | Cómo se mide | Si sale baja, apunta a |
 |---|---|---|
-| **Capacidad vital** | Exhalar todo lo posible y luego inhalar al máximo (el volumen residual nunca se expulsa) | Trastorno **restrictivo**: pulmón cicatrizado, fibrótico, "acartonado" (p. ej., por asbesto, polvo, humo) que ha perdido distensibilidad |
-| **VEF1** (volumen espiratorio forzado en un segundo) | Después de una inhalación completa, soplar lo más fuerte y rápido posible; volumen en 1 segundo | Trastorno **obstructivo**: vía aérea estrechada, "respirar por un popote"; inhala bien, exhala lentamente |
+| **Capacidad vital** | Sacar todo el aire que se pueda y luego meter lo más que se pueda (el aire que siempre queda, volumen residual, nunca sale) | Problema **restrictivo** (que no deja estirar): pulmón con cicatrices, endurecido, "acartonado" (por ejemplo, por asbesto, polvo, humo) que ya no se estira |
+| **VEF1** (aire que se saca a la fuerza en un segundo) | Después de meter todo el aire, soplar lo más fuerte y rápido que se pueda; cuánto sale en 1 segundo | Problema **obstructivo** (de vías tapadas): vía del aire angosta, "respirar por un popote"; mete bien el aire, lo saca despacio |
 
-✅ Nota sobre los estándares actuales: la obstrucción se define por una **relación VEF1/CVF** baja, no solo por un VEF1 bajo (el VEF1 también baja en la restricción), y una capacidad vital baja solo sugiere restricción hasta que se mide la capacidad pulmonar total (Stanojevic 2022).
+✅ Nota sobre las reglas de hoy: lo tapado se define por una **proporción VEF1/CVF** baja, no solo por un VEF1 bajo (el VEF1 también baja en lo restrictivo), y una capacidad vital baja solo hace pensar en lo restrictivo hasta que se mide cuánto aire cabe en total en los pulmones (Stanojevic 2022).
 
-## Apéndice de preguntas y respuestas — La preeclampsia como caso de estudio
-- La preeclampsia es uno de los trastornos más comunes del embarazo; aparece como presión arterial alta y una insuficiencia renal creciente; los médicos revisan la **proteína en orina** en cada consulta como indicador del daño renal. ✅ 🟢 Verificación de evidencia: afecta a un pequeño porcentaje de los embarazos; la proteína en orina es el signo clásico, pero los criterios actuales permiten diagnosticarla sin ella cuando hay daño en otros órganos, y la insuficiencia renal es un rasgo grave, no el cuadro habitual (ACOG 2020).
-- La placenta (el pulmón del bebé, por eso tan vascularizada) usa el **VEGF** para formar vasos mediante señalización **autocrina**. El glomérulo renal también necesita VEGF para mantener intacto su filtro. ✅
-- En algunas mujeres, por una razón desconocida, la placenta libera **receptores solubles de VEGF** que absorben el VEGF. El VEGF cae, el glomérulo pierde proteína y los riñones fallan. 🟢 Este receptor soluble es el sFlt-1 (Maynard 2003; Levine 2004). Esto, y no la placenta en sí, es lo que amenaza a la madre. 🟡 La causa de la liberación de receptores se declara desconocida.
-- Una vez que comienzan las convulsiones es **eclampsia**, por lo general mortal. La única cura es expulsar la placenta (y por lo tanto al bebé); los riñones y la presión arterial se recuperan en cuestión de horas. 🔴 Verificación de evidencia: la eclampsia es una emergencia peligrosa, pero con atención oportuna la mayoría de las mujeres sobrevive; el sulfato de magnesio reduce aproximadamente a la mitad el riesgo de convulsiones (Magpie 2002), y el riesgo de muerte es mucho mayor donde falta atención médica (Fishel Bartal & Sibai 2022). Después del parto, la presión arterial suele tardar días o semanas en normalizarse, y la preeclampsia incluso puede aparecer por primera vez después del nacimiento (ACOG 2020). El tira y afloja clínico consiste en ganar tiempo para el bebé, a menudo administrando a la madre **esteroides tipo cortisol (antiinflamatorios, no anabólicos)** para acelerar el desarrollo pulmonar fetal. ✅ (betametasona o dexametasona; McGoldrick 2020)
+## Agregado de preguntas y respuestas — la preeclampsia como ejemplo
+- La preeclampsia es de los problemas más comunes del embarazo; aparece como presión alta y un riñón que falla cada vez más; los médicos revisan la **proteína en la orina** en cada consulta como señal del daño del riñón. ✅ 🟢 Revisión de la evidencia: le pasa a un porcentaje chico de los embarazos; la proteína en la orina es la señal clásica, pero las reglas de hoy dejan diagnosticarla sin ella cuando hay daño en otros órganos, y que falle el riñón es algo grave, no lo normal (ACOG 2020).
+- La placenta (el pulmón del bebé, por eso tiene tantos vasos) usa el **VEGF** para formar vasos con señales a sí misma (**autocrinas**). El filtro del riñón (glomérulo) también necesita VEGF para mantenerse completo. ✅
+- En algunas mujeres, por una razón que no se sabe, la placenta suelta **receptores de VEGF sueltos** que se "chupan" el VEGF. El VEGF baja, el filtro del riñón deja pasar proteína y los riñones fallan. 🟢 Este receptor suelto es el sFlt-1 (Maynard 2003; Levine 2004). Esto, y no la placenta en sí, es lo que pone en peligro a la mamá. 🟡 Se dice que no se sabe por qué suelta esos receptores.
+- Una vez que empiezan las convulsiones es **eclampsia**, que normalmente mata. La única cura es sacar la placenta (y por eso al bebé); los riñones y la presión se recuperan en unas horas. 🔴 Revisión de la evidencia: la eclampsia es una emergencia peligrosa, pero con atención a tiempo casi todas las mujeres sobreviven; el sulfato de magnesio baja más o menos a la mitad el riesgo de convulsiones (Magpie 2002), y el riesgo de morir es mucho más alto donde falta atención médica (Fishel Bartal & Sibai 2022). Después del parto, la presión suele tardar días o semanas en volver a lo normal, y la preeclampsia hasta puede empezar después del nacimiento (ACOG 2020). El jaloneo en la práctica es ganar tiempo para el bebé, muchas veces dándole a la mamá **esteroides parecidos al cortisol (que bajan la inflamación, no los que hacen crecer músculo)** para que los pulmones del bebé maduren más rápido. ✅ (betametasona o dexametasona; McGoldrick 2020)
 
-## Frases clave y datos citables (Clase 4)
-- **"Realmente no se puede apreciar uno sin el otro."** — el corazón y los pulmones como un solo sistema.
-- **El lub-dub son válvulas cerrándose, no sangre en movimiento.**
-- **La diástole y la sístole pertenecen a los ventrículos, no "al corazón".** Técnicamente, las aurículas se contraen durante la diástole.
-- **Gasto cardíaco = volumen sistólico × frecuencia cardíaca; volumen sistólico = VTD − VTS.**
-- **La pausa del nódulo AV** permite que los ventrículos se llenen antes de la compresión de abajo hacia arriba.
-- **Las células cardíacas importan primero calcio del exterior;** el músculo esquelético usa solo el calcio de su propio RS.
-- **Frank-Starling: más llenado, contracción más fuerte.**
-- **Sin surfactante, la adherencia del agua mantendría los alvéolos colapsados.**
-- **El cerebro detecta el hidrógeno, no el CO₂,** aunque el CO₂ es la forma en que el hidrógeno llega allí.
-- **Capacidad vital reducida = restrictivo; VEF1 reducido = obstructivo.**
+## Frases clave y datos para recordar (Clase 4)
+- **"De verdad no se puede entender uno sin el otro."** — el corazón y los pulmones como un solo sistema.
+- **El lub-dub son válvulas cerrándose, no sangre moviéndose.**
+- **La diástole y la sístole son de los ventrículos, no "del corazón".** Técnicamente, las aurículas se aprietan durante la diástole.
+- **Sangre por minuto = sangre por latido × latidos por minuto; sangre por latido = VTD − VTS.**
+- **La pausa del nódulo AV** deja que los ventrículos se llenen antes del apretón de abajo hacia arriba.
+- **Las células del corazón traen primero calcio de afuera;** el músculo del esqueleto solo usa el calcio de su propio RS.
+- **Frank-Starling: más llenado, apretón más fuerte.**
+- **Sin surfactante, lo pegajoso del agua dejaría los alvéolos cerrados.**
+- **El cerebro nota el hidrógeno, no el CO₂,** aunque el CO₂ es la forma en que el hidrógeno llega ahí.
+- **Capacidad vital baja = restrictivo; VEF1 bajo = obstructivo.**
 
-## Correcciones clave para tener presentes
-- 🔴 "La diástole es el corazón relajándose, la sístole el corazón contrayéndose": corregir a ventrículos relajados y llenándose versus ventrículos contrayéndose; las aurículas se contraen al final de la diástole.
-- 🔴 "Los ruidos cardíacos son la sangre corriendo": son válvulas que se cierran de golpe, principalmente las del lado izquierdo.
-- 🔴 "El músculo cardíaco funciona como el músculo esquelético": el mismo ciclo de puentes cruzados, pero arranca solo, de célula a célula, sin túbulos T, y el calcio entra primero desde el exterior. ✅ Corrección: las células ventriculares sí tienen túbulos T (Bers 2002).
-- 🔴 "El CO₂ se transporta principalmente en la hemoglobina": el transportador principal es el bicarbonato.
-- 🔴 "El cerebro nos hace respirar en respuesta al oxígeno bajo": el impulso central es el ion de hidrógeno (pH) generado a partir del CO₂; esta clase no describe el oxígeno como la señal central principal. ✅ Los quimiorreceptores periféricos sí impulsan la respiración cuando el oxígeno está bajo (Guyton & Hall).
-- 🔴 "Exhalar sucede porque los pulmones se comprimen a sí mismos": es un cambio de presión por la reducción del volumen pulmonar (ley de Boyle).
+## Correcciones clave para recordar
+- 🔴 "La diástole es el corazón relajándose, la sístole el corazón apretándose": corregir a ventrículos relajados y llenándose contra ventrículos apretándose; las aurículas se aprietan al final de la diástole.
+- 🔴 "Los ruidos del corazón son la sangre corriendo": son válvulas que se cierran de golpe, sobre todo las del lado izquierdo.
+- 🔴 "El músculo del corazón funciona como el del esqueleto": el mismo ciclo de agarrar y jalar, pero arranca solo, pasa de célula a célula, sin túbulos T, y el calcio entra primero de afuera. ✅ Corrección: las células de los ventrículos sí tienen túbulos T (Bers 2002).
+- 🔴 "El CO₂ va sobre todo en la hemoglobina": lo que más lo lleva es el bicarbonato.
+- 🔴 "El cerebro nos hace respirar cuando falta oxígeno": lo que empuja en el centro es el ion de hidrógeno (pH) que sale del CO₂; esta clase no dice que el oxígeno sea la señal principal del centro. ✅ Los receptores químicos de afuera sí empujan la respiración cuando el oxígeno está bajo (Guyton & Hall).
+- 🔴 "Sacar el aire pasa porque los pulmones se aprietan solos": es un cambio de presión porque se hace más chico el espacio del pulmón (ley de Boyle).
 
 ## Conclusión práctica
-El corazón se adapta automáticamente a la demanda (Frank-Starling, la influencia autónoma), y la respiración se adapta automáticamente al metabolismo (quimiorreceptores de CO₂ y H⁺). Si algo sale mal, el patrón suele ser mecánico: una válvula que no se abre o no se cierra (soplo), un pulmón que no se estira (restrictivo, capacidad vital baja) o una vía aérea que no se vacía (obstructivo, VEF1 bajo).
+El corazón se ajusta solo a lo que se necesita (Frank-Starling, el sistema automático), y la respiración se ajusta sola a lo que el cuerpo está gastando (receptores químicos de CO₂ y H⁺). Si algo sale mal, casi siempre es mecánico: una válvula que no se abre o no se cierra (soplo), un pulmón que no se estira (restrictivo, capacidad vital baja) o una vía del aire que no se vacía (obstructivo, VEF1 bajo).
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Un médico oye el lub-dub habitual alargado en un "luuub-dub". Dado que los ruidos cardíacos provienen del cierre de las válvulas, ¿qué dice Bikman que sugiere esto?**
-A. Las aurículas se contraen con demasiada debilidad para llenar los ventrículos
-B. Los capilares pulmonares no logran intercambiar gases
-C. \* Un problema valvular, ya sea estenosis (no se abre bien) o regurgitación (fuga hacia atrás), por lo general en una de las dos válvulas del lado izquierdo: la AV izquierda (bicúspide) o la válvula aórtica
-*Por qué C: los ruidos son válvulas que se cierran, así que un ruido distorsionado apunta a una válvula que se abre o se cierra de forma inadecuada; las válvulas del lado derecho son demasiado silenciosas para ser las que se oyen.*
+**1. Un médico oye el lub-dub normal alargado a un "luuub-dub". Como los ruidos del corazón vienen de que se cierran las válvulas, ¿qué dice Bikman que hace pensar esto?**
+A. Las aurículas se aprietan muy débil para llenar los ventrículos
+B. Los capilares de los pulmones no logran cambiar los gases
+C. \* Un problema de válvula, ya sea estenosis (no se abre bien) o regurgitación (la sangre se regresa), casi siempre en una de las dos válvulas del lado izquierdo: la izquierda entre aurícula y ventrículo (bicúspide) o la aórtica
+*Por qué C: los ruidos son válvulas que se cierran, así que un ruido raro apunta a una válvula que se abre o se cierra mal; las válvulas del lado derecho son muy calladas para ser las que se oyen.*
 
-**2. Cuando empiezas a correr, la respiración se acelera casi de inmediato. Según esta clase, ¿qué lo impulsa?**
-A. \* El músculo en actividad eleva el CO₂ y los iones de hidrógeno en la sangre, que estimulan los quimiorreceptores centrales (que detectan el H⁺ después de que el CO₂ atraviesa la barrera hematoencefálica) y los quimiorreceptores periféricos carotídeos y aórticos
-B. Las fibras musculares envían una señal nerviosa directa a los pulmones anunciando que están trabajando
-C. Los receptores de estiramiento pulmonar detectan que los músculos necesitan más oxígeno
-*Por qué A: Bikman afirma explícitamente que no es el músculo estimulando un nervio; el cuerpo detecta la química (CO₂ y H⁺) que produce el metabolismo.* 🔴 Esta es la respuesta de la clase; según la investigación, el aumento casi inmediato es sobre todo neural (comando central y retroalimentación de los nervios de las extremidades), no impulsado por los quimiorreceptores (Forster 2012).
+**2. Cuando empiezas a correr, la respiración se acelera casi al momento. Según esta clase, ¿qué la empuja?**
+A. \* El músculo trabajando sube el CO₂ y los iones de hidrógeno de la sangre, que prenden los receptores químicos del centro (que notan el H⁺ después de que el CO₂ cruza la barrera del cerebro) y los de afuera, en el cuello y la aorta
+B. Las fibras del músculo mandan una señal de nervio directo a los pulmones avisando que están trabajando
+C. Los receptores de estiramiento de los pulmones notan que los músculos necesitan más oxígeno
+*Por qué A: Bikman dice claro que no es el músculo prendiendo un nervio; el cuerpo nota la química (CO₂ y H⁺) que hace el trabajo del cuerpo.* 🔴 Esta es la respuesta de la clase; según las investigaciones, la subida casi al momento es sobre todo de los nervios (la orden del cerebro y lo que avisan los nervios de los brazos y piernas), no de los receptores químicos (Forster 2012).
 
-**3. Un paciente inhala por completo con una capacidad vital normal pero, cuando se le pide que sople lo más fuerte posible, tarda muchos segundos extra en vaciar los pulmones (VEF1 bajo). ¿Con qué tipo de trastorno encaja y dónde está el problema?**
-A. Restrictivo, en el saco pulmonar, porque se ha perdido distensibilidad
-B. \* Obstructivo, en la vía aérea, porque el pulmón retiene el aire normalmente pero no puede sacarlo rápido
-C. Deficiencia de surfactante, porque los alvéolos no se inflan
-*Por qué B: una capacidad vital reducida marca lo restrictivo (pulmón cicatrizado y rígido); un VEF1 reducido con capacidad normal marca lo obstructivo (vía aérea estrechada).*
+**3. Un paciente mete todo el aire con una capacidad vital normal pero, cuando se le pide que sople lo más fuerte que pueda, tarda muchos segundos de más en vaciar los pulmones (VEF1 bajo). ¿A qué tipo de problema se parece y dónde está?**
+A. Restrictivo, en el pulmón mismo, porque ya no se estira
+B. \* Obstructivo, en la vía del aire, porque el pulmón guarda el aire normal pero no lo puede sacar rápido
+C. Falta de surfactante, porque los alvéolos no se inflan
+*Por qué B: una capacidad vital baja marca lo restrictivo (pulmón con cicatrices y tieso); un VEF1 bajo con capacidad normal marca lo obstructivo (vía del aire angosta).*
 
-**4. Estás trotando y el retorno venoso aumenta, así que los ventrículos se llenan más por latido. Usando Frank-Starling, ¿qué sucede y qué efecto tiene sobre el gasto cardíaco?**
-A. El volumen sistólico cae porque el ventrículo se sobrellena, así que el gasto cardíaco baja
-B. Solo cambia la frecuencia cardíaca; el volumen sistólico está fijado por las válvulas
-C. \* El mayor estiramiento produce una contracción más fuerte, así que el volumen sistólico sube, y con una frecuencia cardíaca más alta el gasto cardíaco (volumen sistólico × frecuencia cardíaca) aumenta
-*Por qué C: Frank-Starling es "cuanto mayor el llenado, mayor la contracción", lo que ajusta automáticamente la eyección al flujo de entrada.*
+**4. Estás trotando y regresa más sangre al corazón, así que los ventrículos se llenan más en cada latido. Con Frank-Starling, ¿qué pasa y qué le hace a la sangre por minuto?**
+A. La sangre por latido baja porque el ventrículo se llena de más, así que la sangre por minuto baja
+B. Solo cambian los latidos por minuto; la sangre por latido la deciden las válvulas
+C. \* El estiramiento mayor da un apretón más fuerte, así que la sangre por latido sube, y con más latidos por minuto la sangre por minuto (sangre por latido × latidos) sube
+*Por qué C: Frank-Starling es "entre más se llena, más fuerte se aprieta", y así lo que sale se ajusta solo a lo que entra.*
 
-## Hilos abiertos
-- **Clase de trastornos endocrinos** — Bikman dice que viene a continuación ("mañana") y que volverá sobre la estimulación autocrina; debería ampliar las categorías de señalización usadas en el ejemplo de la preeclampsia.
-- **Por qué la placenta libera receptores solubles de VEGF** — se declara desconocido; no se ofrece explicación.
-- **Otras métricas del espirograma** — existen alrededor de una docena; solo se cubrieron la capacidad vital y el VEF1. El volumen residual se nombra pero no se desarrolla.
-- **Forma de la curva oxígeno-hemoglobina** — descrita solo cualitativamente; no se dan cifras (p. ej., valores de saturación).
+## Temas abiertos
+- **Clase de problemas de hormonas** — Bikman dice que sigue ("mañana") y que va a volver a las señales que una célula se manda a sí misma; debería ampliar los tipos de señales que se usaron en el ejemplo de la preeclampsia.
+- **Por qué la placenta suelta receptores de VEGF sueltos** — se dice que no se sabe; no se da explicación.
+- **Otras medidas del espirograma** — hay como una docena; solo se vieron la capacidad vital y el VEF1. El aire que siempre queda se nombra pero no se explica.
+- **La forma de la curva del oxígeno y la hemoglobina** — se describe solo con palabras; no se dan números (por ejemplo, porcentajes de oxígeno).
 
-## Lo que se recortó deliberadamente (autoevaluación)
-- Andamiaje verbal repetido: objetivos de aprendizaje reiterados, los comentarios de "estoy invocando mucho los pulmones" y múltiples repeticiones del recorrido del circuito.
-- Detalle del ciclo de puentes cruzados: solo se menciona, ya que se cubrió en el Cap. 3 (músculo esquelético).
-- Detalle de las analogías: las demostraciones del puño en el globo y del plato sobre la encimera mojada se redujeron a una línea cada una.
-- Detalle del sistema nervioso autónomo más allá de los efectos bronquiales y sobre la frecuencia cardíaca, cubierto en el Cap. 2.
-- 🟡 Desliz de la transcripción: Bikman dice "estimulación autonómica" para el efecto placentario del VEGF y luego lo describe correctamente como autocrino; aquí se trata como autocrino.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Palabras de relleno repetidas: las metas de la clase dichas otra vez, los comentarios de "estoy hablando mucho de los pulmones" y varias repeticiones del recorrido del camino de la sangre.
+- Detalle del ciclo de agarrar y jalar: solo se menciona, porque se vio en el Cap. 3 (músculo del esqueleto).
+- Detalle de las comparaciones: lo del puño en el globo y el plato sobre la barra mojada se dejó en una línea cada una.
+- Detalle del sistema automático más allá de lo que hace en las vías del aire y en el latido, que se vio en el Cap. 2.
+- 🟡 Error de la transcripción: Bikman dice "estimulación autonómica" para lo que hace el VEGF en la placenta y luego lo describe bien como autocrino (que la célula se manda a sí misma); aquí se toma como autocrino.
 
 ---
 **Referencias:**
