@@ -1,155 +1,155 @@
 # Bikman — Fundamentos de Biología, Cap. 3: Las biomoléculas como bloques de construcción
 
-*Las cuatro moléculas orgánicas con las que se construye toda célula (carbohidratos, lípidos, proteínas, ácidos nucleicos), cómo una proteína se pliega hasta convertirse en una máquina funcional y cómo las enzimas hacen posibles los cientos de miles de reacciones de la célula, con la glucocinasa como ejemplo práctico.*
+*Las cuatro familias de moléculas con las que se arma toda célula (carbohidratos, grasas o lípidos, proteínas, ácidos nucleicos), cómo una proteína se dobla hasta volverse una máquina que funciona y cómo las enzimas hacen posibles los cientos de miles de reacciones de la célula, con la glucocinasa como ejemplo práctico.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 3 (transcripción). Tercer capítulo de un curso básico de seis clases; sigue al Cap. 1 (La célula) y al Cap. 2 (Atravesar la pared celular). Es un curso distinto de las series "Why We Get Sick" y "Essentials of Endocrinology" del mismo profesor, pero aporta el vocabulario molecular en el que ambas se apoyan.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 3 (transcripción). Tercer capítulo de un curso básico de seis clases; sigue del Cap. 1 (La célula) y el Cap. 2 (Atravesar la pared celular). Es un curso distinto de las series "Why We Get Sick" y "Essentials of Endocrinology" del mismo profesor, pero da las palabras de química en las que se apoyan las dos.*
 
 ## Por qué importa
-Todos los temas que siguen en este curso (dogma central, ciclo celular, metabolismo) y en las otras series de Bikman parten de estas cuatro familias de moléculas y de las enzimas. En cuanto sepas clasificar cualquier molécula como carbohidrato, lípido, proteína o ácido nucleico, y sepas que las enzimas (cuyo nombre siempre termina en -asa) son las que realmente hacen el trabajo, términos como triglicérido, hormona peptídica, glucólisis o ARNm dejan de ser jerga y se vuelven predecibles. También explica varios hechos prácticos con los que ya convives: por qué la insulina y la mayoría de los fármacos GLP-1 deben inyectarse, por qué el azúcar y el almidón tienen que "cortarse" antes de absorberse, y por qué el colesterol es más que un número del perfil lipídico.
+Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las células, el metabolismo) y en las otras series de Bikman sale de estas cuatro familias de moléculas y de las enzimas. En cuanto sepas acomodar cualquier molécula como carbohidrato, grasa, proteína o ácido nucleico, y sepas que las enzimas (cuyo nombre siempre termina en -asa) son las que de verdad hacen el trabajo, palabras como triglicérido, hormona peptídica, glucólisis o ARNm dejan de ser palabras raras y se vuelven fáciles de entender. También explica cosas prácticas de todos los días: por qué la insulina y la mayoría de las medicinas GLP-1 se tienen que inyectar, por qué el azúcar y el almidón se tienen que "cortar" antes de absorberse, y por qué el colesterol es más que un número en los análisis de grasas en la sangre.
 
 ## Qué hace "biológica" a una molécula — El carbono
-- Las **biomoléculas** son moléculas orgánicas que se encuentran en los seres vivos. No están vivas en sí mismas (no cumplen los criterios de vida que vimos en el Cap. 1), pero toda célula las necesita. ✅
-- Lo que todas tienen en común es el **carbono**. El carbono forma enlaces fuertes con muchos elementos, entre ellos otros átomos de carbono, el oxígeno y el hidrógeno, y puede formar tanto **cadenas como anillos**; por eso da lugar a estructuras tan diversas. ✅
-- Bikman anticipa que una clase posterior (energía celular) mostrará cómo el carbono llega a las biomoléculas gracias a la energía del sol; aquí solo se establece que el carbono es "esencial". 🟢
+- Las **biomoléculas** son moléculas orgánicas que están en los seres vivos. No están vivas en sí mismas (no cumplen los requisitos de vida del Cap. 1), pero toda célula las necesita. ✅
+- Lo que todas tienen en común es el **carbono**. El carbono se une con fuerza a muchos otros elementos, incluidos otros carbonos, el oxígeno y el hidrógeno, y puede formar tanto **cadenas como anillos**; por eso da lugar a formas tan distintas. ✅
+- Bikman adelanta que una clase posterior (energía de la célula) mostrará cómo el carbono llega a las biomoléculas gracias a la energía del sol; aquí solo se deja claro que el carbono es "esencial". 🟢
 
-## Las cuatro biomoléculas — Comparación directa
+## Las cuatro biomoléculas — Una al lado de otra
 
-| Característica | Carbohidratos | Lípidos | Proteínas | Ácidos nucleicos |
+| Característica | Carbohidratos | Grasas (lípidos) | Proteínas | Ácidos nucleicos |
 | --- | --- | --- | --- | --- |
-| **Elementos** | Carbono, hidrógeno y oxígeno en una proporción bastante equilibrada | Mucho carbono, aún más hidrógeno, muy poco oxígeno | Cadenas de carbono más un grupo amino (nitrógeno) en cada aminoácido | Fosfato + azúcar de cinco carbonos + base nitrogenada |
-| **Relación con el agua** | Polares, hidrofílicos, se disuelven bien; no pueden colarse a través de las membranas, así que necesitan transportadores | No polares, hidrofóbicos; ricos en energía | Esta clase no los clasifica por polaridad | Esta clase no los clasifica por polaridad |
-| **Unidad básica** | Monosacárido (glucosa, fructosa, galactosa) | Varía según la clase (glicerol + ácidos grasos, anillo de colesterol, etc.) | 20 aminoácidos unidos por enlaces peptídicos | Nucleótidos (ADN y ARN) |
-| **Funciones principales** | Energía; "banderas" de identidad celular en la superficie de la membrana | Energía almacenada, membranas, señalización, hormonas esteroides | Enzimas, receptores, canales, transportadores, estructura (citoesqueleto) | Almacenar la información genética (ADN) y expresarla (ARN); el ATP es un nucleótido que transporta energía (una pieza de los ácidos nucleicos, no un ácido nucleico en sí) |
+| **De qué están hechos** | Carbono, hidrógeno y oxígeno, más o menos parejos | Mucho carbono, todavía más hidrógeno, muy poco oxígeno | Cadenas de carbono más un grupo amino (con nitrógeno) en cada aminoácido | Fosfato + un azúcar de cinco carbonos + una base con nitrógeno |
+| **Cómo se llevan con el agua** | Les gusta el agua (polares), se disuelven bien; no pueden colarse por la cubierta de la célula, así que necesitan transportadores | No les gusta el agua (no polares); guardan mucha energía | Esta clase no los clasifica así | Esta clase no los clasifica así |
+| **La pieza básica** | Monosacárido (glucosa, fructosa, galactosa) | Cambia según el tipo (glicerol + ácidos grasos, el anillo del colesterol, etc.) | 20 aminoácidos unidos por enlaces peptídicos | Nucleótidos (ADN y ARN) |
+| **Para qué sirven** | Energía; "banderas" que dicen quién es la célula, en su superficie | Energía guardada, cubiertas de las células, señales, hormonas esteroides | Enzimas, receptores, canales, transportadores, estructura (el esqueleto de la célula) | Guardar la información de los genes (ADN) y usarla (ARN); el ATP es un nucleótido que lleva energía (una pieza de los ácidos nucleicos, no un ácido nucleico en sí) |
 
-✅ El concepto de "polímero" le da unidad a toda la tabla: un **polímero** es una cadena de unidades enlazadas. El almidón es un polímero de glucosa, una proteína es un polímero de aminoácidos, y el ADN y el ARN son polímeros de nucleótidos.
+✅ La idea de "polímero" une toda la tabla: un **polímero** es una cadena de piezas unidas. El almidón es un polímero de glucosa, una proteína es un polímero de aminoácidos, y el ADN y el ARN son polímeros de nucleótidos.
 
 ## Carbohidratos
-- **Qué significa el nombre:** carbo (carbono) + hidrato (hidrógeno y oxígeno, los elementos del agua). Solo esos tres elementos. ✅
-- **Tres tamaños:** monosacárido (glucosa, fructosa, galactosa; la única forma lo bastante pequeña para absorberse, la glucosa y la galactosa mediante el simporte con sodio y el transporte del lado basal del Cap. 2, la fructosa por su propio transportador, GLUT5; Koepsell 2020), disacárido (lactosa = glucosa + galactosa; sacarosa = glucosa + fructosa), polisacárido (polímeros largos de glucosa: el almidón del pan, las galletas saladas, los cereales, las papas). ✅
-- Las enzimas digestivas tienen que **cortar** los carbohidratos más grandes antes de que puedan absorberse. ✅
-- **Más allá de la energía:** algunos carbohidratos sobresalen de la superficie celular como banderas de identidad para que las células inmunitarias reconozcan lo "propio". Bikman relaciona las fallas en este reconocimiento con las enfermedades autoinmunes (tema que retoma de la clase sobre la membrana). ✅
+- **Qué quiere decir el nombre:** carbo (carbono) + hidrato (hidrógeno y oxígeno, los elementos del agua). Solo esos tres elementos. ✅
+- **Tres tamaños:** monosacárido (glucosa, fructosa, galactosa; la única forma lo bastante chica para absorberse; la glucosa y la galactosa entran junto con el sodio y salen del otro lado como en el Cap. 2, y la fructosa por su propio transportador, el GLUT5; Koepsell 2020), disacárido (lactosa, el azúcar de la leche = glucosa + galactosa; sacarosa, el azúcar de mesa = glucosa + fructosa), polisacárido (cadenas largas de glucosa: el almidón del pan, las galletas saladas, los cereales, las papas). ✅
+- Las enzimas de la digestión tienen que **cortar** los carbohidratos más grandes antes de que se puedan absorber. ✅
+- **Más allá de la energía:** algunos carbohidratos salen de la superficie de la célula como banderas de identidad para que las células de defensa reconozcan lo "propio". Bikman relaciona las fallas en este reconocimiento con las enfermedades en que las defensas atacan al propio cuerpo (autoinmunes; tema que retoma de la clase de la cubierta). ✅
 
-## Lípidos
-- Hay muchas clases y una variedad enorme; Bikman recuerda que un colega llamaba a la química de los lípidos "el ámbito más complicado de la química". 🟢
+## Grasas (lípidos)
+- Hay muchos tipos y muchísima variedad; Bikman recuerda que un colega llamaba a la química de las grasas "el área más complicada de la química". 🟢
 
-| Clase | Estructura / idea clave | Función |
+| Tipo | Cómo están hechas / idea clave | Para qué sirven |
 | --- | --- | --- |
-| **Glicerolípidos** (triglicérido) | Esqueleto de glicerol + tres ácidos grasos; no polar (no es anfipático, a diferencia de los fosfolípidos) | La única clase que se usa como energía; la grasa que te puedes pellizcar |
-| **Fosfolípidos** | Cabeza de fosfato + dos ácidos grasos | Forman las membranas de la célula y de los organelos |
-| **Esfingolípidos** | Llamados así por la enigmática esfinge (durante mucho tiempo no se supo para qué servían) | Señalización; le indican a la célula si debe vivir o morir; participan en la respuesta a la insulina (ceramidas; Chaurasia 2021) |
-| **Esteroides** | Construidos sobre el colesterol; todo lo que se convierte en esteroide empezó como colesterol | Hormonas sexuales (estrógenos, andrógenos como la testosterona), cortisol, aldosterona, y, según la clase, una molécula parecida al colesterol que necesita el sistema de transporte de electrones (la coenzima Q10; en realidad no es un esteroide ni se fabrica a partir del colesterol, sino que comparte los primeros pasos de la vía que produce el colesterol, Littarru 2007) |
+| **Glicerolípidos** (triglicérido) | Un esqueleto de glicerol + tres ácidos grasos; no le gusta el agua por ningún lado (a diferencia de los fosfolípidos, que tienen dos caras) | El único tipo que se usa como energía; la grasa que te puedes pellizcar |
+| **Fosfolípidos** | Una cabeza de fosfato + dos ácidos grasos | Forman las cubiertas de la célula y de sus partes |
+| **Esfingolípidos** | Se llaman así por la misteriosa esfinge (por mucho tiempo no se supo para qué servían) | Mandan señales; le dicen a la célula si vivir o morir; tienen que ver con cómo se responde a la insulina (las ceramidas; Chaurasia 2021) |
+| **Esteroides** | Hechos a partir del colesterol; todo lo que se vuelve esteroide empezó como colesterol | Hormonas sexuales (estrógenos, hormonas masculinas como la testosterona), cortisol, aldosterona (hormona que controla la sal), y, según la clase, una molécula parecida al colesterol que necesita la cadena que mueve electrones en la mitocondria (la coenzima Q10; en realidad no es un esteroide ni se fabrica del colesterol, sino que comparte los primeros pasos del camino que fabrica el colesterol, Littarru 2007) |
 
-- **Por qué la grasa aporta más calorías:** tener muchos enlaces carbono-carbono implica mucha energía química almacenada; una caloría es simplemente una unidad de energía. ✅ 🟢 Más exactamente, la grasa está muy reducida (muchos enlaces carbono-hidrógeno y poco oxígeno), por eso aporta unas 9 kcal por gramo frente a unas 4 de los carbohidratos o las proteínas.
-- **La barrera de fosfolípidos:** la gota de triglicéridos de una célula de grasa está rodeada de fosfolípidos que la "protegen"; antes de que los triglicéridos puedan degradarse, una serie de pasos (que se verán en la clase de energía celular) tiene que apartar esos fosfolípidos. 🟡 El mecanismo queda para después; aquí solo se presenta la idea. 🟢 Verificación de evidencia: la superficie de la gota es una monocapa de fosfolípidos recubierta de proteínas como la perilipina-1; las señales hormonales modifican estas proteínas para que las lipasas que cortan la grasa (ATGL, HSL) lleguen al triglicérido (Lass 2011).
+- **Por qué la grasa da más calorías:** tener muchas uniones entre carbonos quiere decir mucha energía química guardada; una caloría es solo una medida de energía. ✅ 🟢 Para ser exactos, la grasa tiene muchas uniones carbono-hidrógeno y poco oxígeno, por eso da unas 9 calorías por gramo contra unas 4 de los carbohidratos o las proteínas.
+- **La barrera de fosfolípidos:** la gota de grasa de una célula de grasa está rodeada de fosfolípidos que la "protegen"; antes de poder deshacer la grasa, una serie de pasos (que se verán en la clase de energía de la célula) tiene que quitar esos fosfolípidos de en medio. 🟡 El mecanismo queda para después; aquí solo se presenta la idea. 🟢 Revisión de la evidencia: la superficie de la gota es una sola capa de fosfolípidos cubierta de proteínas como la perilipina-1; las señales de las hormonas cambian estas proteínas para que las enzimas que cortan la grasa (ATGL, HSL) lleguen a ella (Lass 2011).
 
 ## Proteínas
-- **Las principales máquinas de la célula.** Cuando en la célula se realiza algún trabajo, por lo general lo hace una proteína: enzimas, receptores (de superficie e intracelulares, incluso para las hormonas esteroides que atraviesan la membrana), canales, transportadores y partes estructurales como el citoesqueleto. ✅
-- **Polímero de aminoácidos.** Solo **20 aminoácidos**, combinados y plegados de incontables maneras. Cada uno tiene un grupo amino (nitrógeno). La proteína que comes es demasiado grande para absorberse, así que se degrada en aminoácidos. ✅
-- **Algunos aminoácidos se convierten en otras moléculas:** la hormona tiroidea se fabrica a partir de la tirosina; la melatonina, a partir del triptófano. ✅
-- **Los aminoácidos de cadena ramificada** son tres; según Bikman, solo se ha demostrado que la leucina tiene un efecto directo sobre el músculo. 🟡 (su digresión, presentada como afirmación suya) Verificación de evidencia: la leucina es el principal aminoácido que activa la síntesis de proteína muscular, pero una revisión no encontró ningún estudio en humanos que muestre que los BCAA por sí solos construyan músculo, porque la síntesis necesita todos los aminoácidos esenciales (Wolfe 2017).
-- **Vocabulario de tamaños (tal como lo presenta):** aminoácido (uno) → péptido (dos) → polipéptido (hasta unos 20) → proteína (más de 50). 🟡 En la clase estos límites se dan de forma imprecisa y dejan un hueco entre 20 y 50, así que tómalos como aproximados.
+- **Las principales máquinas de la célula.** Cuando en la célula se hace un trabajo, casi siempre lo hace una proteína: enzimas, receptores (en la superficie y dentro de la célula, incluso para las hormonas esteroides que atraviesan la cubierta), canales, transportadores y piezas de estructura como el esqueleto de la célula. ✅
+- **Una cadena de aminoácidos.** Solo **20 aminoácidos**, combinados y doblados de muchísimas maneras. Cada uno tiene un grupo amino (nitrógeno). La proteína que comes es demasiado grande para absorberse, así que se deshace en aminoácidos. ✅
+- **Algunos aminoácidos se convierten en otras moléculas:** la hormona de la tiroides se fabrica con la tirosina; la melatonina (la hormona del sueño), con el triptófano. ✅
+- **Los aminoácidos de cadena ramificada (BCAA)** son tres; según Bikman, solo se ha demostrado que la leucina tiene un efecto directo en el músculo. 🟡 (algo que dice de paso, como afirmación suya) Revisión de la evidencia: la leucina es el principal aminoácido que enciende la fabricación de músculo, pero una revisión no encontró ningún estudio en personas que muestre que los BCAA solos construyan músculo, porque para fabricarlo hacen falta todos los aminoácidos esenciales (Wolfe 2017).
+- **Nombres según el tamaño (como él los presenta):** aminoácido (uno) → péptido (dos) → polipéptido (hasta unos 20) → proteína (más de 50). 🟡 En la clase estos límites no se dan con exactitud y queda un hueco entre 20 y 50, así que tómalos como aproximados.
 
-### Los cuatro niveles de estructura de una proteína
+### Los cuatro niveles de forma de una proteína
 
-| Nivel | Qué es | ¿Funcional? |
+| Nivel | Qué es | ¿Ya funciona? |
 | --- | --- | --- |
-| **Primario** | Hilera recta de aminoácidos, como un "collar de perlas" | No; tiene todas las piezas, pero todavía no es una proteína que se pueda usar |
-| **Secundario** | Hélice alfa (espiral como de bastón de dulce) y lámina beta (plegada) | No; sigue siendo una etapa intermedia |
-| **Terciario** | Hélices y láminas enrolladas entre sí; la insulina es el ejemplo que usa | Sí; es lo mínimo para que una proteína sirva |
-| **Cuaternario** | Varias proteínas terciarias unidas; la hemoglobina de los glóbulos rojos | No todas las proteínas necesitan llegar hasta aquí |
+| **Primario** | Una fila recta de aminoácidos, como un "collar de perlas" | No; tiene todas las piezas, pero todavía no es una proteína que sirva |
+| **Secundario** | Hélice alfa (espiral, como un bastón de dulce) y lámina beta (doblada como acordeón) | No; sigue siendo un paso intermedio |
+| **Terciario** | Las hélices y láminas enrolladas entre sí; la insulina es el ejemplo que usa | Sí; es lo mínimo para que una proteína sirva |
+| **Cuaternario** | Varias proteínas terciarias unidas; la hemoglobina de los glóbulos rojos | No todas las proteínas necesitan llegar aquí |
 
-- **Por qué las hormonas peptídicas deben inyectarse:** si te tragas la insulina, aunque esté en perfecta forma terciaria, las enzimas digestivas la desenrollan y la cortan en aminoácidos que el cuerpo reutiliza como le convenga. Lo mismo pasa con los agonistas de GLP-1, los fármacos para bajar de peso de uso tan extendido, que son péptidos y por eso se inyectan. ✅ 🟢 Verificación de evidencia: ya existen excepciones orales. La semaglutida oral (Rybelsus), que se absorbe gracias a un potenciador, fue aprobada por la FDA para la diabetes tipo 2 en 2019; en diciembre de 2025 se aprobó una pastilla de Wegovy para bajar de peso; y en abril de 2026 se aprobó el orforglipron (Foundayo), un fármaco GLP-1 de molécula pequeña que no es un péptido (FDA 2019; ABC News 2025; Healio 2026). La insulina sigue inyectándose.
+- **Por qué las hormonas hechas de proteína se tienen que inyectar:** si te tragas la insulina, aunque esté en su forma terciaria perfecta, las enzimas de la digestión la desenrollan y la cortan en aminoácidos que el cuerpo usa para lo que le convenga. Lo mismo pasa con las medicinas GLP-1, las que tanto se usan para bajar de peso, que son péptidos y por eso se inyectan. ✅ 🟢 Revisión de la evidencia: ya hay excepciones en pastilla. La semaglutida en pastilla (Rybelsus), que se absorbe gracias a una sustancia que la ayuda, la aprobó la FDA para la diabetes tipo 2 en 2019; en diciembre de 2025 se aprobó una pastilla de Wegovy para bajar de peso; y en abril de 2026 se aprobó el orforglipron (Foundayo), una medicina GLP-1 de molécula pequeña que no es un péptido (FDA 2019; ABC News 2025; Healio 2026). La insulina se sigue inyectando.
 
 ## Ácidos nucleicos
-- Una familia amplia que incluye el ATP (la molécula energética clave de la célula, que se verá más adelante) y los **nucleótidos** que almacenan la información genética: **ADN y ARN**. ✅
-- **Todo nucleótido tiene tres partes:** un fosfato, un anillo de azúcar de cinco carbonos (ribosa o desoxirribosa) y una base nitrogenada. La base es lo que distingue a cada nucleótido. ✅
+- Una familia grande que incluye el ATP (la molécula principal de energía de la célula, que se verá más adelante) y los **nucleótidos** que guardan la información de los genes: **ADN y ARN**. ✅
+- **Todo nucleótido tiene tres partes:** un fosfato, un anillo de azúcar de cinco carbonos (ribosa o desoxirribosa) y una base con nitrógeno. La base es lo que hace distinto a cada nucleótido. ✅
 
 | Característica | ADN | ARN |
 | --- | --- | --- |
-| **Azúcar** | Desoxirribosa (tiene solo un hidrógeno donde el ARN tiene un hidroxilo) | Ribosa (un oxígeno adicional, que forma un hidroxilo) |
-| **Bases** | A, G, C, T | A, G, C y **U** (uracilo) en lugar de T |
-| **Cadenas** | De doble cadena, antiparalelo, en forma de doble hélice dentro del núcleo | De cadena sencilla (ARN mensajero) |
-| **Función** | Almacena el código genético | Lo expresa; tres tipos: mensajero (ARNm), de transferencia (ARNt), ribosómico (ARNr) |
+| **Azúcar** | Desoxirribosa (tiene solo un hidrógeno donde el ARN tiene un grupo hidroxilo, OH) | Ribosa (un oxígeno de más, que forma un grupo hidroxilo) |
+| **Bases (letras)** | A, G, C, T | A, G, C y **U** (uracilo) en vez de T |
+| **Cadenas** | Doble cadena, que van en sentidos opuestos, en forma de doble hélice dentro del núcleo | Una sola cadena (ARN mensajero) |
+| **Para qué sirve** | Guarda el código de los genes | Lo pone a trabajar; tres tipos: mensajero (ARNm), de transferencia (ARNt), ribosómico (ARNr) |
 
-- **Purinas vs. pirimidinas:** las purinas (A, G) tienen dos anillos y son más largas; las pirimidinas (C, T) tienen un anillo y son más cortas. Siempre se aparea una larga con una corta: **A con T, C con G** (A con U en el ARN). A esto se le llama apareamiento complementario de bases. ✅
-- **Antiparalelas:** las dos cadenas van en sentidos opuestos, y esa orientación determina en qué sentido se lee el código (tema que se desarrolla en la clase del dogma central). ✅
+- **Purinas y pirimidinas:** las purinas (A, G) tienen dos anillos y son más largas; las pirimidinas (C, T) tienen un anillo y son más cortas. Siempre se junta una larga con una corta: **A con T, C con G** (A con U en el ARN). A esto se le llama emparejamiento de bases complementarias. ✅
+- **En sentidos opuestos:** las dos cadenas van al revés una de la otra, y esa dirección decide hacia dónde se lee el código (tema que se ve en la clase de "del ADN a la proteína"). ✅
 - Watson y Crick describieron la doble hélice en 1953, apoyándose en los datos de rayos X de Rosalind Franklin, y compartieron el Premio Nobel de 1962 con Maurice Wilkins (Watson 1953; Franklin 1953; Premio Nobel 1962). ✅
 
 ## Enzimas — Las que hacen el trabajo de la célula
-- **Por qué se necesitan:** incluso un simple glóbulo rojo realiza cientos de miles de reacciones, y el cuerpo tiene unos 30 billones de células de unos 200 tipos distintos. Sin enzimas, la mayoría de estas reacciones no ocurriría a tiempo para ser útil. ✅ 🟡 Verificación de evidencia: las cifras son aproximadas. El mapa más completo del metabolismo humano registra unas 13,500 reacciones distintas en todo el cuerpo (Brunk 2018), y un glóbulo rojo, que no tiene núcleo ni mitocondrias, realiza muchas menos; el total de células es de unos 30 a 36 billones (Hatton 2023).
-- **Tipos de enlace:** un **enlace covalente** comparte electrones y es muy fuerte; un **puente de hidrógeno** es solo una atracción electrostática y es débil (el calor puede romperlo, como cuando hierve el agua). Una célula no puede ponerse a hervir, así que ese trabajo lo hacen las enzimas. ✅
-- **Qué hace una enzima:** reduce la energía que, de otro modo, haría insuperable una reacción, para que ocurra ahora y no tarde o temprano. ✅
+- **Por qué hacen falta:** hasta un simple glóbulo rojo hace cientos de miles de reacciones, y el cuerpo tiene unos 30 billones de células de unos 200 tipos distintos. Sin enzimas, la mayoría de estas reacciones no pasaría a tiempo para servir. ✅ 🟡 Revisión de la evidencia: las cifras son aproximadas. El mapa más completo del metabolismo humano tiene unas 13,500 reacciones distintas en todo el cuerpo (Brunk 2018), y un glóbulo rojo, que no tiene núcleo ni mitocondrias, hace muchas menos; el total de células es de unos 30 a 36 billones (Hatton 2023).
+- **Tipos de unión:** una **unión covalente** comparte electrones y es muy fuerte; un **puente de hidrógeno** es solo una atracción eléctrica y es débil (el calor la puede romper, como cuando hierve el agua). Una célula no se puede poner a hervir, así que ese trabajo lo hacen las enzimas. ✅
+- **Qué hace una enzima:** baja la energía que, si no, haría imposible una reacción, para que pase ahora y no "algún día". ✅
 
 ### Reglas de las enzimas
-- **Específicas:** en general, una enzima para cada reacción y para un solo sustrato.
-- **No se alteran ni se consumen:** quedan listas para actuar de nuevo después de cada reacción.
-- **El nombre termina en -asa:** la sacarasa corta la sacarosa en glucosa + fructosa; la ATPasa forma o rompe ATP. Si termina en -asa, es una enzima. Lo contrario no siempre se cumple: algunas enzimas conservan nombres antiguos sin -asa (pepsina, tripsina, lisozima).
-- **Concentración de sustrato:** a más sustrato, mayor velocidad de reacción, hasta el punto en que la enzima se satura.
-- **Afinidad y competencia:** la unión debe ser lo bastante fuerte para atraer al sustrato, y otra molécula con cierta afinidad puede competir por el mismo sitio.
+- **Específicas:** en general, una enzima para cada reacción y para una sola sustancia.
+- **No cambian ni se gastan:** quedan listas para trabajar otra vez después de cada reacción.
+- **El nombre termina en -asa:** la sacarasa corta la sacarosa en glucosa + fructosa; la ATPasa forma o rompe ATP. Si termina en -asa, es una enzima. Al revés no siempre se cumple: algunas enzimas tienen nombres viejos sin -asa (pepsina, tripsina, lisozima).
+- **Cuánta sustancia hay:** con más sustancia, la reacción va más rápido, hasta que la enzima ya no se da abasto.
+- **Atracción y competencia:** la unión tiene que ser lo bastante fuerte para atraer a la sustancia, y otra molécula que también se le pegue puede competir por el mismo lugar.
 
-### Ejemplo práctico — La glucocinasa, el primer paso de la glucólisis
-1. La glucosa entra en la célula y la glucocinasa (a la que en la clase también llama hexocinasa) se une a ella.
-2. Le añade un fosfato mediante un enlace covalente, formando **glucosa 6-fosfato** (fosfato en el carbono 6).
-3. El fosfato **atrapa la glucosa dentro** (de otro modo podría volver a salir por el transportador) y la destina a la vía que quema glucosa.
-4. La enzima libera el producto y queda lista de nuevo.
-5. **Inhibición por producto:** la glucocinasa tiene cierta afinidad por su propio producto, así que, si hay mucha glucosa 6-fosfato, esta puede ocupar el sitio de unión y frenar las siguientes fosforilaciones. 🔴 Verificación de evidencia: esto aplica a las hexocinasas I-III (músculo, cerebro y la mayoría de los tejidos), no a la glucocinasa, la forma del hígado y de las células beta, que no se inhibe por su producto (Matschinsky 2019).
+### Ejemplo práctico — La glucocinasa, el primer paso para quemar azúcar (glucólisis)
+1. El azúcar entra en la célula y la glucocinasa (que en la clase también llama hexocinasa) se le pega.
+2. Le agrega un fosfato con una unión covalente, y se forma **glucosa 6-fosfato** (el fosfato en el carbono 6).
+3. El fosfato **deja atrapada el azúcar adentro** (si no, se podría volver a salir por el transportador) y la manda al camino donde se quema.
+4. La enzima suelta el producto y queda lista otra vez.
+5. **El propio producto la frena:** la glucocinasa se pega un poco a su propio producto, así que, si hay mucha glucosa 6-fosfato, esta puede ocupar su lugar y frenar las siguientes. 🔴 Revisión de la evidencia: esto pasa con las hexocinasas I-III (músculo, cerebro y la mayoría de los tejidos), no con la glucocinasa, la versión del hígado y de las células beta del páncreas, que no se frena con su producto (Matschinsky 2019).
 
-- Este es el **paso limitante de la velocidad**: el paso más lento marca el ritmo de toda la vía de la glucólisis. ✅ en cuanto a la definición. 🟡 Verificación de evidencia: el paso que suele señalarse como el principal paso limitante y de compromiso de la glucólisis es el de la fosfofructocinasa-1 (paso 3), no el de la hexocinasa (Yuan 2025).
+- Este es el **paso que marca el ritmo**: el paso más lento pone la velocidad de todo el camino de la glucólisis. ✅ en cuanto a la definición. 🟡 Revisión de la evidencia: el paso que normalmente se señala como el principal que marca el ritmo y que compromete al azúcar a quemarse es el de la fosfofructocinasa-1 (el paso 3), no el de la hexocinasa (Yuan 2025).
 - 🟡 En esta clase, Bikman usa "hexocinasa o glucocinasa" como si fueran una sola enzima; tómalo como una simplificación suya.
 
-## Frases clave y datos citables (Clase 3)
-- **"El carbono es esencial para la química de la vida"** — cadenas y anillos que se basan en enlaces fuertes con muchos elementos.
-- **Un solo hidrógeno distingue al ADN del ARN** en el anillo de azúcar (desoxi = solo un hidrógeno).
-- **Una regla fácil de recordar:** cualquier palabra que termine en **-asa** es siempre una enzima.
-- **Todo lo que se convierte en esteroide fue primero colesterol.**
+## Frases clave y datos para recordar (Clase 3)
+- **"El carbono es esencial para la química de la vida"** — cadenas y anillos que se basan en uniones fuertes con muchos elementos.
+- **Un solo hidrógeno separa al ADN del ARN** en el anillo de azúcar (desoxi = solo un hidrógeno).
+- **Una regla fácil de recordar:** cualquier palabra que termine en **-asa** siempre es una enzima.
+- **Todo lo que se vuelve esteroide fue primero colesterol.**
 - **De los tres aminoácidos de cadena ramificada, solo la leucina** ha mostrado un efecto directo en el músculo (afirmación suya).
-- **Las hormonas peptídicas no pueden tragarse** porque la digestión corta los enlaces peptídicos; la insulina y la mayoría de los fármacos GLP-1 se inyectan (la semaglutida oral y el orforglipron son excepciones).
-- **Las enzimas no se alteran ni se consumen** — cambia la molécula sobre la que actúan, no la enzima.
+- **Las hormonas hechas de proteína no se pueden tragar** porque la digestión corta sus uniones; la insulina y la mayoría de las medicinas GLP-1 se inyectan (la semaglutida en pastilla y el orforglipron son excepciones).
+- **Las enzimas no cambian ni se gastan** — cambia la molécula sobre la que trabajan, no la enzima.
 
-## Correcciones clave para tener presentes
-- 🔴 Suponer que los carbohidratos son "solo energía": algunos actúan como banderas de identidad celular, y la falla en el reconocimiento de lo propio es lo que las conecta con la autoinmunidad.
-- 🔴 Suponer que "grasa" significa una sola cosa: los lípidos son cuatro clases distintas, y solo los glicerolípidos (triglicéridos) se usan como energía; los fosfolípidos, los esfingolípidos y los esteroides cumplen otras funciones.
-- 🔴 Suponer que el colesterol es solo un dato de laboratorio: es la molécula de partida de todo esteroide, incluidas las hormonas sexuales, el cortisol y la aldosterona.
-- 🔴 Suponer que una proteína es funcional en cuanto sus aminoácidos están enlazados: la cadena primaria todavía no sirve; se necesita al menos la estructura terciaria para que funcione.
-- 🔴 Suponer que una enzima se agota: no se altera ni se consume.
+## Correcciones clave para recordar
+- 🔴 Pensar que los carbohidratos son "solo energía": algunos son banderas de identidad de la célula, y la falla en reconocer lo propio es lo que los relaciona con las enfermedades autoinmunes.
+- 🔴 Pensar que "grasa" es una sola cosa: las grasas son cuatro tipos distintos, y solo los glicerolípidos (triglicéridos) se usan como energía; los fosfolípidos, los esfingolípidos y los esteroides hacen otras cosas.
+- 🔴 Pensar que el colesterol es solo un número de laboratorio: es la molécula de la que sale todo esteroide, incluidas las hormonas sexuales, el cortisol y la aldosterona.
+- 🔴 Pensar que una proteína ya funciona en cuanto sus aminoácidos están unidos: la cadena primaria todavía no sirve; necesita por lo menos la forma terciaria para funcionar.
+- 🔴 Pensar que una enzima se gasta: no cambia ni se gasta.
 
 ## Conclusión práctica
-Cuando te encuentres con una molécula nueva, hazte cuatro preguntas: ¿a qué familia pertenece?, ¿es polar o no polar (puede atravesar una membrana o necesita un transportador)?, ¿es un polímero que debe degradarse antes de absorberse?, y ¿hay alguna -asa que actúe sobre ella? Con ese esquema puedes entender casi todo lo que te pongan enfrente las clases que faltan y la serie de hormonas.
+Cuando te encuentres con una molécula nueva, hazte cuatro preguntas: ¿de qué familia es?, ¿le gusta o no el agua (puede atravesar una cubierta o necesita un transportador)?, ¿es una cadena que se tiene que deshacer antes de absorberse?, y ¿hay alguna "-asa" que trabaje sobre ella? Con eso puedes entender casi todo lo que te pongan enfrente las clases que faltan y la serie de las hormonas.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Un amigo te pregunta por qué un diabético no puede simplemente tomarse una pastilla de insulina. Con base en esta clase, ¿cuál es la mejor explicación?**
-A. La insulina es un lípido, y los lípidos no pueden absorberse en el intestino
-B. La insulina es demasiado polar para atravesar cualquier membrana, así que se queda atorada en el estómago
-C. \* La insulina es una proteína cuyos aminoácidos se mantienen unidos por enlaces peptídicos; las enzimas digestivas la cortarían en aminoácidos, aunque se tome en su forma terciaria funcional
-*Por qué C: la clase usa exactamente este ejemplo. La digestión desenrolla y corta el polímero, y el cuerpo usaría esos aminoácidos para fabricar otras proteínas, no insulina. La misma lógica se aplica a los agonistas de GLP-1.*
+**1. Un amigo te pregunta por qué una persona con diabetes no puede simplemente tomarse una pastilla de insulina. Con lo de esta clase, ¿cuál es la mejor explicación?**
+A. La insulina es una grasa, y las grasas no se pueden absorber en el intestino
+B. A la insulina le gusta tanto el agua que no puede atravesar ninguna cubierta, así que se queda atorada en el estómago
+C. \* La insulina es una proteína cuyos aminoácidos están unidos por uniones peptídicas; las enzimas de la digestión la cortarían en aminoácidos, aunque se tomara ya en su forma terciaria que funciona
+*Por qué C: la clase usa justo este ejemplo. La digestión desenrolla y corta la cadena, y el cuerpo usaría esos aminoácidos para fabricar otras proteínas, no insulina. La misma lógica vale para las medicinas GLP-1.*
 
-**2. La glucocinasa añade un fosfato a la glucosa y produce glucosa 6-fosfato. ¿Qué afirmación sobre este paso es correcta?**
-A. \* Atrapa la glucosa dentro de la célula y la destina a la glucólisis, y la enzima queda intacta y lista para la siguiente glucosa
-B. La enzima se consume en la reacción, así que la célula debe fabricar una nueva glucocinasa cada vez
-C. Permite que la glucosa atraviese la membrana más fácilmente porque la fosforilación la hace menos polar
-*Por qué A: el fosfato atrapa la glucosa (de otro modo podría salir por el transportador) y la enzima no se altera ni se consume. La fosforilación no ayuda a la glucosa a atravesar la membrana; la mantiene dentro.*
+**2. La glucocinasa le pone un fosfato al azúcar y forma glucosa 6-fosfato. ¿Qué frase sobre este paso es correcta?**
+A. \* Deja atrapada el azúcar dentro de la célula y la manda a quemarse, y la enzima queda igual y lista para el siguiente azúcar
+B. La enzima se gasta en la reacción, así que la célula tiene que fabricar una glucocinasa nueva cada vez
+C. Ayuda a que el azúcar atraviese la cubierta más fácil porque el fosfato hace que le guste menos el agua
+*Por qué A: el fosfato deja atrapada el azúcar (si no, se podría salir por el transportador) y la enzima no cambia ni se gasta. Ponerle el fosfato no ayuda al azúcar a atravesar la cubierta; la mantiene adentro.*
 
-**3. ¿Cuál de estas opciones describe correctamente una diferencia entre el ADN y el ARN?**
-A. El ADN contiene uracilo y el ARN contiene timina
+**3. ¿Cuál de estas opciones describe bien una diferencia entre el ADN y el ARN?**
+A. El ADN tiene uracilo y el ARN tiene timina
 B. \* El ARN tiene un grupo hidroxilo en su azúcar y usa uracilo donde el ADN usa timina
-C. El ADN es de cadena sencilla y el ARN es una doble hélice
-*Por qué B: la clase menciona tanto la única diferencia en el azúcar (hidroxilo en el ARN, solo hidrógeno en el ADN) como el cambio de T por U. El ADN es la hélice de doble cadena; el ARN (ARNm) es de cadena sencilla.*
+C. El ADN tiene una sola cadena y el ARN es una doble hélice
+*Por qué B: la clase menciona tanto la única diferencia en el azúcar (hidroxilo en el ARN, solo hidrógeno en el ADN) como el cambio de T por U. El ADN es la hélice de dos cadenas; el ARN (ARNm) tiene una sola cadena.*
 
-**4. De los cuatro tipos de lípidos que menciona la clase, ¿cuál es el que realmente se usa como fuente de energía y cuál es su estructura?**
+**4. De los cuatro tipos de grasas que menciona la clase, ¿cuál es el que de verdad se usa como fuente de energía y cómo está hecho?**
 A. Fosfolípidos: una cabeza de fosfato con dos ácidos grasos
-B. Esteroides: cuatro anillos construidos sobre el colesterol
+B. Esteroides: cuatro anillos hechos a partir del colesterol
 C. \* Glicerolípidos (triglicéridos): un esqueleto de glicerol con tres ácidos grasos
-*Por qué C: Bikman afirma que ninguna de las otras clases de lípidos se usa como energía. Los fosfolípidos forman membranas (y protegen la gota de triglicéridos), y los esteroides se convierten en hormonas.*
+*Por qué C: Bikman dice que ninguno de los otros tipos de grasa se usa como energía. Los fosfolípidos forman cubiertas (y protegen la gota de grasa), y los esteroides se convierten en hormonas.*
 
-## Hilos abiertos
-- **El dogma central (del ADN al ARN y a la proteína)** — se anuncia al inicio de la clase, entre los objetivos de aprendizaje, como la meta final, pero aquí no se aborda. ✅ Se confirmó que la transcripción está completa (termina después de las enzimas); la replicación, la transcripción y la traducción son el tema del Cap. 4.
-- **Cómo se liberan los triglicéridos para obtener energía** (los fosfolípidos que se apartan) y **cómo entra el carbono en las biomoléculas a partir de la luz solar** — ambos temas quedan para la clase de energía celular.
-- **La glucólisis completa** — aquí solo se ve su primer paso, el limitante de la velocidad.
+## Temas abiertos
+- **Del ADN al ARN a la proteína (el dogma central)** — se anuncia al principio de la clase, entre los objetivos, como la meta final, pero aquí no se ve. ✅ Se confirmó que la transcripción está completa (termina después de las enzimas); copiar el ADN, hacer el ARN y fabricar la proteína son el tema del Cap. 4.
+- **Cómo se suelta la grasa para sacar energía** (los fosfolípidos que se quitan de en medio) y **cómo llega el carbono a las biomoléculas desde la luz del sol** — los dos quedan para la clase de energía de la célula.
+- **La glucólisis completa** — aquí solo se ve su primer paso, el que marca el ritmo.
 
-## Qué se recortó deliberadamente (autoauditoría)
-- Comentarios personales: la anécdota de su posdoctorado sobre la biología de los lípidos y la explicación, con gestos de las manos, de la estructura de los nucleótidos y del apareamiento de bases ("mi pulgar es el fosfato").
-- Material repetido de los Cap. 1-2: transporte de membrana, simporte con sodio, bicapa anfipática de fosfolípidos (solo se mencionan).
-- Los errores de transcripción en el texto fuente ("thiamine" por timina, "glycocytic" por enlace glucosídico) se interpretaron como los términos correctos en lugar de citarse tal cual.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: la historia de su posdoctorado sobre la biología de las grasas y la explicación, con las manos, de cómo están hechos los nucleótidos y cómo se juntan las bases ("mi pulgar es el fosfato").
+- Lo repetido de los Cap. 1-2: transporte por la cubierta, entrada junto con el sodio, la doble capa de fosfolípidos con dos caras (solo se mencionan).
+- Los errores de transcripción en el texto original ("thiamine" por timina, "glycocytic" por enlace glucosídico) se tomaron como las palabras correctas en vez de copiarse tal cual.
 
 ---
 **Referencias:**

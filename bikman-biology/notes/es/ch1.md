@@ -1,151 +1,151 @@
 # Bikman — Fundamentos de Biología, Cap. 1: La célula — La unidad básica de la vida
 
-*Define qué significa estar "vivo", expone la teoría celular y la división entre procariotas y eucariotas, recorre los organelos y explica por qué la membrana de fosfolípidos y colesterol es la que permite que la célula funcione.*
+*Explica qué quiere decir estar "vivo", presenta la teoría de la célula y la diferencia entre células sin núcleo (procariotas) y con núcleo (eucariotas), recorre las partes de la célula (organelos) y explica por qué su cubierta de grasa (fosfolípidos) y colesterol es lo que le permite funcionar.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 1 (transcripción). Mismo profesor que las series "Essentials of Endocrinology" y "Why We Get Sick"; este es el curso básico en el que se apoyan los demás. Nueva serie, nuevo hilo de notas (seis capítulos: célula, transporte de membrana, biomoléculas, dogma central, ciclo celular, metabolismo).*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 1 (transcripción). Es el mismo profesor de las series "Essentials of Endocrinology" y "Why We Get Sick"; este es el curso básico en el que se apoyan los demás. Serie nueva, notas nuevas (seis capítulos: la célula, cómo entran y salen cosas de la célula, las moléculas de la vida, del ADN a la proteína, cómo se dividen las células, cómo sacan energía).*
 
 ## Por qué importa
-Esta clase aporta el vocabulario básico en el que se apoya todo lo que enseña Bikman: qué es una célula, qué hacen sus partes y por qué su membrana es una barrera selectiva y no un muro. Es una clase de fundamentos más que de aplicación personal.
+Esta clase da las palabras básicas sobre las que se apoya todo lo que enseña Bikman: qué es una célula, qué hacen sus partes y por qué su cubierta es una puerta que escoge qué deja pasar y no una pared cerrada. Es una clase de bases más que de cosas para aplicar en la vida diaria.
 
-## Definir la vida — Siete criterios
-Bikman quiere una lista de verificación, no una intuición. Algo está vivo solo si cumple los siete:
+## Qué es la vida — Siete requisitos
+Bikman quiere una lista para revisar, no una corazonada. Algo está vivo solo si cumple los siete:
 
-| # | Criterio | Qué significa en la clase |
+| # | Requisito | Qué quiere decir en la clase |
 | --- | --- | --- |
-| 1 | **Celular** | Está formado por al menos una célula |
-| 2 | **Metabolismo** | Obtiene energía, la convierte en una forma que puede usar para realizar trabajo y elimina desechos |
-| 3 | **Crecimiento y desarrollo** | Sigue instrucciones genéticas que tienen programado cuándo crecer y cuándo no |
-| 4 | **Reproducción** | Puede generar nuevas versiones de sí mismo; "un criterio esencial" |
-| 5 | **Adaptación** | Evoluciona en respuesta a su entorno para asegurar su supervivencia |
-| 6 | **Respuesta a estímulos** | Detecta cambios a su alrededor y reacciona (esto es lo que, con el tiempo, impulsa la adaptación) |
-| 7 | **Homeostasis** | Ajusta algo de sí mismo para mantener estable su medio interno |
+| 1 | **Tener células** | Está hecho de por lo menos una célula |
+| 2 | **Metabolismo** | Consigue energía, la convierte en una forma que puede usar para trabajar y saca sus desechos |
+| 3 | **Crecer y desarrollarse** | Sigue instrucciones de sus genes que tienen programado cuándo crecer y cuándo no |
+| 4 | **Reproducirse** | Puede hacer nuevas copias de sí mismo; "un requisito esencial" |
+| 5 | **Adaptarse** | Cambia con el tiempo según su ambiente para poder sobrevivir |
+| 6 | **Responder a lo que pasa** | Se da cuenta de los cambios a su alrededor y reacciona (eso es lo que, con el tiempo, lleva a adaptarse) |
+| 7 | **Homeostasis** | Ajusta algo de sí mismo para mantener estable su interior |
 
-✅ **Homeostasis, tres metáforas:** un termostato (detecta frío y enciende la calefacción; detecta calor y enciende el aire acondicionado), el cuerpo en una inmersión en agua fría (tiritar para mantener la temperatura; si la temperatura corporal igualara la del agua, morirías) y sudar con el calor (la evaporación enfría la piel). Una tercera imagen es la de un director de banda que le pide a la sección de metales que toque más bajo. Bikman subraya que el termostato es una metáfora, no algo vivo.
+✅ **Homeostasis, en tres comparaciones:** un termostato (detecta frío y prende la calefacción; detecta calor y prende el aire acondicionado), el cuerpo metido en agua fría (tiritar para no perder temperatura; si el cuerpo quedara a la misma temperatura que el agua, morirías) y sudar con el calor (el sudor, al evaporarse, enfría la piel). Otra imagen es la de un director de banda que le pide a las trompetas que toquen más bajito. Bikman aclara que el termostato es una comparación, no algo vivo.
 
-✅ **Veredictos:** una célula está viva; los animales y las plantas están vivos; una **semilla está viva** (responde al agua y a las condiciones, y crece); un **virus no está vivo** (no crece, no mantiene la homeostasis, no puede reproducirse por sí solo; solo parece vivo porque secuestra una célula viva); las rocas y las paredes no están vivas. 🟡 Verificación de evidencia: si los virus cuentan o no como seres vivos es una cuestión de definición, y los biólogos no se ponen de acuerdo. La lista de Bikman coincide con una postura (Moreira 2009); otros defienden una definición más amplia que sí incluye a los virus (Forterre 2010).
+✅ **Qué está vivo y qué no:** una célula está viva; los animales y las plantas están vivos; una **semilla está viva** (responde al agua y a las condiciones, y crece); un **virus no está vivo** (no crece, no mantiene su interior estable, no puede reproducirse solo; solo parece vivo porque se apodera de una célula viva); las piedras y las paredes no están vivas. 🟡 Revisión de la evidencia: si los virus cuentan o no como seres vivos depende de cómo se defina la vida, y los biólogos no se ponen de acuerdo. La lista de Bikman coincide con una postura (Moreira 2009); otros defienden una definición más amplia que sí incluye a los virus (Forterre 2010).
 
-## Teoría celular — Tres principios
-- **1. Todos los organismos vivos están formados por al menos una célula.** ✅
-- **2. La célula es la unidad más pequeña de la vida.** ✅ No hay nada más fundamental por debajo de ella.
-- **3. Todas las células nuevas provienen de células preexistentes.** ✅ Se trata de la división celular, que se retoma en la clase sobre el ciclo celular (mitosis y meiosis).
-- ✅ **Corolario:** los organismos funcionan a nivel de tejidos (riñón, hígado, músculo, piel), y los tejidos son células especializadas agrupadas, así que para entender un órgano hay que entender sus células específicas (espermatozoides y óvulos, células filtradoras del riñón, neuronas). Además, las células tienen que trabajar en conjunto.
+## La teoría de la célula — Tres ideas
+- **1. Todos los seres vivos están hechos de por lo menos una célula.** ✅
+- **2. La célula es la unidad más pequeña de la vida.** ✅ No hay nada vivo más básico debajo de ella.
+- **3. Toda célula nueva viene de otra célula que ya existía.** ✅ Es decir, de que las células se dividen; esto se retoma en la clase sobre cómo se dividen (mitosis y meiosis).
+- ✅ **Lo que se sigue de esto:** los seres vivos funcionan por tejidos (riñón, hígado, músculo, piel), y los tejidos son células especializadas juntas, así que para entender un órgano hay que entender sus células (espermatozoides y óvulos, las células del riñón que filtran, las neuronas). Además, las células tienen que trabajar en equipo.
 
-## Procariotas vs. eucariotas — Dos familias de células
+## Procariotas y eucariotas — Dos familias de células
 
 | Característica | Procariotas | Eucariotas |
 | --- | --- | --- |
-| **Miembros** | Bacterias y arqueas | Animales, plantas, organismos que viven en el agua de un estanque; "de lo que estás hecho" |
-| **Apariencia** | Una simple "burbuja" o saco, casi sin estructuras identificables en su interior | Compartimentos internos definidos (organelos) |
-| **ADN** | Flota libremente; sin núcleo | Encerrado y protegido en un núcleo bien definido |
-| **¿Ambos vivos?** | Sí, cumplen los siete criterios | Sí, cumplen los siete criterios |
+| **Quiénes son** | Bacterias y arqueas | Animales, plantas, los seres que viven en el agua de un estanque; "de lo que estás hecho tú" |
+| **Cómo se ven** | Una simple "burbuja" o bolsa, casi sin partes que se distingan por dentro | Con cuartitos por dentro bien marcados (organelos) |
+| **ADN** | Flota suelto; no tienen núcleo | Guardado y protegido dentro de un núcleo bien definido |
+| **¿Las dos están vivas?** | Sí, cumplen los siete requisitos | Sí, cumplen los siete requisitos |
 
-- **Arqueas:** las menos conocidas y menos abundantes; organismos unicelulares que solo viven donde ningún otro organismo puede vivir: aguas termales hirvientes, lugares extremadamente salados como el Mar Muerto y el Gran Lago Salado de Utah. 🟡 Verificación de evidencia: hay arqueas extremófilas en esos lugares, pero las arqueas no se limitan a hábitats extremos ni son escasas. Son comunes en océanos, suelos y en el intestino humano, y en el océano profundo son casi tan numerosas como las bacterias (Karner 2001).
-- **Bacterias:** están en todos los demás lugares, dentro de animales y plantas y sobre ellos (intestino, piel). Los humanos tienen aproximadamente 30 billones de células propias y aproximadamente una bacteria por cada célula humana. ✅ La vieja idea de "10 veces más bacterias que células humanas" ha sido cuestionada; hoy se acepta en general una proporción de alrededor de 1 a 1 (Sender 2016: unos 38 billones de bacterias frente a 30 billones de células humanas), y las bacterias son parte de la fisiología normal, no un problema.
-- **Teoría endosimbiótica (explícitamente una teoría):** la membrana de un procariota simple se plegó hacia adentro (dando origen al núcleo y a otros organelos) y este engulló a otro procariota, una bacteria; ambos establecieron una relación de beneficio mutuo y el engullido se convirtió en la **mitocondria**, que conserva su propio ADN único. El cloroplasto es el análogo específico de las plantas. 🟡 Bikman advierte que no sabemos exactamente cómo comenzó la vida; esta es la explicación predominante, no un hecho establecido. 🟢 Verificación de evidencia: el origen bacteriano de las mitocondrias está muy bien respaldado. Lo que sigue abierto es cuál fue la célula huésped y cómo surgió el núcleo; los datos actuales apuntan a una arquea del grupo Asgard como huésped (Roger 2017; Imachi 2020).
+- **Arqueas:** las menos conocidas y menos abundantes; seres de una sola célula que solo viven donde nada más puede vivir: aguas termales hirviendo, lugares saladísimos como el Mar Muerto y el Gran Lago Salado de Utah. 🟡 Revisión de la evidencia: sí hay arqueas que viven en lugares extremos, pero las arqueas no viven solo ahí ni son escasas. Son comunes en los océanos, la tierra y el intestino humano, y en el fondo del océano hay casi tantas como bacterias (Karner 2001).
+- **Bacterias:** están en todos los demás lugares, dentro y encima de animales y plantas (intestino, piel). Las personas tenemos unos 30 billones de células propias y más o menos una bacteria por cada célula humana. ✅ La vieja idea de "10 veces más bacterias que células humanas" se ha puesto en duda; hoy se acepta en general que hay más o menos una por una (Sender 2016: unos 38 billones de bacterias contra 30 billones de células humanas), y las bacterias son parte normal del funcionamiento del cuerpo, no un problema.
+- **La teoría de la "célula tragada" (endosimbiótica; claramente es una teoría):** la cubierta de una célula simple sin núcleo se dobló hacia adentro (y de ahí salieron el núcleo y otros organelos), y esa célula se tragó a otra, una bacteria; las dos se ayudaron entre sí, y la que fue tragada se convirtió en la **mitocondria**, que todavía tiene su propio ADN. El cloroplasto es lo mismo, pero en las plantas. 🟡 Bikman advierte que no sabemos exactamente cómo empezó la vida; esta es la explicación más aceptada, no un hecho comprobado. 🟢 Revisión de la evidencia: que las mitocondrias vienen de una bacteria está muy bien apoyado. Lo que sigue sin resolverse es cuál fue la célula que se la tragó y cómo apareció el núcleo; los datos de hoy apuntan a una arquea del grupo Asgard como la célula huésped (Roger 2017; Imachi 2020).
 
-## La célula como fábrica — Y los organelos
-Cinco rasgos de una fábrica: instrucciones (protocolos), herramientas para construir máquinas, las máquinas mismas (las células musculares tienen máquinas distintas a las de las células renales), una fuente de energía y su administración (almacenarla o quemarla), compartimentación, y todo se fabrica ahí mismo.
+## La célula como una fábrica — Y sus partes
+Cinco cosas de una fábrica: instrucciones (manuales), herramientas para armar máquinas, las máquinas mismas (las células del músculo tienen máquinas distintas a las del riñón), una fuente de energía y quien la administre (guardarla o quemarla), áreas separadas, y todo se fabrica ahí mismo.
 
-| Organelo | Papel en la clase |
+| Parte (organelo) | Qué hace, según la clase |
 | --- | --- |
-| **Núcleo** | Contiene el ADN (el código genético) e inicia el proceso de producir ARN; sus diminutos poros son demasiado pequeños para el ADN pero dejan salir el ARN |
-| **Retículo endoplásmico (RE)** | Red de membranas aplanadas y plegadas alrededor del núcleo; la información genética pasa por ella al salir del núcleo. **RE liso:** produce grasas, almacena calcio (especialmente en células musculares y nerviosas) y ayuda a desintoxicar. **RE rugoso:** cubierto de ribosomas, que convierten la información del ARN en proteína |
-| **Aparato de Golgi** | Junto al RE; procesamiento postraduccional y empaquetado para que los productos lleguen al borde de la célula y salgan |
-| **Mitocondrias** | La "central energética"; producen las principales moléculas de energía (el ciclo de Krebs/del citrato y la cadena de transporte de electrones ocurren aquí) |
-| **Lisosoma y peroxisoma** | Limpieza y degradación, incluidas algunas toxinas; no se exploran más en este curso |
-| **Centrosoma** | Organiza los microtúbulos y establece la orientación y la dirección en que se separa una célula al dividirse |
-| **Citoesqueleto y microfilamentos** | Red filamentosa que da forma a la célula; los microfilamentos permiten el movimiento (contracción muscular; también menciona el nado de los espermatozoides, pero la cola del espermatozoide se mueve gracias a microtúbulos) y la citocinesis, la división final de la célula |
-| **Cloroplasto** (plantas) | Versión vegetal de la mitocondria que capta energía de la luz solar en lugar de los alimentos |
+| **Núcleo** | Guarda el ADN (las instrucciones de los genes) y empieza a fabricar ARN (una copia de trabajo); sus poros diminutos son muy chicos para que salga el ADN, pero dejan salir el ARN |
+| **Retículo endoplásmico (RE)** | Una red de membranas planas y dobladas alrededor del núcleo; la información de los genes pasa por ahí al salir del núcleo. **RE liso:** fabrica grasas, guarda calcio (sobre todo en las células del músculo y de los nervios) y ayuda a quitar tóxicos. **RE rugoso:** lleno de ribosomas, que convierten la información del ARN en proteína |
+| **Aparato de Golgi** | Junto al RE; termina de arreglar y empaqueta los productos para que lleguen a la orilla de la célula y salgan |
+| **Mitocondrias** | La "planta de energía"; fabrican las principales moléculas de energía (aquí pasan el ciclo de Krebs y la cadena que mueve electrones) |
+| **Lisosoma y peroxisoma** | Limpian y deshacen cosas, incluidos algunos tóxicos; no se ven más en este curso |
+| **Centrosoma** | Acomoda unos tubitos (microtúbulos) y marca hacia dónde se separa la célula cuando se divide |
+| **Citoesqueleto y microfilamentos** | Una red de hilos que le da forma a la célula; los microfilamentos permiten el movimiento (que el músculo se contraiga; también menciona que nadan los espermatozoides, pero la cola del espermatozoide se mueve con microtúbulos) y la citocinesis, el corte final cuando la célula se divide |
+| **Cloroplasto** (plantas) | La versión de la mitocondria en las plantas, que saca energía de la luz del sol en vez de la comida |
 
-- ✅ **Citoplasma vs. citosol:** el citosol es el líquido acuoso (la parte del "globo de agua"); el citoplasma es el citosol más todos los organelos, excepto el núcleo.
+- ✅ **Citoplasma y citosol:** el citosol es el líquido aguado (la parte del "globo con agua"); el citoplasma es el citosol más todas las partes de la célula, menos el núcleo.
 
-## La membrana celular — La barrera funcional
-- ✅ **Tres nombres, una estructura:** membrana celular, membrana plasmática, bicapa de fosfolípidos. Debe ser **semipermeable**: totalmente abierta no sirve de nada, totalmente sellada tampoco.
-- ✅ **Fosfolípidos anfipáticos:** una cabeza que ama el agua (hidrofílica) y dos colas de ácidos grasos que temen al agua (hidrofóbicas). Las dos capas se disponen con las colas hacia adentro y las cabezas hacia afuera, de modo que las cabezas miran al agua por ambos lados (fuera y dentro de la célula). El agua representa hasta cerca del 60% del cuerpo.
-- ✅ **Micela:** la misma lógica dispuesta como esfera (colas adentro, cabezas afuera); es la forma que adoptan las grasas al desplazarse por el cuerpo. 🟢 Verificación de evidencia: esto es cierto en el intestino, donde micelas de sales biliares llevan la grasa digerida hasta la pared intestinal. En la sangre, las grasas viajan dentro de lipoproteínas (una envoltura de fosfolípidos y proteínas alrededor de un núcleo de grasa) o unidas a la albúmina (Feingold, Endotext).
-- ✅ **La fluidez depende del tipo de grasa.** Las colas saturadas son rectas y se empaquetan apretadamente; las monoinsaturadas (p. ej., el aceite de oliva) tienen un pliegue; las poliinsaturadas tienen dos o más (hasta seis en el DHA). Una membrana totalmente saturada sería demasiado rígida y densa; una totalmente poliinsaturada sería demasiado laxa y permeable, al grado de romperse. La célula ajusta su propia mezcla para conservar su estructura sin perder fluidez.
-- 🟡 Bikman pone como ejemplo de poliinsaturados los aceites de semillas refinados (soya, maíz, el llamado aceite vegetal) y dice que "mucha mala ciencia" ha moldeado lo que entendemos sobre las grasas de la dieta; la clase presenta esta química sin sesgo y no desarrolla aquí el argumento dietético. 🟡 Verificación de evidencia: una revisión de la Asociación Americana del Corazón encontró que sustituir la grasa saturada por aceites vegetales poliinsaturados redujo la enfermedad cardiovascular en alrededor de 30% en los ensayos (Sacks 2017). Una revisión Cochrane encontró que reducir la grasa saturada disminuyó los eventos cardiovasculares en alrededor de 21%, sin un efecto claro sobre las muertes (Hooper 2020). Los datos recuperados del Minnesota Coronary Experiment mostraron que el aceite de maíz bajó el colesterol, pero no las muertes (Ramsden 2016).
+## La cubierta de la célula — La barrera que funciona
+- ✅ **Tres nombres, una sola cosa:** membrana celular, membrana plasmática, doble capa de fosfolípidos. Tiene que ser **semipermeable** (dejar pasar unas cosas y otras no): si estuviera completamente abierta no serviría, y completamente cerrada tampoco.
+- ✅ **Fosfolípidos con dos caras:** una cabeza a la que le gusta el agua (hidrofílica) y dos colas de grasa a las que no les gusta el agua (hidrofóbicas). Las dos capas se acomodan con las colas hacia adentro y las cabezas hacia afuera, así que las cabezas dan al agua por los dos lados (afuera y adentro de la célula). El agua es hasta cerca del 60% del cuerpo.
+- ✅ **Micela:** la misma idea, pero en forma de bolita (colas adentro, cabezas afuera); es la forma que toman las grasas para moverse por el cuerpo. 🟢 Revisión de la evidencia: esto es cierto en el intestino, donde unas bolitas hechas con la bilis llevan la grasa digerida hasta la pared del intestino. En la sangre, las grasas viajan dentro de lipoproteínas (una envoltura de fosfolípidos y proteínas alrededor de un centro de grasa) o pegadas a una proteína llamada albúmina (Feingold, Endotext).
+- ✅ **Qué tan suelta está depende del tipo de grasa.** Las colas saturadas son rectas y se acomodan muy apretadas; las monoinsaturadas (por ejemplo, el aceite de oliva) tienen un doblez; las poliinsaturadas tienen dos o más (hasta seis en el DHA, un omega-3). Una cubierta solo de grasa saturada sería demasiado dura y apretada; una solo de poliinsaturada sería demasiado floja y dejaría pasar todo, hasta romperse. La célula ajusta su propia mezcla para mantener su forma sin dejar de ser flexible.
+- 🟡 Bikman pone como ejemplo de grasas poliinsaturadas los aceites de semillas refinados (soya, maíz, el llamado aceite vegetal) y dice que "mucha mala ciencia" ha moldeado lo que sabemos sobre las grasas de la comida; la clase explica esta química sin tomar partido y no desarrolla aquí lo de la dieta. 🟡 Revisión de la evidencia: una revisión de la Asociación Americana del Corazón encontró que cambiar la grasa saturada por aceites vegetales poliinsaturados bajó las enfermedades del corazón y las arterias en alrededor de 30% en los estudios (Sacks 2017). Una revisión Cochrane encontró que comer menos grasa saturada bajó los problemas del corazón y las arterias en alrededor de 21%, sin un efecto claro en las muertes (Hooper 2020). Los datos recuperados del Minnesota Coronary Experiment mostraron que el aceite de maíz bajó el colesterol, pero no las muertes (Ramsden 2016).
 
-### Qué está incrustado en la membrana
+### Qué está metido en la cubierta
 
-| Estructura | Función |
+| Pieza | Qué hace |
 | --- | --- |
-| **Transportadores** | Guardianes que dejan pasar moléculas específicas ("pueden pasar dos, nada más") |
-| **Enzimas** | Convierten una molécula en otra; pueden ubicarse en la superficie interna de la membrana o flotar libres en el citosol |
-| **Receptores de superficie** | Permiten a la célula detectar señales de otras células |
-| **Marcadores de identidad** | Señales de "somos del mismo equipo"; cuando las células inmunitarias no los reconocen, se produce una enfermedad autoinmune |
-| **Moléculas de adhesión** | Unión tipo velcro que mantiene unidos los órganos |
+| **Transportadores** | Porteros que dejan pasar moléculas específicas ("pueden pasar dos, nada más") |
+| **Enzimas** | Convierten una molécula en otra; pueden estar en la cara de adentro de la cubierta o flotar sueltas en el citosol |
+| **Receptores en la superficie** | "Antenas" que dejan que la célula detecte señales de otras células |
+| **Marcas de identidad** | Señales de "somos del mismo equipo"; cuando las células de defensa no las reconocen, aparece una enfermedad en la que las defensas atacan al propio cuerpo (autoinmune) |
+| **Moléculas para pegarse** | Uniones como de velcro que mantienen juntos los órganos |
 
-✅ **Ejemplo práctico de la insulina:** la insulina se une a su receptor (que atraviesa toda la bicapa; la insulina "toca la puerta"), la señal pasa por una enzima contigua unida a la membrana y, como resultado, se abre un transportador para que entre la glucosa. Bikman usa este ejemplo para relacionar receptor, enzima y transportador. 🟢 Verificación de evidencia: en realidad, el receptor de insulina es en sí mismo la enzima (una tirosina cinasa). En músculo y grasa, su señal hace que los transportadores GLUT4 pasen de su reserva dentro de la célula a la membrana, en lugar de abrir un transportador que ya estaba ahí (Saltiel 2021).
+✅ **Ejemplo práctico con la insulina:** la insulina se pega a su receptor (que atraviesa toda la doble capa; la insulina "toca la puerta"), la señal pasa por una enzima de al lado pegada a la cubierta y, como resultado, se abre un transportador para que entre el azúcar. Bikman usa este ejemplo para unir receptor, enzima y transportador. 🟢 Revisión de la evidencia: en realidad, el receptor de insulina es él mismo la enzima (una tirosina cinasa). En el músculo y la grasa, su señal hace que los transportadores GLUT4 salgan de donde están guardados dentro de la célula y suban a la cubierta, en vez de abrir un transportador que ya estaba ahí (Saltiel 2021).
 
-## Qué atraviesa y qué no
-- ✅ **Pasa con facilidad:** moléculas pequeñas, moléculas no polares (sin carga), lípidos ("lo semejante atrae a lo semejante") y agua. Por eso las **hormonas esteroides** (estrógenos, andrógenos como la testosterona) se mueven libremente a través de la membrana. 🟢 Verificación de evidencia: el agua sí atraviesa la bicapa por sí sola, pero lentamente; el paso rápido de agua depende de canales llamados acuaporinas (Agre 2004).
-- ✅ **Necesita regulación:** moléculas grandes o con carga, incluidas la glucosa y los electrolitos sodio, potasio y cloruro, que solo pasan a través de moléculas específicas que se abren para dejarlas pasar.
+## Qué pasa y qué no pasa
+- ✅ **Pasa fácil:** moléculas pequeñas, moléculas sin carga eléctrica, grasas ("lo parecido se junta con lo parecido") y agua. Por eso las **hormonas esteroides** (estrógenos, hormonas masculinas como la testosterona) entran y salen libremente por la cubierta. 🟢 Revisión de la evidencia: el agua sí atraviesa la doble capa sola, pero despacio; el paso rápido del agua depende de unos canales llamados acuaporinas (Agre 2004).
+- ✅ **Necesita permiso:** moléculas grandes o con carga eléctrica, como el azúcar (glucosa) y las sales minerales sodio, potasio y cloruro, que solo pasan por moléculas específicas que se abren para dejarlas pasar.
 
-## Colesterol — Esencial a nivel celular
-- ✅ **Precursor:** todas las hormonas esteroides, "no solo las hormonas sexuales, sino muchísimas más", se construyen sobre el colesterol.
-- 🟢 **Estructura:** el colesterol está distribuido por toda la bicapa; forma **balsas lipídicas**, zonas ricas en colesterol donde se ubican estructuras ricas en proteínas, como el receptor de insulina. Las balsas lipídicas son un modelo bien respaldado, aunque todavía en debate (Lingwood 2010).
-- ✅ **Fluidez:** se inserta entre los fosfolípidos para evitar que se empaqueten demasiado, incluso con colas insaturadas. Más exactamente, el colesterol amortigua la fluidez en ambos sentidos: evita el empaquetamiento apretado cuando hace frío y frena el movimiento cuando hace calor. La imagen de Bikman: si estuvieras de pie sobre una célula del tamaño de la Luna, verías sus componentes desplazarse como objetos que flotan en un océano. "Gracias a Dios por el colesterol."
-- 🟡 Bikman critica que la práctica clínica se centre en bajar el colesterol; la clase se limita a señalar que la célula lo necesita y no aborda ApoB, partículas de LDL ni riesgo cardiovascular. No lo interpretes como una afirmación sobre metas de lípidos en sangre. ✅ Verificación de evidencia: el LDL causa enfermedad cardiovascular aterosclerótica, y cada reducción de 1 mmol/L del colesterol LDL con estatinas disminuye los eventos vasculares mayores en alrededor de una quinta parte (Ference 2017; CTT 2010).
+## Colesterol — Indispensable para la célula
+- ✅ **Materia prima:** todas las hormonas esteroides, "no solo las hormonas sexuales, sino muchísimas más", se fabrican a partir del colesterol.
+- 🟢 **Estructura:** el colesterol está repartido por toda la doble capa; forma **balsas de grasa**, zonas con mucho colesterol donde se acomodan piezas ricas en proteína, como el receptor de insulina. Las balsas de grasa son una idea con buen apoyo, aunque todavía se discute (Lingwood 2010).
+- ✅ **Flexibilidad:** se mete entre los fosfolípidos para que no se aprieten demasiado, aun con colas insaturadas. Para ser exactos, el colesterol mantiene la flexibilidad pareja en los dos sentidos: evita que se aprieten cuando hace frío y frena el movimiento cuando hace calor. La imagen de Bikman: si estuvieras parado sobre una célula del tamaño de la Luna, verías sus piezas moverse como cosas que flotan en el mar. "Gracias a Dios por el colesterol."
+- 🟡 Bikman critica que los médicos se fijen tanto en bajar el colesterol; la clase solo dice que la célula lo necesita y no habla de ApoB, partículas de LDL ni riesgo del corazón. No lo tomes como algo sobre las metas de grasas en la sangre. ✅ Revisión de la evidencia: el LDL causa la enfermedad de las arterias tapadas, y cada vez que las estatinas bajan el colesterol LDL 1 mmol/L, los problemas graves de las arterias bajan cerca de una quinta parte (Ference 2017; CTT 2010).
 
-## Células vegetales
-Las plantas son eucariotas y cumplen todos los criterios de la vida. Las células vegetales tienen la misma membrana fluida de fosfolípidos y, por fuera de ella, una pared de **celulosa** rígida, aunque permeable, que las hace más resistentes.
+## Células de las plantas
+Las plantas son eucariotas y cumplen todos los requisitos de la vida. Sus células tienen la misma cubierta flexible de fosfolípidos y, por fuera, una pared dura de **celulosa** que deja pasar cosas y las hace más resistentes.
 
-## Frases clave y datos citables (Clase 1)
-- **"Todo lo que está vivo quiere vivir."** — la idea que enmarca la adaptación y la homeostasis.
-- **Una semilla está viva; un virus no.** — la aplicación más clara de la lista de siete criterios.
-- **Unos 30 billones de células humanas, aproximadamente 38 billones de bacterias.** — la proporción revisada de 1 a 1, que reemplaza la vieja afirmación de 10 a 1.
-- **La mitocondria fue alguna vez una bacteria de vida libre (teoría endosimbiótica).** — por qué tiene su propio ADN.
-- **Los poros nucleares son demasiado pequeños para el ADN pero dejan pasar el ARN.** — la base física del dogma central de la siguiente clase.
-- **"Lo semejante atrae a lo semejante."** — por qué las grasas y las hormonas esteroides atraviesan una membrana de grasa.
-- **"Gracias a Dios por el colesterol."** — el argumento, basado en la membrana y las hormonas, contra la satanización del colesterol.
+## Frases clave y datos para recordar (Clase 1)
+- **"Todo lo que está vivo quiere vivir."** — la idea que explica la adaptación y la homeostasis.
+- **Una semilla está viva; un virus no.** — el uso más claro de la lista de siete requisitos.
+- **Unos 30 billones de células humanas, más o menos 38 billones de bacterias.** — la proporción corregida de una por una, en lugar de la vieja de 10 a 1.
+- **La mitocondria fue alguna vez una bacteria que vivía sola (teoría de la célula tragada).** — por qué tiene su propio ADN.
+- **Los poros del núcleo son muy chicos para el ADN pero dejan pasar el ARN.** — la base física de "del ADN a la proteína" de la siguiente clase.
+- **"Lo parecido se junta con lo parecido."** — por qué las grasas y las hormonas esteroides atraviesan una cubierta de grasa.
+- **"Gracias a Dios por el colesterol."** — el argumento, basado en la cubierta y las hormonas, contra ver el colesterol como el villano.
 
-## Correcciones clave para tener presentes
-- 🔴 Suponer que un virus está vivo: no cumple los criterios de la lista (no crece, no tiene homeostasis, no puede reproducirse solo) y solo actúa como vivo dentro de una célula huésped.
-- 🔴 Suponer que las bacterias superan a las células humanas 10 a 1: hoy se acepta una proporción de alrededor de 1 a 1.
-- 🔴 Tratar el colesterol solo como el villano de los análisis de sangre: es un componente estructural de toda membrana celular y la base de todas las hormonas esteroides.
-- 🔴 Suponer que la membrana es un muro: es una barrera selectiva y fluida cuya fluidez depende de su mezcla de ácidos grasos y del colesterol.
-- 🔴 Suponer que citoplasma significa el líquido acuoso: ese es el citosol; el citoplasma es el citosol más todos los organelos fuera del núcleo.
+## Correcciones clave para recordar
+- 🔴 Pensar que un virus está vivo: no cumple la lista (no crece, no mantiene estable su interior, no puede reproducirse solo) y solo actúa como vivo dentro de una célula.
+- 🔴 Pensar que hay 10 bacterias por cada célula humana: hoy se acepta que hay más o menos una por una.
+- 🔴 Ver el colesterol solo como el malo de los análisis de sangre: es una pieza de la cubierta de todas las células y la base de todas las hormonas esteroides.
+- 🔴 Pensar que la cubierta de la célula es una pared: es una barrera flexible que escoge qué pasa, y qué tan flexible es depende de su mezcla de grasas y del colesterol.
+- 🔴 Pensar que citoplasma es el líquido aguado: ese es el citosol; el citoplasma es el citosol más todas las partes de la célula fuera del núcleo.
 
 ## Conclusión práctica
-Cuando una clase posterior mencione una hormona, un fármaco o un nutriente que entra en una célula, hazte primero la pregunta de la membrana: ¿es pequeño, no polar o liposoluble (pasa directamente) o grande y con carga (necesita un transportador o un receptor)? Esa sola pregunta basta para distinguir las hormonas esteroides de la insulina y la glucosa.
+Cuando una clase más adelante hable de una hormona, una medicina o un nutriente que entra en una célula, hazte primero la pregunta de la cubierta: ¿es pequeño, sin carga o se disuelve en grasa (pasa directo) o es grande y con carga (necesita un transportador o un receptor)? Esa sola pregunta basta para separar las hormonas esteroides de la insulina y el azúcar.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Un investigador encuentra una partícula que no puede crecer, no puede mantener estable su medio interno y no puede reproducirse por sí misma, pero se replica tras entrar en una célula. ¿Cómo la clasifica la lista de Bikman?**
+**1. Un investigador encuentra una partícula que no puede crecer, no puede mantener estable su interior y no puede reproducirse sola, pero se multiplica después de meterse en una célula. ¿Cómo la clasifica la lista de Bikman?**
 A. Viva, porque puede reproducirse
-B. Viva, porque se adapta a su entorno
-C. \* No viva, porque no cumple varios de los siete criterios y solo se reproduce secuestrando una célula viva
-*Por qué C: este es el ejemplo del virus de la clase; poder replicarse dentro de un huésped no satisface por sí solo el criterio de reproducción.*
+B. Viva, porque se adapta a su ambiente
+C. \* No viva, porque no cumple varios de los siete requisitos y solo se reproduce apoderándose de una célula viva
+*Por qué C: este es el ejemplo del virus de la clase; poder multiplicarse dentro de otra célula no basta para cumplir el requisito de reproducirse.*
 
-**2. ¿Por qué no funcionaría una membrana formada solo por colas de ácidos grasos poliinsaturados?**
-A. \* Los múltiples pliegues impiden que las colas se empaqueten de forma compacta, así que la membrana sería demasiado suelta y permeable para mantener su estructura
-B. Las colas serían demasiado rectas y se empaquetarían en exceso, lo que la volvería demasiado rígida
-C. Las colas poliinsaturadas son hidrofílicas y mirarían hacia el interior de la célula
-*Por qué A: Bikman contrasta lo totalmente saturado (demasiado rígido) con lo totalmente poliinsaturado (demasiado suelto); la célula regula la mezcla, y el colesterol ayuda a controlar la fluidez.*
+**2. ¿Por qué no funcionaría una cubierta hecha solo de colas de grasa poliinsaturada?**
+A. \* Los muchos dobleces no dejan que las colas se acomoden juntas, así que la cubierta quedaría demasiado floja y dejaría pasar todo, sin poder mantener su forma
+B. Las colas serían demasiado rectas y se apretarían de más, y quedaría demasiado dura
+C. Las colas poliinsaturadas aman el agua y quedarían viendo hacia adentro de la célula
+*Por qué A: Bikman compara la cubierta solo de grasa saturada (demasiado dura) con la solo de poliinsaturada (demasiado floja); la célula controla la mezcla, y el colesterol ayuda a manejar la flexibilidad.*
 
-**3. ¿Qué par describe mejor lo que atraviesa con facilidad una membrana celular frente a lo que necesita ayuda?**
-A. La glucosa y el sodio pasan libremente; la testosterona necesita un transportador
-B. \* La testosterona y el agua pasan con facilidad; la glucosa y el sodio, al ser grandes o tener carga, necesitan vías reguladas
-C. Todo pasa por igual si hay suficiente tiempo
-*Por qué B: las moléculas pequeñas, no polares y de base lipídica se deslizan a través de una membrana de grasa; las grandes o con carga necesitan guardianes específicos.*
+**3. ¿Qué par describe mejor qué atraviesa fácil la cubierta de una célula y qué necesita ayuda?**
+A. El azúcar y el sodio pasan libremente; la testosterona necesita un transportador
+B. \* La testosterona y el agua pasan fácil; el azúcar y el sodio, por ser grandes o tener carga, necesitan caminos con permiso
+C. Todo pasa igual si hay suficiente tiempo
+*Por qué B: las moléculas pequeñas, sin carga y hechas de grasa se escurren por una cubierta de grasa; las grandes o con carga necesitan porteros específicos.*
 
-**4. Según la teoría endosimbiótica, ¿por qué la mitocondria tiene su propio ADN?**
-A. Copia el ADN del núcleo para poder dividirse de forma independiente
-B. Es un cloroplasto que perdió su función de captar luz
-C. \* Probablemente desciende de una bacteria que un procariota primitivo engulló y conservó en una relación mutuamente beneficiosa
-*Por qué C: la clase presenta el ADN mitocondrial único como una huella de este origen, y aclara que es una teoría y no un hecho establecido.*
+**4. Según la teoría de la célula tragada, ¿por qué la mitocondria tiene su propio ADN?**
+A. Copia el ADN del núcleo para poder dividirse por su cuenta
+B. Es un cloroplasto que perdió la capacidad de usar la luz
+C. \* Probablemente viene de una bacteria que una célula primitiva sin núcleo se tragó y se quedó con ella porque les convenía a las dos
+*Por qué C: la clase presenta el ADN propio de la mitocondria como una huella de ese origen, y aclara que es una teoría y no un hecho comprobado.*
 
-## Hilos abiertos
-- **Ósmosis, difusión y gradientes:** se planteó como el cuarto objetivo de aprendizaje, pero no se cubre aquí. ✅ Se confirmó que la transcripción está completa (termina después de la membrana y la pared celular vegetal); este material se enseña en el Cap. 2 (Crossing the Cell Wall).
-- **Dogma central (ADN a ARN a proteína):** los poros del núcleo, el RE y los ribosomas, y el procesamiento en el Golgi se anticipan y se amplían en el Cap. 4.
-- **Energía mitocondrial (ciclo de Krebs, transporte de electrones) y cloroplasto:** se dejan para la clase de energía celular, Cap. 6.
-- **Mitosis, citocinesis, centrosoma y microfilamentos:** se dejan para el Cap. 5.
-- **Estructura de los fosfolípidos y enzimas:** Bikman dice que ambos se verán más adelante (biomoléculas, Cap. 3).
+## Temas abiertos
+- **Ósmosis, difusión y diferencias de concentración:** se planteó como el cuarto objetivo de la clase, pero no se ve aquí. ✅ Se confirmó que la transcripción está completa (termina después de la cubierta y la pared de las plantas); este tema se enseña en el Cap. 2 (Crossing the Cell Wall).
+- **Del ADN al ARN a la proteína:** los poros del núcleo, el RE y los ribosomas, y lo que hace el Golgi se adelantan aquí y se explican más en el Cap. 4.
+- **La energía de la mitocondria (ciclo de Krebs, la cadena que mueve electrones) y el cloroplasto:** quedan para la clase de energía de la célula, Cap. 6.
+- **Mitosis, citocinesis, centrosoma y microfilamentos:** quedan para el Cap. 5.
+- **Cómo están hechos los fosfolípidos y las enzimas:** Bikman dice que los dos se verán más adelante (las moléculas de la vida, Cap. 3).
 
-## Qué se recortó deliberadamente (autoauditoría)
-- Comentarios personales: que tocaba la trompeta de niño y su banda, la grabación en Florida después de venir de las montañas de Utah, y su comentario sobre lo populares que son las inmersiones en agua fría.
-- Detalle del plan del curso ya recogido en la descripción de la serie (los cuatro temas y la lista de objetivos de aprendizaje, salvo el señalado como faltante).
-- Repeticiones de la analogía de la fábrica y de la descripción anfipática de cabeza/cola una vez que la estructura quedó clara.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: que tocaba la trompeta de niño y su banda, que grabó en Florida después de venir de las montañas de Utah, y su comentario sobre lo populares que se volvieron los baños de agua fría.
+- Detalles del plan del curso que ya están en la descripción de la serie (los cuatro temas y la lista de objetivos, menos el que se señaló como faltante).
+- Repeticiones de la comparación con la fábrica y de la explicación de cabeza y colas, una vez que quedó clara.
 
 ---
 **Referencias:**
