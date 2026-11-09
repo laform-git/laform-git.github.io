@@ -1,141 +1,141 @@
 # Bikman — Por qué enfermamos, Cap. 3: Resistencia a la insulina — Más allá de lo básico
 
-*Esta clase explica por qué la resistencia a la insulina está subdiagnosticada en la práctica clínica, recorre la cascada tejido por tejido que lleva de la resistencia a la insulina a la diabetes tipo 2, y cuestiona el modelo estándar de la enfermedad cardíaca y la hipertensión centrado en el LDL.*
+*Esta clase explica por qué casi no se diagnostica la resistencia a la insulina en la consulta médica, sigue paso a paso, órgano por órgano, cómo la resistencia a la insulina se convierte en diabetes tipo 2, y cuestiona la idea común de que el colesterol LDL es lo que causa las enfermedades del corazón y la presión alta.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 3 (transcripción). Continuación de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa realmente", empezando por la diabetes tipo 2 y la enfermedad cardíaca.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 3 (transcripción). Sigue de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa de verdad", empezando por la diabetes tipo 2 y las enfermedades del corazón.*
 
 ## Por qué importa
 
-Los Cap.1–2 construyeron el mecanismo y el concepto de umbral. Este capítulo responde **por qué seguimos sin detectar la resistencia a la insulina en la clínica** (medimos lo que no corresponde, por razones históricas y técnicas), luego explica exactamente cómo la resistencia a la insulina se convierte en diabetes tipo 2 tejido por tejido, y plantea un cuestionamiento detallado y basado en evidencia al modelo estándar de que el LDL causa la enfermedad cardíaca.
+Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. Este capítulo responde **por qué seguimos sin detectar la resistencia a la insulina en la consulta** (medimos lo que no es, por razones de historia y de técnica), luego explica exactamente cómo la resistencia a la insulina se convierte en diabetes tipo 2, órgano por órgano, y presenta una crítica detallada y con evidencia a la idea común de que el LDL causa las enfermedades del corazón.
 
-## Planteamiento central: por qué seguimos sin detectarla
+## La idea central: por qué seguimos sin detectarla
 
-- **Razón histórica:** "Diabetes" significa literalmente "pasar a través": se nombró así por la micción excesiva (poliuria), y "mellitus" (dulce como la miel) se añadió mucho después, en el siglo XVII, cuando Thomas Willis describió el sabor dulce de la orina (Karamanou 2016); los médicos antiguos ya habían notado la orina cargada de azúcar. La enfermedad se ha definido por su síntoma de *glucosa* desde la Antigüedad.
-- **Razón científica/técnica:** la glucosa es facilísima de medir (una gota de sangre, un glucómetro barato y ahora parches continuos). La insulina no: hizo falta el **trabajo de radioinmunoanálisis de Rosalyn Yalow, galardonado con el Premio Nobel** (con Solomon Berson, 1960; Nobel en 1977), para que siquiera fuera posible medir la insulina (Yalow 1960), y aún hoy no es rutinaria en la atención clínica estándar.
-- **La consecuencia, retomada del Cap.1:** la insulina puede estar elevada *décadas* antes de que la glucosa se mueva, pero como históricamente solo buscamos la glucosa y solo ella es fácil de medir, la resistencia a la insulina pasa inadvertida hasta que ya ha progresado a diabetes completa.
+- **Razón histórica:** "Diabetes" quiere decir "pasar a través": se le puso ese nombre por orinar demasiado, y "mellitus" (dulce como la miel) se agregó mucho después, en el siglo XVII, cuando Thomas Willis describió el sabor dulce de la orina (Karamanou 2016); los médicos antiguos ya habían notado que la orina tenía azúcar. Desde la Antigüedad, la enfermedad se ha definido por el *azúcar*.
+- **Razón científica o técnica:** el azúcar es facilísimo de medir (una gota de sangre, un aparato barato y ahora parches que miden todo el día). La insulina no: hizo falta el **trabajo de Rosalyn Yalow, premiado con el Nobel**, sobre una técnica llamada radioinmunoanálisis (con Solomon Berson, 1960; Nobel en 1977), para que se pudiera medir la insulina siquiera (Yalow 1960), y todavía hoy no se mide de rutina en la consulta.
+- **La consecuencia, que viene del Cap.1:** la insulina puede estar alta *décadas* antes de que el azúcar cambie, pero como siempre hemos buscado solo el azúcar y solo el azúcar es fácil de medir, la resistencia a la insulina pasa sin que nadie la note hasta que ya se convirtió en diabetes completa.
 
-## Frases clave y datos citables (Clase 3)
+## Frases clave y datos para recordar (Clase 3)
 
-- **"No existe la diabetes tipo 2 sin resistencia a la insulina."** — reafirmado aquí con aún más fuerza como base de todo el capítulo.
-- **"La diabetes tipo 1 y la tipo 2... no deberían estar en la misma familia."** — una es una enfermedad de exceso de insulina, la otra de deficiencia de insulina; solo comparten el síntoma de la glucosa. 🔴 Es un encuadre; la diabetes tipo 2 implica tanto resistencia a la insulina como una secreción de insulina que va fallando (Kahn 2003).
-- **"Doble diabetes"** — un fenómeno real y creciente: personas con diabetes tipo 1 que desarrollan resistencia a la insulina al estilo tipo 2 a partir de su propia insulina inyectada, porque el consejo de "come lo que quieras, solo cúbrelo con insulina" lleva a dosis de insulina inyectada crónicamente altas. 🟡 El término se usa en la literatura médica (Kietsiriroje 2019); el aumento de peso, los antecedentes familiares y el estilo de vida contribuyen, y se debate cuánto se debe a la propia insulina inyectada.
-- **"¿Por qué hay un camión de bomberos en una casa en llamas?"** — la metáfora central de Bikman para cuestionar si el LDL causa la aterosclerosis o simplemente está presente respondiendo a ella (posible infección).
-- **Las personas con el LDL más bajo tenían el mayor riesgo de enfermedad de Alzheimer, según los datos de Shanghái citados.** — presentado como una inversión directa del supuesto de que "menos colesterol siempre es mejor". 🟡 No verificado: no se pudo identificar la cohorte de Shanghái.
-- **El Sydney Diet Heart Study y el Minnesota Coronary Experiment se ocultaron de la publicación durante décadas** porque reemplazar la grasa saturada por aceites de semillas *aumentó* la mortalidad por todas las causas; esto se descubrió solo cuando unos investigadores revisaron literalmente cajas en el sótano de un científico. 🟡 Verificación de evidencia: ambos ensayos se publicaron de forma incompleta; no está demostrado que se ocultaran a propósito. Sydney encontró más mortalidad por todas las causas en el grupo de aceite de cártamo (Ramsden 2013); Minnesota no encontró beneficio en la mortalidad (Ramsden 2016); ver detalles más abajo.
-- **"Puedes comer toda la sal que quieras", si eres sensible a la insulina.** El estudio nacional por cuartiles de sal no encontró ningún efecto sobre la mortalidad en sujetos de peso normal (sensibles a la insulina), pero sí un efecto fuerte en sujetos con sobrepeso (resistentes a la insulina) con el mismo consumo de sal. 🟢 Coincide con el seguimiento de NHANES I (He 1999); estudio observacional.
-- **Restringir la sal puede volver a una persona MÁS resistente a la insulina** — lo contrario del supuesto intuitivo de que poca sal protege incondicionalmente. 🟡 Una dieta baja en sal durante 7 días subió un poco el HOMA-IR en adultos sanos (Garg 2011); se desconocen los efectos a largo plazo.
+- **"No existe la diabetes tipo 2 sin resistencia a la insulina."** — repetido aquí con más fuerza todavía, como base de todo el capítulo.
+- **"La diabetes tipo 1 y la tipo 2... no deberían estar en la misma familia."** — una es una enfermedad de insulina de más; la otra, de insulina que falta; solo comparten el síntoma del azúcar. 🔴 Es una forma de verlo; la diabetes tipo 2 tiene tanto resistencia a la insulina como un páncreas que va fabricando cada vez peor la insulina (Kahn 2003).
+- **"Doble diabetes"** — algo real que va en aumento: personas con diabetes tipo 1 que desarrollan resistencia a la insulina como en la tipo 2 por su propia insulina inyectada, porque el consejo de "come lo que quieras, solo cúbrelo con insulina" lleva a inyectarse dosis altas todo el tiempo. 🟡 El término se usa en la literatura médica (Kietsiriroje 2019); también influyen subir de peso, la historia familiar y la forma de vivir, y se discute cuánto se debe a la propia insulina inyectada.
+- **"¿Por qué hay un camión de bomberos en una casa en llamas?"** — la comparación central de Bikman para preguntarse si el LDL causa que se tapen las arterias (aterosclerosis) o si solo está ahí respondiendo al problema (quizá a una infección).
+- **Las personas con el LDL más bajo tenían el mayor riesgo de Alzheimer, según los datos de Shanghái citados.** — presentado como lo contrario de la idea de que "menos colesterol siempre es mejor". 🟡 No verificado: no se pudo encontrar el estudio de Shanghái.
+- **El Sydney Diet Heart Study y el Minnesota Coronary Experiment se quedaron sin publicar durante décadas** porque cambiar la grasa saturada por aceites de semillas *subió* las muertes por cualquier causa; se descubrió solo cuando unos investigadores revisaron cajas en el sótano de un científico. 🟡 Revisión de la evidencia: los dos estudios se publicaron incompletos; no está demostrado que se escondieran a propósito. Sydney encontró más muertes por cualquier causa en el grupo de aceite de cártamo (Ramsden 2013); Minnesota no encontró menos muertes (Ramsden 2016); ver detalles más abajo.
+- **"Puedes comer toda la sal que quieras", si tu insulina funciona bien.** El estudio nacional que dividió a la gente en cuatro grupos según la sal no encontró ningún efecto sobre las muertes en personas de peso normal (con buena respuesta a la insulina), pero sí un efecto fuerte en personas con sobrepeso (con resistencia a la insulina) comiendo la misma sal. 🟢 Coincide con el seguimiento de la encuesta NHANES I (He 1999); estudio de observación.
+- **Comer muy poca sal puede DAR más resistencia a la insulina** — lo contrario de la idea de que poca sal siempre protege. 🟡 Una dieta baja en sal por 7 días subió un poco la medida de resistencia a la insulina (HOMA-IR) en adultos sanos (Garg 2011); no se saben los efectos a largo plazo.
 
-## La cascada de tejidos: cómo la resistencia a la insulina se convierte en diabetes tipo 2
+## La cadena de órganos: cómo la resistencia a la insulina se convierte en diabetes tipo 2
 
-**Músculo (el mayor consumidor de glucosa):**
+**Músculo (el que más azúcar consume):**
 
-- El músculo esquelético representa cerca del 40% de la masa corporal y capta **cerca del 80%** de la glucosa en condiciones de clamp con insulina (una proporción menor después de una comida normal, cuando el hígado también capta buena parte), gracias a que la insulina abre las puertas GLUT4 (DeFronzo 2009).
-- Cuando el músculo se vuelve resistente a la insulina, se produce la mayor pérdida individual de capacidad para eliminar glucosa en el cuerpo: la glucosa no tiene a dónde ir y se acumula en la sangre.
+- El músculo es cerca de 40% del peso del cuerpo y se lleva **cerca de 80%** del azúcar en una prueba de laboratorio con insulina (la "pinza"); después de una comida normal se lleva menos, porque el hígado también recoge bastante. Lo logra porque la insulina abre unas "puertas" llamadas GLUT4 (DeFronzo 2009).
+- Cuando el músculo se vuelve resistente a la insulina, el cuerpo pierde de un golpe la mayor parte de su capacidad para sacar el azúcar de la sangre: el azúcar no tiene a dónde ir y se acumula en la sangre.
 
 **Hígado:**
 
-- El hígado ejecuta dos programas impulsados por la insulina: la **lipogénesis** (producir grasa nueva) y la **glucogénesis** (almacenar glucosa como glucógeno para después)
-- En un hígado resistente, la **lipogénesis se mantiene totalmente intacta** mientras que la **glucogénesis se descompone**: la insulina ya no puede ordenarle al hígado que almacene glucosa
-- Peor aún: en lugar de simplemente no almacenar, el hígado **degrada activamente el glucógeno existente y vierte glucosa a la sangre**, lo contrario de lo que la insulina intenta señalar. 🟢 Esta resistencia hepática "selectiva" a la insulina (la producción de grasa sigue encendida y la salida de glucosa no se apaga) está bien descrita (Brown 2008); 🟡 el problema principal es que no se frena la producción de glucosa en general, más que solo la degradación del glucógeno
+- El hígado hace dos trabajos que manda la insulina: la **lipogénesis** (fabricar grasa nueva) y la **glucogénesis** (guardar el azúcar como glucógeno, una reserva para después)
+- En un hígado resistente, **fabricar grasa sigue funcionando completo**, mientras que **guardar el azúcar se descompone**: la insulina ya no puede ordenarle al hígado que guarde azúcar
+- Peor todavía: en vez de solo no guardar, el hígado **deshace la reserva de glucógeno que ya tenía y suelta azúcar a la sangre**, lo contrario de lo que la insulina le está pidiendo. 🟢 Esta resistencia del hígado "a medias" (sigue fabricando grasa, pero no deja de soltar azúcar) está bien descrita (Brown 2008); 🟡 el problema principal es que no se frena la fabricación de azúcar en general, más que solo que se deshaga el glucógeno
 
-**Células alfa (páncreas, productoras de glucagón; no las células beta que producen insulina):**
+**Células alfa (del páncreas, las que fabrican glucagón; no las células beta, que fabrican insulina):**
 
-- Normalmente la insulina suprime la producción de glucagón de las células alfa (el glucagón hace lo opuesto a la insulina: eleva la glucosa)
-- Cuando las células alfa se vuelven resistentes a la insulina, esta supresión falla: el glucagón sube sin control y le ordena directamente al hígado liberar aún más glucosa. 🟢 Evidencia sólida (DeFronzo 2009)
-- **Efecto neto de que caigan las tres fichas de dominó:** hiperglucemia descontrolada, es decir, diabetes tipo 2 completa
+- Normalmente la insulina frena el glucagón que fabrican las células alfa (el glucagón hace lo contrario de la insulina: sube el azúcar)
+- Cuando las células alfa se vuelven resistentes a la insulina, ese freno falla: el glucagón sube sin control y le ordena directamente al hígado que suelte todavía más azúcar. 🟢 Evidencia fuerte (DeFronzo 2009)
+- **Resultado cuando caen las tres fichas de dominó:** azúcar alta sin control, es decir, diabetes tipo 2 completa
 
-## Enfermedad cardíaca: un cuestionamiento serio al modelo estándar del LDL
+## Enfermedades del corazón: una crítica seria a la idea común del LDL
 
-**Nota de encuadre:** Bikman es explícito en que el mecanismo preciso que causa la placa arterial es genuinamente **teórico, no está resuelto**. Esta sección presenta sus argumentos contra el modelo convencional centrado en el LDL usando datos primarios de ensayos y cohortes, no solo opinión. Trátalo como tratarías la síntesis de cualquier científico individual: datos convincentes, pero una postura minoritaria frente a las guías de la cardiología convencional.
+**Nota para ubicar esta sección:** Bikman dice claramente que lo que causa exactamente que se formen las placas en las arterias es de verdad **una teoría, no algo resuelto**. Esta sección presenta sus argumentos contra la idea común centrada en el LDL usando datos de estudios, no solo opinión. Tómalo como tomarías el resumen de cualquier científico: datos que convencen, pero una postura de minoría frente a las guías de los cardiólogos.
 
-**¿El LDL/colesterol predice la mortalidad? Cuatro estudios citados dicen que en gran medida no:**
+**¿El LDL o el colesterol predicen quién muere? Cuatro estudios citados dicen que casi no:**
 
-- Registro encabezado por UCLA, ~137,000 hospitalizaciones por enfermedad coronaria: casi la mitad tenía un LDL menor de 100 mg/dL al ingresar, mientras que el 55% tenía el HDL bajo (menos de 40 mg/dL) (Sachdeva 2009); el LDL al ingreso no señalaba a estos pacientes. 🟡 Es una foto única al ingreso, no un estudio de cómo el LDL predice el riesgo a lo largo del tiempo
-- Estudio poblacional: la tasa de mortalidad más baja se dio con un LDL de ~140 mg/dL, alrededor de un 40% *por encima* del punto de corte "óptimo" convencional; a medida que las poblaciones bajaban más el LDL, la tasa de mortalidad aumentaba. Por cada 1 mmol/L (~30 mg/dL) de descenso del colesterol, el riesgo de mortalidad aumentaba ~15% en estos datos. 🟢 Una cohorte danesa de ~108,000 personas encontró la menor mortalidad por todas las causas con un LDL de ~140 mg/dL, con una curva en forma de U (Johannesen 2020); 🟡 la cifra de 15% no se pudo verificar, y el colesterol bajo en estos estudios refleja en parte enfermedad y fragilidad (causalidad inversa).
-- Cohorte de Shanghái: el LDL más bajo se asoció con el riesgo **más alto** de Alzheimer
-- **Estos son estudios observacionales/correlacionales**, no ensayos aleatorizados; el propio Bikman señala esta limitación. Ambos cuerpos de evidencia existen; aquí no se concilian del todo. ✅ Verificación de evidencia: los ensayos aleatorizados con estatinas e inhibidores de PCSK9 y los estudios de aleatorización mendeliana muestran que bajar el LDL reduce los infartos y los accidentes cerebrovasculares en proporción a cuánto baja el LDL (Ference 2017).
+- Registro dirigido por la UCLA, unas 137,000 hospitalizaciones por enfermedad del corazón: casi la mitad tenía el LDL por debajo de 100 mg/dL al llegar al hospital, mientras que 55% tenía el HDL bajo (menos de 40 mg/dL) (Sachdeva 2009); el LDL al llegar no señalaba a estos pacientes. 🟡 Es una sola foto al momento de llegar al hospital, no un estudio de cómo el LDL predice el riesgo con el tiempo
+- Estudio de población: las muertes más bajas se dieron con un LDL de unos 140 mg/dL, cerca de 40% *por encima* del límite "ideal" de siempre; a medida que la gente bajaba más el LDL, subían las muertes. Por cada 1 mmol/L (unos 30 mg/dL) que bajaba el colesterol, el riesgo de morir subía cerca de 15% en estos datos. 🟢 Un estudio danés de unas 108,000 personas encontró las muertes por cualquier causa más bajas con un LDL de unos 140 mg/dL, en una curva en forma de U (Johannesen 2020); 🟡 la cifra de 15% no se pudo verificar, y el colesterol bajo en estos estudios refleja en parte que la persona ya estaba enferma o débil (la enfermedad baja el colesterol, no al revés).
+- Estudio de Shanghái: el LDL más bajo se relacionó con el riesgo **más alto** de Alzheimer
+- **Estos son estudios de observación**, no estudios con sorteo al azar; el propio Bikman señala este límite. Las dos líneas de evidencia existen; aquí no se terminan de poner de acuerdo. ✅ Revisión de la evidencia: los estudios con sorteo al azar de estatinas e inhibidores de PCSK9 (medicinas que bajan el LDL) y los estudios genéticos (aleatorización mendeliana) muestran que bajar el LDL reduce los infartos y las embolias en proporción a cuánto baja el LDL (Ference 2017).
 
-**Patrón A vs. patrón B del LDL:**
+**LDL tipo A y tipo B:**
 
-- Patrón A: partículas más grandes, más flotantes y menos densas ("pelota de playa"), relativamente benignas
-- Patrón B: partículas más pequeñas y densas ("pelota de golf"), que penetran más fácilmente la pared arterial; el patrón B confirmado eleva el riesgo de infarto **>3x** según los datos citados (🟢 Austin 1988)
-- La resistencia a la insulina desplaza directamente el LDL hacia el patrón B, a la vez que eleva los triglicéridos y baja el HDL.
-- **Reversibilidad, dicho directamente:** se ha demostrado que los cambios en la dieta que resuelven la resistencia a la insulina desplazan el patrón de LDL de B de vuelta a A, sin cambiar necesariamente el LDL-C total. 🟢 Reducir los carbohidratos disminuyó el LDL pequeño y denso, incluso aparte de la pérdida de peso (Krauss 2006).
+- Tipo A: partículas más grandes, más ligeras y menos densas ("pelota de playa"), bastante inofensivas
+- Tipo B: partículas más pequeñas y densas ("pelota de golf"), que se meten más fácil en la pared de la arteria; tener el tipo B confirmado sube el riesgo de infarto **más de 3 veces** según los datos citados (🟢 Austin 1988)
+- La resistencia a la insulina empuja directamente el LDL hacia el tipo B, y al mismo tiempo sube los triglicéridos y baja el HDL.
+- **Se puede revertir, dicho directamente:** se ha demostrado que los cambios en la dieta que quitan la resistencia a la insulina pasan el LDL del tipo B de vuelta al A, sin que cambie necesariamente el LDL total. 🟢 Comer menos carbohidratos bajó el LDL pequeño y denso, aun sin contar la pérdida de peso (Krauss 2006).
 
-**Grasa saturada vs. aceites de semillas: evidencia primaria de ensayos, no solo opinión:**
+**Grasa saturada y aceites de semillas: evidencia de estudios, no solo opinión:**
 
-- Una revisión del Journal of the American College of Cardiology (escrita por los propios cardiólogos) no encontró un beneficio claro en reducir la grasa saturada, y señaló que la grasa saturada tiende a desplazar el LDL hacia el patrón A, más benigno (Astrup 2020). 🟡 Verificación de evidencia: una revisión Cochrane de 15 ECA encontró que reducir la grasa saturada bajó 17% los eventos cardiovasculares combinados, con poco o ningún efecto sobre las muertes (Hooper 2020).
-- **Sydney Diet Heart Study** y **Minnesota Coronary Experiment** (ambos ensayos aleatorizados de la década de 1960, ambos ocultados de la publicación durante décadas, recuperados y reanalizados aproximadamente en los últimos 10 años): reemplazar la grasa saturada por aceites de semillas poliinsaturados **bajó el LDL pero aumentó la mortalidad por todas las causas**: un 22% más de riesgo de muerte por cada 30 mg/dL de descenso del colesterol sérico (total) en el ensayo de Minnesota. Estos son ECA reales, no datos observacionales: el nivel de evidencia más sólido de este capítulo, y genuinamente incómodo para el modelo simple de "menos LDL = mejor". 🟡 Verificación de evidencia: Sydney (1966–73) encontró más mortalidad por todas las causas en el grupo de aceite de cártamo (Ramsden 2013). Minnesota (1968–73) no encontró beneficio en la mortalidad en la comparación aleatorizada; la cifra de 22% es una asociación dentro del ensayo, no un resultado aleatorizado, y solo cerca de una cuarta parte de los participantes siguió las dietas un año o más (Ramsden 2016). Metaanálisis más amplios encuentran que reducir la grasa saturada baja de forma modesta los eventos cardiovasculares (Hooper 2020).
-- **Explicación mecanística propuesta:** los aceites de semillas refinados (poliinsaturados, procesados industrialmente, propensos a la rancidez/peroxidación) podrían hacer que los macrófagos reaccionen de forma distinta al LDL que los transporta: la "carga podrida" que convierte a un macrófago normal en una célula espumosa, frente a una interacción normal/benigna con el LDL que transporta grasa saturada. Bikman lo presenta como un mecanismo plausible, aún no del todo demostrado; señalado como interpretación. 🔴
+- Una revisión publicada en el Journal of the American College of Cardiology (escrita por los propios cardiólogos) no encontró un beneficio claro en comer menos grasa saturada, y señaló que la grasa saturada tiende a pasar el LDL al tipo A, el más inofensivo (Astrup 2020). 🟡 Revisión de la evidencia: una revisión Cochrane de 15 estudios con sorteo al azar encontró que comer menos grasa saturada bajó 17% los problemas del corazón y las arterias en total, con poco o ningún efecto en las muertes (Hooper 2020).
+- **Sydney Diet Heart Study** y **Minnesota Coronary Experiment** (los dos, estudios con sorteo al azar de los años sesenta; los dos se quedaron sin publicar por décadas y se recuperaron y volvieron a analizar en los últimos 10 años, más o menos): cambiar la grasa saturada por aceites de semillas poliinsaturados **bajó el LDL pero subió las muertes por cualquier causa**: 22% más riesgo de morir por cada 30 mg/dL que bajaba el colesterol (total) en el estudio de Minnesota. Son estudios con sorteo al azar de verdad, no de observación: la evidencia más fuerte de este capítulo, y de verdad incómoda para la idea simple de "menos LDL = mejor". 🟡 Revisión de la evidencia: Sydney (1966–73) encontró más muertes por cualquier causa en el grupo de aceite de cártamo (Ramsden 2013). Minnesota (1968–73) no encontró menos muertes al comparar los grupos sorteados; la cifra de 22% es una relación dentro del estudio, no un resultado del sorteo, y solo cerca de una cuarta parte de las personas siguió las dietas un año o más (Ramsden 2016). Los análisis que juntan muchos estudios encuentran que comer menos grasa saturada baja un poco los problemas del corazón y las arterias (Hooper 2020).
+- **Posible explicación:** los aceites de semillas refinados (poliinsaturados, procesados en fábricas, que se echan a perder y se oxidan fácilmente) podrían hacer que los macrófagos (células de defensa) reaccionen distinto al LDL que los lleva: una "carga podrida" que convierte a un macrófago normal en una "célula espumosa" (la que forma la placa), en vez de la reacción normal e inofensiva con el LDL que lleva grasa saturada. Bikman lo presenta como algo razonable, pero no demostrado del todo; marcado como interpretación. 🔴
 
-**La hipótesis de la infección / el LDL como primer respondedor:**
+**La idea de la infección / el LDL como el que llega primero a ayudar:**
 
-- Las placas ateroscleróticas suelen contener bacterias infecciosas, un hallazgo real y establecido. 🟡 Con frecuencia se encuentra ADN bacteriano en las placas; no está demostrado que cause la enfermedad
-- El LDL tiene una capacidad documentada de unirse a bacterias/patógenos y neutralizarlos, eliminándolos a través del hígado: una función inmunitaria genuina, distinta de su papel de transporte de grasa
-- **Conexión con la enfermedad periodontal:** cepillarse y usar hilo dental a diario (no enjuague bucal) se asoció con un riesgo de enfermedad cardíaca ~50% menor en un artículo de 2023 citado, lo que es coherente con una vía de infección oral hacia las arterias. 🟡 No se pudieron verificar el artículo de 2023 ni la cifra de ~50%; la AHA concluye que la enfermedad periodontal se asocia con la enfermedad aterosclerótica independientemente de los factores de confusión conocidos, pero la causalidad no está demostrada (Lockhart 2012)
-- Un LDL bajo se asocia con mayor mortalidad por infección/sepsis y un riesgo de muerte por cáncer **15x** mayor según los datos citados; se presenta como indicio de que el papel inmunitario del LDL podría estar subestimado, no como una afirmación causal establecida. 🔴 La cifra de 15x no está verificada; el colesterol bajo antes de morir por cáncer o infección se atribuye en general a la propia enfermedad (causalidad inversa)
-- **El replanteamiento del "camión de bomberos":** la presencia del LDL en una placa podría reflejar que está *respondiendo* a una infección/daño en lugar de *causar* la placa; una hipótesis alternativa, etiquetada explícitamente como teórica por el propio Bikman
+- Las placas de las arterias muchas veces tienen bacterias, un hallazgo real y conocido. 🟡 Seguido se encuentra material genético de bacterias en las placas; no está demostrado que causen la enfermedad
+- Se ha visto que el LDL puede pegarse a bacterias y microbios y dejarlos sin efecto, y luego eliminarlos por el hígado: una función real de defensa, aparte de su trabajo de llevar grasa
+- **Relación con las encías:** lavarse los dientes y usar hilo dental todos los días (no enjuague bucal) se relacionó con cerca de 50% menos riesgo de enfermedad del corazón en un artículo de 2023 citado, lo que encaja con un camino de infección de la boca a las arterias. 🟡 No se pudieron verificar el artículo de 2023 ni la cifra de 50%; la Asociación Americana del Corazón (AHA) concluye que la enfermedad de las encías se relaciona con las enfermedades de las arterias aun descontando otros factores conocidos, pero no está demostrado que las cause (Lockhart 2012)
+- Un LDL bajo se relaciona con más muertes por infección grave y con un riesgo **15 veces** mayor de morir de cáncer, según los datos citados; se presenta como señal de que el papel de defensa del LDL quizá se está subestimando, no como una causa comprobada. 🔴 La cifra de 15 veces no se ha verificado; en general se piensa que el colesterol bajo antes de morir de cáncer o de una infección lo causa la propia enfermedad (no al revés)
+- **La comparación del "camión de bomberos":** que el LDL esté en una placa podría querer decir que está *respondiendo* a una infección o un daño, y no que *causa* la placa; una idea alternativa, que el propio Bikman marca claramente como teoría
 
-## Hipertensión: tres mecanismos distintos impulsados por la insulina
+## Presión alta: tres formas distintas en que la insulina la sube
 
-**1. Activación del sistema nervioso simpático**
+**1. Se activa el sistema nervioso de "alerta"**
 
-- La insulina elevada empuja al cuerpo hacia el predominio de "lucha o huida" (simpático) sobre el de "descanso y digestión" (parasimpático), estrechando los vasos sanguíneos y aumentando la fuerza de contracción del corazón; ambas cosas elevan la presión arterial. 🟢 Evidencia sólida de activación simpática en la hipertensión relacionada con la obesidad (Hall 2015).
+- La insulina alta empuja al cuerpo a estar más en modo "pelear o huir" (sistema simpático) que en modo "descansar y digerir" (sistema parasimpático); así se cierran los vasos sanguíneos y el corazón late con más fuerza, y las dos cosas suben la presión. 🟢 Evidencia fuerte de que el sistema de alerta se activa en la presión alta ligada a la obesidad (Hall 2015).
 
-**2. Producción de óxido nítrico (función endotelial)**
+**2. Fabricación de óxido nítrico (cómo funciona la pared de los vasos)**
 
-- En un vaso sensible a la insulina, la insulina estimula la producción de óxido nítrico → relajación del vaso → menor presión (el mismo mecanismo que aprovecha la nitroglicerina durante un infarto)
-- En un vaso resistente a la insulina, esta señal falla: menos óxido nítrico, vasos más estrechos, presión más alta. 🟢 Evidencia sólida (Muniyappa 2013)
+- En un vaso sanguíneo que responde bien a la insulina, la insulina hace fabricar óxido nítrico → el vaso se relaja → baja la presión (lo mismo que aprovecha la nitroglicerina durante un infarto)
+- En un vaso con resistencia a la insulina, esa señal falla: menos óxido nítrico, vasos más cerrados, presión más alta. 🟢 Evidencia fuerte (Muniyappa 2013)
 
-**3. Manejo del sodio en el riñón**
+**3. Cómo el riñón maneja la sal**
 
-- Normalmente los riñones regulan el equilibrio de sal/agua de forma independiente según la necesidad
-- La insulina elevada **obliga al riñón a retener más sodio** (y el agua que lo acompaña) independientemente de si el cuerpo realmente lo necesita, lo que eleva el volumen sanguíneo y la presión. 🟢 Evidencia sólida (DeFronzo 1975)
+- Normalmente los riñones ajustan por su cuenta el balance de sal y agua según lo que haga falta
+- La insulina alta **obliga al riñón a quedarse con más sodio** (y con el agua que va con él) aunque el cuerpo no lo necesite, y eso aumenta la cantidad de sangre y la presión. 🟢 Evidencia fuerte (DeFronzo 1975)
 
-**El estudio de la paradoja de la sal: genuinamente contraintuitivo y directamente relevante:**
+**El estudio de lo contradictorio de la sal: de verdad va contra lo que uno pensaría, y es directamente útil:**
 
-- Encuesta nacional, consumo de sal por cuartiles (hasta 4x de diferencia entre el grupo más bajo y el más alto)
-- **Sujetos de peso normal (mayormente sensibles a la insulina):** ningún efecto del consumo de sal sobre el accidente cerebrovascular, la mortalidad cardiovascular o la mortalidad por todas las causas en ningún cuartil
-- **Sujetos con sobrepeso (mayormente resistentes a la insulina):** los mismos cuartiles de sal, pero ahora el consumo de sal se asoció con todos los desenlaces. Esto coincide con el seguimiento de NHANES I (19 años): más sodio predijo accidente cerebrovascular y muerte cardiovascular solo en adultos con sobrepeso (He 1999). 🟡 Observacional, basado en un solo recordatorio de dieta de 24 horas
-- **La paradoja:** restringir el consumo de sal puede por sí mismo elevar la insulina (el cuerpo "entra en pánico" intentando conservar sodio mediante el papel normal de la insulina en la retención de sal), lo que significa que una restricción agresiva de sal en una persona sensible a la insulina podría, en teoría, empeorar la resistencia a la insulina en lugar de ayudar. Se presenta como un hallazgo emergente, aún no una recomendación clínica establecida; no reemplaza las indicaciones estándar sobre el sodio para nadie con hipertensión o enfermedad renal existente. 🟡 Una dieta baja en sal durante 7 días subió un poco la resistencia a la insulina en adultos sanos (Garg 2011). ✅ Reducir la sal baja la presión arterial, y en un ECA grande un sustituto de sal redujo los accidentes cerebrovasculares y las muertes (Neal 2021).
+- Encuesta nacional, con la gente dividida en cuatro grupos según cuánta sal comía (hasta 4 veces más sal en el grupo más alto que en el más bajo)
+- **Personas de peso normal (en su mayoría con buena respuesta a la insulina):** la sal no tuvo ningún efecto en las embolias, las muertes del corazón ni las muertes por cualquier causa, en ningún grupo
+- **Personas con sobrepeso (en su mayoría con resistencia a la insulina):** los mismos grupos de sal, pero aquí la sal sí se relacionó con todos los resultados. Esto coincide con el seguimiento de la encuesta NHANES I (19 años): más sodio predijo embolias y muertes del corazón solo en adultos con sobrepeso (He 1999). 🟡 De observación, basado en un solo recuerdo de lo que se comió en 24 horas
+- **Lo contradictorio:** comer menos sal puede por sí mismo subir la insulina (el cuerpo "se asusta" y trata de guardar sodio usando el papel normal de la insulina de retener sal); o sea, en una persona con buena respuesta a la insulina, quitar mucha sal podría, en teoría, empeorar la resistencia a la insulina en vez de ayudar. Se presenta como un hallazgo nuevo, todavía no como recomendación médica; no reemplaza las indicaciones normales sobre la sal para nadie que ya tenga presión alta o enfermedad de los riñones. 🟡 Una dieta baja en sal por 7 días subió un poco la resistencia a la insulina en adultos sanos (Garg 2011). ✅ Comer menos sal baja la presión, y en un estudio grande con sorteo al azar un sustituto de sal redujo las embolias y las muertes (Neal 2021).
 
-## Correcciones clave para llevar adelante
+## Correcciones clave para recordar
 
-- Suponer que la diabetes tipo 1 y la tipo 2 son variantes de la misma enfermedad: son mecanismos casi opuestos (deficiencia de insulina vs. exceso/resistencia a la insulina) que solo comparten el síntoma de la glucosa.
-- Suponer que la causa de la aterosclerosis por el LDL es ciencia establecida: sigue siendo genuinamente teórica a nivel del mecanismo de formación de la placa, según Bikman (✅ verificación de evidencia: los ensayos aleatorizados y los estudios genéticos establecen que el LDL causa la enfermedad aterosclerótica, así que esta es una postura minoritaria — Ference 2017).
-- Suponer que la restricción de sal protege universalmente: su efecto cardiovascular parece depender en gran medida del estado de sensibilidad a la insulina de la persona, no de una relación dosis-respuesta fija para todos.
-- Suponer que la grasa saturada es peor que los aceites de semillas basándose solo en el LDL-C: dos ECA de la década de 1960 que fueron ocultados encontraron lo contrario para la mortalidad por todas las causas cuando los aceites de semillas reemplazaron a la grasa saturada, a pesar de que el LDL bajó. 🟡 Solo Sydney mostró más mortalidad; Minnesota no mostró beneficio (Ramsden 2013; Ramsden 2016), y los ensayos combinados favorecen un beneficio modesto de reducir la grasa saturada (Hooper 2020).
+- Pensar que la diabetes tipo 1 y la tipo 2 son versiones de la misma enfermedad: funcionan casi al revés (falta de insulina contra insulina de más con resistencia) y solo comparten el síntoma del azúcar.
+- Pensar que está comprobado cómo el LDL causa que se tapen las arterias: según Bikman, cómo se forma la placa sigue siendo de verdad una teoría (✅ revisión de la evidencia: los estudios con sorteo al azar y los estudios genéticos demuestran que el LDL causa la enfermedad de las arterias, así que esta es una postura de minoría — Ference 2017).
+- Pensar que comer poca sal siempre protege: su efecto en el corazón parece depender mucho de cómo responde la persona a la insulina, no de una regla igual para todos.
+- Pensar que la grasa saturada es peor que los aceites de semillas solo por el LDL: dos estudios con sorteo al azar de los años sesenta, que se quedaron sin publicar, encontraron lo contrario en las muertes por cualquier causa cuando los aceites de semillas reemplazaron a la grasa saturada, aunque el LDL bajó. 🟡 Solo Sydney mostró más muertes; Minnesota no mostró beneficio (Ramsden 2013; Ramsden 2016), y al juntar los estudios se ve un beneficio pequeño de comer menos grasa saturada (Hooper 2020).
 
 ## Conclusión práctica
 
 ## Preguntas para aprender (socráticas), con opciones de respuesta
 
-**1. Dado el estudio de la paradoja de la sal (ningún efecto en personas sensibles a la insulina, efecto fuerte en personas resistentes a la insulina con el mismo consumo), ¿qué implica esto sobre aplicar las pautas genéricas de sodio a una persona en particular?**
+**1. Si en el estudio de lo contradictorio de la sal no hubo efecto en personas con buena respuesta a la insulina y sí un efecto fuerte en personas con resistencia, comiendo la misma sal, ¿qué quiere decir esto sobre aplicar las reglas generales de sal a una persona en particular?**
 
-A. Las pautas de sodio deberían ser idénticas para todos, independientemente del estado metabólico
-B. *El impacto cardiovascular de un determinado consumo de sal probablemente depende de la sensibilidad a la insulina subyacente de la persona, lo que significa que mejorar la propia sensibilidad a la insulina podría importar más para el riesgo relacionado con la sal que el consumo de sal por sí solo, aunque esto no reemplaza las indicaciones de sodio específicas para hipertensión/enfermedad renal
-C. La sal debería eliminarse por completo de la dieta de todos como precaución
+A. Las reglas de sal deberían ser las mismas para todos, sin importar cómo esté su metabolismo
+B. *Lo que una cantidad de sal le hace al corazón probablemente depende de cómo responde la persona a la insulina; o sea, mejorar la propia respuesta a la insulina podría importar más para el riesgo de la sal que la cantidad de sal por sí sola, aunque esto no reemplaza las indicaciones de sal para quien tiene presión alta o enfermedad de los riñones
+C. Todos deberían quitar la sal por completo de su dieta, por si acaso
 
-*Por qué B: es un matiz, no una licencia para ignorar las recomendaciones estándar, en particular para cualquier persona con hipertensión o enfermedad renal diagnosticada, donde la restricción de sodio tiene su propia base de evidencia establecida fuera de este enfoque específico de resistencia a la insulina.*
+*Por qué B: es un matiz, no un permiso para ignorar las recomendaciones normales, sobre todo para cualquier persona con presión alta o enfermedad de los riñones ya diagnosticada, donde comer menos sal tiene su propia evidencia, aparte de este tema de la resistencia a la insulina.*
 
-**2. Dado que la insulina normalmente suprime la producción de glucagón de las células alfa, y que esta supresión falla con la resistencia a la insulina, ¿por qué el cuerpo no puede simplemente compensar produciendo aún más insulina para volver a suprimir el glucagón, como compensa en otros lugares?**
+**2. Si la insulina normalmente frena el glucagón de las células alfa, y ese freno falla con la resistencia a la insulina, ¿por qué el cuerpo no puede simplemente fabricar todavía más insulina para volver a frenar el glucagón, como lo hace en otros lugares?**
 
-A. Sí puede, indefinidamente, por eso la diabetes tipo 2 nunca progresa realmente a una hiperglucemia impulsada por el glucagón
-B. *Una vez que las propias células alfa se vuelven resistentes a la insulina (no solo el músculo o el hígado), ninguna cantidad adicional de insulina restablece la supresión: la resistencia está en la señalización propia de la célula alfa, no es un problema de dosis, y por eso la caída de esta ficha de dominó marca una etapa más avanzada y más difícil de revertir que la resistencia limitada al tejido graso
-C. El glucagón en realidad no responde a la insulina en absoluto, así que esta compensación nunca fue posible
+A. Sí puede, para siempre; por eso la diabetes tipo 2 nunca llega a tener azúcar alta por el glucagón
+B. *Cuando las propias células alfa se vuelven resistentes a la insulina (no solo el músculo o el hígado), ninguna cantidad extra de insulina vuelve a poner el freno: la resistencia está en la forma en que la célula alfa recibe la señal, no es un problema de dosis; por eso, cuando cae esta ficha de dominó, se está en una etapa más avanzada y más difícil de revertir que cuando la resistencia está solo en la grasa
+C. El glucagón en realidad no responde para nada a la insulina, así que esto nunca fue posible
 
-*Por qué B: esto distingue un problema compensable (no llega suficiente insulina a un tejido aún sensible) de uno estructural (el tejido mismo ya no responde, sin importar la dosis de insulina).*
+*Por qué B: así se distingue un problema que se puede compensar (no llega suficiente insulina a un tejido que todavía responde) de uno de fondo (el tejido ya no responde, sin importar la dosis de insulina).*
 
 ## Temas abiertos
 
-- **Enfermedades aún no cubiertas:** el cáncer, la infertilidad y la enfermedad de Alzheimer se mencionaron como próximos temas en la hoja de ruta de esta misma clase, pero no se alcanzaron en este segmento de la transcripción; máxima prioridad para el Cap.4.
-- El mecanismo específico por el cual el LDL que transporta aceites de semillas se convierte preferentemente en célula espumosa (efecto de la peroxidación/rancidez sobre el comportamiento de los macrófagos); Bikman lo señala como mecanísticamente plausible pero no del todo demostrado.
+- **Enfermedades que todavía no se ven:** el cáncer, la infertilidad y el Alzheimer se mencionaron como próximos temas en el plan de esta misma clase, pero no se alcanzaron en esta parte de la transcripción; lo más importante para el Cap.4.
+- Por qué exactamente el LDL que lleva aceites de semillas se convierte más fácilmente en célula espumosa (cómo afecta la oxidación a los macrófagos); Bikman lo marca como razonable, pero no demostrado del todo.
 
-## Lo que se recortó deliberadamente (autoauditoría)
+## Lo que se dejó fuera a propósito (revisión propia)
 
-- Anécdotas personales: la historia del cariñoso apodo persa "hígado de oro", el encuadre de Bikman como presentador de concurso ("la rueda de la desgracia"), su comentario sobre el juego de palabras de Isaías/Antiguo Testamento acerca de la grasa saturada
-- Contenido repetido que ya se cubrió por completo en los Cap.1–2: el mecanismo general de las ceramidas, las definiciones generales de hipertrofia/hiperplasia (solo se conservaron las nuevas aplicaciones específicas de cada tejido)
-- Las metáforas completas del LDL como "autobús" y de la "pelota de playa vs. pelota de golf" se condensaron a su contenido factual (patrón A/B, riesgo de penetración) en lugar de reproducirse en forma narrativa completa, ya que el contenido enseñable era el mecanismo subyacente, no el lenguaje específico de la analogía
+- Historias personales: el apodo cariñoso persa "hígado de oro", cuando Bikman se hace pasar por presentador de concurso ("la rueda de la desgracia"), su comentario sobre el juego de palabras de Isaías/Antiguo Testamento sobre la grasa saturada
+- Lo que ya se vio completo en los Cap.1–2: cómo funcionan las ceramidas en general, qué es agrandar células y hacer células nuevas (solo se conservó lo nuevo para cada órgano)
+- Las comparaciones completas del LDL como "autobús" y de la "pelota de playa contra pelota de golf" se resumieron a los datos (tipo A/B, qué tanto se meten en la arteria) en vez de contarlas completas, porque lo que había que aprender era el mecanismo, no las palabras de la comparación
 
 ---
 
