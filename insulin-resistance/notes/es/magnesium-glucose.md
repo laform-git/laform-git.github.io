@@ -10,9 +10,9 @@ El magnesio está dentro de la propia cadena de señales de la insulina, así qu
 
 | Paso | Qué hace el magnesio | Si falta |
 | --- | --- | --- |
-| Energía | Cada molécula de ATP tiene que ir unida al magnesio (Mg-ATP) para poder usarse | Las enzimas que queman glucosa se frenan ✅ |
-| Receptor de insulina | El "interruptor" del receptor (tirosina cinasa) necesita magnesio para añadir grupos fosfato | Señal de insulina más débil ✅ |
-| GLUT4 | Ayuda a llevar los transportadores de glucosa a la superficie de las células del músculo y la grasa | Sale menos glucosa de la sangre ✅ |
+| Energía | El ATP, la "moneda" de energía de la célula, solo se puede usar si va unido al magnesio (Mg-ATP) | Las enzimas que queman glucosa se frenan ✅ |
+| Receptor de insulina | El "interruptor" del receptor de insulina necesita magnesio para encenderse (para pegar etiquetas de fosfato) | Señal de insulina más débil ✅ |
+| GLUT4 | Ayuda a subir las puertas del azúcar (GLUT4) a la superficie de las células del músculo y la grasa | Sale menos glucosa de la sangre ✅ |
 | Páncreas | Apoya la energía de las células beta y la liberación de insulina | Secreción de insulina menos eficaz 🟡 |
 | Inflamación | Con poco magnesio suben las señales de inflamación (por ejemplo, la PCR) | Más inflamación → más resistencia a la insulina 🟡 |
 
@@ -21,7 +21,7 @@ El magnesio está dentro de la propia cadena de señales de la insulina, así qu
 ## 2 · El círculo vicioso
 
 1. Azúcar alta en sangre → la glucosa se pasa a la orina.
-2. La glucosa en la orina arrastra agua y magnesio hacia fuera (**diuresis osmótica**). ✅
+2. La glucosa en la orina arrastra agua y magnesio hacia fuera (los médicos lo llaman **diuresis osmótica**). ✅
 3. Menos magnesio → señal de insulina más débil → más azúcar en sangre.
 4. Y otra vez.
 
@@ -31,8 +31,8 @@ Romperlo por el lado de la dieta (menos picos de glucosa) y por el lado del magn
 
 | Afirmación | Evidencia | Nivel |
 | --- | --- | --- |
-| Más magnesio en la dieta → menos riesgo de diabetes tipo 2 | Metaanálisis de cohortes prospectivas: cerca de 14–19% menos riesgo por cada 100 mg/día extra | 🟡 Observacional |
-| Los suplementos bajan la glucosa en ayunas | Metaanálisis de ensayos aleatorizados: claro en personas con diabetes; menor en personas en riesgo | 🟡 Moderada |
+| Más magnesio en la dieta → menos riesgo de diabetes tipo 2 | Análisis que juntan estudios que siguieron a personas por años: cerca de 14–19% menos riesgo por cada 100 mg/día extra | 🟡 Observacional |
+| Los suplementos bajan la glucosa en ayunas | Análisis que juntan estudios bien controlados: claro en personas con diabetes; menor en personas en riesgo | 🟡 Moderada |
 | Los suplementos mejoran la sensibilidad a la insulina | Se ve en ensayos con personas con resistencia a la insulina o con deficiencia de magnesio | 🟡 Moderada |
 | Los suplementos ayudan si el magnesio ya está normal | Poco o ningún efecto | ✅ |
 | El magnesio "revierte" la resistencia a la insulina | No está demostrado: quita un obstáculo | 🔴 Exagerado |

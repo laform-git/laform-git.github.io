@@ -41,12 +41,12 @@ Los carbohidratos refinados y el azúcar líquida son los principales motores de
 
 ### Oligosacáridos (3–10 unidades)
 
-- Están en frijoles, cebolla, ajo, poro y achicoria. Casi **no los digerimos**: los fermentan las bacterias del colon (la relación "frijoles → gases"). Muchos funcionan como **prebióticos**. ✅
+- Están en frijoles, cebolla, ajo, poro y achicoria. Casi **no los digerimos**: los fermentan las bacterias del colon (la relación "frijoles → gases"). Muchos funcionan como **prebióticos** (alimento para las bacterias buenas). ✅
 
 ### Almidón (cientos a miles de unidades de glucosa)
 
-- Es la reserva de energía de las plantas. Tiene dos formas: **amilosa** (cadena recta, se digiere más lento) y **amilopectina** (ramificada, con muchas puntas donde atacan las enzimas → se digiere más rápido). ✅
-- El **almidón resistente** escapa a la digestión del intestino delgado y alimenta a las bacterias del colon. Cocer y luego enfriar papa, arroz o pasta lo aumenta (retrogradación). ✅ El mecanismo es sólido; el beneficio sobre la glucosa es modesto. 🟡
+- Es la reserva de energía de las plantas. Viene en dos formas: **amilosa** (una cadena recta, que se digiere más despacio) y **amilopectina** (una cadena con muchas ramas, y cada punta es un lugar donde las enzimas pueden cortar → se digiere más rápido). ✅
+- El **almidón resistente** escapa a la digestión del intestino delgado y alimenta a las bacterias del colon. Cocer y luego enfriar la papa, el arroz o la pasta lo aumenta (a esto se le llama retrogradación). ✅ El mecanismo es sólido; el beneficio sobre la glucosa es modesto. 🟡
 
 ### Glucógeno: los carbohidratos que guardamos
 
@@ -59,7 +59,7 @@ Los carbohidratos refinados y el azúcar líquida son los principales motores de
 | --- | --- | --- |
 | Soluble / viscosa | Forma un gel, frena la absorción del azúcar, atrapa ácidos biliares → baja el LDL | Avena, psyllium, leguminosas, chía ✅ |
 | Insoluble | Da volumen, acelera el tránsito | Salvado, cáscaras de verduras ✅ |
-| Fermentable | Las bacterias la convierten en ácidos grasos de cadena corta (butirato) | Muchas plantas, almidón resistente ✅ |
+| Fermentable | Las bacterias la convierten en unas grasas pequeñas que alimentan al intestino (como el butirato) | Muchas plantas, almidón resistente ✅ |
 
 ## 4 · Digestión: dónde se corta cada uno
 
@@ -73,8 +73,8 @@ Los carbohidratos refinados y el azúcar líquida son los principales motores de
 ![](media/carbs_3_glucose_vs_fructose.png)
 
 - **Glucosa:** sube el azúcar en sangre, dispara la insulina, se usa en todo el cuerpo, y lo que sobra se guarda como glucógeno. ✅
-- **Fructosa:** en dosis pequeñas la limpia la pared del intestino delgado; en dosis grandes o rápidas se desborda hacia el **hígado**, que convierte el exceso en grasa (**lipogénesis de novo**, LDN). ✅
-- Grasa en el hígado → el hígado exporta más partículas **VLDL** → más triglicéridos y más **ApoB**; con el tiempo, peor sensibilidad a la insulina en el hígado. ✅ El mecanismo está bien respaldado; es más fuerte en estudios de sobrealimentación. 🟡 para el tamaño del efecto con un consumo normal.
+- **Fructosa:** en dosis pequeñas la limpia la pared del intestino delgado; en dosis grandes o rápidas se desborda hacia el **hígado**, que convierte lo que sobra en grasa nueva (los científicos lo llaman **lipogénesis de novo**). ✅
+- Grasa en el hígado → el hígado manda a la sangre más partículas de grasa (**VLDL**) → más triglicéridos y más **ApoB** (la proteína que llevan las partículas que tapan las arterias); con el tiempo, peor sensibilidad a la insulina en el hígado. ✅ El mecanismo está bien respaldado; es más fuerte en estudios de sobrealimentación. 🟡 para el tamaño del efecto con un consumo normal.
 - **La dosis y la velocidad importan.** La fruta entera = dosis pequeña, lenta y envuelta en fibra. Refresco, jugo, café endulzado = dosis grande y rápida que rebasa la capacidad del intestino. ✅
 
 ## 6 · Velocidad: índice y carga glucémica

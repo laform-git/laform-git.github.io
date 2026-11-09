@@ -1,109 +1,109 @@
 # Resistencia a la Insulina
 
-La resistencia a la insulina es la enfermedad metabólica que define la era moderna. Es una característica central de la diabetes tipo 2 y de la enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD, antes llamada hígado graso no alcohólico), es común en el SOP y está muy ligada a la obesidad y a la enfermedad cardiovascular (Rinella 2023; Diamanti-Kandarakis 2012). También se asocia con el Alzheimer ("diabetes tipo 3", 🟡 término en debate) y con varios tipos de cáncer (🟡 asociación, no causa demostrada). Entender el mecanismo es la base de todo el trabajo de salud metabólica.
+La resistencia a la insulina es el gran problema de salud de nuestra época. Está en el centro de la diabetes tipo 2 y del hígado graso (hoy llamado oficialmente MASLD), es común en el síndrome de ovario poliquístico (SOP) y está muy ligada a la obesidad y a las enfermedades del corazón (Rinella 2023; Diamanti-Kandarakis 2012). También se asocia con el Alzheimer (algunos lo llaman "diabetes tipo 3", 🟡 un nombre discutido) y con varios tipos de cáncer (🟡 van juntos, pero no está demostrado que uno cause el otro). Entender cómo funciona es la base de todo lo demás sobre la salud metabólica.
 
 ---
 
 ## Qué es la insulina y qué hace
 
-Después de comer, el azúcar (glucosa) llena la sangre. El cuerpo quiere ese azúcar *dentro* de las células, donde se quema como energía. **La insulina es la llave** que abre las células para que la glucosa pueda entrar.
+Después de comer, el azúcar (glucosa) llena la sangre. El cuerpo quiere ese azúcar *dentro* de las células, donde se quema para dar energía. **La insulina es la llave** que abre las células para que el azúcar pueda entrar.
 
-- La producen las células beta del páncreas cuando sube el azúcar en la sangre
-- Si la insulina no funciona, la glucosa se queda atrapada en la sangre
-- ✅ Sólido: mecanismo de libro de texto, sin discusión
+- La fabrican unas células del páncreas (las células beta) cuando sube el azúcar en la sangre.
+- Si la insulina no funciona, el azúcar se queda atrapado en la sangre.
+- ✅ Sólido: así lo explica cualquier libro de texto, sin discusión.
 
-**Funcionamiento normal:**
+**Cómo funciona cuando todo va bien:**
 
-1. La glucosa entra a la sangre después de comer
-2. El páncreas detecta la subida → libera insulina
-3. La insulina se une a los receptores de las células → les indica que absorban glucosa
-4. El hígado convierte el exceso de glucosa en glucógeno (reserva de corto plazo) o en grasa (largo plazo)
-5. La glucosa en la sangre vuelve a su nivel base
+1. Después de comer, el azúcar pasa a la sangre.
+2. El páncreas nota que sube → suelta insulina.
+3. La insulina se pega a las células → les avisa que dejen entrar el azúcar.
+4. El hígado guarda el azúcar que sobra como glucógeno (reserva para poco tiempo) o lo convierte en grasa (reserva para mucho tiempo).
+5. El azúcar en la sangre vuelve a su nivel normal.
 
-La insulina además:
+Además, la insulina:
 
-- Frena la liberación y quema de grasa (lipólisis): la lipólisis de las células de grasa es muy sensible a la insulina y se frena con fuerza mientras la insulina está alta
-- Impulsa la síntesis de proteína (señal anabólica)
-- Regula los electrolitos (con insulina, los riñones retienen sodio)
+- Frena la salida y la quema de grasa. Las células de grasa le hacen mucho caso a la insulina: mientras la insulina está alta, casi no sueltan grasa.
+- Empuja al cuerpo a fabricar proteína (es una señal de "construir").
+- Ayuda a controlar las sales del cuerpo (con insulina, los riñones guardan más sodio).
 
 ---
 
 ## Qué significa la resistencia a la insulina
 
-Con el tiempo, las células dejan de responder bien a la insulina. La cerradura deja de funcionar bien.
+Con el tiempo, las células dejan de hacerle caso a la insulina. La cerradura ya no funciona bien.
 
-- La glucosa no entra fácilmente en las células, así que se acumula en la sangre
-- La solución del cuerpo: producir *más* insulina para forzar las puertas
-- Esto compensa durante años: el azúcar en la sangre puede verse normal mientras la resistencia ya es seria
-- **La insulina en ayunas es una señal de alerta más temprana que la HbA1c o la glucosa en ayunas**
-- 🟢 Evidencia sólida de que la sensibilidad a la insulina empeora años antes de que la glucosa cruce los límites diagnósticos (Tabák 2009); 🟡 la insulina en ayunas en sí es una prueba imperfecta, porque los métodos de laboratorio no están estandarizados y los resultados varían entre laboratorios (Wallace 2004)
+- El azúcar no entra fácil en las células, así que se queda en la sangre.
+- La respuesta del cuerpo: fabricar *más* insulina para forzar las puertas.
+- Esto funciona durante años: el azúcar en la sangre puede salir normal mientras la resistencia ya es seria.
+- **La insulina en ayunas avisa antes que la HbA1c (el promedio del azúcar de los últimos tres meses) o que el azúcar en ayunas.**
+- 🟢 Hay buena evidencia de que la respuesta a la insulina empeora años antes de que el azúcar pase los límites de diagnóstico (Tabák 2009). 🟡 Pero la insulina en ayunas no es una prueba perfecta: cada laboratorio la mide distinto y los resultados cambian de uno a otro (Wallace 2004).
 
 ---
 
 ## Cómo se desarrolla — línea de tiempo
 
-- Empieza la resistencia → sube la insulina → el azúcar sigue normal (fase oculta)
-- Pasan los años → la insulina ya no alcanza a compensar → por fin sube el azúcar
-- La prediabetes aparece en los análisis, pero la resistencia empezó mucho antes
+- Empieza la resistencia → sube la insulina → el azúcar sigue normal (etapa escondida).
+- Pasan los años → la insulina ya no alcanza a compensar → por fin sube el azúcar.
+- La prediabetes aparece en los análisis, pero la resistencia empezó mucho antes.
 
-| Fase | Qué está pasando | Síntomas |
+| Etapa | Qué está pasando | Señales |
 |---|---|---|
-| Resistencia a la insulina prediabética | Insulina alta, glucosa todavía normal | Muchas veces ninguno; es común el aumento de grasa abdominal. Se reportan cansancio después de comer y mente nublada, pero 🔴 no son signos validados |
-| Glucosa en ayunas alterada (una forma de prediabetes) | El hígado produce glucosa de más durante la noche | Glucosa en ayunas 100–125 mg/dL; por lo general sin síntomas |
-| Prediabetes | Desgaste importante de las células beta | HbA1c 5.7–6.4% o glucosa a las 2 h de la curva de tolerancia (CTOG) 140–199 mg/dL; muchas veces sin síntomas |
-| Diabetes tipo 2 | Falla de las células beta sumada a la resistencia a la insulina | Glucosa en ayunas ≥126 mg/dL, HbA1c ≥6.5% o glucosa a las 2 h de la CTOG ≥200 mg/dL (ADA 2026) |
+| Resistencia a la insulina antes de la prediabetes | Insulina alta, azúcar todavía normal | Muchas veces ninguna; es común ganar grasa en la panza. Hay quien dice que da cansancio después de comer o mente nublada, pero 🔴 no son señales comprobadas |
+| Azúcar en ayunas alterada (un tipo de prediabetes) | El hígado fabrica azúcar de más durante la noche | Azúcar en ayunas de 100 a 125 mg/dL; casi siempre sin síntomas |
+| Prediabetes | Las células del páncreas que fabrican insulina ya están bastante desgastadas | HbA1c de 5.7 a 6.4%, o azúcar de 140 a 199 mg/dL dos horas después de tomar la bebida dulce de la curva de tolerancia; muchas veces sin síntomas |
+| Diabetes tipo 2 | Las células del páncreas fallan, además de la resistencia a la insulina | Azúcar en ayunas de 126 mg/dL o más, HbA1c de 6.5% o más, o 200 mg/dL o más a las dos horas de la curva (ADA 2026) |
 
-**Años antes del diagnóstico:** en la cohorte Whitehall II se siguió la sensibilidad a la insulina hasta 13 años antes del diagnóstico; cayó con fuerza en los últimos ~5 años, mientras que la glucosa en ayunas y después de la carga subió de golpe solo en los últimos ~3 años (Tabák 2009). La atención estándar mide sobre todo glucosa, así que para cuando la glucosa ya está claramente alta, el manejo de la insulina lleva años alterado. 🟢 Evidencia sólida de la larga fase oculta; 🟡 la cifra tan citada de "10–15 años" es una estimación, no una constante medida, y varía según la persona.
+**Años antes del diagnóstico:** en el estudio Whitehall II se siguió a las personas hasta 13 años antes de que les diagnosticaran diabetes. Su respuesta a la insulina cayó fuerte en los últimos 5 años más o menos, mientras que el azúcar (en ayunas y después de la bebida dulce) se disparó solo en los últimos 3 años (Tabák 2009). Como en la consulta normal casi solo se mide el azúcar, cuando el azúcar ya sale claramente alta, el manejo de la insulina lleva años fallando. 🟢 Buena evidencia de esta larga etapa escondida. 🟡 La cifra tan repetida de "10 a 15 años" es un cálculo aproximado, no un número fijo, y cambia de persona a persona.
 
 ---
 
-## Por qué las células se vuelven resistentes — 3 mecanismos
+## Por qué las células se vuelven resistentes — 3 causas
 
 ### 1. La célula ya está llena
 
-- Las células llenas de combustible bajan a propósito su respuesta a la insulina: es autoprotección, no un defecto
-- 🟡 Hipótesis plausible y bien argumentada (la resistencia a la insulina como respuesta de protección ante el exceso de nutrientes), respaldada por datos de mecanismo pero no demostrada como la causa principal en humanos
+- Las células llenas de combustible bajan a propósito su respuesta a la insulina: se están protegiendo, no es una falla.
+- 🟡 Es una idea razonable y bien argumentada (la resistencia como protección ante el exceso de comida), con apoyo de estudios de laboratorio, pero no está demostrado que sea la causa principal en las personas.
 
-### 2. Grasa en el lugar equivocado (el más importante)
+### 2. Grasa en el lugar equivocado (la más importante)
 
-- Las células de grasa se llenan de más → la grasa se filtra a las células del músculo y del hígado
-- Esa grasa fuera de lugar produce dos moléculas dañinas:
-    - **DAG (diacilglicerol)** → activa PKCθ en el músculo (bloquea la señal en IRS-1) y PKCε en el hígado (frena la cinasa del propio receptor de insulina) (Petersen & Shulman 2018)
-    - **Ceramida** → activa PP2A → le quita a Akt sus marcas de activación
-- Estas rompen la cadena de señal de la insulina en sus dos puntos de relevo más críticos
-- 🟢 Evidencia sólida: las vías DAG-PKC y de la ceramida (datos de mecanismo en animales y humanos; su peso relativo en la enfermedad humana sigue en debate)
+- Las células de grasa se llenan de más → la grasa se pasa a las células del músculo y del hígado.
+- Esa grasa fuera de lugar produce dos sustancias dañinas:
+    - **DAG (diacilglicerol)** → prende a PKCθ en el músculo (que bloquea la señal en un mensajero llamado IRS-1) y a PKCε en el hígado (que frena al propio receptor de la insulina) (Petersen & Shulman 2018).
+    - **Ceramida** → prende a PP2A → que le quita a Akt (la estación central de la señal) las marcas que la mantienen prendida.
+- Estas dos sustancias rompen la cadena de la señal de la insulina en sus dos relevos más importantes.
+- 🟢 Buena evidencia de estos dos caminos (DAG-PKC y ceramida), con datos en animales y personas; todavía se discute cuánto pesa cada uno en la enfermedad humana.
 
-### 3. Demasiada insulina, con demasiada frecuencia
+### 3. Demasiada insulina, demasiado seguido
 
-- La insulina alta constante desgasta la respuesta de la célula
-- Crea un círculo vicioso: más insulina → las células escuchan menos → el cuerpo produce todavía más insulina
-- 🟢 Evidencia experimental sólida de que la insulina alta sostenida causa resistencia: 4 días de hiperinsulinemia fisiológica bajaron la captación de glucosa 20–40% en adultos jóvenes sanos (Del Prato 1994). 🟡 Cuánto impulsa esto la resistencia del día a día, o si más bien la sigue, está en debate
+- Tener la insulina alta todo el tiempo cansa la respuesta de la célula.
+- Se forma un círculo vicioso: más insulina → las células escuchan menos → el cuerpo fabrica todavía más insulina.
+- 🟢 Buena evidencia experimental de que la insulina alta sostenida causa resistencia: 4 días de insulina alta (a niveles como los del cuerpo) bajaron entre 20 y 40% la entrada de azúcar en adultos jóvenes sanos (Del Prato 1994). 🟡 Se discute cuánto empuja esto la resistencia de todos los días, o si más bien viene después.
 
-### La cascada de los carbohidratos (visión de Bikman / Lustig)
+### La cascada de los carbohidratos (la visión de Bikman y Lustig)
 
-Según esta visión, la resistencia a la insulina no la causa principalmente la grasa de la dieta, sino la elevación crónica y repetida de la insulina por comer demasiados carbohidratos, sobre todo refinados y fructosa. 🔴 Postura de defensa como *la* causa principal; los pasos en sí están en su mayoría bien respaldados.
+Según esta visión, la resistencia a la insulina no la causa sobre todo la grasa de la comida, sino tener la insulina alta una y otra vez por comer demasiados carbohidratos, sobre todo harinas refinadas y fructosa. 🔴 Que esta sea *la* causa principal es una postura de defensa; los pasos en sí están en su mayoría bien respaldados.
 
-1. **Picos repetidos de glucosa** → picos repetidos de insulina
-2. **Las células reducen sus receptores de insulina** (adaptación a una señal crónica)
-3. **Se necesita más insulina** para lograr la misma entrada de glucosa → el páncreas compensa con hiperinsulinemia
-4. **Las células de grasa resisten la insulina** → los ácidos grasos inundan la sangre → se depositan en hígado y músculo
-5. **Grasa ectópica en el hígado** → el propio hígado se vuelve resistente → sigue produciendo glucosa aunque ya esté alta (falla del control de la producción hepática de glucosa)
-6. **Resistencia a la insulina en el músculo** → se daña el principal sitio de captación de glucosa
-7. **Agotamiento del páncreas** → fallan las células beta → diabetes tipo 2
+1. **Subidas repetidas de azúcar** → subidas repetidas de insulina.
+2. **Las células quitan antenas de insulina** (receptores), para adaptarse a una señal que nunca para.
+3. **Hace falta más insulina** para meter la misma cantidad de azúcar → el páncreas compensa fabricando insulina de más.
+4. **Las células de grasa dejan de obedecer a la insulina** → sueltan grasa a la sangre → esa grasa se guarda en el hígado y en el músculo.
+5. **Grasa fuera de lugar en el hígado** → el hígado también se vuelve resistente → sigue fabricando azúcar aunque ya haya de sobra (falla el freno del azúcar del hígado).
+6. **Resistencia en el músculo** → se daña el lugar donde más azúcar entra.
+7. **El páncreas se agota** → fallan las células beta → diabetes tipo 2.
 
-**El problema de la fructosa:** la fructosa se metaboliza sobre todo en el intestino delgado y el hígado; en ratones, el intestino depura la mayor parte de una dosis pequeña, pero las dosis grandes (como las de las bebidas azucaradas) se desbordan hacia el hígado (Jang 2018). A diferencia de la glucosa, se salta los mecanismos normales de control y aumenta más la producción de grasa en el hígado (lipogénesis de novo) que la glucosa (Stanhope 2009). Mucha fructosa → hígado graso → acelera la resistencia a la insulina. 🟢 Evidencia sólida con consumos altos (bebidas azucaradas, jarabe de maíz alto en fructosa); la fruta entera es otro caso.
+**El problema de la fructosa:** la fructosa se procesa sobre todo en el intestino delgado y en el hígado. En ratones, el intestino limpia casi toda una dosis pequeña, pero las dosis grandes (como las de los refrescos) se desbordan hacia el hígado (Jang 2018). A diferencia de la glucosa, la fructosa se salta los controles normales y hace que el hígado fabrique más grasa nueva que la glucosa (Stanhope 2009). Mucha fructosa → hígado graso → la resistencia a la insulina avanza más rápido. 🟢 Buena evidencia con cantidades altas (refrescos, jarabe de maíz alto en fructosa); la fruta entera es otro caso.
 
 ### Donde los expertos no están de acuerdo
 
-- **Bikman:** el mecanismo 3 (hiperinsulinemia) es el motor principal → 🔴 Postura de defensa, la opinión de un conferencista que va más allá de la evidencia actual
-- **Corriente principal:** dominan los mecanismos 1 y 2 (exceso de energía, grasa ectópica) → 🟢 Evidencia sólida, el modelo mejor respaldado (Petersen & Shulman 2018)
-- **Lo más equilibrado:** los tres interactúan → 🟢 Evidencia sólida
+- **Bikman:** la causa 3 (insulina alta) es el motor principal → 🔴 postura de defensa, la opinión de un conferencista que va más allá de lo que hoy se sabe.
+- **La mayoría de los expertos:** mandan las causas 1 y 2 (comer de más, grasa fuera de lugar) → 🟢 buena evidencia, el modelo mejor respaldado (Petersen & Shulman 2018).
+- **Lo más equilibrado:** las tres causas se mezclan → 🟢 buena evidencia.
 
 ---
 
 ## Por qué importa más allá del azúcar en la sangre
 
-La insulina alta crónica guarda grasa, impulsa la producción de triglicéridos en el hígado y desordena el colesterol, todo al mismo tiempo.
+La insulina alta todo el tiempo guarda grasa, hace que el hígado fabrique más triglicéridos y desordena el colesterol, todo a la vez.
 
 Ver: [[Lipid Triad — How Insulin Resistance Causes Heart Risk]]
 
@@ -112,144 +112,144 @@ Ver: [[Lipid Triad — How Insulin Resistance Causes Heart Risk]]
 ## Corrección clave
 
 > "Los análisis de azúcar detectan temprano la resistencia a la insulina" — **FALSO**
-> El azúcar en la sangre puede seguir normal durante años mientras la resistencia ya es importante. La insulina en ayunas, el HOMA-IR y la relación TG/HDL pueden detectarla antes, aunque cada uno es un marcador indirecto imperfecto (McLaughlin 2003).
+> El azúcar en la sangre puede seguir normal durante años mientras la resistencia ya es importante. La insulina en ayunas, el HOMA-IR y la relación entre triglicéridos y HDL pueden detectarla antes, aunque ninguno es una medida perfecta (McLaughlin 2003).
 
 ---
 
 ## Conclusión práctica
 
-Si la insulina en ayunas está elevada (idealmente confirmada en una segunda prueba), es muy probable que ya exista resistencia a la insulina, aunque todos los números de azúcar se vean normales.
+Si la insulina en ayunas sale alta (mejor si se confirma en una segunda prueba), lo más probable es que ya haya resistencia a la insulina, aunque todos los números de azúcar salgan normales.
 
 ---
 
 ## Cómo medirla
 
-**La prueba individual más práctica: insulina en ayunas** (no se pide de rutina; hay que solicitarla específicamente). El estándar de oro en investigación es el clamp hiperinsulinémico-euglucémico, que no se usa en la consulta de rutina. 🟢 Evidencia sólida de que la insulina en ayunas es informativa, pero los métodos varían entre laboratorios (Wallace 2004) y los criterios diagnósticos de la ADA no la usan (ADA 2026); los puntos de corte de abajo están 🟡 en debate y son más estrictos que la mayoría de los rangos de referencia de laboratorio.
+**La prueba sola más práctica: la insulina en ayunas.** No se pide de rutina; hay que pedirla. La prueba más exacta, que se usa en investigación (el "clamp" de insulina), no se hace en una consulta normal. 🟢 Buena evidencia de que la insulina en ayunas da información útil, pero cada laboratorio la mide distinto (Wallace 2004) y los criterios de diagnóstico de la ADA (la Asociación Americana de Diabetes) no la usan (ADA 2026). Los límites de abajo están 🟡 en debate y son más estrictos que los rangos que dan casi todos los laboratorios.
 
-- Óptimo: <5 µUI/mL
-- Límite: 5–10 µUI/mL
-- Resistente: >10 µUI/mL
+- Óptimo: menos de 5 µUI/mL
+- En el límite: de 5 a 10 µUI/mL
+- Resistente: más de 10 µUI/mL
 
 ### HOMA-IR (ejemplo)
 
-Fórmula: (glucosa en ayunas mg/dL × insulina en ayunas uIU/mL) / 405 (Matthews 1985)
+Cuenta: (azúcar en ayunas en mg/dL × insulina en ayunas en µUI/mL) ÷ 405 (Matthews 1985)
 
-- **Menos de 1.0:** óptimo, la meta más estricta de Bikman. El modelo está calibrado para que la resistencia normal equivalga a 1.0 (Wallace 2004), pero tomar <1.0 como meta personal es 🔴 una meta de postura de defensa de un conferencista, no un punto de corte diagnóstico de consenso.
-- **1.0–1.9:** leve, según la convención clínica más amplia. 🟡 En debate: los puntos de corte varían según el laboratorio y el estudio.
-- **≥1.9–2.5+:** resistencia a la insulina según los umbrales más citados. 🟡 En debate: no existe un punto de corte universal. En un estudio de población española, los puntos de corte fueron desde 1.85 (hombres sin diabetes) y 2.05 (según el riesgo de síndrome metabólico) hasta 3.46 (percentil 90) (Gayoso-Diz 2013); los resultados también cambian con la edad, el sexo y el método de medición de insulina.
+- **Menos de 1.0:** óptimo, la meta más estricta de Bikman. La cuenta está hecha para que una respuesta normal a la insulina dé 1.0 (Wallace 2004), pero usar "menos de 1.0" como meta personal es 🔴 la meta de un conferencista, no un límite de diagnóstico aceptado por todos.
+- **De 1.0 a 1.9:** leve, según lo que usan muchos médicos. 🟡 En debate: los límites cambian según el laboratorio y el estudio.
+- **De 1.9 a 2.5 o más:** resistencia a la insulina según los límites más citados. 🟡 En debate: no hay un límite que sirva para todos. En un estudio con población española, los límites fueron desde 1.85 (hombres sin diabetes) y 2.05 (según el riesgo de síndrome metabólico) hasta 3.46 (el 10% más alto) (Gayoso-Diz 2013). Los resultados también cambian con la edad, el sexo y cómo se mide la insulina.
 
-**Limitación:** una sola muestra en ayunas es una foto, no una tendencia; existe variación real de un día a otro.
+**Limitación:** una sola muestra en ayunas es una foto, no una película; los números cambian de verdad de un día a otro.
 
-La HbA1c y la glucosa en ayunas por sí solas no detectan la resistencia temprana. La clave es la insulina en ayunas.
+La HbA1c y el azúcar en ayunas por sí solos no detectan la resistencia temprana. La clave es la insulina en ayunas.
 
 ---
 
 ## Números clave a seguir
 
-- **Insulina en ayunas:** meta <5 µUI/mL
-- **HOMA-IR:** meta <1.0
-- **Triglicéridos:** meta <100 mg/dL (los TG altos muchas veces reflejan exceso de carbohidratos refinados, azúcar o alcohol; la genética, el hipotiroidismo y algunos medicamentos también los suben)
-- **HDL:** meta >60 mg/dL (HDL bajo = marcador de resistencia a la insulina)
-- **Relación triglicéridos:HDL:** meta <2.0 (en mg/dL) como objetivo óptimo. El punto de corte validado para señalar resistencia a la insulina es ≥3.0, con cerca de 64% de sensibilidad y 68% de especificidad en adultos con sobrepeso (McLaughlin 2003). Uno de los marcadores de resistencia más útiles en un perfil de lípidos estándar (🟡 precisión moderada como marcador de detección; más débil en algunos grupos étnicos)
-- **Circunferencia de cintura:** el marcador físico más accesible; el exceso de grasa visceral impulsa la resistencia
+- **Insulina en ayunas:** meta menos de 5 µUI/mL.
+- **HOMA-IR:** meta menos de 1.0.
+- **Triglicéridos:** meta menos de 100 mg/dL. (Los triglicéridos altos muchas veces vienen de comer muchas harinas refinadas, azúcar o alcohol; la herencia, la tiroides lenta y algunos medicamentos también los suben.)
+- **HDL (colesterol "bueno"):** meta más de 60 mg/dL. (El HDL bajo es una señal de resistencia a la insulina.)
+- **Triglicéridos divididos entre HDL:** meta menos de 2.0 (en mg/dL) como objetivo ideal. El límite comprobado para sospechar resistencia a la insulina es 3.0 o más; en adultos con sobrepeso acierta en unas dos de cada tres personas (cerca de 64% de quienes la tienen y 68% de quienes no) (McLaughlin 2003). Es de las señales más útiles de un perfil de colesterol normal (🟡 acierta solo en parte; funciona peor en algunos grupos étnicos).
+- **Medida de cintura:** la señal física más fácil de medir; la grasa de más alrededor de los órganos empuja la resistencia.
 
-Son metas de rango óptimo, más estrictas que lo "normal" de laboratorio. 🟡 En debate como metas universales.
+Son metas "ideales", más estrictas que lo que el laboratorio llama "normal". 🟡 Se discute si deben ser metas para todos.
 
 ---
 
 ## Alcance en todo el cuerpo — órgano por órgano
 
-La resistencia a la insulina no es solo un problema de azúcar en la sangre; la señal de insulina alta crónica llega prácticamente a todo tejido que tiene receptor de insulina.
+La resistencia a la insulina no es solo un problema de azúcar. La señal de insulina alta llega a casi todos los tejidos que tienen receptores de insulina.
 
-- **Hígado:** impulsa la lipogénesis de novo → hígado graso, que a su vez empeora la resistencia a la insulina del hígado. 🟢 Evidencia sólida. Ver [[Sugar vs. Cholesterol Number — Why Insulin Resistance Drives Heart Disease Risk]].
-- **Tejido graso:** favorece el almacenamiento y altera el equilibrio de señales entre leptina y adiponectina. 🟢 Evidencia sólida.
-- **Corazón y vasos sanguíneos:** la resistencia a la insulina se asocia con inflamación vascular y placa, y sube el riesgo cardiovascular más allá del LDL. 🟢 Evidencia sólida de la asociación; 🟡 está en debate cuánto se debe a la insulina misma y cuánto a los cambios de glucosa, lípidos y presión arterial que la acompañan.
-- **Riñones:** la insulina aumenta la reabsorción de sodio, lo que sube la presión arterial y cansa a los riñones a largo plazo. 🟢 Evidencia sólida (mecanismo abajo).
-- **Piel:** la acantosis nigricans (manchas oscuras y aterciopeladas, por lo general en el cuello y las axilas) es una señal visible de insulina muy elevada. ✅ Sólido, signo clínico bien documentado.
-- **Reproductivo/hormonal:** en las mujeres, la insulina alta actúa junto con la LH para aumentar la producción de andrógenos en el ovario y baja la SHBG, lo que sube los andrógenos libres y altera la ovulación (mecanismo del SOP) (Diamanti-Kandarakis 2012). En los hombres, la insulina elevada y el exceso de grasa bajan la SHBG (globulina fijadora de hormonas sexuales) y aumentan la conversión de testosterona en estradiol en el tejido graso; un estudio pequeño con clamp también encontró que una peor sensibilidad a la insulina se acompañaba de menor producción de testosterona en las células de Leydig de los testículos (Pitteloud 2005). 🟢 Evidencia sólida del vínculo entre resistencia a la insulina y testosterona baja; 🟡 el peso de cada vía no está claro (ver Correcciones clave abajo).
+- **Hígado:** lo pone a fabricar grasa nueva → hígado graso, que a su vez empeora la resistencia del hígado. 🟢 Buena evidencia. Ver [[Sugar vs. Cholesterol Number — Why Insulin Resistance Drives Heart Disease Risk]].
+- **Grasa del cuerpo:** favorece que se guarde grasa y desequilibra dos mensajeros que manda la grasa (la leptina, que avisa que hay reservas, y la adiponectina, que ayuda a la insulina). 🟢 Buena evidencia.
+- **Corazón y vasos sanguíneos:** la resistencia a la insulina va junto con inflamación de los vasos y placa, y sube el riesgo del corazón más allá del colesterol LDL. 🟢 Buena evidencia de que van juntos; 🟡 se discute cuánto viene de la insulina misma y cuánto de los cambios de azúcar, grasas en sangre y presión que la acompañan.
+- **Riñones:** la insulina hace que los riñones guarden más sodio, lo que sube la presión y cansa a los riñones con los años. 🟢 Buena evidencia (cómo funciona, más abajo).
+- **Piel:** la acantosis nigricans (manchas oscuras y aterciopeladas, casi siempre en el cuello y las axilas) es una señal visible de insulina muy alta. ✅ Sólido, es un signo bien conocido por los médicos.
+- **Hormonas y fertilidad:** en las mujeres, la insulina alta trabaja junto con la hormona LH para que el ovario fabrique más hormonas masculinas (andrógenos), y baja la SHBG (la proteína que transporta las hormonas sexuales). Así quedan más hormonas masculinas libres y se altera la ovulación; así funciona el SOP (Diamanti-Kandarakis 2012). En los hombres, la insulina alta y la grasa de más bajan la SHBG y hacen que la grasa convierta más testosterona en estradiol (una hormona femenina). Un estudio pequeño también encontró que quienes respondían peor a la insulina fabricaban menos testosterona en los testículos (en las células de Leydig) (Pitteloud 2005). 🟢 Buena evidencia de la relación entre resistencia a la insulina y testosterona baja; 🟡 no está claro cuánto pesa cada camino (ver Correcciones clave abajo).
 
 ---
 
 ## Resistencia a la insulina y el cerebro
 
-- La resistencia a la insulina periférica se asocia con menor metabolismo de glucosa en zonas del cerebro vulnerables al Alzheimer en el PET con FDG (Willette 2015). La mayor parte de la entrada de glucosa a las neuronas no depende de la insulina (GLUT1/GLUT3), así que el vínculo probablemente pasa por una señal de insulina alterada en el cerebro y no por un simple bloqueo de la entrada. 🟡 Asociación con mecanismos plausibles; la causalidad no está demostrada.
-- La etiqueta **"diabetes tipo 3"** para el Alzheimer es un término creado por investigadores para describir esta relación; no es una categoría diagnóstica formal y la fuerza causal (mecanismo, correlación o factor de riesgo compartido) sigue en debate. 🟡 En debate: considera el mecanismo como plausible y respaldado por evidencia, y la etiqueta "diabetes tipo 3" como una forma corta de decirlo, no como un hecho establecido.
-- La lentitud normal de la edad (encontrar palabras, velocidad para procesar) es esperada y distinta de esta vía; este mecanismo describe un factor de riesgo adicional, no dice que todo cambio de memoria venga de la insulina.
+- La resistencia a la insulina en el cuerpo va junto con un menor uso de azúcar en las zonas del cerebro que el Alzheimer daña primero, según un tipo de escáner (PET con FDG) (Willette 2015). Casi todo el azúcar entra a las neuronas sin necesitar insulina (por las puertas GLUT1 y GLUT3), así que la relación probablemente se debe a que las señales de la insulina dentro del cerebro funcionan mal, y no a que simplemente se bloquee la entrada del azúcar. 🟡 Van juntas y hay explicaciones razonables, pero no está demostrado que una cause la otra.
+- El nombre **"diabetes tipo 3"** para el Alzheimer lo inventaron unos investigadores para describir esta relación. No es un diagnóstico oficial, y todavía se discute qué tan fuerte es la relación (si es una causa, si solo van juntos, o si comparten factores de riesgo). 🟡 En debate: toma la explicación como razonable y con apoyo, y el nombre "diabetes tipo 3" como una forma corta de decirlo, no como un hecho comprobado.
+- La lentitud normal de la edad (tardar en encontrar palabras, pensar más despacio) es esperable y es otra cosa. Esto describe un riesgo adicional; no dice que todo cambio de memoria venga de la insulina.
 
 ---
 
 ## Presión arterial: dos palancas que se suman, no que compiten
 
-- **Mecanismo de sodio y líquidos:** la insulina elevada aumenta directamente la reabsorción de sodio en el riñón y sube el volumen de sangre. 🟢 Evidencia sólida.
-- **Mecanismo de rigidez vascular:** la hiperinsulinemia crónica provoca cambios en el músculo liso de los vasos que les quitan flexibilidad. 🟡 Mecanismo plausible, sobre todo con datos de laboratorio y observacionales.
-- **Corrección:** la sal de la dieta y la resistencia a la insulina no son explicaciones alternativas de la misma presión arterial; las dos suben el volumen de sangre al retener sodio por vías distintas, y sus efectos se suman. Una persona puede comer una cantidad normal de sal y aun así retener sodio por la insulina, o tener los dos mecanismos a la vez.
+- **Sal y líquidos:** la insulina alta hace que el riñón guarde más sodio y sube el volumen de la sangre. 🟢 Buena evidencia.
+- **Vasos más rígidos:** la insulina alta por mucho tiempo cambia el músculo de las paredes de los vasos y les quita flexibilidad. 🟡 Explicación razonable, con datos sobre todo de laboratorio y de observación.
+- **Corrección:** la sal de la comida y la resistencia a la insulina no son explicaciones que compiten entre sí para la misma presión alta. Las dos suben el volumen de la sangre porque hacen guardar sodio, por caminos distintos, y sus efectos se suman. Una persona puede comer una cantidad normal de sal y aun así guardar sodio por la insulina, o tener las dos cosas a la vez.
 
 ---
 
-## Hígado graso: la escalera de progresión
+## Hígado graso: la escalera
 
-Acumulación simple de grasa (esteatosis; MASLD, antes hígado graso no alcohólico) → MASH (antes EHNA; esteatohepatitis: inflamación + daño activo de las células) → fibrosis (cicatrización) → cirrosis (cicatrización avanzada que puede llevar a falla hepática o cáncer de hígado) (Rinella 2023). 🟢 Evidencia sólida de la secuencia; 🟡 en debate qué tan seguido o qué tan rápido avanza cada persona. Ver también: [[Sugar vs. Cholesterol Number — Why Insulin Resistance Drives Heart Disease Risk]].
-
----
-
-## Enfermedad periodontal — una tercera fuente para el mismo marcador de inflamación
-
-Las bacterias de la enfermedad de las encías que pasan a la sangre a través de la encía inflamada provocan inflamación vascular por una vía distinta a la resistencia a la insulina, pero las dos terminan en el mismo marcador de inflamación (hs-CRP). 🟢 Evidencia sólida de que la periodontitis se asocia con enfermedad aterosclerótica independientemente de los factores de confusión conocidos, y de que tratarla baja la inflamación sistémica a corto plazo; 🟡 no está demostrado que la cause ni que tratarla prevenga infartos (Lockhart 2012).
+Solo grasa acumulada (esteatosis; MASLD, antes llamado hígado graso no alcohólico) → MASH (antes EHNA: grasa con inflamación y daño activo de las células del hígado) → fibrosis (cicatrices) → cirrosis (cicatrices avanzadas que pueden llevar a que el hígado deje de funcionar o a cáncer de hígado) (Rinella 2023). 🟢 Buena evidencia de este orden; 🟡 se discute qué tan seguido y qué tan rápido sube cada persona por la escalera. Ver también: [[Sugar vs. Cholesterol Number — Why Insulin Resistance Drives Heart Disease Risk]].
 
 ---
 
-## Protocolo para revertirla
+## Enfermedad de las encías — otra fuente de la misma señal de inflamación
+
+Las bacterias de las encías enfermas que pasan a la sangre por la encía inflamada causan inflamación en los vasos por un camino distinto al de la resistencia a la insulina, pero los dos terminan subiendo la misma señal de inflamación en los análisis (la hs-CRP, o proteína C reactiva ultrasensible). 🟢 Buena evidencia de que la enfermedad de las encías va junto con la enfermedad de las arterias aun descontando otros factores conocidos, y de que tratarla baja la inflamación del cuerpo por un tiempo. 🟡 No está demostrado que la cause, ni que tratarla prevenga infartos (Lockhart 2012).
+
+---
+
+## Plan para revertirla
 
 ### Alimentación (la palanca más poderosa)
 
-| Estrategia | Mecanismo | Evidencia |
+| Qué hacer | Cómo ayuda | Qué tan comprobado está |
 |---|---|---|
-| Bajar de peso (~7% del peso corporal) con alimentación + actividad | Reduce la grasa del hígado y la visceral; la forma mejor demostrada de mejorar la sensibilidad a la insulina | ✅ Sólido: un programa de estilo de vida redujo la aparición de diabetes 58% contra 31% con metformina (Knowler 2002) |
-| Dieta baja en carbohidratos / cetogénica | Elimina los picos de glucosa; obliga a quemar grasa; baja rápido la insulina en ayunas | 🟢 Sólida a 6 meses (peso, triglicéridos, sensibilidad a la insulina); 🟡 los beneficios se reducen a los 12 meses (Goldenberg 2021) |
-| Alimentación con horario restringido (16:8) | Alarga la ventana de ayuno; la insulina baja a su nivel base; vacía el glucógeno | 🟡 Mixta: el beneficio depende sobre todo de la pérdida de peso |
-| Eliminar carbohidratos refinados y azúcar | Quita un motor importante de los picos de glucosa e insulina | 🟢 Sólida en que ayuda; 🔴 llamarlo el motor principal y el cambio de mayor impacto es interpretación (bajar de peso tiene la evidencia más fuerte) |
-| Eliminar la fructosa | Quita el acelerador (jarabe de maíz alto en fructosa, jugos, agave) | 🟢 Sólida para la fructosa añadida |
-| Aumentar la proteína | Da saciedad sin disparar la glucosa; protege el músculo al perder grasa | 🟢 Sólida (ver corrección abajo) |
+| Bajar de peso (alrededor de 7% del peso) con comida y actividad | Saca grasa del hígado y de alrededor de los órganos; es lo más comprobado para mejorar la respuesta a la insulina | ✅ Sólido: un programa de cambios de vida redujo 58% los casos nuevos de diabetes, contra 31% con metformina (Knowler 2002) |
+| Dieta baja en carbohidratos o cetogénica | Quita las subidas de azúcar; obliga a quemar grasa; baja rápido la insulina en ayunas | 🟢 Buena evidencia a 6 meses (peso, triglicéridos, respuesta a la insulina); 🟡 los beneficios se achican a los 12 meses (Goldenberg 2021) |
+| Comer dentro de un horario (16:8: 16 horas sin comer, 8 con comida) | Alarga el tiempo sin comer; la insulina baja a su nivel de reposo; se vacían las reservas de azúcar | 🟡 Resultados mezclados: el beneficio viene sobre todo de bajar de peso |
+| Quitar harinas refinadas y azúcar | Quita una causa importante de las subidas de azúcar e insulina | 🟢 Buena evidencia de que ayuda; 🔴 llamarlo la causa principal y el cambio que más impacto tiene es interpretación (bajar de peso tiene la evidencia más fuerte) |
+| Quitar la fructosa | Quita el acelerador (jarabe de maíz alto en fructosa, jugos, agave) | 🟢 Buena evidencia para la fructosa añadida |
+| Comer más proteína | Llena sin subir el azúcar; protege el músculo mientras pierdes grasa | 🟢 Buena evidencia (ver corrección abajo) |
 
 ### Ejercicio (la segunda palanca más poderosa)
 
-🟢 **El entrenamiento de fuerza** es una de las dos intervenciones de ejercicio principales para la resistencia a la insulina; combinarlo con ejercicio aeróbico bajó la HbA1c más que cualquiera de los dos por separado (Church 2010):
+🟢 **El ejercicio de fuerza** (pesas, ligas, cargar) es uno de los dos tipos de ejercicio más importantes para la resistencia a la insulina. Combinarlo con ejercicio aeróbico (caminar rápido, bici, nadar) bajó la HbA1c más que cualquiera de los dos solo (Church 2010):
 
-- El músculo es el órgano que más glucosa capta
-- Cada libra de músculo que se gana aumenta la capacidad de captar glucosa, siempre que ese músculo se mantenga
-- La contracción muscular (cualquier ejercicio, no solo el de fuerza) activa la translocación de GLUT4: la glucosa entra al músculo sin insulina (vía independiente de la insulina). ✅ Sólido
+- El músculo es el órgano que más azúcar absorbe.
+- Cada kilo de músculo que ganas aumenta la capacidad de absorber azúcar, siempre que mantengas ese músculo.
+- Cuando el músculo se contrae (con cualquier ejercicio, no solo el de fuerza), sube sus puertas de azúcar (GLUT4) a la superficie: el azúcar entra al músculo sin necesitar insulina. ✅ Sólido.
 
-🟢 **Cardio en zona 2** (ejercicio aeróbico de intensidad moderada): mejora la densidad mitocondrial, aumenta la capacidad de oxidar grasa y glucosa, reduce la grasa del hígado. 🔴 Decir que la zona 2 es superior a otras intensidades aeróbicas va más allá de la evidencia.
+🟢 **Cardio en zona 2** (ejercicio aeróbico moderado, en el que todavía puedes hablar): aumenta las "fábricas de energía" de las células (mitocondrias), mejora la capacidad de quemar grasa y azúcar y reduce la grasa del hígado. 🔴 Decir que la zona 2 es mejor que otras intensidades va más allá de la evidencia.
 
 ### Suplementos con evidencia
 
-| Suplemento | Efecto | Evidencia |
+| Suplemento | Qué hace | Qué tan comprobado está |
 |---|---|---|
-| Berberina | Activa AMPK; baja la glucosa en ayunas; comparable a la metformina en algunos estudios | 🟡 Moderada: los metaanálisis muestran baja de glucosa, HbA1c y HOMA-IR, pero los estudios son en su mayoría pequeños y cortos, la calidad del producto varía, puede haber interacciones con medicamentos y la ADA no recomienda suplementos herbales para la glucosa (ADA 2026) |
-| Magnesio (el glicinato es una forma bien tolerada; ninguna forma ha demostrado ser superior) | Cofactor de la señal de insulina; su deficiencia empeora la resistencia | 🟢 Sólida para corregir una deficiencia; 🟡 el beneficio sin deficiencia es incierto y la ADA no lo recomienda para la glucosa (ADA 2026) |
-| Inositol (mio-inositol) | Sensibilizador a la insulina; estudiado sobre todo en SOP | 🟡 Limitada: algún beneficio metabólico en SOP, pero la revisión que sustentó la guía de SOP 2023 calificó la evidencia de limitada y no concluyente (Fitz 2024) |
-| Cromo | Mejora la señal del receptor de insulina | 🟡 Débil / mixta: la ADA no lo recomienda para la glucosa (ADA 2026) |
-| Vitamina D | Su deficiencia se correlaciona con resistencia; suplementar podría mejorar la sensibilidad | 🟡 Mixta: correlación fuerte, beneficio inconsistente en estudios; la ADA no la recomienda si no hay deficiencia (ADA 2026) |
+| Berberina | Prende a AMPK (un interruptor de energía de la célula); baja el azúcar en ayunas; en algunos estudios se parece a la metformina | 🟡 Moderada: los análisis de varios estudios muestran que baja el azúcar, la HbA1c y el HOMA-IR, pero los estudios son casi todos pequeños y cortos, la calidad del producto varía, puede chocar con medicamentos, y la ADA no recomienda suplementos de hierbas para el azúcar (ADA 2026) |
+| Magnesio (el glicinato se tolera bien; ninguna forma ha demostrado ser mejor) | Ayuda a que funcione la señal de la insulina; si falta, la resistencia empeora | 🟢 Buena evidencia para corregir una falta de magnesio; 🟡 si no te falta, el beneficio es incierto, y la ADA no lo recomienda para el azúcar (ADA 2026) |
+| Inositol (mio-inositol) | Mejora la respuesta a la insulina; estudiado sobre todo en el SOP | 🟡 Poca evidencia: algo de beneficio en el SOP, pero la revisión que sirvió de base a la guía del SOP de 2023 dijo que la evidencia es poca y no concluyente (Fitz 2024) |
+| Cromo | Mejora la señal en el receptor de insulina | 🟡 Débil o mezclada: la ADA no lo recomienda para el azúcar (ADA 2026) |
+| Vitamina D | Si falta, va junto con resistencia; tomarla podría mejorar la respuesta | 🟡 Mezclada: la relación con la falta de vitamina D es fuerte, pero el beneficio en los estudios no es parejo; la ADA no la recomienda si no te falta (ADA 2026) |
 
 ---
 
-## Correcciones clave (del primer borrador de Grok y de la fusión de notas)
+## Correcciones clave (del primer borrador de Grok y de juntar notas)
 
-- "La resistencia a la insulina baja la testosterona en los hombres": va en la dirección correcta, pero estaba incompleto. El mecanismo pasa sobre todo por una SHBG más baja y más conversión de testosterona en estradiol en el tejido graso; un estudio pequeño también relaciona la resistencia a la insulina con menor producción de testosterona en las células de Leydig (Pitteloud 2005), así que no se puede descartar un efecto directo en los testículos.
-- La "diabetes tipo 3" se presentó como un hecho establecido; se corrigió arriba a 🟡 término en debate, no un diagnóstico formal.
-- "Sal contra resistencia a la insulina" se planteó como explicaciones que compiten por la presión arterial; se corrigió arriba a mecanismos independientes que se suman.
-- "El exceso de carbohidratos es *la* causa": corregido a la visión de Bikman/Lustig (🔴 postura de defensa); la corriente principal le da más peso al exceso de energía y a la grasa ectópica, y la visión equilibrada es que los tres mecanismos interactúan.
-- "Está detrás de la mayoría de los cánceres": corregido a una asociación con varios cánceres, no una causa demostrada.
-- "La proteína no dispara la insulina": la proteína sí sube la insulina, pero junto con el glucagón y sin pico de glucosa, así que no alimenta el mismo ciclo.
-- "Suplementar vitamina D mejora la sensibilidad (sólida)": corregido a mixta; el vínculo con la deficiencia es fuerte, el beneficio en estudios es inconsistente.
-- Auditoría de fuentes (2026-10-28): se revisaron y corrigieron con las referencias de abajo los umbrales diagnósticos (≥, no >), la línea de tiempo de la fase oculta, los puntos de corte de HOMA-IR y TG/HDL, los mecanismos del SOP, la testosterona y el cerebro, y las etiquetas de evidencia de encías, ejercicio, alimentación y suplementos.
+- "La resistencia a la insulina baja la testosterona en los hombres": va en la dirección correcta, pero estaba incompleto. Sucede sobre todo porque baja la SHBG y la grasa convierte más testosterona en estradiol. Un estudio pequeño también relaciona la resistencia con que los testículos fabrican menos testosterona (en las células de Leydig) (Pitteloud 2005), así que no se puede descartar un efecto directo en los testículos.
+- La "diabetes tipo 3" se presentaba como un hecho comprobado; arriba se corrigió a 🟡 nombre en debate, no un diagnóstico oficial.
+- "Sal contra resistencia a la insulina" se presentaba como dos explicaciones que compiten para la presión alta; arriba se corrigió: son dos causas distintas que se suman.
+- "El exceso de carbohidratos es *la* causa": se corrigió a la visión de Bikman y Lustig (🔴 postura de defensa). La mayoría de los expertos da más peso a comer de más y a la grasa fuera de lugar, y la visión equilibrada es que las tres causas se mezclan.
+- "Está detrás de la mayoría de los cánceres": se corrigió a que va junto con varios cánceres, sin que esté demostrado que los cause.
+- "La proteína no sube la insulina": la proteína sí sube la insulina, pero junto con el glucagón y sin subida de azúcar, así que no alimenta el mismo círculo.
+- "Tomar vitamina D mejora la respuesta a la insulina (buena evidencia)": se corrigió a mezclada; la relación con la falta de vitamina D es fuerte, pero el beneficio en los estudios no es parejo.
+- Revisión de fuentes (2026-10-28): se revisaron y corrigieron con las referencias de abajo los límites de diagnóstico (≥, no >), la línea de tiempo de la etapa escondida, los límites de HOMA-IR y de triglicéridos/HDL, cómo funciona el SOP, la testosterona y el cerebro, y las etiquetas de evidencia de encías, ejercicio, alimentación y suplementos.
 
 ---
 
 ## Temas pendientes
 
-- AMPK a fondo: berberina, ayuno y ejercicio activan el mismo interruptor
-- La relación TG/HDL como señal temprana de resistencia a la insulina: todavía no desarrollada en esta nota
+- AMPK a fondo: la berberina, el ayuno y el ejercicio prenden el mismo interruptor.
+- La relación triglicéridos/HDL como señal temprana de resistencia a la insulina: todavía no se desarrolla en esta nota.
 
 ---
 
