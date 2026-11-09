@@ -1,141 +1,141 @@
 # Bikman — Esenciales de Endocrinología, Cap. 4: El eje suprarrenal
-*Abarca la corteza suprarrenal (aldosterona, cortisol) y la médula (catecolaminas), explica el mecanismo bioquímico detrás de la resistencia a la insulina inducida por el estrés y desmiente la "fatiga suprarrenal".*
+*Trata de la capa externa de las glándulas suprarrenales (aldosterona, cortisol) y de su centro (adrenalina y noradrenalina). Explica cómo el estrés provoca resistencia a la insulina y desmiente la "fatiga suprarrenal".*
 
-*Fuente: Peterson Academy, Clase 4 + preguntas y respuestas. Aplica el marco del eje HPA del Cap. 2 al cortisol, además de las catecolaminas de la médula suprarrenal.*
+*Fuente: Peterson Academy, Clase 4 + preguntas y respuestas. Aplica al cortisol la cadena de mando del Cap. 2 (hipotálamo, hipófisis, suprarrenal), y suma las hormonas del centro de la glándula.*
 
 ## Por qué importa
 
-## Planteamiento central — Una glándula, dos tejidos completamente distintos
-La glándula suprarrenal está dividida anatómica y funcionalmente: la **corteza** (hormonas esteroideas, a base de colesterol) y la **médula** (catecolaminas, a base de aminoácidos) — distinto origen embriológico, distinta clase de hormonas, distinta señalización. ✅ La analogía de la naranja de Bikman: la corteza es la cáscara, la médula es la pulpa.
+## La idea central — Una glándula, dos tejidos totalmente distintos
+La glándula suprarrenal (encima de cada riñón) está dividida en dos, en forma y en función: la **corteza** o capa externa (hormonas esteroideas, hechas de colesterol) y la **médula** o centro (adrenalina y noradrenalina, hechas de aminoácidos). Tienen distinto origen en el embrión, distinto tipo de hormona y distinta forma de mandar señales. ✅ Bikman la compara con una naranja: la corteza es la cáscara y la médula es la pulpa.
 
-## Frases clave y datos citables (Clase 4)
-- **"Sal, azúcar, sexo"** — la regla mnemotécnica para las tres zonas de la corteza suprarrenal (glomerular/fascicular/reticular), con el detalle añadido: "mientras más profundo vas, más dulce se pone".
-- **La aldosterona es MÁS sensible al potasio que al sodio** — porque incluso un pequeño exceso de potasio puede volverse letal rápidamente.
-- **La angiotensina II recluta a la ADH como respaldo** — una sola hormona que recurre a un sistema completamente distinto, visto en el Cap. 2, para lograr el mismo objetivo de presión arterial.
-- **El cortisol despoja al cuerpo de su propia sustancia — músculo, hueso — solo para producir más glucosa.**
-- **"La fatiga suprarrenal... no parece ser un fenómeno real."** — dicho de forma directa y sin rodeos.
-- **JFK tenía una "tez cobriza" visible por la enfermedad de Addison** — directamente ligada al mecanismo de coproducción de ACTH/MSH. ✅ La enfermedad de Addison de Kennedy está bien documentada.
-- **El suicidio es una de las causas de muerte más comunes en el síndrome de Cushing mal controlado** — un recordatorio aleccionador de su gravedad. 🟡 Verificación de evidencia: en un metaanálisis de 19,181 pacientes, las principales causas de muerte fueron la enfermedad aterosclerótica y los coágulos (43%), las infecciones (13%) y el cáncer (11%); el suicidio representó cerca de 2%: un riesgo real y aumentado, pero no de las causas más comunes (Limumpornpetch 2022).
+## Frases clave y datos para recordar (Clase 4)
+- **"Sal, azúcar, sexo"**: el truco para recordar las tres capas de la corteza (glomerular, fascicular, reticular), con un detalle extra: "mientras más adentro, más dulce".
+- **La aldosterona le hace MÁS caso al potasio que al sodio**, porque hasta un poco de potasio de más puede volverse mortal muy rápido.
+- **La angiotensina II llama a la ADH como refuerzo**: una sola hormona que recurre a un sistema totalmente distinto (visto en el Cap. 2) para lograr lo mismo con la presión.
+- **El cortisol desarma el propio cuerpo —músculo, hueso— solo para fabricar más azúcar.**
+- **"La fatiga suprarrenal… no parece ser algo real."** Dicho así, directo y sin rodeos.
+- **JFK tenía una piel "color cobre" por la enfermedad de Addison**, algo ligado directamente a que la ACTH y la MSH salen juntas. ✅ La enfermedad de Addison de Kennedy está bien documentada.
+- **El suicidio sería una de las causas de muerte más comunes en el síndrome de Cushing mal controlado**: un recordatorio serio de lo grave que es. 🟡 Revisión de la evidencia: en un análisis de 19,181 pacientes, las principales causas de muerte fueron las arterias tapadas y los coágulos (43%), las infecciones (13%) y el cáncer (11%); el suicidio fue cerca de 2%. Es un riesgo real y más alto de lo normal, pero no de los más comunes (Limumpornpetch 2022).
 
-## Corteza suprarrenal — Tres zonas, "sal, azúcar, sexo"
+## La capa externa (corteza) — Tres capas: "sal, azúcar, sexo"
 
-| Zona (de afuera hacia adentro) | Clase de hormona | Hormona principal | Regulador principal |
+| Capa (de afuera hacia adentro) | Tipo de hormona | Hormona principal | Quién la controla |
 |---|---|---|---|
-| Zona glomerular | Mineralocorticoide | Aldosterona | Sistema renina-angiotensina |
-| Zona fascicular | Glucocorticoide | Cortisol | ACTH (eje HPA) |
-| Zona reticular | Esteroides sexuales | Andrógenos suprarrenales (sobre todo DHEA y DHEA-S; muy poco estrógeno) | ACTH; su producción aumenta desde los 6–8 años (adrenarquia), alcanza su máximo en la adultez joven y disminuye con la edad |
+| Zona glomerular | Mineralocorticoide (maneja las sales) | Aldosterona | El sistema renina-angiotensina |
+| Zona fascicular | Glucocorticoide (maneja el azúcar) | Cortisol | La ACTH (la cadena hipotálamo-hipófisis-suprarrenal) |
+| Zona reticular | Hormonas sexuales | Hormonas masculinas de la suprarrenal (sobre todo DHEA y DHEA-S; muy poco estrógeno) | La ACTH; empieza a subir entre los 6 y 8 años (adrenarquia), llega a su máximo en la juventud y baja con la edad |
 
-Las tres zonas comparten exactamente la misma vía de proteína StAR/mitocondria/pregnenolona del Cap. 1.
+Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroides (la proteína StAR, la mitocondria, la pregnenolona).
 
-## Aldosterona — El sistema renina-angiotensina-aldosterona (SRAA)
-**Desencadenantes:** presión arterial baja / poca perfusión renal (principal) y poco sodio, ambos detectados por el riñón; el potasio alto lo detecta directamente la zona glomerular de la suprarrenal, no a través de la renina ✅
+## Aldosterona — el sistema renina-angiotensina-aldosterona (SRAA)
+**Qué la dispara:** la presión baja o poca sangre llegando al riñón (lo principal) y poco sodio; las dos cosas las detecta el riñón. El potasio alto lo detecta directamente la capa glomerular de la suprarrenal, sin pasar por la renina. ✅
 
-**La cascada de cuatro órganos:**
-1. El **riñón** detecta el desencadenante → libera **renina**
-2. El **angiotensinógeno** producido por el **hígado** es cortado por la renina → **angiotensina I**
-3. Los **pulmones** expresan **ECA** → convierte la angiotensina I en **angiotensina II**
-4. La **angiotensina II** tiene tres efectos: contrae los vasos directamente, le indica al hipotálamo que produzca más ADH y le indica a la corteza suprarrenal que produzca aldosterona
+**La cadena de cuatro órganos:**
+1. El **riñón** nota el problema → suelta **renina**.
+2. El **hígado** fabrica angiotensinógeno; la renina lo corta → **angiotensina I**.
+3. Los **pulmones** tienen la enzima **ECA**, que convierte la angiotensina I en **angiotensina II**.
+4. La **angiotensina II** hace tres cosas: aprieta los vasos directamente, le pide al hipotálamo que fabrique más ADH y le pide a la corteza suprarrenal que fabrique aldosterona.
 
-**Efecto renal de la aldosterona:** retiene sodio/agua mientras excreta potasio — restaura el volumen sanguíneo/la presión y apaga el sistema mediante retroalimentación negativa ✅
+**Qué hace la aldosterona en el riñón:** guarda sodio y agua y saca potasio por la orina. Así se recupera el volumen de la sangre y la presión, y el sistema se apaga solo (retroalimentación negativa). ✅
 
-🟢 **Redundancia directa con el sistema ADH/AVP del Cap. 2** — ambos se activan con la misma señal de presión arterial baja, y la angiotensina II recluta explícitamente a la ADH como segundo mecanismo hacia el mismo objetivo.
+🟢 **Es un respaldo directo del sistema de la ADH del Cap. 2**: los dos se prenden con la misma señal de presión baja, y la angiotensina II llama a propósito a la ADH como segundo mecanismo para lo mismo.
 
-## Cortisol — El eje HPA completo
-**Eje:** Hipotálamo (CRH) → Hipófisis anterior (ACTH) → Corteza suprarrenal, zona fascicular (cortisol) — el cortisol proporciona la retroalimentación negativa. ✅
+## Cortisol — la cadena completa
+**Cadena:** hipotálamo (CRH) → hipófisis anterior (ACTH) → capa fascicular de la suprarrenal (cortisol). El cortisol apaga la cadena cuando ya hay suficiente (retroalimentación negativa). ✅
 
-**Desencadenante principal:** la glucosa baja es la señal más fuerte para activar la CRH. 🟡 Verificación de evidencia: la hipoglucemia es un estímulo potente, pero el eje HPA se rige día a día por su ritmo circadiano y por el estrés físico y psicológico; lo de "la más fuerte" es el enfoque de Bikman.
+**Qué lo dispara más:** según Bikman, el azúcar bajo es la señal más fuerte para que salga la CRH. 🟡 Revisión de la evidencia: el azúcar bajo es un estímulo muy fuerte, pero en el día a día esta cadena se rige por el reloj del cuerpo (el ritmo de 24 horas) y por el estrés físico y emocional; lo de "la más fuerte" es la forma de verlo de Bikman.
 
 **El detalle de la POMC:**
-- La ACTH se escinde de un precursor más grande, la **proopiomelanocortina (POMC)**
-- La POMC se divide en **ACTH Y hormona estimulante de melanocitos (MSH)** a la vez, en cantidades equivalentes 🟡 Verificación de evidencia: el procesamiento de la POMC depende del tejido (Harno 2018); las células corticotropas de la hipófisis humana liberan sobre todo ACTH (además de fragmentos de β-lipotropina/β-endorfina) y poca α-MSH, y el oscurecimiento de la piel en los estados con ACTH alta se atribuye en gran parte a la propia ACTH, que contiene la secuencia de la MSH y puede activar los receptores de los melanocitos
-- **Consecuencia clínica:** el exceso de ACTH (enfermedad de Addison; en el síndrome de Cushing, sobre todo los niveles muy altos de los tumores ectópicos productores de ACTH y con menos frecuencia la enfermedad de Cushing hipofisaria) también significa exceso de actividad tipo MSH — lo que explica la pigmentación cobriza/oscurecida, visible incluso en los lechos ungueales y las encías sin importar el tono de piel de base ✅
+- La ACTH se corta de una proteína más grande, la **POMC (proopiomelanocortina)**.
+- Según Bikman, la POMC se parte en **ACTH y en hormona que oscurece la piel (MSH)** al mismo tiempo, en cantidades iguales. 🟡 Revisión de la evidencia: cómo se corta la POMC depende del tejido (Harno 2018). Las células de la hipófisis humana sueltan sobre todo ACTH (y otros pedazos como la β-endorfina) y poca MSH; el oscurecimiento de la piel cuando la ACTH está alta se debe en gran parte a la misma ACTH, que lleva dentro la parte de la MSH y puede activar las células que dan color a la piel.
+- **Lo que se ve en la consulta:** cuando hay ACTH de más (en la enfermedad de Addison; en el síndrome de Cushing, sobre todo con los niveles muy altos de los tumores fuera de la hipófisis que fabrican ACTH y, menos, en la enfermedad de Cushing de la hipófisis), también hay más efecto tipo MSH. Eso explica la piel color cobre u oscurecida, que se nota hasta en la base de las uñas y en las encías, sea cual sea el color de piel. ✅
 
-**Ritmo circadiano:** el cortisol empieza a subir alrededor de las 4 AM — se especula (explícitamente señalado como especulación) que prepara al cuerpo/cerebro para despertar.
+**El reloj del cortisol:** el cortisol empieza a subir alrededor de las 4 de la mañana. Se especula (él mismo dice que es especulación) que prepara al cuerpo y al cerebro para despertar.
 
-**Principales efectos del cortisol:**
-- **Producción de glucosa:** gluconeogénesis (principalmente a partir de lactato) + glucogenólisis ✅
-- **Proteólisis:** degrada la proteína muscular en aminoácidos para alimentar la producción hepática de glucosa — descrito como el cuerpo "destruyéndose a sí mismo" para mantener la glucosa en sangre ✅
-- **Redistribución de la grasa:** lipólisis en extremidades/caderas/glúteos mientras promueve el almacenamiento central (tronco/cara/cuello) — el patrón clásico de "obesidad central" ✅
-- **Inmunosupresión:** reduce la actividad inmunitaria/inflamatoria — por eso los corticosteroides tratan enfermedades autoinmunes ✅
+**Lo principal que hace el cortisol:**
+- **Fabricar azúcar:** pone al hígado a fabricar azúcar nueva (sobre todo a partir del lactato) y a soltar el azúcar guardado. ✅
+- **Desarmar proteína:** deshace la proteína del músculo en aminoácidos para que el hígado fabrique azúcar; Bikman lo describe como el cuerpo "destruyéndose a sí mismo" para mantener el azúcar en la sangre. ✅
+- **Mover la grasa de lugar:** quema grasa de brazos, piernas, caderas y glúteos, mientras guarda grasa en el centro (panza, cara, cuello): el patrón típico de "obesidad central". ✅
+- **Bajar las defensas:** reduce la actividad de las defensas y la inflamación; por eso los corticoides (como la prednisona) se usan para tratar enfermedades autoinmunes. ✅
 
-## Médula suprarrenal — Catecolaminas (epinefrina/norepinefrina)
-- Se construyen a partir de **tirosina** (la misma estructura de amina que la hormona tiroidea, Cap. 3) — tirosina → pasos intermedios → **dopamina** (una pequeña cantidad pasa a la circulación) → más pasos → **epinefrina** (producto final dominante) ✅
-- **La vía de activación es neural:** dolor, frío, sangrado, presión baja, glucosa baja → nervio esplácnico → liberación de acetilcolina → entrada de calcio en la médula suprarrenal → liberación de la epinefrina almacenada en vesículas ✅
-- **Vida media extremadamente corta** — se elimina en minutos, lo que explica el efecto rápido, dramático y breve del EpiPen ✅
+## El centro de la glándula (médula) — adrenalina y noradrenalina
+- Se fabrican a partir de **tirosina** (la misma base de aminoácido que la hormona tiroidea del Cap. 3): tirosina → pasos intermedios → **dopamina** (un poco pasa a la sangre) → más pasos → **adrenalina** (el producto final principal). ✅
+- **Se prende por los nervios:** dolor, frío, sangrado, presión baja o azúcar bajo → un nervio (el esplácnico) → suelta acetilcolina → entra calcio a las células del centro de la glándula → sale la adrenalina que estaba guardada en bolsitas. ✅
+- **Dura muy poco en la sangre**: se elimina en minutos. Por eso el efecto de una inyección de adrenalina (EpiPen) es rápido, fuerte y corto. ✅
 
-**Efectos según el receptor:**
+**Qué hace según el receptor:**
 
 | Receptor | Tejido | Efecto |
 |---|---|---|
-| Beta-3 | Células grasas | Lipasa sensible a hormonas → liberación de ácidos grasos libres |
-| Beta-1 | Corazón | Entrada de calcio → contracción más fuerte y rápida |
-| Alfa-1 | Vasos sanguíneos | Constricción (eleva la presión) |
-| Beta-2 + Alfa-1 | Hígado | Degradación de glucógeno → liberación rápida de glucosa (en \~1 minuto tras la inyección) |
+| Beta-3 | Células de grasa | Prende la enzima que suelta grasa (lipasa sensible a hormonas) → salen grasas libres a la sangre |
+| Beta-1 | Corazón | Entra calcio → el corazón late más fuerte y más rápido |
+| Alfa-1 | Vasos sanguíneos | Se aprietan (sube la presión) |
+| Beta-2 + Alfa-1 | Hígado | Suelta el azúcar guardado → el azúcar sube rápido (en cerca de 1 minuto después de una inyección) |
 
-✅ **Convergencia cortisol/epinefrina:** ambas se llaman "hormonas del estrés" precisamente porque ambas elevan la glucosa en sangre, oponiéndose a la insulina. La elevación crónica de cualquiera de las dos provoca resistencia a la insulina mediante el mismo mecanismo básico.
+✅ **El cortisol y la adrenalina coinciden:** a las dos se les llama "hormonas del estrés" justamente porque las dos suben el azúcar en la sangre, y así trabajan en contra de la insulina. Si cualquiera de las dos está alta por mucho tiempo, provoca resistencia a la insulina por el mismo mecanismo básico.
 
-## Trastornos suprarrenales
-**Hipercortisolismo:**
-- **Síndrome de Cushing** = cualquier causa de cortisol crónicamente elevado (la causa más común en general son los glucocorticoides como medicamento) — la ACTH está **baja** solo cuando el origen es la propia glándula suprarrenal o un medicamento; está alta en las causas dependientes de ACTH (un tumor hipofisario o un tumor ectópico secretor de ACTH en otra parte del cuerpo) (Nieman 2008)
-- **Enfermedad de Cushing** = específicamente un tumor hipofisario secretor de ACTH — ACTH **alta**, la MSH la acompaña (tez cobriza) ✅
-- Signos compartidos: redistribución central de la grasa, fragilidad de la piel/estrías, hiperglucemia, pérdida de músculo/hueso, mala cicatrización, inmunosupresión ✅
-- ⚠️ El riesgo de suicidio es una preocupación real, seria y documentada en los casos mal controlados
+## Enfermedades de las suprarrenales
+**Cortisol de más:**
+- **Síndrome de Cushing** = cualquier causa de cortisol alto por mucho tiempo (la causa más común son los corticoides que se toman como medicina). La ACTH sale **baja** solo cuando el origen es la propia glándula suprarrenal o un medicamento; sale alta cuando la causa fabrica ACTH (un tumor de la hipófisis, o un tumor en otra parte del cuerpo que fabrica ACTH) (Nieman 2008).
+- **Enfermedad de Cushing** = específicamente un tumor de la hipófisis que fabrica ACTH: ACTH **alta**, con la MSH acompañándola (piel color cobre). ✅
+- Señales en común: grasa que se va al centro del cuerpo, piel delgada con estrías, azúcar alta, pérdida de músculo y de hueso, heridas que tardan en sanar, defensas bajas. ✅
+- ⚠️ El riesgo de suicidio es una preocupación real, seria y documentada en los casos mal controlados.
 
-**Síndrome de Conn (hiperaldosteronismo):** hipertensión + hipopotasemia (músculos débiles) + **renina baja** (confirma la sobreproducción autónoma) ✅, generalmente por un tumor suprarrenal 🟡 Verificación de evidencia: la hiperplasia suprarrenal bilateral es al menos tan común como un adenoma productor de aldosterona, y la mayoría de los pacientes tiene el potasio normal; por eso las guías recomiendan buscarlo en muchas personas con hipertensión (Funder 2016)
+**Síndrome de Conn (aldosterona de más):** presión alta + potasio bajo (músculos débiles) + **renina baja** (eso confirma que la glándula fabrica aldosterona por su cuenta) ✅, casi siempre por un tumor de la suprarrenal. 🟡 Revisión de la evidencia: el crecimiento de las dos suprarrenales (hiperplasia bilateral) es por lo menos tan común como un tumor que fabrica aldosterona, y la mayoría de los pacientes tiene el potasio normal; por eso las guías recomiendan buscarlo en muchas personas con presión alta (Funder 2016).
 
-**Hiperplasia suprarrenal congénita:** un defecto enzimático hereditario (cerca de 95% de los casos: deficiencia de 21-hidroxilasa) bloquea la producción de cortisol (y a menudo de aldosterona); la ACTH alta resultante empuja a la suprarrenal a sobreproducir andrógenos — puede virilizar a un feto femenino o causar desarrollo masculino prematuro en un varón, y la forma grave causa una pérdida de sal que pone en riesgo la vida del recién nacido ✅ (Speiser 2018)
+**Hiperplasia suprarrenal congénita:** una falla heredada en una enzima (en cerca de 95% de los casos falta la 21-hidroxilasa) impide fabricar cortisol (y muchas veces aldosterona). La ACTH sube mucho y empuja a la glándula a fabricar hormonas masculinas de más. Eso puede masculinizar a un bebé niña antes de nacer, o adelantar el desarrollo en un niño; la forma grave hace perder sal y pone en peligro la vida del recién nacido. ✅ (Speiser 2018)
 
-**Feocromocitoma:** tumor de la médula suprarrenal que sobreproduce catecolaminas — presentación similar a un ataque de pánico que no se resuelve por sí sola ✅ — clásicamente episodios de dolor de cabeza, sudoración y palpitaciones con presión alta; se diagnostica midiendo metanefrinas en plasma u orina (Lenders 2014)
+**Feocromocitoma:** un tumor del centro de la glándula que fabrica adrenalina de más. Se parece a un ataque de pánico que no se quita solo. ✅ Lo típico son episodios de dolor de cabeza, sudor y corazón acelerado, con presión alta; se diagnostica midiendo unas sustancias llamadas metanefrinas en la sangre o la orina (Lenders 2014).
 
-**Enfermedad de Addison:** destrucción autoinmune de la corteza suprarrenal — cortisol/aldosterona bajos; la ACTH está **alta** (sin retroalimentación negativa), y la MSH con ella — el mismo mecanismo de tez cobriza que la enfermedad de Cushing, en dirección opuesta. JFK es el ejemplo conocido. ✅ (Bornstein 2016)
+**Enfermedad de Addison:** las defensas destruyen la capa externa de las suprarrenales; el cortisol y la aldosterona bajan. La ACTH sube **mucho** (porque ya no hay cortisol que la frene), y la MSH con ella: el mismo mecanismo de la piel color cobre que en la enfermedad de Cushing, pero en la dirección contraria. JFK es el ejemplo famoso. ✅ (Bornstein 2016)
 
-**"Fatiga suprarrenal" — desmentida explícitamente:** no hay evidencia de que sea real. Los síntomas que se le atribuyen se explican mejor por estrés crónico real y factores de estilo de vida, no por un agotamiento literal de las suprarrenales. 🟢 Una revisión sistemática de 58 estudios no encontró sustento para que la "fatiga suprarrenal" sea una enfermedad real (Cadegiani 2016). Vale la pena saber corregirlo si aparece en el marketing de bienestar/suplementos.
+**"Fatiga suprarrenal" — desmentida claramente:** no hay evidencia de que exista. Los síntomas que se le achacan se explican mejor por estrés de verdad, que dura mucho, y por el estilo de vida, no porque las suprarrenales se "agoten". 🟢 Una revisión de 58 estudios no encontró apoyo para que la "fatiga suprarrenal" sea una enfermedad real (Cadegiani 2016). Vale la pena saberlo para corregirlo cuando aparezca en la publicidad de bienestar o de suplementos.
 
 ## Lo más destacado de las preguntas y respuestas
-**Cómo se liberan las hormonas esteroideas unidas:** la fracción libre es la biológicamente activa; a medida que se usa la hormona libre, una cantidad equivalente se libera de la fracción unida para reponerla — un equilibrio dinámico, no una liberación única. ✅ **Conexión con la pubertad:** uno de los eventos que inician la pubertad es que el hígado reduce la producción de proteína transportadora de hormonas sexuales, aumentando la fracción libre aun sin cambiar necesariamente la producción total — extiende el principio de unida/libre del Cap. 1 con un mecanismo desencadenante concreto. 🔴 Verificación de evidencia: la SHBG sí baja durante la pubertad, pero la pubertad se inicia con la reactivación del generador de pulsos de GnRH en el hipotálamo; la caída de la SHBG acompaña a la pubertad, no la inicia (Abreu 2016).
+**Cómo se sueltan las hormonas esteroideas pegadas:** la parte libre es la que funciona; a medida que se usa la hormona libre, se suelta una cantidad igual de la parte pegada para reponerla. Es un equilibrio que se va ajustando, no una sola descarga. ✅ **Relación con la pubertad:** según Bikman, una de las cosas que inicia la pubertad es que el hígado fabrica menos de la proteína que transporta las hormonas sexuales, y así sube la parte libre aunque no cambie la producción total. Esto amplía la idea de hormona pegada y suelta del Cap. 1 con un detonante concreto. 🔴 Revisión de la evidencia: esa proteína (la SHBG) sí baja en la pubertad, pero la pubertad empieza cuando el hipotálamo vuelve a soltar GnRH en pulsos; la baja de la SHBG acompaña a la pubertad, no la inicia (Abreu 2016).
 
-**Cortisol y dietas cetogénicas/bajas en carbohidratos:**
-- Bikman confirma que el cortisol elevado **impulsa** la gluconeogénesis (no al revés, como a veces afirman los críticos de la dieta keto)
-- **Hallazgo específico por sexo:** un aumento temporal del cortisol (días 3–5 de restricción de carbohidratos) observado en **mujeres pero no en hombres** en los datos citados — vuelve a la normalidad después (🟡 no verificado: no se identificó el estudio específico)
-- **El replanteamiento de Bikman:** quizá sería mejor llamarlas "hormonas de respuesta metabólica" en lugar de "hormonas del estrés", ya que "estrés" se usa como arma retórica de maneras que no reflejan la fisiología real, transitoria y autolimitada. 🟡 Una hormona que hace su trabajo normal no es automáticamente evidencia de daño.
+**El cortisol y las dietas cetogénicas o bajas en carbohidratos:**
+- Bikman confirma que el cortisol alto **pone a fabricar** azúcar nueva (y no al revés, como a veces dicen los críticos de la dieta keto).
+- **Diferencia entre mujeres y hombres:** en los datos que cita, el cortisol subió un tiempo (en los días 3 a 5 sin carbohidratos) en **mujeres pero no en hombres**, y luego volvió a la normalidad. (🟡 no comprobado: no se encontró el estudio exacto.)
+- **Lo que propone Bikman:** quizá sería mejor llamarlas "hormonas de respuesta del metabolismo" en vez de "hormonas del estrés", porque la palabra "estrés" se usa como arma para asustar, de formas que no reflejan lo que de verdad pasa: una respuesta pasajera que se corrige sola. 🟡 Una hormona que hace su trabajo normal no es por eso prueba de daño.
 
 ## Correcciones clave para recordar
-- 🔴 Suponer que la "fatiga suprarrenal" es real: no hay evidencia que la respalde; los síntomas se explican mejor por estrés crónico real y factores de estilo de vida.
-- 🔴 Suponer que la gluconeogénesis en una dieta baja en carbohidratos "causa" cortisol elevado: la dirección causal es la opuesta — el cortisol sube primero (en mujeres, temporalmente) e impulsa la gluconeogénesis.
-- 🔴 Suponer que cualquier respuesta detectable de hormonas del estrés es intrínsecamente dañina: las respuestas transitorias y autolimitadas son adaptación normal, no daño.
-- 🔴 Suponer que el síndrome de Cushing y la enfermedad de Cushing son intercambiables: el síndrome es la categoría amplia; la enfermedad es el subtipo específico de tumor hipofisario, que se distingue por el nivel de ACTH.
+- 🔴 Pensar que la "fatiga suprarrenal" existe: no hay evidencia que la respalde; los síntomas se explican mejor por estrés real que dura mucho y por el estilo de vida.
+- 🔴 Pensar que, en una dieta baja en carbohidratos, fabricar azúcar nueva "provoca" que suba el cortisol: es al revés; el cortisol sube primero (en mujeres, por un tiempo) y pone a fabricar azúcar.
+- 🔴 Pensar que cualquier subida de las hormonas del estrés hace daño: las respuestas pasajeras que se corrigen solas son una adaptación normal, no un daño.
+- 🔴 Pensar que el síndrome de Cushing y la enfermedad de Cushing son lo mismo: el síndrome es la categoría general; la enfermedad es el caso concreto de un tumor de la hipófisis, y se distinguen por el nivel de ACTH.
 
 ## Conclusión práctica
-Este capítulo convierte la afirmación "el estrés causa resistencia a la insulina" en una tesis completamente mecanística: el cortisol y la epinefrina elevan directamente la glucosa en sangre por vías concretas, lo que los coloca en oposición bioquímica continua a la insulina.
+Este capítulo convierte la frase "el estrés causa resistencia a la insulina" en una explicación completa de cómo pasa: el cortisol y la adrenalina suben directamente el azúcar en la sangre por caminos concretos, y por eso trabajan todo el tiempo en contra de la insulina.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dado el síndrome de Cushing (amplio) frente a la enfermedad de Cushing (específicamente hipofisaria) — ¿qué valor de laboratorio único los distingue?**
-A. Colesterol total
-B. \* ACTH — alta apunta a enfermedad de Cushing (o, con menos frecuencia, a un tumor ectópico secretor de ACTH en otra parte del cuerpo); baja apunta a un origen suprarrenal o a un medicamento, aún dentro de la categoría de síndrome de Cushing
-C. T3 libre
-*Por qué B: es exactamente la lógica diagnóstica dada en la clase.*
+**1. Entre el síndrome de Cushing (general) y la enfermedad de Cushing (de la hipófisis), ¿qué valor de laboratorio los distingue?**
+A. El colesterol total
+B. \* La ACTH: si está alta, apunta a la enfermedad de Cushing (o, menos seguido, a un tumor en otra parte del cuerpo que fabrica ACTH); si está baja, apunta a un origen en la suprarrenal o a un medicamento, todavía dentro del síndrome de Cushing
+C. La T3 libre
+*Por qué B: es exactamente el razonamiento que se da en la clase.*
 
-**2. Dado que el hallazgo de cortisol con keto es transitorio y específico de mujeres — ¿cómo debería sopesarse frente a las afirmaciones de que "la keto es un estrés para el cuerpo"?**
-A. Demuestra que la keto es universalmente dañina
-B. \* Una respuesta hormonal transitoria y autolimitada no es evidencia de daño continuo — confunde "responder" con "estar dañado"
-C. Demuestra que la keto no tiene ningún efecto hormonal
-*Por qué B: es exactamente el punto epistémico que Bikman plantea sobre la etiqueta de "hormona del estrés".*
+**2. Si la subida de cortisol con la dieta keto es pasajera y solo se vio en mujeres, ¿cómo debe pesar frente a quienes dicen que "la keto estresa al cuerpo"?**
+A. Demuestra que la keto hace daño a todos
+B. \* Una respuesta de hormonas pasajera que se corrige sola no es prueba de un daño que sigue; confunde "responder" con "estar dañado"
+C. Demuestra que la keto no tiene ningún efecto en las hormonas
+*Por qué B: es justo lo que Bikman señala sobre la etiqueta de "hormona del estrés".*
 
-**3. Dado que la angiotensina II recluta a la ADH como mecanismo de respaldo — ¿qué sugiere esta redundancia sobre cómo el cuerpo maneja las amenazas críticas?**
-A. El cuerpo siempre usa una sola vía eficiente para conservar recursos
-B. \* Ante amenazas de alto riesgo como la presión arterial baja, el cuerpo opera varios sistemas superpuestos en lugar de un único punto de falla
-C. Esta redundancia es un defecto de diseño
-*Por qué B: un patrón útil — las funciones fisiológicas críticas tienden a tener redundancia incorporada.*
+**3. Si la angiotensina II llama a la ADH como refuerzo, ¿qué nos dice esa doble protección sobre cómo maneja el cuerpo los peligros graves?**
+A. El cuerpo siempre usa un solo camino eficiente para ahorrar recursos
+B. \* Ante peligros graves como la presión baja, el cuerpo usa varios sistemas que se cubren entre sí, en vez de depender de uno solo que podría fallar
+C. Esa doble protección es un error de diseño
+*Por qué B: es un patrón útil; las funciones más importantes del cuerpo suelen tener respaldo incorporado.*
 
 ## Temas abiertos
-- **Clase gonadal (testículos/ovario)** — el siguiente tema; se basará en la zona reticular y el eje HPG del Cap. 2.
-- **Clase sobre la pubertad** — detallará el mecanismo de reducción de la SHBG.
-- Respuesta cetogénica del cortisol específica de mujeres — señalada como un tema que merecería un seguimiento más profundo.
+- **Clase de los órganos sexuales (testículos y ovarios)**: el siguiente tema; se apoyará en la capa reticular y en la cadena hipotálamo-hipófisis-órganos sexuales del Cap. 2.
+- **Clase sobre la pubertad**: explicará cómo baja la SHBG.
+- La subida de cortisol con la dieta cetogénica que solo se vio en mujeres: un tema que merece investigarse más.
 
-## Lo que se omitió deliberadamente (autoevaluación)
-- Comentarios personales: la descripción con pantomima de Bikman sobre la aldosterona, la descripción anatómica extendida de la analogía de la naranja
-- El detalle de la presentación genital de la hiperplasia suprarrenal congénita, condensado a su importancia clínica en lugar de la descripción completa
-- La reexplicación del mecanismo GPCR/AMP cíclico (ya en el Cap. 1, aplicado en el Cap. 3) — solo la tabla de receptores por tejido es nueva aquí
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: la mímica de Bikman al explicar la aldosterona, y la descripción larga de la comparación con la naranja.
+- El detalle de cómo se ven los genitales en la hiperplasia suprarrenal congénita, resumido a lo importante para la salud en vez de la descripción completa.
+- Volver a explicar los receptores GPCR y el AMP cíclico (ya en el Cap. 1 y aplicado en el Cap. 3); aquí solo es nueva la tabla de receptores por tejido.
 
 ---
 **Referencias:**

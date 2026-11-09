@@ -1,128 +1,128 @@
 # Bikman — Esenciales de Endocrinología, Cap. 3: El eje tiroideo
 
-*Aplica el marco diagnóstico terciario/secundario/primario a la tiroides, y cubre la síntesis hormonal mediada por la TPO, la conversión de T4 a T3 y la distinción entre Graves y Hashimoto.*
+*Aplica a la tiroides el esquema de los tres niveles (terciario, secundario, primario), y explica cómo se fabrica la hormona con la ayuda de la enzima TPO, cómo la T4 se convierte en T3 y en qué se diferencian la enfermedad de Graves y la de Hashimoto.*
 
-*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 3 (transcripción). Primera clase dedicada a una glándula específica, que aplica directamente a la tiroides el marco terciario/secundario/primario del Cap. 2 y el sistema de clasificación hormonal del Cap. 1.*
+*Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 3 (transcripción). Es la primera clase dedicada a una sola glándula; aplica directamente a la tiroides el esquema de los tres niveles del Cap. 2 y la clasificación de hormonas del Cap. 1.*
 
 ## Por qué importa
 
-## Afirmación que define el alcance
-La hormona tiroidea afecta a **todas y cada una de las células del cuerpo**; no es una hormona de nicho ni de propósito limitado. ✅ Su papel central en el metabolismo (la especialidad del propio Bikman), sumado a su papel crítico e irreversible en el desarrollo cerebral fetal, la convierten en una de las hormonas de mayor trascendencia de todo el sistema endocrino.
+## La idea que marca todo
+La hormona de la tiroides actúa en **todas y cada una de las células del cuerpo**; no es una hormona con un trabajo pequeño o limitado. ✅ Por su papel central en el metabolismo (la especialidad de Bikman) y por su papel decisivo, y sin vuelta atrás, en el desarrollo del cerebro del bebé antes de nacer, es una de las hormonas más importantes de todo el sistema de hormonas.
 
-## Frases clave y datos citables (Clase 3)
-- **La tiroides produce 20 veces más T4 que T3, y sin embargo la T3 es \~100 veces más activa biológicamente que la T4.** — la paradoja central que toda esta clase busca explicar. 🟡 Verificación de evidencia: la tiroides secreta unas 13 veces más T4 que T3, y cerca de 80% de la T3 del cuerpo se fabrica a partir de T4 fuera de la tiroides (Peeters y Visser, Endotext); la T3 se une a los receptores de hormona tiroidea con una fuerza unas 10–30 veces mayor que la T4, así que "~100 veces" exagera la diferencia (Wejaphikul 2019).
-- **"Atraviesa la puerta directamente... como un fantasma."** — retomado del Cap. 1, aplicado específicamente a cómo la T3 entra en las células y se dirige directo al núcleo.
-- **La T3 inversa como una versión "villana... bizarra" de la T3** — la propia descripción de Bikman de un isómero inactivo de la T3 que podría existir específicamente para mantener "ocupada" a la tiroides durante la inanición sin elevar la tasa metabólica.
-- **El "hipertiroidismo" recurrente y estacional de una mujer resultó ser tejido tiroideo molido accidentalmente en la hamburguesa casera de su familia** — un caso real y publicado, realmente insólito (tirotoxicosis facticia). 🟡 Verificación de evidencia: el episodio mejor documentado es un brote de 121 casos en 1984–85 en Minnesota y estados vecinos, causado por carne molida hecha con recortes de cuello que contenían tejido tiroideo (Hedberg 1987); la versión de una sola familia no se pudo verificar.
-- **Los pacientes con Hashimoto tienen aproximadamente 20 veces más probabilidades de tener también enfermedad celíaca** — una cifra de comorbilidad llamativa y específica. 🔴 Verificación de evidencia: un metaanálisis de 6,024 pacientes con enfermedad tiroidea autoinmune encontró enfermedad celíaca confirmada por biopsia en cerca de 1.6% (alrededor de 1 de cada 62; 6.2% en niños), aproximadamente el doble de la frecuencia habitual en la población general, de cerca de 1%; muy lejos de 20 veces (Roy 2016).
-- **El bocio (tiroides agrandada) puede aparecer con niveles de hormona tiroidea altos, bajos O completamente normales** — el tamaño por sí solo no dice nada sobre la función.
+## Frases clave y datos para recordar (Clase 3)
+- **La tiroides fabrica 20 veces más T4 que T3, y aun así la T3 es unas 100 veces más activa que la T4.** Es la paradoja que toda la clase quiere explicar. 🟡 Revisión de la evidencia: la tiroides suelta unas 13 veces más T4 que T3, y cerca de 80% de la T3 del cuerpo se fabrica a partir de la T4 fuera de la tiroides (Peeters y Visser, Endotext). La T3 se pega a los receptores de la hormona tiroidea con una fuerza unas 10 a 30 veces mayor que la T4, así que "unas 100 veces" exagera la diferencia (Wejaphikul 2019).
+- **"Atraviesa la puerta directamente… como un fantasma."** Viene del Cap. 1, aplicado aquí a cómo la T3 entra en la célula y va directo al núcleo.
+- **La T3 inversa como una versión "villana… rarísima" de la T3.** Así describe Bikman una forma de la T3 que no funciona y que quizá existe para mantener "ocupada" a la tiroides cuando hay hambre, sin acelerar el metabolismo.
+- **El "hipertiroidismo" que le volvía a una mujer cada temporada resultó ser tejido de tiroides que se colaba sin querer en la carne molida que su familia preparaba en casa.** Un caso real y publicado, de verdad insólito (los médicos lo llaman tirotoxicosis facticia). 🟡 Revisión de la evidencia: el episodio mejor documentado es un brote de 121 casos en 1984–85 en Minnesota y estados vecinos, causado por carne molida hecha con recortes de cuello que tenían tejido de tiroides (Hedberg 1987); la versión de una sola familia no se pudo comprobar.
+- **Las personas con Hashimoto tendrían unas 20 veces más probabilidad de tener también enfermedad celíaca** (intolerancia al gluten). Una cifra llamativa y concreta. 🔴 Revisión de la evidencia: un análisis que juntó a 6,024 pacientes con enfermedad autoinmune de la tiroides encontró enfermedad celíaca confirmada por biopsia en cerca de 1.6% (más o menos 1 de cada 62; 6.2% en niños), aproximadamente el doble de lo que se ve en la población general, que es cerca de 1%. Muy lejos de 20 veces (Roy 2016).
+- **El bocio (tiroides agrandada) puede aparecer con la hormona tiroidea alta, baja O totalmente normal.** El tamaño por sí solo no dice nada sobre cómo funciona.
 
-## Síntesis de la hormona tiroidea — La vía completa mediada por la TPO
-Una sola enzima, la **TPO (tiroperoxidasa)**, interviene en casi todos los pasos; el punto de Bikman es que un fármaco dirigido solo a esta enzima puede detener toda la línea de producción.
+## Cómo se fabrica la hormona tiroidea — todo el camino, con la enzima TPO
+Una sola enzima, la **TPO (tiroperoxidasa)**, participa en casi todos los pasos. Lo que quiere decir Bikman: un medicamento que frene solo esta enzima puede parar toda la línea de producción.
 
-1. **Captación de yoduro:** el yoduro (NO el yodo elemental, una distinción química específica que Bikman enfatiza) se extrae de la sangre hacia la célula folicular mediante el **simportador sodio-yoduro (NIS)**, que mete el yoduro en contra de su gradiente aprovechando el gradiente del sodio; la energía viene indirectamente de la bomba sodio-potasio, que gasta ATP, y no existe una bomba de yoduro aparte impulsada por ATP ✅ (Portulano 2014)
-2. **La pendrina** luego traslada el yoduro de la célula folicular al **coloide** (el centro lleno de líquido del folículo); una vez dentro, el yoduro nunca vuelve a salir en su forma original ✅ 🟡 Verificación de evidencia: el papel exacto de la pendrina en la tiroides es incierto; otro canal, la anoctamina-1, podría transportar buena parte de este yoduro (Rousset, Endotext).
-3. **Oxidación (primera tarea de la TPO):** la TPO usa peróxido de hidrógeno para oxidar el yoduro (I⁻) y convertirlo en yodo utilizable ✅
-4. **Organificación (segunda tarea de la TPO):** el yodo se une a residuos de tirosina de la **tiroglobulina**; un yodo = monoyodotirosina (MIT), dos yodos = diyodotirosina (DIT) ✅
-5. **Acoplamiento (tercera tarea de la TPO):** dos moléculas de DIT se combinan → **T4**; una MIT + una DIT se combinan → **T3** (la forma menos común y más activa) ✅
-6. **Fase endocrina:** la tiroglobulina vuelve a entrar en la célula y se degrada en los lisosomas, y la T4/T3 liberadas salen de la célula hacia el torrente sanguíneo (en contraste con la "fase exocrina" anterior, en la que los componentes básicos entran AL coloide) ✅
+1. **Entrada del yoduro:** el yoduro (NO el yodo puro; Bikman insiste en esta diferencia química) pasa de la sangre a la célula de la tiroides por una puerta llamada **NIS** (simportador sodio-yoduro). Esta puerta mete el yoduro aunque vaya "cuesta arriba", aprovechando el empuje del sodio. La energía viene indirectamente de la bomba de sodio y potasio, que gasta ATP; no existe una bomba aparte para el yoduro. ✅ (Portulano 2014)
+2. **La pendrina** pasa luego el yoduro de la célula al **coloide** (el centro lleno de líquido del folículo); una vez ahí, el yoduro ya no vuelve a salir tal como entró. ✅ 🟡 Revisión de la evidencia: no se sabe bien qué papel exacto tiene la pendrina en la tiroides; otro canal, la anoctamina-1, podría llevar buena parte de este yoduro (Rousset, Endotext).
+3. **Oxidación (primer trabajo de la TPO):** la TPO usa agua oxigenada (peróxido de hidrógeno) para convertir el yoduro (I⁻) en yodo que se pueda usar. ✅
+4. **Pegado del yodo (segundo trabajo de la TPO):** el yodo se pega a unas piezas llamadas tirosinas de una proteína grande, la **tiroglobulina**. Con un yodo se forma MIT (monoyodotirosina); con dos, DIT (diyodotirosina). ✅
+5. **Unión de piezas (tercer trabajo de la TPO):** dos DIT juntas → **T4**; una MIT y una DIT juntas → **T3** (la forma menos común y más activa). ✅
+6. **Salida a la sangre:** la tiroglobulina vuelve a entrar en la célula, se deshace en unos compartimentos de limpieza (los lisosomas), y la T4 y la T3 sueltas salen a la sangre. (Esto es lo contrario de la etapa anterior, en la que las piezas entraban AL coloide.) ✅
 
-🟢 **El yoduro es absolutamente innegociable** — sin yoduro en la dieta no hay hormona tiroidea, punto, sin importar lo bien que funcione cada uno de los demás pasos de esta vía. Relevante dado que las dietas del interior/no costeras (el propio ejemplo de Bikman: vivir en Utah/Arizona, sin salida al mar) generalmente aportan menos yoduro a menos que se obtenga deliberadamente (sal yodada, mariscos, algas).
+🟢 **Sin yoduro no hay nada que hacer**: si no hay yoduro en la comida, no hay hormona tiroidea, punto, por bien que funcionen los demás pasos. Esto importa porque las dietas de lugares lejos del mar (el ejemplo de Bikman: vivir en Utah o Arizona, sin costa) suelen traer menos yoduro, a menos que se busque a propósito (sal yodada, mariscos, algas).
 
-**El doble efecto de la TSH sobre la propia glándula tiroides:** estimula TANTO la producción hormonal (mediante la activación de la TPO) COMO el crecimiento celular (hipertrofia + hiperplasia de las células tiroideas); dos efectos genuinamente separados que suelen ir juntos, pero no tienen por qué hacerlo (justamente por eso el tamaño del bocio no revela el estado hormonal).
+**La TSH hace dos cosas en la tiroides:** pone a fabricar hormona (activando la TPO) Y hace crecer la glándula (las células se agrandan y se multiplican). Son dos efectos de verdad separados que suelen ir juntos, pero no siempre (justamente por eso el tamaño del bocio no dice cómo están las hormonas).
 
-## Conversión de T4 → T3 — Ocurre en todo el cuerpo, no solo en la tiroides
-- Casi todos los tejidos (músculo, grasa, hígado, etc.) pueden realizar la **desyodación**: quitarle un yodo a la T4 para activarla localmente como T3 ✅
-- **Vía normal:** se quita el yodo de la posición 5' → T3 activa
-- **Vía alternativa:** se quita de otra posición → **T3 inversa**, estructuralmente similar pero esencialmente inactiva
-- **Especulación de Bikman (etiquetada explícitamente como especulación, no como hecho establecido) 🟡:** la producción de T3 inversa aumenta durante la inanición grave; posiblemente sea una forma de mantener el tejido tiroideo metabólicamente "vivo" sin elevar la tasa metabólica durante una verdadera escasez de energía. Él deja claro que un científico puede abordar el "cómo" y el "qué", pero no el "por qué" (teleología) con certeza.
+## Conversión de T4 en T3 — pasa en todo el cuerpo, no solo en la tiroides
+- Casi todos los tejidos (músculo, grasa, hígado, etc.) pueden quitarle un yodo a la T4 para activarla ahí mismo como T3 (los científicos lo llaman **desyodación**). ✅
+- **Camino normal:** se quita el yodo de la posición 5' → T3 activa.
+- **Otro camino:** se quita de otra posición → **T3 inversa**, muy parecida en forma pero prácticamente sin efecto.
+- **Lo que imagina Bikman (él mismo dice que es especulación, no un hecho comprobado) 🟡:** cuando hay hambre extrema, se fabrica más T3 inversa; quizá sea una forma de mantener "viva" a la tiroides sin acelerar el metabolismo cuando de verdad falta energía. Él aclara que un científico puede explicar el "cómo" y el "qué", pero no puede saber con certeza el "para qué".
 
-## La tabla diagnóstica TSH/T3 — Aplicación directa del marco del Cap. 2
+## La tabla de diagnóstico TSH/T3 — el esquema del Cap. 2 aplicado
 
 | TSH | T3 | Diagnóstico |
 |---|---|---|
-| Normal | Normal | Eutiroideo ("eu-" = normal) |
-| **Baja** | **Alta** | **Hipertiroidismo primario** — la glándula no escucha y fabrica hormona a pesar de que el "jefe" intenta apagarla |
-| **Alta** | **Alta** | Hipertiroidismo, pero no se puede distinguir entre secundario y terciario (la glándula SÍ escucha a la TSH, así que no es primario; pero no se puede saber si la propia hipófisis es el origen o si solo transmite una señal hipotalámica que no podemos medir) |
-| **Alta** | **Baja** | **Hipotiroidismo primario** — la glándula no escucha a pesar de que la hipófisis grita más fuerte |
-| **Baja** | **Baja** | Hipotiroidismo, pero no se puede distinguir entre secundario y terciario — la misma limitación de medición que arriba |
+| Normal | Normal | Tiroides normal (los médicos dicen "eutiroideo"; "eu-" quiere decir normal) |
+| **Baja** | **Alta** | **Hipertiroidismo primario**: la glándula no hace caso y sigue fabricando hormona aunque el "jefe" trata de apagarla |
+| **Alta** | **Alta** | Hipertiroidismo, pero no se sabe si es secundario o terciario (la glándula SÍ obedece a la TSH, así que no es primario; pero no se puede saber si el problema es la hipófisis o si solo pasa una orden del hipotálamo que no podemos medir) |
+| **Alta** | **Baja** | **Hipotiroidismo primario**: la glándula no hace caso aunque la hipófisis grite más fuerte |
+| **Baja** | **Baja** | Hipotiroidismo, pero no se sabe si es secundario o terciario; el mismo problema de medición que arriba |
 
-✅ **Este es un ejemplo directo y desarrollado de la misma lógica del Cap. 2**: el nivel que no responde a su "jefe" es donde está la falla; cuando la TSH y la T3 se mueven juntas (ambas altas o ambas bajas), la glándula es inocente, pero distinguir el origen hipofisario del hipotalámico requiere la prueba de estimulación descrita en el Cap. 2, ya que la TRH sigue sin poder medirse directamente. 🟢 Verificación de evidencia: en la práctica, los médicos combinan la TSH con la **T4 libre**, no con la T3 (la T3 se usa sobre todo cuando se sospecha hipertiroidismo), y una TSH baja o inapropiadamente normal con T4 libre baja apunta a una enfermedad central (hipofisaria o hipotalámica) (Jonklaas 2014; Ross 2016).
+✅ **Es el mismo razonamiento del Cap. 2, aplicado:** el nivel que no obedece a su "jefe" es donde está la falla. Cuando la TSH y la T3 se mueven juntas (las dos altas o las dos bajas), la glándula no tiene la culpa; pero para saber si el problema es la hipófisis o el hipotálamo hace falta la prueba de estímulo del Cap. 2, porque la TRH sigue sin poder medirse directamente. 🟢 Revisión de la evidencia: en la práctica, los médicos miran la TSH junto con la **T4 libre**, no con la T3 (la T3 se usa sobre todo cuando se sospecha una tiroides acelerada). Una TSH baja, o "normal" cuando no debería serlo, con la T4 libre baja, apunta a un problema central, en la hipófisis o el hipotálamo (Jonklaas 2014; Ross 2016).
 
-## Hipertiroidismo — Signos, causas y la enfermedad de Graves en particular
-**Signos generales de hipertiroidismo** (todos se remontan a una tasa metabólica acelerada): pérdida de peso, intolerancia al calor, sed/jadeo, frecuencia cardíaca/presión arterial elevadas (a veces arritmia), temblores musculares, piel húmeda ✅
+## Tiroides acelerada (hipertiroidismo) — señales, causas y la enfermedad de Graves
+**Señales generales** (todas vienen de un metabolismo acelerado): pérdida de peso, no aguantar el calor, sed y respiración agitada, pulso y presión altos (a veces latidos irregulares), temblor en los músculos, piel húmeda. ✅
 
-**Causas, de la más a la menos común:** enfermedad de Graves \> adenoma tiroideo (benigno, encapsulado, sin metástasis; la misma distinción de la discusión sobre tumores endocrinos del Cap. 1) \> tumores malignos \> tumor hipofisario secretor de TSH \> struma ovarii (tejido tiroideo que se desarrolla espontáneamente dentro del tejido ovárico; realmente raro y extraño) 🟡 Verificación de evidencia: las guías ponen primero la enfermedad de Graves, seguida del bocio multinodular tóxico y del adenoma tóxico (autónomo); la tiroiditis es otra causa frecuente de tirotoxicosis, mientras que el cáncer de tiroides rara vez la causa (Ross 2016).
+**Causas, de la más común a la menos común (según Bikman):** enfermedad de Graves > adenoma de tiroides (un tumor benigno, envuelto, que no se riega; la misma diferencia que se explicó en los capítulos anteriores) > tumores malignos > tumor de la hipófisis que fabrica TSH > struma ovarii (tejido de tiroides que crece solo dentro del ovario; rarísimo y extraño). 🟡 Revisión de la evidencia: las guías ponen primero la enfermedad de Graves, después el bocio con varios nódulos que fabrican hormona de más (bocio multinodular tóxico) y el nódulo único que trabaja por su cuenta (adenoma tóxico). La inflamación de la tiroides (tiroiditis) es otra causa frecuente de exceso de hormona, mientras que el cáncer de tiroides casi nunca lo causa (Ross 2016).
 
-**Enfermedad de Graves — el replanteamiento clave:** es una enfermedad autoinmune que **estimula** la tiroides, no la destruye; se contrasta explícitamente con la diabetes tipo 1 (donde la autoinmunidad destruye las células beta). Los anticuerpos estimulantes de la tiroides imitan a la TSH en el receptor de TSH, lo que impulsa tanto la sobreproducción hormonal COMO el crecimiento de la glándula ✅. Como la T3 sube de forma apropiada en respuesta a esta señal de "TSH falsa", la TSH real se suprime mediante la retroalimentación negativa normal, lo que clasifica a Graves como un **hipertiroidismo primario** según la tabla anterior.
+**Enfermedad de Graves — lo importante:** es una enfermedad autoinmune (las defensas atacan al propio cuerpo) que **estimula** la tiroides en vez de destruirla. Bikman la compara con la diabetes tipo 1, donde las defensas destruyen las células que fabrican insulina. En Graves, unos anticuerpos se hacen pasar por TSH en el receptor de TSH, y eso hace fabricar hormona de más Y crecer la glándula. ✅ Como la T3 sube por esta "TSH falsa", la TSH verdadera baja por la retroalimentación negativa normal. Por eso, según la tabla de arriba, Graves es un **hipertiroidismo primario**.
 
-**Rasgos específicos de Graves (no presentes en el hipertiroidismo genérico):**
-- **Exoftalmos:** los anticuerpos estimulan a los fibroblastos de la órbita, que aumentan la grasa y los músculos detrás del globo ocular y empujan los ojos hacia adelante (Bahn 2010) ✅; suele acompañarse de "retraso palpebral" (el párpado no sigue con suavidad el movimiento del ojo hacia abajo), aunque este puede aparecer en cualquier hipertiroidismo; los ojos saltones en sí son el signo propio de Graves
-- **Dermopatía ("piel de naranja"):** acumulación de mucopolisacáridos en la dermis, típicamente en las extremidades inferiores ✅
+**Señales propias de Graves (que no da cualquier tiroides acelerada):**
+- **Ojos saltones (exoftalmos):** los anticuerpos estimulan unas células detrás del ojo (fibroblastos), que hacen crecer la grasa y los músculos de detrás del globo ocular y empujan los ojos hacia adelante (Bahn 2010). ✅ Suele venir con "retraso del párpado" (el párpado no baja parejo cuando el ojo mira hacia abajo), aunque eso puede verse en cualquier tiroides acelerada; los ojos saltones son la señal propia de Graves.
+- **Piel "de naranja" (dermopatía):** se acumulan unas sustancias gelatinosas (mucopolisacáridos) en la piel, sobre todo en las piernas. ✅
 
-## Hipotiroidismo — Signos, Hashimoto y la conexión celíaca
-**Signos generales de hipotiroidismo** (la imagen especular del hipertiroidismo): letargo, reflejos lentos (en particular una fase de relajación retardada, que clásicamente se explora en el tobillo), frecuencia cardíaca más lenta, aumento de peso, intolerancia al frío ✅
+## Tiroides lenta (hipotiroidismo) — señales, Hashimoto y la relación con la enfermedad celíaca
+**Señales generales** (lo contrario de la tiroides acelerada): cansancio y desgano, reflejos lentos (sobre todo el músculo tarda en relajarse; el médico lo revisa en el tobillo), pulso más lento, subir de peso, no aguantar el frío. ✅
 
-**Peculiaridades distintivas:** caída del cabello (según Bikman, localizada en la coronilla; en el hipotiroidismo suele ser difusa, con cabello seco y áspero), pérdida del tercio lateral de las cejas y **mixedema**: acumulación de mucopolisacáridos alrededor de los ojos que produce un aspecto hinchado alrededor de los ojos (el opuesto visual de los ojos saltones de Graves, a pesar de que ambos implican acumulación de mucopolisacáridos) ✅
+**Detalles que la distinguen:** caída del pelo (según Bikman, en la coronilla; en la tiroides lenta suele ser pareja en toda la cabeza, con el pelo seco y áspero), pérdida del tercio de afuera de las cejas, y **mixedema**: se acumulan sustancias gelatinosas (mucopolisacáridos) alrededor de los ojos y se ven hinchados. (Es lo contrario en apariencia de los ojos saltones de Graves, aunque en los dos casos se acumula lo mismo.) ✅
 
-**Causa más común: tiroiditis de Hashimoto** — destrucción autoinmune, marcada por anticuerpos contra la propia TPO (la misma enzima multitarea de la vía de síntesis descrita arriba), su principal marcador diagnóstico ✅; es la causa más común donde el consumo de yodo es suficiente; a nivel mundial, la deficiencia de yodo es la causa principal (Chaker 2017)
+**La causa más común: tiroiditis de Hashimoto.** Las defensas destruyen la tiroides, y la señal principal en los análisis son los anticuerpos contra la propia TPO (la misma enzima "todo terreno" de arriba). ✅ Es la causa más común donde se come suficiente yodo; en el mundo entero, la causa principal es la falta de yodo (Chaker 2017).
 
-**La conexión celíaca/gluten — una comorbilidad real y específica:** se cita que los pacientes con Hashimoto tienen aproximadamente **20 veces** más probabilidades de tener enfermedad celíaca. 🔴 Verificación de evidencia: los datos combinados muestran enfermedad celíaca en cerca de 1.6% de las personas con enfermedad tiroidea autoinmune; un aumento modesto, no de 20 veces (Roy 2016). 🟡 La interpretación de Bikman: el gluten como desencadenante ambiental en personas susceptibles, coherente con el patrón autoinmune más amplio en el que un desencadenante externo provoca una respuesta inmunitaria que termina atacando el tejido propio. También se señala: un fuerte vínculo de comorbilidad con la diabetes tipo 1; estas tres afecciones autoinmunes (Hashimoto, celiaquía, DT1) se agrupan clínicamente.
+**La relación con la enfermedad celíaca y el gluten — una asociación real:** se dice que las personas con Hashimoto tienen unas **20 veces** más probabilidad de tener enfermedad celíaca. 🔴 Revisión de la evidencia: los datos juntos muestran enfermedad celíaca en cerca de 1.6% de las personas con enfermedad autoinmune de la tiroides; un aumento moderado, no de 20 veces (Roy 2016). 🟡 La interpretación de Bikman: el gluten como un detonante del ambiente en personas predispuestas, igual que en otras enfermedades autoinmunes, donde algo de fuera provoca una reacción de las defensas que termina atacando al propio cuerpo. También se menciona una relación fuerte con la diabetes tipo 1: estas tres enfermedades autoinmunes (Hashimoto, celiaquía, diabetes tipo 1) suelen aparecer juntas.
 
-**Hipotiroidismo congénito (antes llamado con un término histórico ofensivo, que hoy se evita):**
-- La deficiencia tiroidea materna grave (manifiesta) aumenta el riesgo de aborto espontáneo y de otras complicaciones del embarazo; la hormona tiroidea es así de esencial para llevar un embarazo a término ✅
-- Insuficiencia tiroidea fetal leve: **totalmente corregible si se trata en las primeras semanas de vida**; sin tratamiento, causa un daño cognitivo y del desarrollo irreversible y catastrófico ✅ Una ventana de tiempo realmente crítica y de enorme trascendencia, que conecta directamente con el material sobre sinaptogénesis/mielinización del Cap. 1.
+**Tiroides lenta de nacimiento (hipotiroidismo congénito; antes se le llamaba con una palabra ofensiva que hoy no se usa):**
+- Una falta grave de hormona tiroidea en la madre aumenta el riesgo de perder el embarazo y de otras complicaciones; así de necesaria es la hormona tiroidea para llevar un embarazo a término. ✅
+- Si al bebé le falta un poco de hormona tiroidea: **se corrige por completo si se trata en las primeras semanas de vida**; sin tratamiento, causa un daño grave y permanente en la inteligencia y el desarrollo. ✅ Es un plazo de verdad crítico y de enorme importancia, que se conecta con lo que se dijo en el Cap. 1 sobre cómo se forman las conexiones del cerebro y su recubrimiento.
 
-## Bocio — El tamaño por sí solo no dice nada
+## Bocio — el tamaño por sí solo no dice nada
 
-| Nivel de hormona tiroidea | Causa del bocio | Por qué ocurre |
+| Nivel de hormona tiroidea | Causa del bocio | Por qué pasa |
 |---|---|---|
-| **Bajo** | Deficiencia de yodo | La TSH sube intentando estimular la producción hormonal; logra estimular el crecimiento aunque la producción hormonal en sí esté limitada por falta de sustrato |
-| **Alto** | Graves, tumor secretor de TSH, etc. | Sobreestimulación directa tanto de la vía hormonal como de la de crecimiento |
-| **Normal** | Adenoma no tóxico | Crecimiento aberrante y localizado no relacionado con la señalización de la TSH; típicamente asimétrico/unilateral en lugar de difuso |
+| **Bajo** | Falta de yodo | La TSH sube para tratar de que se fabrique hormona; logra que la glándula crezca, aunque no pueda fabricar hormona porque falta la materia prima |
+| **Alto** | Graves, tumor que fabrica TSH, etc. | Se estimula de más directamente tanto la fabricación de hormona como el crecimiento |
+| **Normal** | Adenoma que no fabrica hormona de más | Crece un bulto por su cuenta, sin que tenga que ver la TSH; casi siempre de un solo lado, no parejo |
 
-**Herramienta diagnóstica:** gammagrafía de captación de yodo radiactivo; captación difusa en toda la glándula = bocio generalizado; captación "caliente" concentrada en un punto = nodular/adenoma ✅
+**Cómo se estudia:** con un escaneo de captación de yodo radiactivo. Si toda la glándula capta parejo = bocio de toda la glándula; si capta mucho en un solo punto ("caliente") = nódulo o adenoma. ✅
 
-## Efectos principales de la hormona tiroidea (T3, la forma activa)
-- **Tejido graso:** activa directamente y con fuerza la lipólisis (degradación de la grasa); los ácidos grasos libres suben siempre que sube la hormona tiroidea ✅
-- **Grasa parda/blanca:** eleva aún más la ya alta tasa metabólica de la grasa parda e induce el "pardeamiento" (beiging) de la grasa blanca (más mitocondrias, más desacoplamiento; 🟢 demostrado sobre todo en roedores).
-- **Neuronas:** diferenciación de células madre en neuronas, sinaptogénesis (formación de sinapsis) y mielinización (la vaina que aumenta la velocidad de la señal); todo depende de la hormona tiroidea, lo que explica por qué la deficiencia tiroidea fetal es catastrófica e irreversible si no se trata ✅
+## Lo principal que hace la hormona tiroidea (la T3, la forma activa)
+- **Grasa:** activa directamente y con fuerza la quema de grasa (lipólisis); cada vez que sube la hormona tiroidea, suben las grasas libres en la sangre. ✅
+- **Grasa parda y blanca:** acelera todavía más la grasa parda (que ya quema mucha energía) y hace que la grasa blanca se vuelva "beige" (más mitocondrias, más energía que se va en calor; 🟢 demostrado sobre todo en roedores).
+- **Neuronas:** que las células madre se conviertan en neuronas, que se formen conexiones entre ellas (sinapsis) y que se forme su recubrimiento (la mielina, que hace más rápida la señal); todo depende de la hormona tiroidea. Por eso la falta de hormona tiroidea en el bebé es grave y permanente si no se trata. ✅
 
-## Correcciones clave para tener presentes
-- 🔴 Suponer que un bocio (tiroides visiblemente agrandada) revela si alguien es hiper- o hipotiroideo: puede aparecer con cualquier nivel hormonal, incluido el normal; siempre se necesitan valores de laboratorio reales, no solo una evaluación visual/física.
-- 🔴 Suponer que la enfermedad de Graves funciona como otras enfermedades autoinmunes (destruyendo tejido): de forma única *estimula* la tiroides en lugar de destruirla, y por eso produce hipertiroidismo en lugar de hipotiroidismo.
-- 🔴 Suponer que la T4 es la hormona tiroidea activa "principal" porque se produce en mucha mayor cantidad: la T3 es varias veces más activa (se une a los receptores con una fuerza unas 10–30 veces mayor; Wejaphikul 2019); la T4 funciona principalmente como reserva/precursor que los tejidos periféricos convierten según la demanda.
-- 🔴 Suponer que el horario de la medicación tiroidea no importa: un ensayo aleatorizado encontró que tomarla al acostarse daba una TSH modestamente mejor que por la mañana, sin diferencia en la calidad de vida (Bolk 2010).
+## Correcciones clave para recordar
+- 🔴 Pensar que un bocio (tiroides que se ve agrandada) dice si la tiroides va acelerada o lenta: puede darse con cualquier nivel de hormona, incluso normal; siempre hacen falta los análisis, no basta con verla o tocarla.
+- 🔴 Pensar que la enfermedad de Graves funciona como otras enfermedades autoinmunes (destruyendo tejido): es única porque *estimula* la tiroides en vez de destruirla, y por eso acelera la tiroides en vez de hacerla lenta.
+- 🔴 Pensar que la T4 es la hormona tiroidea "principal" porque se fabrica mucho más: la T3 es varias veces más activa (se pega a los receptores con una fuerza unas 10 a 30 veces mayor; Wejaphikul 2019). La T4 funciona sobre todo como reserva o materia prima que los tejidos convierten según lo que necesiten.
+- 🔴 Pensar que no importa a qué hora se toma la medicina de la tiroides: un estudio bien controlado encontró que tomarla al acostarse daba una TSH un poco mejor que tomarla en la mañana, sin diferencia en cómo se sentían las personas (Bolk 2010).
 
 ## Conclusión práctica
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dado que la enfermedad de Graves es una afección autoinmune que ESTIMULA la tiroides en lugar de destruirla, ¿por qué importa esto para interpretar correctamente un resultado de laboratorio de hipertiroidismo?**
-A. No importa; todos los trastornos tiroideos se diagnostican y tratan igual, sin importar la causa subyacente
-B. \* Reconocer que el hipertiroidismo por Graves proviene de anticuerpos que imitan a la TSH (no de un daño glandular) explica por qué la TSH está suprimida (por la retroalimentación negativa apropiada ante el exceso de T3 impulsado por los anticuerpos) mientras la T3 sigue alta; esto lo clasifica correctamente como hipertiroidismo primario según la tabla diagnóstica y explica los rasgos únicos de Graves (exoftalmos, dermopatía) que un hipertiroidismo de otra causa no produciría
-C. La enfermedad de Graves y la de Hashimoto son la misma afección con nombres distintos
-*Por qué B: es la cadena lógica directa que construye la clase; entender el mecanismo (imitación por anticuerpos) es lo que hace que la clasificación en la tabla y el conjunto único de síntomas tengan sentido juntos.*
+**1. Si la enfermedad de Graves es una enfermedad autoinmune que ESTIMULA la tiroides en vez de destruirla, ¿por qué importa eso para leer bien un análisis de tiroides acelerada?**
+A. No importa; todos los problemas de tiroides se diagnostican y tratan igual, sin importar la causa
+B. \* Saber que en Graves la tiroides se acelera por anticuerpos que se hacen pasar por TSH (no por daño a la glándula) explica por qué la TSH sale baja (la retroalimentación negativa normal ante el exceso de T3 que provocan los anticuerpos) mientras la T3 sigue alta. Eso la clasifica bien como hipertiroidismo primario según la tabla, y explica las señales propias de Graves (ojos saltones, piel de naranja) que otra causa no daría
+C. La enfermedad de Graves y la de Hashimoto son lo mismo con dos nombres
+*Por qué B: es la cadena lógica que arma la clase; entender cómo funciona (anticuerpos que imitan a la TSH) es lo que hace que la tabla y las señales propias tengan sentido juntas.*
 
-**2. Dada la conexión de comorbilidad de 20 veces entre Hashimoto y la celiaquía, ¿qué sugeriría esto como un paso diagnóstico razonable si un panel tiroideo futuro mostrara resultados de hipotiroidismo?**
-A. No se justificaría ninguna prueba adicional; el hipotiroidismo debería tratarse de forma aislada sin importar la causa
-B. \* Dada la fuerte comorbilidad señalada, si un panel futuro mostrara resultados de hipotiroidismo (en particular con anticuerpos anti-TPO elevados que sugieran específicamente Hashimoto), sería razonable hablar con un médico sobre un tamizaje de celiaquía/sensibilidad al gluten, dada la frecuencia con que estas afecciones coexisten
-C. La enfermedad celíaca causa directamente una baja ingesta de yodo, y por eso ambas afecciones están conectadas
-*Por qué B: es una implicación diagnóstica real y accionable de la estadística de comorbilidad específica citada; no es una suposición de que el gluten sea intrínsecamente dañino, sino un paso razonable dado el patrón clínico señalado.*
+**2. Con la relación de 20 veces entre Hashimoto y la enfermedad celíaca que se menciona, ¿qué paso sería razonable si un análisis de tiroides futuro saliera con tiroides lenta?**
+A. No haría falta ninguna otra prueba; la tiroides lenta se trata sola, sin importar la causa
+B. \* Por esa relación tan fuerte, si un análisis futuro mostrara tiroides lenta (sobre todo con anticuerpos anti-TPO altos, que apuntan a Hashimoto), sería razonable hablar con el médico sobre hacerse pruebas de enfermedad celíaca o sensibilidad al gluten, ya que estas condiciones aparecen juntas con frecuencia
+C. La enfermedad celíaca hace que se coma poco yodo, y por eso las dos están conectadas
+*Por qué B: es una consecuencia práctica de la cifra que se citó; no es suponer que el gluten sea malo para todos, sino un paso razonable por el patrón que se describe.*
 
-**3. Dado que la T4 se produce en una cantidad 20 veces mayor que la T3, pero la T3 es \~100 veces más activa biológicamente, ¿qué sugiere esto sobre el papel funcional real de la T4 en el cuerpo?**
-A. La T4 es un subproducto metabólicamente inútil sin ninguna función real
-B. \* La T4 funciona principalmente como una reserva/precursor circulante que los tejidos periféricos (músculo, grasa, hígado, etc.) pueden convertir en T3 activa según la demanda y de forma local, lo que explica por qué se fabrica en una cantidad tan desproporcionada respecto a su propia actividad directa
-C. La T4 y la T3 son funcionalmente idénticas y la diferencia de cantidad es irrelevante
-*Por qué B: esto replantea la proporción de producción de 20:1 como un diseño intencional (un sistema de activación distribuido a nivel de tejido) en lugar de una paradoja o una ineficiencia; explica directamente por qué importa medir la T4 en sangre aunque la T4 en sí sea apenas activa.*
+**3. Si la T4 se fabrica 20 veces más que la T3, pero la T3 es unas 100 veces más activa, ¿qué nos dice eso sobre el papel real de la T4 en el cuerpo?**
+A. La T4 es un desecho del metabolismo que no sirve para nada
+B. \* La T4 funciona sobre todo como una reserva que circula en la sangre y que los tejidos (músculo, grasa, hígado, etc.) pueden convertir en T3 activa ahí mismo, según lo que necesiten. Eso explica por qué se fabrica tanta en comparación con lo poco que hace por sí sola
+C. La T4 y la T3 hacen exactamente lo mismo y la diferencia de cantidad no importa
+*Por qué B: así la proporción de 20 a 1 se entiende como un diseño a propósito (un sistema de activación repartido en los tejidos) y no como una paradoja o un desperdicio; también explica por qué importa medir la T4 en la sangre aunque por sí sola casi no actúe.*
 
-## Hilos abiertos
-- **Clase sobre la glándula suprarrenal** — nombrada explícitamente como el siguiente tema glandular específico; aplicará la misma lógica de la tabla terciario/secundario/primario al cortisol/ACTH/CRH.
-- La teoría evolutiva "costera" del Dr. Stephen Cunnane (el yoduro + los omega-3 impulsando la evolución del cerebro humano) — mencionada como un comentario al margen, etiquetada explícitamente como teórica, sin desarrollarse más en esta transcripción.
+## Temas abiertos
+- **Clase sobre las glándulas suprarrenales**: es la siguiente glándula; usará la misma tabla de los tres niveles con el cortisol, la ACTH y la CRH.
+- La teoría "costera" del Dr. Stephen Cunnane (el yoduro y los omega-3 habrían impulsado la evolución del cerebro humano): se menciona de pasada, él mismo dice que es teórica, y no se desarrolla más en esta clase.
 
-## Lo que se omitió deliberadamente (autoauditoría)
-- Comentarios personales: la anécdota de Bikman sobre su propia biopsia de grasa (sus estudiantes le extrajeron grasa del abdomen), su chiste sobre Canadá/Jordan Peterson, el estilo narrativo extendido de las viñetas clínicas
-- El caso del hipertiroidismo estacional por la hamburguesa se condensó a sus datos clave en lugar de reproducirse como una narración completa
-- Contenido ya expuesto en los Cap. 1–2: el mecanismo general de los GPCR (solo mencionado aplicado al receptor de TSH), el principio general de hormona unida/libre (solo mencionado aplicado específicamente a la globulina fijadora de tiroxina, añadiendo como detalle genuinamente nuevo el desglose de proteínas transportadoras 80/10/10)
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: la anécdota de Bikman sobre su propia biopsia de grasa (sus estudiantes le sacaron grasa de la panza), su chiste sobre Canadá y Jordan Peterson, y la forma larga de contar los casos clínicos.
+- El caso de la tiroides acelerada por la carne molida se resumió a sus datos clave, en vez de contarse completo.
+- Lo que ya se vio en los Cap. 1–2: cómo funcionan los receptores GPCR en general (aquí solo se menciona para el receptor de TSH) y la idea general de hormona pegada y suelta (aquí solo se aplica a la proteína que transporta la tiroxina, añadiendo como dato nuevo el reparto 80/10/10 entre las proteínas transportadoras).
 
 ---
 **Referencias:**
