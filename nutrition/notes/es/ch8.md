@@ -1,139 +1,139 @@
 # Lugavere — Introducción a la nutrición, Cap. 8: Dominio del microbioma
 
-*Plantea los microbiomas oral e intestinal como socios coevolucionados a los que alimentas (diversidad de fibra, almidón resistente, alimentos fermentados), proteges (enjuague bucal, antibióticos, aditivos) y apoyas (comer despacio y relajado), y cierra con las selecciones de suplementos de Lugavere.*
+*Presenta las bacterias de la boca y del intestino (el microbioma) como compañeras que se formaron junto con nosotros, a las que hay que alimentar (fibras variadas, almidón resistente, comida fermentada), cuidar (enjuague bucal, antibióticos, aditivos) y ayudar (comer despacio y tranquilo), y termina con los suplementos que escoge Lugavere.*
 
-*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 8 (transcripción). Lección final de la serie de 8 partes; retoma hilos de capítulos anteriores (nitratos en las hojas verdes, fibra, HCl suplementario, la vitamina D como hormona) en lugar de introducir un marco completamente nuevo.*
+*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 8 (transcripción). Última lección de la serie de 8 partes; retoma temas de capítulos anteriores (los nitratos de las hojas verdes, la fibra, el ácido del estómago en suplemento, la vitamina D como hormona) en vez de traer una idea totalmente nueva.*
 
 ## Por qué importa
-Esta lección explica cómo los alimentos se convierten en fisiología: las bacterias de la boca transforman el nitrato de la dieta en el precursor del óxido nítrico, las bacterias del colon transforman la fibra en butirato y otros posbióticos, y el estado nervioso en el que comes decide cuánto aprovechas realmente de la comida. La mayoría de las afirmaciones aquí combinan mecanismo y evidencia observacional, y Lugavere admite con franqueza que el campo "todavía está en la edad oscura".
+Esta lección explica cómo la comida se vuelve trabajo del cuerpo: las bacterias de la boca convierten el nitrato de la comida en la materia prima del óxido nítrico, las bacterias del colon convierten la fibra en butirato y otras sustancias útiles, y el estado de los nervios con el que comes decide cuánto aprovechas de verdad de la comida. Casi todo lo que se dice aquí junta cómo funciona con pruebas de observación, y Lugavere acepta con franqueza que el tema "todavía está en la edad oscura".
 
-## El marco central — Un universo de microbios coevolucionado
-- El **microbioma** = bacterias, virus y hongos (la parte fúngica es el **micobioma**). Los microbios viven por todo el cuerpo, incluidos lugares que antes se creían estériles (tejido mamario, páncreas). ✅
-- Tres microbiomas en los que puedes influir: **oral, intestinal, cutáneo**. Para la salud sistémica se enfoca en el oral y el intestinal; regla práctica para la piel: no te pongas en la piel lo que no considerarías ingerir. ✅
-- **Genes:** después del Proyecto Genoma Humano, el genoma humano pareció rudimentario; los genes microbianos que portamos superan a los nuestros en aproximadamente **10 a 100 a 1**, así que les delegamos trabajo (convertir nitrato, fermentar fibra). ✅ según lo afirma Lugavere. 🟢 Verificación de evidencia: el primer catálogo de genes intestinales encontró unas 150 veces más genes microbianos que genes humanos (Qin 2010), así que su rango es razonable; pero si se cuentan células, bacterias y células humanas están en una proporción cercana a 1:1, no la vieja cifra de 10:1 (Sender 2016).
-- Regla central: **todo lo que comes o consumes cambia tu microbioma**, y todavía no podemos decir si cada cambio es bueno o malo. Así que: prioriza los alimentos enteros y ten cautela con los compuestos sintéticos fuera de la matriz alimentaria. ✅
+## La idea central — un mundo de microbios que se formó junto con nosotros
+- El **microbioma** = bacterias, virus y hongos (la parte de hongos es el **micobioma**). Los microbios viven por todo el cuerpo, hasta en lugares que antes se creían limpios de ellos (el tejido del pecho, el páncreas). ✅
+- Tres microbiomas en los que puedes influir: **boca, intestino, piel**. Para la salud de todo el cuerpo se fija en la boca y el intestino; regla práctica para la piel: no te pongas en la piel lo que no te comerías. ✅
+- **Genes:** después del Proyecto del Genoma Humano, los genes humanos parecieron poca cosa; los genes de los microbios que traemos les ganan a los nuestros más o menos **de 10 a 100 a 1**, así que les dejamos trabajo (convertir nitrato, fermentar fibra). ✅ según lo dice Lugavere. 🟢 Revisión de la evidencia: la primera lista de genes del intestino encontró unas 150 veces más genes de microbios que genes humanos (Qin 2010), así que su rango tiene sentido; pero si se cuentan células, las bacterias y las células humanas están casi 1 a 1, no la vieja cifra de 10 a 1 (Sender 2016).
+- Regla central: **todo lo que comes o tomas cambia tu microbioma**, y todavía no podemos decir si cada cambio es bueno o malo. Así que: da prioridad a la comida entera y ten cuidado con las sustancias de fábrica fuera de la matriz del alimento. ✅
 
-## Por qué todo ocurre en el colon
+## Por qué todo pasa en el colon
 
-| Segmento | Descripción en la lección | Papel microbiano |
+| Parte | Cómo se describe en la lección | Qué hacen los microbios |
 | --- | --- | --- |
-| Estómago | Volátil, ácido clorhídrico, hostil | Pocas bacterias |
-| Intestino delgado | Absorción activa de proteínas, azúcares y grasas; "donde se alimenta el huésped" | No es el principal sitio microbiano |
-| Intestino grueso (colon) | "El Miami del tracto gastrointestinal" — templado, amigable para las bacterias | La mayor parte del microbioma intestinal |
+| Estómago | Cambiante, con ácido clorhídrico, hostil | Pocas bacterias |
+| Intestino delgado | Absorbe proteínas, azúcares y grasas; "donde come el dueño de la casa" | No es el lugar principal de los microbios |
+| Intestino grueso (colon) | "El Miami del tubo digestivo" — templado, a gusto para las bacterias | Casi todo el microbioma del intestino |
 
-- La luz intestinal está técnicamente *fuera* del cuerpo hasta que algo se absorbe y, extendida, cubriría aproximadamente la superficie de un piso, mucho más que la piel (🟢 se ha medido en unos 32 m², cerca de media cancha de bádminton, no la cancha de tenis de los libros de texto antiguos; Helander 2014). Así que el intestino es la **mayor interfaz con el entorno** y el sistema inmunitario concentra ahí su vigilancia. ✅
-- La metáfora de Lugavere: el microbioma intestinal es un **campo de entrenamiento para el sistema inmunitario**. La autoinmunidad y las alergias se describen como si tuvieran la disbiosis intestinal (más la predisposición genética) como presunta causa de raíz. 🟡 Se plantea como "se cree que", no como algo establecido.
-- Lo que obtenemos: vitaminas y **ácidos grasos de cadena corta como el butirato** (antiinflamatorio). ✅
+- Lo de adentro del intestino está, en sentido técnico, *fuera* del cuerpo hasta que algo se absorbe y, extendido, taparía más o menos el piso de un cuarto, mucho más que la piel (🟢 se ha medido en unos 32 m², cerca de media cancha de bádminton, no la cancha de tenis de los libros viejos; Helander 2014). Así que el intestino es **el lugar donde más tocamos el mundo de fuera** y las defensas vigilan sobre todo ahí. ✅
+- La comparación de Lugavere: el microbioma del intestino es **un campo de entrenamiento para las defensas**. Las enfermedades autoinmunes y las alergias se describen como si tuvieran el desorden de las bacterias del intestino (más los genes) como posible causa de fondo. 🟡 Se dice como "se cree que", no como algo probado.
+- Lo que sacamos: vitaminas y **ácidos grasos de cadena corta como el butirato** (baja la inflamación). ✅
 
-## El microbioma oral — El vínculo entre nitrato y óxido nítrico
-- Las hojas verdes (arúgula, kale) y el betabel son ricos en **nitrato**. Los humanos **carecemos de las enzimas para convertir nitrato en nitrito**; las bacterias orales lo hacen, y el nitrito alimenta la **vía del óxido nítrico**. ✅
-- **Enjuague bucal antiséptico:** quienes lo usan con frecuencia muestran mayor riesgo de hipertensión (un estudio: **el doble**) y alrededor de **50% más riesgo de diabetes tipo 2** (el óxido nítrico también interviene en la señalización de la insulina). 🟡 Lugavere dice claramente que existen pocos estudios y que "se necesita más investigación"; son asociaciones observacionales, no prueba de causalidad. Estudios encontrados: en una cohorte de adultos con sobrepeso en Puerto Rico, usar enjuague bucal dos o más veces al día se asoció con 85% más riesgo de hipertensión (Joshipura 2020) y 55% más riesgo de prediabetes o diabetes (Joshipura 2017).
-- Su práctica personal: nada de enjuague bucal antiséptico salvo riesgo de infección (rechaza el Listerine en el dentista), y evita la pasta dental con flúor después de hablar con un experto en óxido nítrico. 🟡 Elección personal y razonamiento basado en una conversación con un experto, no una recomendación respaldada por datos en la lección. Verificación de evidencia: la pasta dental con flúor reduce claramente las caries en ensayos aleatorizados (Walsh 2019); dejarla cambia un beneficio comprobado por uno teórico. Para la salud bucal enfatiza: evitar alimentos pegajosos y fácilmente fermentables (cariogénicos), usar hilo dental con regularidad y luego cepillarse.
-- Edulcorantes artificiales: cierta evidencia de que alteran el microbioma intestinal, dirección desconocida; un efecto oral es plausible, pero "el jurado aún no decide". 🟡 (La sacarina y otros edulcorantes alteraron las bacterias intestinales y causaron intolerancia a la glucosa en ratones, con cambios similares en algunos voluntarios sanos; Suez 2014.)
+## Las bacterias de la boca — la conexión entre nitrato y óxido nítrico
+- Las hojas verdes (arúgula, kale) y el betabel tienen mucho **nitrato**. Los humanos **no tenemos las enzimas para convertir el nitrato en nitrito**; las bacterias de la boca lo hacen, y el nitrito alimenta el **camino del óxido nítrico** (que abre los vasos). ✅
+- **Enjuague bucal que mata bacterias:** los que lo usan seguido tienen más riesgo de presión alta (un estudio: **el doble**) y cerca de **50% más riesgo de diabetes tipo 2** (el óxido nítrico también ayuda a que funcione la insulina). 🟡 Lugavere dice claro que hay pocos estudios y que "falta investigar más"; son relaciones de observación, no prueba de que una cosa cause la otra. Estudios encontrados: en un grupo de adultos con sobrepeso en Puerto Rico, usar enjuague bucal dos o más veces al día fue junto con 85% más riesgo de presión alta (Joshipura 2020) y 55% más riesgo de prediabetes o diabetes (Joshipura 2017).
+- Lo que él hace: nada de enjuague bucal que mata bacterias salvo riesgo de infección (dice que no al Listerine en el dentista), y no usa pasta de dientes con flúor después de platicar con un experto en óxido nítrico. 🟡 Decisión personal y razonamiento basado en una plática con un experto, no una recomendación con datos en la lección. Revisión de la evidencia: la pasta de dientes con flúor baja claramente las caries en estudios al azar (Walsh 2019); dejarla cambia algo bueno comprobado por algo bueno en teoría. Para la salud de la boca insiste en: no comer cosas pegajosas que se fermentan fácil (que causan caries), usar hilo dental seguido y luego lavarse los dientes.
+- Endulzantes artificiales: algunas pruebas de que cambian las bacterias del intestino, no se sabe hacia dónde; que hagan algo en la boca tiene sentido, pero "todavía no se sabe". 🟡 (La sacarina y otros endulzantes cambiaron las bacterias del intestino y causaron problemas para manejar el azúcar en ratones, con cambios parecidos en algunos voluntarios sanos; Suez 2014.)
 
-## Manual del intestino — Alimentar, proteger, ir con calma
-- **Diversidad de fibras vegetales:** "lo que alimentas, lo crías". Una gran ensalada de kale diaria selecciona a los amantes del kale; piensa en una ciudad que se beneficia de "una pluralidad de voces". ✅
-- **Alimentos fermentados:** lácteos fermentados, chucrut crudo, pepinillos, kimchi, natto, incluso el chocolate oscuro; parecen promover la diversidad y aumentar la tolerancia a la fibra. ✅ (En un ensayo aleatorizado de 10 semanas, una dieta alta en alimentos fermentados aumentó la diversidad del microbioma y bajó marcadores inflamatorios, mientras que una dieta alta en fibra no aumentó la diversidad; Wastyk 2021.)
-- **Evitar salvo que sea médicamente necesario:** antibióticos de amplio espectro (dice que los médicos a veces los recetan porque los pacientes esperan medicamentos). ✅
-- **Orgánico cuando comes la cáscara o la piel** (manzanas, hojas verdes, frutos rojos) para reducir la exposición a herbicidas y pesticidas; dice explícitamente que no es un purista de lo orgánico y que come frutos rojos no orgánicos en restaurantes. El glifosato podría afectar vías bacterianas intestinales; el efecto a largo plazo es desconocido. 🟡
-- **Emulsionantes sintéticos:** polisorbato 80 y carboximetilcelulosa, presentes en bebidas vegetales de frutos secos y helados; investigación preliminar, sobre todo en animales, sugiere inflamación intestinal. 🟡 "La dosis hace el veneno." Un pequeño ensayo aleatorizado de alimentación en personas sanas encontró que la carboximetilcelulosa redujo la diversidad del microbioma y los ácidos grasos de cadena corta (Chassaing 2022).
-- **Aumenta la fibra poco a poco.** La hinchazón y los gases tras un salto repentino significan que las bacterias aún no se han adaptado, no que la fibra sea el enemigo. ✅
+## Manual del intestino — alimentar, cuidar, ir con calma
+- **Fibras de muchas plantas distintas:** "lo que alimentas, lo crías". Una ensalada grande de kale cada día escoge a las bacterias a las que les gusta el kale; piensa en una ciudad a la que le va bien con "muchas voces". ✅
+- **Comida fermentada:** lácteos fermentados, chucrut crudo, pepinillos, kimchi, natto, hasta el chocolate oscuro; parecen ayudar a que haya más variedad de bacterias y a aguantar mejor la fibra. ✅ (En un estudio al azar de 10 semanas, una dieta con mucha comida fermentada subió la variedad del microbioma y bajó señales de inflamación, mientras que una dieta con mucha fibra no subió la variedad; Wastyk 2021.)
+- **Evitar salvo que el médico diga que hacen falta:** antibióticos que matan muchos tipos de bacterias (dice que los médicos a veces los recetan porque los pacientes esperan medicina). ✅
+- **Orgánico cuando te comes la cáscara o la piel** (manzanas, hojas verdes, moras) para tocar menos herbicidas y pesticidas; dice claro que no es fanático de lo orgánico y que come moras no orgánicas en restaurantes. El glifosato (un herbicida) podría afectar caminos de las bacterias del intestino; no se sabe el efecto a largo plazo. 🟡
+- **Emulsionantes de fábrica:** polisorbato 80 y carboximetilcelulosa, en las bebidas de nueces y los helados; investigación todavía temprana, casi toda en animales, hace pensar en inflamación del intestino. 🟡 "La dosis hace el veneno." Un estudio chico al azar en personas sanas encontró que la carboximetilcelulosa bajó la variedad del microbioma y los ácidos grasos de cadena corta (Chassaing 2022).
+- **Sube la fibra poco a poco.** La panza hinchada y los gases después de subirla de golpe quieren decir que las bacterias todavía no se acostumbran, no que la fibra sea el enemigo. ✅
 
 ## El mapa de la fibra
 
 | Tipo | Qué hace | Ejemplos de la lección |
 | --- | --- | --- |
-| Soluble | Las bacterias intestinales la fermentan y producen butirato, vitaminas y posbióticos (p. ej., urolitina A a partir de los polifenoles de la granada) | Avena, cáscara de psyllium, chía, legumbres |
-| Insoluble | "Fibra bruta": da volumen, mantiene el tránsito, ayuda a desprender células epiteliales muertas; más difícil de digerir | Arroz integral, fibra de cereales |
-| Almidón resistente | Almidón que escapa a la digestión en el intestino delgado y se fermenta en el colon; no aparece como fibra en las etiquetas | Plátanos verdes, mango verde, papa cocida y enfriada, arroz, pasta |
-| Viscosa (formadora de gel) | Un segundo eje de clasificación; mejora la glucosa en sangre y baja el LDL | Cáscara de psyllium, avena |
+| Soluble (se disuelve en agua) | Las bacterias del intestino la fermentan y hacen butirato, vitaminas y otras sustancias útiles (por ejemplo, urolitina A de los polifenoles de la granada) | Avena, cáscara de psyllium, chía, frijoles y lentejas |
+| Insoluble (no se disuelve) | "Fibra dura": da volumen, mantiene el paso, ayuda a soltar células muertas de la pared del intestino; cuesta más digerirla | Arroz integral, fibra de cereales |
+| Almidón resistente | Almidón que no se digiere en el intestino delgado y se fermenta en el colon; no sale como fibra en las etiquetas | Plátanos verdes, mango verde, papa cocida y enfriada, arroz, pasta |
+| Espesa (hace gel) | Otra forma de clasificarla; mejora el azúcar en la sangre y baja el LDL | Cáscara de psyllium, avena |
 
-- Los alimentos contienen una mezcla de fibra soluble e insoluble, así que clasificar cada alimento en un solo grupo es "algo irrelevante". ✅
-- **Truco de cocinar y enfriar:** cocinar la papa libera almidón digerible; enfriarla a temperatura ambiente o en el refrigerador crea **almidón resistente retrogradado**, que puede reducir el impacto glucémico y alimentar a las bacterias intestinales. La papa blanca es la mejor fuente; el efecto es menor en el camote; también funciona con el arroz (no le preocupa el arroz del sushi) y la pasta. ✅ (mecanismo según se describe; la magnitud de la reducción glucémica no se cuantifica en la lección)
-- Demasiado almidón resistente demasiado rápido causa hinchazón y gases ("un frenesí alimenticio"), así que auméntalo gradualmente. ✅
+- La comida tiene una mezcla de fibra soluble e insoluble, así que poner cada comida en un solo grupo "casi no importa". ✅
+- **El truco de cocer y enfriar:** cocer la papa suelta almidón que se digiere; enfriarla a temperatura ambiente o en el refrigerador crea **almidón resistente "vuelto a armar"**, que puede bajar el golpe de azúcar y alimentar a las bacterias del intestino. La papa blanca es la mejor fuente; en el camote el efecto es menor; también funciona con el arroz (no le preocupa el arroz del sushi) y la pasta. ✅ (cómo funciona según se describe; no se dice de cuánto es la bajada de azúcar)
+- Demasiado almidón resistente demasiado rápido da panza hinchada y gases ("un banquete de bacterias"), así que súbelo poco a poco. ✅
 
-## Fibra viscosa y colesterol — El mecanismo de los ácidos biliares
-- Los ácidos biliares se **fabrican a partir del colesterol** en el hígado, se almacenan en la vesícula biliar, se liberan al inicio del intestino delgado para emulsionar la grasa y normalmente se **reabsorben** cerca del final del intestino delgado. ✅
-- El psyllium y la avena **atrapan los ácidos biliares**, de modo que se excretan; entonces el hígado **toma colesterol de la circulación** para fabricar reemplazos. ✅
-- Cifra dada: hasta **~20% de reducción del colesterol total** con psyllium regular a **unos 10 g/día** (admite que es una dosis diaria grande). 🟡 Cifra de la lección, "hasta", colesterol total (no ApoB). Verificación de evidencia: un metaanálisis de 28 ensayos (mediana de unos 10 g/día) encontró que el colesterol LDL bajó unos 0.33 mmol/L (unos 13 mg/dL, cerca de 10% en niveles típicos), y también bajaron el colesterol no HDL y la apoB (Jovanovski 2018); así que el 20% es el extremo del rango, no el efecto habitual.
-- El **betaglucano de la avena** también es inmunomodulador; la afirmación sobre el colesterol en los empaques de avena es "legítima". ✅ (Metaanálisis: el betaglucano de la avena baja el LDL, el colesterol no HDL y la apoB; Ho 2016.)
-- Advertencia de Lugavere: no está diciendo que el LDL sea malo ni que todos deban bajarlo al mínimo.
+## La fibra espesa y el colesterol — lo de los ácidos de la bilis
+- Los ácidos de la bilis se **hacen con colesterol** en el hígado, se guardan en la vesícula, salen al principio del intestino delgado para deshacer la grasa y normalmente **se vuelven a absorber** cerca del final del intestino delgado. ✅
+- El psyllium y la avena **atrapan los ácidos de la bilis**, y así salen en el excremento; entonces el hígado **toma colesterol de la sangre** para hacer nuevos. ✅
+- La cifra que da: hasta **~20% menos colesterol total** con psyllium seguido a **unos 10 g al día** (acepta que es mucho al día). 🟡 La cifra de la lección, "hasta", colesterol total (no ApoB). Revisión de la evidencia: un análisis de 28 estudios (en medio, unos 10 g al día) encontró que el colesterol LDL bajó unos 0.33 mmol/L (unos 13 mg/dL, cerca de 10% en niveles comunes), y también bajaron el colesterol no HDL y la apoB (Jovanovski 2018); así que el 20% es lo más alto del rango, no lo normal.
+- El **betaglucano de la avena** también ayuda a las defensas; lo que dicen los empaques de avena sobre el colesterol "es cierto". ✅ (Análisis de muchos estudios: el betaglucano de la avena baja el LDL, el colesterol no HDL y la apoB; Ho 2016.)
+- Aviso de Lugavere: no está diciendo que el LDL sea malo ni que todos lo tengan que bajar al mínimo.
 
 ## La digestión empieza cuando te sientas
-- **Fase cefálica:** ver, oler y anticipar la comida activa los jugos digestivos; **alrededor del 20% de la secreción total de ácido** ocurre antes de que la comida llegue al estómago. ✅
-- Comer a la carrera se asocia con hinchazón, diarrea y menor aprovechamiento de nutrientes; la receta es hacer unas cuantas respiraciones profundas (respirando por la nariz), mirar y oler la comida, y activar el modo **parasimpático de "descanso y digestión"**. La biología de lucha o huida "espera una amenaza", no una comida. ✅ (mecanismo coherente con la lección; no se citan estudios)
-- **Mastica despacio:** el sulforafano se crea cuando se mastican crucíferas crudas y se dañan sus paredes celulares; la alicina se forma al masticar ajo crudo; comer más despacio también le da al cerebro tiempo para registrar la saciedad. ✅
-- Ayuda anecdótica de Lugavere: **betaína HCl** o enzimas digestivas, sobre todo al comer a la carrera o para personas que toman medicamentos que bloquean el ácido. 🟡 "No hay mucha evidencia"; es su propia experiencia.
+- **La fase de la cabeza (cefálica):** ver, oler y esperar la comida prende los jugos de la digestión; **cerca del 20% de todo el ácido** sale antes de que la comida llegue al estómago. ✅
+- Comer a las carreras va junto con panza hinchada, diarrea y aprovechar menos los nutrientes; la receta es respirar hondo unas cuantas veces (por la nariz), mirar y oler la comida, y prender el modo **de "descansar y digerir"** (parasimpático). El cuerpo en modo pelear o huir "espera una amenaza", no una comida. ✅ (cuadra con la lección; no se citan estudios)
+- **Mastica despacio:** el sulforafano se forma cuando se mastican verduras crudas de la familia de la col y se rompen sus paredes; la alicina se forma al masticar ajo crudo; comer más despacio también le da al cerebro tiempo de notar que ya está lleno. ✅
+- Ayuda de Lugavere por su experiencia: **betaína HCl** (ácido del estómago en suplemento) o enzimas digestivas, sobre todo al comer a las carreras o para personas que toman medicinas que bloquean el ácido. 🟡 "No hay muchas pruebas"; es su propia experiencia.
 
-## Notas de Lugavere sobre suplementos
+## Lo que dice Lugavere de los suplementos
 
 | Suplemento | Lo que dice | Señal |
 | --- | --- | --- |
-| Magnesio | Entre el 50 y el 60% de las personas no obtiene suficiente; los mejores alimentos son las hojas verdes oscuras, las almendras y el chocolate oscuro; los análisis de sangre son poco fiables porque la mayor parte está en el hueso; él toma **glicinato** a diario; ayuda a prevenir la migraña; ayuda a activar la vitamina D, así que lo probaría antes que la vitamina D si esta está baja (NIH ODS: el 48% de los estadounidenses consume menos del requerimiento promedio, y entre el 50 y el 60% del magnesio del cuerpo está en el hueso) | 🟡 elección personal |
-| Vitamina D | Una hormona que regula alrededor del **5% del genoma**; evidencia de que calma un sistema inmunitario hiperactivo (autoinmunidad); **2,000–5,000 UI/día** es un buen punto de partida | 🟡 "es difícil excederse" es afirmación suya. Verificación de evidencia: el límite superior para adultos es de 4,000 UI/día (NIH ODS), y la Endocrine Society recomienda no suplementar de rutina por encima de la ingesta recomendada en adultos sanos menores de 75 años (Demay 2024). La proporción del genoma que suele citarse es de cerca del 3% (Bouillon 2008). En el ensayo VITAL, 2,000 UI/día redujeron cerca de 22% las enfermedades autoinmunes nuevas (Hahn 2022). |
-| Aceite de pescado | Más útil si no comes pescado; la evidencia se centra en el aceite de pescado más que en el de kril o de algas; compra de un fabricante confiable y busca la certificación **IFOS** porque las grasas se oxidan fácilmente | 🟡 |
-| Creatina monohidratada | Segura y barata; atrae agua al músculo; ayuda al levantamiento de pesas; evidencia emergente para el cerebro y la salud mental; consulta con un médico si tienes algún problema de salud | ✅ la forma con mejor evidencia según la lección |
-| Proteína de suero (whey) | Él toma uno o dos batidos al día; saciante; los aumentos graduales de proteína modifican la composición corporal | 🟡 práctica personal |
+| Magnesio | Del 50 al 60% de las personas no come suficiente; las mejores comidas son las hojas verdes oscuras, las almendras y el chocolate oscuro; los análisis de sangre no sirven mucho porque casi todo está en el hueso; él toma **glicinato** cada día; ayuda a prevenir la migraña; ayuda a prender la vitamina D, así que lo probaría antes que la vitamina D si esta sale baja (NIH ODS: el 48% de los estadounidenses come menos de lo que se necesita en promedio, y del 50 al 60% del magnesio del cuerpo está en el hueso) | 🟡 decisión personal |
+| Vitamina D | Una hormona que controla cerca del **5% de los genes**; pruebas de que calma unas defensas que trabajan de más (enfermedades autoinmunes); **2,000–5,000 UI al día** es un buen punto de partida | 🟡 lo de "es difícil pasarse" lo dice él. Revisión de la evidencia: el límite de arriba para adultos es de 4,000 UI al día (NIH ODS), y la Endocrine Society recomienda no dar suplemento de rutina arriba de lo recomendado en adultos sanos de menos de 75 años (Demay 2024). La parte de los genes que se suele citar es cerca del 3% (Bouillon 2008). En el estudio VITAL, 2,000 UI al día bajaron cerca de 22% las enfermedades autoinmunes nuevas (Hahn 2022). |
+| Aceite de pescado | Sirve más si no comes pescado; las pruebas son sobre todo del aceite de pescado más que del de kril o de algas; compra de un fabricante de confianza y busca el sello **IFOS** porque las grasas se echan a perder fácil | 🟡 |
+| Creatina monohidratada | Segura y barata; mete agua al músculo; ayuda a levantar pesas; pruebas nuevas para el cerebro y la salud mental; pregúntale al médico si tienes algún problema de salud | ✅ la forma con mejores pruebas según la lección |
+| Proteína de suero (whey) | Él toma uno o dos licuados al día; llena; subir la proteína poco a poco cambia la proporción de músculo y grasa | 🟡 lo que él hace |
 
-Repite que "no cree mucho en las soluciones universales".
+Repite que "no cree mucho en las soluciones que sirven para todos".
 
-## Frases clave y datos citables (Lección 8)
+## Frases clave y datos para recordar (Lección 8)
 - **"Lo que alimentas, lo crías."**
-- **El intestino grueso es "el Miami del tracto gastrointestinal".**
-- **Microbioma intestinal = campo de entrenamiento para tu sistema inmunitario.**
-- **Los genes humanos son superados 10 a 100 a 1 por los genes de nuestros microbios** (afirmación de la lección).
-- **Los humanos no pueden convertir nitrato en nitrito; las bacterias orales lo hacen.** Si las eliminas, la ensalada rinde menos.
-- **Cocina y enfría una papa y parte de su almidón vuelve a ser resistente.**
-- **Alrededor del 20% de la secreción de ácido ocurre antes de que la comida entre al estómago.**
+- **El intestino grueso es "el Miami del tubo digestivo".**
+- **El microbioma del intestino = campo de entrenamiento para tus defensas.**
+- **Los genes de nuestros microbios les ganan a los genes humanos de 10 a 100 a 1** (lo que dice la lección).
+- **Los humanos no pueden convertir nitrato en nitrito; las bacterias de la boca sí.** Si las quitas, la ensalada rinde menos.
+- **Cuece y enfría una papa y parte de su almidón vuelve a ser resistente.**
+- **Cerca del 20% del ácido sale antes de que la comida entre al estómago.**
 - **El sulforafano no existe en la planta hasta que la masticas.**
 
 ## Correcciones clave para recordar
-- 🔴 "Las bacterias son malas": el reflejo de la teoría de los gérmenes está desactualizado para el microbioma; muchos microbios son socios simbióticos.
-- 🔴 "La digestión empieza al masticar": empieza en la fase cefálica, cuando te sientas, ves y hueles la comida.
-- 🔴 "Si la fibra me hincha, la fibra es el problema": indica un microbioma poco entrenado; aumenta poco a poco.
-- 🔴 "La fibra es fibra": la soluble, la insoluble, el almidón resistente y la viscosa cumplen funciones distintas.
-- 🔴 "Cocinar las papas solo aumenta su impacto glucémico": enfriarlas después de cocinarlas convierte parte de nuevo en almidón resistente.
-- 🔴 "Más enjuague bucal antiséptico es mejor higiene": el uso frecuente se asocia con mayor riesgo de hipertensión y diabetes (observacional, 🟡) y podría reducir los beneficios de los nitratos.
+- 🔴 "Las bacterias son malas": la reacción de "los gérmenes enferman" ya no sirve para el microbioma; muchos microbios son compañeros que nos ayudan.
+- 🔴 "La digestión empieza al masticar": empieza en la fase de la cabeza, cuando te sientas, ves y hueles la comida.
+- 🔴 "Si la fibra me hincha, la fibra es el problema": quiere decir que las bacterias no están acostumbradas; súbela poco a poco.
+- 🔴 "La fibra es fibra": la soluble, la insoluble, el almidón resistente y la espesa hacen cosas distintas.
+- 🔴 "Cocer las papas solo sube el golpe de azúcar": enfriarlas después de cocerlas vuelve parte de nuevo almidón resistente.
+- 🔴 "Más enjuague bucal que mata bacterias es mejor limpieza": usarlo seguido va junto con más riesgo de presión alta y diabetes (de observación, 🟡) y podría quitar lo bueno de los nitratos.
 
 ## Conclusión práctica
-Según Lugavere: rota muchas fibras vegetales distintas, incluye alimentos fermentados, añade fibra gradualmente, usa almidones cocidos y enfriados, y prioriza los alimentos enteros sobre los aditivos. Siéntate, respira y mastica despacio antes de las comidas. Trata el enjuague bucal, los antibióticos y los edulcorantes como decisiones, no como opciones por defecto. Los suplementos son opcionales e individuales; esta nota registra sus selecciones, no una prescripción.
+Según Lugavere: cambia entre muchas fibras de plantas distintas, come comida fermentada, sube la fibra poco a poco, usa almidones cocidos y enfriados, y da prioridad a la comida entera sobre los aditivos. Siéntate, respira y mastica despacio antes de comer. Ve el enjuague bucal, los antibióticos y los endulzantes como decisiones, no como algo de siempre. Los suplementos son opcionales y de cada quien; esta nota apunta lo que él escoge, no una receta.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Lugavere dice que los humanos no pueden convertir por sí solos el nitrato de la dieta en nitrito. Dado eso, ¿cuál es la consecuencia más probable de usar enjuague bucal antiséptico varias veces al día mientras comes hojas verdes y betabel ricos en nitrato?**
-A. El nitrato se absorbe más rápido porque hay menos competencia bacteriana
-B. El ácido del estómago se encarga de la conversión, así que nada cambia
-C. \* Las bacterias orales forman menos nitrito, así que los beneficios de las hojas verdes relacionados con el óxido nítrico podrían reducirse, y los datos observacionales vinculan el uso frecuente con mayor riesgo de hipertensión
-*Por qué C: las bacterias orales tienen las enzimas necesarias; la lección relaciona la reducción del óxido nítrico con la presión arterial y la señalización de la insulina, aunque señala que los datos en humanos son limitados y asociativos.*
+**1. Lugavere dice que los humanos no pueden convertir solos el nitrato de la comida en nitrito. Con eso, ¿qué es lo más probable si usas enjuague bucal que mata bacterias varias veces al día mientras comes hojas verdes y betabel con mucho nitrato?**
+A. El nitrato se absorbe más rápido porque hay menos bacterias compitiendo
+B. El ácido del estómago se encarga de convertirlo, así que nada cambia
+C. \* Las bacterias de la boca hacen menos nitrito, así que lo bueno de las hojas verdes que viene del óxido nítrico podría bajar, y los datos de observación unen usarlo seguido con más riesgo de presión alta
+*Por qué C: las bacterias de la boca tienen las enzimas que hacen falta; la lección une el menos óxido nítrico con la presión y con que funcione la insulina, aunque dice que los datos en personas son pocos y de relación.*
 
-**2. Según la explicación de Lugavere, la cáscara de psyllium y la avena bajan el colesterol circulante principalmente porque:**
-A. \* Se unen a los ácidos biliares para que se excreten, lo que lleva al hígado a tomar colesterol de la circulación para fabricar nuevos ácidos biliares
-B. Bloquean la absorción del colesterol matando bacterias intestinales
-C. Se convierten en butirato, que impide que el hígado fabrique colesterol
-*Por qué A: los ácidos biliares están hechos de colesterol y normalmente se reciclan; atraparlos obliga a sintetizar reemplazos. La cifra de la lección (hasta ~20% del colesterol total con ~10 g/día) se refiere al colesterol total, no a la ApoB.*
+**2. Según lo que explica Lugavere, la cáscara de psyllium y la avena bajan el colesterol de la sangre sobre todo porque:**
+A. \* Atrapan los ácidos de la bilis para que salgan, y eso hace que el hígado tome colesterol de la sangre para hacer nuevos ácidos de la bilis
+B. No dejan que se absorba el colesterol porque matan bacterias del intestino
+C. Se vuelven butirato, que no deja que el hígado haga colesterol
+*Por qué A: los ácidos de la bilis están hechos de colesterol y normalmente se reciclan; atraparlos obliga a hacer nuevos. La cifra de la lección (hasta ~20% del colesterol total con ~10 g al día) es del colesterol total, no de la ApoB.*
 
-**3. Quieres añadir más fibra y almidón resistente, pero un aumento repentino te deja hinchado y con gases. ¿Qué sugiere la lección que significa esto?**
-A. La fibra es intrínsecamente dañina y debe evitarse
-B. \* Tus bacterias intestinales todavía no están adaptadas a esa carga; aumenta gradualmente, varía las fuentes, y los alimentos fermentados pueden ayudar a la tolerancia
-C. Tienes una alergia alimentaria a las plantas
-*Por qué B: Lugavere dice que la hinchazón por un aumento repentino "no debería ocurrir" y refleja un microbioma poco entrenado, así que la solución es aumentar despacio hasta un punto cómodo.*
+**3. Quieres comer más fibra y almidón resistente, pero subirlos de golpe te deja con la panza hinchada y gases. ¿Qué sugiere la lección que quiere decir esto?**
+A. La fibra hace daño por sí sola y hay que evitarla
+B. \* Tus bacterias del intestino todavía no se acostumbran a esa cantidad; súbela poco a poco, cambia las fuentes, y la comida fermentada puede ayudar a aguantarla
+C. Tienes alergia a las plantas
+*Por qué B: Lugavere dice que la panza hinchada por subirla de golpe "no debería pasar" y que quiere decir que las bacterias no están acostumbradas, así que la solución es subir despacio hasta donde estés a gusto.*
 
-**4. ¿Qué afirmación de esta lección se etiqueta mejor como práctica personal o evidencia preliminar y no como un hecho establecido?**
-A. La digestión comienza antes de que la comida entre al estómago (fase cefálica)
-B. \* Evitar la pasta dental con flúor y usar betaína HCl, que se basan en su razonamiento personal y en anécdotas
-C. La fibra insoluble da volumen a las heces
-*Por qué B: dice explícitamente que "no hay mucha evidencia" para las enzimas digestivas y basa la decisión sobre el flúor en una conversación con un solo experto, mientras que A y C son fisiología estándar que presenta como tal.*
+**4. ¿Qué cosa de esta lección es mejor marcar como lo que él hace o pruebas tempranas y no como algo probado?**
+A. La digestión empieza antes de que la comida entre al estómago (fase de la cabeza)
+B. \* No usar pasta de dientes con flúor y usar betaína HCl, que se basan en su razonamiento personal y en su experiencia
+C. La fibra insoluble da volumen al excremento
+*Por qué B: dice claro que "no hay muchas pruebas" para las enzimas digestivas y basa lo del flúor en una plática con un solo experto, mientras que A y C son cosas normales del cuerpo que presenta como tales.*
 
 ## Temas abiertos
-- **Enjuague bucal y diabetes/hipertensión:** solo se citan un par de estudios (el doble de riesgo de hipertensión; 50% más riesgo de diabetes tipo 2); sin detalles de las citas en la transcripción. Encontrados: Joshipura 2020 (85% más riesgo de hipertensión) y Joshipura 2017 (55% más riesgo de prediabetes o diabetes), ambos de la misma cohorte.
-- **¿El psyllium o la avena bajan la ApoB** además del colesterol total? No se aborda en la lección; los metaanálisis muestran que ambos bajan la apoB de forma modesta (Jovanovski 2018; Ho 2016).
-- **Edulcorantes artificiales y el intestino:** dirección del efecto desconocida según Lugavere.
-- **Flúor y el microbioma oral:** una disyuntiva con la prevención de caries que la lección plantea pero no resuelve.
-- **Medición del estado de magnesio:** dice que los análisis de sangre son poco fiables; no se discuten alternativas.
+- **Enjuague bucal y diabetes/presión alta:** solo se citan un par de estudios (el doble de riesgo de presión alta; 50% más riesgo de diabetes tipo 2); sin detalles de las fuentes en la transcripción. Encontrados: Joshipura 2020 (85% más riesgo de presión alta) y Joshipura 2017 (55% más riesgo de prediabetes o diabetes), los dos del mismo grupo.
+- **¿El psyllium o la avena bajan la ApoB** además del colesterol total? No se ve en la lección; los análisis de muchos estudios muestran que los dos bajan un poco la apoB (Jovanovski 2018; Ho 2016).
+- **Endulzantes artificiales y el intestino:** no se sabe para qué lado va el efecto, según Lugavere.
+- **El flúor y las bacterias de la boca:** un cambio contra la prevención de caries que la lección plantea pero no resuelve.
+- **Cómo medir el magnesio:** dice que los análisis de sangre no sirven mucho; no se ven otras formas.
 
-## Lo que se omitió deliberadamente (autoauditoría)
-- Comentarios personales: su amor por el mango verde y las discusiones amistosas al respecto, el comentario sobre la ensalada de pasta, sus recetas de batidos de whey (stevia, vainilla, frutos rojos congelados).
-- Puntos repetidos: el énfasis en masticar despacio y en aumentar la fibra gradualmente se mencionó varias veces; se conservó una sola vez.
-- Ningún pasaje de la transcripción fue confuso, salvo pequeños errores tipográficos (p. ej., "nitrate to nitrate" se leyó como nitrato a nitrito; "karyogenic" se leyó como cariogénico).
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios personales: lo mucho que le gusta el mango verde y los pleitos amistosos por eso, el comentario sobre la ensalada de pasta, sus recetas de licuados de whey (stevia, vainilla, moras congeladas).
+- Puntos repetidos: lo de masticar despacio y subir la fibra poco a poco se dijo varias veces; se dejó una sola vez.
+- Ninguna parte de la transcripción fue confusa, salvo errores chicos de escritura (por ejemplo, "nitrate to nitrate" se leyó como nitrato a nitrito; "karyogenic" se leyó como cariogénico).
 
 ---
 **Referencias:**
