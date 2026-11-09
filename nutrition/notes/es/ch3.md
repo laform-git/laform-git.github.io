@@ -1,137 +1,137 @@
 # Lugavere — Introducción a la nutrición, Cap. 3: Estándares nutricionales
 
-*Cambia la unidad de análisis de la nutrición, de los nutrientes aislados a los alimentos integrales: define la dieta estándar estadounidense, los alimentos ultraprocesados (NOVA), el ensayo de saciedad de Hall 2019, los aceites de semillas, el azúcar añadido y la prueba de las "Cinco R" para la comida real.*
+*Cambia la forma de ver la nutrición, de los nutrientes sueltos a la comida entera: qué es la dieta típica de EE. UU., qué son los alimentos ultraprocesados (la clasificación NOVA), el estudio de Hall 2019 sobre qué tanto llena la comida, los aceites de semillas, el azúcar agregado y la prueba de las "Cinco R" para saber si es comida de verdad.*
 
-*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 3 (transcripción). Tercer capítulo de una serie de ocho (Fundamentos, Superestrellas de la saciedad, Estándares, Momento de ingesta, Dieta a la medida, Controversias, Alimentos geniales, Microbioma). Lugavere aclara desde el principio que no es médico; su perspectiva proviene de una década de trabajo en nutrición y de la retroalimentación de sus lectores, no de la práctica clínica. Las afirmaciones siguientes se le atribuyen a él, con 🟡 donde no tienen respaldo o son discutidas.*
+*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 3 (transcripción). Tercer capítulo de una serie de ocho (Fundamentos, Superestrellas de la saciedad, Estándares, A qué hora comer, Dieta a la medida, Controversias, Alimentos geniales, Bacterias del intestino). Lugavere aclara desde el principio que no es médico; lo que dice viene de diez años trabajando en nutrición y de lo que le cuentan sus lectores, no de atender pacientes. Lo de abajo es lo que él dice, con 🟡 donde no tiene apoyo o se discute.*
 
 ## Por qué importa
-Esta es la clase de los "estándares": establece la vara con la que el resto de la serie mide los alimentos. El cambio central es pasar del modelo antiguo (satanizar un nutriente de forma aislada: primero la grasa, luego la grasa saturada, luego los carbohidratos) al modelo nuevo (lo que importa es el alimento, su procesamiento y su matriz). Es una clase de conceptos y heurísticas más que de bioquímica.
+Esta es la clase de los "estándares": pone la vara con la que el resto de la serie mide la comida. El cambio central es pasar del modelo viejo (echarle la culpa a un nutriente suelto: primero la grasa, luego la grasa saturada, luego los carbohidratos) al modelo nuevo (lo que importa es la comida, qué tan procesada está y cómo está armada). Es una clase de ideas y reglas prácticas más que de química del cuerpo.
 
-## Modelo antiguo vs. modelo nuevo
-|  | Modelo antiguo | Modelo nuevo (Lugavere) |
+## Modelo viejo contra modelo nuevo
+|  | Modelo viejo | Modelo nuevo (Lugavere) |
 | --- | --- | --- |
-| Unidad de análisis | Nutrientes individuales aislados (grasa, grasa saturada, carbohidratos) | Los alimentos y su grado de procesamiento |
-| Villano | El nutriente de moda (el supermercado "Fat-Free Foods" de su infancia) | El entorno general: azúcar añadido + grasas industriales + granos refinados |
-| Grasa saturada | Un solo grupo, toda mala | Hace falta matizar: las grasas saturadas del aceite de coco y de los lácteos no actúan igual |
-| Calorías | Palanca principal | Importan, "pero no es lo único que importa": la calidad del alimento determina la cantidad que se come |
+| Qué se mira | Nutrientes sueltos (grasa, grasa saturada, carbohidratos) | La comida y qué tan procesada está |
+| El malo | El nutriente de moda (el súper "Fat-Free Foods" de cuando era niño) | Todo el ambiente: azúcar agregado + grasas de fábrica + harinas refinadas |
+| Grasa saturada | Un solo grupo, toda mala | Hay que distinguir: las grasas saturadas del aceite de coco y de los lácteos no actúan igual |
+| Calorías | Lo principal | Importan, "pero no es lo único que importa": la calidad de la comida decide cuánto se come |
 
-## La dieta estándar estadounidense (SAD)
-- **Definición:** alta en azúcares añadidos, grasas poco saludables y granos refinados; dicho de otro modo, muy alta en alimentos ultraprocesados. ✅
-- **Distribución de macronutrientes:** aproximadamente 45–65 % carbohidratos, 20–35 % grasa, 10–20 % proteína, es decir, alta en carbohidratos y alta en grasa al mismo tiempo. ✅ (cifras suyas) 🟡 Verificación de evidencia: esos rangos son los Rangos Aceptables de Distribución de Macronutrientes oficiales (donde la proteína en realidad va de 10 a 35 %), no lo que comen los estadounidenses; la ingesta medida en adultos de EE. UU. en 2016 fue de cerca de 50.5 % carbohidratos, 33 % grasa y 16 % proteína (Shan 2019; DGA 2020–2025, Apéndice 1).
-- **Asociada con:** obesidad, diabetes tipo 2, enfermedad cardíaca, ciertos cánceres, demencia. ✅
-- **La proteína es suficiente para evitar la deficiencia, pero posiblemente demasiado baja para la composición corporal y la salud metabólica.** Lo vincula con la hipótesis del apalancamiento proteico del Cap. 2: come un poco más de proteína y, gracias a la saciedad, comerás de forma natural menos carbohidratos y grasa. ✅
-- **Los carbohidratos no son "el problema":** el consumo excesivo de carbohidratos es un problema, no el problema, y depende mucho del contexto; también comemos grasa en exceso. Lo tóxico es la combinación. 🟢
-- **Tres cultivos dominan:** el trigo, el maíz y el arroz aportan alrededor del **60 % de las calorías de la persona promedio**, entre miles de plantas comestibles. Aclara con cuidado que el pan de masa madre de trigo ancestral germinado o el elote de verano no son el problema; lo es el dominio de los tres cultivos más el azúcar añadido. ✅ (FAO: 15 cultivos aportan el 90 % de la energía alimentaria del mundo, y el arroz, el maíz y el trigo, dos tercios de eso; así que el ~60 % es una cifra mundial, no de EE. UU.)
-- **Por qué ocurre:** los carbohidratos y las grasas son baratos (los aceites de soya y de maíz cuestan centavos; el azúcar pasó de lujo a relleno), lo que hace rentables los productos hiperpalatables. ✅
+## La dieta típica de EE. UU. (SAD)
+- **Qué es:** tiene mucho azúcar agregado, grasas poco sanas y harinas refinadas; dicho de otra forma, mucha comida ultraprocesada. ✅
+- **Cómo se reparten los macronutrientes:** más o menos 45–65 % carbohidratos, 20–35 % grasa, 10–20 % proteína, o sea, mucho carbohidrato y mucha grasa al mismo tiempo. ✅ (sus cifras) 🟡 Revisión de la evidencia: esos rangos son los rangos oficiales aceptables (donde la proteína en realidad va de 10 a 35 %), no lo que comen los estadounidenses; lo que se midió que comían los adultos de EE. UU. en 2016 fue cerca de 50.5 % carbohidratos, 33 % grasa y 16 % proteína (Shan 2019; DGA 2020–2025, Apéndice 1).
+- **Va junto con:** obesidad, diabetes tipo 2, enfermedad del corazón, algunos cánceres, demencia. ✅
+- **La proteína alcanza para no tener falta, pero quizá es muy poca para el músculo, el azúcar y el peso.** Lo une con la idea de la "palanca de la proteína" del Cap. 2: come un poco más de proteína y, como llena, vas a comer solo menos carbohidratos y grasa. ✅
+- **Los carbohidratos no son "el problema":** comer carbohidratos de más es un problema, no el problema, y depende mucho del caso; también comemos grasa de más. Lo tóxico es la mezcla. 🟢
+- **Tres cultivos mandan:** el trigo, el maíz y el arroz dan cerca del **60 % de las calorías de la persona promedio**, entre miles de plantas que se pueden comer. Aclara con cuidado que el pan de masa madre de trigo antiguo germinado o el elote de verano no son el problema; lo es que manden esos tres cultivos más el azúcar agregado. ✅ (FAO: 15 cultivos dan el 90 % de la energía de la comida del mundo, y el arroz, el maíz y el trigo, dos tercios de eso; así que el ~60 % es una cifra del mundo, no de EE. UU.)
+- **Por qué pasa:** los carbohidratos y las grasas son baratos (los aceites de soya y de maíz cuestan centavos; el azúcar pasó de lujo a relleno), y eso hace que dé dinero hacer productos que saben demasiado bien (hiperpalatables). ✅
 
-## Definición de alimentos ultraprocesados (AUP)
-- **Formal:** formulaciones industriales con múltiples ingredientes, altamente procesadas, a menudo altas en calorías, azúcar añadido, grasas y sal. ✅
-- **El sistema NOVA** (creado en América Latina) clasifica los alimentos en cuatro grupos según su grado de procesamiento; mínimamente procesados (carne, pescado, huevos, frutas, verduras, nueces, semillas) en un extremo y ultraprocesados en el otro. NOVA acuñó el término "ultraprocesado". Lugavere lo considera el mejor sistema de clasificación que conoce. 🟡 Dice "grupo cero o uno" para el procesamiento mínimo y "tres o cuatro" para los AUP; la transcripción es imprecisa aquí, así que la numeración exacta de los grupos debe considerarse no verificada. Corrección: NOVA tiene cuatro grupos numerados del 1 al 4: (1) alimentos sin procesar o mínimamente procesados, (2) ingredientes culinarios procesados como aceites, mantequilla, azúcar y sal, (3) alimentos procesados y (4) alimentos ultraprocesados. No existe un grupo cero, y solo el grupo 4 es ultraprocesado. Se desarrolló en Brasil (Monteiro 2019).
-- **Contraste: el "Food Compass" de Tufts** se hizo viral por calificar a Lucky Charms y Frosted Mini-Wheats por encima de la carne molida y los huevos escalfados; es su ejemplo de por qué los sistemas de clasificación pueden engañar. 🟡 (su caracterización de la clasificación; el Food Compass es un sistema real de puntuación de Tufts, Mozaffarian 2021, pero aquí no se verificaron las puntuaciones específicas)
-- **Heurística de la cocina:** si no podrías prepararlo en tu propia cocina, probablemente es ultraprocesado. ✅
-- **Perfil típico de un AUP:** una mezcla de carbohidratos y grasa, baja en proteína, normalmente con sal añadida. Le parecen bien los productos procesados altos en proteína, como la proteína de suero (whey), y tiene menos problema con el yogur griego y lácteos similares. 🟢
-- **La sal no es la villana:** el sodio es esencial; lo consumimos en exceso por los AUP. La misma lección que con los carbohidratos: importa el contexto, no el nutriente. ✅
-- **Efectos en la salud atribuidos a los AUP:** baja saciedad; mayor riesgo de mortalidad, demencia, enfermedad cardiovascular y cáncer. ✅ (presentados como asociaciones) Una revisión general de 45 análisis combinados encontró evidencia convincente que vincula más AUP con muerte cardiovascular, diabetes tipo 2 y trastornos mentales comunes (Lane 2024).
+## Qué son los alimentos ultraprocesados (AUP)
+- **Formal:** mezclas de fábrica con muchos ingredientes, muy procesadas, muchas veces con muchas calorías, azúcar agregado, grasas y sal. ✅
+- **El sistema NOVA** (hecho en América Latina) pone la comida en cuatro grupos según qué tan procesada está; lo poco procesado (carne, pescado, huevos, frutas, verduras, nueces, semillas) en un extremo y lo ultraprocesado en el otro. NOVA inventó la palabra "ultraprocesado". A Lugavere le parece el mejor sistema que conoce. 🟡 Dice "grupo cero o uno" para lo poco procesado y "tres o cuatro" para los AUP; la transcripción no es clara aquí, así que los números exactos de los grupos no están comprobados. Corrección: NOVA tiene cuatro grupos del 1 al 4: (1) comida sin procesar o poco procesada, (2) cosas para cocinar procesadas como aceites, mantequilla, azúcar y sal, (3) comida procesada y (4) comida ultraprocesada. No hay grupo cero, y solo el grupo 4 es ultraprocesado. Se hizo en Brasil (Monteiro 2019).
+- **Para comparar: el "Food Compass" de Tufts** se volvió famoso en internet por calificar a Lucky Charms y Frosted Mini-Wheats por encima de la carne molida y los huevos pochados; es su ejemplo de cómo un sistema de calificación puede engañar. 🟡 (cómo él describe la calificación; el Food Compass es un sistema real de puntos de Tufts, Mozaffarian 2021, pero aquí no se revisaron los puntos exactos)
+- **Regla de la cocina:** si no lo podrías hacer en tu cocina, seguramente es ultraprocesado. ✅
+- **Cómo suele ser un AUP:** una mezcla de carbohidratos y grasa, con poca proteína, normalmente con sal agregada. Le parecen bien los productos procesados con mucha proteína, como la proteína de suero de leche (whey), y le preocupan menos el yogur griego y lácteos parecidos. 🟢
+- **La sal no es la mala:** el sodio es indispensable; comemos de más por los AUP. La misma lección que con los carbohidratos: importa el caso, no el nutriente. ✅
+- **Daños a la salud que se le atribuyen a los AUP:** llenan poco; más riesgo de morir, de demencia, de enfermedad del corazón y de cáncer. ✅ (se presentan como cosas que van juntas) Una revisión de 45 análisis juntados encontró pruebas convincentes de que más AUP va junto con muerte por enfermedad del corazón, diabetes tipo 2 y problemas comunes de salud mental (Lane 2024).
 
-## El ensayo en unidad metabólica de Hall (2019) — La pieza central
-- **Diseño:** unidad metabólica con pacientes internados, ingesta estrictamente controlada, alimentación ad libitum (come todo lo que quieras), diseño cruzado; igualado en grasa, calorías y sodio ofrecidos. ✅
-- **Brazo 1, comida mínimamente procesada:** los participantes comieron sin esfuerzo hasta un **déficit de ~300 kcal**.
-- **Brazo 2, comida ultraprocesada (p. ej., hot dog en pan refinado):** los participantes comieron con un **superávit de ~500 kcal**.
-- **Resultado neto: una diferencia de ~800 kcal/día debida únicamente a la calidad de la comida.** 🟡 Verificación de evidencia: el ensayo publicado (20 adultos, 2 semanas con cada dieta, comidas igualadas en calorías ofrecidas, densidad energética, macronutrientes, azúcar, sodio y fibra) encontró que las personas comieron unas 508 kcal/día más con la dieta ultraprocesada; subieron 0.9 kg frente a bajar 0.9 kg con la dieta sin procesar (Hall 2019). La diferencia entre las dietas fue de unas 500 kcal/día, no de 800. Un ensayo británico de 2025 con dos dietas de 8 semanas, ambas apegadas a las guías nacionales, encontró casi el doble de pérdida de peso con comida mínimamente procesada (2.06 % vs. 1.05 %) (Dicken 2025).
-- 🟡 Lugavere no está seguro de la duración ("siete días seguidos, si no más, pudieron haber sido dos semanas") y solo menciona a Kevin Hall; verifica el artículo antes de citar las cifras externamente. Artículo encontrado: Hall et al., *Cell Metabolism* 2019; 2 semanas con cada dieta, 4 semanas en total.
-- **Su conclusión:** si llevas una dieta dominada por AUP y te enfocas solo en las calorías, estás "poniendo la carreta delante de los bueyes"; la calidad determina la cantidad. Los AUP ocasionales (un postre una o dos veces por semana) no son el problema; sí lo es que constituyan la mayor parte de la dieta. ✅
-- **Por qué los ensayos de nutrición son escasos:** la mayor parte de la evidencia es observacional porque los estudios de alimentación controlada son caros y pocos se ofrecen como voluntarios para internarse. Por eso este ensayo se considera fundamental. 🟢
+## El estudio de Hall (2019) en una unidad metabólica — la pieza central
+- **Cómo se hizo:** personas internadas en una unidad donde se controla exactamente lo que comen, comiendo todo lo que quisieran, y probando las dos dietas en turnos; la grasa, las calorías y el sodio que se les ofrecían eran iguales. ✅
+- **Primer turno, comida poco procesada:** los participantes comieron sin esfuerzo **unas 300 kcal menos** de lo que gastaban.
+- **Segundo turno, comida ultraprocesada (por ejemplo, salchicha en pan blanco):** los participantes comieron **unas 500 kcal de más**.
+- **Resultado: una diferencia de ~800 kcal al día solo por la calidad de la comida.** 🟡 Revisión de la evidencia: el estudio publicado (20 adultos, 2 semanas con cada dieta, comidas iguales en calorías ofrecidas, calorías por bocado, macronutrientes, azúcar, sodio y fibra) encontró que la gente comió unas 508 kcal al día más con la dieta ultraprocesada; subieron 0.9 kg contra bajar 0.9 kg con la dieta sin procesar (Hall 2019). La diferencia entre las dietas fue de unas 500 kcal al día, no de 800. Un estudio británico de 2025 con dos dietas de 8 semanas, las dos de acuerdo con las guías del país, encontró casi el doble de pérdida de peso con comida poco procesada (2.06 % contra 1.05 %) (Dicken 2025).
+- 🟡 Lugavere no está seguro de cuánto duró ("siete días seguidos, si no más, pudieron haber sido dos semanas") y solo menciona a Kevin Hall; revisa el artículo antes de citar las cifras. Artículo encontrado: Hall et al., *Cell Metabolism* 2019; 2 semanas con cada dieta, 4 semanas en total.
+- **Su conclusión:** si tu dieta es casi toda AUP y solo te fijas en las calorías, estás "poniendo la carreta delante de los bueyes"; la calidad decide la cantidad. Los AUP de vez en cuando (un postre una o dos veces por semana) no son el problema; lo es que sean la mayor parte de lo que comes. ✅
+- **Por qué hay pocos estudios de nutrición así:** casi todas las pruebas son de observación porque los estudios donde se controla lo que se come son caros y poca gente quiere internarse. Por eso este estudio es tan importante. 🟢
 
-## Ingredientes que hacen dañinos a los AUP
+## Lo que hace dañinos a los AUP
 **Aceites de semillas refinados (aceites RBD)**
-- RBD = refinados, blanqueados y desodorizados (por sus siglas en inglés): soya, canola, maíz (también semilla de uva, girasol y cártamo en su lista). No es lo mismo que el aceite de ajonjolí usado durante milenios, y no se prensan como el aceite de oliva. ✅
-- **La desodorización** (calor muy alto que elimina el aroma y el amargor) es el paso que, según él, genera una pequeña cantidad de **grasas trans artificiales**; aplica incluso a las versiones prensadas por expulsor, prensadas en frío u orgánicas. 🟢 Respaldado en parte: los aceites de soya refinados contienen pequeñas cantidades de grasas trans por la desodorización, cerca de 0.6–3 % del aceite en un análisis de cinco marcas (Martin 2006). Los aceites prensados por expulsor suelen refinarse y desodorizarse de todos modos, pero los verdaderamente prensados en frío (vírgenes) no, así que la afirmación no aplica a ellos.
-- **Las grasas parcialmente hidrogenadas** son la fuente dañina de grasas trans (prohibidas hace unos diez años); **las grasas totalmente hidrogenadas** se comportan más como grasas saturadas y no son grasas trans, según su entendimiento. 🟡
-- **Propensos a la oxidación** porque son mayormente poliinsaturados. El consumo de algunos de ellos ha aumentado hasta **mil veces respecto a hace 100 años**. ✅ (cifra suya; el consumo de aceite de soya por persona en EE. UU. aumentó más de 1,000 veces entre 1909 y 1999, Blasbalg 2011)
-- **Por qué el sistema los deja pasar:** bajan el LDL en comparación con la grasa saturada. La réplica de Lugavere: los lípidos en sangre son un indicador entre todo un continuo de salud, no hay datos a largo plazo sobre otros desenlaces y el sistema está "miópicamente enfocado" en los lípidos. 🟡 discutido; es su argumento, no un consenso. Verificación de evidencia: sí existen datos humanos a largo plazo. Cohortes combinadas con biomarcadores en sangre (68,659 personas, seguimiento de hasta 32 años) vincularon más ácido linoleico con menos enfermedad cardiovascular y menos muertes cardiovasculares (Marklund 2019), y entre 221,054 adultos de EE. UU. seguidos hasta 33 años, el mayor consumo de aceites vegetales (incluidos soya y canola) se vinculó con 16 % menos mortalidad total y el mayor consumo de mantequilla con 15 % más (Zhang 2025). Un reanálisis de un ensayo aleatorizado antiguo que cambió grasa saturada por aceite de maíz encontró menos colesterol pero no menos muertes (Ramsden 2016), lo que mantiene abierto el debate.
-- **El ángulo cerebral:** el cerebro está formado en gran parte por grasas poliinsaturadas y los AGPI cruzan fácilmente la barrera hematoencefálica, así que razona que las grasas dañadas podrían perjudicar al cerebro; admite que no hay datos a largo plazo. 🟡 especulativo
-- **Las freidoras son el daño más claro:** los aceites mantenidos calientes durante horas (cuenta que algunos restaurantes cambian el aceite solo después de semanas, según sus seguidores) forman subproductos oxidativos como los **aldehídos**, que él llama carcinógenos conocidos. Datos en ratones (inflamación, crecimiento tumoral acelerado en ratones propensos, intestino permeable frente a un control con aceite de oliva). 🟡 solo datos en ratones
-- **Postura equilibrada:** los aceites de semillas son un **marcador indirecto** del consumo de AUP, no "la prueba irrefutable". Explícitamente no quiere repetir el error de los reguladores de aislar un nutriente. En casa, es razonable minimizarlos porque se desconocen su almacenamiento y su historial de calentamiento. ✅
+- RBD = refinados, blanqueados y desodorizados (por sus siglas en inglés): soya, canola, maíz (en su lista también semilla de uva, girasol y cártamo). No es lo mismo que el aceite de ajonjolí que se ha usado por miles de años, y no se exprimen como el aceite de oliva. ✅
+- **Quitarles el olor (desodorizar)** (con calor muy alto que quita el olor y lo amargo) es el paso que, según él, crea un poquito de **grasas trans artificiales**; pasa hasta en las versiones exprimidas a máquina, exprimidas en frío u orgánicas. 🟢 Tiene algo de apoyo: los aceites de soya refinados tienen poquitas grasas trans por la desodorización, cerca de 0.6–3 % del aceite en un análisis de cinco marcas (Martin 2006). Los aceites exprimidos a máquina se suelen refinar y desodorizar de todos modos, pero los de verdad exprimidos en frío (vírgenes) no, así que lo que dice no aplica a ellos.
+- **Las grasas parcialmente hidrogenadas** son la fuente dañina de grasas trans (prohibidas hace unos diez años); **las grasas totalmente hidrogenadas** se portan más como grasas saturadas y no son grasas trans, según lo que él entiende. 🟡
+- **Se echan a perder fácil con el oxígeno** porque casi todo es grasa poliinsaturada. Comemos algunos de ellos hasta **mil veces más que hace 100 años**. ✅ (su cifra; el aceite de soya por persona en EE. UU. subió más de 1,000 veces entre 1909 y 1999, Blasbalg 2011)
+- **Por qué el sistema los deja pasar:** bajan el colesterol LDL comparados con la grasa saturada. Lo que contesta Lugavere: las grasas en la sangre son solo una señal entre muchas de la salud, no hay datos de largo plazo de otras cosas y el sistema "solo ve" las grasas en la sangre. 🟡 se discute; es su argumento, no algo en lo que todos estén de acuerdo. Revisión de la evidencia: sí hay datos de largo plazo en personas. Grupos juntados con análisis de sangre (68,659 personas, seguidas hasta 32 años) unieron más ácido linoleico con menos enfermedad del corazón y menos muertes por el corazón (Marklund 2019), y entre 221,054 adultos de EE. UU. seguidos hasta 33 años, comer más aceites vegetales (incluidos soya y canola) fue junto con 16 % menos muertes en general y comer más mantequilla con 15 % más (Zhang 2025). Un nuevo análisis de un estudio al azar viejo que cambió grasa saturada por aceite de maíz encontró menos colesterol pero no menos muertes (Ramsden 2016), y eso mantiene abierto el debate.
+- **Lo del cerebro:** el cerebro está hecho en buena parte de grasas poliinsaturadas y estas grasas pasan fácil la barrera que protege el cerebro, así que piensa que las grasas dañadas podrían dañar el cerebro; acepta que no hay datos de largo plazo. 🟡 es especulación
+- **Las freidoras son el daño más claro:** los aceites que se tienen calientes por horas (cuenta que algunos restaurantes cambian el aceite solo después de semanas, según sus seguidores) forman restos dañados como los **aldehídos**, que él llama causantes conocidos de cáncer. Datos en ratones (inflamación, tumores que crecen más rápido en ratones propensos, intestino que deja pasar cosas, comparado con aceite de oliva). 🟡 solo datos en ratones
+- **Postura equilibrada:** los aceites de semillas son una **señal** de que se comen AUP, no "la prueba del crimen". No quiere repetir el error de los que hacen las reglas de culpar a un solo nutriente. En casa, tiene sentido usarlos poco porque no se sabe cómo se guardaron ni cuánto se calentaron. ✅
 
-**Azúcar añadido**
-- Adulto promedio: alrededor de **77 g/día, aproximadamente 20 cucharaditas**, no provenientes de fruta ni de productos frescos. 🟢 Verificación de evidencia: datos nacionales más recientes ubican el azúcar añadido promedio en casi 270 kcal/día, unas 17 cucharaditas (~68 g) o el 13 % de las calorías (DGA 2020–2025).
-- Sus mayores problemas, según él: es **insidioso** (se cuela), aporta **calorías vacías**, hace la comida **hiperpalatable**, **desplaza** a los alimentos nutritivos y puede perpetuar el hambre mediante una montaña rusa de glucosa en sangre. No engorda ni es tóxico de por sí: "la dosis hace el veneno". ✅
-- **Estudios de dosis única:** una dosis alta de azúcar elevó la presión arterial sistólica durante unas dos horas; en otro estudio (en hombres, cree) una sola dosis redujo la testosterona alrededor de un **25 % durante dos horas**. 🟡 Los estudios no se nombran en la clase. El de testosterona está identificado: en 74 hombres, una prueba estándar de tolerancia oral con 75 g de glucosa bajó la testosterona cerca de 25 %, y seguía baja a los 120 minutos (Caronia 2013). Es glucosa pura, que no es como la gente suele consumir azúcar (el azúcar de mesa es ~50/50 glucosa/fructosa). El estudio de presión arterial no se identificó.
+**Azúcar agregado**
+- Adulto promedio: cerca de **77 g al día, unas 20 cucharaditas**, que no vienen de la fruta ni de comida fresca. 🟢 Revisión de la evidencia: datos nacionales más nuevos ponen el azúcar agregado promedio en casi 270 kcal al día, unas 17 cucharaditas (~68 g) o el 13 % de las calorías (DGA 2020–2025).
+- Sus problemas más grandes, según él: se **cuela** sin que uno se dé cuenta, da **calorías vacías**, hace que la comida **sepa demasiado bien**, **saca** de la dieta a la comida nutritiva y puede mantener el hambre con un sube y baja del azúcar en la sangre. No engorda ni es tóxico por sí solo: "la dosis hace el veneno". ✅
+- **Estudios de una sola dosis:** una dosis alta de azúcar subió la presión (la de arriba) por unas dos horas; en otro estudio (en hombres, cree) una sola dosis bajó la testosterona cerca de un **25 % por dos horas**. 🟡 Los estudios no se nombran en la clase. El de la testosterona está identificado: en 74 hombres, una prueba normal con 75 g de glucosa tomada bajó la testosterona cerca de 25 %, y seguía baja a los 120 minutos (Caronia 2013). Es glucosa pura, que no es como la gente suele comer el azúcar (el azúcar de mesa es ~mitad glucosa y mitad fructosa). El estudio de la presión no se encontró.
 
 **Otros**
-- **Emulsionantes:** algunos sintéticos se han implicado en inflamación intestinal en modelos animales; prefiere evitarlos. 🟡 (estudio en ratones: Chassaing 2015)
-- **Edulcorantes artificiales:** no está convencido de que sean tóxicos; son principalmente marcadores indirectos de AUP y aplica el argumento de la dosis. 🟡 planteado como incierto.
+- **Emulsionantes** (lo que se agrega para que no se separen los ingredientes): algunos de fábrica se han relacionado con inflamación del intestino en animales; prefiere evitarlos. 🟡 (estudio en ratones: Chassaing 2015)
+- **Endulzantes artificiales:** no está convencido de que sean tóxicos; sobre todo son una señal de que se comen AUP y aplica lo de la dosis. 🟡 lo plantea como algo no seguro.
 
-## La matriz alimentaria y el efecto séquito
-- El procesamiento de los AUP elimina la fibra, el agua, la proteína y los compuestos que vienen juntos en el alimento, todos ellos saciantes o sinérgicos. ✅
-- **Efecto séquito:** los nutrientes constituyentes administrados como suplementos no siempre reproducen los beneficios observados con el alimento entero (su ejemplo de los arándanos), así que los beneficios parecen provenir de la sinergia dentro de la matriz. 🟢 Lo presenta como una paradoja que ha surgido en la literatura; no menciona ensayos específicos. 🟡 Un ejemplo claro: en ensayos aleatorizados, los suplementos de betacaroteno y vitamina E no redujeron la mortalidad y parecieron aumentarla, igual que quizá las dosis altas de vitamina A (Bjelakovic 2012), aunque las dietas ricas en esos nutrientes se asocian con mejor salud.
+## La matriz del alimento y el "efecto séquito"
+- El procesamiento de los AUP quita la fibra, el agua, la proteína y las sustancias que vienen juntas en la comida, que llenan o ayudan unas a otras. ✅
+- **Efecto séquito (que van en grupo):** los nutrientes de una comida dados como suplementos no siempre dan lo mismo que la comida entera (su ejemplo de los arándanos), así que lo bueno parece venir de que actúan juntos dentro de la comida. 🟢 Lo presenta como algo raro que ha salido en los estudios; no menciona estudios concretos. 🟡 Un ejemplo claro: en estudios al azar, los suplementos de betacaroteno y vitamina E no bajaron las muertes y parecieron subirlas, igual que quizá las dosis altas de vitamina A (Bjelakovic 2012), aunque las dietas con mucho de esos nutrientes van junto con mejor salud.
 
-## Las Cinco R de la comida real (atribuidas a Marisa Peer, terapeuta, de su podcast)
+## Las Cinco R de la comida de verdad (de Marisa Peer, terapeuta, de su pódcast)
 | R | Prueba |
 | --- | --- |
-| **Roam or Ripen** (deambula o madura) | ¿Es un animal, o fue cultivado? |
-| **Rot** (se pudre) | ¿Se echa a perder? Una vida útil infinita es una señal de alerta; prefiere los alimentos perecederos del perímetro de la tienda |
-| **Recognize** (reconoce) | ¿Puedes identificar cada ingrediente? La comida real no tiene lista de ingredientes; es el ingrediente |
-| **Raw** (crudo) | ¿Podrías comerlo crudo? (los alimentos naturales en general sí; sushi, carpaccio, carne cruda) |
-| **Recreate** (recrea) | ¿Podrías prepararlo en tu propia cocina? |
+| **Roam or Ripen** (anda o madura) | ¿Es un animal, o se cultivó? |
+| **Rot** (se pudre) | ¿Se echa a perder? Que dure para siempre es mala señal; prefiere la comida que se echa a perder, de las orillas del súper |
+| **Recognize** (reconoce) | ¿Puedes reconocer cada ingrediente? La comida de verdad no tiene lista de ingredientes; es el ingrediente |
+| **Raw** (crudo) | ¿Lo podrías comer crudo? (la comida natural en general sí; sushi, carpaccio, carne cruda) |
+| **Recreate** (vuélvelo a hacer) | ¿Lo podrías hacer en tu cocina? |
 
-🟡 La transcripción escribe el nombre "Marissa Pier"; probablemente Marisa Peer, sin verificar. También dice que el pollo *industrial* crudo es peligroso (contaminación cruzada en el procesamiento mecánico) y no recomienda comerlo; la prueba de lo crudo es una heurística, no una guía de inocuidad alimentaria.
+🟡 La transcripción escribe el nombre "Marissa Pier"; seguramente Marisa Peer, sin revisar. También dice que el pollo crudo *de granja industrial* es peligroso (se contamina al pasar por las máquinas) y no recomienda comerlo; la prueba de lo crudo es una regla práctica, no una guía de seguridad de la comida.
 
-## Las grandes victorias (marco de cierre)
-1. Composición corporal saludable.
-2. Alimentos con más saciedad por caloría (mínimamente procesados).
-3. Densidad nutricional y reposición con micronutrientes biodisponibles.
-4. Macronutrientes que apoyen el músculo: el músculo como un signo vital de vigor que se pasa por alto. La proteína es lo siguiente en la serie.
+## Lo que más rinde (para cerrar)
+1. Un cuerpo con buena proporción de músculo y grasa.
+2. Comida que llene mucho por caloría (poco procesada).
+3. Mucho nutriente por bocado y reponer micronutrientes que el cuerpo aproveche bien.
+4. Macronutrientes que ayuden al músculo: el músculo como una señal de fuerza y salud que se pasa por alto. La proteína es lo siguiente en la serie.
 
-## Frases clave y datos citables (Clase 3)
-- **Una diferencia de 800 calorías solo por la calidad de la comida** (−300 vs. +500 kcal en el ensayo de Hall). 🟡 Cifras suyas; el artículo reporta una diferencia de unas 500 kcal/día (Hall 2019).
-- **"Las calorías importan, pero no es lo único que importa"**: la calidad determina la cantidad.
-- **El trigo, el maíz y el arroz aportan ~60 % de las calorías** de la dieta promedio (cifra suya).
-- **~77 g de azúcar añadido al día, unas 20 cucharaditas.**
-- **"Los alimentos reales no tienen largas listas de ingredientes; son los ingredientes."**
-- **La desodorización como "el equivalente de la industria alimentaria al Programa de Protección de Testigos"**: todo aceite refinado termina insípido y anónimo.
-- **"No son los nutrientes el problema... es cómo los obtenemos."**
+## Frases clave y datos para recordar (Clase 3)
+- **Una diferencia de 800 calorías solo por la calidad de la comida** (−300 contra +500 kcal en el estudio de Hall). 🟡 Sus cifras; el artículo da una diferencia de unas 500 kcal al día (Hall 2019).
+- **"Las calorías importan, pero no es lo único que importa"**: la calidad decide la cantidad.
+- **El trigo, el maíz y el arroz dan ~60 % de las calorías** de la dieta promedio (su cifra).
+- **~77 g de azúcar agregado al día, unas 20 cucharaditas.**
+- **"La comida de verdad no tiene listas largas de ingredientes; es el ingrediente."**
+- **Quitarle el olor al aceite como "el Programa de Protección de Testigos de la industria de la comida"**: todo aceite refinado termina sin sabor y sin nombre.
+- **"No son los nutrientes el problema... es cómo los conseguimos."**
 
-## Correcciones clave para tener presentes
-- 🔴 Suponer que el problema es un solo macronutriente: su postura es que los carbohidratos, la grasa y el sodio no son el problema en sí; lo es el entorno de los AUP.
-- 🔴 Suponer que solo las calorías deciden la ingesta: en el ensayo de Hall, el mismo acceso y las mismas instrucciones produjeron una diferencia de unas 500 kcal/día según el tipo de comida (Lugavere dice 800).
-- 🔴 Suponer que todos los "aceites de semillas" son iguales: el de ajonjolí y otros aceites prensados difieren de los aceites RBD de soya, canola y maíz.
-- 🔴 Suponer que toda hidrogenación crea grasas trans: según Lugavere, solo la hidrogenación parcial lo hace; ahora las grasas trans también surgen en pequeñas cantidades por la desodorización. 🟢 pequeñas cantidades confirmadas en aceites refinados (Martin 2006).
-- 🔴 Tomar la reducción del LDL como prueba de que un aceite es saludable: su objeción es que los lípidos son una métrica entre muchas (discutido; ver Temas abiertos).
+## Correcciones clave para recordar
+- 🔴 Pensar que el problema es un solo macronutriente: para él, los carbohidratos, la grasa y el sodio no son el problema en sí; lo es el ambiente de los AUP.
+- 🔴 Pensar que solo las calorías deciden cuánto se come: en el estudio de Hall, con el mismo acceso y las mismas instrucciones, el tipo de comida dio una diferencia de unas 500 kcal al día (Lugavere dice 800).
+- 🔴 Pensar que todos los "aceites de semillas" son iguales: el de ajonjolí y otros aceites exprimidos no son como los aceites RBD de soya, canola y maíz.
+- 🔴 Pensar que agregar hidrógeno siempre crea grasas trans: según Lugavere, solo hacerlo a medias (parcialmente) las crea; ahora también salen poquitas grasas trans al quitarle el olor al aceite. 🟢 poquitas, confirmado en aceites refinados (Martin 2006).
+- 🔴 Tomar que un aceite baje el LDL como prueba de que es sano: lo que objeta es que las grasas en la sangre son una medida entre muchas (se discute; vea Temas abiertos).
 
 ## Conclusión práctica
-Usa las Cinco R y la prueba de "¿podría hacer esto en mi cocina?" como filtro rápido, basa tus comidas en alimentos mínimamente procesados que contengan proteína, y considera la comida frita de restaurante y el azúcar añadido como los lugares más claros para recortar. No sustituyas la atención al patrón general por el miedo a un solo nutriente. La postura de Lugavere se basa en la dosis y es pragmática, no de tolerancia cero.
+Usa las Cinco R y la prueba de "¿lo podría hacer en mi cocina?" como filtro rápido, arma tus comidas con comida poco procesada que tenga proteína, y ve la comida frita de restaurante y el azúcar agregado como los lugares más claros para recortar. No cambies el fijarte en cómo comes en general por el miedo a un solo nutriente. Lugavere piensa según la dosis y es práctico, no de "cero absoluto".
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. En el ensayo de Hall con pacientes internados, los participantes comieron libremente de dietas mínimamente procesadas y luego ultraprocesadas. ¿Qué muestra el resultado de forma más directa sobre el balance energético?**
+**1. En el estudio de Hall con personas internadas, los participantes comieron lo que quisieron de dietas poco procesadas y luego ultraprocesadas. ¿Qué muestra el resultado de forma más directa sobre el equilibrio de energía?**
 A. Las calorías no importan una vez que se controla la calidad de la comida
-B. Los participantes comieron en déficit con ambas dietas porque estaban en un hospital
-C. \* La calidad de la comida cambió la ingesta espontánea en unas 500 kcal/día (508 kcal/día más con la dieta ultraprocesada; Lugavere dice 800), así que la calidad determina la cantidad y no al revés
-*Por qué C: Lugavere subraya que las calorías siguen importando, pero el ensayo muestra que el tipo de comida cambió cuánto comía la gente sin ninguna instrucción de restringir.*
+B. Los participantes comieron de menos con las dos dietas porque estaban en un hospital
+C. \* La calidad de la comida cambió cuánto comían solos en unas 500 kcal al día (508 kcal al día más con la dieta ultraprocesada; Lugavere dice 800), así que la calidad decide la cantidad y no al revés
+*Por qué C: Lugavere insiste en que las calorías siguen importando, pero el estudio muestra que el tipo de comida cambió cuánto comía la gente sin que nadie le dijera que comiera menos.*
 
-**2. Según esta clase, ¿por qué un nutriente tomado como suplemento podría no reproducir el beneficio observado con el alimento del que proviene?**
-A. Los suplementos siempre tienen una dosis menor que la comida
-B. \* El efecto séquito: los compuestos que vienen juntos en la matriz alimentaria actúan de forma sinérgica, y el procesamiento o el aislamiento los eliminan
-C. Los nutrientes de la comida son químicamente distintos de las formas en suplemento
-*Por qué B: Lugavere usa los arándanos como ejemplo; los beneficios parecen provenir de muchos compuestos actuando juntos, no de un constituyente aislado.*
+**2. Según esta clase, ¿por qué un nutriente tomado como suplemento podría no dar lo bueno que se ve con la comida de la que sale?**
+A. Los suplementos siempre tienen menos dosis que la comida
+B. \* El efecto séquito: las sustancias que vienen juntas en la matriz del alimento se ayudan entre sí, y el procesamiento o el sacarlas por separado las quita
+C. Los nutrientes de la comida son químicamente distintos de los de los suplementos
+*Por qué B: Lugavere usa los arándanos como ejemplo; lo bueno parece venir de muchas sustancias actuando juntas, no de una sola por separado.*
 
-**3. ¿Qué conjunto coincide mejor con su lista de los principales problemas del azúcar añadido?**
-A. Es intrínsecamente tóxico y engorda a cualquier dosis
-B. Eleva el LDL y causa resistencia a la insulina directamente
-C. \* Insidioso, calorías vacías, hiperpalatable, desplaza a los alimentos nutritivos y puede perpetuar el hambre; con "la dosis hace el veneno" como salvedad
-*Por qué C: dice explícitamente que el azúcar no engorda ni es tóxico de por sí; el daño depende de la dosis, el contexto y lo que desplaza.*
+**3. ¿Qué grupo va mejor con su lista de los principales problemas del azúcar agregado?**
+A. Es tóxico por sí solo y engorda en cualquier cantidad
+B. Sube el LDL y hace que la insulina deje de funcionar bien directamente
+C. \* Se cuela, son calorías vacías, sabe demasiado bien, saca de la dieta a la comida nutritiva y puede mantener el hambre; con "la dosis hace el veneno" como aviso
+*Por qué C: dice claramente que el azúcar no engorda ni es tóxico por sí solo; el daño depende de la cantidad, el caso y lo que saca de la dieta.*
 
 ## Temas abiertos
-- **Aceites de semillas vs. lípidos en sangre:** el desacuerdo central con el "sistema médico" no está resuelto; no cita datos humanos a largo plazo, y ninguna de las partes los ofrece en la clase. Arriba ya se citan datos de cohortes a largo plazo (Marklund 2019; Zhang 2025).
-- **Detalles del ensayo de Hall:** ya se verificaron con el artículo (Hall 2019): 20 adultos, 2 semanas por dieta, unas 508 kcal/día más con la dieta ultraprocesada.
-- **Estudio de testosterona y azúcar:** identificado como Caronia 2013 (carga de 75 g de glucosa, 74 hombres); no se verificó si se ha replicado.
-- **Lo siguiente, la proteína:** la clase termina prometiendo la sección de proteína (el músculo como signo vital), que se basa en el apalancamiento proteico del Cap. 2.
-- **La controversia del Food Compass** y la numeración de los grupos NOVA: ambas descritas de forma imprecisa.
+- **Aceites de semillas contra grasas en la sangre:** el desacuerdo central con el "sistema médico" no está resuelto; no cita datos de largo plazo en personas, y en la clase nadie los da. Arriba ya se citan datos de grupos de largo plazo (Marklund 2019; Zhang 2025).
+- **Detalles del estudio de Hall:** ya se revisaron con el artículo (Hall 2019): 20 adultos, 2 semanas por dieta, unas 508 kcal al día más con la dieta ultraprocesada.
+- **Estudio de testosterona y azúcar:** identificado como Caronia 2013 (75 g de glucosa, 74 hombres); no se revisó si se ha repetido.
+- **Lo que sigue, la proteína:** la clase termina prometiendo la parte de proteína (el músculo como señal de salud), que se apoya en la palanca de la proteína del Cap. 2.
+- **La polémica del Food Compass** y los números de los grupos NOVA: las dos cosas se describen sin precisión.
 
-## Lo que se recortó deliberadamente (autoauditoría)
-- Detalles personales: la anécdota del supermercado "Fat-Free Foods", su encuesta de Instagram sobre freidoras más allá de la conclusión principal, la digresión del amigo granjero sobre el pollo crudo más allá de la advertencia de seguridad.
-- Repeticiones de "la dosis hace el veneno" y "no soy médico"; se conservó una de cada una.
-- Detalles del diagrama de procesamiento RBD (refinado, preblanqueado, desencerado) más allá del paso de desodorización, ya que la diapositiva en sí no está en la transcripción.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Detalles personales: la historia del súper "Fat-Free Foods", su encuesta de Instagram sobre freidoras más allá de la conclusión principal, el desvío del amigo granjero sobre el pollo crudo más allá del aviso de seguridad.
+- Repeticiones de "la dosis hace el veneno" y "no soy médico"; se dejó una de cada una.
+- Detalles del diagrama de cómo se refina el aceite (refinado, preblanqueado, quitarle la cera) más allá del paso de quitarle el olor, porque la diapositiva no está en la transcripción.
 
 ---
 **Referencias:**
