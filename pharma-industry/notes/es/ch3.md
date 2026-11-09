@@ -1,153 +1,153 @@
 # Posner — La industria farmacéutica, Cap. 3: Vendiendo enfermedades
-*Cómo el marketing superó a la ciencia en los años cincuenta: el manual de Arthur Sackler (representantes médicos, muestras gratis, "noticias" escritas por encargo, educación patrocinada), la campaña de Terramycin, los fármacos me-too y el juego con las patentes, las leyes contra la sustitución, una FDA débil y la fabricación de enfermedades y de demanda.*
+*Cómo la publicidad le ganó a la ciencia en los años cincuenta: el método de Arthur Sackler (vendedores que visitan a los médicos, muestras gratis, "noticias" escritas por la empresa, cursos para médicos pagados por la industria), la campaña del Terramycin, las medicinas de copia y los juegos con las patentes, las leyes que no dejaban cambiar una marca por otra, una FDA débil y cómo se "fabrican" enfermedades y demanda.*
 
-*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 3 (transcripción). Tercera de ocho clases; abre con dos complementos al Cap. 2 (patentes de uso de la penicilina, antibióticos en granjas) y cierra con un adelanto del Cap. 4 (la investigación y el proyecto de ley de 1959–62). Transcripción leída en su totalidad y completa: termina con el adelanto de la Clase 4.*
+*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 3 (transcripción). Tercera de ocho clases; empieza con dos agregados al Cap. 2 (patentes de cómo fabricar la penicilina, antibióticos en las granjas) y termina con un adelanto del Cap. 4 (la investigación y el proyecto de ley de 1959–62). Transcripción leída completa: termina con el adelanto de la Clase 4.*
 
 ## Por qué importa
-El Cap. 2 mostró que por fin los fármacos podían funcionar (los antibióticos). El Cap. 3 muestra cómo la industria aprendió a *venderlos*, y Posner sostiene que aquí nació el modelo de negocio de la industria farmacéutica moderna: el representante médico, la muestra gratis, el artículo escrito por encargo, la educación médica continua con patrocinador, la extensión de patente "nuevo y mejorado" y la ampliación de lo que cuenta como enfermedad. Posner es periodista de investigación (autor de *Pharma*), no científico. Sus datos históricos se marcan con ✅ cuando los afirma con claridad; sus interpretaciones y algunas cifras confusas, con 🟡. La recompensa práctica es la sección final: cómo ser un paciente más cuestionador cuando se sugiere un fármaco nuevo.
+El Cap. 2 mostró que por fin las medicinas podían funcionar (los antibióticos). El Cap. 3 muestra cómo la industria aprendió a *venderlas*, y Posner dice que aquí nació la forma de hacer negocio de la industria farmacéutica moderna: el vendedor que visita al médico, la muestra gratis, el artículo escrito por encargo, los cursos para médicos pagados por la industria, la patente que se alarga con un "nuevo y mejorado" y la ampliación de lo que cuenta como enfermedad. Posner es periodista de investigación (autor de *Pharma*), no científico. Sus datos de historia se marcan con ✅ cuando los dice con claridad; sus interpretaciones y algunas cifras confusas, con 🟡. Lo más útil para la vida diaria es la sección final: cómo ser un paciente que hace más preguntas cuando le sugieren una medicina nueva.
 
-## Dos complementos al Cap. 2
-- **Patentes de la penicilina:** Ernst Chain (29 años, emigrado judío alemán del equipo de Oxford) sugirió patentar la penicilina; sus dos colegas británicos se horrorizaron y le dijeron que "dejaría mal parada a la comunidad judía". No se presentó ninguna patente. ✅ 🟢 Verificación de evidencia: Chain sí creía indispensable una patente, mientras que Florey y otros consideraban poco ético patentar un fármaco que salva vidas (Gaynes 2017); el comentario sobre la "comunidad judía" es tal como lo cuenta Posner y no está verificado aquí.
-- **Patentes de uso:** una patente de *uso* (de proceso) cubre una mejor manera de fabricar un fármaco (más rápida, más pura, más eficiente). Las compañías estadounidenses tenían **250 patentes de uso sobre la penicilina a los dos años del fin de la guerra**, y los británicos tuvieron que pagar para usar los procesos estándar de la industria para el fármaco que ellos descubrieron. ✅ (Merck y el científico del USDA Andrew Moyer sí registraron patentes de proceso: Gaynes 2017; la cifra de 250 es tal como la dijo y no está verificada.)
-- **Antibióticos más allá de los humanos (años cincuenta):** las compañías promovieron su uso en pollos, ganado, pavos (en parte para engordarlos) y en granjas de peces hacinadas, unos **30 millones de libras al año a mediados de los cincuenta** (cifra tal como la dijo; sin verificar), además de rociarlos en cultivos contra hongos y bacterias. La opinión de Posner: la exposición a través de la cadena alimentaria ayudó a convertir a EE. UU. en la "zona cero" de la resistencia a los antibióticos. ✅ hechos según los dijo / 🟡 el peso causal es su opinión.
+## Dos agregados al Cap. 2
+- **Patentes de la penicilina:** Ernst Chain (29 años, judío alemán que emigró, del equipo de Oxford) propuso patentar la penicilina; sus dos colegas británicos se escandalizaron y le dijeron que "dejaría mal parada a la comunidad judía". No se pidió ninguna patente. ✅ 🟢 Revisión de la evidencia: Chain sí creía que hacía falta una patente, mientras que Florey y otros pensaban que no era ético patentar una medicina que salva vidas (Gaynes 2017); el comentario sobre la "comunidad judía" es como lo cuenta Posner y aquí no está verificado.
+- **Patentes de cómo fabricar:** una patente de *uso* (o de proceso) cubre una mejor forma de fabricar una medicina (más rápida, más pura, que rinda más). Las compañías de EE. UU. tenían **250 patentes de cómo fabricar penicilina a los dos años de terminada la guerra**, y los británicos tuvieron que pagar para usar las formas normales de fabricar la medicina que ellos mismos descubrieron. ✅ (Merck y el científico del Departamento de Agricultura de EE. UU. Andrew Moyer sí registraron patentes de cómo fabricarla: Gaynes 2017; la cifra de 250 es como él la dijo y no está verificada.)
+- **Antibióticos más allá de las personas (años cincuenta):** las compañías promovieron darlos a pollos, ganado y pavos (en parte para engordarlos) y en granjas de peces amontonados, unas **30 millones de libras al año a mediados de los cincuenta** (cifra como él la dijo; sin verificar), además de rociarlos en los cultivos contra hongos y bacterias. La opinión de Posner: comerlos a través de los alimentos ayudó a que EE. UU. se volviera la "zona cero" de la resistencia a los antibióticos. ✅ los hechos como él los dijo / 🟡 cuánto pesó esto es su opinión.
 
 ## Antes de las reglas de seguridad — El Elixir Sulfanilamida (1937)
-- Hasta 1938 **no había obligación legal de probar la seguridad de los fármacos**. La Ley de 1906 exigía principalmente el etiquetado. ✅
-- Un fabricante de Tennessee mezcló **dietilenglicol** (un ingrediente del anticongelante) en un "elixir" de sulfanilamida; Posner dice que se añadió para endulzarlo. 🟡 (la razón que él da) Verificación de evidencia: el dietilenglicol era el **disolvente** (diluyente) que se usó para disolver la sulfanilamida, no un endulzante (Wax 1995; FDA).
-- **Murieron 107 personas, la mayoría niños.** (🟢 la FDA cuenta más de 100 muertes, muchas de ellas de niños; Wax 1995 cuenta 105 pacientes.) La compañía no violó ninguna ley de seguridad; el único cargo que prosperó fue técnico: un "elixir" debe contener alcohol, y este no lo tenía. Una simple llamada de atención. ✅
-- Resultado: la **Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938**, el primer requisito federal de prueba de seguridad (no de eficacia). ✅
+- Hasta 1938 **no había ninguna ley que obligara a probar que las medicinas eran seguras**. La Ley de 1906 pedía sobre todo etiquetas. ✅
+- Un fabricante de Tennessee le puso **dietilenglicol** (un ingrediente del anticongelante de los carros) a un "elixir" de sulfanilamida; Posner dice que se le puso para endulzarlo. 🟡 (la razón que él da) Revisión de la evidencia: el dietilenglicol era el **líquido** que se usó para disolver la sulfanilamida, no un endulzante (Wax 1995; FDA).
+- **Murieron 107 personas, la mayoría niños.** (🟢 la FDA cuenta más de 100 muertes, muchas de niños; Wax 1995 cuenta 105 pacientes.) La compañía no rompió ninguna ley de seguridad; el único cargo que prosperó fue un detalle técnico: un "elixir" tiene que tener alcohol, y este no lo tenía. Una simple llamada de atención. ✅
+- Resultado: la **Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938**, la primera ley del país que obligó a probar que una medicina era segura (no que funcionara). ✅
 
-| Año | Hito de la FDA (según lo plantea Posner) |
+| Año | Momento clave de la FDA (según Posner) |
 | --- | --- |
-| 1906 | Creada bajo la Ley de Alimentos y Medicamentos Puros como parte de la Oficina de Química; enfoque en aditivos alimentarios; también, en teoría, tabaco y medicamentos (🟡 lo del tabaco es tal como lo dijo, sin verificar) |
-| 1930 | Se vuelve una agencia independiente, pero con poco personal y poco poder. 🟡 Verificación de evidencia: en 1927 se renombró Food, Drug, and Insecticide Administration; en 1930, Food and Drug Administration, todavía dentro del Departamento de Agricultura; salió de Agricultura hasta 1940 (historia de la FDA) |
-| 1938 | Ley FD&C: se exige prueba de seguridad; añade dispositivos médicos, aditivos de color, cosméticos. El personal crece solo un **2%** en un año (según lo dijo; sin verificar) |
+| 1906 | Se crea con la Ley de Alimentos y Medicamentos Puros, como parte de la Oficina de Química; se ocupa sobre todo de lo que se le agrega a la comida; también, en teoría, del tabaco y las medicinas (🟡 lo del tabaco es como él lo dijo, sin verificar) |
+| 1930 | Se vuelve una oficina aparte, pero con poca gente y poco poder. 🟡 Revisión de la evidencia: en 1927 se llamó Food, Drug, and Insecticide Administration; en 1930, Food and Drug Administration, todavía dentro del Departamento de Agricultura; salió de Agricultura hasta 1940 (historia de la FDA) |
+| 1938 | Ley FD&C: hay que probar que es segura; agrega aparatos médicos, colorantes y cosméticos. El personal crece solo **2%** en un año (según lo dijo; sin verificar) |
 
-## La vieja guardia vs. la nueva guardia
+## La vieja guardia y la nueva guardia
 | | Vieja guardia | Nueva guardia |
 | --- | --- | --- |
-| Quiénes | George Merck; Jonas Salk | Arthur Sackler (emblemático, no el único); Jack McKeen, director general de Pfizer |
-| Creencia | La medicina es para el paciente; las ganancias vienen después | La medicina es un negocio; ayudar a la gente *y* maximizar las ganancias |
-| Frase emblemática | Merck, 1950, Medical College of Virginia: "la medicina es para la gente. No es para las ganancias... Cuanto mejor lo hemos recordado, mayores han sido". | La oferta de Sackler: denme **$10 millones** y haré de Terramycin el antibiótico número uno |
-| Postura sobre patentes | Salk a Edward R. Murrow sobre quién es dueño de la patente de la vacuna contra la polio: "¿Se podría patentar el sol?" | Patentar un cambio de un átomo y defenderlo en los tribunales |
+| Quiénes | George Merck; Jonas Salk | Arthur Sackler (el ejemplo más claro, no el único); Jack McKeen, director de Pfizer |
+| Lo que creían | La medicina es para el paciente; las ganancias vienen después | La medicina es un negocio; ayudar a la gente *y* ganar lo más posible |
+| Frase que los define | Merck, 1950, Medical College of Virginia: "la medicina es para la gente. No es para las ganancias... Mientras mejor lo hemos recordado, más grandes han sido". | La oferta de Sackler: denme **$10 millones** y haré del Terramycin el antibiótico número uno |
+| Qué pensaban de las patentes | Salk a Edward R. Murrow, sobre quién es dueño de la patente de la vacuna contra la polio: "¿Se podría patentar el sol?" | Patentar el cambio de un átomo y defenderlo ante los jueces |
 
-- Posner insiste en que Merck lo decía en serio (no solo como relaciones públicas): fijar precios según la necesidad y el tamaño del mercado, no el máximo. ✅ su lectura 🟡
-- **El ensayo de Salk como alianza público-privada:** unos 20,000 médicos, 65,000 trabajadores escolares, un cuarto de millón de voluntarios y **1.8 millones de escolares** (Posner fue uno de ellos). Una encuesta Gallup de 1954: más estadounidenses conocían los ensayos de campo contra la polio que quién era el presidente. ✅ (su "solo unos 35,000 médicos" en EE. UU. en ese entonces parece incorrecto 🟡; las cifras del ensayo y de participantes son tal como las dijo, y el ensayo en sí está bien documentado: Meldrum 1998)
+- Posner insiste en que Merck lo decía en serio (no solo para quedar bien): poner los precios según la necesidad y el tamaño del mercado, no el más alto posible. ✅ su lectura 🟡
+- **El estudio de Salk como trabajo en equipo entre gobierno y sector privado:** unos 20,000 médicos, 65,000 trabajadores de escuelas, un cuarto de millón de voluntarios y **1.8 millones de niños de escuela** (Posner fue uno de ellos). Una encuesta Gallup de 1954: más estadounidenses sabían de las pruebas de la vacuna contra la polio que quién era el presidente. ✅ (cuando dice que "solo había unos 35,000 médicos" en EE. UU. en ese entonces parece estar mal 🟡; las cifras del estudio y de participantes son como él las dijo, y el estudio en sí está bien documentado: Meldrum 1998)
 
-## Arthur Sackler — Arquitecto de la persuasión farmacéutica
-La lista de "innovaciones" de Sackler según Posner (su palabra; "las innovaciones no siempre son buenas"), operadas a través de su agencia de publicidad exclusivamente médica, William Douglas McAdams, que él describe como aplicar Madison Avenue a los médicos ("Medicine Avenue"):
+## Arthur Sackler — El que diseñó la forma de convencer de las farmacéuticas
+La lista de "innovaciones" de Sackler según Posner (la palabra es suya; "las innovaciones no siempre son buenas"), hechas a través de su agencia de publicidad solo para médicos, William Douglas McAdams, que él describe como llevar la publicidad de las grandes agencias a los médicos ("Medicine Avenue"):
 
-- **Publicidad basada en la psicología:** los médicos son humanos, así que la autoridad, la repetición y el prestigio de marca funcionan con ellos. ✅
-- **"Noticias" escritas por encargo:** textos listos para publicar para periodistas de salud presionados por la hora de cierre. La analogía de Posner: Sackler era el ChatGPT de su época: entregaba los borradores ya escritos. De ahí décadas de historias sobre fármacos "milagrosos", "revolucionarios" y "de avanzada" que eran lenguaje de relaciones públicas. 🟡 (caracterización)
-- **Folletos pseudocientíficos, materiales educativos "independientes", respaldos de líderes de opinión.**
-- **El visitador médico moderno (representante de ventas):** enviado por primera vez para el Terramycin de Pfizer. ✅
-- **Muestras gratis:** los antibióticos eran baratos de fabricar, así que se inundó a los médicos con ellas, y después con Librium y Valium (no eran narcóticos controlados). ✅
-- **Medición de territorios de venta y bonos para representantes:** dar seguimiento a la prescripción por zona y premiar a los representantes estrella; una comisión en todo menos en el nombre. Posner dice que Sackler "le enseñó a Merck" esto 🟡 (el nombre de la compañía puede ser un lapsus). ✅ práctica
-- **Educación médica continua patrocinada:** una de las compañías de Sackler era una empresa de EMC; el contenido no era "receten X" sino favorable a la industria, lo que hacía que las compañías parecieran aliadas de los médicos. ✅
-- **Sus propias revistas** y la credibilidad prestada de revistas como JAMA ("lavado de reputación mediante lenguaje científico"). 🟡 (detalle prometido para más adelante)
-- **Persuasión dirigida temprana** (finales de los cincuenta y principios de los sesenta), que Posner llama prehistórica comparada con el microdireccionamiento actual basado en datos de búsqueda (por ejemplo, usuarios de Medicare Parte D preocupados por la diabetes).
+- **Publicidad basada en la psicología:** los médicos son humanos, así que con ellos funcionan la autoridad, la repetición y el prestigio de la marca. ✅
+- **"Noticias" escritas por encargo:** textos listos para publicar para periodistas de salud con prisa por entregar. La comparación de Posner: Sackler era el ChatGPT de su época: entregaba los borradores ya escritos. De ahí salieron décadas de noticias sobre medicinas "milagrosas", "revolucionarias" y "de avanzada" que eran palabras de relaciones públicas. 🟡 (su forma de verlo)
+- **Folletos que parecían científicos, materiales "independientes" para enseñar, y el apoyo de "líderes de opinión" (médicos famosos).**
+- **El vendedor moderno que visita al médico:** se mandó por primera vez para el Terramycin de Pfizer. ✅
+- **Muestras gratis:** los antibióticos salían baratos de fabricar, así que se llenó a los médicos de muestras, y después de Librium y Valium (que no eran drogas controladas). ✅
+- **Medir las zonas de venta y dar bonos a los vendedores:** seguir cuánto se receta en cada zona y premiar a los mejores vendedores; una comisión, aunque no se llamara así. Posner dice que Sackler "le enseñó a Merck" esto 🟡 (el nombre de la compañía puede ser un error al hablar). ✅ la práctica
+- **Cursos para médicos pagados por la industria:** una de las compañías de Sackler era una empresa de cursos de actualización para médicos; el contenido no decía "receten X", sino que era favorable a la industria, y así las compañías parecían aliadas de los médicos. ✅
+- **Sus propias revistas** y la confianza prestada de revistas como JAMA ("lavar la imagen con lenguaje científico"). 🟡 (detalle que promete para más adelante)
+- **Publicidad dirigida temprana** (finales de los cincuenta y principios de los sesenta), que Posner llama prehistórica al lado de la publicidad de hoy, hecha a la medida con datos de lo que la gente busca en internet (por ejemplo, personas con Medicare Parte D preocupadas por la diabetes).
 
-Posner es explícito en que los representantes y los médicos no eran corruptos: no había pagos por debajo de la mesa, quizá un almuerzo. El mecanismo es la buena relación y la confianza, además de médicos demasiado ocupados para leer cada estudio. ✅
+Posner dice claramente que los vendedores y los médicos no eran corruptos: no había pagos por debajo de la mesa, cuando mucho una comida. Lo que funciona es la buena relación y la confianza, más médicos demasiado ocupados para leer cada estudio. ✅
 
-## Caso de estudio — Terramycin y el superventas
-- **Pfizer:** después de la guerra, los antibióticos se volvieron el grueso de su negocio; Posner da "casi dos tercios" de las ventas y el "80% de las ganancias" para los fármacos de la clase de las tetraciclinas. 🟡 (dos cifras mezcladas en la transcripción)
-- **Terramycin vs. Aureomycin de Lederle:** **se diferenciaban por un solo átomo de oxígeno**, sin ningún cambio en su valor terapéutico. Los propios científicos de Pfizer escribieron que no era un producto nuevo. ✅ (según lo contó) 🟡 Verificación de evidencia: la diferencia de un oxígeno es entre Terramycin (oxitetraciclina, C22H24N2O9) y la tetraciclina simple (C22H24N2O8); Aureomycin (clortetraciclina, C22H23ClN2O8) además lleva un átomo de cloro (PubChem). Ambas eran tetraciclinas de amplio espectro descritas a finales de los años cuarenta (Nelson 2011).
-- El director general Jack McKeen siguió adelante; Sackler obtuvo **$10 millones**, expectativa previa al lanzamiento en periódicos y revistas, y el día del lanzamiento los representantes que esperaban en teléfonos públicos recibieron la llamada y se desplegaron por hospitales y clínicas. ✅
-- Los abogados de Pfizer obtuvieron y defendieron la patente sobre la diferencia de un átomo. **Terramycin se convirtió en el antibiótico más vendido de Estados Unidos.** ✅
-- El veredicto de Posner: esto acabó con la vieja guardia; todos persiguieron el siguiente Terramycin. 🟡
+## Caso de estudio — El Terramycin y la medicina estrella
+- **Pfizer:** después de la guerra, los antibióticos se volvieron la mayor parte de su negocio; Posner dice "casi dos tercios" de las ventas y "80% de las ganancias" de las medicinas de la familia de las tetraciclinas. 🟡 (dos cifras mezcladas en la transcripción)
+- **Terramycin contra Aureomycin, de Lederle:** **la diferencia era un solo átomo de oxígeno**, sin ningún cambio en lo que hacían como medicina. Los propios científicos de Pfizer escribieron que no era un producto nuevo. ✅ (según lo contó) 🟡 Revisión de la evidencia: la diferencia de un oxígeno es entre el Terramycin (oxitetraciclina, C22H24N2O9) y la tetraciclina simple (C22H24N2O8); el Aureomycin (clortetraciclina, C22H23ClN2O8) además tiene un átomo de cloro (PubChem). Las dos eran tetraciclinas que matan muchos tipos de bacterias, descritas a finales de los años cuarenta (Nelson 2011).
+- El director Jack McKeen siguió adelante; Sackler recibió **$10 millones**, se creó expectativa antes del lanzamiento en periódicos y revistas, y el día del lanzamiento los vendedores que esperaban junto a teléfonos públicos recibieron la llamada y salieron a hospitales y clínicas. ✅
+- Los abogados de Pfizer consiguieron y defendieron la patente por la diferencia de un átomo. **El Terramycin se volvió el antibiótico más vendido de Estados Unidos.** ✅
+- La conclusión de Posner: esto acabó con la vieja guardia; todos se pusieron a buscar el siguiente Terramycin. 🟡
 
-## Cerrar el resquicio del farmacéutico — Leyes contra la sustitución
-- Problema para los titulares de patentes: los farmacéuticos podían cambiar una marca recetada (Terramycin) por un equivalente que tuvieran en existencia (Aureomycin). ✅
-- El cabildeo federal fracasó ("al gobierno federal no le interesaba"), así que la industria fue **estado por estado: 44 estados prohibieron la sustitución por parte del farmacéutico** en los cincuenta; los seis restantes lo hicieron después. ✅
-- Argumento público: proteger al paciente, porque el médico conoce el historial y el farmacéutico no. **La AMA se sumó**, porque le gustaba el encuadre de la "integridad del médico". La lectura de Posner: el objetivo real era proteger las ventas exclusivas. 🟡 (su afirmación de que la AMA "solo llevaba unas cuantas décadas de existencia" es incorrecta: la AMA se fundó en 1847, más de un siglo antes ✅)
+## Cerrar el hueco del farmacéutico — Leyes que no dejaban cambiar una marca por otra
+- El problema para los dueños de las patentes: los farmacéuticos podían cambiar una marca recetada (Terramycin) por una igual que tuvieran en la tienda (Aureomycin). ✅
+- La presión en Washington no funcionó ("al gobierno federal no le interesaba"), así que la industria fue **estado por estado: 44 estados prohibieron que el farmacéutico cambiara la marca** en los cincuenta; los otros seis lo hicieron después. ✅
+- El argumento ante el público: proteger al paciente, porque el médico conoce su historia y el farmacéutico no. **La Asociación Médica Americana (AMA) se sumó**, porque le gustaba la idea de proteger "la integridad del médico". La lectura de Posner: lo que de verdad se buscaba era proteger las ventas exclusivas. 🟡 (cuando dice que la AMA "solo tenía unas cuantas décadas" está mal: la AMA se fundó en 1847, más de un siglo antes ✅)
 
-## Combinaciones a dosis fija
-- Hacia **1960, 1 de cada 5 recetas en EE. UU. (20%)** eran combinaciones de antibióticos a dosis fija, cuando antes no había ninguna. 🟡 (según lo dijo; sin verificar)
-- Los propios estudios de las compañías: en algunas, solo el 25% (en otra, el 40%) podía afirmar siquiera una ventaja; la mayoría no encontró **ningún beneficio**, pero lo "nuevo" vendía. 🟡 (cifras confusas)
-- La agencia de Sackler promovió las combinaciones más que nadie; se ignoraron las advertencias de seguridad.
-- **Enterrar a un investigador en papel:** cuando un investigador pidió datos, unas **240 empresas** le enviaron camionadas; nunca publicó. 🟡 (número y desenlace según lo dijo)
+## Mezclas de medicinas en dosis fijas
+- Hacia **1960, 1 de cada 5 recetas en EE. UU. (20%)** eran mezclas de antibióticos en dosis fijas, cuando antes no había ninguna. 🟡 (según lo dijo; sin verificar)
+- Los propios estudios de las compañías: en algunas, solo 25% (en otra, 40%) podía decir que tenía alguna ventaja; la mayoría no encontró **ningún beneficio**, pero lo "nuevo" vendía. 🟡 (cifras confusas)
+- La agencia de Sackler promovió las mezclas más que nadie; no se hizo caso de las advertencias de seguridad.
+- **Enterrar a un investigador en papeles:** cuando un investigador pidió datos, unas **240 empresas** le mandaron camiones llenos; nunca publicó nada. 🟡 (número y final como él los dijo)
 
-## Fármacos me-too y juego con las patentes
-- En **1960, en las 10 compañías más grandes, el 25% del dinero de I+D se destinó a fármacos realmente nuevos y el 75% a fármacos me-too.** Posner: "Eso debería ser al revés". 🟡 (según lo dijo; sin verificar)
-- Cuando una patente expira, los genéricos suelen bajar el precio **en alrededor de dos tercios durante el primer año** (él dice los primeros nueve meses). 🟢 Verificación de evidencia: la magnitud de la baja depende de cuántos genéricos entren. Un análisis de la FDA encontró precios 31–39% por debajo de la marca con un genérico, 73–79% por debajo con cuatro y más de 95% por debajo con seis o más (Conrad 2019).
-- La segunda jugada: modificar ligeramente tu *propio* fármaco cuando se acerca la expiración y relanzarlo como "nuevo y mejorado". **"Nuevo y mejorado, en la industria farmacéutica, significa una protección de patente más larga".** ✅
-- Saturación del mercado hacia 1960–61: fármacos tan parecidos que "podías haber echado un volado", que solo se diferenciaban en precio y patente.
-- Anécdota aparte: a principios del siglo XX una compañía tenía el nombre **"adrenaline"**; las versiones de los rivales tenían que usar otros nombres. ✅ (no se nombra a la compañía; era el "Adrenalin" de Parke-Davis, sin verificar aquí)
+## Medicinas de copia y juegos con las patentes
+- En **1960, en las 10 compañías más grandes, 25% del dinero para investigación se fue a medicinas de verdad nuevas y 75% a medicinas de copia.** Posner: "Eso debería ser al revés". 🟡 (según lo dijo; sin verificar)
+- Cuando se vence una patente, las medicinas genéricas suelen bajar el precio **más o menos dos tercios en el primer año** (él dice en los primeros nueve meses). 🟢 Revisión de la evidencia: cuánto baja depende de cuántos genéricos lleguen. Un análisis de la FDA encontró precios de 31 a 39% más bajos que la marca con un genérico, de 73 a 79% más bajos con cuatro y más de 95% más bajos con seis o más (Conrad 2019).
+- La segunda jugada: cambiar un poquito tu *propia* medicina cuando se acerca el vencimiento y volver a sacarla como "nueva y mejorada". **"Nuevo y mejorado, en la industria farmacéutica, quiere decir más tiempo de patente".** ✅
+- Mercado lleno hacia 1960–61: medicinas tan parecidas que "podías haberlo echado a la suerte", que solo se diferenciaban en el precio y la patente.
+- Historia aparte: a principios del siglo XX una compañía era dueña del nombre **"adrenaline"**; las versiones de la competencia tenían que usar otros nombres. ✅ (no se nombra a la compañía; era el "Adrenalin" de Parke-Davis, aquí sin verificar)
 
-## Por qué la FDA no podía seguir el ritmo
-- Con pocos recursos y restricciones políticas; los anuncios en revistas se confundían con artículos revisados por pares. ✅
-- Los tribunales se pusieron del lado de las compañías una y otra vez. El estándar legal para la publicidad engañosa era que fuera **intencionalmente falsa**, así que las afirmaciones falsas por negligencia se resolvían con una disculpa y un anuncio corregido. ✅ 🟢 Coincide con la historia de la FDA: tras una enmienda de 1912, el gobierno tenía que probar que quienes hacían afirmaciones terapéuticas falsas tenían intención de defraudar, y perdió varios casos (FDA, Parte I).
-- La regla general de Posner: las empresas privadas con buen financiamiento van un paso adelante de la burocracia. 🟡
+## Por qué la FDA no podía seguir el paso
+- Con pocos recursos y amarrada por la política; los anuncios en las revistas se confundían con artículos revisados por otros científicos. ✅
+- Los jueces le dieron la razón a las compañías una y otra vez. La regla legal para la publicidad engañosa era que fuera **falsa a propósito**, así que las afirmaciones falsas por descuido se arreglaban con una disculpa y un anuncio corregido. ✅ 🟢 Coincide con la historia de la FDA: después de un cambio a la ley en 1912, el gobierno tenía que demostrar que quien hacía promesas falsas de curación quería engañar, y perdió varios casos (FDA, Parte I).
+- La regla general de Posner: las empresas privadas con mucho dinero van un paso adelante de las oficinas del gobierno. 🟡
 
-## La marca de la enfermedad — Crear demanda
-- Con ayuda de Sackler, Hoffmann-La Roche, Pfizer y otras **ampliaron las definiciones de enfermedad para ampliar los mercados**. ✅
-- Ejemplos: la **ansiedad leve** replanteada como un padecimiento médico causado por un "desequilibrio químico" (inicios de la era de Miltown); la **fatiga** común como trastorno; después la **prediabetes** y la **ansiedad social** ("la periferia de la enfermedad"). 🟡 (el encuadre de la prediabetes es su opinión)
-- **Ampliar las indicaciones** sin nuevos ensayos clínicos. ✅ según lo dijo
-- **Campañas de concientización sobre enfermedades** que patologizan la experiencia normal; "toda búsqueda en Google termina en la muerte".
-- Tesis central: **la demanda se crea, no se atiende.** El punto máximo llega a mediados de los sesenta con el Librium y el Valium (Cap. 5). 🟡
+## Ponerle marca a la enfermedad — Crear demanda
+- Con ayuda de Sackler, Hoffmann-La Roche, Pfizer y otras **ampliaron lo que cuenta como enfermedad para agrandar sus mercados**. ✅
+- Ejemplos: la **ansiedad leve** presentada como un problema médico causado por un "desequilibrio químico" (al principio de la época del Miltown); el **cansancio** de todos los días como un trastorno; después la **prediabetes** y la **ansiedad social** ("las orillas de la enfermedad"). 🟡 (lo de la prediabetes es su opinión)
+- **Ampliar para qué sirve una medicina** sin estudios nuevos. ✅ según lo dijo
+- **Campañas para "conocer" enfermedades** que convierten en enfermedad la experiencia normal; "toda búsqueda en Google termina en la muerte".
+- La idea central: **la demanda se crea, no se atiende.** Llega a lo más alto a mediados de los sesenta con el Librium y el Valium (Cap. 5). 🟡
 
-## Frases clave y datos citables (Clase 3)
-- **"El marketing podía transformar la ciencia. No hace mejor a la ciencia; hace que la ciencia se venda mejor".**
-- **107 muertos, la mayoría niños,** por el Elixir Sulfanilamida, y el único cargo fue la falta de alcohol.
+## Frases clave y datos para recordar (Clase 3)
+- **"La publicidad podía transformar la ciencia. No hace mejor a la ciencia; hace que la ciencia se venda mejor".**
+- **107 muertos, la mayoría niños,** por el Elixir Sulfanilamida, y el único cargo fue que no tenía alcohol.
 - **"La medicina es para la gente. No es para las ganancias".** George Merck, 1950.
 - **"¿Se podría patentar el sol?"** Jonas Salk.
-- **Un átomo de oxígeno, $10 millones, antibiótico número uno.** Terramycin.
-- **44 estados prohibieron la sustitución por parte del farmacéutico.**
-- **1 de cada 5 recetas en 1960 eran combinaciones a dosis fija.**
-- **El 75% de la I+D de las grandes farmacéuticas en 1960 se destinó a fármacos me-too.**
-- **"Nuevo y mejorado, en la industria farmacéutica, significa una protección de patente más larga".**
-- **Los casos de publicidad engañosa exigían que fuera "intencionalmente falsa".**
+- **Un átomo de oxígeno, $10 millones, antibiótico número uno.** El Terramycin.
+- **44 estados prohibieron que el farmacéutico cambiara la marca.**
+- **1 de cada 5 recetas en 1960 eran mezclas en dosis fijas.**
+- **75% de la investigación de las grandes farmacéuticas en 1960 se fue a medicinas de copia.**
+- **"Nuevo y mejorado, en la industria farmacéutica, quiere decir más tiempo de patente".**
+- **Los casos de publicidad engañosa exigían que fuera "falsa a propósito".**
 - **"La demanda se crea, no se atiende".**
 
-## Correcciones clave para llevar adelante
-- 🔴 "Los fármacos siempre se probaron en cuanto a seguridad": no antes de 1938, y la ley de 1938 exigía seguridad, no eficacia.
-- 🔴 "Un fármaco nuevo es un mejor fármaco": Terramycin se diferenciaba de Aureomycin por unos cuantos átomos (Posner dice un átomo de oxígeno), y tres cuartas partes de la I+D de 1960 se destinaron a fármacos me-too.
-- 🔴 "Un perfil de efectos secundarios más bajo significa más seguro": en un fármaco nuevo, a menudo significa que los efectos secundarios todavía no se han reportado (Posner: vuelvan en 10 años).
-- 🔴 "Los representantes médicos funcionan con sobornos": Posner dice que el mecanismo era la buena relación, la confianza y los médicos ocupados, no dinero por debajo de la mesa.
-- 🔴 "Las leyes contra la sustitución eran por la seguridad del paciente": según el relato de Posner, protegían las ventas exclusivas de fármacos patentados.
-- 🔴 "La resistencia a los antibióticos solo tiene que ver con las recetas en humanos": los animales de granja, las granjas de peces y los cultivos recibieron grandes dosis desde los años cincuenta.
+## Correcciones clave para recordar
+- 🔴 "Siempre se probó que las medicinas fueran seguras": no antes de 1938, y la ley de 1938 pedía seguridad, no que funcionaran.
+- 🔴 "Una medicina nueva es una medicina mejor": el Terramycin se diferenciaba del Aureomycin por unos cuantos átomos (Posner dice un átomo de oxígeno), y tres cuartas partes de la investigación de 1960 se fueron a medicinas de copia.
+- 🔴 "Menos efectos secundarios en la lista quiere decir más segura": en una medicina nueva, muchas veces quiere decir que todavía no se han reportado (Posner: vuelvan a ver en 10 años).
+- 🔴 "Los vendedores de medicinas funcionan con sobornos": Posner dice que lo que funcionaba era la buena relación, la confianza y los médicos ocupados, no dinero por debajo de la mesa.
+- 🔴 "Las leyes que no dejaban cambiar la marca eran por la seguridad del paciente": según Posner, protegían las ventas exclusivas de las medicinas con patente.
+- 🔴 "La resistencia a los antibióticos solo tiene que ver con las recetas a personas": los animales de granja, las granjas de peces y los cultivos recibieron dosis grandes desde los años cincuenta.
 
 ## Conclusión práctica
-Posner las plantea como sus opiniones, explícitamente "no es consejo médico": (1) pregúntale a tu médico en lenguaje sencillo qué evidencia respalda un fármaco nuevo más allá del marketing; (2) pregunta si un **genérico más antiguo** funcionaría igual de bien, ya que suele ser más barato y sus efectos secundarios se conocen después de 15–25 años; (3) evalúa el "perfil de efectos secundarios más bajo" de un fármaco nuevo sabiendo que en parte es consecuencia de su novedad; (4) di que no te da miedo un genérico, ya que los médicos no ganan comisión y a menudo recetan el fármaco más nuevo por reflejo; (5) desconfía de "nuevo", "mejorado" y "de avanzada".
+Posner las presenta como opiniones suyas, y dice claramente que "no es consejo médico": (1) pregúntale a tu médico, con palabras sencillas, qué pruebas hay de que una medicina nueva funciona, más allá de la publicidad; (2) pregunta si una **medicina genérica más antigua** funcionaría igual de bien, porque suele ser más barata y sus efectos secundarios ya se conocen después de 15 a 25 años; (3) cuando una medicina nueva diga tener "menos efectos secundarios", recuerda que en parte es porque es nueva; (4) dile al médico que no te da miedo un genérico, porque los médicos no ganan comisión y muchas veces recetan la medicina más nueva por costumbre; (5) desconfía de las palabras "nuevo", "mejorado" y "de avanzada".
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dada la historia de Terramycin, ¿qué dice Posner que lo convirtió en el antibiótico más vendido?**
-A. Era clínicamente superior a Aureomycin en ensayos comparativos directos
-B. \* Una patente sobre una diferencia de un átomo más el lanzamiento de $10 millones de Sackler con representantes y prensa previa al lanzamiento
+**1. Con la historia del Terramycin, ¿qué dice Posner que lo volvió el antibiótico más vendido?**
+A. Funcionaba mejor que el Aureomycin en estudios cara a cara
+B. \* Una patente por la diferencia de un átomo más el lanzamiento de $10 millones de Sackler, con vendedores y noticias antes de salir a la venta
 C. La FDA lo aprobó primero, así que no tuvo competencia
-*Por qué B: Posner dice que se diferenciaba de Aureomycin por un átomo de oxígeno sin cambio terapéutico; la patente y el marketing lo hicieron número uno.*
+*Por qué B: Posner dice que se diferenciaba del Aureomycin por un átomo de oxígeno, sin cambio como medicina; la patente y la publicidad lo hicieron el número uno.*
 
-**2. Según lo que dice Posner sobre la Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938, ¿qué afirmación es correcta?**
-A. Exigía prueba de que los fármacos funcionan antes de la venta
-B. Le dio a la FDA un gran aumento de personal para hacer cumplir las nuevas reglas
-C. \* Exigió prueba de seguridad por primera vez, después del Elixir Sulfanilamida, mientras el personal de la FDA creció solo alrededor de un 2%
-*Por qué C: la Ley fue una respuesta a las 107 muertes y pedía seguridad, no eficacia; los poderes crecieron, el tamaño no.*
+**2. Según lo que dice Posner de la Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938, ¿qué frase es correcta?**
+A. Pedía pruebas de que las medicinas funcionan antes de venderlas
+B. Le dio a la FDA mucha más gente para hacer cumplir las reglas nuevas
+C. \* Pidió por primera vez pruebas de que eran seguras, después del Elixir Sulfanilamida, mientras el personal de la FDA creció solo cerca de 2%
+*Por qué C: la Ley fue la respuesta a las 107 muertes y pedía seguridad, no que funcionaran; creció el poder, no el tamaño.*
 
-**3. ¿Por qué dice Posner que el "perfil de efectos secundarios más bajo" de un fármaco nuevo debe leerse con cuidado?**
-A. \* Porque un fármaco nuevo no ha estado en el mercado el tiempo suficiente para que se reporten los efectos secundarios; los genéricos con 15–25 años en el mercado tienen perfiles conocidos
-B. Porque los fármacos nuevos siempre son más peligrosos que los genéricos
-C. Porque la FDA no registra los efectos secundarios de los fármacos nuevos
-*Por qué A: él dice que la lista más corta "es cierta porque es nuevo", y que puede tomar 10 años conocer los efectos secundarios de un fármaco.*
+**3. ¿Por qué dice Posner que hay que leer con cuidado que una medicina nueva tiene "menos efectos secundarios"?**
+A. \* Porque una medicina nueva no ha estado a la venta el tiempo suficiente para que se reporten sus efectos secundarios; los genéricos con 15 a 25 años a la venta ya tienen sus efectos conocidos
+B. Porque las medicinas nuevas siempre son más peligrosas que los genéricos
+C. Porque la FDA no anota los efectos secundarios de las medicinas nuevas
+*Por qué A: él dice que la lista más corta "es cierta porque es nueva", y que pueden pasar 10 años para conocer los efectos secundarios de una medicina.*
 
-**4. ¿Cómo impidió la industria que los farmacéuticos cambiaran una marca recetada por un fármaco equivalente?**
-A. Mediante una ley federal aprobada por el Congreso en los años cincuenta
+**4. ¿Cómo logró la industria que los farmacéuticos no cambiaran una marca recetada por una medicina igual?**
+A. Con una ley nacional aprobada por el Congreso en los años cincuenta
 B. Pagándoles a los farmacéuticos para que solo tuvieran sus marcas
-C. \* Cabildeando ante las legislaturas estatales una por una, con el apoyo de la AMA, hasta que 44 estados prohibieron la sustitución, planteada como protección del criterio del médico
-*Por qué C: Posner dice que a Washington no le interesaba, así que la industria fue estado por estado y argumentó la protección del paciente.*
+C. \* Presionando a los congresos de cada estado, uno por uno, con el apoyo de la AMA, hasta que 44 estados prohibieron el cambio, presentado como una forma de proteger el criterio del médico
+*Por qué C: Posner dice que en Washington no les interesó, así que la industria fue estado por estado y usó el argumento de proteger al paciente.*
 
-## Cabos sueltos
+## Temas abiertos
 - ✅ **Transcripción completa:** termina con el adelanto de la Clase 4.
 - **Las revistas propias de Sackler** ("como verán") y las "tribunas" médicas: prometidas para clases posteriores.
-- **El punto máximo de las benzodiazepinas** (Librium, Valium, ansiedad leve): Cap. 5 Mother's Little Helper.
-- **La investigación de 1959–62 y el proyecto de ley propuesto** que "habría revolucionado" la industria: Cap. 4.
-- **Cifras confusas** (Pfizer dos tercios vs. 80%, dosis fija 25%/40%, 240 empresas, 35,000 médicos): siguen sin verificar tras la auditoría de octubre de 2026; verificar contra *Pharma* antes de citarlas. La afirmación del átomo único y la antigüedad de la AMA sí se verificaron (ver las verificaciones de evidencia).
-- **La epidemia de opioides**, mencionada de pasada como el caso extremo del daño del marketing: clases posteriores.
+- **El punto más alto de las benzodiazepinas** (Librium, Valium, ansiedad leve): Cap. 5 Mother's Little Helper.
+- **La investigación de 1959–62 y el proyecto de ley** que "habría revolucionado" la industria: Cap. 4.
+- **Cifras confusas** (Pfizer dos tercios o 80%, mezclas 25%/40%, 240 empresas, 35,000 médicos): siguen sin verificar después de la revisión de octubre de 2026; hay que verificarlas en *Pharma* antes de citarlas. Lo del átomo y la antigüedad de la AMA sí se verificaron (ver las revisiones de la evidencia).
+- **La epidemia de opioides**, mencionada de pasada como el caso extremo del daño de la publicidad: clases posteriores.
 
-## Lo que se recortó deliberadamente (autoauditoría)
-- Los resúmenes repetidos y las reiteraciones de "conclusiones" al final de la clase.
-- Los comentarios personales de Posner (la comparación del consumismo con las aspiradoras, la broma de la búsqueda en Google más allá de una línea).
-- El repaso repetido del "panorama anterior a 1906" (jarabes para la tos con heroína, inhaladores de cocaína), ya cubierto en el Cap. 1.
-- El diálogo detallado de la presentación del representante ("este me deja con la boca abierta"), conservado solo como el mecanismo de la buena relación.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Los resúmenes repetidos y las "conclusiones" que se repiten al final de la clase.
+- Los comentarios personales de Posner (la comparación del consumismo con las aspiradoras, el chiste de la búsqueda en Google más allá de una línea).
+- El repaso repetido de "cómo estaban las cosas antes de 1906" (jarabes para la tos con heroína, inhaladores de cocaína), que ya se vio en el Cap. 1.
+- El diálogo detallado de cómo el vendedor presentaba la medicina ("esta me deja con la boca abierta"), que solo se conserva como ejemplo de la buena relación.
 
 ---
 **Referencias:**

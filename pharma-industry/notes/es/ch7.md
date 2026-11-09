@@ -1,171 +1,171 @@
-# Posner — La industria farmacéutica, Cap. 7: El precio del monopolio y los medicamentos huérfanos
+# Posner — La industria farmacéutica, Cap. 7: El precio del monopolio y las medicinas "huérfanas"
 
-*Cómo una ley de 1983 bien intencionada para enfermedades raras se convirtió en el modelo más lucrativo de la industria: monopolios de medicamentos huérfanos (AZT, Truvada, Botox, Acthar, Daraprim), terapias génicas de siete cifras, reembolsos de los PBM y cómo ser un paciente más inteligente.*
+*Cómo una ley de 1983 con buenas intenciones para las enfermedades raras se volvió el negocio que más deja de la industria: monopolios de medicinas "huérfanas" (AZT, Truvada, Botox, Acthar, Daraprim), tratamientos de genes de millones de dólares, los descuentos secretos de los intermediarios (PBM) y cómo ser un paciente más inteligente.*
 
-*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Lección 7 (transcripción). Séptima de ocho lecciones; sigue al Cap. 6 sobre la captura política y prepara el Cap. 8 sobre las ganancias de la pandemia. Posner es periodista de investigación (autor de "Pharma"), no científico: sus hechos históricos se marcan con ✅ cuando están claramente planteados, y sus interpretaciones con 🟡. La transcripción parece completa; termina con su lista de verificación del "paciente más inteligente".*
+*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 7 (transcripción). Séptima de ocho clases; sigue del Cap. 6, sobre cómo se compró a los políticos, y prepara el Cap. 8, sobre las ganancias de la pandemia. Posner es periodista de investigación (autor de "Pharma"), no científico: sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. La transcripción parece completa; termina con su lista del "paciente más inteligente".*
 
 ## Por qué importa
-Las lecciones anteriores siguieron el modelo de mercado masivo. Esta lección muestra la inversión. Desde la Ley de Medicamentos Huérfanos, los medicamentos más rentables pueden ser los que tratan a unos pocos cientos o unos pocos miles de personas a entre $300,000 y $4 millones cada una. La tesis de Posner: **la ganancia viene de la escasez, no del volumen**, y el sistema que lo permite es una mezcla de ley de patentes, exclusividad huérfana, promoción fuera de indicación (off-label) e intermediarios opacos (los PBM). Para un paciente: el precio de lista, el formulario y la ruta de farmacia están moldeados por fuerzas que no tienen relación con qué tan bien funciona un medicamento.
+Las clases anteriores siguieron el modelo de vender a millones. Esta clase muestra lo contrario. Desde la Ley de Medicamentos Huérfanos, las medicinas que más dejan pueden ser las que tratan a unos cuantos cientos o miles de personas, a entre $300,000 y $4 millones cada una. La idea de Posner: **la ganancia viene de que haya pocos, no de vender mucho**, y lo que lo permite es una mezcla de leyes de patentes, la exclusividad para medicinas huérfanas, la promoción para usos no aprobados ("off-label") y unos intermediarios de los que se sabe poco (los PBM). Para un paciente: el precio de lista, la lista de medicinas que cubre el seguro y la farmacia a la que lo mandan dependen de fuerzas que no tienen nada que ver con qué tan bien funciona una medicina.
 
-## Comentario inicial — Lucrar con los efectos secundarios
-- Posner dice que una compañía de los años sesenta veía un medicamento con muchos efectos secundarios como una "droga de entrada": no adictiva, sino una fuente de medicamentos derivados para tratar sus efectos secundarios. 🟡 (no se nombran la compañía ni el medicamento)
-- El intento de Purdue Pharma de no ser una empresa "de un solo éxito" fue un medicamento para el **estreñimiento inducido por opioides**. ✅ Su punto: los efectos secundarios se convierten en una nueva línea de productos.
+## Comentario al empezar — Ganar con los efectos secundarios
+- Posner dice que una compañía de los años sesenta veía una medicina con muchos efectos secundarios como una "medicina de entrada": no adictiva, sino una fuente de más medicinas para tratar sus efectos secundarios. 🟡 (no se dice qué compañía ni qué medicina)
+- El intento de Purdue Pharma de no depender de un solo éxito fue una medicina para el **estreñimiento que causan los opioides**. ✅ Lo que quiere decir: los efectos secundarios se vuelven una nueva línea de productos.
 
-## La inversión del mercado — Del mercado masivo a los micromercados
-- Modelo antiguo: 20 millones de recetas a unos $40. Modelo nuevo: a veces 400 a 500 pacientes al "precio más alto que puedan cobrar". ✅
-- Lo plantea como una ley bien intencionada con **consecuencias no deseadas**, no como un plan premeditado. 🟡 (su encuadre)
+## El mercado al revés — De millones de clientes a unos cuantos
+- Modelo viejo: 20 millones de recetas a unos $40. Modelo nuevo: a veces 400 a 500 pacientes al "precio más alto que puedan cobrar". ✅
+- Lo presenta como una ley con buenas intenciones que tuvo **consecuencias que nadie buscaba**, no como un plan pensado de antemano. 🟡 (su forma de verlo)
 
 ## La Ley de Medicamentos Huérfanos (1983)
-- Ley federal que otorga incentivos para desarrollar medicamentos para enfermedades raras. Los redactores debatieron el umbral: primero **100,000** pacientes, luego ampliado a **200,000 o menos**. ✅ 🟢 Verificación de evidencia: la Ley de 1983 definía una enfermedad rara solo como una tan poco frecuente que no permitía recuperar los costos; una enmienda de 1984 fijó el umbral de "menos de 200,000 personas en EE. UU.", y una enfermedad por encima de esa cifra aún califica si los costos no pueden recuperarse (21 U.S.C. 360bb).
-- Por qué hacía falta: las grandes compañías (Pfizer, Merck) no tenían motivos para atender poblaciones pequeñas con enfermedades mayormente hereditarias y genéticas. ✅
-- De los años ochenta a los dos mil, los medicamentos huérfanos se convirtieron en el **sector de más rápido crecimiento y más lucrativo**, con precios de **$300,000 a $3 millones al año**. ✅
+- Ley nacional que da premios por hacer medicinas para enfermedades raras. Los que la escribieron discutieron el límite: primero **100,000** pacientes, luego se subió a **200,000 o menos**. ✅ 🟢 Revisión de la evidencia: la Ley de 1983 definía una enfermedad rara solo como una tan poco común que no dejaba recuperar lo invertido; un cambio de 1984 puso el límite de "menos de 200,000 personas en EE. UU.", y una enfermedad con más personas todavía cuenta si no se puede recuperar lo invertido (21 U.S.C. 360bb).
+- Por qué hacía falta: las grandes compañías (Pfizer, Merck) no tenían razones para atender a grupos pequeños con enfermedades casi siempre heredadas o genéticas. ✅
+- De los años ochenta a los dos mil, las medicinas huérfanas se volvieron **el sector que más rápido creció y el que más deja**, con precios de **$300,000 a $3 millones al año**. ✅
 
-### Los ocho incentivos
+### Los ocho premios
 
-| Incentivo | Lo que obtiene la compañía |
+| Premio | Lo que recibe la compañía |
 | --- | --- |
-| Subvenciones de investigación | Subvenciones pagadas por los contribuyentes para la investigación temprana, hasta $500,000 al año |
-| Crédito fiscal del 50% en I+D | Mucho más alto que el crédito normal por I+D (✅ Verificación de evidencia: la ley fiscal de 2017 lo redujo al **25%** de los costos calificados de ensayos clínicos: RAPS 2017) |
-| Deducción del resto | El 50% restante se deduce como gasto de operación; efecto neto: cerca del **70% de la I+D pagado por el gobierno federal** (🟡 su cálculo, basado en el crédito del 50% anterior a 2018) |
-| Copatrocinio | Copatrocinio simplificado con instituciones académicas y los NIH |
-| Exención de tarifas | Se eximen las tarifas de trámite de la FDA |
-| Revisión acelerada | Vía rápida sin pagar por ella; el habitual calvario de tres o más ensayos rigurosos "dramáticamente abreviado" |
-| Subvenciones para ensayos | Subvenciones competitivas de la FDA para ensayos clínicos |
-| **Exclusividad de 7 años** | El premio: la "mini-patente de platino" |
+| Becas para investigar | Becas pagadas por los contribuyentes para la investigación del principio, hasta $500,000 al año |
+| 50% menos de impuestos por lo que gasta en investigar | Mucho más que el descuento normal por investigar (✅ Revisión de la evidencia: la ley de impuestos de 2017 lo bajó a **25%** de lo que se gasta en estudios en personas: RAPS 2017) |
+| Descontar el resto | El otro 50% se descuenta como gasto del negocio; al final, cerca de **70% de la investigación lo paga el gobierno** (🟡 su cálculo, con el descuento de 50% de antes de 2018) |
+| Patrocinio compartido | Es más fácil patrocinar junto con universidades y los Institutos Nacionales de Salud (NIH) |
+| Sin cuotas | No se pagan las cuotas de trámite de la FDA |
+| Revisión rápida | Vía rápida sin pagar por ella; el largo camino de tres o más estudios rigurosos se "acorta muchísimo" |
+| Becas para estudios | Becas de la FDA, por concurso, para estudios en personas |
+| **7 años de exclusividad** | El gran premio: la "mini-patente de platino" |
 
-- Por qué siete años superaban a una patente de 17 a 20 años: una patente ordinaria todavía permite **medicamentos "me-too"** (su ejemplo de los antibióticos: Terramycin y Aureomycin compitiendo con la tetraciclina). La exclusividad huérfana significa que **nadie más puede vender un medicamento para esa condición**, así que los competidores dejan de investigarla. 🟡 Verificación de evidencia: legalmente es más limitada. Durante 7 años la FDA no aprobará **el mismo fármaco para el mismo uso**; un fármaco distinto para la misma enfermedad sí puede aprobarse, e incluso el mismo fármaco si es clínicamente superior o si el titular no puede abastecer lo suficiente (21 CFR 316.31).
+- Por qué siete años valían más que una patente de 17 a 20 años: una patente normal todavía deja que haya **medicinas de copia** (su ejemplo de los antibióticos: Terramycin y Aureomycin compitiendo con la tetraciclina). La exclusividad huérfana quiere decir que **nadie más puede vender una medicina para ese problema**, así que la competencia deja de investigarlo. 🟡 Revisión de la evidencia: en la ley es más limitado. Durante 7 años la FDA no aprueba **la misma medicina para el mismo uso**; sí se puede aprobar una medicina distinta para la misma enfermedad, e incluso la misma medicina si funciona claramente mejor o si el dueño no puede surtir lo suficiente (21 CFR 316.31).
 
-### Los resquicios
-- **Tamaño protegido por derechos adquiridos:** si un medicamento obtiene la condición de huérfano mientras la enfermedad tiene menos de 200,000 pacientes, sigue protegido aunque la población crezca a millones (se decidió con el AZT). ✅
-- **Apilamiento de indicaciones:** dividir enfermedades en subtipos (por ejemplo, una versión pediátrica) para ganar nuevos periodos de exclusividad. ✅
-- **Reposicionamiento de medicamentos:** reutilizar un medicamento aprobado para una nueva indicación huérfana para extender la protección. ✅
-- **Sin regla de "graduación":** un medicamento que se volvió un éxito de ventas masivo aún puede cobrar créditos huérfanos y exclusividad por cada nueva indicación rara. ✅
-- **Justificación del precio:** el medicamento es más barato que cinco a siete años de atención hospitalaria; los pagadores europeos exigen este cálculo. ✅
+### Los huecos
+- **El tamaño queda "congelado":** si una medicina recibe la etiqueta de huérfana cuando la enfermedad tiene menos de 200,000 pacientes, sigue protegida aunque los pacientes lleguen a millones (se decidió con el AZT). ✅
+- **Amontonar usos:** dividir una enfermedad en tipos (por ejemplo, una versión en niños) para ganar más periodos de exclusividad. ✅
+- **Darle otro uso a una medicina:** usar una medicina ya aprobada para un nuevo uso huérfano y así alargar la protección. ✅
+- **Nunca "se gradúa":** una medicina que se volvió un éxito de ventas enorme todavía puede cobrar los premios de huérfana y la exclusividad por cada nuevo uso raro. ✅
+- **Cómo justifican el precio:** la medicina sale más barata que cinco a siete años de hospital; los que pagan en Europa piden esta cuenta. ✅
 
 ## Casos de estudio — El modelo
 
-### AZT — el prototipo
-- Samuel Broder dirigió un equipo de los NIH que buscaba un medicamento para frenar la replicación del VIH; se enfocaron en fármacos retrovirales y encontraron el **AZT**, patentado pero sin uso en el estante de Burroughs Wellcome. Burroughs ni siquiera podía reconstituirlo, así que los NIH lo fabricaron. ✅ (🟢 Los expedientes judiciales muestran que Burroughs Wellcome envió el AZT, con el código "Compound S", al laboratorio de Broder en los NIH en febrero de 1985, donde Mitsuya demostró que era activo contra el VIH: *Burroughs Wellcome v. Barr*, 1994.)
-- Primer ensayo en humanos en julio de 1985; aprobado en **20 meses**, lo más rápido jamás visto para un antiviral (lo normal podían ser ocho a nueve años). A los activistas aún les pareció demasiado lento. ✅ (aprobado el 19 de marzo de 1987 tras unos récord 20 meses: POZ 2017)
-- Los NIH gastaron **$50 millones**; Burroughs Wellcome le puso un precio de **$10,000 por paciente**, luego $8,000 tras las protestas (🟡 los reportes sitúan el precio de lanzamiento en unos $8,000 al año: POZ 2017). **El 35% de los pacientes con sida no tenía seguro.** ✅
-- Un fabricante de genéricos ofreció una copia por un par de cientos de dólares; un tribunal federal falló a favor de Burroughs con base en la exclusividad huérfana. Posner dice que la disputa por la patente llegó a la Corte Suprema, donde los abogados de Burroughs llamaron a los NIH "un par de manos" y ganaron. 🟡 Verificación de evidencia: el fallo decisivo vino del tribunal de apelaciones del **Circuito Federal** en noviembre de 1994, no de la Corte Suprema. Los fabricantes de genéricos Barr y Novopharm alegaban que los científicos de los NIH Broder y Mitsuya debían figurar como coinventores; el tribunal le dio la razón en lo principal a Burroughs Wellcome (*Burroughs Wellcome v. Barr*, 40 F.3d 1223). Fue un caso de patentes, no de exclusividad huérfana.
-- La acción de Wellcome subió cerca de 500%; el AZT era aproximadamente un tercio de los ingresos (unos $450 millones al año) y superó los $2,000 millones al año para 1994. Subsidio para los no asegurados: cerca de $300 millones al año, luego $400 millones. 🟡 (las cifras cambian de forma confusa en la transcripción)
+### AZT — el primero de su tipo
+- Samuel Broder dirigió un equipo de los NIH que buscaba una medicina para frenar que el VIH se multiplicara; se fijaron en medicinas contra los retrovirus y encontraron el **AZT**, con patente pero sin usar, guardado en la repisa de Burroughs Wellcome. Burroughs ni siquiera sabía prepararlo, así que lo fabricaron los NIH. ✅ (🟢 Los papeles del juicio muestran que Burroughs Wellcome mandó el AZT, con la clave "Compound S", al laboratorio de Broder en los NIH en febrero de 1985, donde Mitsuya demostró que funcionaba contra el VIH: *Burroughs Wellcome v. Barr*, 1994.)
+- Primer estudio en personas en julio de 1985; aprobado en **20 meses**, lo más rápido que se había visto para una medicina contra virus (lo normal podían ser ocho o nueve años). A los activistas todavía les pareció muy lento. ✅ (aprobado el 19 de marzo de 1987 después de 20 meses, un récord: POZ 2017)
+- Los NIH gastaron **$50 millones**; Burroughs Wellcome le puso un precio de **$10,000 por paciente**, y luego $8,000 después de las protestas (🟡 los reportes dicen que salió a la venta a unos $8,000 al año: POZ 2017). **35% de los pacientes con sida no tenía seguro.** ✅
+- Un fabricante de genéricos ofreció una copia por un par de cientos de dólares; un tribunal federal le dio la razón a Burroughs por la exclusividad huérfana. Posner dice que la pelea por la patente llegó a la Suprema Corte, donde los abogados de Burroughs llamaron a los NIH "un par de manos" y ganaron. 🟡 Revisión de la evidencia: la decisión final la dio el tribunal de apelaciones del **Circuito Federal** en noviembre de 1994, no la Suprema Corte. Los fabricantes de genéricos Barr y Novopharm decían que los científicos de los NIH, Broder y Mitsuya, debían aparecer como coinventores; el tribunal le dio la razón en lo principal a Burroughs Wellcome (*Burroughs Wellcome v. Barr*, 40 F.3d 1223). Fue un caso de patentes, no de exclusividad huérfana.
+- La acción de Wellcome subió cerca de 500%; el AZT era más o menos un tercio de los ingresos (unos $450 millones al año) y pasó de $2,000 millones al año para 1994. Ayuda para los que no tenían seguro: cerca de $300 millones al año, luego $400 millones. 🟡 (las cifras cambian de forma confusa en la transcripción)
 
-### Truvada — treinta años después, el mismo patrón
-- Aprobado en 2004 para tratar el VIH. Investigación de los CDC sobre prevención desde 2006; Gilead envió dosis gratuitas en 2008; resultados publicados en 2010 (JAMA y NEJM); en 2015 el gobierno de EE. UU. patentó el uso profiláctico (PrEP). ✅ (el ensayo iPrEx de 2010 en NEJM: Grant 2010)
-- Dinero público: la Fundación Gates $17 millones, los NIH pagaron los ensayos en humanos, un investigador de San Francisco usó $50 millones en subvenciones federales. ✅
-- Gilead litigó por la patente y **ganó**. 🟡 Verificación de evidencia: fue el gobierno de EE. UU. el que demandó a Gilead (2019), alegando que las ventas de Truvada y Descovy para PrEP usaban patentes de los CDC; en mayo de 2023 un jurado de Delaware absolvió a Gilead y declaró inválidas las patentes del gobierno (CNBC 2023). Posner lo llama "una de las batallas fundamentales en la historia moderna de los medicamentos": una vez que eres dueño de una patente, ningún tribunal te la quitará, ni siquiera si proviene de trabajo financiado con fondos públicos. 🟡 (su interpretación)
-- Costo de unos $6 por dosis; precio de $1,800 por paciente (🟡 muy probablemente por el suministro de un mes; sin verificar); él afirma un **sobreprecio de 25,000%** 🟡 (la unidad detrás de los $1,800 no está clara, y el porcentaje no se deriva limpiamente de las dos cifras). Entre los 20 medicamentos más vendidos, unos $3,000 millones al año, unos $30,000 millones en total hasta que la patente expiró en 2021. Gilead pasó a una nueva formulación, **Descovy**. ✅
+### Truvada — treinta años después, lo mismo
+- Aprobado en 2004 para tratar el VIH. Los Centros para el Control de Enfermedades (CDC) investigaron usarlo para prevenir desde 2006; Gilead mandó dosis gratis en 2008; los resultados se publicaron en 2010 (JAMA y NEJM); en 2015 el gobierno de EE. UU. patentó el uso para prevenir (PrEP). ✅ (el estudio iPrEx de 2010 en NEJM: Grant 2010)
+- Dinero público: la Fundación Gates $17 millones, los NIH pagaron los estudios en personas, un investigador de San Francisco usó $50 millones en becas del gobierno. ✅
+- Gilead peleó la patente en los tribunales y **ganó**. 🟡 Revisión de la evidencia: fue el gobierno de EE. UU. el que demandó a Gilead (2019), diciendo que las ventas de Truvada y Descovy para prevenir usaban patentes de los CDC; en mayo de 2023 un jurado de Delaware declaró inocente a Gilead y dijo que las patentes del gobierno no valían (CNBC 2023). Posner lo llama "una de las batallas más importantes en la historia moderna de las medicinas": cuando eres dueño de una patente, ningún tribunal te la va a quitar, aunque venga de trabajo pagado con dinero público. 🟡 (su interpretación)
+- Costaba unos $6 por dosis; se vendía a $1,800 por paciente (🟡 seguramente por un mes de medicina; sin verificar); él dice que es un **sobreprecio de 25,000%** 🟡 (no queda claro a qué se refieren los $1,800, y el porcentaje no sale limpio de las dos cifras). Entre las 20 medicinas más vendidas, unos $3,000 millones al año, unos $30,000 millones en total hasta que se venció la patente en 2021. Gilead se pasó a una fórmula nueva, el **Descovy**. ✅
 
-### Botox — de medicamento huérfano a marca cultural
-- Un medicamento de un oftalmólogo, **Oculinum**, aprobado para dos indicaciones huérfanas de espasmo ocular (Posner dice que en 1990; ✅ se autorizó el 29 de diciembre de 1989 para estrabismo y blefaroespasmo, y Allergan adquirió el producto en 1991: Scott 2023); Allergan compró la compañía por **$8 millones** (según lo dijo; sin verificar) y los derechos en 1991. Botox = **toxina botulínica**. ✅
-- Los médicos notaron menos arrugas; los dermatólogos lo usaron **fuera de indicación**. Allergan no conocía el efecto cosmético cuando compró el medicamento, según Posner. ✅
-- Aprobación para distonía cervical unos diez años después. **De 2001 a 2010:** una campaña encubierta que lo promovía para dolores de cabeza y dolor. ✅
-- **Advertencia de recuadro negro** después de que dos niños murieran en ensayos de parálisis cerebral. Apenas afectó las ventas porque los pacientes nunca ven el frasco: quien lo ve es quien inyecta. ✅ ("la advertencia de recuadro negro con menos efecto" es su juicio 🟡)
-- Tácticas: representantes de ventas impulsando el uso fuera de indicación para dolor de cabeza y dolor; talleres que enseñaban a los médicos a **disfrazar las inyecciones fuera de indicación para obtener cobertura del seguro**; escapadas de fin de semana y cenas pagadas ("el manual de los Sackler"); un medio de información para pacientes financiado por Allergan. ✅
-- **2010:** declaración de culpabilidad por un delito menor (etiquetado engañoso mediante promoción fuera de indicación); multa penal de **$375 millones** más un acuerdo civil de **$225 millones** = **$600 millones** (✅ Departamento de Justicia de EE. UU., 1 de septiembre de 2010: los $375 millones incluían $25 millones en bienes decomisados; los usos fuera de indicación fueron dolor de cabeza, dolor, espasticidad y parálisis cerebral juvenil, y Allergan organizó talleres para facturar usos fuera de indicación), incluida la exposición bajo la False Claims Act por reclamaciones a Medicare, Medicaid y la VA; un Acuerdo de Integridad Corporativa. ✅ Posner: las multas son "el costo de hacer negocios". 🟡
-- Barrera defensiva: menos de una docena de empleados conocen la receta exacta de fermentación; se están probando alrededor de una docena más de designaciones huérfanas, cada una con nuevos créditos y siete años de exclusividad. ✅
-- Reparto aproximado de ingresos que da: 70% cosmético, 20% migraña, 10% vejiga hiperactiva; cerca del 20% de los ingresos de la compañía, más de $3,000 millones al año. 🟡 (su desglose aproximado)
+### Botox — de medicina huérfana a marca famosa
+- Una medicina de un oftalmólogo, el **Oculinum**, aprobada para dos usos huérfanos de espasmos en el ojo (Posner dice que en 1990; ✅ se aprobó el 29 de diciembre de 1989 para el estrabismo (ojos desviados) y el blefaroespasmo (párpados que se cierran solos), y Allergan compró el producto en 1991: Scott 2023); Allergan compró la compañía por **$8 millones** (según lo dijo; sin verificar) y los derechos en 1991. Botox = **toxina botulínica**. ✅
+- Los médicos vieron que quitaba arrugas; los dermatólogos lo usaron **para usos no aprobados**. Según Posner, Allergan no sabía del efecto en la belleza cuando compró la medicina. ✅
+- Aprobación para un problema de los músculos del cuello (distonía cervical) unos diez años después. **De 2001 a 2010:** una campaña escondida que lo promovía para dolores de cabeza y dolor. ✅
+- **Advertencia en recuadro negro** (la más fuerte de la FDA) después de que murieron dos niños en estudios de parálisis cerebral. Casi no afectó las ventas, porque los pacientes nunca ven el frasco: quien lo ve es quien inyecta. ✅ ("la advertencia de recuadro negro con menos efecto" es su opinión 🟡)
+- Tácticas: vendedores que empujaban usarlo para dolor de cabeza y dolor sin aprobación; talleres que enseñaban a los médicos a **disfrazar las inyecciones para usos no aprobados y que el seguro las pagara**; viajes de fin de semana y cenas pagadas ("el método de los Sackler"); un medio de información para pacientes pagado por Allergan. ✅
+- **2010:** se declaró culpable de un delito menor (etiqueta engañosa por promover usos no aprobados); multa penal de **$375 millones** más un acuerdo civil de **$225 millones** = **$600 millones** (✅ Departamento de Justicia de EE. UU., 1 de septiembre de 2010: los $375 millones incluían $25 millones en bienes confiscados; los usos no aprobados fueron dolor de cabeza, dolor, rigidez de los músculos y parálisis cerebral en niños, y Allergan organizó talleres para cobrar los usos no aprobados), incluida la responsabilidad por la ley contra los cobros falsos (False Claims Act) por lo que se cobró a Medicare, Medicaid y la VA (el sistema de veteranos); y un acuerdo para portarse bien (Acuerdo de Integridad Corporativa). ✅ Posner: las multas son "el costo de hacer negocios". 🟡
+- Muro de protección: menos de una docena de empleados conocen la receta exacta para fermentarlo; se están probando más o menos otra docena de etiquetas de huérfana, cada una con nuevos premios y siete años de exclusividad. ✅
+- Cómo reparte los ingresos, más o menos: 70% belleza, 20% migraña, 10% vejiga que se activa de más; cerca de 20% de los ingresos de la compañía, más de $3,000 millones al año. 🟡 (su cálculo aproximado)
 
-### Gel Acthar — el precio es el modelo de negocio
-- Aprobado en **1952** para el **síndrome de West**, un trastorno epiléptico infantil raro y a menudo mortal (🟡 según lo dijo; no pudimos confirmar que la aprobación de 1952 mencionara el síndrome de West); elaborado a partir de glándulas pituitarias de cerdos sacrificados; descubierto por **Armour**, la empacadora de carne. ✅
-- Sanofi-Aventis (años noventa): $40 por frasco para unos 700 a 900 pacientes al año; perdía dinero. Questcor (2001): $1,650, todavía perdía dinero. ✅ (el precio inicial de $40 por frasco coincide con el expediente del caso de la FTC: NAAG 2017)
-- **2007:** el nuevo director ejecutivo **Don Bailey**, sin experiencia en la industria farmacéutica, lo subió a **$23,000 por frasco**, lo reformuló como gel y obtuvo de nuevo la **condición de huérfano** (siete años más). Lo impulsó para el síndrome nefrótico, la artritis reumatoide y el lupus. ✅
+### Gel Acthar — el precio es el negocio
+- Aprobado en **1952** para el **síndrome de West**, una epilepsia rara de los bebés que muchas veces es mortal (🟡 según lo dijo; no pudimos confirmar que la aprobación de 1952 mencionara el síndrome de West); se hace con la glándula pituitaria de cerdos del rastro; lo descubrió **Armour**, la empacadora de carne. ✅
+- Sanofi-Aventis (años noventa): $40 por frasco para unos 700 a 900 pacientes al año; perdía dinero. Questcor (2001): $1,650, todavía perdía dinero. ✅ (el precio de $40 por frasco coincide con los papeles del caso de la FTC: NAAG 2017)
+- **2007:** el nuevo director **Don Bailey**, que no tenía experiencia en la industria farmacéutica, lo subió a **$23,000 por frasco**, lo cambió a gel y consiguió otra vez la **etiqueta de huérfana** (siete años más). Lo empujó para un problema de los riñones (síndrome nefrótico), la artritis reumatoide y el lupus. ✅
 - La acción pasó de $0.60 a $50; los directivos vendieron más de $100 millones en dos años. **Los programas del gobierno pagaron más de $2,000 millones (2011 a 2016).** ✅
-- **El 60% del aumento de ventas fue a adultos mayores de Medicare**, en gran parte fuera de indicación para la artritis reumatoide, donde Posner dice que no hay evidencia clínica de que ayude. Dr. Dennis Bourdette (Oregon Health & Science University): "para mí es un misterio por qué alguien recetaría el medicamento". ✅
-- **Eliminar al rival barato:** el primo químico canadiense **Synacthen** se vendía a $33 por frasco. Mallinckrodt compró Questcor, luego compró al fabricante de Synacthen y lo retiró del mercado. 🟡 Verificación de evidencia: fue **Questcor** quien compró a Novartis los derechos de Synacthen en EE. UU. (2012, superando a otras tres empresas con $135 millones en pagos garantizados), antes de que Mallinckrodt adquiriera Questcor; en 2017 Mallinckrodt pagó $100 millones para resolver las acusaciones antimonopolio de la FTC y varios estados por esa compra (NAAG 2017).
+- **60% de las ventas de más fueron para adultos mayores de Medicare**, en gran parte para la artritis reumatoide sin aprobación, donde Posner dice que no hay pruebas de que ayude. Dr. Dennis Bourdette (Oregon Health & Science University): "para mí es un misterio por qué alguien recetaría esta medicina". ✅
+- **Quitar del camino al rival barato:** el primo químico canadiense, el **Synacthen**, se vendía a $33 por frasco. Mallinckrodt compró Questcor, luego compró al fabricante del Synacthen y lo sacó del mercado. 🟡 Revisión de la evidencia: fue **Questcor** quien le compró a Novartis los derechos del Synacthen en EE. UU. (2012, ganándoles a otras tres empresas con $135 millones en pagos asegurados), antes de que Mallinckrodt comprara Questcor; en 2017 Mallinckrodt pagó $100 millones para cerrar las acusaciones de monopolio de la FTC y de varios estados por esa compra (NAAG 2017).
 
-### Daraprim — Shkreli y la historia del "mal actor"
-- 2015: Martin Shkreli compró Daraprim (infecciones parasitarias raras en personas con el sistema inmunitario debilitado) por **$55 millones** y lo subió de **$13.50 a $750 por pastilla**, cerca de 5,000%. El costo para el gobierno de un suministro mensual pasó de **$608 a $35,556.48**. ✅ (🟢 la prensa judicial da como precio anterior $17.50 por tableta; las cifras mensuales del gobierno son tal como las dijo y no están verificadas)
-- Respuesta de la industria: una **campaña de imagen de $60 millones**, con la consigna interna **"más bata de laboratorio, menos sudadera con capucha"**: culpar al forastero, no al modelo. 🟡 (según lo dijo; sin verificar)
-- Shkreli fue a prisión por **fraude de valores, no por el precio del medicamento**, y la compañía **mantuvo el precio de $750** después de que él se fue. ✅ (En enero de 2022 un tribunal federal además le prohibió de por vida trabajar en la industria farmacéutica y le ordenó devolver $64.6 millones por bloquear la competencia de genéricos: Jurist 2022.)
+### Daraprim — Shkreli y la historia del "malo de la película"
+- 2015: Martin Shkreli compró el Daraprim (para infecciones raras por parásitos en personas con las defensas bajas) por **$55 millones** y lo subió de **$13.50 a $750 por pastilla**, cerca de 5,000%. Lo que le costaba al gobierno un mes de medicina pasó de **$608 a $35,556.48**. ✅ (🟢 la prensa del juicio da como precio anterior $17.50 por pastilla; las cifras mensuales del gobierno son como él las dijo y no están verificadas)
+- Respuesta de la industria: una **campaña de imagen de $60 millones**, con la consigna interna **"más bata de laboratorio, menos sudadera con capucha"**: echarle la culpa al de fuera, no al modelo. 🟡 (según lo dijo; sin verificar)
+- Shkreli fue a la cárcel por **fraude con acciones, no por el precio de la medicina**, y la compañía **dejó el precio en $750** después de que él se fue. ✅ (En enero de 2022 un tribunal federal además le prohibió para siempre trabajar en la industria farmacéutica y le ordenó devolver $64.6 millones por bloquear la competencia de los genéricos: Jurist 2022.)
 
-## Por qué sigue ocurriendo — El diagnóstico de Posner
-- Ninguna regulación de precios para medicamentos huérfanos; extensiones de exclusividad; elegibilidad amplia; supervisión inadecuada de la FDA; ninguna transparencia sobre incentivos y costos. 🟡 (su lista)
-- **Publicidad directa al consumidor** (cambio de la FDA en 1997): el primer anuncio fue de Claritin ("Es hora... Pregúntale a tu médico"). Un año después la industria gastaba $1,000 millones al año en televisión; en 2025, unos $7,000 a $8,000 millones en televisión y $10,000 millones en total. 🟢 (Tendencia verificada: la publicidad al consumidor de medicamentos de receta en EE. UU. pasó de $1,300 millones en 1997 a $6,000 millones en 2016: Schwartz 2019. Las cifras de 2025 son tal como las dijo, y que Claritin haya sido el primero no está verificado.)
-- **Reformas que enumera:** elegibilidad huérfana más estricta, controles de precios más estrictos (anticipa la pelea por la "medicina socializada"), transparencia de costos y precios, y permitir que genéricos equivalentes pongan fin a la exclusividad de siete años. Dice que ninguna tiene tracción en el Congreso. 🟡
+## Por qué sigue pasando — Lo que piensa Posner
+- No hay reglas de precios para las medicinas huérfanas; se alarga la exclusividad; es muy fácil calificar; la FDA no vigila bien; no se sabe nada de los premios ni de los costos. 🟡 (su lista)
+- **Anuncios directos al público** (cambio de la FDA en 1997): el primer anuncio fue del Claritin ("Es hora... Pregúntale a tu médico"). Un año después la industria gastaba $1,000 millones al año en televisión; en 2025, unos $7,000 a $8,000 millones en televisión y $10,000 millones en total. 🟢 (La tendencia está verificada: los anuncios al público de medicinas de receta en EE. UU. pasaron de $1,300 millones en 1997 a $6,000 millones en 2016: Schwartz 2019. Las cifras de 2025 son como él las dijo, y que el Claritin haya sido el primero no está verificado.)
+- **Reformas que menciona:** reglas más estrictas para ser medicina huérfana, más control de precios (ya ve venir la pelea de la "medicina del gobierno"), saber los costos y los precios, y que los genéricos iguales puedan acabar con los siete años de exclusividad. Dice que ninguna avanza en el Congreso. 🟡
 
-## Medicamentos ultracaros y el futuro
-- Nueva ola: terapias génicas, reemplazo enzimático, biológicos y medicamentos contra el cáncer para subtipos genéticos, a menudo de **dosis única**. Los reguladores van rezagados, los pacientes no pueden comparar opciones, y los grupos pequeños de pacientes se resisten a la regulación. Los precios se "justifican como innovación" mientras la investigación depende de fondos públicos. 🟡
+## Medicinas carísimas y el futuro
+- Nueva ola: tratamientos de genes, reemplazo de enzimas, medicinas biológicas y medicinas contra el cáncer para tipos genéticos concretos, muchas veces de **una sola dosis**. Las autoridades van atrás, los pacientes no pueden comparar opciones, y los grupos pequeños de pacientes se oponen a que haya reglas. Los precios "se justifican como innovación", aunque la investigación depende de dinero público. 🟡
 
-| Medicamento | Uso (según se indica) | Precio | Población de pacientes |
+| Medicina | Para qué (según se dice) | Precio | Cuántos pacientes |
 | --- | --- | --- | --- |
-| Lenmeldy | MLD, un trastorno progresivo del sistema nervioso | $4.25 millones | Menos de 4,000 |
-| Kebilidi | Enfermedad cerebral genética rara | $3.95 millones | Menos de 5,000 |
+| Lenmeldy | MLD, una enfermedad que va dañando el sistema nervioso | $4.25 millones | Menos de 4,000 |
+| Kebilidi | Enfermedad genética rara del cerebro | $3.95 millones | Menos de 5,000 |
 | Hemgenix | Hemofilia B | $3.5 millones | Menos de 8,000 |
-| Elevidys | Forma rara de distrofia muscular | $3.2 millones | Menos de 13,000 |
+| Elevidys | Una forma rara de distrofia muscular | $3.2 millones | Menos de 13,000 |
 
-- Novartis (medicamento no nombrado) consideró $5 millones para una terapia pediátrica, le puso un precio de $2.1 millones y fue pionera de un **plan de pagos a plazos** para aseguradoras ("apartado"). ✅
-- **Los 10 medicamentos más caros del mundo son todos medicamentos huérfanos**, según Posner. 🟡 (🟢 en general coincide: una lista de noviembre de 2025 de los 10 medicamentos más caros en EE. UU. está dominada por terapias génicas de dosis única para enfermedades raras, encabezada por Lenmeldy con $4.25 millones, con Hemgenix a $3.5 millones, Elevidys a $3.2 millones y Zolgensma a $2.125 millones: Drugs.com. El precio de Kebilidi es tal como lo dijo.)
-- Futuro: edición genética y terapias celulares, microindicaciones para subtipos genómicos, y el "Santo Grial" de un medicamento hecho a la medida del ADN de una persona, con precio alto y repetido "unos cuantos miles de millones de veces". Precios que superan el costo de una casa. 🟡
+- Novartis (no se dice qué medicina) pensó en cobrar $5 millones por un tratamiento para niños, le puso un precio de $2.1 millones y fue la primera en ofrecer a los seguros un **plan de pagos en abonos** ("apartado"). ✅
+- **Las 10 medicinas más caras del mundo son todas huérfanas**, según Posner. 🟡 (🟢 en general coincide: una lista de noviembre de 2025 de las 10 medicinas más caras de EE. UU. está llena de tratamientos de genes de una sola dosis para enfermedades raras, con Lenmeldy a la cabeza con $4.25 millones, Hemgenix a $3.5 millones, Elevidys a $3.2 millones y Zolgensma a $2.125 millones: Drugs.com. El precio del Kebilidi es como él lo dijo.)
+- El futuro: cambiar genes y tratamientos con células, medicinas para tipos genéticos muy chicos, y el "Santo Grial": una medicina hecha a la medida del ADN de cada persona, con un precio alto y repetido "unos cuantos miles de millones de veces". Precios que cuestan más que una casa. 🟡
 
-## Los PBM — Los intermediarios invisibles
-- Los **administradores de beneficios farmacéuticos (PBM)** gestionan los beneficios de medicamentos para aseguradoras privadas, Medicare Parte D, planes de empleadores y Medicaid administrado. ✅
-- Origen: **PCS** en Scottsdale, Arizona, primero un procesador de reclamaciones (como una nómina para reclamaciones médicas). Después de la HMO Act, se convirtió en la primera empresa en procesar recetas, construir **formularios** y reembolsar a las farmacias; fue comprada por **McKesson**, que quería influir en la cobertura. ✅ (las fechas en la transcripción son imprecisas 🟡)
-- Los PBM deciden qué medicamentos se cubren, qué pueden dispensar las farmacias, los copagos y qué fabricante gana participación. Los farmacéuticos comunitarios "odian a los PBM". ✅
-- Los **reembolsos** de los fabricantes a cambio de un lugar en el formulario son secretos; el **spread pricing** (diferencial de precios) añade otro nivel de facturación. ✅
-- El incentivo perverso: los PBM prefieren **precios de lista más altos y reembolsos más grandes**, no precios netos más bajos; los fabricantes inflan los precios de lista para financiar los reembolsos; **los pacientes pagan su parte del costo sobre el precio de lista inflado**. ✅
-- 🟢 Verificación de evidencia: un informe de 2024 del personal de la FTC encontró que los tres PBM más grandes procesaron casi el 80% de las recetas en EE. UU. en 2023, que algunos reembolsos de los fabricantes estaban condicionados a dejar fuera de los formularios a genéricos y biosimilares más baratos, y que las farmacias afiliadas a los tres grandes se quedaban con casi el 70% de los ingresos por medicamentos especializados (FTC 2024).
-- Posner: los PBM son un invento estadounidense que no existe en Francia, Alemania ni Inglaterra, y la industria tarde o temprano "sacrificará a los PBM". 🟡
+## Los PBM — Los intermediarios que nadie ve
+- Los **administradores de beneficios de farmacia (PBM)** manejan la parte de medicinas de los seguros privados, Medicare Parte D, los planes de las empresas y Medicaid. ✅
+- De dónde salieron: **PCS**, en Scottsdale, Arizona, primero una empresa que procesaba cobros (como una nómina para cobros médicos). Después de la ley de las HMO (organizaciones de atención médica), fue la primera empresa en procesar recetas, armar **listas de medicinas cubiertas** y pagarles a las farmacias; la compró **McKesson**, que quería influir en qué se cubría. ✅ (las fechas en la transcripción no son exactas 🟡)
+- Los PBM deciden qué medicinas se cubren, qué pueden surtir las farmacias, cuánto paga el paciente y qué fabricante se lleva el mercado. Los farmacéuticos de barrio "odian a los PBM". ✅
+- Los **descuentos secretos** que pagan los fabricantes para entrar en la lista son secretos; el **spread pricing** (cobrarle al seguro más de lo que se le paga a la farmacia) agrega otra capa de cobro. ✅
+- El incentivo al revés: los PBM prefieren **precios de lista más altos y descuentos más grandes**, no precios finales más bajos; los fabricantes suben los precios de lista para pagar los descuentos; **los pacientes pagan su parte según el precio de lista inflado**. ✅
+- 🟢 Revisión de la evidencia: un informe de 2024 del personal de la FTC encontró que los tres PBM más grandes procesaron casi 80% de las recetas de EE. UU. en 2023, que algunos descuentos de los fabricantes dependían de dejar fuera de las listas a genéricos y biosimilares (copias de medicinas biológicas) más baratos, y que las farmacias de los tres grandes se quedaban con casi 70% de lo que se gana con las medicinas especializadas (FTC 2024).
+- Posner: los PBM son un invento de EE. UU. que no existe en Francia, Alemania ni Inglaterra, y tarde o temprano la industria "va a sacrificar a los PBM". 🟡
 
-## Frases clave y datos citables (Lección 7)
-- **"La ganancia aquí viene de la escasez, no del volumen."** La inversión de los medicamentos huérfanos en una línea.
-- **Siete años de exclusividad = la "mini-patente de platino".** Ningún medicamento competidor para esa condición, en absoluto.
-- **Cerca del 70% de la I+D huérfana fue pagada en la práctica por el gobierno federal** (crédito del 50% más deducción).
-- **Los NIH, "un par de manos".** La descripción de Burroughs Wellcome de la agencia que fabricó el AZT.
+## Frases clave y datos para recordar (Clase 7)
+- **"Aquí la ganancia viene de que haya pocos, no de vender mucho."** Lo de las medicinas huérfanas en una línea.
+- **Siete años de exclusividad = la "mini-patente de platino".** Ninguna medicina que compita para ese problema, ninguna.
+- **Cerca de 70% de la investigación de medicinas huérfanas la pagó en la práctica el gobierno** (50% menos de impuestos más el descuento).
+- **Los NIH, "un par de manos".** Como describió Burroughs Wellcome a la oficina que fabricó el AZT.
 - **Acthar: $40, luego $1,650, luego $23,000 por frasco por el mismo producto de pituitaria de cerdo.**
-- **Daraprim: de $13.50 a $750 por pastilla, y el precio se mantuvo después de que Shkreli fuera a prisión.**
-- **Cada uno de los 10 medicamentos más caros es un medicamento huérfano** (su afirmación).
-- **Los PBM se benefician de precios de lista altos, y los pacientes pagan sobre el precio de lista.**
+- **Daraprim: de $13.50 a $750 por pastilla, y el precio siguió igual después de que Shkreli fue a la cárcel.**
+- **Cada una de las 10 medicinas más caras es una medicina huérfana** (lo que él dice).
+- **A los PBM les convienen los precios de lista altos, y los pacientes pagan según el precio de lista.**
 
 ## Correcciones clave para recordar
-- 🔴 "Los medicamentos huérfanos son un nicho pequeño": según Posner se convirtieron en el sector de más rápido crecimiento y más lucrativo.
-- 🔴 "La condición de huérfano termina cuando una enfermedad se vuelve común": no bajo la Ley; el AZT conservó la protección cuando el VIH superó los millones.
-- 🔴 "Un precio nuevo significa un medicamento nuevo": Acthar y Daraprim muestran el mismo producto con nuevo precio bajo nuevos dueños.
-- 🔴 "Las advertencias de recuadro negro llegan a los pacientes": en medicamentos inyectados como el Botox, el paciente nunca ve el frasco.
-- 🔴 "Shkreli fue a prisión por el precio del medicamento": fue por fraude de valores, y el precio se mantuvo.
-- 🔴 "El precio de lista es lo que pagas": los reembolsos y los PBM lo distorsionan; pregunta por el costo de bolsillo.
-- 🔴 "Lo más caro = lo más eficaz": Posner dice que ninguna de estas terapias ultracaras es una cura; tratan síntomas o frenan la progresión.
+- 🔴 "Las medicinas huérfanas son un negocio chico": según Posner se volvieron el sector que más rápido creció y el que más deja.
+- 🔴 "La etiqueta de huérfana se acaba cuando una enfermedad se vuelve común": no con esta Ley; el AZT siguió protegido cuando el VIH pasó de millones.
+- 🔴 "Un precio nuevo quiere decir una medicina nueva": el Acthar y el Daraprim muestran el mismo producto con un precio nuevo con dueños nuevos.
+- 🔴 "Las advertencias de recuadro negro les llegan a los pacientes": en medicinas inyectadas como el Botox, el paciente nunca ve el frasco.
+- 🔴 "Shkreli fue a la cárcel por el precio de la medicina": fue por fraude con acciones, y el precio siguió igual.
+- 🔴 "El precio de lista es lo que pagas": los descuentos y los PBM lo cambian; pregunta cuánto vas a pagar tú.
+- 🔴 "Lo más caro = lo que mejor funciona": Posner dice que ninguno de estos tratamientos carísimos es una cura; tratan síntomas o frenan que la enfermedad avance.
 
 ## Conclusión práctica
-La lista del "paciente más inteligente" de Posner, como puntos de estudio (él recalca que no es médico y que no es consejo médico): (1) pregunta si un medicamento recetado es un medicamento huérfano; tu médico debería saberlo; (2) a menos que se trate de una enfermedad genética específica, pregunta por alternativas no huérfanas o genéricas; (3) entiende que los PBM determinan qué medicamentos se te ofrecen; (4) desconfía de que te deriven a una farmacia especializada sin una razón clara (como la preparación magistral); (5) pide el costo real de bolsillo, no el precio de lista; (6) recuerda que la terapia más cara no es automáticamente la más eficaz.
+La lista del "paciente más inteligente" de Posner, como puntos para estudiar (él insiste en que no es médico y que no es consejo médico): (1) pregunta si una medicina que te recetan es huérfana; tu médico debería saberlo; (2) a menos que sea una enfermedad genética concreta, pregunta si hay opciones que no sean huérfanas, o genéricos; (3) entiende que los PBM deciden qué medicinas te ofrecen; (4) desconfía si te mandan a una farmacia especializada sin una razón clara (como que haya que preparar la medicina a la medida); (5) pregunta cuánto vas a pagar tú de verdad, no el precio de lista; (6) recuerda que el tratamiento más caro no es por fuerza el que mejor funciona.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dado cómo funciona la exclusividad de siete años de la Ley de Medicamentos Huérfanos, ¿por qué las compañías la valoraban más que una patente ordinaria más larga?**
-A. Porque duraba más que una patente de 17 a 20 años
-B. \* Porque bloqueaba cualquier medicamento competidor para esa condición, incluidos los "me-too", así que los rivales dejaban de investigarla
-C. Porque no requería ninguna aprobación de la FDA
-*Por qué B: en el relato de Posner, una patente ordinaria todavía permite competidores como Terramycin y Aureomycin junto a la tetraciclina, mientras que la exclusividad huérfana bloquea la competencia para esa indicación. (Legalmente bloquea el mismo fármaco para el mismo uso; ver la verificación de evidencia arriba.)*
+**1. Con cómo funcionan los siete años de exclusividad de la Ley de Medicamentos Huérfanos, ¿por qué las compañías los valoraban más que una patente normal más larga?**
+A. Porque duraban más que una patente de 17 a 20 años
+B. \* Porque bloqueaban cualquier medicina que compitiera para ese problema, incluidas las copias, así que la competencia dejaba de investigarlo
+C. Porque no necesitaban ninguna aprobación de la FDA
+*Por qué B: en lo que cuenta Posner, una patente normal todavía deja que haya competencia como el Terramycin y el Aureomycin junto a la tetraciclina, mientras que la exclusividad huérfana bloquea la competencia para ese uso. (En la ley bloquea la misma medicina para el mismo uso; ver la revisión de la evidencia arriba.)*
 
-**2. Dada la historia del AZT, ¿qué pasó cuando la población con VIH creció muy por encima de 200,000?**
-A. \* El AZT conservó su protección huérfana, porque la condición otorgada mientras la enfermedad estaba por debajo del umbral se mantiene aunque la población crezca
-B. Burroughs Wellcome tuvo que devolver sus créditos fiscales
-C. Se permitieron los genéricos de inmediato
-*Por qué A: el Congreso no había previsto la pregunta, y la decisión fue que la protección sobrevive al crecimiento hasta millones.*
+**2. Con la historia del AZT, ¿qué pasó cuando las personas con VIH pasaron por mucho de 200,000?**
+A. \* El AZT siguió protegido como huérfano, porque la etiqueta que se dio cuando la enfermedad estaba por debajo del límite se mantiene aunque crezca el número de personas
+B. Burroughs Wellcome tuvo que devolver sus descuentos de impuestos
+C. Se dejó entrar a los genéricos de inmediato
+*Por qué A: el Congreso no había pensado en esa pregunta, y se decidió que la protección sigue aunque los pacientes lleguen a millones.*
 
-**3. Dado el caso Acthar, ¿qué mecanismo impulsó la mayor parte del salto en ingresos?**
-A. Una nueva molécula activa que superó a las terapias existentes
-B. Abundante nueva evidencia clínica para la artritis reumatoide
-C. \* Un aumento de precio sobre esencialmente el mismo producto, la renovación de la condición de huérfano por una reformulación en gel, el uso fuera de indicación en Medicare y la eliminación del rival barato Synacthen
-*Por qué C: el producto provenía de la misma fuente de pituitaria de cerdo; los cambios fueron de precio, exclusividad, patrones de prescripción y competencia.*
+**3. Con el caso del Acthar, ¿qué causó la mayor parte de la subida de los ingresos?**
+A. Una molécula activa nueva que funcionaba mejor que los tratamientos que ya había
+B. Muchas pruebas nuevas de que servía para la artritis reumatoide
+C. \* Subir el precio de prácticamente el mismo producto, renovar la etiqueta de huérfana al cambiarlo a gel, usarlo sin aprobación en Medicare y sacar del camino al rival barato, el Synacthen
+*Por qué C: el producto venía de la misma pituitaria de cerdo; lo que cambió fue el precio, la exclusividad, la forma de recetarlo y la competencia.*
 
-**4. Dada la explicación de Posner sobre los PBM, ¿por qué podría favorecerse en un formulario un medicamento con un precio de lista más alto?**
-A. Porque un precio de lista más alto indica mejor calidad
-B. \* Porque los precios de lista más altos sostienen reembolsos confidenciales más grandes para el PBM, mientras que la parte del costo que paga el paciente se basa en el precio de lista inflado
-C. Porque la ley federal exige que los formularios favorezcan los medicamentos caros
-*Por qué B: los PBM prefieren reembolsos más grandes a precios netos más bajos, y la bolsa de reembolsos crece con el precio de lista.*
+**4. Con lo que explica Posner de los PBM, ¿por qué podría preferirse en la lista de medicinas cubiertas una con precio de lista más alto?**
+A. Porque un precio de lista más alto quiere decir mejor calidad
+B. \* Porque los precios de lista más altos permiten descuentos secretos más grandes para el PBM, mientras que la parte que paga el paciente se calcula con el precio de lista inflado
+C. Porque la ley nacional pide que las listas prefieran las medicinas caras
+*Por qué B: los PBM prefieren descuentos más grandes a precios finales más bajos, y la bolsa de descuentos crece con el precio de lista.*
 
 ## Temas abiertos
-- ✅ **Transcripción completa:** termina con su lista del "paciente más inteligente" sin un cierre formal, en línea con el estilo de exposición continua de Posner.
-- **Cifras poco claras que verificar antes de confiar en ellas:** las cifras del subsidio del AZT ($300M y luego $400M), el porcentaje de margen de Truvada, el reparto de ingresos del Botox y una diapositiva no explicada (80/85/90/92% de las compañías "manipulan" canales, explotan incentivos, externalizan la responsabilidad, aprovechan resquicios).
-- **Ruta judicial del AZT:** verificado: lo decidió el Circuito Federal en 1994 (*Burroughs Wellcome v. Barr*), no la Corte Suprema.
-- **Terapia de Novartis no nombrada** con precio de $2.1 millones y plan de pagos a plazos: casi con certeza Zolgensma ($2.125 millones, atrofia muscular espinal: Drugs.com).
+- ✅ **Transcripción completa:** termina con su lista del "paciente más inteligente", sin un cierre formal, como es su estilo de charla continua.
+- **Cifras poco claras que hay que verificar antes de usarlas:** las cifras de la ayuda del AZT ($300M y luego $400M), el porcentaje de sobreprecio del Truvada, cómo reparte los ingresos el Botox y una diapositiva sin explicar (80/85/90/92% de las compañías "manipulan" canales, aprovechan premios, pasan la responsabilidad a otros, aprovechan huecos).
+- **El camino del AZT en los tribunales:** verificado: lo decidió el Circuito Federal en 1994 (*Burroughs Wellcome v. Barr*), no la Suprema Corte.
+- **El tratamiento de Novartis sin nombre** de $2.1 millones con plan de pagos en abonos: casi seguro es el Zolgensma ($2.125 millones, para la atrofia muscular espinal: Drugs.com).
 
-## Lo que se recortó deliberadamente (autoauditoría)
-- El texto completo del guion del anuncio de Claritin y la lista de anuncios DTC tempranos extraños (Abe Lincoln con castores, estómagos que hablan, personajes de hongos en las uñas de los pies), reducidos a una línea.
-- Comentarios al margen: la frase de Sex and the City, la comparación Valium/Xerox, la muerte de Sackler en 1987, la analogía de "Heinz 57".
-- Repeticiones del rango de precios de $300,000 a $3 millones y de que "nadie ha oído hablar de los medicamentos huérfanos".
-- El contexto social de los inicios del sida, el detalle de la anécdota de la "droga de entrada" de los años sesenta y la nota de que el marketing especializado todavía apunta a las mujeres (patrón del Cap. 5).
+## Lo que se dejó fuera a propósito (revisión propia)
+- El guion completo del anuncio del Claritin y la lista de los primeros anuncios raros al público (Abe Lincoln con castores, estómagos que hablan, personajes de hongos en las uñas de los pies), reducidos a una línea.
+- Comentarios de paso: la frase de Sex and the City, la comparación Valium/Xerox, la muerte de Sackler en 1987, la comparación con "Heinz 57".
+- Las veces que repite el rango de precios de $300,000 a $3 millones y que "nadie ha oído de las medicinas huérfanas".
+- El contexto social de los primeros años del sida, el detalle de la historia de la "medicina de entrada" de los años sesenta y la nota de que la publicidad especializada todavía apunta a las mujeres (el patrón del Cap. 5).
 
 ---
 **Referencias:**

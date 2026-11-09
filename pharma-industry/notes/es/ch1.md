@@ -1,161 +1,161 @@
 # Posner — La industria farmacéutica, Cap. 1: Los orígenes del aceite de serpiente
-*Cómo nació la industria farmacéutica vendiendo morfina, cocaína, heroína y barbitúricos como curas milagrosas en un mercado sin regulación, y por qué Posner dice que ese origen sigue siendo su ADN.*
+*Cómo nació la industria de las medicinas vendiendo morfina, cocaína, heroína y barbitúricos como curas milagrosas, cuando no había reglas, y por qué Posner dice que ese origen sigue siendo parte de su ADN.*
 
-*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry" (presentado en pantalla como "Secrets of Big Pharma: How to Be a Smarter Patient"), Clase 1 (transcripción). Primera de ocho clases; abarca aproximadamente de 1800 a la década de 1920. Transcripción completa: cierra con un adelanto de la Clase 2 y "Muchas gracias".*
+*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry" (en pantalla aparece como "Secrets of Big Pharma: How to Be a Smarter Patient"), Clase 1 (transcripción). Primera de ocho clases; cubre más o menos de 1800 a los años veinte del siglo XX. Transcripción completa: termina con un adelanto de la Clase 2 y "Muchas gracias".*
 
 ## Por qué importa
-Esta es la historia de origen sobre la que se construye el resto del curso. La tesis de Posner es que el comienzo de la industria (productos adictivos, sin recetas, sin prueba de seguridad ni de eficacia, el marketing por delante de la ciencia, cabildeo temprano contra la regulación) es su "ADN" y una "plantilla" que se sigue repitiendo. Posner es periodista de investigación y abogado (autor de *Pharma*), no científico ni médico, así que sus datos históricos se marcan con ✅ cuando los afirma con claridad y sus interpretaciones con 🟡. Varias fechas y atribuciones de la clase son imprecisas; una auditoría de fuentes (octubre de 2026) agrega verificaciones de evidencia donde el registro histórico difiere, con referencias al final.
+Esta es la historia de cómo empezó todo, y el resto del curso se construye sobre ella. La idea de Posner es que la forma en que empezó la industria (productos que crean adicción, sin recetas, sin pruebas de que fueran seguros ni de que funcionaran, más publicidad que ciencia, y presión temprana sobre los políticos para que no hubiera reglas) es su "ADN" y un "molde" que se sigue repitiendo. Posner es periodista de investigación y abogado (autor del libro *Pharma*), no científico ni médico; por eso sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. Varias fechas y nombres de la clase no son exactos; una revisión de fuentes (octubre de 2026) agrega revisiones de la evidencia donde la historia real es distinta, con las referencias al final.
 
-## La tesis — "Antes de Big Pharma, hubo mucho bombo"
-- La industria comenzó en un **"mercado de la ignorancia"**: sin normas nacionales, sin leyes de prescripción, sin licencias médicas, sin requisitos de seguridad, sin obligación de revelar ingredientes ni daños. "Cualquiera podía llamarse médico". ✅
-- Los ganadores vendían **"sueños", no evidencia**: promesas exageradas, sin estudios clínicos obligatorios. 🟡 (su encuadre)
-- El ciclo repetido que, según él, se verá durante todo el curso: una "píldora milagrosa" se promueve con fuerza ante los médicos, mediante anuncios y estudios patrocinados; el público la adopta con entusiasmo; los competidores buscan versiones "me-too" para obtener su propia patente; se insinúan beneficios adicionales; solo después llegan los reportes de efectos secundarios ("ojalá lo hubiéramos sabido hace 5 o 10 años"). Su ejemplo actual: **los fármacos GLP-1 para bajar de peso** (se habla de beneficios para la demencia, el corazón y el "vigor"). 🟡 (su afirmación sobre el patrón)
-- "No es casualidad que la industria creciera con productos adictivos": un producto adictivo crea un cliente que siempre regresa, algo que los cárteles también entienden. 🟡
+## La idea central — "Antes de las grandes farmacéuticas, hubo mucho bombo"
+- La industria empezó en un **"mercado de la ignorancia"**: sin reglas nacionales, sin leyes de recetas, sin licencias para los médicos, sin exigir que los productos fueran seguros y sin obligación de decir qué tenían ni qué daños causaban. "Cualquiera podía llamarse médico". ✅
+- Los que ganaban vendían **"sueños", no pruebas**: promesas exageradas, sin estudios obligatorios en personas. 🟡 (su forma de verlo)
+- El ciclo que, según él, se va a ver una y otra vez en el curso: se promueve con fuerza una "pastilla milagrosa" ante los médicos, con anuncios y estudios pagados por la empresa; la gente la recibe con entusiasmo; la competencia saca copias parecidas ("me-too") para tener su propia patente; se insinúan beneficios extra; y solo después llegan los reportes de efectos secundarios ("ojalá lo hubiéramos sabido hace 5 o 10 años"). Su ejemplo de hoy: **las medicinas GLP-1 para bajar de peso** (se habla de beneficios para la demencia, el corazón y el "vigor"). 🟡 (lo que él dice del patrón)
+- "No es casualidad que la industria creciera con productos que crean adicción": un producto adictivo crea un cliente que siempre regresa, algo que también entienden los cárteles. 🟡
 
-## Por qué se vendían las curas de charlatanes — La ignorancia médica
-El argumento de fondo de Posner: cuando la gente no sabe qué la enferma, el miedo más una promesa de cura dicha con seguridad es fácil de vender. ✅ (como argumento)
-- La teoría de los gérmenes era nueva y ampliamente rechazada. Él da crédito a **Louis Pasteur** (carne y leche echadas a perder) y a un **bacteriólogo alemán (1882)**, que no nombra en la clase pero es **Robert Koch**, que demostró que la tuberculosis proviene de microorganismos, cuando muchos creían que era hereditaria. 🟡 Su afirmación de que el trabajo de Pasteur llegó "unas cuantas décadas" antes de los fármacos de mediados del siglo XIX es cronológicamente imprecisa.
-- Se culpaba de la enfermedad a las personas, no a los microbios: dice que una Ley de Inmigración de 1882 fue impulsada por el miedo al cólera (atribuido a inmigrantes irlandeses) 🟡 (sin verificar: no encontramos una fuente que vincule la Ley de 1882 con el miedo al cólera), y cita la **Ley de Inmigración de 1891**, que excluía a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (cita tal como la leyó)
-- **Walter Reed (1900)** demostró que los mosquitos transmiten la fiebre amarilla. Posner lo llama "general del ejército"; ✅ Verificación de evidencia: Reed era médico cirujano del Ejército (con rango de mayor) y encabezó la Junta de Fiebre Amarilla del Ejército en Cuba (Pierce 2003).
+## Por qué se vendían las curas falsas — Lo poco que se sabía de medicina
+La idea de fondo de Posner: cuando la gente no sabe qué la enferma, el miedo más una promesa de cura dicha con seguridad es fácil de vender. ✅ (como argumento)
+- La idea de que los microbios causan enfermedades era nueva y mucha gente no la aceptaba. Él les da el crédito a **Louis Pasteur** (carne y leche echadas a perder) y a un **científico alemán de las bacterias (1882)**, que no nombra en la clase pero es **Robert Koch**, quien demostró que la tuberculosis viene de microbios, cuando muchos creían que se heredaba. 🟡 Cuando dice que el trabajo de Pasteur llegó "unas cuantas décadas" antes de las medicinas de mediados del siglo XIX, las fechas no cuadran.
+- Se culpaba de la enfermedad a las personas, no a los microbios: dice que una Ley de Inmigración de 1882 salió del miedo al cólera (del que se culpaba a los inmigrantes irlandeses) 🟡 (sin verificar: no encontramos una fuente que relacione la Ley de 1882 con el miedo al cólera), y cita la **Ley de Inmigración de 1891**, que no dejaba entrar a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (la cita tal como la leyó)
+- **Walter Reed (1900)** demostró que los mosquitos pasan la fiebre amarilla. Posner lo llama "general del ejército"; ✅ Revisión de la evidencia: Reed era médico cirujano del Ejército (con rango de mayor) y dirigió la Junta de Fiebre Amarilla del Ejército en Cuba (Pierce 2003).
 
-## La morfina y el origen bélico de las compañías
-- **Morfina (1804):** un aprendiz de farmacia alemán de 21 años aisló el primer alcaloide puro de la amapola del opio y lo nombró en honor a **Morfeo**, dios griego de los sueños. Su valor para aliviar el dolor se reconoció rápidamente. ✅
-- La morfina temprana de calidad provenía de dos empresas alemanas, **Bayer** y **Schering** (después "Schering & Plough"). 🟡 Él lo sitúa a "principios del siglo XIX". ✅ Verificación de evidencia: el primer fabricante comercial de morfina a gran escala fue **E. Merck**, de Darmstadt, desde 1827 (historia corporativa de Merck); Bayer y Schering se fundaron décadas después.
-- **Guerra entre México y Estados Unidos (1846–48):** el **87% de las muertes de tropas estadounidenses** se debió a enfermedades no tratadas (fiebre amarilla, disentería, cólera), no al combate. ✅ Verificación de evidencia: 10,986 de las 12,535 muertes estadounidenses en esa guerra (88%) se debieron a enfermedades infecciosas, sobre todo disentería (Cirillo 2009). La morfina que llegaba al frente a menudo estaba adulterada por intermediarios que la diluían, así que los soldados obtenían poco alivio. ✅
-- Ese fracaso creó el mercado estadounidense. La lista de fundadores de Posner:
+## La morfina y cómo las guerras hicieron nacer a las compañías
+- **Morfina (1804):** un aprendiz de farmacia alemán de 21 años sacó la primera sustancia pura de la amapola del opio y la llamó así por **Morfeo**, el dios griego de los sueños. Pronto se vio lo bien que quitaba el dolor. ✅
+- La primera morfina de buena calidad venía de dos empresas alemanas, **Bayer** y **Schering** (después "Schering & Plough"). 🟡 Él lo pone a "principios del siglo XIX". ✅ Revisión de la evidencia: el primer fabricante de morfina en grande fue **E. Merck**, de Darmstadt, desde 1827 (historia de la empresa Merck); Bayer y Schering se fundaron décadas después.
+- **Guerra entre México y Estados Unidos (1846–48):** el **87% de las muertes de soldados estadounidenses** fue por enfermedades sin tratar (fiebre amarilla, disentería, cólera), no por los combates. ✅ Revisión de la evidencia: 10,986 de las 12,535 muertes estadounidenses en esa guerra (88%) fueron por enfermedades infecciosas, sobre todo disentería (Cirillo 2009). La morfina que llegaba al frente muchas veces venía rebajada por intermediarios que la diluían, así que a los soldados casi no les quitaba el dolor. ✅
+- Ese fracaso creó el mercado en Estados Unidos. La lista de fundadores según Posner:
 
-| Compañía | Origen según lo cuenta Posner |
+| Compañía | Cómo empezó, según Posner |
 | --- | --- |
-| **Charles Pfizer & Co.** | Primos alemanes en Nueva York, un año después de la guerra; pocos ahorros más un préstamo (cifras confusas en la transcripción 🟡); fábrica en Bartlett Street; primer fabricante estadounidense serio de morfina de alta calidad. 🟡 Verificación de evidencia: se fundó en 1849 en Williamsburg, Brooklyn, por Charles Pfizer y su primo Charles Erhart, con un préstamo de $2,500 del padre de Pfizer; su primer producto fue la santonina, un remedio contra lombrices, no la morfina (Pfizer 2024) |
-| **E. R. Squibb & Sons** | Edward Robinson Squibb vio morfina de mala calidad en la guerra (a menudo arrojada por la borda); se instaló en Brooklyn. Posner lo llama "coronel" 🟡; en realidad fue médico de la Marina de EE. UU. y montó su laboratorio en Brooklyn en 1858 (Britannica) |
-| **Wyeth** | John y Frank Wyeth, farmacéuticos de Filadelfia, un año después de iniciada la Guerra Civil; un contrato con el Ejército de la Unión tan lucrativo que dejaron la farmacia por la manufactura |
-| **Parke-Davis** | Samuel Duffield (Detroit) vendía una solución analgésica de éter y alcohol bajo un contrato de la Unión; la compraron Hervey Parke (inversionista minero) y George Davis (vendedor de 26 años) |
-| **Eli Lilly** | Veterano de la Guerra Civil que fundó la compañía justo después; productos principales a base de opio y morfina |
+| **Charles Pfizer & Co.** | Primos alemanes en Nueva York, un año después de la guerra; pocos ahorros más un préstamo (las cifras salen confusas en la transcripción 🟡); fábrica en Bartlett Street; el primer fabricante estadounidense serio de morfina de buena calidad. 🟡 Revisión de la evidencia: se fundó en 1849 en Williamsburg, Brooklyn, por Charles Pfizer y su primo Charles Erhart, con un préstamo de $2,500 del padre de Pfizer; su primer producto fue la santonina, un remedio contra las lombrices, no la morfina (Pfizer 2024) |
+| **E. R. Squibb & Sons** | Edward Robinson Squibb vio en la guerra morfina de mala calidad (que muchas veces se tiraba al mar). Se instaló en Brooklyn. Posner lo llama "coronel" 🟡; en realidad era médico de la Marina de EE. UU. y abrió su laboratorio en Brooklyn en 1858 (Britannica) |
+| **Wyeth** | John y Frank Wyeth, farmacéuticos de Filadelfia, un año después de empezar la Guerra Civil; un contrato con el Ejército del Norte les dejó tanto dinero que dejaron la farmacia para dedicarse a fabricar |
+| **Parke-Davis** | Samuel Duffield (Detroit) vendía un líquido de éter y alcohol para el dolor con un contrato del Ejército del Norte; se lo compraron Hervey Parke (que invertía en minas) y George Davis (un vendedor de 26 años) |
+| **Eli Lilly** | Un veterano de la Guerra Civil la fundó justo después; sus productos principales eran a base de opio y morfina |
 | **Burroughs Wellcome** | Silas Burroughs y Henry Wellcome, farmacéuticos estadounidenses que se fueron al Reino Unido; laxantes y cremas a base de opio |
 
-- La **Guerra Civil (1861)** fue "buena para el negocio de la morfina" por la cantidad récord de heridos en batalla. ✅ El punto de Posner: no eran empresas pasajeras sino los antepasados de los gigantes actuales, lanzados con "un producto adictivo sin restricciones sobre cómo se dispensa". 🟡 (interpretación)
+- La **Guerra Civil (1861)** fue "buena para el negocio de la morfina" por la cantidad récord de heridos. ✅ Lo que quiere decir Posner: no eran empresas de paso, sino los abuelos de los gigantes de hoy, que arrancaron con "un producto adictivo sin reglas sobre cómo se vende". 🟡 (interpretación)
 
-## La cocaína — El segundo superventas
-- **1859:** un estudiante de doctorado alemán (**Albert Niemann**, Gotinga; tesis terminada en 1860) aisló el alcaloide de la planta de coca y lo llamó **cocaína** (coca + *-ina*, de origen latino, "proveniente de"). ✅
-- Posner agrega que el mismo químico después desarrolló el gas mostaza y lo llama "el inventor del gas nervioso". 🟢 Verificación de evidencia: en 1860 Niemann sí describió la mostaza de azufre y sus ampollas tardías en la piel (murió en 1861), pero el gas mostaza es un agente vesicante, no un agente nervioso (Pharmazeutische Zeitung 2011).
-- La cocaína y la morfina fueron "los primeros grandes superventas", vendidos abiertamente por Merck, Bayer, Pfizer, Parke-Davis y Squibb: pastillas de cocaína de los dentistas para el dolor de muelas, inhaladores de cocaína pura para el asma, remedios para "casi cualquier dolencia". ✅
-- **Uso de cocaína de Merck:** de menos de 1 libra a **180,000 libras** en dos años. 🟡 (cifra tal como la dijo; sin verificar, no encontramos fuente. Merck producía cocaína desde 1862, y la demanda se disparó después de que Koller demostró su uso como anestésico local en 1884: historia corporativa de Merck; Grzybowski 2007)
-- **Parke-Davis:** intentó patentar un proceso para aumentar la pureza y la vida útil; vendía puros de coca, cigarrillos de hoja de coca y un jarabe de cocaína y alcohol "comercializado como verdadera medicina". ✅ (para 1885 un fabricante vendía cocaína en 15 presentaciones, incluidos cigarrillos y puros: Das 1993)
-- Los opiáceos siguieron en la mezcla: el polvo de morfina de Merck (anunciado como el más puro) y pastillas para la tos con opio; Squibb y Pfizer vendían casi una docena de tinturas de opio. ✅
+## La cocaína — El segundo gran éxito de ventas
+- **1859:** un estudiante de doctorado alemán (**Albert Niemann**, en Gotinga; terminó su tesis en 1860) sacó la sustancia pura de la planta de coca y la llamó **cocaína** (coca + *-ina*, del latín, "que viene de"). ✅
+- Posner agrega que ese mismo químico después creó el gas mostaza y lo llama "el inventor del gas nervioso". 🟢 Revisión de la evidencia: en 1860 Niemann sí describió el gas mostaza y las ampollas que deja en la piel después de un tiempo (murió en 1861), pero el gas mostaza es un gas que hace ampollas, no un gas que ataca los nervios (Pharmazeutische Zeitung 2011).
+- La cocaína y la morfina fueron "los primeros grandes éxitos de ventas", vendidos abiertamente por Merck, Bayer, Pfizer, Parke-Davis y Squibb: pastillas de cocaína del dentista para el dolor de muelas, inhaladores de cocaína pura para el asma, remedios para "casi cualquier mal". ✅
+- **La cocaína de Merck:** pasó de usar menos de 1 libra a **180,000 libras** en dos años. 🟡 (cifra tal como la dijo; sin verificar, no encontramos fuente. Merck fabricaba cocaína desde 1862, y la demanda se disparó después de que Koller demostró en 1884 que servía para dormir una zona del cuerpo: historia de la empresa Merck; Grzybowski 2007)
+- **Parke-Davis:** trató de patentar una forma de hacerla más pura y que durara más; vendía puros de coca, cigarros de hoja de coca y un jarabe de cocaína con alcohol "vendido como medicina de verdad". ✅ (para 1885, un fabricante vendía cocaína en 15 formas, incluidos cigarros y puros: Das 1993)
+- Los derivados del opio seguían en la mezcla: el polvo de morfina de Merck (anunciado como el más puro) y pastillas para la tos con opio; Squibb y Pfizer vendían casi una docena de tinturas de opio. ✅
 
-## Las medicinas de patente — El verdadero aceite de serpiente
-- El principal rival de las grandes compañías era el negocio de las **medicinas de patente**: **más de 50,000** remedios (su libro *Pharma* dice "casi cincuenta mil remedios de marca, vendidos sin receta, sin divulgación y sin regulación"). Pese al nombre, **no estaban patentados**; eran "panaceas secretas" (nostrums). ✅
-- **Kopp's Baby Friend:** se promocionaba entre padres primerizos para quitarle la tos al bebé y que la familia pudiera dormir; la compañía enviaba correo a familias que encontraba en los **anuncios de nacimiento** de los periódicos. Resultó ser opio y morfina (la transcripción dice "[un] tercio de opio puro" 🟡), y murieron niños por sobredosis. 🟡 (según lo contó; no encontramos una fuente sobre la fórmula de este producto ni sobre las muertes)
-- También se mencionan: **Lydia Pinkham** (ingredientes desconocidos, solo la promesa) y lo que Posner llama el jarabe para la tos a base de opio de **Dr. Winslow's**. ✅ El producto era el **Mrs. Winslow's Soothing Syrup**, que se vendía para calmar a los bebés durante la dentición; contenía alcohol y morfina y podía causarle a un bebé coma, adicción o la muerte (Christen 2000).
-- Las fórmulas secretas eran lo normal (él lo compara con las de Coca-Cola y las "57" de Heinz). Los pleitos entre fabricantes eran por **formas de frascos, etiquetas y nombres de marca**, nunca por ingredientes ni curas. ✅ A Posner, abogado que no ejerce, esto le parece revelador. 🟡
+## Las "medicinas de patente" — El verdadero aceite de serpiente
+- El principal rival de las grandes compañías era el negocio de las **"medicinas de patente"**: **más de 50,000** remedios (su libro *Pharma* dice "casi cincuenta mil remedios de marca, vendidos sin receta, sin decir qué tenían y sin reglas"). A pesar del nombre, **no tenían patente**; eran "remedios secretos". ✅
+- **Kopp's Baby Friend:** se anunciaba a los papás primerizos para quitarle la tos al bebé y que la familia pudiera dormir; la compañía mandaba cartas a las familias que encontraba en los **avisos de nacimientos** de los periódicos. Resultó ser opio y morfina (la transcripción dice "[un] tercio de opio puro" 🟡), y murieron niños por sobredosis. 🟡 (según lo contó; no encontramos una fuente sobre la fórmula de este producto ni sobre las muertes)
+- También se mencionan: **Lydia Pinkham** (no se sabía qué tenía, solo la promesa) y lo que Posner llama el jarabe para la tos con opio del **Dr. Winslow**. ✅ El producto era el **Mrs. Winslow's Soothing Syrup**, que se vendía para calmar a los bebés cuando les salían los dientes; tenía alcohol y morfina y podía causarle a un bebé coma, adicción o la muerte (Christen 2000).
+- Las fórmulas secretas eran lo normal (él lo compara con la de Coca-Cola y las "57" de Heinz). Los pleitos entre fabricantes eran por **la forma de los frascos, las etiquetas y los nombres de marca**, nunca por lo que tenían ni por si curaban. ✅ A Posner, que es abogado aunque no ejerce, esto le parece muy revelador. 🟡
 
-## El laboratorio de Bayer — ¿Es la heroína un medicamento seguro?
-El caso de estudio favorito de Posner. El equipo de investigación de Bayer, según sus fechas:
+## El laboratorio de Bayer — ¿La heroína es una medicina segura?
+El caso favorito de Posner. Lo que hizo el equipo de investigación de Bayer, según sus fechas:
 
-| Año (según lo dijo) | Fármaco | Lo que hizo Bayer |
+| Año (según él) | Medicina | Lo que hizo Bayer |
 | --- | --- | --- |
-| 1887 | Fenacetina ("como el Tylenol") | **La retuvo**: las pruebas en animales mostraron efectos en dosis altas. Él la equipara con el paracetamol 🟡 |
-| ~1.5 años después | **Aspirina** | Venta libre; "casi un fármaco milagroso"; aún no se conocía el sangrado estomacal |
-| 1900 | **Heroína** (del alemán *heroisch*, "heroico") | Venta libre; 10–15 veces más potente que la morfina y más rápida 🟡 |
-| 1903 | **Fenobarbital (Luminal)**, el primer barbitúrico | Venta libre |
+| 1887 | Fenacetina ("como el Tylenol") | **No la sacó a la venta**: en pruebas con animales hizo daño en dosis altas. Él la iguala con el paracetamol 🟡 |
+| Como 1.5 años después | **Aspirina** | Sin receta; "casi una medicina milagrosa"; todavía no se sabía que causa sangrado en el estómago |
+| 1900 | **Heroína** (del alemán *heroisch*, "heroico") | Sin receta; de 10 a 15 veces más fuerte que la morfina y más rápida 🟡 |
+| 1903 | **Fenobarbital (Luminal)**, el primer barbitúrico (calmante y para dormir) | Sin receta |
 
-🟡 Las fechas son de Posner. Verificación de evidencia: Hoffmann obtuvo aspirina pura el 10 de agosto de 1897 y Bayer la lanzó en 1899 (Sneader 2000); Bayer empezó la producción comercial de heroína en 1898 (Hosztafi 2001); la heroína es unas **2 a 3 veces** más potente que la morfina, no 10 a 15 (EUDA); el primer barbitúrico fue el **barbital (Veronal)**, descubierto en 1903 y vendido por Bayer y Merck desde 1904, mientras que el **fenobarbital (Luminal)** se sintetizó en 1911 y Bayer lo vendió desde 1912 (López-Muñoz 2005). No pudimos verificar que Bayer haya retenido la fenacetina.
+🟡 Las fechas son de Posner. Revisión de la evidencia: Hoffmann logró aspirina pura el 10 de agosto de 1897 y Bayer la sacó a la venta en 1899 (Sneader 2000); Bayer empezó a fabricar heroína para vender en 1898 (Hosztafi 2001); la heroína es unas **2 a 3 veces** más fuerte que la morfina, no de 10 a 15 (EUDA); el primer barbitúrico fue el **barbital (Veronal)**, descubierto en 1903 y vendido por Bayer y Merck desde 1904, mientras que el **fenobarbital (Luminal)** se fabricó en 1911 y Bayer lo vendió desde 1912 (López-Muñoz 2005). No pudimos verificar que Bayer haya guardado la fenacetina sin venderla.
 
-- **Marketing de la heroína (venta en EE. UU. desde 1900):** remedio para la tos y el resfriado, incluso para niños; "más eficaz que la codeína" con "una décima parte" de sus efectos secundarios; y, su favorito, **una cura para la adicción a la morfina**. "Para mí, el ejemplo más crudo del marketing triunfando [sobre] la ciencia". ✅
-- **Barbitúricos:** comercializados para el insomnio, la ansiedad, los "nervios" y la depresión; sin receta, un gran éxito de ventas en EE. UU. para 1908. Una vez que Bayer lo lanzó, los rivales lo copiaron, el mismo patrón que con la cocaína y la morfina. ✅
-- El encuadre de Posner sobre la "historia secreta": no son secretos filtrados sino hechos que la industria omite de su propio relato de relaciones públicas. 🟡
+- **Cómo se anunciaba la heroína (a la venta en EE. UU. desde 1900):** remedio para la tos y el resfriado, incluso para niños; "funciona mejor que la codeína" con "una décima parte" de sus efectos secundarios; y, su favorita, **una cura para la adicción a la morfina**. "Para mí, el ejemplo más crudo de la publicidad ganándole a la ciencia". ✅
+- **Barbitúricos:** se vendían para el insomnio, la ansiedad, los "nervios" y la depresión; sin receta, y para 1908 eran un gran éxito de ventas en EE. UU. Cuando Bayer lo sacó, la competencia lo copió, el mismo patrón que con la cocaína y la morfina. ✅
+- Lo que Posner llama la "historia secreta": no son secretos filtrados, sino hechos que la industria deja fuera de la historia que cuenta de sí misma en sus relaciones públicas. 🟡
 
-## La regulación llega tarde — La Ley de Alimentos y Medicamentos Puros de 1906
-- El patrón que Posner quiere que se siga a lo largo del curso: **el gobierno reacciona tarde**, después de que se acumula una crisis de salud pública (hasta el Valium, las anfetaminas y los opioides). 🟡 (su tesis)
-- **Harvey Washington Wiley** (Oficina de Química), enfocado en conservadores de alimentos como el formaldehído, dirigió el **"Escuadrón del Veneno"**: voluntarios comían platillos con conservadores no revelados para ver quién se enfermaba. Posner dice que se suspendió después de que murió un voluntario 🟡 (sin verificar: las pruebas empezaron en 1902, y las fuentes que revisamos no reportan ninguna muerte; NPR 2018). **La jungla** (la novela de Upton Sinclair, sin que se mencione al autor) sumó indignación pública. ✅
-- Tanto los fabricantes de medicinas de patente como las empresas "éticas" (Merck, Pfizer) cabildearon contra reglas estrictas: "Somos una industria nueva... No nos regulen de más". Posner lo llama **el primer cabildeo exitoso de la industria**, hecho sin una asociación gremial ni Madison Avenue. 🟡
-- **Lo que se aprobó:** los mismos productos adictivos siguieron a la venta; sin requisito de receta; sin prueba de seguridad ni de eficacia; no hubo que retirar nada. El único cambio, según Posner: **había que listar los ingredientes** (no las cantidades). 🟡 Verificación de evidencia: la Ley prohibió las etiquetas falsas o engañosas y exigió declarar la presencia **y la cantidad** de once ingredientes peligrosos específicos (entre ellos alcohol, heroína y cocaína); los demás ingredientes no tenían que listarse (FDA).
-- **Vin Mariani:** vino de Burdeos con **7.6 mg de cocaína por onza**, vendido para el vigor y el estado de alerta, respaldado por el **papa León XIII** y "miles de médicos". Poner la cocaína en la etiqueta no afectó las ventas. ✅ (la cifra de 7.6 mg es tal como la dijo y no está verificada)
-- **Primer caso de prueba:** Wiley demandó a **Coca-Cola** (coca y cafeína no declaradas). Coca-Cola dijo que la hoja de coca se había eliminado hacía mucho y que declararía la cafeína. El gobierno perdió tras más de un año de esfuerzos. ✅ (según lo contó) 🟡 Verificación de evidencia: el gobierno perdió en primera instancia y en apelación, pero en 1916 la Suprema Corte revocó el fallo y devolvió el caso, al considerar que la cafeína era un ingrediente añadido (*U.S. v. Forty Barrels and Twenty Kegs of Coca-Cola*, 241 U.S. 265).
-- La "mejor frase que han tenido": **"Somos ciencia, curas y medicina, así que no dañen eso regulándonos de más"**. Posner llama al debilitamiento de las reglas **captura regulatoria** y parte del ADN. 🟡
+## Las reglas llegan tarde — La Ley de Alimentos y Medicamentos Puros de 1906
+- El patrón que Posner quiere que se siga en todo el curso: **el gobierno reacciona tarde**, cuando ya se juntó una crisis de salud pública (hasta el Valium, las anfetaminas y los opioides). 🟡 (su idea)
+- **Harvey Washington Wiley** (Oficina de Química), que se ocupaba de los conservadores de la comida como el formaldehído, dirigió el **"Escuadrón del Veneno"**: unos voluntarios comían platillos con conservadores escondidos para ver quién se enfermaba. Posner dice que se suspendió porque murió un voluntario 🟡 (sin verificar: las pruebas empezaron en 1902, y las fuentes que revisamos no hablan de ninguna muerte; NPR 2018). **La jungla** (la novela de Upton Sinclair, aunque no se menciona al autor) aumentó el enojo de la gente. ✅
+- Tanto los fabricantes de "medicinas de patente" como las empresas "serias" (Merck, Pfizer) presionaron a los políticos contra reglas estrictas: "Somos una industria nueva... No nos pongan tantas reglas". Posner lo llama **la primera presión a los políticos que le salió bien a la industria**, hecha sin una asociación del ramo y sin las grandes agencias de publicidad. 🟡
+- **Lo que se aprobó:** los mismos productos adictivos siguieron a la venta; sin necesidad de receta; sin pruebas de que fueran seguros ni de que funcionaran; no se tuvo que retirar nada. El único cambio, según Posner: **había que poner en la lista lo que tenían** (no cuánto). 🟡 Revisión de la evidencia: la Ley prohibió las etiquetas falsas o engañosas y obligó a decir si tenían **y cuánto** tenían de once ingredientes peligrosos concretos (entre ellos el alcohol, la heroína y la cocaína); lo demás no había que ponerlo (FDA).
+- **Vin Mariani:** vino de Burdeos con **7.6 mg de cocaína por onza**, vendido para dar energía y estar despierto, recomendado por el **papa León XIII** y por "miles de médicos". Poner la cocaína en la etiqueta no le bajó las ventas. ✅ (la cifra de 7.6 mg es como él la dijo y no está verificada)
+- **Primer caso en los tribunales:** Wiley demandó a **Coca-Cola** (por tener coca y cafeína sin decirlo). Coca-Cola dijo que la hoja de coca ya se había quitado hacía mucho y que pondría la cafeína en la etiqueta. El gobierno perdió después de más de un año de pelea. ✅ (según lo contó) 🟡 Revisión de la evidencia: el gobierno perdió en el primer juicio y en la apelación, pero en 1916 la Suprema Corte cambió la decisión y regresó el caso, porque consideró que la cafeína era un ingrediente agregado (*U.S. v. Forty Barrels and Twenty Kegs of Coca-Cola*, 241 U.S. 265).
+- La "mejor frase que han tenido": **"Somos ciencia, curas y medicina, así que no echen a perder eso con demasiadas reglas"**. Posner llama a este debilitamiento de las reglas **captura regulatoria** (cuando la industria termina mandando sobre quien debería vigilarla) y dice que es parte del ADN. 🟡
 
-## La Ley Harrison (1914) y la industria en abstinencia de golpe
-- La **Ley Harrison** controló los opiáceos y la cocaína; Posner dice que "esencialmente los prohíbe" 🟡 (su simplificación; 🟢 era una ley de impuestos y registro que regulaba estrictamente su distribución y venta, no una prohibición total: Das 1993). Tomó a la industria desprevenida porque estaba enfocada en la pelea de 1906 sobre la divulgación. ✅
-- Efecto: toda la industria tuvo que dejarlo "de golpe" (cold turkey). **Los fabricantes de medicinas de patente, en su mayoría empresas de un solo producto, desaparecieron**; las compañías "éticas" diversificadas (Pfizer, Lilly, Burroughs Wellcome) salieron fortalecidas. ✅
-- La búsqueda de sustitutos "menos adictivos" dio la **oxicodona (1916)** y la **hidrocodona (1920)**, que Posner llama "versiones me-too de la adicción" diseñadas para sortear la ley. 🟡 (interpretación)
-- Hasta la Segunda Guerra Mundial y la penicilina, el catálogo era escaso: laxantes, malta, remedios para el dolor de cabeza.
+## La Ley Harrison (1914) y la industria dejándolo de golpe
+- La **Ley Harrison** controló los derivados del opio y la cocaína; Posner dice que "prácticamente los prohíbe" 🟡 (lo simplifica; 🟢 era una ley de impuestos y registro que controlaba de forma estricta cómo se repartían y vendían, no una prohibición total: Das 1993). Agarró desprevenida a la industria porque estaba ocupada con la pelea de 1906 sobre las etiquetas. ✅
+- Efecto: toda la industria tuvo que dejarlo "de golpe" (como quien deja una droga sin bajarle poco a poco). **Los fabricantes de "medicinas de patente", casi todos empresas de un solo producto, desaparecieron**; las empresas "serias" con más productos (Pfizer, Lilly, Burroughs Wellcome) salieron más fuertes. ✅
+- La búsqueda de reemplazos "menos adictivos" dio la **oxicodona (1916)** y la **hidrocodona (1920)**, que Posner llama "copias de la adicción", hechas para darle la vuelta a la ley. 🟡 (interpretación)
+- Hasta la Segunda Guerra Mundial y la penicilina, había pocos productos: laxantes, malta, remedios para el dolor de cabeza.
 
 ## La insulina y el tamaño de la industria
-- **Insulina (1922, Canadá):** dos investigadores la licenciaron a **Eli Lilly por $1** porque un descubrimiento que salva vidas "no debería generar dinero". 🟡 Verificación de evidencia: Banting, Best y Collip cedieron la patente a la **Universidad de Toronto** por $1 (1 de enero de 1923); después la universidad dio a Lilly derechos exclusivos de fabricación para EE. UU., Centroamérica y Sudamérica (Biblioteca Fisher, Universidad de Toronto). Posner dice que Lilly mantuvo el control durante unos 40 años mediante ajustes, dosis y ***evergreening*** (perpetuación de patentes), aunque una patente en EE. UU. dura 17 años. 🟡 También dice que Lilly "no tenía la patente" sino la distribución exclusiva; las dos afirmaciones se contradicen. El debate actual en EE. UU. sobre el precio de la insulina (por ejemplo, un tope de $35) gira en torno a un fármaco de 1922 "regalado por un dólar". ✅
-- **Moody's 1909:** su primera clasificación de industrias de EE. UU. no incluía la farmacéutica; los medicamentos fueron un subconjunto de los químicos hasta **1929**. "Hace apenas 100 años... fabricantes" familiares, de barrio, con unos pocos productos adictivos. 🟡 (según lo dijo; no encontramos una fuente para las fechas de Moody's)
-- Posner: "Soy capitalista", pero la industria farmacéutica está "en la intersección con la salud pública", lo que hace incómodo maximizar las ganancias. 🟡
+- **Insulina (1922, Canadá):** dos investigadores le dieron el permiso de fabricarla a **Eli Lilly por $1**, porque un descubrimiento que salva vidas "no debería dar dinero". 🟡 Revisión de la evidencia: Banting, Best y Collip le pasaron la patente a la **Universidad de Toronto** por $1 (1 de enero de 1923); después, la universidad le dio a Lilly el derecho exclusivo de fabricarla para EE. UU., Centroamérica y Sudamérica (Biblioteca Fisher, Universidad de Toronto). Posner dice que Lilly la controló unos 40 años con ajustes, cambios de dosis y ***evergreening*** (estirar las patentes con cambios pequeños), aunque una patente en EE. UU. dura 17 años. 🟡 También dice que Lilly "no tenía la patente", sino la distribución exclusiva; las dos cosas se contradicen. La discusión de hoy en EE. UU. sobre el precio de la insulina (por ejemplo, un tope de $35) es sobre una medicina de 1922 "regalada por un dólar". ✅
+- **Moody's en 1909:** su primera lista de industrias de EE. UU. no incluía a la farmacéutica; las medicinas fueron parte de los químicos hasta **1929**. "Hace apenas 100 años... eran fabricantes" familiares, de barrio, con unos pocos productos adictivos. 🟡 (según lo dijo; no encontramos una fuente para las fechas de Moody's)
+- Posner: "Soy capitalista", pero la industria farmacéutica está "en el cruce con la salud pública", y eso hace incómodo buscar la mayor ganancia posible. 🟡
 
-## El modelo de negocio que, según él, quedó fijado para la década de 1920
-1. Vender sustancias potentes, a menudo adictivas y psicoactivas, como curas milagrosas.
-2. Evitar revelar ingredientes o daños siempre que sea posible.
-3. Explotar los vacíos regulatorios: leer la nueva ley y luego darle la vuelta.
-4. Anunciarse intensamente (periódicos, espectaculares; un escritor británico de visita hacia 1900 quedó impresionado por kilómetros de anuncios de medicinas de patente).
-5. Tratar síntomas y dependencia, no causas.
-6. Cuando un fármaco resulta dañino, vender un sucesor "mejor" en vez de una alternativa (después: del Valium al Xanax).
+## La forma de hacer negocio que, según él, ya estaba fija para los años veinte
+1. Vender sustancias fuertes, muchas veces adictivas y que afectan la mente, como curas milagrosas.
+2. No decir qué tienen ni qué daños causan, siempre que se pueda.
+3. Aprovechar los huecos de las reglas: leer la ley nueva y luego darle la vuelta.
+4. Anunciarse muchísimo (periódicos, espectaculares; un escritor británico que visitó EE. UU. hacia 1900 se quedó impresionado por kilómetros de anuncios de "medicinas de patente").
+5. Tratar los síntomas y la dependencia, no las causas.
+6. Cuando una medicina resulta dañina, vender una "mejor" que la reemplace en vez de buscar otra salida (después: del Valium al Xanax).
 
-🟡 Esta lista es la síntesis de Posner. Agrega que los científicos de laboratorio son "nerds de la ciencia" dedicados (los inventores del Valium recibieron un bono de unos cuantos miles de dólares); la exageración ocurre en marketing y ventas.
+🟡 Esta lista es el resumen de Posner. Agrega que los científicos del laboratorio son "nerds de la ciencia" muy dedicados (a los inventores del Valium les dieron un bono de unos cuantos miles de dólares); la exageración pasa en la publicidad y las ventas.
 
-## Frases clave y datos citables (Clase 1)
-- **"Antes de Big Pharma, hubo mucho bombo".** El comienzo de la industria fue marketing, no evidencia.
-- **El 87% de las muertes de tropas estadounidenses en la guerra entre México y Estados Unidos fue por enfermedad.** El hueco que creó a los fabricantes estadounidenses de morfina.
-- **Pfizer, Squibb, Wyeth, Parke-Davis, Lilly, Burroughs Wellcome** empezaron todas con opio, morfina o contratos de guerra.
-- **La heroína se vendió como cura para la adicción a la morfina**, y como remedio para la tos infantil.
-- **Kopp's Baby Friend encontraba clientes mediante los anuncios de nacimiento.**
-- **La Ley de 1906 exigía sobre todo etiquetas honestas**, con ingredientes peligrosos como la cocaína declarados; la etiqueta con cocaína de Vin Mariani no hizo mella en sus ventas.
-- **"No regulen de más, frenarán la innovación"**: la mejor frase de la industria, según Posner.
+## Frases clave y datos para recordar (Clase 1)
+- **"Antes de las grandes farmacéuticas, hubo mucho bombo".** La industria empezó con publicidad, no con pruebas.
+- **El 87% de las muertes de soldados estadounidenses en la guerra entre México y Estados Unidos fue por enfermedad.** El hueco que hizo nacer a los fabricantes de morfina en EE. UU.
+- **Pfizer, Squibb, Wyeth, Parke-Davis, Lilly y Burroughs Wellcome** empezaron todas con opio, morfina o contratos de guerra.
+- **La heroína se vendió como cura para la adicción a la morfina**, y como remedio para la tos de los niños.
+- **Kopp's Baby Friend buscaba clientes en los avisos de nacimientos.**
+- **La Ley de 1906 pedía sobre todo etiquetas honestas**, con los ingredientes peligrosos como la cocaína anotados; la etiqueta con cocaína del Vin Mariani no le bajó las ventas.
+- **"No pongan tantas reglas, van a frenar la innovación"**: la mejor frase de la industria, según Posner.
 - **Los inventores de la insulina vendieron la patente a la Universidad de Toronto por $1** (1923).
-- **Moody's no listó la farmacéutica como industria hasta 1929.**
-- **Solo EE. UU. y Nueva Zelanda permiten anuncios de medicamentos dirigidos al consumidor** (EE. UU. desde 1997).
+- **Moody's no puso a la farmacéutica como industria hasta 1929.**
+- **Solo EE. UU. y Nueva Zelanda permiten anuncios de medicinas dirigidos directamente al público** (EE. UU. desde 1997).
 
-## Correcciones clave para llevar adelante
-- 🔴 "La industria farmacéutica comenzó como ciencia": según Posner, comenzó con morfina, cocaína, heroína y barbitúricos vendidos sin receta.
-- 🔴 "Las medicinas de patente estaban patentadas": no lo estaban; eran panaceas de fórmula secreta.
-- 🔴 "La Ley de Alimentos y Medicamentos Puros de 1906 hizo seguros los medicamentos": prohibió las etiquetas engañosas y exigió declarar los ingredientes peligrosos, sin reglas de seguridad, eficacia ni receta.
-- 🔴 "La heroína siempre fue una droga callejera": Bayer la vendía sin receta, incluso para la tos infantil.
-- 🔴 "La sola divulgación cambia el comportamiento": Vin Mariani declaraba la cocaína y las ventas se mantuvieron.
-- 🔴 "Una nueva formulación significa un fármaco más seguro": de la morfina a la heroína y a la oxicodona se ve que el reemplazo a menudo reempaqueta el mismo problema.
+## Correcciones clave para recordar
+- 🔴 "La industria farmacéutica empezó como ciencia": según Posner, empezó con morfina, cocaína, heroína y barbitúricos vendidos sin receta.
+- 🔴 "Las 'medicinas de patente' tenían patente": no la tenían; eran remedios de fórmula secreta.
+- 🔴 "La Ley de Alimentos y Medicamentos Puros de 1906 hizo seguras las medicinas": prohibió las etiquetas engañosas y obligó a anotar los ingredientes peligrosos, pero no puso reglas de seguridad, de que funcionaran ni de receta.
+- 🔴 "La heroína siempre fue una droga de la calle": Bayer la vendía sin receta, incluso para la tos de los niños.
+- 🔴 "Con solo decir lo que tiene un producto cambia lo que hace la gente": el Vin Mariani decía que tenía cocaína y las ventas no bajaron.
+- 🔴 "Una fórmula nueva quiere decir una medicina más segura": de la morfina a la heroína y a la oxicodona se ve que el reemplazo muchas veces vuelve a empacar el mismo problema.
 
 ## Conclusión práctica
-La lista de verificación del "paciente más inteligente" de Posner, planteada como puntos de estudio, no como consejo médico: (1) cuestionar la historia de marketing y el motivo detrás de la promoción; (2) leer etiquetas, ingredientes y advertencias, sabiendo que durante mucho tiempo los prospectos se enviaban a los farmacéuticos y no a los pacientes, y luego se imprimieron como desplegables de más de un metro con letra diminuta; (3) preguntar qué evidencia respalda un beneficio que se promete, sobre todo en un fármaco totalmente nuevo; (4) preguntar si un fármaco trata la causa o controla los síntomas (aliviar síntomas puede estar bien, pero hay que saber cuál de los dos es); (5) desconfiar de los arreglos emocionales rápidos, ya que el diagnóstico en salud mental es observacional y él cree que fármacos como el Ritalin se recetan en exceso 🟡; (6) "no se vuelvan cínicos": la penicilina y otros fármacos realmente cambiaron la historia.
+La lista de Posner para ser un "paciente más inteligente", como puntos para estudiar, no como consejo médico: (1) preguntarse qué historia está contando la publicidad y qué interés hay detrás; (2) leer las etiquetas, los ingredientes y las advertencias, sabiendo que por mucho tiempo los instructivos se mandaban a los farmacéuticos y no a los pacientes, y después se imprimieron como hojas desplegables de más de un metro con letra diminuta; (3) preguntar qué pruebas hay de un beneficio que se promete, sobre todo en una medicina completamente nueva; (4) preguntar si una medicina trata la causa o solo controla los síntomas (quitar síntomas puede estar bien, pero hay que saber cuál de las dos es); (5) desconfiar de los arreglos rápidos para los problemas emocionales, porque el diagnóstico en salud mental se basa en observar, y él cree que medicinas como el Ritalin se recetan de más 🟡; (6) "no se vuelvan desconfiados de todo": la penicilina y otras medicinas de verdad cambiaron la historia.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Según cómo describe Posner la Ley de Alimentos y Medicamentos Puros de 1906, ¿qué exigía realmente a los vendedores de medicamentos?**
-A. Prueba de seguridad y eficacia antes de la venta
-B. \* Declarar en la etiqueta ciertos ingredientes peligrosos (como la cocaína y los opiáceos), mientras los productos adictivos seguían a la venta sin receta
-C. Una receta para cualquier producto que contuviera cocaína u opiáceos
-*Por qué B: Posner subraya que la divulgación fue el único cambio real; las reglas de seguridad, eficacia y receta llegaron después, y las ventas de Vin Mariani no se vieron afectadas por su etiqueta con cocaína.*
+**1. Según cómo describe Posner la Ley de Alimentos y Medicamentos Puros de 1906, ¿qué les pedía de verdad a los que vendían medicinas?**
+A. Pruebas de que eran seguras y de que funcionaban antes de venderlas
+B. \* Anotar en la etiqueta ciertos ingredientes peligrosos (como la cocaína y los derivados del opio), mientras los productos adictivos seguían a la venta sin receta
+C. Una receta para cualquier producto con cocaína o derivados del opio
+*Por qué B: Posner subraya que decir lo que tenían fue el único cambio real; las reglas de seguridad, de que funcionaran y de receta llegaron después, y las ventas del Vin Mariani no bajaron por su etiqueta con cocaína.*
 
-**2. Dado el marketing de la heroína por parte de Bayer, ¿qué patrón ilustra Posner?**
-A. \* El marketing triunfando sobre la ciencia: un opioide más potente vendido como remedio para la tos y como cura para la adicción a la morfina
-B. Pruebas cuidadosas antes de la comercialización que mantuvieron los fármacos peligrosos fuera de los anaqueles
+**2. Con la forma en que Bayer anunciaba la heroína, ¿qué patrón muestra Posner?**
+A. \* La publicidad ganándole a la ciencia: un opioide más fuerte vendido como remedio para la tos y como cura para la adicción a la morfina
+B. Pruebas cuidadosas antes de vender que mantuvieron las medicinas peligrosas fuera de las tiendas
 C. Prueba de que las primeras compañías no sabían que la heroína venía del opio
-*Por qué A: él llama a la heroína como cura de la adicción a la morfina "el ejemplo más crudo" del marketing ganándole a la ciencia; el único fármaco que Bayer retuvo fue la fenacetina, no la heroína.*
+*Por qué A: él llama a la heroína como cura de la adicción a la morfina "el ejemplo más crudo" de la publicidad ganándole a la ciencia; la única medicina que Bayer no sacó a la venta fue la fenacetina, no la heroína.*
 
-**3. Dado el efecto de la Ley Harrison de 1914, ¿por qué sobrevivieron las empresas "éticas" mientras colapsaban los fabricantes de medicinas de patente?**
-A. Porque las empresas éticas habían dejado de vender opiáceos en secreto años antes
-B. Porque la Ley eximía a las compañías que listaban ingredientes
-C. \* Porque los fabricantes de medicinas de patente eran en su mayoría empresas de un solo producto basadas en panaceas adictivas, mientras que Pfizer, Lilly y otras tenían una manufactura más amplia y podían reorientarse
-*Por qué C: Posner llama a los fabricantes de medicinas de patente "flor de un día" barridas por el cambio de golpe; las empresas diversificadas salieron fortalecidas.*
+**3. Con el efecto de la Ley Harrison de 1914, ¿por qué sobrevivieron las empresas "serias" mientras se hundían los fabricantes de "medicinas de patente"?**
+A. Porque las empresas serias habían dejado de vender derivados del opio en secreto años antes
+B. Porque la Ley no aplicaba a las compañías que anotaban sus ingredientes
+C. \* Porque los fabricantes de "medicinas de patente" eran casi todos empresas de un solo producto, basadas en remedios adictivos, mientras que Pfizer, Lilly y otras fabricaban más cosas y podían cambiar de rumbo
+*Por qué C: Posner llama a los fabricantes de "medicinas de patente" "flor de un día" que desaparecieron con el cambio de golpe; las empresas con más productos salieron más fuertes.*
 
-**4. Dada la historia de la insulina, ¿qué punto plantea Posner sobre la industria?**
+**4. Con la historia de la insulina, ¿qué quiere decir Posner sobre la industria?**
 A. Que la insulina la inventaron los propios científicos de Eli Lilly
-B. \* Que un fármaco que salva vidas, cuya patente se vendió por $1, se convirtió en una fuente de dinero duradera mediante control, ajustes y *evergreening*, y por eso el precio de la insulina sigue en debate
-C. Que las patentes de 17 años hacen imposible el control de un fármaco a largo plazo
-*Por qué B: él contrasta la venta de la patente por $1 de los inventores con unos 40 años de control y los debates actuales sobre topes de precio; el detalle de patente contra distribución está confuso en la transcripción.*
+B. \* Que una medicina que salva vidas, cuya patente se vendió por $1, se volvió una fuente de dinero por mucho tiempo con control, ajustes y *evergreening*, y por eso todavía se discute el precio de la insulina
+C. Que las patentes de 17 años hacen imposible controlar una medicina por mucho tiempo
+*Por qué B: él compara la venta de la patente por $1 de los inventores con unos 40 años de control y con las discusiones de hoy sobre topes de precio; lo de patente contra distribución sale confuso en la transcripción.*
 
-## Cabos sueltos
-- ✅ **Transcripción completa:** termina con el adelanto de la Clase 2 y una despedida. Tres pequeños errores de transcripción, no truncamiento: "Kopp's Baby Fr[iend]", una frase perdida en "la causa de fondo de su [condición]" y un comentario inconcluso ("una industria que busca—").
-- **Fechas verificadas** en la auditoría de octubre de 2026 (ver las verificaciones de evidencia arriba): Merck, no Bayer ni Schering, fabricó la primera morfina comercial; aspirina 1897/1899; heroína 1898 y 2–3 veces la morfina; barbital 1903–04 antes del fenobarbital 1911–12. Siguen sin verificar: las 180,000 libras de Merck, la afirmación sobre la inmigración de 1882, la muerte en el Escuadrón del Veneno y las fechas de Moody's.
-- **Patente de la insulina vs. distribución exclusiva:** resuelto: la Universidad de Toronto tenía la patente y Lilly tenía derechos exclusivos de fabricación para el continente americano.
-- **La pelea por los prospectos** (prospectos para los farmacéuticos, luego desplegables): prometida para una clase posterior, probablemente Cap. 4 Regulation Revolution.
-- **Valium y Xanax, sobreprescripción de Ritalin:** adelantados, probablemente Cap. 5 Mother's Little Helper.
-- **La penicilina y el nacimiento "real" de la industria moderna:** Cap. 2 Post-War Drug Boom.
+## Temas abiertos
+- ✅ **Transcripción completa:** termina con el adelanto de la Clase 2 y una despedida. Tres errores pequeños de transcripción, no que falte texto: "Kopp's Baby Fr[iend]", una frase perdida en "la causa de fondo de su [condición]" y un comentario sin terminar ("una industria que busca—").
+- **Fechas verificadas** en la revisión de octubre de 2026 (ver las revisiones de la evidencia arriba): fue Merck, no Bayer ni Schering, quien fabricó la primera morfina para vender; aspirina 1897/1899; heroína 1898 y de 2 a 3 veces la morfina; barbital 1903–04 antes del fenobarbital 1911–12. Siguen sin verificar: las 180,000 libras de Merck, lo de la inmigración de 1882, la muerte en el Escuadrón del Veneno y las fechas de Moody's.
+- **Patente de la insulina o distribución exclusiva:** resuelto: la Universidad de Toronto tenía la patente y Lilly tenía el derecho exclusivo de fabricarla para el continente americano.
+- **La pelea por los instructivos** (instructivos para los farmacéuticos, luego hojas desplegables): prometida para una clase posterior, probablemente el Cap. 4 Regulation Revolution.
+- **Valium y Xanax, Ritalin recetado de más:** adelantados, probablemente en el Cap. 5 Mother's Little Helper.
+- **La penicilina y el nacimiento "de verdad" de la industria moderna:** Cap. 2 Post-War Drug Boom.
 
-## Lo que se recortó deliberadamente (autoauditoría)
-- Comentarios al margen y repeticiones: el encuadre de "ADN/plantilla" repetido muchas veces, la reflexión de "¿yo habría confiado en estas medicinas?", la broma sobre los informes anuales de Bayer y Merck.
-- Detalles sobre las comidas del Escuadrón del Veneno y los debates sobre conservadores más allá de lo que explica la Ley de 1906.
-- Las cifras confusas del arranque de Pfizer ("$2,500 en ahorros de $1,000"), conservadas solo como señaladas.
-- La comparación con los cárteles y la lista de beneficios adicionales de los GLP-1 más allá de una línea cada una.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios de paso y repeticiones: la idea del "ADN/molde" repetida muchas veces, la reflexión de "¿yo habría confiado en estas medicinas?", el chiste sobre los informes anuales de Bayer y Merck.
+- Detalles de las comidas del Escuadrón del Veneno y de las discusiones sobre conservadores, más allá de lo que explica la Ley de 1906.
+- Las cifras confusas del arranque de Pfizer ("$2,500 en ahorros de $1,000"), que solo se conservan señaladas.
+- La comparación con los cárteles y la lista de beneficios extra de las GLP-1, en no más de una línea cada una.
 
 ---
 **Referencias:**

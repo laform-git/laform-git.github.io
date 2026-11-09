@@ -1,152 +1,152 @@
 # Posner — La industria farmacéutica, Cap. 2: El auge farmacéutico de la posguerra
-*Cómo el Proyecto Penicilina de la Segunda Guerra Mundial, financiado por el gobierno, convirtió a pequeños fabricantes de medicamentos en imperios globales, y cómo las ganancias de los antibióticos, las patentes me-too, los fármacos combinados, el marketing dirigido a los médicos y el giro hacia los fármacos para enfermedades crónicas construyeron la industria moderna.*
+*Cómo el Proyecto Penicilina de la Segunda Guerra Mundial, pagado por el gobierno, convirtió a pequeños fabricantes de medicinas en imperios mundiales, y cómo construyeron la industria moderna las ganancias de los antibióticos, las patentes de copias ("me-too"), las medicinas combinadas, la publicidad dirigida a los médicos y el cambio hacia las medicinas para enfermedades de por vida.*
 
-*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 2 (transcripción). Segunda de ocho clases; sigue al Cap. 1 Snake Oil Origins y prepara el Cap. 3 Selling Sickness. Transcripción completa: termina con un adelanto de la siguiente clase (líderes de opinión clave), en línea con el estilo de charla continua de Posner.*
+*Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 2 (transcripción). Segunda de ocho clases; sigue del Cap. 1 Snake Oil Origins y prepara el Cap. 3 Selling Sickness. Transcripción completa: termina con un adelanto de la siguiente clase (los "líderes de opinión"), como es su estilo de charla continua.*
 
 ## Por qué importa
-Esta es la clase en la que llega la ciencia de verdad, y el encuadre de Posner es "la ciencia se encuentra con la ganancia". El Proyecto Penicilina muestra lo que la industria puede hacer cuando el gobierno, las universidades y las compañías trabajan juntos sin patentes; todo lo que viene después muestra lo que esas mismas compañías hicieron una vez que pudieron patentar. Casi todos los rasgos estructurales de la industria actual nacen aquí: los juegos de patentes (fármacos me-too), el marketing dirigido a los médicos, el vacío legal off-label, las puertas giratorias con los reguladores y el giro de las curas a las recetas de por vida. Posner es periodista de investigación (autor de *Pharma*), no científico: sus datos históricos se marcan con ✅ cuando los afirma con claridad, y sus opiniones e interpretaciones con 🟡.
+En esta clase llega la ciencia de verdad, y Posner lo presenta como "la ciencia se encuentra con la ganancia". El Proyecto Penicilina muestra lo que la industria puede lograr cuando el gobierno, las universidades y las compañías trabajan juntos sin patentes; todo lo que viene después muestra lo que esas mismas compañías hicieron cuando ya pudieron patentar. Casi todo lo que define a la industria de hoy nace aquí: los juegos con las patentes (medicinas de copia), la publicidad dirigida a los médicos, el hueco legal de recetar para usos no aprobados ("off-label"), las "puertas giratorias" con quienes las vigilan y el cambio de las curas a las recetas de por vida. Posner es periodista de investigación (autor de *Pharma*), no científico: sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus opiniones e interpretaciones con 🟡.
 
 ## Los cazadores de la penicilina — Del jugo de moho a Oxford
-- **1928, Londres** (Hospital St Mary's): un bacteriólogo escocés (identificado más adelante en la clase como Alexander Fleming), excirujano de un hospital militar en la Primera Guerra Mundial que había visto morir a hombres por cortaduras infectadas, deja placas de Petri cubiertas de estafilococos durante una racha de calor. Al regresar, había crecido un moho verdoso y los estafilococos a su alrededor habían desaparecido en gran parte. ✅
-- Lo rastrea hasta la familia *Penicillium* pero **no logra aislar el compuesto activo puro** (el mismo paso de extracción que dio la morfina y la cocaína en la Clase 1). Su artículo de 1929 lo llama "jugo de moho", lo nombra **penicilina**, minimiza su potencial y es ignorado en gran medida. ✅
-- **1936, Oxford:** Howard Florey (becario Rhodes), Norman Heatley y Ernst Chain (29 años, de Berlín, cuya familia judía había huido de los nazis en 1933) retoman el trabajo y logran aislarlo. Los estudios en humanos comienzan apenas en **1940**. ✅ 🟡 Verificación de evidencia: Florey formó el equipo en **1939**; las pruebas en ratones fueron en mayo de 1939, los resultados salieron en *The Lancet* en agosto de 1940 y el primer paciente se trató en **febrero de 1941** (Gaynes 2017).
-- Gran Bretaña está en guerra y el gobierno no tiene dinero de sobra; Oxford prueba primero en **pacientes con cáncer terminal** (unos 300 mg por vía intravenosa) porque todavía no existían reglas para ensayos clínicos. El cáncer de todos modos los mató, pero **no aparecieron efectos secundarios**. ✅
-- **El caso del policía:** un hombre de unos 30 años, cortado en la cara por una espina de rosal, había perdido un ojo y tenía abscesos en el brazo y el pecho. A un día de recibir penicilina le bajó la fiebre; a los tres días ya estaba de pie; a los cinco parecía casi curado. Luego se acabó el suministro, la infección regresó y murió. La prueba quedó completa: el fármaco funcionaba, solo que no había suficiente. ✅ (Era un policía de Oxford tratado en febrero de 1941 que murió unas semanas después, cuando se acabó el suministro: Gaynes 2017.)
+- **1928, Londres** (Hospital St Mary's): un científico escocés de las bacterias (más adelante en la clase se dice que es Alexander Fleming), que en la Primera Guerra Mundial había sido cirujano en un hospital militar y había visto morir a hombres por cortadas infectadas, deja unas cajas de laboratorio (cajas de Petri) llenas de una bacteria (estafilococo) durante una ola de calor. Al regresar, había crecido un moho verdoso y las bacterias a su alrededor casi habían desaparecido. ✅
+- Descubre que el moho es de la familia *Penicillium*, pero **no logra sacar la sustancia activa pura** (el mismo paso que dio la morfina y la cocaína en la Clase 1). Su artículo de 1929 lo llama "jugo de moho", le pone el nombre de **penicilina**, le da poca importancia y casi nadie le hace caso. ✅
+- **1936, Oxford:** Howard Florey (becario Rhodes), Norman Heatley y Ernst Chain (de 29 años, de Berlín, cuya familia judía había huido de los nazis en 1933) retoman el trabajo y logran sacarla pura. Las pruebas en personas empiezan hasta **1940**. ✅ 🟡 Revisión de la evidencia: Florey formó el equipo en **1939**; las pruebas en ratones fueron en mayo de 1939, los resultados salieron en la revista *The Lancet* en agosto de 1940 y el primer paciente se trató en **febrero de 1941** (Gaynes 2017).
+- Gran Bretaña está en guerra y el gobierno no tiene dinero de sobra; en Oxford prueban primero en **pacientes con cáncer que se estaban muriendo** (unos 300 mg por la vena), porque todavía no había reglas para los estudios en personas. El cáncer los mató de todos modos, pero **no hubo efectos secundarios**. ✅
+- **El caso del policía:** un hombre de unos 30 años, que se cortó la cara con la espina de un rosal, había perdido un ojo y tenía abscesos (bolsas de pus) en el brazo y el pecho. Un día después de recibir penicilina, se le quitó la fiebre; a los tres días ya estaba de pie; a los cinco parecía casi curado. Luego se acabó la penicilina, la infección regresó y murió. La prueba quedó completa: la medicina funcionaba, solo que no había suficiente. ✅ (Era un policía de Oxford tratado en febrero de 1941 que murió unas semanas después, cuando se acabó la medicina: Gaynes 2017.)
 
-## El gobierno como incubadora de fármacos — El Proyecto Penicilina
-- Dos de los investigadores de Oxford piden ayuda a EE. UU. antes de que Estados Unidos entre a la guerra. Roosevelt lanza un programa secreto que Posner llama **el segundo programa secreto más grande de la Segunda Guerra Mundial, después del Proyecto Manhattan**. ✅ (su clasificación 🟡)
-- Un laboratorio en **Peoria, Illinois** recibe a los investigadores británicos; **doce compañías se ofrecen como voluntarias**, entre ellas Pfizer, Merck y Squibb, junto con académicos (Posner menciona un "Rockefeller Group"). ✅
-- Se recolectaron muestras de moho en misiones diplomáticas de EE. UU. de todo el mundo; la cepa más potente salió de un **melón cantalupo mohoso de un mercado de productores a un par de millas del laboratorio**. ✅
-- **El avance de Pfizer en la fermentación en tanques profundos** hizo posible la producción masiva. La transcripción lo vincula con el ácido cítrico ("este ácido cítrico, aprovechado") sin explicar cómo. ✅ Verificación de evidencia: el vínculo es real. Pfizer fabricaba ácido cítrico por fermentación de moho en tanques profundos desde 1919 y aplicó ese conocimiento a la penicilina; su planta adaptada en Brooklyn abrió el 1 de marzo de 1944 (monumento histórico de la ACS, 2008).
-- **El gobierno construyó los tanques de fermentación y las plantas con dinero de los contribuyentes**, para Pfizer y las demás. La producción pasó de pequeña (1941 a 1942) a enorme (1943) y a cientos de millones de unidades para 1945. ✅ (Solo la planta de Pfizer en Brooklyn produjo más en un mes de 1944 que en todo 1943: ACS 2008. La cifra de "cientos de millones de unidades" es tal como la dijo; no pudimos verificarla.) 🟡 Que el gobierno haya pagado la planta de cada compañía es tal como lo dijo y no está verificado; los historiadores sí describen el programa como basado en la conducción del gobierno, la cooperación entre empresas y el intercambio abierto de datos (Quinn 2013).
-- La condición decisiva: **"Nadie puede patentar la penicilina"**. Con una docena de fabricantes del mismo producto, el precio bajó y siguió bajando. Las compañías vendían volúmenes enormes pero ganaban poco dinero, y lo detestaban. ✅ 🟢 Verificación de evidencia: el fármaco en sí no se patentó, pero sí se registraron **patentes de proceso**, de Merck y del científico del USDA Andrew Moyer (Gaynes 2017; ver Cap. 3).
+## El gobierno como semillero de medicinas — El Proyecto Penicilina
+- Dos de los investigadores de Oxford le piden ayuda a EE. UU. antes de que Estados Unidos entre a la guerra. Roosevelt arranca un programa secreto que Posner llama **el segundo programa secreto más grande de la Segunda Guerra Mundial, después del Proyecto Manhattan** (la bomba atómica). ✅ (su orden 🟡)
+- Un laboratorio en **Peoria, Illinois**, recibe a los investigadores británicos; **doce compañías se ofrecen como voluntarias**, entre ellas Pfizer, Merck y Squibb, junto con universidades (Posner menciona un "Rockefeller Group"). ✅
+- Se juntaron muestras de moho en las embajadas de EE. UU. de todo el mundo; el moho más potente salió de un **melón mohoso de un mercado a un par de millas del laboratorio**. ✅
+- **El gran avance de Pfizer: fermentar en tanques profundos**, lo que hizo posible fabricar en grandes cantidades. La transcripción lo relaciona con el ácido cítrico ("este ácido cítrico, aprovechado") sin explicar cómo. ✅ Revisión de la evidencia: la relación es real. Pfizer fabricaba ácido cítrico fermentando moho en tanques profundos desde 1919 y usó ese conocimiento para la penicilina; su planta adaptada en Brooklyn abrió el 1 de marzo de 1944 (monumento histórico de la ACS, 2008).
+- **El gobierno construyó los tanques y las plantas con el dinero de los contribuyentes**, para Pfizer y las demás. La fabricación pasó de poca (1941 a 1942) a enorme (1943) y a cientos de millones de unidades para 1945. ✅ (Solo la planta de Pfizer en Brooklyn fabricó más en un mes de 1944 que en todo 1943: ACS 2008. Lo de "cientos de millones de unidades" es como él lo dijo; no lo pudimos verificar.) 🟡 Que el gobierno haya pagado la planta de cada compañía es como él lo dijo y no está verificado; los historiadores sí describen el programa como dirigido por el gobierno, con cooperación entre empresas y datos compartidos abiertamente (Quinn 2013).
+- La condición clave: **"Nadie puede patentar la penicilina"**. Con una docena de fabricantes del mismo producto, el precio bajó y siguió bajando. Las compañías vendían muchísimo pero ganaban poco, y no les gustaba nada. ✅ 🟢 Revisión de la evidencia: la medicina en sí no se patentó, pero sí se registraron **patentes de cómo fabricarla**, de Merck y del científico del Departamento de Agricultura de EE. UU. (USDA) Andrew Moyer (Gaynes 2017; ver Cap. 3).
 
-| Socio | Aporte en el Proyecto Penicilina |
+| Socio | Lo que puso en el Proyecto Penicilina |
 | --- | --- |
 | Gobierno (EE. UU.) | Todo el dinero, el secreto, el laboratorio de Peoria, las plantas de fermentación; la regla de no patentar |
-| Academia (Oxford, laboratorios de EE. UU.) | Aislamiento del fármaco, primeras pruebas en humanos, investigación de cepas ("héroes anónimos") |
-| Industria (12 compañías) | Conocimiento de fermentación (Pfizer), manufactura masiva, distribución |
+| Universidades (Oxford, laboratorios de EE. UU.) | Sacar la medicina pura, las primeras pruebas en personas, la búsqueda de mohos ("héroes sin nombre") |
+| Industria (12 compañías) | Saber fermentar (Pfizer), fabricar en grande, repartir |
 
-🟡 El comentario de Posner sobre el COVID: esperaba que los gobiernos repitieran esta plantilla para las vacunas, pero "se olvidaron de la parte de 'nadie es dueño de una patente'". Es su opinión, adelantada para el Cap. 8.
+🟡 Lo que comenta Posner sobre el COVID: esperaba que los gobiernos repitieran este modelo para las vacunas, pero "se olvidaron de la parte de 'nadie es dueño de una patente'". Es su opinión, adelantada para el Cap. 8.
 
-## El auge de la posguerra — Cómo Estados Unidos se quedó con el mercado mundial
-- Nuevos antibióticos: **estreptomicina** (1943, primer tratamiento eficaz contra la tuberculosis), **Aureomycin** (1948, primer antibiótico de amplio espectro), **tetraciclina** (1955, "muy versátil"). Los fármacos de amplio espectro les convenían a los médicos que no sabían qué microbio tenía el paciente. ✅
-- **De 1945 a 1955: los ingresos farmacéuticos subieron 600%**, impulsados por los antibióticos. ✅ Más adelante lo reformula como que los ingresos *de Pfizer* subieron 600%, con **el 80% proveniente solo de la tetraciclina** 🟡 (los dos encuadres se contradicen; además dice "ganancias" en la misma frase).
-- **El colapso de Alemania fue la oportunidad de Estados Unidos.** Antes de la guerra, empresas alemanas como Schering y Bayer surtían aproximadamente **una de cada dos recetas en el mundo**. Los bombardeos aliados destruyeron sus plantas. ✅ (Su lista de descubrimientos de Bayer incluye el paracetamol junto con la aspirina, la heroína y los barbitúricos 🟡, vale la pena verificarlo.)
-- **Para 1950: el 80% de las ventas mundiales de medicamentos provenía de compañías estadounidenses**, sobre todo de las 10 principales, y **el 95% de las ganancias**. 🟡 (según lo dijo; no encontramos fuente para estas proporciones)
-- **2005:** las 10 principales farmacéuticas rastreaban su origen al programa de la penicilina. 🟡 (según lo dijo, sin verificar; varias líderes de 2005 eran empresas europeas, así que "todas" parece exagerado)
-- Las ganancias se reinvirtieron agresivamente: filiales en el extranjero (Reino Unido, Francia, Sudamérica), nuevos laboratorios, compra de pequeños competidores antes de que pudieran crecer, e **integración vertical** (descubrir, patentar, fabricar, distribuir, eliminando intermediarios). ✅
+## El auge de la posguerra — Cómo Estados Unidos se quedó con el mercado del mundo
+- Antibióticos nuevos: **estreptomicina** (1943, el primer tratamiento que funcionó contra la tuberculosis), **Aureomycin** (1948, el primer antibiótico que mata muchos tipos de bacterias, "de amplio espectro"), **tetraciclina** (1955, "muy versátil"). Los de amplio espectro les servían a los médicos que no sabían qué microbio tenía el paciente. ✅
+- **De 1945 a 1955: lo que ganaba la industria subió 600%**, gracias a los antibióticos. ✅ Más adelante lo dice de otra forma: que los ingresos *de Pfizer* subieron 600%, con **80% saliendo solo de la tetraciclina** 🟡 (las dos versiones se contradicen; además dice "ganancias" en la misma frase).
+- **La caída de Alemania fue la oportunidad de Estados Unidos.** Antes de la guerra, empresas alemanas como Schering y Bayer surtían más o menos **una de cada dos recetas en el mundo**. Los bombardeos de los Aliados destruyeron sus plantas. ✅ (En su lista de descubrimientos de Bayer pone el paracetamol junto a la aspirina, la heroína y los barbitúricos 🟡; vale la pena verificarlo.)
+- **Para 1950: 80% de las ventas de medicinas del mundo eran de compañías de EE. UU.**, sobre todo de las 10 más grandes, y **95% de las ganancias**. 🟡 (según lo dijo; no encontramos fuente para estos porcentajes)
+- **2005:** las 10 farmacéuticas más grandes venían del programa de la penicilina. 🟡 (según lo dijo, sin verificar; varias de las más grandes en 2005 eran europeas, así que "todas" parece exagerado)
+- Las ganancias se volvieron a invertir con fuerza: sucursales en otros países (Reino Unido, Francia, Sudamérica), laboratorios nuevos, comprar a los competidores pequeños antes de que crecieran, y **hacer todo ellas mismas** (descubrir, patentar, fabricar y repartir, sin intermediarios). ✅
 
-## Juegos de patentes — Fármacos me-too y antibióticos combinados
-- La penicilina no se podía patentar, pero **cada nueva variante de antibiótico sí**: estreptomicina, Terramycin, Aureomycin y las demás. ✅
-- **Fármacos me-too:** cambiar una o dos moléculas del fármaco de un competidor, patentarlo y venderlo como mejor. No se exigía prueba de eficacia. ✅
-- **La Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938** solo exigía que las compañías revelaran si un fármaco era realmente peligroso (si podía matar); sin lista completa de efectos secundarios, **sin requisito de eficacia**. ✅ 🟡 Verificación de evidencia: en seguridad la Ley iba más allá: los fabricantes tenían que demostrar a la FDA que un fármaco nuevo era seguro antes de venderlo, y las etiquetas debían incluir instrucciones adecuadas para su uso seguro; la eficacia no se exigió sino hasta 1962 (FDA, Parte II).
-- Pfizer y otras demandaron por infracción de patentes; tribunales que "no entendían la ciencia" resolvieron que **una estructura química modificada es patentable**. Resultado: un "Viejo Oeste" con docenas de variantes de cada una, todas prometiendo mayor espectro, menos efectos secundarios y mejores curas. ✅
-- **Combinaciones a dosis fija:** Sigmamycin, comercializado por Arthur Sackler, fue el primero; con el tiempo las compañías vendieron **cientos** de combinaciones de dos antibióticos con la lógica de "dos son mejor que uno". Años después (peleas en el Congreso, próximas clases) se descubrió que casi nunca eran mejores que un solo antibiótico, con un **riesgo multiplicado de efectos secundarios**. ✅
+## Juegos con las patentes — Medicinas de copia y antibióticos combinados
+- La penicilina no se podía patentar, pero **cada antibiótico nuevo parecido sí**: estreptomicina, Terramycin, Aureomycin y los demás. ✅
+- **Medicinas de copia ("me-too"):** cambiarle una o dos piezas a la molécula de la medicina de la competencia, patentarla y venderla como si fuera mejor. No había que probar que funcionara. ✅
+- **La Ley Federal de Alimentos, Medicamentos y Cosméticos de 1938** solo pedía a las compañías decir si una medicina era de verdad peligrosa (si podía matar); sin lista completa de efectos secundarios, **sin pedir pruebas de que funcionara**. ✅ 🟡 Revisión de la evidencia: en seguridad la Ley iba más lejos: los fabricantes tenían que demostrarle a la FDA que una medicina nueva era segura antes de venderla, y las etiquetas tenían que traer instrucciones para usarla con seguridad; las pruebas de que funcionara no se pidieron sino hasta 1962 (FDA, Parte II).
+- Pfizer y otras demandaron por copia de patentes; jueces que "no entendían la ciencia" decidieron que **una molécula química cambiada se puede patentar**. Resultado: un "Viejo Oeste" con docenas de versiones de cada una, todas prometiendo matar más tipos de bacterias, menos efectos secundarios y mejores curas. ✅
+- **Mezclas de dos medicinas en dosis fijas:** el Sigmamycin, que vendía Arthur Sackler, fue el primero; con el tiempo las compañías vendieron **cientos** de mezclas de dos antibióticos con la lógica de "dos son mejor que uno". Años después (peleas en el Congreso, en las próximas clases) se descubrió que casi nunca eran mejores que un solo antibiótico, y que tenían **mucho más riesgo de efectos secundarios**. ✅
 
-## El lado oscuro — Uso excesivo y resistencia
-- Los médicos de los años cincuenta repartían antibióticos "como dulces" para mocos, dolor de garganta y resfriados. La sobreprescripción era parte de la ganancia, así que las compañías no tenían incentivo para frenarla. ✅
-- **Japón, finales de los años cuarenta:** un estudio detectó bacterias resistentes en usuarios de penicilina a largo plazo; los médicos occidentales lo descartaron como "algo propio de Japón". 🟡 (según lo dijo; no pudimos identificar el estudio)
-- **1945:** el propio Fleming, de visita en Estados Unidos, advirtió a las compañías que los microbios desarrollarían resistencia. ✅ Lo dijo públicamente en su conferencia Nobel del 11 de diciembre de 1945: un paciente que se automedica con dosis insuficientes puede "educar" a los microbios "para resistir la penicilina" (Fleming 1945). La paráfrasis de Posner de la respuesta: "Gracias por descubrirla. Nos vemos". ✅ (la respuesta es su dramatización 🟡)
-- Algunas legislaturas discutieron reducir su uso; no se hizo nada. Las superbacterias todavía no son una crisis en esta época, "pero lo serán". ✅
+## El lado oscuro — Usarlos de más y la resistencia
+- Los médicos de los años cincuenta daban antibióticos "como dulces" para los mocos, el dolor de garganta y los resfriados. Recetar de más era parte de la ganancia, así que las compañías no tenían razón para frenarlo. ✅
+- **Japón, finales de los años cuarenta:** un estudio encontró bacterias resistentes en personas que llevaban mucho tiempo usando penicilina; los médicos de Occidente lo descartaron como "algo de Japón". 🟡 (según lo dijo; no pudimos encontrar el estudio)
+- **1945:** el propio Fleming, de visita en Estados Unidos, les advirtió a las compañías que los microbios se iban a volver resistentes. ✅ Lo dijo en público en su discurso del Nobel del 11 de diciembre de 1945: un paciente que se automedica con dosis demasiado bajas puede "enseñar" a los microbios "a resistir la penicilina" (Fleming 1945). Cómo cuenta Posner la respuesta: "Gracias por descubrirla. Nos vemos". ✅ (la respuesta es su dramatización 🟡)
+- Algunos congresos discutieron usarla menos; no se hizo nada. Las superbacterias todavía no son una crisis en esa época, "pero lo serán". ✅
 
-## De curas a enfermedades crónicas — Miltown y el giro del modelo de negocio
-- **Lobotomía → Thorazine → Miltown:** el inventor de la lobotomía ganó un Premio Nobel; **Thorazine** (de origen francés) se vendió como una "lobotomía light", pero dejaba a la gente como zombis; **Miltown**, un ansiolítico de primera generación y predecesor del Librium y el Valium, se volvió una sensación en los años cincuenta (filas en las farmacias de Hollywood, charlas en televisión). ✅ Posner dice que Miltown "reemplazó" al Thorazine y los enmarca bajo la depresión 🟡 (secuencia y categorías planteadas de forma imprecisa). Verificación de evidencia: la clorpromazina (Thorazine) se sintetizó en Rhône-Poulenc en diciembre de 1950, se usó en psiquiatría desde 1952 y en EE. UU. desde 1954, como **antipsicótico**, no como antidepresivo (López-Muñoz 2005); Miltown, un tranquilizante, lo lanzó Carter Products en 1955 (Herzberg 2011). Trataban padecimientos distintos, así que uno no reemplazó al otro. El inventor de la lobotomía, Egas Moniz, ganó el Premio Nobel de 1949. ✅
-- La idea de marketing: los antibióticos se toman de 5 a 7 días y las ventas dependen de qué tan enferma esté la gente; **Miltown se toma todos los días**. Los fármacos para padecimientos de por vida significan resurtidos constantes. ✅
-- Áreas "de ensueño" a partir de finales de los cincuenta y principios de los sesenta: **presión arterial, diabetes, depresión**. ✅
-- 🟡 La tesis de Posner: el afán de lucro crea un incentivo para tratar síntomas y mantener enfermedades crónicas en lugar de buscar causas y curas. La industria diría que tratar es su trabajo; él "no está necesariamente seguro de que eso sea cierto".
+## De curas a enfermedades de por vida — Miltown y el cambio de negocio
+- **Lobotomía → Thorazine → Miltown:** el inventor de la lobotomía (una operación del cerebro) ganó un Premio Nobel; el **Thorazine** (de origen francés) se vendió como una "lobotomía ligera", pero dejaba a la gente como zombis; el **Miltown**, una de las primeras medicinas para la ansiedad y antepasado del Librium y el Valium, fue una sensación en los años cincuenta (filas en las farmacias de Hollywood, pláticas en la televisión). ✅ Posner dice que el Miltown "reemplazó" al Thorazine y los pone a los dos bajo la depresión 🟡 (el orden y los tipos no están bien dichos). Revisión de la evidencia: la clorpromazina (Thorazine) se fabricó en Rhône-Poulenc en diciembre de 1950, se usó en psiquiatría desde 1952 y en EE. UU. desde 1954, como **medicina para la psicosis**, no para la depresión (López-Muñoz 2005); el Miltown, un tranquilizante, lo sacó Carter Products en 1955 (Herzberg 2011). Trataban problemas distintos, así que uno no reemplazó al otro. El inventor de la lobotomía, Egas Moniz, ganó el Premio Nobel de 1949. ✅
+- La idea de venta: los antibióticos se toman de 5 a 7 días, y las ventas dependen de cuánta gente se enferme; **el Miltown se toma todos los días**. Las medicinas para problemas de por vida quieren decir que la gente vuelve a comprar sin parar. ✅
+- Áreas "de ensueño" desde finales de los cincuenta y principios de los sesenta: **presión alta, diabetes, depresión**. ✅
+- 🟡 La idea de Posner: las ganas de ganar dinero empujan a tratar síntomas y mantener las enfermedades de por vida, en vez de buscar causas y curas. La industria diría que tratar es su trabajo; él "no está necesariamente seguro de que eso sea cierto".
 
-| Modelo | Patrón de uso | Perfil de ingresos (según el encuadre de Posner) |
+| Modelo | Cómo se usa | Cómo entra el dinero (según Posner) |
 | --- | --- | --- |
-| Antibiótico (cura) | Días, cuando uno está enfermo | Volátil, ligado a epidemias y temporadas de gripe |
-| Fármaco crónico (Miltown, presión arterial, diabetes) | Diario, durante años | Resurtidos confiables, "el juego largo" |
+| Antibiótico (cura) | Unos días, cuando uno está enfermo | Sube y baja, según las epidemias y las temporadas de gripe |
+| Medicina de por vida (Miltown, presión alta, diabetes) | Todos los días, por años | Compras que se repiten seguro, "el juego largo" |
 
-## A dónde fue el dinero — Una instantánea del gasto a finales de los años cincuenta
-Posner las llama "cifras aproximadas", promediadas de las compañías que las reportaron. 🟡
+## A dónde iba el dinero — Una foto de los gastos a finales de los años cincuenta
+Posner las llama "cifras aproximadas", promediadas de las compañías que las daban. 🟡
 
-| Categoría | Proporción del gasto |
+| Categoría | Parte del gasto |
 | --- | --- |
-| Becas de investigación académica | Alrededor del 15% |
-| I+D interna | Alrededor del 30% |
-| Cumplimiento regulatorio | Alrededor del 5% |
-| Marketing y publicidad | Alrededor del 50% |
+| Becas para investigación en universidades | Alrededor de 15% |
+| Investigación y desarrollo propios | Alrededor de 30% |
+| Cumplir con las reglas | Alrededor de 5% |
+| Publicidad y promoción | Alrededor de 50% |
 
-- Dice que la proporción de marketing "no cambia mucho con el tiempo", y que hoy las 10 principales compañías todavía gastan más en marketing y promoción que en I+D; **si se suman las recompras de acciones**, el total supera con mucho a la I+D. 🟡 (su argumento contra la defensa de "necesitamos ganancias para la I+D"; reconoce que el desarrollo hoy es caro, alrededor de mil millones de dólares por fármaco, con fracasos; 🟢 un análisis de 2020 calculó una mediana de $985 millones incluidos los fracasos: Wouters 2020). 🟡 Verificación de evidencia: el marketing médico en EE. UU. sumó $29,900 millones en 2016, la mayor parte dirigida a médicos (Schwartz 2019); si el marketing supera o no a la I+D depende de cómo se cuente cada uno, así que esto es debatido.
-- **Los médicos como guardianes del mercado:** el marketing iba dirigido a los médicos, no a los pacientes (folletos, libros de pasta dura para el Valium, anuncios en revistas médicas, estudios financiados con altas probabilidades de resultar favorables). Los médicos normalmente no saben ni consideran cuánto le cuesta un fármaco al paciente, así que los precios altos no frenan la prescripción. ✅
-- **Simbiosis académica:** Merck y otras se aliaron con Harvard, Yale y Johns Hopkins; a los investigadores les gustaba ver sus nombres en los descubrimientos. ✅
+- Dice que la parte de publicidad "no cambia mucho con el tiempo", y que hoy las 10 compañías más grandes todavía gastan más en publicidad y promoción que en investigación y desarrollo; **si se suma la recompra de sus propias acciones**, el total queda muy por encima de la investigación. 🟡 (su argumento contra la defensa de "necesitamos ganancias para investigar"; reconoce que hoy sacar una medicina es caro, alrededor de mil millones de dólares cada una, contando las que fracasan; 🟢 un análisis de 2020 calculó un valor medio de $985 millones incluyendo los fracasos: Wouters 2020). 🟡 Revisión de la evidencia: la publicidad médica en EE. UU. sumó $29,900 millones en 2016, casi toda dirigida a médicos (Schwartz 2019); si la publicidad es mayor o no que la investigación depende de cómo se cuente cada una, así que esto se discute.
+- **Los médicos como la puerta del mercado:** la publicidad iba para los médicos, no para los pacientes (folletos, libros de pasta dura para el Valium, anuncios en revistas médicas, estudios pagados con muchas probabilidades de salir a favor). Los médicos normalmente no saben ni piensan cuánto le cuesta una medicina al paciente, así que los precios altos no frenan las recetas. ✅
+- **Ayuda mutua con las universidades:** Merck y otras se aliaron con Harvard, Yale y Johns Hopkins; a los investigadores les gustaba ver su nombre en los descubrimientos. ✅
 
-## Captura política — Las semillas
-- **La disposición off-label de 1938:** las compañías obtuvieron el derecho a que los médicos recetaran un fármaco para lo que consideraran conveniente. Con unas pocas docenas de clases de fármacos en ese entonces, parecía manejable; hoy, con miles, Posner lo llama **"uno de los mayores vacíos legales"**, que vale miles de millones en ventas para usos no aprobados. ✅ (caracterización 🟡) 🟡 Verificación de evidencia: la prescripción off-label no es una disposición de la Ley de 1938; existe porque la FDA regula los fármacos, no la práctica médica, mientras que a las compañías se les prohíbe promover usos no aprobados (Wittich 2012).
-- **Puerta giratoria:** Arthur Sackler y otros invitaron al jefe de aprobación de antibióticos de la FDA a unirse a su revista sobre antibióticos, y nadie vio un conflicto. Después, el funcionario de la FDA que aprobó la etiqueta del OxyContin se fue a trabajar a Purdue Pharma. ✅
-- **Los Sackler en los años cincuenta:** tres hermanos psiquiatras; Posner dice que dos perdieron su autorización de seguridad en una institución mental estatal por pertenecer al Partido Comunista 🟡 (su afirmación; sin verificar aquí); Arthur crea filiales en el extranjero antes de tener un producto. ✅
-- Posner: la industria farmacéutica "compra la complacencia de ambos partidos". 🟡 Opinión.
-- Contexto de la industria: según Moody's, la industria no existía como categoría en 1909; para 1929 aparecía listada con esencialmente un producto, la insulina 🟡 (según lo dijo; sin verificar).
+## Cómo se fue comprando a los políticos — Las semillas
+- **La regla de recetar para usos no aprobados, de 1938:** las compañías lograron que los médicos pudieran recetar una medicina para lo que ellos creyeran conveniente. Con unas pocas docenas de tipos de medicinas en ese entonces, parecía controlable; hoy, con miles, Posner lo llama **"uno de los mayores huecos legales"**, que vale miles de millones en ventas para usos no aprobados. ✅ (su forma de verlo 🟡) 🟡 Revisión de la evidencia: recetar para usos no aprobados no viene de la Ley de 1938; existe porque la FDA vigila las medicinas, no lo que hacen los médicos, mientras que a las compañías se les prohíbe anunciar usos no aprobados (Wittich 2012).
+- **Puerta giratoria:** Arthur Sackler y otros invitaron al jefe de aprobar antibióticos de la FDA a unirse a su revista sobre antibióticos, y nadie vio un conflicto de intereses. Después, el funcionario de la FDA que aprobó la etiqueta del OxyContin se fue a trabajar a Purdue Pharma, la empresa que lo vendía. ✅
+- **Los Sackler en los años cincuenta:** tres hermanos psiquiatras; Posner dice que dos perdieron su permiso de seguridad en un hospital psiquiátrico del estado por ser del Partido Comunista 🟡 (lo dice él; no lo verificamos aquí); Arthur abre sucursales en otros países antes de tener un producto. ✅
+- Posner: la industria farmacéutica "compra la buena voluntad de los dos partidos". 🟡 Opinión.
+- Contexto de la industria: según Moody's, la industria no existía como categoría en 1909; para 1929 aparecía con prácticamente un solo producto, la insulina 🟡 (según lo dijo; sin verificar).
 
-## Frases clave y datos citables (Clase 2)
+## Frases clave y datos para recordar (Clase 2)
 - **"Nadie puede patentar la penicilina".** La regla de no patentar llevó los precios casi a cero.
-- **Un melón cantalupo mohoso de un mercado de Peoria** dio la cepa más potente.
-- **El policía vivió cinco días buenos y luego murió cuando se acabó la penicilina.** Prueba por escasez.
-- **1950: el 80% de las ventas mundiales de medicamentos y el 95% de las ganancias eran estadounidenses.** Las plantas bombardeadas de Alemania lo hicieron posible.
-- **Las 10 principales farmacéuticas de 2005 tenían su origen en el programa de la penicilina.**
+- **Un melón mohoso de un mercado de Peoria** dio el moho más potente.
+- **El policía vivió cinco días buenos y luego murió cuando se acabó la penicilina.** La prueba vino de que faltó.
+- **1950: 80% de las ventas de medicinas del mundo y 95% de las ganancias eran de EE. UU.** Las plantas bombardeadas de Alemania lo hicieron posible.
+- **Las 10 farmacéuticas más grandes de 2005 venían del programa de la penicilina.**
 - **De 1945 a 1955: ingresos 600% más altos solo con antibióticos.**
-- **Cambia una molécula, obtén una patente.** El fallo judicial que dio origen a los fármacos me-too.
-- **Marketing alrededor del 50%, I+D alrededor del 30%.** Reparto aproximado a finales de los cincuenta.
-- **Los antibióticos duran una semana; Miltown es todos los días.** El giro hacia los fármacos crónicos.
-- **Prescripción off-label: un vacío legal que todavía vale miles de millones** (Posner lo fecha en 1938; se basa en que la FDA no regula la práctica médica).
+- **Cambia una molécula y obtén una patente.** La decisión de los jueces que hizo nacer las medicinas de copia.
+- **Publicidad alrededor de 50%, investigación alrededor de 30%.** Reparto aproximado a finales de los cincuenta.
+- **Los antibióticos duran una semana; el Miltown es todos los días.** El cambio hacia las medicinas de por vida.
+- **Recetar para usos no aprobados: un hueco legal que todavía vale miles de millones** (Posner lo pone en 1938; existe porque la FDA no vigila lo que hacen los médicos).
 
-## Correcciones clave para llevar adelante
-- 🔴 "Big Pharma se construyó sola": el gobierno de EE. UU. pagó el Proyecto Penicilina, su investigación y sus plantas de fermentación; la ventaja inicial de la industria la financiaron los contribuyentes.
-- 🔴 "Una nueva versión patentada significa un mejor fármaco": las variantes me-too y las combinaciones a dosis fija se patentaron y vendieron sin prueba de eficacia, y las combinaciones casi nunca fueron mejores.
-- 🔴 "La mayor parte del gasto farmacéutico es I+D": en la instantánea de Posner de finales de los cincuenta, el marketing era cerca de la mitad y la I+D cerca de un tercio; él sostiene que el marketing más las recompras todavía superan a la I+D.
-- 🔴 "La aprobación de la FDA cubre todos los usos": la prescripción off-label permite que los médicos usen fármacos para usos nunca aprobados clínicamente, aunque las compañías no pueden promoverlos.
-- 🔴 "La resistencia fue una sorpresa": Fleming lo advirtió en 1945 y un estudio japonés de finales de los cuarenta la detectó; ambos fueron descartados.
-- 🔴 "La penicilina fue un eureka solitario": se necesitaron el azar de 1928, un artículo de 1929, un equipo de Oxford de 1939 a 1941 y un programa gubernamental de guerra para convertirla en un fármaco.
+## Correcciones clave para recordar
+- 🔴 "Las grandes farmacéuticas se hicieron solas": el gobierno de EE. UU. pagó el Proyecto Penicilina, su investigación y sus plantas de fermentación; la ventaja con la que arrancó la industria la pagaron los contribuyentes.
+- 🔴 "Una versión nueva con patente quiere decir una medicina mejor": las copias y las mezclas en dosis fijas se patentaron y vendieron sin pruebas de que funcionaran, y las mezclas casi nunca fueron mejores.
+- 🔴 "La mayor parte del gasto de las farmacéuticas es investigación": en la foto de Posner de finales de los cincuenta, la publicidad era cerca de la mitad y la investigación cerca de un tercio; él dice que la publicidad más la recompra de acciones todavía le ganan a la investigación.
+- 🔴 "La aprobación de la FDA cubre todos los usos": recetar para usos no aprobados deja que los médicos usen medicinas para cosas que nunca se aprobaron con estudios, aunque las compañías no pueden anunciarlas para eso.
+- 🔴 "La resistencia fue una sorpresa": Fleming lo advirtió en 1945 y un estudio japonés de finales de los cuarenta la encontró; las dos cosas se ignoraron.
+- 🔴 "La penicilina fue un descubrimiento de un solo genio": hicieron falta la casualidad de 1928, un artículo de 1929, un equipo de Oxford de 1939 a 1941 y un programa del gobierno en plena guerra para convertirla en medicina.
 
 ## Conclusión práctica
-Conclusiones a nivel de estudio, no indicaciones médicas. Las preguntas del "paciente más inteligente" de Posner:
+Ideas para estudiar, no indicaciones médicas. Las preguntas del "paciente más inteligente" de Posner:
 
-1. **¿Quién pagó la investigación original?** (Ahora dice que esto importa menos de lo que solía pensar.)
-2. **¿Por qué me están recetando este fármaco?** ¿Es un fármaco de moda (Miltown, Valium, GLP-1) o se eligió para mi caso? "No hay almuerzo gratis en la industria farmacéutica".
-3. **¿Esto trata una infección o es una comodidad?** Pregunta antes de tomar antibióticos para un resfriado.
-4. **¿Hay opciones sin fármacos que funcionen igual de bien?** El estilo de vida es "menos rentable". Reconoce que los fármacos GLP-1 pueden cambiarle la vida a personas con obesidad mórbida, pero cuestiona usarlos para bajar 20 libras para una reunión de exalumnos.
+1. **¿Quién pagó la investigación original?** (Ahora dice que esto importa menos de lo que antes pensaba.)
+2. **¿Por qué me están recetando esta medicina?** ¿Es una medicina de moda (Miltown, Valium, GLP-1) o se eligió para mi caso? "En la industria farmacéutica nadie da nada gratis".
+3. **¿Esto trata una infección o es solo por comodidad?** Pregunta antes de tomar antibióticos para un resfriado.
+4. **¿Hay opciones sin medicinas que funcionen igual de bien?** Cambiar la forma de vivir "deja menos ganancia". Reconoce que las medicinas GLP-1 pueden cambiarle la vida a personas con obesidad grave, pero cuestiona usarlas para bajar 20 libras para una reunión de excompañeros.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Dada la forma en que se manejó el Proyecto Penicilina, ¿por qué el precio de la penicilina siguió bajando después de la guerra?**
-A. Pfizer bajó los precios voluntariamente para ganar buena voluntad
-B. \* El gobierno prohibió que cualquiera la patentara, así que una docena de fabricantes competían con el mismo producto
-C. La penicilina resultó menos eficaz que las sulfas
-*Por qué B: Posner lo presenta como un libre mercado de manual: sin patente, muchos fabricantes, alta demanda, precio a la baja, y las compañías detestaban los márgenes reducidos.*
+**1. Por cómo se manejó el Proyecto Penicilina, ¿por qué el precio de la penicilina siguió bajando después de la guerra?**
+A. Pfizer bajó los precios por su cuenta para caer bien
+B. \* El gobierno prohibió que alguien la patentara, así que una docena de fabricantes competían con el mismo producto
+C. La penicilina resultó funcionar menos que las sulfas
+*Por qué B: Posner lo presenta como un libre mercado de libro: sin patente, muchos fabricantes y mucha demanda, el precio baja, y a las compañías no les gustaban las ganancias tan chicas.*
 
-**2. Dado el entorno legal de los años cincuenta que describe Posner, ¿qué hizo que los antibióticos "me-too" fueran posibles y rentables?**
-A. \* Los tribunales sostuvieron que una estructura química modificada es patentable, y la Ley de 1938 no exigía prueba de eficacia, así que las variantes leves podían patentarse y venderse como mejores
-B. La FDA exigía que cada variante superara a los fármacos existentes en ensayos comparativos directos
-C. La patente de la penicilina expiró, lo que abrió el campo
-*Por qué A: la combinación de patentes fáciles y ningún requisito de eficacia permitió a las compañías vender variantes solo con promesas.*
+**2. Con las leyes de los años cincuenta que describe Posner, ¿qué hizo posibles y rentables los antibióticos de copia?**
+A. \* Los jueces decidieron que una molécula química cambiada se puede patentar, y la Ley de 1938 no pedía pruebas de que funcionara, así que las versiones con cambios pequeños se podían patentar y vender como mejores
+B. La FDA pedía que cada versión le ganara a las medicinas que ya había en estudios cara a cara
+C. Se venció la patente de la penicilina, y eso abrió el mercado
+*Por qué A: la mezcla de patentes fáciles y ninguna obligación de probar que funcionaran dejó a las compañías vender versiones solo con promesas.*
 
-**3. Dado el relato de Posner sobre Miltown, ¿cuál fue la lección de negocio clave que sacó la industria?**
-A. Los fármacos psiquiátricos son demasiado riesgosos para comercializarlos ampliamente
-B. Los antibióticos son más rentables porque la gente se enferma seguido
-C. \* Los fármacos que se toman a diario para padecimientos de por vida producen ingresos más estables y mayores que las curas de curso corto, así que la industria se desplazó hacia los tratamientos crónicos
-*Por qué C: los antibióticos duran días y dependen de las oleadas de enfermedad; los usuarios de Miltown lo tomaban todos los días, lo que orientó a las compañías hacia la presión arterial, la diabetes y la depresión.*
+**3. Por lo que cuenta Posner del Miltown, ¿cuál fue la lección de negocio clave que aprendió la industria?**
+A. Las medicinas para la mente son demasiado riesgosas para venderlas mucho
+B. Los antibióticos dejan más ganancia porque la gente se enferma seguido
+C. \* Las medicinas que se toman todos los días para problemas de por vida dan ingresos más estables y más grandes que las curas cortas, así que la industria se movió hacia los tratamientos de por vida
+*Por qué C: los antibióticos duran días y dependen de las olas de enfermedad; quienes usaban Miltown lo tomaban todos los días, y eso llevó a las compañías hacia la presión alta, la diabetes y la depresión.*
 
-**4. Dada la instantánea del gasto de finales de los cincuenta, ¿qué afirmación refleja mejor el argumento de Posner?**
-A. La I+D era la categoría más grande, así que los precios altos se justifican por la investigación
-B. \* El marketing era cerca de la mitad del gasto y la I+D cerca de un tercio, así que la defensa de "necesitamos ganancias para la I+D" exagera el peso de la investigación
-C. El cumplimiento regulatorio consumía la mayor parte del presupuesto
-*Por qué B: sus cifras aproximadas ponen el marketing cerca del 50% y la I+D cerca del 30%, y dice que el marketing más las recompras todavía superan a la I+D hoy.*
+**4. Con la foto de los gastos de finales de los cincuenta, ¿qué frase refleja mejor el argumento de Posner?**
+A. La investigación era lo que más se llevaba, así que los precios altos se justifican por la investigación
+B. \* La publicidad era cerca de la mitad del gasto y la investigación cerca de un tercio, así que la defensa de "necesitamos ganancias para investigar" exagera cuánto pesa la investigación
+C. Cumplir con las reglas se llevaba la mayor parte del presupuesto
+*Por qué B: sus cifras aproximadas ponen la publicidad cerca de 50% y la investigación cerca de 30%, y dice que la publicidad más la recompra de acciones todavía le ganan a la investigación hoy.*
 
-## Cabos sueltos
-- ✅ **Transcripción completa:** termina con el adelanto del Cap. 3 sobre los líderes de opinión clave, en línea con el estilo continuo de Posner.
-- **Cifra del 600%:** ¿ingresos de la industria o de Pfizer? Y "80% de los ingresos" vs. "80% de las ganancias" por la tetraciclina. Verificar contra *Pharma* (el libro).
-- **El vínculo del ácido cítrico de Pfizer** con la fermentación en tanques profundos: resuelto; Pfizer usaba la fermentación de moho para el ácido cítrico desde 1919.
-- **Bayer y el paracetamol** y la afirmación de **Moody's 1909/1929**: siguen sin verificar. **Thorazine/Miltown:** resuelto (antipsicótico de 1950–54 frente a tranquilizante de 1955).
-- **Adelantado para clases posteriores:** el Congreso y la pelea por los antibióticos combinados, Arthur Sackler y la historia del OxyContin, el contraste de "sin patente" con el COVID (Cap. 8), la expansión del DSM y el Xanax para el trastorno de pánico, los anuncios dirigidos al consumidor (EE. UU. es "uno de dos países"), los líderes de opinión clave.
+## Temas abiertos
+- ✅ **Transcripción completa:** termina con el adelanto del Cap. 3 sobre los "líderes de opinión", como es su estilo continuo.
+- **La cifra de 600%:** ¿ingresos de la industria o de Pfizer? Y "80% de los ingresos" o "80% de las ganancias" por la tetraciclina. Verificar en *Pharma* (el libro).
+- **La relación del ácido cítrico de Pfizer** con fermentar en tanques profundos: resuelto; Pfizer fermentaba moho para el ácido cítrico desde 1919.
+- **Bayer y el paracetamol** y lo de **Moody's 1909/1929**: siguen sin verificar. **Thorazine/Miltown:** resuelto (medicina para la psicosis de 1950–54 contra tranquilizante de 1955).
+- **Adelantado para clases posteriores:** el Congreso y la pelea por los antibióticos combinados, Arthur Sackler y la historia del OxyContin, la comparación de "sin patente" con el COVID (Cap. 8), cómo creció el DSM (el manual de diagnósticos de salud mental) y el Xanax para los ataques de pánico, los anuncios dirigidos al público (EE. UU. es "uno de dos países"), los "líderes de opinión".
 
-## Lo que se recortó deliberadamente (autoauditoría)
-- La anécdota de Posner sobre un debate en Oxford (su lado ganó 10 a 1 entre los estudiantes frente a un exjefe de la FDA y el director médico de Pfizer), conservada aquí solo como mención.
-- Repeticiones: la clase vuelve a contar la historia de la penicilina, la cifra del 600% y la lista resumen ("enormes instalaciones de investigación, distribución global, gran poder de cabildeo...") varias veces.
-- La comparación con el cabildeo de Google/Facebook y el comentario sobre la puerta giratoria de los contratistas de defensa.
-- El contenido detallado del adelanto del Cap. 3 (umbrales de presión arterial, DSM, KOL), reservado para la nota de ese capítulo más allá de las breves menciones de arriba.
+## Lo que se dejó fuera a propósito (revisión propia)
+- La historia de Posner sobre un debate en Oxford (su lado ganó 10 a 1 entre los estudiantes contra un exjefe de la FDA y el director médico de Pfizer), que aquí solo se menciona.
+- Repeticiones: la clase vuelve a contar varias veces la historia de la penicilina, la cifra de 600% y la lista resumen ("enormes centros de investigación, distribución en todo el mundo, gran poder para presionar a los políticos...").
+- La comparación con la presión de Google y Facebook sobre los políticos y el comentario sobre la "puerta giratoria" de los contratistas de armas.
+- El contenido detallado del adelanto del Cap. 3 (límites de presión alta, DSM, "líderes de opinión"), guardado para la nota de ese capítulo, más allá de las menciones cortas de arriba.
 
 ---
 **Referencias:**
