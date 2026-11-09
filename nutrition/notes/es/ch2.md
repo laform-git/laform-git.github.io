@@ -1,130 +1,130 @@
 # Lugavere — Introducción a la nutrición, Cap. 2: Superestrellas de la saciedad
 
-*Cómo construir una dieta saludable en torno al balance energético, las necesidades de micronutrientes y tres "superestrellas de la saciedad" (proteína, fibra, agua) — y por qué las ingestas diarias oficiales son pisos contra la deficiencia, no metas para la optimización.*
+*Cómo armar una dieta sana alrededor del equilibrio de energía, los nutrientes chiquitos que hacen falta (micronutrientes) y tres "superestrellas de la saciedad" (proteína, fibra, agua) — y por qué las cantidades diarias oficiales son el mínimo para no tener faltas, no la meta para estar lo mejor posible.*
 
-*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 2 (transcripción). Segundo capítulo de una serie de ocho clases; el Cap. 1 cubre los fundamentos nutricionales (aquí se dan por sabidas las definiciones de macronutrientes).*
+*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 2 (transcripción). Segundo capítulo de una serie de ocho clases; el Cap. 1 ve las bases de la nutrición (aquí se da por sabido qué son los macronutrientes).*
 
 ## Por qué importa
-Esta clase es el motor práctico de la serie: convierte el vocabulario del Cap. 1 en un modelo funcional de una buena dieta. Su idea central es replantear el consejo de "come menos" — la gente ya come hasta saciarse, así que la palanca es la *saciedad por caloría*, no la fuerza de voluntad.
+Esta clase es el motor práctico de la serie: convierte las palabras del Cap. 1 en un modelo que funciona de una buena dieta. Su idea central es cambiar el consejo de "come menos" — la gente ya come hasta llenarse, así que lo que se puede mover es *qué tanto llena cada caloría*, no la fuerza de voluntad.
 
-## Los cinco componentes de una dieta saludable (el marco de Lugavere)
-- **Balance energético** — calorías ingeridas vs. gastadas.
-- **Macronutrientes** — la combinación adecuada de proteína/grasa/carbohidratos *para ti*.
-- **Micronutrientes** — vitaminas, minerales y además fitoquímicos no esenciales pero beneficiosos.
-- **Minimizar los alimentos ultraprocesados** — "no todos los alimentos ultraprocesados son malos, pero la gran mayoría sí." ✅
+## Las cinco partes de una dieta sana (la forma de verlo de Lugavere)
+- **Equilibrio de energía** — calorías que entran contra las que se gastan.
+- **Macronutrientes** — la mezcla correcta de proteína, grasa y carbohidratos *para ti*.
+- **Micronutrientes** — vitaminas, minerales y además sustancias de las plantas (fitoquímicos) que no son indispensables pero ayudan.
+- **Comer lo menos posible de ultraprocesados** — "no toda la comida ultraprocesada es mala, pero la gran mayoría sí." ✅
 - **Saciedad** (y fibra) — el tema principal de la clase.
 
-Sus afirmaciones clave: no existe una dieta de talla única; ningún alimento por sí solo determina la salud; **el patrón alimentario es lo más importante**, y todas las poblaciones longevas comen muy pocos alimentos ultraprocesados, sea cual sea su proporción de carne frente a plantas. ✅
+Lo que más dice: no hay una dieta igual para todos; ninguna comida por sí sola decide la salud; **lo que más importa es la forma de comer en general**, y todos los pueblos que viven mucho comen muy poca comida ultraprocesada, sin importar cuánta carne o cuántas plantas coman. ✅
 
-## Balance energético — "Una caloría es una caloría"
-- **Las calorías importan:** los problemas surgen cuando la ingesta supera el gasto. El ATP es la "moneda" celular que necesita cada célula (hígado, ovario, neurona). ✅
-- **"Una caloría es una caloría"** — es una unidad de medida, como una milla. Pero *de dónde vienen las calorías importa*: 100 kcal de papas fritas y 100 kcal de huevos no hacen lo mismo en tu biología (la analogía de la milla cuesta arriba/cuesta abajo/bajo la lluvia). ✅
+## Equilibrio de energía — "Una caloría es una caloría"
+- **Las calorías importan:** los problemas vienen cuando entra más de lo que se gasta. El ATP es la "moneda" de energía que necesita cada célula (del hígado, del ovario, del cerebro). ✅
+- **"Una caloría es una caloría"** — es una unidad de medida, como una milla. Pero *de dónde vienen las calorías importa*: 100 kcal de papas fritas y 100 kcal de huevos no le hacen lo mismo a tu cuerpo (la comparación de la milla de subida, de bajada o bajo la lluvia). ✅
 
-| Método | Qué es | Veredicto del conferencista |
+| Forma | Qué es | Lo que opina el maestro |
 | --- | --- | --- |
-| **Calorimetría indirecta** | Medición de laboratorio del O2 que entra / CO2 que sale (y el calor) para obtener la tasa metabólica | La única forma de saberlo "con certeza cristalina"; pocas personas acceden a ella |
-| **Mifflin-St Jeor** | Ecuación que usa peso, estatura, edad y sexo → **TMB**, luego ajustada por actividad → **GETD** | Todas las calculadoras en línea la usan; sigue siendo una estimación (Mifflin 1990) |
-| **Peso × 15** | Estimación aproximada de las calorías de mantenimiento | Solo una estimación rápida 🟡 (unidades no indicadas en la transcripción; presumiblemente libras) |
-| **Diario de alimentos + peso estable** | Registrar la ingesta a diario y promediar durante una semana mientras el peso se mantiene estable | Considerado probablemente el más preciso *y* el más fácil |
+| **Calorimetría indirecta** | Medir en laboratorio el oxígeno que entra y el CO2 que sale (y el calor) para saber cuánta energía gasta el cuerpo | La única forma de saberlo "clarísimo"; pocos tienen acceso |
+| **Mifflin-St Jeor** | Una fórmula con peso, estatura, edad y sexo → **TMB**, luego ajustada por actividad → **GETD** | Todas las calculadoras de internet la usan; sigue siendo un cálculo aproximado (Mifflin 1990) |
+| **Peso × 15** | Cálculo rápido de las calorías para mantenerse | Solo un cálculo rápido 🟡 (no dice en qué unidades en la transcripción; seguramente libras) |
+| **Diario de comida + peso parejo** | Apuntar lo que se come cada día y sacar el promedio de una semana mientras el peso no cambia | Seguramente lo más exacto *y* lo más fácil |
 
-- **TMB** (BMR) = calorías usadas en reposo total ("si estuvieras postrado en cama"). **GETD** (TDEE) = TMB más todo lo que haces en un día. ✅
+- **TMB** (BMR) = calorías que se gastan en reposo total ("si estuvieras en cama sin moverte"). **GETD** (TDEE) = la TMB más todo lo que haces en el día. ✅
 
 ## Calidad de la proteína, los carbohidratos y las grasas
-**La calidad de la proteína** tiene dos dimensiones:
-- **Perfil de aminoácidos** — la proteína animal es la de mayor calidad ("no es controversial"). Lo que *sí* se debate es cuánto importa eso en una dieta variada con proteína adecuada; la opinión de Lugavere: no mucho. ✅
-- **Digestibilidad** — se mide con el **PDCAAS** (más antiguo; con tope en 1.0; descrito como un método que usa cerdos y recupera aminoácidos en las heces) y el más reciente **DIAAS** (puede superar 1, donde la proteína animal "se lleva la corona"). La soya/el tofu obtienen una puntuación bastante alta; la proteína de cacahuate y de arroz es menos digerible. ✅ Dice que importa sobre todo en dietas bajas en proteína y en poblaciones de bajos ingresos o en desiertos alimentarios. 🟡 (La descripción del PDCAAS/cerdos la dio de memoria: "creo".) Corrección: el PDCAAS se basa en estudios con ratas y en la digestibilidad de la proteína en todo el tubo digestivo (en heces); es el DIAAS el que mide la digestibilidad de cada aminoácido al final del intestino delgado (ileal), de preferencia en cerdos en crecimiento o en humanos (FAO 2013; Mathai 2017).
+**La calidad de la proteína** tiene dos lados:
+- **Qué aminoácidos trae** — la proteína animal es la de mejor calidad ("no se discute"). Lo que *sí* se discute es cuánto importa eso en una dieta variada con suficiente proteína; Lugavere opina: no mucho. ✅
+- **Qué tan bien se digiere** — se mide con el **PDCAAS** (más viejo; llega máximo a 1.0; lo describe como un método con cerdos que recupera aminoácidos en el excremento) y el más nuevo **DIAAS** (puede pasar de 1, y ahí la proteína animal "se lleva la corona"). La soya y el tofu salen bastante bien; la proteína de cacahuate y de arroz se digiere menos. ✅ Dice que importa sobre todo en dietas con poca proteína y en gente con pocos recursos o que vive donde casi no hay comida sana. 🟡 (Lo del PDCAAS y los cerdos lo dijo de memoria: "creo".) Corrección: el PDCAAS se basa en estudios con ratas y en lo que se digiere en todo el tubo digestivo (medido en el excremento); es el DIAAS el que mide cuánto se digiere cada aminoácido al final del intestino delgado, de preferencia en cerdos en crecimiento o en personas (FAO 2013; Mathai 2017).
 
-**Calidad de los carbohidratos:** la etiqueta simple vs. complejo "no parece jugar un papel enorme"; lo que importa son los carbohidratos de origen vegetal y de alimentos integrales con una **matriz alimentaria** intacta (la fibra y el agua ralentizan la digestión y la extracción del azúcar). Los carbohidratos ultraprocesados se digieren rápidamente y no tienen matriz. ✅
+**Calidad de los carbohidratos:** la etiqueta de simple o complejo "no parece importar tanto"; lo que importa son los carbohidratos de plantas y de comida entera con la **matriz del alimento** (cómo está armado) completa (la fibra y el agua hacen más lenta la digestión y la salida del azúcar). Los carbohidratos ultraprocesados se digieren rápido y no tienen matriz. ✅
 
-**Grasa:** no le preocupa la distinción entre grasas "saludables vs. no saludables" *dentro de alimentos integrales y mínimamente procesados*; la distinción importa para las **grasas añadidas**, que se tratan más adelante. La grasa sacia y permite la absorción de nutrientes liposolubles. ✅
+**Grasa:** no le preocupa la diferencia entre grasas "sanas y no sanas" *dentro de la comida entera y poco procesada*; la diferencia importa para las **grasas que se agregan**, que se ven después. La grasa llena y deja que se absorban las vitaminas que se disuelven en grasa. ✅
 
-## Micronutrientes — Biodisponibilidad y la teoría del triaje
-- **El 90% de los estadounidenses tiene deficiencia de al menos un micronutriente esencial** (su cifra). 🟡 Afirmado sin fuente. Verificación de evidencia: los biomarcadores de la encuesta NHANES indican que cerca del 31% de los estadounidenses está en riesgo de al menos una deficiencia de vitaminas o de anemia (Bird 2017). Una ingesta insuficiente es más común que una deficiencia: aun contando suplementos, cerca del 70% no llega al requerimiento promedio de vitamina D, el 34% al de vitamina A y el 25% al de vitamina C (Fulgoni 2011). Decir "90% tiene deficiencia" es exagerado. El suministro de alimentos también se ha "empobrecido" (procesamiento, prácticas de cultivo; se mencionan ciertas vitaminas del complejo B). ✅
-- **Biodisponibilidad:** las vitaminas y minerales de los productos animales son, en general, los más biodisponibles. Ejemplo: **retinol** (vitamina A animal, se usa directamente) vs. **betacaroteno** (provitamina A vegetal; debe convertirse, y las personas varían mucho en esa conversión, en parte por genética). La vitamina C es mayormente de origen vegetal y biodisponible; las vitaminas B, mayormente animales, con el folato en las plantas. ✅
-- **Magnesio:** cofactor en unos 300 procesos o más (síntesis de ATP, enzimas de reparación del ADN); alrededor del **50% de los adultos no consume suficiente**. Sus fuentes son mayormente vegetales — un puñado de almendras aporta alrededor del 20% de las necesidades diarias; cualquier cosa verde (la clorofila tiene magnesio en su centro, como la hemoglobina tiene hierro). ✅ (NIH ODS: cofactor en más de 300 sistemas enzimáticos; el 48% de los estadounidenses consume menos del requerimiento promedio; 1 onza de almendras = 80 mg, 19% del valor diario.)
-- **Teoría del triaje del envejecimiento (Bruce Ames):** cuando los micronutrientes escasean, el cuerpo los asigna a la supervivencia inmediata (lucha/huida, reproducción) por encima de proyectos a largo plazo como la reparación del ADN — así que un consumo insuficiente crónico podría perjudicar silenciosamente la longevidad. ✅ (Presentada como teoría; Ames 2006.)
-- **Las vitaminas liposolubles A, D, E, K** viajan con la grasa en la naturaleza (D en las yemas de huevo, A como retinol en la carne de res de libre pastoreo/el hígado, E en nueces y semillas). Afirma que la **vitamina K** es difícil de obtener a menos que comas hígado, pero que el cuerpo la produce de forma endógena cuando la fibra se fermenta en ácidos grasos de cadena corta. 🟡 Verificación de evidencia: esto no es exacto. La vitamina K1 abunda en las verduras de hoja verde y en algunos aceites vegetales, así que no hace falta comer hígado; las bacterias intestinales producen vitamina K2 (menaquinonas) de forma directa, no a través de ácidos grasos de cadena corta, y no está claro cuánta absorbemos. La deficiencia es muy rara en adultos sanos (NIH ODS).
+## Micronutrientes — qué tanto aprovecha el cuerpo y la teoría del "triaje"
+- **El 90% de los estadounidenses tiene falta de por lo menos un micronutriente indispensable** (su cifra). 🟡 Lo dice sin fuente. Revisión de la evidencia: los análisis de sangre de la encuesta NHANES indican que cerca del 31% de los estadounidenses corre riesgo de por lo menos una falta de vitaminas o de anemia (Bird 2017). Comer menos de lo necesario es más común que tener una falta de verdad: aun contando suplementos, cerca del 70% no llega a lo que se necesita en promedio de vitamina D, el 34% de vitamina A y el 25% de vitamina C (Fulgoni 2011). Decir "90% tiene falta" es exagerado. La comida también se ha "empobrecido" (por el procesamiento y cómo se cultiva; se mencionan algunas vitaminas B). ✅
+- **Qué tanto aprovecha el cuerpo (biodisponibilidad):** las vitaminas y minerales de los productos animales son, en general, los que mejor se aprovechan. Ejemplo: **retinol** (vitamina A animal, se usa directo) contra **betacaroteno** (la "materia prima" de la vitamina A en las plantas; el cuerpo lo tiene que convertir, y las personas lo convierten muy distinto, en parte por sus genes). La vitamina C viene sobre todo de plantas y se aprovecha bien; las vitaminas B, sobre todo de animales, con el folato en las plantas. ✅
+- **Magnesio:** ayuda en unos 300 procesos o más (hacer ATP, enzimas que reparan el ADN); cerca del **50% de los adultos no come suficiente**. Viene sobre todo de plantas — un puño de almendras da cerca del 20% de lo que se necesita al día; cualquier cosa verde (la clorofila tiene magnesio en el centro, como la hemoglobina tiene hierro). ✅ (NIH ODS: ayuda en más de 300 sistemas de enzimas; el 48% de los estadounidenses come menos de lo que se necesita en promedio; 1 onza de almendras = 80 mg, 19% del valor diario.)
+- **Teoría del "triaje" del envejecimiento (Bruce Ames):** cuando faltan micronutrientes, el cuerpo los usa primero para sobrevivir ahora (pelear o huir, tener hijos) antes que para cosas de largo plazo como reparar el ADN — así que comer poco de ellos por mucho tiempo podría dañar sin hacer ruido qué tanto vive uno. ✅ (Se presenta como teoría; Ames 2006.)
+- **Las vitaminas que se disuelven en grasa, A, D, E, K,** vienen con la grasa en la naturaleza (la D en las yemas de huevo, la A como retinol en la carne de res de pastoreo y el hígado, la E en nueces y semillas). Dice que la **vitamina K** es difícil de conseguir a menos que comas hígado, pero que el cuerpo la fabrica cuando la fibra se fermenta en ácidos grasos de cadena corta. 🟡 Revisión de la evidencia: esto no es exacto. La vitamina K1 abunda en las verduras de hoja verde y en algunos aceites vegetales, así que no hace falta comer hígado; las bacterias del intestino hacen vitamina K2 (menaquinonas) directo, no por los ácidos grasos de cadena corta, y no está claro cuánta absorbemos. La falta es muy rara en adultos sanos (NIH ODS).
 
-## Las guías son pisos, no metas
-- Las ingestas recomendadas se establecen "para evitar la deficiencia en la población", **no para la optimización humana**. Las vitaminas se identificaron a través de enfermedades por deficiencia (raquitismo/vitamina D, escorbuto/vitamina C — una falla en la síntesis de colágeno). ✅
-- **La vitamina D** se describe como una hormona involucrada en la señalización epigenética que regula al menos el **5% del genoma humano**; las vitaminas C y D tienen muchas funciones que las IDR no optimizan, porque se desconocen las dosis óptimas. ✅ Verificación de evidencia: la estimación habitual es que la vitamina D regula cerca del 3% del genoma, directa o indirectamente (Bouillon 2008), así que "al menos el 5%" es una cifra alta.
-- Las necesidades varían: tomar mucho café puede aumentar las necesidades de magnesio; las dietas para perder grasa pueden aumentar las necesidades de riboflavina; las mujeres premenopáusicas necesitan más hierro que los hombres (todo según el conferencista). 🟡
-- **La proteína** sigue la misma lógica: la IDR previene la deficiencia, que casi nadie en Occidente tiene — no significa que la ingesta sea adecuada. ✅
+## Las guías son el piso, no la meta
+- Las cantidades recomendadas se ponen "para que la población no tenga faltas", **no para que las personas estén lo mejor posible**. Las vitaminas se descubrieron por las enfermedades que da su falta (raquitismo/vitamina D, escorbuto/vitamina C — una falla para fabricar colágeno). ✅
+- **La vitamina D** se describe como una hormona que ayuda a prender y apagar genes y que controla por lo menos el **5% de los genes humanos**; las vitaminas C y D tienen muchos trabajos que las cantidades recomendadas (IDR) no buscan mejorar, porque no se sabe cuánto es lo mejor. ✅ Revisión de la evidencia: lo que se suele calcular es que la vitamina D controla cerca del 3% de los genes, directo o indirecto (Bouillon 2008), así que "por lo menos el 5%" es una cifra alta.
+- Lo que se necesita cambia: tomar mucho café puede subir lo que se necesita de magnesio; las dietas para bajar grasa pueden subir lo que se necesita de riboflavina (vitamina B2); las mujeres que todavía reglan necesitan más hierro que los hombres (todo según el maestro). 🟡
+- **La proteína** sigue la misma lógica: la IDR evita la falta, que casi nadie en Occidente tiene — no quiere decir que se coma suficiente. ✅
 
-## La idea de la saciedad — Optimizar la saciedad por caloría
-- Las personas en su entorno cotidiano **comen hasta saciarse**; muchas actualmente comen en exceso. Así que en lugar de "comer menos" de una dieta obesogénica (lo cual fracasa porque ya la comían hasta saciarse), **reemplaza el espacio del plato** con alimentos que te llenen con menos calorías. ✅
+## La idea de la saciedad — que cada caloría llene lo más posible
+- Las personas en su vida diaria **comen hasta llenarse**; muchas hoy comen de más. Así que en vez de "comer menos" de una dieta que engorda (eso falla porque ya la comían hasta llenarse), **cambia lo que ocupa el plato** por comida que te llene con menos calorías. ✅
 - Las tres palancas: **proteína, fibra, agua.**
 
-| Superestrella | Por qué sacia | Ejemplos de alimentos del conferencista |
+| Superestrella | Por qué llena | Comidas de ejemplo del maestro |
 | --- | --- | --- |
-| **Proteína** | El macronutriente más saciante; **hipótesis del apalancamiento proteico** — el apetito se rige en parte por la necesidad de proteína (Simpson 2005) | Pechuga de pollo, pescado magro, pavo, yogur griego, huevos, carne seca (beef jerky), queso cottage, batidos de proteína |
-| **Fibra** | Ralentiza el vaciamiento gástrico; absorbe agua y se expande, **estirando el estómago** y apagando la **grelina** | Alimentos vegetales integrales (Metamucil usado como ilustración) |
-| **Agua** | Un vaso antes de una comida ≈ **100–150 calorías menos** en esa comida; históricamente, el agua de los alimentos era nuestra hidratación | Frutas, verduras, productos animales |
+| **Proteína** | El macronutriente que más llena; **idea de la "palanca de la proteína"** — el hambre depende en parte de cuánta proteína necesitas (Simpson 2005) | Pechuga de pollo, pescado con poca grasa, pavo, yogur griego, huevos, carne seca, requesón (queso cottage), licuados de proteína |
+| **Fibra** | Hace más lento que el estómago se vacíe; absorbe agua y se hincha, **estirando el estómago** y apagando la **grelina** (la hormona del hambre) | Comida entera de plantas (pone el Metamucil como ejemplo) |
+| **Agua** | Un vaso antes de comer ≈ **100–150 calorías menos** en esa comida; antes, el agua de la comida era como nos hidratábamos | Frutas, verduras, productos de animales |
 
-- **Lo que consumimos en exceso:** combinaciones de grasa y carbohidratos (donas, Doritos) — no los carbohidratos o la grasa por separado, y "no es que los carbohidratos sean malos". El procesamiento lo empeora. ✅
-- **Los alimentos ultraprocesados** son bajos en los tres: pobres en proteína (la proteína es cara; los carbohidratos y la grasa vienen de cultivos subsidiados baratos), bajos en fibra y deshidratados (la humedad acorta la vida en anaquel). ✅
+- **Lo que comemos de más:** mezclas de grasa con carbohidratos (donas, Doritos) — no los carbohidratos o la grasa por separado, y "no es que los carbohidratos sean malos". Lo procesado lo empeora. ✅
+- **La comida ultraprocesada** tiene poco de las tres: poca proteína (la proteína es cara; los carbohidratos y la grasa vienen de cultivos baratos con apoyo del gobierno), poca fibra y está seca (la humedad hace que dure menos en el anaquel). ✅
 
-## La fibra más allá de la saciedad
-- Atenúa el impacto de los carbohidratos en el azúcar en sangre al ralentizar el paso de los azúcares al intestino delgado. ✅
-- Se asocia con menor inflamación, en parte a través de productos de las bacterias intestinales como el **butirato** (el intestino como "fábrica de fármacos"). Advertencia: evalúa qué plantas y qué cantidades toleras *tú*. ✅
-- **Se une al estrógeno y al colesterol** en el intestino, ayudando a equilibrarlos. ✅ (Mecanismo del conferencista, mencionado brevemente; deja el detalle del colesterol para más adelante.) 🟢 En el caso del colesterol, las fibras viscosas como el psyllium atrapan ácidos biliares; un metaanálisis de 28 ensayos encontró que unos 10 g al día bajaron el colesterol LDL, el colesterol no HDL y la apoB (Jovanovski 2018).
-- **Auméntala poco a poco:** no somos rumiantes; dependemos de las bacterias intestinales para fermentar la fibra en posbióticos como los ácidos grasos de cadena corta. ✅
+## La fibra, más allá de llenar
+- Le baja el golpe de azúcar en la sangre a los carbohidratos porque hace más lento que el azúcar llegue al intestino delgado. ✅
+- Va junto con menos inflamación, en parte por lo que fabrican las bacterias del intestino, como el **butirato** (el intestino como "fábrica de medicinas"). Ojo: fíjate qué plantas y cuánto aguantas *tú*. ✅
+- **Atrapa el estrógeno y el colesterol** en el intestino, y ayuda a mantenerlos en equilibrio. ✅ (Es lo que dice el maestro, de pasada; deja lo del colesterol para después.) 🟢 En el caso del colesterol, las fibras espesas como el psyllium atrapan los ácidos de la bilis; un análisis de 28 estudios encontró que unos 10 g al día bajaron el colesterol LDL, el colesterol no HDL y la apoB (Jovanovski 2018).
+- **Súbela poco a poco:** no somos rumiantes; dependemos de las bacterias del intestino para fermentar la fibra y hacer cosas útiles como los ácidos grasos de cadena corta. ✅
 
-## Frases clave y datos citables (Clase 2)
+## Frases clave y datos para recordar (Clase 2)
 - **"Una caloría es una caloría... pero de dónde vienen esas calorías importa."**
-- **"La nutrición no es un sombrero"** — no hay talla única.
-- **El patrón alimentario le gana a cualquier alimento individual.**
-- **Un vaso de agua antes de una comida ≈ 100–150 calorías menos** en esa comida. 🟡 Verificación de evidencia: en el ensayo más conocido, 500 ml de agua 30 minutos antes del desayuno redujeron la ingesta en unas 74 kcal (13%) en adultos mayores con sobrepeso (Davy 2008).
-- **Aproximadamente la mitad de los adultos consume poco magnesio; un puñado de almendras ≈ 20% de las necesidades diarias.**
-- **"Muy poca gente come pechuga de pollo o pescado magro en exceso."** Los alimentos que se comen en exceso son combinaciones de grasa y carbohidratos.
-- **Las IDR evitan la deficiencia; no optimizan** — la vitamina D regula al menos el 5% del genoma.
+- **"La nutrición no es un sombrero"** — no es igual para todos.
+- **La forma de comer en general le gana a cualquier comida suelta.**
+- **Un vaso de agua antes de comer ≈ 100–150 calorías menos** en esa comida. 🟡 Revisión de la evidencia: en el estudio más conocido, 500 ml de agua 30 minutos antes del desayuno bajaron lo que se comió en unas 74 kcal (13%) en adultos mayores con sobrepeso (Davy 2008).
+- **Más o menos la mitad de los adultos come poco magnesio; un puño de almendras ≈ 20% de lo que se necesita al día.**
+- **"Muy poca gente come pechuga de pollo o pescado sin grasa de más."** Lo que se come de más son mezclas de grasa con carbohidratos.
+- **Las IDR evitan la falta; no son lo mejor** — la vitamina D controla por lo menos el 5% de los genes.
 - **La clorofila es al magnesio lo que la hemoglobina es al hierro.**
 
-## Correcciones clave para llevar adelante
-- 🔴 "Una caloría no es una caloría" — según Lugavere la unidad es constante; la *fuente* cambia la saciedad, la nutrición y el efecto biológico.
-- 🔴 "Solo come menos" — fracasa cuando simplemente se reduce la misma dieta obesogénica, porque esa dieta ya se comía hasta saciarse; en su lugar, incorpora alimentos ricos en proteína, fibra y agua.
-- 🔴 "Los carbohidratos son el diablo" — los alimentos que más engordan son combinaciones ultraprocesadas de grasa y carbohidratos, no los carbohidratos por sí solos.
-- 🔴 "Cumplir con la IDR significa óptimo" — las ingestas se establecen para evitar enfermedades por deficiencia en las poblaciones.
-- 🔴 "Las vitaminas vegetales y animales son intercambiables" — la biodisponibilidad difiere (retinol vs. betacaroteno), y una dieta diversa cubre ambos lados.
+## Correcciones clave para recordar
+- 🔴 "Una caloría no es una caloría" — según Lugavere la unidad es la misma; lo que cambia según *de dónde viene* es qué tanto llena, qué nutrientes trae y lo que le hace al cuerpo.
+- 🔴 "Solo come menos" — falla cuando solo se recorta la misma dieta que engorda, porque esa dieta ya se comía hasta llenarse; en vez de eso, mete comida con mucha proteína, fibra y agua.
+- 🔴 "Los carbohidratos son el diablo" — lo que más engorda son las mezclas ultraprocesadas de grasa con carbohidratos, no los carbohidratos solos.
+- 🔴 "Llegar a la IDR es lo mejor" — esas cantidades se ponen para evitar enfermedades por falta en la población.
+- 🔴 "Las vitaminas de plantas y de animales son lo mismo" — el cuerpo las aprovecha distinto (retinol contra betacaroteno), y una dieta variada cubre los dos lados.
 
 ## Conclusión práctica
-Construye tus comidas en torno a la proteína, las plantas ricas en fibra y los alimentos ricos en agua; mantén bajos los alimentos ultraprocesados; estima tus necesidades calóricas con un diario de alimentos a peso estable; y trata las ingestas oficiales de nutrientes como mínimos. Si aumentas la fibra, hazlo de forma gradual y observa tu tolerancia personal.
+Arma tus comidas alrededor de la proteína, las plantas con mucha fibra y la comida con mucha agua; come poca comida ultraprocesada; calcula cuántas calorías necesitas con un diario de comida mientras tu peso no cambia; y toma las cantidades oficiales de nutrientes como el mínimo. Si subes la fibra, hazlo poco a poco y fíjate cuánto aguantas.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. A alguien que sigue una dieta ultraprocesada y densa en calorías le dicen que "solo coma menos". ¿Por qué dice Lugavere que esto tiende a fracasar?**
+**1. A alguien que come una dieta ultraprocesada y con muchas calorías le dicen que "solo coma menos". ¿Por qué dice Lugavere que esto suele fallar?**
 A. Las calorías en realidad no importan para el peso
-B. La unidad de las calorías difiere según el alimento, así que contarlas no tiene sentido
-C. \* Ya comían esa dieta hasta saciarse, así que el espacio liberado en el plato debe llenarse con alimentos más saciantes (ricos en proteína, fibra y agua) en lugar de simplemente recortar
-*Por qué C: la lógica de la clase es que la gente come hasta llenarse; la solución es la saciedad por caloría, no restringir el mismo patrón alimentario.*
+B. La unidad de las calorías cambia según la comida, así que contarlas no sirve
+C. \* Ya comía esa dieta hasta llenarse, así que el espacio que queda en el plato se tiene que llenar con comida que llene más (con mucha proteína, fibra y agua) en vez de solo recortar
+*Por qué C: la lógica de la clase es que la gente come hasta llenarse; la solución es que cada caloría llene más, no recortar la misma forma de comer.*
 
-**2. ¿Qué afirmación capta mejor el punto de Lugavere de que "una caloría es una caloría"?**
-A. \* Una caloría es una unidad constante de energía, pero 100 kcal de papas fritas y 100 kcal de huevos difieren en nutrientes, saciedad y efecto biológico
-B. 100 kcal de cualquier alimento tienen efectos idénticos en el cuerpo
-C. Las calorías son irrelevantes una vez que comes suficiente proteína
-*Por qué A: la analogía de la milla — una milla siempre es una milla, pero cuesta arriba vs. cuesta abajo cambia la experiencia.*
+**2. ¿Qué frase dice mejor lo que quiere decir Lugavere con "una caloría es una caloría"?**
+A. \* Una caloría es siempre la misma unidad de energía, pero 100 kcal de papas fritas y 100 kcal de huevos son distintas en nutrientes, en lo que llenan y en lo que le hacen al cuerpo
+B. 100 kcal de cualquier comida le hacen exactamente lo mismo al cuerpo
+C. Las calorías no importan una vez que comes suficiente proteína
+*Por qué A: la comparación de la milla — una milla siempre es una milla, pero de subida o de bajada se siente distinto.*
 
-**3. ¿Por qué la clase considera que las ingestas diarias recomendadas de micronutrientes son insuficientes para la "optimización"?**
-A. Están fijadas demasiado altas para la mayoría de las personas
-B. \* Se diseñaron para evitar enfermedades por deficiencia a nivel poblacional (raquitismo, escorbuto), y las dosis óptimas para las muchas otras funciones de los nutrientes son en gran medida desconocidas y varían según la persona
-C. Solo aplican a los suplementos, no a los alimentos
-*Por qué B: los ejemplos de la vitamina D (5%+ del genoma) y la vitamina C muestran funciones más allá de prevenir enfermedades por deficiencia.*
+**3. ¿Por qué la clase dice que las cantidades diarias recomendadas de micronutrientes no alcanzan para estar "lo mejor posible"?**
+A. Están puestas muy altas para casi todos
+B. \* Se hicieron para evitar enfermedades por falta en la población (raquitismo, escorbuto), y casi no se sabe cuánto es lo mejor para los muchos otros trabajos de los nutrientes, y cambia según la persona
+C. Solo sirven para los suplementos, no para la comida
+*Por qué B: los ejemplos de la vitamina D (5% o más de los genes) y la vitamina C muestran trabajos que van más allá de evitar enfermedades por falta.*
 
-**4. ¿Qué mecanismos da Lugavere para el efecto saciante de la fibra?**
-A. \* Ralentiza el vaciamiento gástrico y se expande con el agua, estirando el estómago y apagando la grelina
-B. Se absorbe rápidamente y eleva el azúcar en sangre
-C. Aporta la mayor cantidad de calorías por gramo de cualquier macronutriente
-*Por qué A: este es su mecanismo declarado; por separado, la fibra atenúa el impacto en el azúcar en sangre al ralentizar la llegada del azúcar al intestino delgado.*
+**4. ¿Cómo explica Lugavere que la fibra llene?**
+A. \* Hace más lento que el estómago se vacíe y se hincha con el agua, estirando el estómago y apagando la grelina
+B. Se absorbe rápido y sube el azúcar en la sangre
+C. Da más calorías por gramo que cualquier otro macronutriente
+*Por qué A: es lo que dice; aparte, la fibra le baja el golpe de azúcar a la sangre porque hace más lento que el azúcar llegue al intestino delgado.*
 
-## Hilos abiertos
-- **Proteína, grasa y grasas añadidas** — explícitamente pospuestas para secciones posteriores ("vamos a profundizar").
-- **Fitoquímicos** — mencionados como beneficiosos pero no esenciales; "más adelante".
-- 🟡 **Cifras sin fuente** (90% de deficiencia de micronutrientes; ~50% en magnesio; efecto del agua de 100–150 kcal; peso × 15) — ya verificadas: el 90% es exagerado, el ~50% del magnesio se sostiene, el efecto del agua fue de unas 75 kcal en el ensayo principal, y peso × 15 es solo una regla práctica. La sección de fibra de la clase termina donde termina la grabación; la charla es continua con pausas cortas, así que este es su final natural.
+## Temas abiertos
+- **Proteína, grasa y grasas agregadas** — se dejan claramente para después ("vamos a entrar más a fondo").
+- **Fitoquímicos (sustancias de las plantas)** — se mencionan como buenos pero no indispensables; "más adelante".
+- 🟡 **Cifras sin fuente** (90% con falta de micronutrientes; ~50% en magnesio; efecto del agua de 100–150 kcal; peso × 15) — ya revisadas: lo del 90% es exagerado, lo del ~50% de magnesio se sostiene, el efecto del agua fue de unas 75 kcal en el estudio principal, y peso × 15 es solo una regla práctica. La parte de la fibra termina donde termina la grabación; la plática es seguida con pausas cortas, así que ese es su final natural.
 
-## Lo que se omitió deliberadamente (autoauditoría)
-- Comentarios de clase: agradecimientos por las diapositivas, el gato que obtiene agua de la comida, la pregunta al público de "nadie come pavo en exceso".
-- La digresión detallada sobre hemoglobina/clorofila más allá de la comparación de una línea.
-- Repeticiones generales de las definiciones de macronutrientes del Cap. 1.
-- Una exploración más profunda del magnesio en el caldo de huesos, sobre la que el propio conferencista quedó inseguro.
+## Lo que se dejó fuera a propósito (revisión propia)
+- Comentarios de la clase: agradecimientos por las diapositivas, el gato que saca el agua de la comida, la pregunta al público de "nadie come pavo de más".
+- La explicación larga sobre la hemoglobina y la clorofila más allá de la comparación de una línea.
+- Repasos generales de qué son los macronutrientes del Cap. 1.
+- Lo del magnesio en el caldo de huesos, que ni el propio maestro tenía claro.
 
 ---
 **Referencias:**

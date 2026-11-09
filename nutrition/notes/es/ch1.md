@@ -1,119 +1,119 @@
 # Lugavere — Introducción a la nutrición, Cap. 1: Fundamentos nutricionales
 
-*Clase de fundamentos sobre el continuo del procesamiento de alimentos, los tres macronutrientes, los nutrientes esenciales frente a los óptimos, y la calidad de las grasas y las proteínas, con un enfoque práctico más que de nutrición de laboratorio.*
+*Clase de base sobre qué tan procesada está la comida, los tres grandes nutrientes (macronutrientes), qué nutrientes son indispensables y cuáles solo ayudan, y la calidad de las grasas y las proteínas, con un enfoque práctico más que de laboratorio.*
 
-*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 1 (transcripción). Un enfoque práctico, no de doctorado, de la nutrición: el continuo del procesamiento de alimentos, los tres macronutrientes y la distinción entre esencial y óptimo. Nueva serie, nuevo hilo de notas.*
+*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 1 (transcripción). Una forma práctica, no de doctorado, de ver la nutrición: qué tan procesada está la comida, los tres macronutrientes y la diferencia entre lo indispensable y lo mejor. Serie nueva, notas nuevas.*
 
 ## Por qué importa
-Esta es la clase de vocabulario de todo el curso de nutrición de ocho partes. Lugavere establece el enfoque que usa en todo lo que sigue: la nutrición es a la medida, no de talla única; los alimentos integrales vienen empacados por la naturaleza con aliados protectores (antioxidantes, fibra, una matriz alimentaria); y el procesamiento es un continuo, no un sí o no.
+Esta es la clase de las palabras básicas de todo el curso de nutrición de ocho partes. Lugavere pone el enfoque que usa en todo lo que sigue: la nutrición es a la medida, no igual para todos; la comida natural viene "empacada" por la naturaleza con cosas que la protegen (antioxidantes, fibra, la estructura del alimento, que él llama matriz); y qué tan procesado está algo va por grados, no es sí o no.
 
-## Afirmaciones que definen el alcance — Nutrición práctica, no nutrición de laboratorio
-- **La nutrición es práctica y personal.** Lugavere omite explícitamente los "detalles finos" de la ciencia de la nutrición para enfocarse en su uso aplicable. ✅ Su frase recurrente: "La nutrición no es un sombrero" — es a la medida y cambia con la edad, el sexo y los objetivos.
-- **La nutrición es una ciencia difícil de estudiar.** Dice que es mucho más difícil de estudiar que la investigación de fármacos y que recibe mucho menos financiamiento, razón por la cual muchos la consideran una "ciencia blanda"; para algunas preguntas, dice, hay que añadir lógica, sentido común y razonamiento. 🟡 Este es su enfoque, y es una invitación a usar el criterio, no una licencia para ignorar la evidencia.
-- **La nutrición no es lo mismo que la comida.** La nutrición se trata de sentirse bien y sentar las bases de la salud; la comida también es celebración, vínculo, ritual y consuelo en momentos de estrés. ✅
-- **Credenciales, dichas sin rodeos:** periodista de formación, no investigador; primer libro "Genius Foods" (2018); coautor de un capítulo en un libro de texto clínico sobre la prevención del deterioro cognitivo. Su motivación es la demencia de su madre. ✅
-- **Marco de prevención de la demencia:** la comisión de The Lancet de 2020 identificó doce factores de riesgo modificables, lo que implica que al menos el 40% de los casos de demencia en el mundo son prevenibles (él cree que la cifra real es mayor). ✅ (Livingston 2020) La actualización de 2024 de la misma comisión subió la cifra a catorce factores de riesgo y cerca del 45% de los casos (Livingston 2024). Dice que aproximadamente el 90% de lo que sabemos sobre el Alzheimer se ha descubierto en más o menos los últimos quince años. 🟡 (su estimación, sin cita).
+## Lo que deja claro desde el principio — nutrición práctica, no de laboratorio
+- **La nutrición es práctica y de cada quien.** Lugavere deja fuera a propósito los "detalles finos" de la ciencia de la nutrición para quedarse con lo que se puede usar. ✅ Su frase que repite: "La nutrición no es un sombrero" — es a la medida y cambia con la edad, el sexo y lo que uno busca.
+- **La nutrición es difícil de estudiar.** Dice que es mucho más difícil de estudiar que las medicinas y que le dan mucho menos dinero, y por eso muchos la ven como una "ciencia blanda"; para algunas preguntas, dice, hay que agregar lógica, sentido común y razonamiento. 🟡 Es su forma de verlo, y es una invitación a usar el criterio, no un permiso para ignorar las pruebas.
+- **La nutrición no es lo mismo que la comida.** La nutrición es sentirse bien y poner la base de la salud; la comida también es fiesta, unión, costumbre y consuelo cuando hay estrés. ✅
+- **Quién es, dicho sin rodeos:** periodista de formación, no investigador; su primer libro fue "Genius Foods" (2018); escribió con otros un capítulo de un libro de texto médico sobre cómo prevenir que la memoria y el pensamiento se deterioren. Lo mueve la demencia de su mamá. ✅
+- **Prevenir la demencia:** el grupo de expertos de la revista The Lancet en 2020 encontró doce riesgos que se pueden cambiar, lo que quiere decir que por lo menos el 40% de los casos de demencia en el mundo se podrían prevenir (él cree que la cifra real es más alta). ✅ (Livingston 2020) La actualización de 2024 del mismo grupo subió la cifra a catorce riesgos y cerca del 45% de los casos (Livingston 2024). Dice que más o menos el 90% de lo que sabemos del Alzheimer se descubrió en los últimos quince años, más o menos. 🟡 (su cálculo, sin fuente).
 
-## Frases clave y datos citables (Clase 1)
-- **"La nutrición no es un sombrero."** — no existe un plan de talla única; es a la medida.
-- **El procesamiento de alimentos es un continuo:** manzana, luego manzana rebanada, luego jugo, luego puré de manzana, luego gomitas sabor manzana. Sin procesar → mínimamente procesado → ultraprocesado.
-- **Alrededor del 60% de las calorías del adulto promedio (y alrededor del 70% de las de los niños) provienen de alimentos ultraprocesados de larga vida en anaquel.** 🟢 Verificación de evidencia: las encuestas nacionales de EE. UU. dan cerca del 58% de las calorías para todas las edades en 2009–2010 (Martínez Steele 2016), 67% en niños y adolescentes en 2018 (Wang 2021), y 53% en adultos y 62% en jóvenes en 2021–2023 (Williams 2025); sus cifras se acercan, aunque hoy son algo altas para los adultos.
-- **Por cada 10% de aumento en el consumo de alimentos ultraprocesados, alrededor de un 25% más de riesgo de demencia** — de un estudio que describe como reciente (asociación observacional). 🟡 Fuente encontrada: una cohorte del UK Biobank con 72,083 adultos de 55 años o más, seguidos una mediana de 10 años; cada aumento de 10% en el consumo de ultraprocesados se asoció con 25% más riesgo de demencia (HR 1.25; IC 95% 1.14–1.37), y reemplazar 10% de los ultraprocesados por alimentos sin procesar o mínimamente procesados, con 19% menos riesgo (Li 2022). Es observacional: muestra una asociación, no una causa.
-- **No existe tal cosa como un carbohidrato esencial.** La proteína es esencial; ciertas grasas son esenciales.
-- **"Lo que no es necesariamente esencial no es necesariamente subóptimo."**
-- **"Si alguna vez oyes a alguien decir que las grasas saturadas son malas, inequívocamente malas, probablemente no sabe de lo que habla."** — sus palabras; ver la corrección más abajo. 🟡 Verificación de evidencia: un metaanálisis Cochrane de ensayos aleatorizados encontró que reducir la grasa saturada bajó cerca de 17% los eventos cardiovasculares combinados, con poco o ningún efecto en la mortalidad total (Hooper 2020); la OMS (2023) y las Guías Alimentarias 2025–2030 de EE. UU. siguen limitando la grasa saturada al 10% de las calorías. Decir que "no es una sola cosa" es justo; decir que "quien la llama mala no sabe de lo que habla" exagera la evidencia.
-- **"Somos carne y no somos rumiantes"** — su argumento de por qué la proteína animal es la de mayor calidad para nosotros.
-- **El colágeno es la proteína más abundante del cuerpo, y alrededor de un tercio de él es glicina.**
+## Frases clave y datos para recordar (Clase 1)
+- **"La nutrición no es un sombrero."** — no hay un plan igual para todos; es a la medida.
+- **Qué tan procesada está la comida va por grados:** manzana, luego manzana en rebanadas, luego jugo, luego puré de manzana, luego gomitas sabor manzana. Sin procesar → poco procesado → ultraprocesado.
+- **Cerca del 60% de las calorías del adulto promedio (y cerca del 70% de las de los niños) vienen de comida ultraprocesada que dura mucho en el anaquel.** 🟢 Revisión de la evidencia: las encuestas nacionales de EE. UU. dan cerca del 58% de las calorías para todas las edades en 2009–2010 (Martínez Steele 2016), 67% en niños y adolescentes en 2018 (Wang 2021), y 53% en adultos y 62% en jóvenes en 2021–2023 (Williams 2025); sus cifras se acercan, aunque hoy son un poco altas para los adultos.
+- **Por cada 10% más de comida ultraprocesada, cerca de 25% más de riesgo de demencia** — de un estudio que llama reciente (relación de observación). 🟡 Fuente encontrada: un grupo del UK Biobank (un gran banco de datos de salud) con 72,083 adultos de 55 años o más, seguidos en promedio 10 años; cada 10% más de ultraprocesados fue junto con 25% más riesgo de demencia (HR 1.25; IC 95% 1.14–1.37), y cambiar 10% de los ultraprocesados por comida sin procesar o poco procesada, con 19% menos riesgo (Li 2022). Es de observación: muestra que van juntos, no que uno cause el otro.
+- **No existe un carbohidrato indispensable.** La proteína es indispensable; algunas grasas son indispensables.
+- **"Lo que no es indispensable no es por eso peor."**
+- **"Si alguna vez oyes a alguien decir que las grasas saturadas son malas, malas sin duda, seguramente no sabe de lo que habla."** — sus palabras; vea la corrección abajo. 🟡 Revisión de la evidencia: un análisis Cochrane de estudios con grupos al azar encontró que bajar la grasa saturada bajó cerca de 17% los problemas del corazón y las arterias en total, con poco o ningún efecto en las muertes en general (Hooper 2020); la OMS (2023) y las Guías Alimentarias 2025–2030 de EE. UU. siguen limitando la grasa saturada al 10% de las calorías. Decir que "no es una sola cosa" es justo; decir que "quien la llama mala no sabe de lo que habla" exagera las pruebas.
+- **"Somos carne y no somos rumiantes"** (no somos animales que comen pasto, como las vacas) — su argumento de por qué la proteína animal es la de mejor calidad para nosotros.
+- **El colágeno es la proteína que más hay en el cuerpo, y cerca de un tercio es glicina.**
 
-## Los tres macronutrientes — Esencial frente a óptimo
+## Los tres macronutrientes — indispensable contra lo mejor
 
-| Macro | ¿Esencial? | Función | Facilidad para almacenarse como grasa corporal |
+| Macro | ¿Indispensable? | Para qué sirve | Qué tan fácil se guarda como grasa del cuerpo |
 | --- | --- | --- | --- |
-| **Carbohidrato** (simple, complejo, fibra) | **No hay carbohidrato esencial** — su ausencia no causa enfermedad por deficiencia, aunque los carbohidratos ayudan a optimizar la biología | Energía (excepto la fibra) | Fácil (segundo) |
-| **Grasa** (saturada, insaturada, trans) | **Ciertas grasas son esenciales** (omega-3, omega-6) en pequeñas cantidades diarias | Energía | La más fácil |
-| **Proteína** (aminoácidos) | **Absolutamente esencial** — 9 aminoácidos esenciales | Componente estructural, generalmente no es fuente de energía | La más difícil |
+| **Carbohidrato** (simple, complejo, fibra) | **No hay carbohidrato indispensable** — que falte no causa una enfermedad por falta, aunque los carbohidratos ayudan a que el cuerpo funcione mejor | Energía (menos la fibra) | Fácil (segundo lugar) |
+| **Grasa** (saturada, insaturada, trans) | **Algunas grasas son indispensables** (omega-3, omega-6) en cantidades chicas cada día | Energía | La más fácil |
+| **Proteína** (aminoácidos, sus piezas) | **Totalmente indispensable** — 9 aminoácidos indispensables | Pieza para construir el cuerpo, normalmente no se usa como energía | La más difícil |
 
-✅ Distinción clave: la grasa que comes no es simplemente la grasa de tu cuerpo, y "la grasa engorda" es un concepto erróneo (puede hacerlo si se consume en exceso). También dice que las dietas más altas en grasa se asocian con mejores perfiles hormonales. 🟡 afirmado sin fuente en esta clase.
+✅ Diferencia clave: la grasa que comes no es simplemente la grasa de tu cuerpo, y "la grasa engorda" es una idea equivocada (puede engordar si se come de más). También dice que las dietas con más grasa van junto con mejores niveles de hormonas. 🟡 lo dice sin fuente en esta clase.
 
-## Continuo del procesamiento de alimentos — Por qué "procesado vs. sin procesar" es demasiado burdo
-- **Sin procesar:** el alimento integral tal como se encuentra (una manzana). **Mínimamente procesado:** justo por encima (rebanada). **Ultraprocesado:** alimentos empacados de larga vida en anaquel, con vidas útiles aparentemente infinitas, que se encuentran en los pasillos centrales. ✅
-- Llama al suministro de alimentos industrializado "una de las razones fundamentales" por las que muchas personas no están bien, y dice que la dieta estadounidense estándar hoy se describe con más precisión como la dieta occidentalizada, porque se ha exportado. ✅
-- **No todo el procesamiento es malo:** la proteína de suero (whey) es su ejemplo de un producto procesado, incluso ultraprocesado, que aun así puede ser saludable. 🟡 Llama al whey "mínimamente procesado" (se obtiene al hacer queso), lo cual no encaja bien con su propia expresión "ultraprocesado"; aquí nunca define el límite.
+## Qué tan procesada está la comida — por qué "procesado o no procesado" se queda corto
+- **Sin procesar:** la comida entera como se encuentra (una manzana). **Poco procesada:** justo arriba (en rebanadas). **Ultraprocesada:** comida empacada que dura mucho en el anaquel, casi para siempre, la de los pasillos de en medio del súper. ✅
+- Dice que la comida hecha por la industria es "una de las razones de fondo" por las que mucha gente no está bien, y que la dieta típica de EE. UU. hoy se describe mejor como la dieta occidental, porque se llevó a otros países. ✅
+- **No todo lo procesado es malo:** la proteína de suero de leche (whey) es su ejemplo de algo procesado, hasta ultraprocesado, que aun así puede ser sano. 🟡 Dice que el whey es "poco procesado" (sale de hacer queso), y eso no cuadra bien con cuando él mismo lo llama "ultraprocesado"; aquí nunca dice dónde está la línea.
 
-## Carbohidratos — Simples, complejos y fibra
-- **Los carbohidratos simples** (azúcares) saben dulces; **los carbohidratos complejos** (almidones en frutas y verduras) no, hasta que se descomponen. ✅
-- La diferencia biológica entre ellos **no es tan blanco y negro como uno malo y otro bueno** — los carbohidratos complejos pueden descomponerse casi tan rápido como los simples, así que la diferencia es irrelevante en una comida mixta. 🟢 El azúcar añadido, en particular, "ciertamente no es saludable".
-- **Fibra:** un carbohidrato que no descomponemos; no aporta energía, pero da saciedad, alimenta al microbioma intestinal y se asocia con longevidad y menor inflamación. Señala que la tolerancia varía de persona a persona. ✅ Los metaanálisis vinculan un mayor consumo de fibra con menor mortalidad total y menos enfermedad cardiaca, diabetes tipo 2 y cáncer colorrectal (Reynolds 2019). (El microbioma se trata más adelante en esta serie.)
+## Carbohidratos — simples, complejos y fibra
+- **Los carbohidratos simples** (azúcares) saben dulces; **los complejos** (almidones de frutas y verduras) no, hasta que se deshacen. ✅
+- La diferencia en el cuerpo entre ellos **no es tan de blanco y negro como uno malo y otro bueno** — los complejos se pueden deshacer casi tan rápido como los simples, así que la diferencia no importa en una comida con varias cosas. 🟢 El azúcar agregado, en particular, "de seguro no es sano".
+- **Fibra:** un carbohidrato que no podemos deshacer; no da energía, pero llena, alimenta a las bacterias del intestino y va junto con vivir más y con menos inflamación. Dice que cuánto se aguanta cambia según la persona. ✅ Los análisis de muchos estudios unen comer más fibra con menos muertes en general y menos enfermedad del corazón, diabetes tipo 2 y cáncer de colon (Reynolds 2019). (Las bacterias del intestino se ven más adelante en esta serie.)
 
-## Grasas — Introducción a su química
+## Grasas — un poco de su química
 
-| Tipo | Dobles enlaces | Estabilidad | Estado típico | Dónde se encuentra |
+| Tipo | Dobles enlaces (uniones dobles en la molécula) | Qué tan estable es | Cómo suele estar | Dónde está |
 | --- | --- | --- | --- | --- |
-| **Saturada** | Ninguno | La más estable (resistente a la oxidación) | Sólida a temperatura ambiente (una "grasa") | Productos animales, lácteos, coco |
-| **Monoinsaturada** | Uno | Intermedia | Generalmente líquida | Grasas vegetales |
+| **Saturada** | Ninguno | La más estable (no se echa a perder con el oxígeno) | Sólida a temperatura ambiente (una "grasa") | Productos de animales, lácteos, coco |
+| **Monoinsaturada** | Uno | En medio | Casi siempre líquida | Grasas de plantas |
 | **Poliinsaturada** | Más de uno | La menos estable | Líquida (un "aceite") | Aceites vegetales, nueces |
-| **Trans (industrial)** | Hidrogenada artificialmente | Se comporta como saturada | Sólida | Aceites parcialmente hidrogenados |
+| **Trans (de fábrica)** | Se le agrega hidrógeno de forma artificial | Se porta como saturada | Sólida | Aceites parcialmente hidrogenados |
 
-- **Las grasas saturadas no son una sola cosa.** Los ácidos palmítico, mirístico y esteárico actúan de forma distinta; **el ácido esteárico tiene poco o ningún impacto en los biomarcadores cardiovasculares**, según Lugavere. 🟢 Verificación de evidencia: un metaanálisis de 60 estudios controlados de alimentación confirma que los ácidos grasos difieren: el ácido esteárico bajó ligeramente la relación colesterol total/HDL, mientras que el ácido láurico elevó el colesterol total (Mensink 2003).
-- **La paradoja de los lácteos:** los lácteos tienen la mayor proporción de grasa saturada de cualquier categoría de alimentos (más que la carne de res o de cerdo), pero los datos observacionales muestran que quienes consumen lácteos enteros tienden a tener mejor salud cardiometabólica, lo que él atribuye a la **matriz alimentaria**. 🟡 solo observacional; el mecanismo es su explicación propuesta. Verificación de evidencia: la grasa láctea está entre las grasas animales más saturadas, pero los aceites de coco y de palmiste lo son todavía más, así que "la mayor de cualquier categoría de alimentos" no es exacto. Una revisión de metaanálisis de cohortes encontró que el consumo de lácteos tiene una relación neutral o favorable con los desenlaces cardiovasculares, incluidos los lácteos enteros para infarto cerebral e hipertensión (Drouin-Chartier 2016).
-- **Las grasas poliinsaturadas son químicamente frágiles, pero la naturaleza las empaca con protección.** Las nueces son ricas en grasa poliinsaturada y en vitamina E. El problema es la grasa poliinsaturada extraída de la matriz alimentaria en los alimentos procesados, sin esa protección antioxidante. ✅
-- **Grasas trans:** las grasas trans industriales provenían de aceites vegetales parcialmente hidrogenados (baratos, se comportaban como grasa saturada y permitían a los fabricantes etiquetar los alimentos como bajos en grasa saturada). Dice que la FDA las prohibió hace aproximadamente 10 a 15 años, pero que todavía existen en el suministro de alimentos, y las llama veneno para el corazón y el cerebro. ✅ Verificación de fechas: la FDA determinó en 2015 que los aceites parcialmente hidrogenados ya no son "reconocidos generalmente como seguros", con cumplimiento obligatorio desde junio de 2018 y plazo final en enero de 2021 (FDA); es decir, la decisión tiene unos 10 años y la prohibición entró en pleno vigor apenas entre 2018 y 2021. **Las grasas trans naturales** (CLA en la grasa de rumiantes y en los lácteos) "se consideran beneficiosas", aunque admite que los datos no son sólidos y que la evidencia sobre pérdida de grasa es débil. 🟡
+- **Las grasas saturadas no son una sola cosa.** El ácido palmítico, el mirístico y el esteárico actúan distinto; **el ácido esteárico casi no mueve los marcadores del corazón**, según Lugavere. 🟢 Revisión de la evidencia: un análisis de 60 estudios en los que se controló lo que se comía confirma que cada ácido graso es distinto: el esteárico bajó un poco la proporción entre colesterol total y colesterol "bueno" (HDL), mientras que el láurico subió el colesterol total (Mensink 2003).
+- **Lo raro de los lácteos:** los lácteos tienen la mayor parte de grasa saturada de cualquier tipo de comida (más que la carne de res o de puerco), pero los datos de observación muestran que quienes comen lácteos enteros suelen tener mejor salud del corazón, el azúcar y el peso, y él se lo atribuye a la **matriz del alimento** (cómo está armado). 🟡 solo de observación; cómo funciona es su explicación. Revisión de la evidencia: la grasa de la leche está entre las grasas animales más saturadas, pero los aceites de coco y de palmiste lo son todavía más, así que "la mayor de cualquier tipo de comida" no es exacto. Una revisión de análisis de grupos encontró que comer lácteos tiene una relación neutra o buena con los problemas del corazón, incluidos los lácteos enteros para derrame cerebral y presión alta (Drouin-Chartier 2016).
+- **Las grasas poliinsaturadas son frágiles en su química, pero la naturaleza las empaca con protección.** Las nueces tienen mucha grasa poliinsaturada y vitamina E. El problema es la grasa poliinsaturada sacada de la matriz del alimento en la comida procesada, sin esa protección antioxidante. ✅
+- **Grasas trans:** las grasas trans de fábrica venían de aceites vegetales parcialmente hidrogenados (baratos, se portaban como grasa saturada y dejaban que los fabricantes pusieran en la etiqueta que la comida tenía poca grasa saturada). Dice que la FDA las prohibió hace más o menos 10 a 15 años, pero que todavía están en la comida, y las llama veneno para el corazón y el cerebro. ✅ Revisión de fechas: la FDA decidió en 2015 que los aceites parcialmente hidrogenados ya no son "reconocidos en general como seguros", con obligación de cumplir desde junio de 2018 y plazo final en enero de 2021 (FDA); o sea que la decisión tiene unos 10 años y la prohibición entró del todo apenas entre 2018 y 2021. **Las grasas trans naturales** (el CLA de la grasa de vaca, borrego, etc., y de los lácteos) "se consideran buenas", aunque acepta que los datos no son firmes y que las pruebas para bajar grasa son flojas. 🟡
 
-## Proteína — Calidad, plantas, colágeno, suplementos
-- **La proteína animal** tiene todos los aminoácidos esenciales en las proporciones adecuadas ("listo para usar") y es la de mayor calidad. **Las proteínas vegetales** contienen todos los aminoácidos, pero en cantidades variables; llamarlas "incompletas" es un concepto erróneo. ✅
-- **La calidad de la proteína importa sobre todo para** veganos, personas con dietas bajas en proteína, adultos mayores que tienden a consumir poca proteína y personas con dietas de proteína restringida por indicación médica (añade que esto no es consejo médico). En una dieta omnívora con suficiente proteína total, "se compensa sola". ✅
-- **Colágeno:** la proteína más abundante del cuerpo; no es esencial porque la producimos, pero cita evidencia creciente de beneficios para las articulaciones y la cicatrización de heridas (se lo dio a su papá tras un reemplazo de rodilla). Carece de triptófano, pero aun así cuenta para la proteína diaria en una dieta variada. ✅ Dice que la glicina (un tercio del colágeno) podría favorecer la salud metabólica y el sueño, con base en un número pequeño de estudios. 🟡 Verificación de evidencia: un metaanálisis de ensayos aleatorizados en osteoartritis encontró que el colágeno mejoró la puntuación total WOMAC y la rigidez, pero no el dolor ni la función por separado (García-Coronado 2019).
-- **El whey** es su suplemento de proteína favorito y la proteína de mayor calidad; **los suplementos de proteína vegetal** están más procesados y tienden a contener metales pesados, una posible preocupación sobre todo para veganos que los consumen en grandes cantidades. 🟡 sin datos en la clase. 🟢 Verificación de evidencia: las pruebas de Consumer Reports de 2025 en 23 proteínas en polvo y batidos encontraron que los productos vegetales tenían en promedio unas nueve veces más plomo que los de origen lácteo (Consumer Reports 2025).
+## Proteína — calidad, plantas, colágeno, suplementos
+- **La proteína animal** tiene todos los aminoácidos indispensables en las cantidades correctas ("lista para usar") y es la de mejor calidad. **Las proteínas de plantas** tienen todos los aminoácidos, pero en cantidades que cambian; decir que son "incompletas" es una idea equivocada. ✅
+- **La calidad de la proteína importa sobre todo para** veganos, personas que comen poca proteína, adultos mayores que suelen comer poca proteína y personas a las que el médico les limita la proteína (aclara que esto no es consejo médico). En una dieta que come de todo y con suficiente proteína, "se compensa sola". ✅
+- **Colágeno:** la proteína que más hay en el cuerpo; no es indispensable porque la fabricamos, pero cita cada vez más pruebas de que ayuda a las articulaciones y a que sanen las heridas (se lo dio a su papá después de un reemplazo de rodilla). No tiene triptófano, pero aun así cuenta para la proteína del día en una dieta variada. ✅ Dice que la glicina (un tercio del colágeno) podría ayudar al azúcar y al peso y al sueño, con base en pocos estudios. 🟡 Revisión de la evidencia: un análisis de estudios al azar en artrosis (desgaste de las articulaciones) encontró que el colágeno mejoró el puntaje total WOMAC (un cuestionario) y la rigidez, pero no el dolor ni lo que se podía hacer por separado (García-Coronado 2019).
+- **El whey** es su suplemento de proteína favorito y la proteína de mejor calidad; **los suplementos de proteína de plantas** están más procesados y suelen traer metales pesados, algo que podría preocupar sobre todo a los veganos que toman mucho. 🟡 sin datos en la clase. 🟢 Revisión de la evidencia: las pruebas de Consumer Reports de 2025 en 23 proteínas en polvo y licuados encontraron que los productos de plantas tenían en promedio unas nueve veces más plomo que los de leche (Consumer Reports 2025).
 
-## Marcos de cierre — La comida como información y como medicina
-- La comida es información con "capacidad epigenética" (puede cambiar la expresión de los genes). ✅ afirmado, no explicado.
-- La comida es medicina, pero con límites: para **enfermedades crónicas ya existentes su capacidad es limitada; su poder brilla en la prevención y, en cierta medida, en el manejo.** 🟢
-- Temas próximos que menciona: composición corporal (proporción músculo-grasa) y rendimiento en el ejercicio.
+## Para cerrar — la comida como información y como medicina
+- La comida es información con "capacidad epigenética" (puede cambiar qué genes se prenden y se apagan). ✅ lo dice, no lo explica.
+- La comida es medicina, pero con límites: para **enfermedades que ya se tienen y no se quitan, puede poco; donde brilla es en prevenir y, en parte, en controlar.** 🟢
+- Temas que vienen y menciona: cómo está hecho el cuerpo (músculo contra grasa) y el rendimiento en el ejercicio.
 
-## Correcciones clave para llevar adelante
-- 🔴 "La grasa saturada es una sola cosa y uniformemente mala": la clase la separa por ácido graso y por fuente alimentaria.
-- 🔴 "Las proteínas vegetales son incompletas": todas las plantas contienen todos los aminoácidos; el problema es la cantidad y la variedad, relevante sobre todo en dietas restrictivas.
-- 🔴 "Procesado vs. sin procesar" como binario: es un continuo, y no todo el procesamiento es dañino.
-- 🔴 "No esencial significa subóptimo": los carbohidratos no son esenciales y aun así son útiles; esencial solo significa que su ausencia provoca una enfermedad por deficiencia.
-- 🔴 "La grasa engorda": el consumo excesivo de cualquier fuente de energía puede hacerlo; que se use la misma palabra, «grasa», se presta a confusión.
+## Correcciones clave para recordar
+- 🔴 "La grasa saturada es una sola cosa y toda es mala": la clase la separa por ácido graso y por de qué comida viene.
+- 🔴 "Las proteínas de plantas son incompletas": todas las plantas tienen todos los aminoácidos; el problema es la cantidad y la variedad, y sobre todo en dietas que dejan cosas fuera.
+- 🔴 "Procesado o no procesado" como si fuera sí o no: va por grados, y no todo lo procesado hace daño.
+- 🔴 "Lo que no es indispensable es peor": los carbohidratos no son indispensables y aun así sirven; indispensable solo quiere decir que si falta da una enfermedad por falta.
+- 🔴 "La grasa engorda": comer de más de cualquier fuente de energía puede engordar; que se use la misma palabra, «grasa», confunde.
 
 ## Conclusión práctica
-Usa la clase como marco de clasificación: ubica cualquier alimento en el continuo del procesamiento, identifica qué macronutrientes y tipos de grasa contiene, y pregúntate si la calidad de la proteína importa en tu situación.
+Usa la clase como una forma de ordenar: pon cualquier comida en su lugar según qué tan procesada está, fíjate qué macronutrientes y qué tipos de grasa tiene, y pregúntate si la calidad de la proteína importa en tu caso.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Lugavere dice que "no existe tal cosa como un carbohidrato esencial". ¿Qué significa "esencial" en su marco?**
-A. El nutriente es dañino en exceso
-B. \* Desarrollarías una enfermedad por deficiencia sin él; los nutrientes no esenciales aun así pueden ser beneficiosos u óptimos
-C. El nutriente debe constituir la mayor parte de las calorías
-*Por qué B: separa "esencial" (necesario para evitar una enfermedad por deficiencia) de "óptimo", y dice que los carbohidratos son excelentes pero no esenciales.*
+**1. Lugavere dice que "no existe un carbohidrato indispensable". ¿Qué quiere decir "indispensable" en su forma de verlo?**
+A. Que el nutriente hace daño si se come de más
+B. \* Que sin él tendrías una enfermedad por falta; los nutrientes no indispensables aun así pueden ser buenos o lo mejor
+C. Que el nutriente debe ser la mayor parte de las calorías
+*Por qué B: separa "indispensable" (necesario para no tener una enfermedad por falta) de "lo mejor", y dice que los carbohidratos son muy buenos pero no indispensables.*
 
-**2. ¿Por qué dice Lugavere que los alimentos integrales ricos en grasa poliinsaturada, como las nueces, no son motivo de preocupación, mientras que la grasa poliinsaturada en alimentos procesados sí puede serlo?**
-A. Los alimentos integrales no contienen grasa poliinsaturada
-B. La grasa poliinsaturada es químicamente estable, así que solo se degrada al cocinarse
-C. \* La naturaleza acompaña estas grasas frágiles con antioxidantes como la vitamina E; el procesamiento extrae la grasa de esa matriz alimentaria protectora
-*Por qué C: más dobles enlaces significan menos estabilidad química, pero en los alimentos integrales la protección antioxidante viene junto con la grasa.*
+**2. ¿Por qué dice Lugavere que la comida entera con mucha grasa poliinsaturada, como las nueces, no preocupa, mientras que la grasa poliinsaturada de la comida procesada sí puede preocupar?**
+A. La comida entera no tiene grasa poliinsaturada
+B. La grasa poliinsaturada es estable, así que solo se echa a perder al cocinarla
+C. \* La naturaleza acompaña estas grasas frágiles con antioxidantes como la vitamina E; el procesamiento saca la grasa de esa matriz del alimento que la protege
+*Por qué C: más dobles enlaces quieren decir menos estabilidad, pero en la comida entera la protección antioxidante viene junto con la grasa.*
 
-**3. ¿Qué afirmación coincide mejor con la clase sobre proteína vegetal frente a proteína animal?**
-A. \* Las proteínas vegetales contienen todos los aminoácidos en cantidades variables; la calidad importa sobre todo en dietas restrictivas, dietas bajas en proteína y adultos mayores, mientras que la proteína animal es la de mayor calidad
-B. Las proteínas vegetales carecen de varios aminoácidos esenciales y nunca pueden cubrir las necesidades
-C. La calidad de la proteína importa por igual para todos y la proteína animal es irrelevante
-*Por qué A: llama "proteína vegetal incompleta" a un concepto erróneo; la variedad y la ingesta total hacen que la diferencia sea irrelevante para la mayoría de los omnívoros.*
+**3. ¿Qué frase va mejor con la clase sobre proteína de plantas contra proteína animal?**
+A. \* Las proteínas de plantas tienen todos los aminoácidos en cantidades que cambian; la calidad importa sobre todo en dietas que dejan cosas fuera, dietas con poca proteína y adultos mayores, mientras que la proteína animal es la de mejor calidad
+B. Las proteínas de plantas no tienen varios aminoácidos indispensables y nunca alcanzan
+C. La calidad de la proteína importa igual para todos y la proteína animal no importa
+*Por qué A: dice que "proteína vegetal incompleta" es una idea equivocada; la variedad y el total hacen que la diferencia no importe para casi todos los que comen de todo.*
 
-**4. Los lácteos tienen la mayor proporción de grasa saturada de cualquier categoría de alimentos, pero quienes consumen lácteos enteros suelen mostrar mejor salud cardiometabólica. ¿Cómo lo explica Lugavere?**
-A. La grasa saturada siempre es protectora
-B. Los lácteos no contienen grasa saturada después del procesamiento
-C. \* Las grasas de los lácteos vienen empacadas en una matriz alimentaria, y no todas las grasas saturadas actúan igual, aunque la evidencia es observacional
-*Por qué C: su explicación es la matriz alimentaria más las diferencias entre ácidos grasos; como los datos son observacionales, trátalo como una hipótesis, no como un mecanismo comprobado.*
+**4. Los lácteos tienen la mayor parte de grasa saturada de cualquier tipo de comida, pero quienes comen lácteos enteros suelen tener mejor salud del corazón, el azúcar y el peso. ¿Cómo lo explica Lugavere?**
+A. La grasa saturada siempre protege
+B. Los lácteos ya no tienen grasa saturada después de procesarlos
+C. \* Las grasas de los lácteos vienen empacadas en una matriz del alimento, y no todas las grasas saturadas actúan igual, aunque las pruebas son de observación
+*Por qué C: su explicación es la matriz del alimento más las diferencias entre ácidos grasos; como los datos son de observación, tómalo como una idea, no como algo comprobado.*
 
-## Hilos abiertos
-- **El estudio sobre ultraprocesados y demencia** (10% más de ultraprocesados, alrededor de 25% más de riesgo) no se nombra en la clase; fuente encontrada: Li et al., *Neurology* 2022 (UK Biobank), en las referencias de abajo.
-- **La matriz alimentaria** se anuncia para más adelante; aquí no se explica su mecanismo.
-- **Dónde siguen existiendo grasas trans en el suministro de alimentos** se promete para una clase posterior.
-- **El momento y la dosis de la proteína, los beneficios de la fibra, el microbioma intestinal y la composición corporal** se mencionan todos para capítulos posteriores.
+## Temas abiertos
+- **El estudio de ultraprocesados y demencia** (10% más de ultraprocesados, cerca de 25% más de riesgo) no se nombra en la clase; fuente encontrada: Li et al., *Neurology* 2022 (UK Biobank), en las referencias de abajo.
+- **La matriz del alimento** se anuncia para después; aquí no se explica cómo funciona.
+- **Dónde siguen habiendo grasas trans en la comida** se promete para una clase posterior.
+- **La hora y la cantidad de proteína, lo bueno de la fibra, las bacterias del intestino y cómo está hecho el cuerpo** se mencionan todos para capítulos posteriores.
 
-## Lo que se omitió deliberadamente (autoauditoría)
-- Su biografía personal más allá de lo que enmarca su motivación, y las descripciones de las fotos de diapositivas de compras familiares en el supermercado (Reino Unido y EE. UU.).
-- Su bistec del desayuno, los detalles de la cirugía de rodilla de su papá más allá del punto del colágeno, y los repetidos avisos de "ya llegaremos a eso".
+## Lo que se dejó fuera a propósito (revisión propia)
+- Su historia personal más allá de lo que explica por qué lo hace, y lo que se ve en las fotos de las diapositivas de familias comprando en el súper (Reino Unido y EE. UU.).
+- Su bistec del desayuno, los detalles de la operación de rodilla de su papá más allá de lo del colágeno, y los muchos "ya llegaremos a eso".
 - Errores de la transcripción: "rumined into animals" se leyó como rumiantes; "prolene" como prolina; "hydroxyprolene" como hidroxiprolina.
 
 ---
