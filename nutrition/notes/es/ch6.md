@@ -1,131 +1,131 @@
 # Lugavere — Introducción a la nutrición, Cap. 6: Controversias en nutrición
-*Cómo leer la evidencia en nutrición (correlación vs. causalidad, riesgo relativo vs. absoluto, sesgo del usuario saludable) y luego los argumentos de Lugavere sobre la carne, la grasa saturada, el veganismo, el nutricionismo, la hormesis vegetal y la genética de la obesidad.*
+*Cómo leer las pruebas en nutrición (que dos cosas vayan juntas contra que una cause la otra, riesgo relativo contra riesgo real, y el sesgo de la gente que se cuida) y luego lo que opina Lugavere sobre la carne, la grasa saturada, ser vegano, ver la comida solo como nutrientes, el estrés bueno de las plantas y si la obesidad es genética.*
 
-*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 6 (transcripción). Sexto de ocho capítulos. Es una clase con opiniones marcadas: donde las afirmaciones de Lugavere van más allá de la evidencia que cita en la charla, se marcan con 🟡.*
+*Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 6 (transcripción). Sexto de ocho capítulos. Es una clase con opiniones fuertes: donde lo que dice Lugavere va más allá de las pruebas que cita en la plática, se marca con 🟡.*
 
 ## Por qué importa
-Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirmación específica sobre un alimento (la carne es mala, el huevo es malo, el eritritol es malo), necesitas las herramientas para juzgar la evidencia que la respalda.
+Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirmación sobre una comida (la carne es mala, el huevo es malo, el eritritol es malo), hacen falta herramientas para juzgar las pruebas que la sostienen.
 
-## Leer la evidencia — Correlación, causalidad, riesgo relativo vs. absoluto
-- **Correlación** = asociación. Lugavere: cada vez que oyes la palabra "riesgo", implícitamente significa correlación. Su ejemplo: los teléfonos inteligentes y la obesidad han aumentado a la vez; nadie supone que uno causa la otra. ✅
-- **Causalidad** = una cosa produce directamente otra. El ejemplo más fuerte que da es el tabaquismo: aproximadamente un **2,000% de aumento del riesgo** de cáncer de pulmón, y aun así no todos los que fuman lo desarrollan. Compáralo con los titulares típicos de nutrición ("la carne roja eleva el riesgo de cáncer X en ~30%"): una señal mucho más débil, por lo tanto mucha menos certeza. ✅ Para dar escala, la agencia de cáncer de la OMS (IARC) estima cerca de 18% más riesgo de cáncer colorrectal por cada 50 g/día de carne procesada, y cerca de 17% por cada 100 g/día de carne roja si la relación es causal (Bouvard 2015).
-- **Riesgo relativo vs. absoluto:** su ejemplo improvisado: que el huevo "aumenta el riesgo de diabetes tipo 2 en 25%" suena grande, pero si el riesgo absoluto de por vida es 4%, un aumento relativo de 25% lo lleva a **5%**. Los estudios suelen reportar el riesgo relativo (RR), también cocientes de riesgo (hazard ratios) o razones de momios (odds ratios); "en general todos dicen lo mismo". ✅
-- **Factores de confusión y sesgo del usuario saludable:** quienes comen carne, tras décadas de que se les dijera que la evitaran, tienden a ser más sedentarios y a fumar más. Lo inverso aplica a las plantas: los productos frescos son un privilegio socioeconómico, y quienes comen frutas y verduras también pueden tener más educación, acceso a mercados de agricultores, membresías de gimnasio y tomar multivitamínicos. Su punto es que la asociación puede ser real, "muy bien puede serlo", pero no se puede separar de estos hábitos en los datos observacionales. ✅
-- **Solo los ensayos controlados aleatorizados** pueden establecer causa y efecto. ✅
+## Leer las pruebas — que vayan juntas, que una cause la otra, riesgo relativo contra riesgo real
+- **Correlación** = que dos cosas vayan juntas. Lugavere: cada vez que oyes la palabra "riesgo", quiere decir correlación sin decirlo. Su ejemplo: los celulares y la obesidad han subido al mismo tiempo; nadie piensa que uno cause la otra. ✅
+- **Causalidad** = que una cosa cause directamente otra. El ejemplo más fuerte que da es fumar: más o menos un **2,000% más de riesgo** de cáncer de pulmón, y aun así no todos los que fuman lo tienen. Compáralo con los titulares típicos de nutrición ("la carne roja sube ~30% el riesgo de tal cáncer"): una señal mucho más débil, así que mucha menos seguridad. ✅ Para comparar tamaños, la agencia del cáncer de la OMS (IARC) calcula cerca de 18% más riesgo de cáncer de colon por cada 50 g al día de carne procesada, y cerca de 17% por cada 100 g al día de carne roja si de verdad la causa (Bouvard 2015).
+- **Riesgo relativo contra riesgo real (absoluto):** su ejemplo de improviso: que el huevo "sube 25% el riesgo de diabetes tipo 2" suena grande, pero si el riesgo real en toda la vida es 4%, subirlo 25% lo lleva a **5%**. Los estudios suelen dar el riesgo relativo (RR), y también "hazard ratios" u "odds ratios"; "en general todos dicen lo mismo". ✅
+- **Cosas que se revuelven y el sesgo de la gente que se cuida:** los que comen carne, después de décadas de que les dijeran que no, suelen moverse menos y fumar más. Con las plantas pasa al revés: la comida fresca es un privilegio de quien tiene más dinero, y los que comen frutas y verduras también pueden tener más estudios, ir a mercados de productores, pagar gimnasio y tomar multivitamínicos. Lo que dice es que la relación puede ser real, "muy bien puede serlo", pero en los datos de observación no se puede separar de esas costumbres. ✅
+- **Solo los estudios al azar con grupo de control** pueden demostrar que una cosa causa otra. ✅
 
-## La jerarquía de la evidencia (como la describe Lugavere)
+## Qué estudios pesan más (como lo explica Lugavere)
 
-| Tipo de estudio | Qué puede mostrar | Comentario de Lugavere |
+| Tipo de estudio | Qué puede mostrar | Lo que dice Lugavere |
 | --- | --- | --- |
-| **Transversal** | Correlación en un momento dado en una población | "No es una forma muy sólida de evidencia observacional" |
-| **Cohorte prospectiva** | Correlación siguiendo a personas a lo largo del tiempo (p. ej., Framingham Heart Study) | Algo mejor; buena para generar hipótesis, no puede determinar causalidad |
-| **Experimentos con animales** | Variables controladas, resultados rápidos sobre la esperanza de vida (los ratones viven ~2 años) | No siempre se trasladan a los humanos |
-| **ECA en humanos** | Causalidad (se cambia una variable vs. placebo) | Raros en nutrición: poco financiamiento; p. ej., el estudio de obesidad de Kevin Hall |
-| **Metaanálisis** | Conclusión conjunta a partir de varios estudios | La cima de la jerarquía; un buen lugar para empezar tu propia investigación |
+| **De un solo momento (transversal)** | Que dos cosas van juntas en un momento en una población | "No es una prueba de observación muy firme" |
+| **Grupo seguido en el tiempo (cohorte)** | Que van juntas siguiendo a personas con el tiempo (por ejemplo, el Framingham Heart Study) | Un poco mejor; sirve para sacar ideas, no puede decir qué causa qué |
+| **Experimentos con animales** | Cosas controladas, resultados rápidos sobre cuánto viven (los ratones viven ~2 años) | No siempre sirven para personas |
+| **Estudios al azar con control en personas (ECA)** | Qué causa qué (se cambia una cosa contra placebo) | Raros en nutrición: hay poco dinero; por ejemplo, el estudio de obesidad de Kevin Hall |
+| **Análisis de muchos estudios (metaanálisis)** | Una conclusión juntando varios estudios | Lo más alto; un buen lugar para empezar a investigar por tu cuenta |
 
-✅ Lista de verificación que da para cualquier estudio: año, metodología, tamaño de la población, significancia estadística, y atención a palabras como "riesgo" y "correlación". **Ningún estudio aislado debería cambiar tu dieta.** Ejemplo: los titulares sobre el **eritritol** eran, según su lectura, puramente correlacionales. 🟡 Verificación de evidencia: el estudio de 2023 fue sobre todo correlacional (eritritol en sangre y eventos cardiovasculares en unos 4,000 pacientes), pero también mostró que el eritritol aumentó la reactividad de las plaquetas en laboratorio y la formación de coágulos en animales, además de una prueba piloto en 8 voluntarios, así que "puramente" correlacional no es del todo exacto (Witkowski 2023).
+✅ La lista que da para revisar cualquier estudio: año, cómo se hizo, cuántas personas, si el resultado es estadísticamente claro, y fijarse en palabras como "riesgo" y "correlación". **Ningún estudio solo debería cambiar tu dieta.** Ejemplo: los titulares sobre el **eritritol** (un endulzante) eran, según él, solo de correlación. 🟡 Revisión de la evidencia: el estudio de 2023 fue sobre todo de correlación (eritritol en la sangre y problemas del corazón en unos 4,000 pacientes), pero también mostró que el eritritol hizo más "pegajosas" las plaquetas en el laboratorio y que se formaran coágulos en animales, más una prueba con 8 voluntarios, así que decir "solo" correlación no es del todo exacto (Witkowski 2023).
 
-🟡 Su afirmación de que en la ciencia de la nutrición actual "puedes demostrar lo que quieras" es retórica; describe el estado débil de la base de evidencia, no una regla de que todos los estudios valen lo mismo.
+🟡 Lo que dice de que en la ciencia de la nutrición de hoy "puedes demostrar lo que quieras" es forma de hablar; describe lo débiles que son las pruebas, no que todos los estudios valgan lo mismo.
 
-## Grasa saturada y colesterol dietético
-- **Colesterol dietético:** para la mayoría de las personas tiene "muy poco impacto en el colesterol en sangre"; no es muy biodisponible en los alimentos y se absorbe poco. Hay excepciones (**hiperabsorbedores, hiperrespondedores**), pero son minoría. ✅ como afirmación suya, 🟡 como indicación personal. Verificación de evidencia: la Asociación Americana del Corazón señala que los estudios de cohorte en general no muestran una relación significativa entre el colesterol de la dieta y la enfermedad cardiovascular, pero la mayoría de los metaanálisis de estudios de alimentación encuentran que consumir más que el promedio actual eleva el colesterol total o el LDL (Carson 2020).
-- **Fuentes de grasa saturada según el USDA (tal como las presenta):** solo **~3%** de la grasa saturada de los estadounidenses proviene de carnes como bistecs y carne molida (sin contar platillos mixtos ni sándwiches de embutidos); **~11%** proviene de postres y botanas dulces, "casi cuatro veces" más; la mayor parte de la grasa poco saludable viene de platillos mixtos (pizza, hamburguesas de comida rápida, lasaña). ✅ (Guías Alimentarias 2020–2025 de EE. UU., Figura 1-11: sándwiches 19%, postres y botanas dulces 11%, carnes fuera de platillos mixtos 3%.)
-- **Grasa láctea:** una fuente importante, envuelta en la membrana del glóbulo de grasa de la leche y, con excepción de la mantequilla, "en su mayor parte beneficiosa desde el punto de vista cardiovascular". 🟡 Es una afirmación fuerte hecha sin datos en esta clase.
-- Su conclusión: dejar de temerle a un solo nutriente. Cualquier alimento natural que contenga grasa contiene algo de grasa saturada, y hay muchos tipos de grasa saturada.
+## Grasa saturada y colesterol de la comida
+- **Colesterol de la comida:** para casi todos "le hace muy poco al colesterol de la sangre"; el cuerpo lo aprovecha poco y se absorbe poco. Hay excepciones (**personas que lo absorben de más o que responden de más**), pero son pocas. ✅ como lo que él dice, 🟡 como consejo para ti. Revisión de la evidencia: la Asociación Americana del Corazón dice que los estudios de grupos en general no muestran una relación importante entre el colesterol de la comida y la enfermedad del corazón, pero casi todos los análisis de estudios donde se controló la comida encuentran que comer más que el promedio de hoy sube el colesterol total o el LDL (Carson 2020).
+- **De dónde viene la grasa saturada según el USDA (como él lo presenta):** solo **~3%** de la grasa saturada de los estadounidenses viene de carnes como bisteces y carne molida (sin contar platillos con varias cosas ni sándwiches de carnes frías); **~11%** viene de postres y botanas dulces, "casi cuatro veces" más; casi toda la grasa poco sana viene de platillos con varias cosas (pizza, hamburguesas de comida rápida, lasaña). ✅ (Guías Alimentarias 2020–2025 de EE. UU., Figura 1-11: sándwiches 19%, postres y botanas dulces 11%, carnes fuera de platillos con varias cosas 3%.)
+- **Grasa de la leche:** una fuente importante, envuelta en una capa propia (la membrana del glóbulo de grasa de la leche) y, menos la mantequilla, "casi toda buena para el corazón". 🟡 Es algo fuerte que dice sin datos en esta clase.
+- Su conclusión: dejar de tenerle miedo a un solo nutriente. Cualquier comida natural con grasa tiene algo de grasa saturada, y hay muchos tipos de grasa saturada.
 
-## Veganismo
-- Su postura: no está en contra de que alguien la elija, pero quiere un **consentimiento informado**. Afirma que hay "poca o ninguna evidencia" de que una dieta vegana sea superior, y la califica de muy restrictiva, asociada con deficiencias de nutrientes, menor ingesta de proteína, menor masa muscular y mayor consumo de ultraprocesados. 🟡 Son afirmaciones suyas; no cita estudios en la clase, y describe la evidencia de sus defensores como cocientes de riesgo débiles y "ensaladas de palabras mecanicistas". Verificación de evidencia: el panorama es mixto. En la cohorte EPIC-Oxford, los vegetarianos tuvieron 22% menos cardiopatía isquémica pero 20% más infartos cerebrales en total que quienes comen carne, sobre todo hemorrágicos (Tong 2019), y la Academia de Nutrición y Dietética sostiene que las dietas vegetarianas y veganas bien planeadas son saludables (Melina 2016).
-- Crítica a la lógica de "vegano más B12": la B12 es el único nutriente esencial que, hasta donde se sabe, proviene solo de productos animales, pero los alimentos contienen "innumerables nutrientes" que aún no hemos nombrado. ✅ (ver Nutricionismo)
+## Ser vegano
+- Lo que piensa: no está en contra de que alguien lo escoja, pero quiere que lo haga **sabiendo bien lo que implica**. Dice que hay "pocas o ninguna prueba" de que una dieta vegana sea mejor, y la llama muy restrictiva, con faltas de nutrientes, menos proteína, menos músculo y más ultraprocesados. 🟡 Es lo que él dice; no cita estudios en la clase, y describe las pruebas de quienes la defienden como cifras de riesgo débiles y "ensaladas de palabras sobre mecanismos". Revisión de la evidencia: el cuadro es mezclado. En el grupo EPIC-Oxford, los vegetarianos tuvieron 22% menos enfermedad de las arterias del corazón pero 20% más derrames cerebrales en total que los que comen carne, sobre todo de los que sangran (Tong 2019), y la Academia de Nutrición y Dietética dice que las dietas vegetarianas y veganas bien planeadas son sanas (Melina 2016).
+- Critica la lógica de "vegano más B12": la B12 es el único nutriente indispensable que, hasta donde se sabe, solo viene de productos de animales, pero la comida tiene "muchísimos nutrientes" que todavía no tienen nombre. ✅ (vea lo de ver la comida solo como nutrientes)
 
-## Nutricionismo — El peligro de reducir los alimentos a nutrientes
-- **Nutricionismo:** tratar los alimentos como la suma de sus nutrientes aislados. Su ejemplo: **Soylent**, una comida ultraprocesada lista para beber que describe como "una bomba de aceite de canola y azúcar con un montón de micronutrientes". ✅
-- En su momento funcionó: **el raquitismo se curó con vitamina D y el escorbuto con vitamina C.** El error es llevar esa lógica demasiado lejos y olvidar que **coevolucionamos con alimentos enteros.** ✅
-- Señal de alerta que menciona: una tribu dietética que se obsesiona con un nutriente para satanizarlo (grasa saturada, colesterol dietético).
+## Ver la comida solo como nutrientes (nutricionismo) — el peligro
+- **Nutricionismo:** ver la comida como la suma de sus nutrientes sueltos. Su ejemplo: **Soylent**, una comida ultraprocesada lista para tomar que describe como "una bomba de aceite de canola y azúcar con un montón de micronutrientes". ✅
+- En su momento funcionó: **el raquitismo se curó con vitamina D y el escorbuto con vitamina C.** El error es llevar esa lógica demasiado lejos y olvidar que **nos formamos junto con la comida entera.** ✅
+- Una señal de alarma que menciona: un grupo de dieta que se obsesiona con un nutriente para hacerlo el malo (grasa saturada, colesterol de la comida).
 
-## Alimentos de origen animal vs. de origen vegetal — Su comparación lado a lado
+## Comida de animales contra comida de plantas — su comparación lado a lado
 
-| Característica | Alimentos de origen animal | Alimentos de origen vegetal |
+| Característica | Comida de animales | Comida de plantas |
 | --- | --- | --- |
-| **Densidad nutricional** | Ocuparon todos los primeros lugares en un artículo de 2020 de Ty Beal (él cita "creo que de 2020"; el artículo es Beal y Ortenzi 2022) sobre nutrientes de interés, excepto las hojas verdes oscuras | Las hojas verdes oscuras son muy densas en nutrientes |
-| **Biodisponibilidad** | Muy biodisponibles; sin antinutrientes ni agentes quelantes ("lo que ves es lo que obtienes") | Algunos minerales son menos biodisponibles |
-| **Proteína** | Alta calidad, digerible, buen perfil de aminoácidos, incluida la **leucina** (limitante para la síntesis de proteína muscular); saciante | No es el enfoque de esta clase |
-| **Fortalezas propias** | Contienen fitoquímicos almacenados en la grasa de los herbívoros (betacaroteno en la grasa de la res alimentada con pasto, catequinas); pero las plantas siguen siendo la mejor fuente por cantidad | **Fibra** (microbioma, saciedad), **folato** (hojas verdes oscuras), **vitamina C**, compuestos horméticos, pigmentos |
+| **Nutrientes por bocado** | Ocupó todos los primeros lugares en un artículo de 2020 de Ty Beal (él dice "creo que de 2020"; el artículo es Beal y Ortenzi 2022) sobre los nutrientes que más importan, menos las hojas verdes oscuras | Las hojas verdes oscuras tienen muchísimos nutrientes |
+| **Qué tanto se aprovecha** | Se aprovecha muy bien; sin cosas que estorben la absorción ni que atrapen minerales ("lo que ves es lo que obtienes") | Algunos minerales se aprovechan menos |
+| **Proteína** | Buena calidad, se digiere bien, buena mezcla de aminoácidos, incluida la **leucina** (la que limita la construcción de músculo); llena | No es el tema de esta clase |
+| **Lo suyo** | Tiene sustancias de plantas guardadas en la grasa de los animales que comen pasto (betacaroteno en la grasa de la res de pastoreo, catequinas); pero las plantas siguen siendo la mejor fuente por cantidad | **Fibra** (bacterias del intestino, llenarse), **folato** (hojas verdes oscuras), **vitamina C**, sustancias de estrés bueno, colores |
 
-✅ Es explícito en que las plantas son la mejor opción en cuanto a cantidad de fitoquímicos. Mensaje neto: ambas categorías aportan; ninguna debería eliminarse.
+✅ Dice claro que las plantas son lo mejor en cuanto a cantidad de sustancias de plantas (fitoquímicos). Mensaje final: las dos dan algo; no hay que quitar ninguna.
 
-## Compuestos de defensa de las plantas y hormesis
-- **Hormesis:** una dosis baja de estrés que no nos resulta tóxica y que provoca adaptación. Las plantas no pueden huir ni pelear, así que se vuelven "químicas brillantes": antialimentarios amargos en las hojas verdes oscuras, hierbas, especias, taninos del té y del café. El término de Mark Hyman para esto: **"fitoadaptación simbiótica"**. ✅ (El término científico para esta idea es xenohormesis; Howitz y Sinclair 2008.)
-- **Luteína y zeaxantina** (kale, acelga): se sabe que protegen los ojos de la degeneración macular relacionada con la edad; se acumulan en el cerebro; son liposolubles, lo cual es un argumento en contra de llevar una dieta demasiado baja en grasa. 🟡 Verificación de evidencia: "se sabe que protegen" es exagerado. En el ensayo AREDS2, añadir luteína y zeaxantina no redujo de forma significativa el avance a degeneración macular avanzada en el análisis principal (AREDS2 2013); sí reemplazaron al betacaroteno en la fórmula de vitaminas para los ojos porque el betacaroteno se asoció con más cáncer de pulmón en exfumadores.
-- **Antocianinas** (arándanos, cebolla morada, papas moradas; los rojos y morados de frutas y verduras): dice que se acumulan en el hipocampo. 🟡 Se demostró en ratas alimentadas con arándanos (Andres-Lacueva 2005); todavía no en personas.
-- **Glucosinolatos / sulforafano** (brócoli, germinados, coles de Bruselas, coliflor, kale, arúgula; se forma al masticar verduras crucíferas): activa las vías de defensa propias del cuerpo; en un ensayo aleatorizado en China, una bebida de germinado de brócoli rica en sulforafano aumentó la excreción de benceno (61%) y de acroleína (23%) (Egner 2014). ✅
-- **Flavanoles:** un ECA que cita encontró que los alimentos altos en flavanoles mejoraron la función cognitiva y elevaron el **BDNF** frente a alimentos bajos en flavanoles; admite que "no es un estudio perfecto" porque los alimentos contienen muchos compuestos. 🟢 (Neshatdoust 2016: dos ensayos aleatorizados, de 18 y 12 semanas.)
-- No todos los compuestos le sientan bien a todas las personas (su comentario sobre la dieta carnívora). 🟡
+## Las sustancias con que se defienden las plantas y el estrés bueno (hormesis)
+- **Hormesis:** una dosis baja de estrés que no nos envenena y que hace que el cuerpo se adapte. Las plantas no pueden huir ni pelear, así que se vuelven "químicas brillantes": sustancias amargas para que no se las coman en las hojas verdes oscuras, hierbas, especias, los taninos del té y del café. El nombre que le da Mark Hyman: **"fitoadaptación simbiótica"**. ✅ (El nombre científico de esta idea es xenohormesis; Howitz y Sinclair 2008.)
+- **Luteína y zeaxantina** (kale, acelga): se sabe que protegen los ojos del daño de la mácula por la edad; se juntan en el cerebro; se disuelven en grasa, y eso es una razón para no comer una dieta con demasiada poca grasa. 🟡 Revisión de la evidencia: "se sabe que protegen" es exagerado. En el estudio AREDS2, agregar luteína y zeaxantina no bajó de forma importante el avance a daño grave de la mácula en el análisis principal (AREDS2 2013); sí reemplazaron al betacaroteno en la fórmula de vitaminas para los ojos porque el betacaroteno fue junto con más cáncer de pulmón en exfumadores.
+- **Antocianinas** (arándanos, cebolla morada, papas moradas; los rojos y morados de frutas y verduras): dice que se juntan en el hipocampo (una zona de la memoria). 🟡 Se demostró en ratas que comieron arándanos (Andres-Lacueva 2005); todavía no en personas.
+- **Glucosinolatos / sulforafano** (brócoli, germinados, coles de Bruselas, coliflor, kale, arúgula; se forma al masticar estas verduras): prende las defensas propias del cuerpo; en un estudio al azar en China, una bebida de germinado de brócoli con mucho sulforafano hizo que se sacara más benceno (61%) y acroleína (23%) por la orina (Egner 2014). ✅
+- **Flavanoles:** un estudio al azar que cita encontró que la comida con muchos flavanoles mejoró la memoria y el pensamiento y subió el **BDNF** comparada con comida con pocos flavanoles; acepta que "no es un estudio perfecto" porque la comida tiene muchas sustancias. 🟢 (Neshatdoust 2016: dos estudios al azar, de 18 y 12 semanas.)
+- No todas las sustancias le caen bien a todas las personas (su comentario sobre la dieta carnívora). 🟡
 
-## La fibra, de nuevo
-- La fibra es beneficiosa según la mejor evidencia disponible, pero **la tolerancia es individual**, sobre todo con trastornos gastrointestinales. ✅
-- **Por qué la fibra tiene calorías:** los microbios intestinales la fermentan en ácidos grasos de cadena corta (p. ej., **butirato**) y otros combustibles de los que sí extraemos energía. Señala que no hay consenso sobre cómo contabilizarlo. ✅ Se promete hablar de los distintos tipos de fibra en un capítulo posterior.
+## La fibra, otra vez
+- La fibra es buena según las mejores pruebas que hay, pero **cuánto se aguanta depende de cada quien**, sobre todo con problemas del estómago e intestinos. ✅
+- **Por qué la fibra tiene calorías:** las bacterias del intestino la fermentan y hacen ácidos grasos de cadena corta (por ejemplo, **butirato**) y otros combustibles de los que sí sacamos energía. Dice que no hay acuerdo sobre cómo contarlo. ✅ Se promete hablar de los tipos de fibra en un capítulo después.
 
 ## ¿La obesidad es genética?
-- Los genes influyen (saciedad, búsqueda de recompensa) pero **no son la causa principal**; es una interacción entre genes y ambiente, como en toda enfermedad crónica. ✅
-- La obesidad "responde mucho" a la dieta y el estilo de vida, lo cual contrasta con la enfermedad cardiovascular, que es más difícil de revertir una vez establecida. Dice que incluso las personas con obesidad genética pueden bajar de peso con el plan adecuado. 🟡 Se afirma que hay "mucha evidencia", pero no se muestra aquí. Verificación de evidencia: los estudios en gemelos ubican la heredabilidad del IMC en cerca de 47–90%, con una mediana de 75% (Elks 2012), así que los genes influyen mucho en quién sube de peso en un mismo entorno; el rápido aumento de la obesidad en las últimas décadas apunta al entorno (Loos 2022). Decir que "no es la causa principal" subestima el peso de la genética.
+- Los genes influyen (en qué tanto se llena uno, en buscar recompensas) pero **no son la causa principal**; es una mezcla de genes y ambiente, como en toda enfermedad que dura. ✅
+- La obesidad "responde mucho" a la dieta y al estilo de vida, a diferencia de la enfermedad del corazón, que cuesta más revertir una vez que está. Dice que hasta las personas con obesidad por genes pueden bajar de peso con el plan correcto. 🟡 Dice que hay "muchas pruebas", pero no las muestra aquí. Revisión de la evidencia: los estudios en gemelos ponen cuánto se hereda el IMC en cerca de 47–90%, con un punto medio de 75% (Elks 2012), así que los genes influyen mucho en quién sube de peso en un mismo ambiente; que la obesidad haya subido tan rápido en las últimas décadas apunta al ambiente (Loos 2022). Decir que "no son la causa principal" le quita peso a los genes.
 
-## Frases clave y datos citables (Clase 6)
-- **"Cada vez que oyes la palabra riesgo, eso implica correlación".**
-- **2,000% (tabaco y cáncer de pulmón) vs. ~30% (carne roja y cáncer):** el contraste que usa para mostrar cuánto más débiles son las asociaciones en nutrición.
-- **Un aumento relativo de 25% sobre un riesgo absoluto de 4% da 5%.**
-- **Solo ~3% de la grasa saturada de los estadounidenses proviene de carnes; ~11% proviene de postres y botanas dulces.**
-- **"El objetivo de la ciencia es reducir la incertidumbre".** Todo es cuestión de grados de incertidumbre, no de cosas sabidas o desconocidas.
-- **"Ningún estudio aislado".** No cambia su dieta de un día para otro por un titular.
-- **La fibra tiene calorías porque las bacterias intestinales la convierten en ácidos grasos de cadena corta.**
-- **Las plantas son químicas brillantes:** el sabor amargo es una señal de defensa de la planta que nos da un efecto hormético.
+## Frases clave y datos para recordar (Clase 6)
+- **"Cada vez que oyes la palabra riesgo, quiere decir correlación".**
+- **2,000% (fumar y cáncer de pulmón) contra ~30% (carne roja y cáncer):** la comparación que usa para mostrar qué tan débiles son las relaciones en nutrición.
+- **Subir 25% un riesgo real de 4% da 5%.**
+- **Solo ~3% de la grasa saturada de los estadounidenses viene de carnes; ~11% viene de postres y botanas dulces.**
+- **"La meta de la ciencia es bajar la duda".** Todo es cuestión de qué tanta duda hay, no de cosas sabidas o no sabidas.
+- **"Ningún estudio solo".** No cambia su dieta de un día para otro por un titular.
+- **La fibra tiene calorías porque las bacterias del intestino la vuelven ácidos grasos de cadena corta.**
+- **Las plantas son químicas brillantes:** el sabor amargo es una señal de defensa de la planta que nos da un estrés bueno.
 
-## Correcciones clave para llevar adelante
-- 🔴 El "riesgo" en un titular no es prueba: implica correlación, normalmente reportada como riesgo relativo sin cifra absoluta. Pide ambas.
-- 🔴 La carne roja no es la principal fuente de grasa saturada en la dieta estadounidense (según los datos del USDA que muestra): predominan los platillos mixtos, los lácteos y los dulces.
-- 🔴 Las asociaciones "saludables" a nivel poblacional (para las plantas y para evitar la carne) están entrelazadas con el sesgo del usuario saludable y el nivel socioeconómico.
-- 🔴 Los alimentos no son un paquete de nutrientes esenciales más relleno: importan los compuestos sin nombre y la matriz alimentaria (nutricionismo).
-- 🔴 La fibra no está "vacía": alimenta al microbioma y aporta energía aprovechable en forma de ácidos grasos de cadena corta.
-- 🔴 La obesidad no es "solo genética" ni "solo fuerza de voluntad": es interacción entre genes y ambiente, y responde mucho al estilo de vida.
+## Correcciones clave para recordar
+- 🔴 El "riesgo" en un titular no es prueba: quiere decir correlación, normalmente dada como riesgo relativo sin la cifra real. Pide las dos.
+- 🔴 La carne roja no es la principal fuente de grasa saturada en la dieta de EE. UU. (según los datos del USDA que muestra): mandan los platillos con varias cosas, los lácteos y los dulces.
+- 🔴 Las relaciones "sanas" en la población (para las plantas y para no comer carne) están revueltas con el sesgo de la gente que se cuida y con el dinero.
+- 🔴 La comida no es un paquete de nutrientes indispensables más relleno: importan las sustancias sin nombre y la matriz del alimento (nutricionismo).
+- 🔴 La fibra no está "vacía": alimenta a las bacterias del intestino y da energía que se puede usar en forma de ácidos grasos de cadena corta.
+- 🔴 La obesidad no es "solo genes" ni "solo fuerza de voluntad": es una mezcla de genes y ambiente, y responde mucho al estilo de vida.
 
 ## Conclusión práctica
-Cuando te encuentres con una afirmación sobre nutrición, pásala por cuatro filtros: (1) ¿correlación o ensayo aleatorizado?, (2) ¿riesgo relativo o absoluto?, (3) ¿qué factores de confusión (sesgo del usuario saludable) podrían explicarla?, (4) ¿es un solo estudio o un metaanálisis? Luego prioriza alimentos enteros de origen tanto animal como vegetal en lugar de optimizar en torno a un solo nutriente. Sus posturas específicas sobre alimentos (veganismo, grasa láctea) son conclusiones propias en esta clase: trátalas como hipótesis por comprobar, no como hallazgos establecidos.
+Cuando veas algo que se dice de la nutrición, pásalo por cuatro filtros: (1) ¿es correlación o un estudio al azar?, (2) ¿es riesgo relativo o real?, (3) ¿qué cosas revueltas (el sesgo de la gente que se cuida) lo podrían explicar?, (4) ¿es un solo estudio o un análisis de muchos? Luego da prioridad a la comida entera de animales y de plantas en vez de afinar alrededor de un solo nutriente. Lo que opina de comidas en particular (ser vegano, la grasa de la leche) son conclusiones suyas en esta clase: tómalas como ideas por comprobar, no como cosas probadas.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
-**1. Un titular dice que un alimento "eleva tu riesgo de diabetes tipo 2 en 25%". Según esta clase, ¿cuál es la siguiente pregunta más útil?**
-A. ¿Qué celebridad lo come?
-B. ¿El estudio es un ensayo aleatorizado con 25 voluntarios?
-C. \* ¿Es un riesgo relativo, y cuál es el riesgo absoluto? (Un aumento relativo de 25% sobre una base de 4% es solo de 4% a 5%), ¿y podría explicarlo el sesgo del usuario saludable?
-*Por qué C: Lugavere usa exactamente este ejemplo del huevo y la diabetes para mostrar cómo el riesgo relativo exagera el impacto práctico, y el sesgo del usuario saludable es su verificación estándar de factores de confusión.*
+**1. Un titular dice que una comida "sube 25% tu riesgo de diabetes tipo 2". Según esta clase, ¿cuál es la siguiente pregunta más útil?**
+A. ¿Qué famoso la come?
+B. ¿El estudio es al azar con 25 voluntarios?
+C. \* ¿Es un riesgo relativo, y cuál es el riesgo real? (Subir 25% una base de 4% es solo de 4% a 5%), ¿y lo podría explicar el sesgo de la gente que se cuida?
+*Por qué C: Lugavere usa justo este ejemplo del huevo y la diabetes para mostrar cómo el riesgo relativo hace ver más grande el efecto práctico, y el sesgo de la gente que se cuida es lo que siempre revisa como cosa revuelta.*
 
-**2. Según los datos del USDA que muestra Lugavere, ¿qué aporta más grasa saturada a la dieta estadounidense promedio?**
-A. \* Los postres y botanas dulces (~11%) más que los bistecs y la carne molida (~3%)
-B. Los bistecs y la carne molida más que los postres
-C. Aportan aproximadamente lo mismo
-*Por qué A: usa la comparación de 3% vs. 11% ("casi cuatro veces") para argumentar que el miedo a un nutriente apunta a los alimentos equivocados.*
+**2. Según los datos del USDA que muestra Lugavere, ¿qué da más grasa saturada a la dieta promedio de EE. UU.?**
+A. \* Los postres y botanas dulces (~11%) más que los bisteces y la carne molida (~3%)
+B. Los bisteces y la carne molida más que los postres
+C. Dan más o menos lo mismo
+*Por qué A: usa la comparación de 3% contra 11% ("casi cuatro veces") para decir que el miedo a un nutriente apunta a las comidas equivocadas.*
 
-**3. ¿Por qué la fibra tiene un conteo de calorías en las etiquetas nutrimentales si los humanos no podemos digerirla?**
-A. Las etiquetas son inexactas y esas calorías se ignoran
-B. \* Los microbios intestinales fermentan la fibra en ácidos grasos de cadena corta como el butirato, que el cuerpo puede usar como combustible
-C. La fibra se convierte en glucosa en el estómago
-*Por qué B: es su explicación, con la salvedad de que los científicos aún no se ponen de acuerdo sobre cómo contabilizar esa energía.*
+**3. ¿Por qué la fibra tiene calorías en las etiquetas si las personas no la podemos digerir?**
+A. Las etiquetas están mal y esas calorías no cuentan
+B. \* Las bacterias del intestino fermentan la fibra y hacen ácidos grasos de cadena corta como el butirato, que el cuerpo puede usar como combustible
+C. La fibra se vuelve glucosa en el estómago
+*Por qué B: es su explicación, aclarando que los científicos todavía no se ponen de acuerdo en cómo contar esa energía.*
 
-**4. ¿Qué es el "nutricionismo" y por qué lo considera un error?**
-A. Contar calorías para bajar de peso, lo cual dice que nunca funciona
-B. Comer solo alimentos con etiqueta nutrimental
-C. \* Reducir los alimentos a sus nutrientes aislados conocidos, olvidando los compuestos sin nombre y la matriz de alimentos enteros con la que coevolucionamos
-*Por qué C: Soylent y "vegano más B12" son sus ejemplos; le reconoce al enfoque haber curado el raquitismo y el escorbuto, pero dice que se ha llevado demasiado lejos.*
+**4. ¿Qué es el "nutricionismo" y por qué lo ve como un error?**
+A. Contar calorías para bajar de peso, que según él nunca funciona
+B. Comer solo comida con etiqueta de nutrientes
+C. \* Ver la comida solo como sus nutrientes conocidos sueltos, olvidando las sustancias sin nombre y la matriz de la comida entera con la que nos formamos
+*Por qué C: Soylent y "vegano más B12" son sus ejemplos; le reconoce a esa forma de ver haber curado el raquitismo y el escorbuto, pero dice que se llevó demasiado lejos.*
 
-## Hilos abiertos
-- **Tipos de fibra** y el microbioma: prometidos para una presentación posterior (Cap. 8 Microbiome Mastery es el lugar probable).
-- **Artículo de Ty Beal:** fecha recordada como "creo que de 2020"; localizado: Beal y Ortenzi, *Frontiers in Nutrition* 2022. Las principales fuentes de micronutrientes prioritarios fueron vísceras, pescados pequeños, hojas verdes oscuras, bivalvos, crustáceos, cabra, res, huevo, leche y cordero, lo que respalda su punto. 🟢
-- **Membrana del glóbulo de grasa de la leche y lácteos:** referida desde el Cap. 5 ("ayer"); la clase afirma el beneficio sin datos. 🟡
-- **Estudio del eritritol:** no se dan detalles de la metodología más allá de "puramente correlacional".
+## Temas abiertos
+- **Tipos de fibra** y las bacterias del intestino: prometidos para después (el Cap. 8 Microbiome Mastery es el lugar más probable).
+- **Artículo de Ty Beal:** la fecha la recuerda como "creo que de 2020"; encontrado: Beal y Ortenzi, *Frontiers in Nutrition* 2022. Las mejores fuentes de los micronutrientes más importantes fueron vísceras, pescados chicos, hojas verdes oscuras, almejas y mejillones, camarones y parecidos, cabra, res, huevo, leche y borrego, lo que apoya lo que dice. 🟢
+- **La capa de la grasa de la leche y los lácteos:** viene del Cap. 5 ("ayer"); la clase dice que ayuda sin datos. 🟡
+- **Estudio del eritritol:** no se dan detalles de cómo se hizo más allá de "solo de correlación".
 
-## Lo que se eliminó deliberadamente (autoauditoría)
-- La lectura de la agenda al inicio y los comentarios retóricos ("no tengo más que decir", "¿lo demostré?").
-- Las repeticiones del punto de correlación vs. causalidad y del ejemplo de los teléfonos inteligentes más allá de una mención.
-- Errores tipográficos de la transcripción y un salto de línea a mitad de oración en el pasaje de Ty Beal (el contenido se entendió, no se vio afectado).
-- Detalles sobre la preocupación por la dieta carnívora: solo una mención de una línea en la clase.
+## Lo que se dejó fuera a propósito (revisión propia)
+- La lectura de los temas al principio y los comentarios de forma de hablar ("no tengo más que decir", "¿lo demostré?").
+- Las repeticiones de lo de correlación contra causa y del ejemplo de los celulares más allá de una vez.
+- Errores de escritura de la transcripción y un salto de línea a mitad de frase en lo de Ty Beal (se entendió el contenido, no se afectó).
+- Detalles de la preocupación por la dieta carnívora: solo una línea en la clase.
 
 ---
 **Referencias:**
