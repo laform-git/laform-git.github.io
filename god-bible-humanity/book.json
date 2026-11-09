@@ -1,0 +1,165 @@
+{
+ "title": {
+  "en": "God, the Bible and Humanity",
+  "es": "Dios, la Biblia y la humanidad"
+ },
+ "titleHtml": {
+  "en": "God, the Bible <span>and Humanity</span>",
+  "es": "Dios, la Biblia <span>y la humanidad</span>"
+ },
+ "eyebrow": {
+  "en": "Bishop Robert Barron · 6 lectures",
+  "es": "Obispo Robert Barron · 6 lecciones"
+ },
+ "lede": {
+  "en": "Who God is, what the biblical story is, and how we are rightly related to him: from the burning bush to the empty tomb, with Scripture, doctrine and meditations.",
+  "es": "Quién es Dios, cuál es la historia de la Biblia y cómo nos relacionamos bien con él: de la zarza ardiente al sepulcro vacío, con Escritura, doctrina y meditaciones."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Lectures",
+    "es": "Lecciones"
+   },
+   "notes": [
+    {
+     "id": "gbh0",
+     "en": {
+      "title": "Series overview",
+      "h1": "Series overview",
+      "file": "en/gbh0.md",
+      "aka": [
+       "GBH-0 God, the Bible and Humanity (Series Hub)"
+      ]
+     },
+     "es": {
+      "title": "Índice de la serie",
+      "h1": "Índice de la serie",
+      "file": "es/gbh0.md",
+      "aka": [
+       "GBH-0 Dios, la Biblia y la humanidad (índice de la serie)"
+      ]
+     }
+    },
+    {
+     "id": "gbh1",
+     "en": {
+      "title": "1. God Beyond Being",
+      "h1": "1. God Beyond Being",
+      "file": "en/gbh1.md",
+      "aka": [
+       "GBH-1 God Beyond Being"
+      ]
+     },
+     "es": {
+      "title": "1. Dios más allá del ser",
+      "h1": "1. Dios más allá del ser",
+      "file": "es/gbh1.md",
+      "aka": [
+       "GBH-1 Dios más allá del ser"
+      ]
+     }
+    },
+    {
+     "id": "gbh2",
+     "en": {
+      "title": "2. Right Praise and Sacrifice",
+      "h1": "2. Right Praise and Sacrifice",
+      "file": "en/gbh2.md",
+      "aka": [
+       "GBH-2 Right Praise and Sacrifice"
+      ]
+     },
+     "es": {
+      "title": "2. La alabanza correcta y el sacrificio",
+      "h1": "2. La alabanza correcta y el sacrificio",
+      "file": "es/gbh2.md",
+      "aka": [
+       "GBH-2 La alabanza correcta y el sacrificio"
+      ]
+     }
+    },
+    {
+     "id": "gbh3",
+     "en": {
+      "title": "3. Law and True Freedom",
+      "h1": "3. Law and True Freedom",
+      "file": "en/gbh3.md",
+      "aka": [
+       "GBH-3 Law and True Freedom"
+      ]
+     },
+     "es": {
+      "title": "3. La ley y la verdadera libertad",
+      "h1": "3. La ley y la verdadera libertad",
+      "file": "es/gbh3.md",
+      "aka": [
+       "GBH-3 La ley y la verdadera libertad"
+      ]
+     }
+    },
+    {
+     "id": "gbh4",
+     "en": {
+      "title": "4. Grace and Mission",
+      "h1": "4. Grace and Mission",
+      "file": "en/gbh4.md",
+      "aka": [
+       "GBH-4 Grace and Mission"
+      ]
+     },
+     "es": {
+      "title": "4. La gracia y la misión",
+      "h1": "4. La gracia y la misión",
+      "file": "es/gbh4.md",
+      "aka": [
+       "GBH-4 La gracia y la misión"
+      ]
+     }
+    },
+    {
+     "id": "gbh5",
+     "en": {
+      "title": "5. Contrasting Powers",
+      "h1": "5. Contrasting Powers",
+      "file": "en/gbh5.md",
+      "aka": [
+       "GBH-5 Contrasting Powers"
+      ]
+     },
+     "es": {
+      "title": "5. Poderes que se enfrentan",
+      "h1": "5. Poderes que se enfrentan",
+      "file": "es/gbh5.md",
+      "aka": [
+       "GBH-5 Poderes que se enfrentan"
+      ]
+     }
+    },
+    {
+     "id": "gbh6",
+     "en": {
+      "title": "6. God's Transformative Word",
+      "h1": "6. God's Transformative Word",
+      "file": "en/gbh6.md",
+      "aka": [
+       "GBH-6 God's Transformative Word"
+      ]
+     },
+     "es": {
+      "title": "6. La Palabra de Dios que transforma",
+      "h1": "6. La Palabra de Dios que transforma",
+      "file": "es/gbh6.md",
+      "aka": [
+       "GBH-6 La Palabra de Dios que transforma"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}

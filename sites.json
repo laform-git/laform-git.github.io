@@ -387,5 +387,37 @@
     "sym": "Pl",
     "num": 25,
     "icon": "<path d=\"M10 54h12V42h12V30h12V18h8\"/><path d=\"M46 10l8 8l-8 8\"/>"
+  },
+  {
+    "name": "On Narcissism",
+    "section": "Mindforge",
+    "path": "on-narcissism/",
+    "label": "W. Keith Campbell",
+    "blurb": "What narcissism is, its grandiose and vulnerable faces, the clinical disorder, and what it does in love and at work.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Sobre el narcisismo",
+    "label_es": "W. Keith Campbell",
+    "blurb_es": "Qué es el narcisismo, sus caras grandiosa y vulnerable, el trastorno clínico, y lo que hace en el amor y en el trabajo.",
+    "path_es": "on-narcissism/#es/",
+    "sym": "Na",
+    "num": 26,
+    "icon": "<ellipse cx=\"32\" cy=\"48\" rx=\"20\" ry=\"6\"/><circle cx=\"32\" cy=\"22\" r=\"10\"/><path d=\"M24 46c2-3 5-4 8-4s6 1 8 4\"/>"
+  },
+  {
+    "name": "God, the Bible and Humanity",
+    "section": "Faith",
+    "path": "god-bible-humanity/",
+    "label": "Bishop Robert Barron",
+    "blurb": "From the burning bush to the empty tomb: who God is, the biblical story, and how we are rightly related to him.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Dios, la Biblia y la humanidad",
+    "label_es": "Obispo Robert Barron",
+    "blurb_es": "De la zarza ardiente al sepulcro vacío: quién es Dios, la historia de la Biblia y cómo nos relacionamos bien con él.",
+    "path_es": "god-bible-humanity/#es/",
+    "sym": "Gb",
+    "num": 27,
+    "icon": "<path d=\"M32 56c-10 0-14-8-10-16c2 4 5 5 7 4c-4-8 0-18 6-24c0 8 6 10 6 18c2-2 3-4 3-7c5 7 4 25-12 25z\"/>"
   }
 ]

@@ -1,0 +1,127 @@
+{
+ "title": {
+  "en": "On Narcissism",
+  "es": "Sobre el narcisismo"
+ },
+ "titleHtml": {
+  "en": "On <span>Narcissism</span>",
+  "es": "Sobre el <span>narcisismo</span>"
+ },
+ "eyebrow": {
+  "en": "W. Keith Campbell · Peterson Academy · Lectures 1–5 of 8",
+  "es": "W. Keith Campbell · Peterson Academy · Lecciones 1–5 de 8"
+ },
+ "lede": {
+  "en": "What narcissism is and how it works: its grandiose and vulnerable faces, the clinical disorder, and what it does in love and at work, with the evidence checked.",
+  "es": "Qué es el narcisismo y cómo funciona: sus caras grandiosa y vulnerable, el trastorno clínico, y lo que hace en el amor y en el trabajo, con las pruebas revisadas."
+ },
+ "langs": [
+  "en",
+  "es"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "Lectures",
+    "es": "Lecciones"
+   },
+   "notes": [
+    {
+     "id": "l1",
+     "en": {
+      "title": "1. The Faces of Narcissism",
+      "h1": "1. The Faces of Narcissism",
+      "file": "en/l1.md",
+      "aka": [
+       "On Narcissism — L1 — The Faces of Narcissism"
+      ]
+     },
+     "es": {
+      "title": "1. Las caras del narcisismo",
+      "h1": "1. Las caras del narcisismo",
+      "file": "es/l1.md",
+      "aka": [
+       "Sobre el narcisismo — L1 — Las caras del narcisismo"
+      ]
+     }
+    },
+    {
+     "id": "l2",
+     "en": {
+      "title": "2. Unveiling Narcissism",
+      "h1": "2. Unveiling Narcissism",
+      "file": "en/l2.md",
+      "aka": [
+       "On Narcissism — L2 — Unveiling Narcissism"
+      ]
+     },
+     "es": {
+      "title": "2. El narcisismo al descubierto",
+      "h1": "2. El narcisismo al descubierto",
+      "file": "es/l2.md",
+      "aka": [
+       "Sobre el narcisismo — L2 — El narcisismo al descubierto"
+      ]
+     }
+    },
+    {
+     "id": "l3",
+     "en": {
+      "title": "3. Clinical Narcissism",
+      "h1": "3. Clinical Narcissism",
+      "file": "en/l3.md",
+      "aka": [
+       "On Narcissism — L3 — Clinical Narcissism"
+      ]
+     },
+     "es": {
+      "title": "3. El narcisismo clínico",
+      "h1": "3. El narcisismo clínico",
+      "file": "es/l3.md",
+      "aka": [
+       "Sobre el narcisismo — L3 — El narcisismo clínico"
+      ]
+     }
+    },
+    {
+     "id": "l4",
+     "en": {
+      "title": "4. Narcissism in Love",
+      "h1": "4. Narcissism in Love",
+      "file": "en/l4.md",
+      "aka": [
+       "On Narcissism — L4 — Narcissism in Love"
+      ]
+     },
+     "es": {
+      "title": "4. El narcisismo en el amor",
+      "h1": "4. El narcisismo en el amor",
+      "file": "es/l4.md",
+      "aka": [
+       "Sobre el narcisismo — L4 — El narcisismo en el amor"
+      ]
+     }
+    },
+    {
+     "id": "l5",
+     "en": {
+      "title": "5. Narcissism at Work",
+      "h1": "5. Narcissism at Work",
+      "file": "en/l5.md",
+      "aka": [
+       "On Narcissism — L5 — Narcissism at Work"
+      ]
+     },
+     "es": {
+      "title": "5. El narcisismo en el trabajo",
+      "h1": "5. El narcisismo en el trabajo",
+      "file": "es/l5.md",
+      "aka": [
+       "Sobre el narcisismo — L5 — El narcisismo en el trabajo"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
