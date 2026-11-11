@@ -1,0 +1,81 @@
+{
+ "title": {
+  "en": "The Mass, Step by Step"
+ },
+ "titleHtml": {
+  "en": "The Mass, <span>Step by Step</span>"
+ },
+ "eyebrow": {
+  "en": "A guide for coming home · 5 parts"
+ },
+ "lede": {
+  "en": "What happens at Mass, from the door to the dismissal, and why it matters: plain words for anyone who was raised Catholic and is finding the way back."
+ },
+ "langs": [
+  "en"
+ ],
+ "sections": [
+  {
+   "title": {
+    "en": "The Mass in order"
+   },
+   "notes": [
+    {
+     "id": "m0",
+     "en": {
+      "title": "Start Here",
+      "h1": "Start Here",
+      "file": "en/m0.md",
+      "aka": [
+       "The Mass, Step by Step — 0 — Start Here"
+      ]
+     }
+    },
+    {
+     "id": "m1",
+     "en": {
+      "title": "1. Coming In",
+      "h1": "1. Coming In",
+      "file": "en/m1.md",
+      "aka": [
+       "The Mass, Step by Step — 1 — Coming In"
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "en": {
+      "title": "2. God Speaks",
+      "h1": "2. God Speaks",
+      "file": "en/m2.md",
+      "aka": [
+       "The Mass, Step by Step — 2 — God Speaks"
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "en": {
+      "title": "3. The Eucharist",
+      "h1": "3. The Eucharist",
+      "file": "en/m3.md",
+      "aka": [
+       "The Mass, Step by Step — 3 — The Eucharist"
+      ]
+     }
+    },
+    {
+     "id": "m4",
+     "en": {
+      "title": "4. Sent Out",
+      "h1": "4. Sent Out",
+      "file": "en/m4.md",
+      "aka": [
+       "The Mass, Step by Step — 4 — Sent Out"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
