@@ -6,7 +6,7 @@
   "en": "The Mass, <span>Step by Step</span>"
  },
  "eyebrow": {
-  "en": "A guide for coming home · 5 parts"
+  "en": "A guide for coming home · intro + 5 parts"
  },
  "lede": {
   "en": "What happens at Mass, from the door to the dismissal, and why it matters: plain words for anyone who was raised Catholic and is finding the way back."
@@ -20,6 +20,17 @@
     "en": "The Mass in order"
    },
    "notes": [
+    {
+     "id": "intro",
+     "en": {
+      "title": "Holy Ground: Read This First",
+      "h1": "Holy Ground: Read This First",
+      "file": "en/intro.md",
+      "aka": [
+       "The Mass, Step by Step — Holy Ground — Read This First"
+      ]
+     }
+    },
     {
      "id": "m0",
      "en": {
