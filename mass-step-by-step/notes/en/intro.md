@@ -1,4 +1,4 @@
-# The Mass, Step by Step — Holy Ground — Read This First
+# The Mass, Return Home — Holy Ground — Read This First
 
 You were baptized. Maybe confirmed. Then life happened, and you drifted.
 
@@ -71,6 +71,6 @@ A symbol can't give you life. Only the real thing can.
 
 ---
 
-*Next: [[The Mass, Step by Step — 0 — Start Here]]*
+*Next: [[The Mass, Return Home — 0 — Start Here]]*
 
 *Date: 2026-11-11 | Source: Claude.ai — from Oscar's "Note for Claude on the Mass"; Exodus 3:5; Malachi 1:11; Luke 15:20; John 6:53, 60, 66; Hebrews 10:14; Catechism 1367, 1374–1377; Council of Trent Sessions XIII and XXII*

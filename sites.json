@@ -421,14 +421,14 @@
     "icon": "<path d=\"M32 56c-10 0-14-8-10-16c2 4 5 5 7 4c-4-8 0-18 6-24c0 8 6 10 6 18c2-2 3-4 3-7c5 7 4 25-12 25z\"/>"
   },
   {
-    "name": "The Mass, Step by Step",
+    "name": "The Mass, Return Home",
     "section": "Faith",
     "path": "mass-step-by-step/",
     "label": "A guide for coming home",
     "blurb": "What happens at Mass, from the door to the dismissal, and why it matters, in plain words for anyone finding the way back.",
     "langs": "English · Español",
     "status": "Live",
-    "name_es": "La Misa, paso a paso",
+    "name_es": "La Misa, regreso a casa",
     "label_es": "Una guía para volver a casa",
     "blurb_es": "Qué pasa en la Misa, desde la puerta hasta la despedida, y por qué importa, en palabras sencillas para quien busca el camino de regreso.",
     "path_es": "mass-step-by-step/#es/",

@@ -1,11 +1,11 @@
 {
  "title": {
-  "en": "The Mass, Step by Step",
-  "es": "La Misa, paso a paso"
+  "en": "The Mass, Return Home",
+  "es": "La Misa, regreso a casa"
  },
  "titleHtml": {
-  "en": "The Mass, <span>Step by Step</span>",
-  "es": "La Misa, <span>paso a paso</span>"
+  "en": "The Mass, <span>Return Home</span>",
+  "es": "La Misa, <span>regreso a casa</span>"
  },
  "eyebrow": {
   "en": "A guide for coming home · intro + 5 parts",
@@ -33,7 +33,7 @@
       "h1": "Intro. Holy Ground: Read This First",
       "file": "en/intro.md",
       "aka": [
-       "The Mass, Step by Step — Holy Ground — Read This First"
+       "The Mass, Return Home — Holy Ground — Read This First"
       ]
      },
      "es": {
@@ -41,7 +41,7 @@
       "h1": "Intro. Tierra sagrada: lee esto primero",
       "file": "es/intro.md",
       "aka": [
-       "La Misa, paso a paso — Tierra sagrada — Lee esto primero"
+       "La Misa, regreso a casa — Tierra sagrada — Lee esto primero"
       ]
      }
     },
@@ -52,7 +52,7 @@
       "h1": "0. Start Here",
       "file": "en/m0.md",
       "aka": [
-       "The Mass, Step by Step — 0 — Start Here"
+       "The Mass, Return Home — 0 — Start Here"
       ]
      },
      "es": {
@@ -60,7 +60,7 @@
       "h1": "0. Empieza aquí",
       "file": "es/m0.md",
       "aka": [
-       "La Misa, paso a paso — 0 — Empieza aquí"
+       "La Misa, regreso a casa — 0 — Empieza aquí"
       ]
      }
     },
@@ -71,7 +71,7 @@
       "h1": "1. Coming In",
       "file": "en/m1.md",
       "aka": [
-       "The Mass, Step by Step — 1 — Coming In"
+       "The Mass, Return Home — 1 — Coming In"
       ]
      },
      "es": {
@@ -79,7 +79,7 @@
       "h1": "1. Al entrar",
       "file": "es/m1.md",
       "aka": [
-       "La Misa, paso a paso — 1 — Al entrar"
+       "La Misa, regreso a casa — 1 — Al entrar"
       ]
      }
     },
@@ -90,7 +90,7 @@
       "h1": "2. God Speaks",
       "file": "en/m2.md",
       "aka": [
-       "The Mass, Step by Step — 2 — God Speaks"
+       "The Mass, Return Home — 2 — God Speaks"
       ]
      },
      "es": {
@@ -98,7 +98,7 @@
       "h1": "2. Dios habla",
       "file": "es/m2.md",
       "aka": [
-       "La Misa, paso a paso — 2 — Dios habla"
+       "La Misa, regreso a casa — 2 — Dios habla"
       ]
      }
     },
@@ -109,7 +109,7 @@
       "h1": "3. The Eucharist",
       "file": "en/m3.md",
       "aka": [
-       "The Mass, Step by Step — 3 — The Eucharist"
+       "The Mass, Return Home — 3 — The Eucharist"
       ]
      },
      "es": {
@@ -117,7 +117,7 @@
       "h1": "3. La Eucaristía",
       "file": "es/m3.md",
       "aka": [
-       "La Misa, paso a paso — 3 — La Eucaristía"
+       "La Misa, regreso a casa — 3 — La Eucaristía"
       ]
      }
     },
@@ -128,7 +128,7 @@
       "h1": "4. Sent Out",
       "file": "en/m4.md",
       "aka": [
-       "The Mass, Step by Step — 4 — Sent Out"
+       "The Mass, Return Home — 4 — Sent Out"
       ]
      },
      "es": {
@@ -136,7 +136,7 @@
       "h1": "4. Enviados",
       "file": "es/m4.md",
       "aka": [
-       "La Misa, paso a paso — 4 — Enviados"
+       "La Misa, regreso a casa — 4 — Enviados"
       ]
      }
     }

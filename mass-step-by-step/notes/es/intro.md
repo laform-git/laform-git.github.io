@@ -1,4 +1,4 @@
-# La Misa, paso a paso — Tierra sagrada — Lee esto primero
+# La Misa, regreso a casa — Tierra sagrada — Lee esto primero
 
 Te bautizaron. Tal vez te confirmaron. Luego la vida siguió, y te fuiste alejando.
 
@@ -71,6 +71,6 @@ Un símbolo no puede darte vida. Solo lo real puede.
 
 ---
 
-*Siguiente: [[La Misa, paso a paso — 0 — Empieza aquí]]*
+*Siguiente: [[La Misa, regreso a casa — 0 — Empieza aquí]]*
 
 *Fecha: 2026-11-11 | Fuente: Claude.ai — a partir de la "Nota para Claude sobre la Misa" de Oscar; Éxodo 3,5; Malaquías 1,11; Lucas 15,20; Juan 6,53.60.66; Hebreos 10,14; Catecismo 1367, 1374–1377; Concilio de Trento, sesiones XIII y XXII. Citas bíblicas: Biblia de Jerusalén.*
