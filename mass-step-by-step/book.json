@@ -1,44 +1,66 @@
 {
  "title": {
-  "en": "The Mass, Step by Step"
+  "en": "The Mass, Step by Step",
+  "es": "La Misa, paso a paso"
  },
  "titleHtml": {
-  "en": "The Mass, <span>Step by Step</span>"
+  "en": "The Mass, <span>Step by Step</span>",
+  "es": "La Misa, <span>paso a paso</span>"
  },
  "eyebrow": {
-  "en": "A guide for coming home · intro + 5 parts"
+  "en": "A guide for coming home · intro + 5 parts",
+  "es": "Una guía para volver a casa · intro + 5 partes"
  },
  "lede": {
-  "en": "What happens at Mass, from the door to the dismissal, and why it matters: plain words for anyone who was raised Catholic and is finding the way back."
+  "en": "What happens at Mass, from the door to the dismissal, and why it matters: plain words for anyone who was raised Catholic and is finding the way back.",
+  "es": "Qué pasa en la Misa, desde la puerta hasta la despedida, y por qué importa: palabras sencillas para quien creció católico y está buscando el camino de regreso."
  },
  "langs": [
-  "en"
+  "en",
+  "es"
  ],
  "sections": [
   {
    "title": {
-    "en": "The Mass in order"
+    "en": "The Mass in order",
+    "es": "La Misa en orden"
    },
    "notes": [
     {
      "id": "intro",
      "en": {
-      "title": "Holy Ground: Read This First",
-      "h1": "Holy Ground: Read This First",
+      "title": "Intro. Holy Ground: Read This First",
+      "h1": "Intro. Holy Ground: Read This First",
       "file": "en/intro.md",
       "aka": [
        "The Mass, Step by Step — Holy Ground — Read This First"
+      ]
+     },
+     "es": {
+      "title": "Intro. Tierra sagrada: lee esto primero",
+      "h1": "Intro. Tierra sagrada: lee esto primero",
+      "file": "es/intro.md",
+      "aka": [
+       "La Misa, paso a paso — Tierra sagrada — Lee esto primero"
       ]
      }
     },
     {
      "id": "m0",
      "en": {
-      "title": "Start Here",
-      "h1": "Start Here",
+      "title": "0. Start Here",
+      "h1": "0. Start Here",
       "file": "en/m0.md",
       "aka": [
        "The Mass, Step by Step — 0 — Start Here"
+      ]
+     },
+     "es": {
+      "title": "0. Empieza aquí",
+      "h1": "0. Empieza aquí",
+      "file": "es/m0.md",
+      "aka": [
+       "La Misa, paso a paso — 0 — Empieza aquí"
       ]
      }
     },
@@ -51,6 +73,14 @@
       "aka": [
        "The Mass, Step by Step — 1 — Coming In"
       ]
+     },
+     "es": {
+      "title": "1. Al entrar",
+      "h1": "1. Al entrar",
+      "file": "es/m1.md",
+      "aka": [
+       "La Misa, paso a paso — 1 — Al entrar"
+      ]
      }
     },
     {
@@ -61,6 +91,14 @@
       "file": "en/m2.md",
       "aka": [
        "The Mass, Step by Step — 2 — God Speaks"
+      ]
+     },
+     "es": {
+      "title": "2. Dios habla",
+      "h1": "2. Dios habla",
+      "file": "es/m2.md",
+      "aka": [
+       "La Misa, paso a paso — 2 — Dios habla"
       ]
      }
     },
@@ -73,6 +111,14 @@
       "aka": [
        "The Mass, Step by Step — 3 — The Eucharist"
       ]
+     },
+     "es": {
+      "title": "3. La Eucaristía",
+      "h1": "3. La Eucaristía",
+      "file": "es/m3.md",
+      "aka": [
+       "La Misa, paso a paso — 3 — La Eucaristía"
+      ]
      }
     },
     {
@@ -83,6 +129,14 @@
       "file": "en/m4.md",
       "aka": [
        "The Mass, Step by Step — 4 — Sent Out"
+      ]
+     },
+     "es": {
+      "title": "4. Enviados",
+      "h1": "4. Enviados",
+      "file": "es/m4.md",
+      "aka": [
+       "La Misa, paso a paso — 4 — Enviados"
       ]
      }
     }

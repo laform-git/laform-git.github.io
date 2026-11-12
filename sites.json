@@ -426,8 +426,12 @@
     "path": "mass-step-by-step/",
     "label": "A guide for coming home",
     "blurb": "What happens at Mass, from the door to the dismissal, and why it matters, in plain words for anyone finding the way back.",
-    "langs": "English",
+    "langs": "English · Español",
     "status": "Live",
+    "name_es": "La Misa, paso a paso",
+    "label_es": "Una guía para volver a casa",
+    "blurb_es": "Qué pasa en la Misa, desde la puerta hasta la despedida, y por qué importa, en palabras sencillas para quien busca el camino de regreso.",
+    "path_es": "mass-step-by-step/#es/",
     "sym": "Ms",
     "num": 28,
     "icon": "<path d=\"M20 10h24c0 14-5 22-12 22s-12-8-12-22z\"/><path d=\"M32 32v14\"/><path d=\"M22 54h20\"/><path d=\"M26 48h12\"/><circle cx=\"32\" cy=\"18\" r=\"4\"/>"
