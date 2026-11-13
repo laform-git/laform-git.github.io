@@ -54,9 +54,27 @@ When you bend your knee, you're doing what Moses did. You're taking off your san
 
 ## A pastor or a priest
 
-A **pastor** preaches, teaches and cares for his people, often with real love. But he is a believer chosen and set apart by his community. He leads worship. **He does not offer a sacrifice.**
+Both stand in front of a congregation. They are not the same thing.
 
-A **priest** is different. A bishop lays hands on him, in a line of hands on heads that reaches all the way back to the Apostles. The sacrament of Holy Orders changes him forever. At the altar, he doesn't speak for himself: **Christ speaks through him.**
+### The pastor
+
+A Protestant **pastor** preaches, teaches and cares for his people, often with real love and real sacrifice. Many know the Bible deeply. But a pastor is a believer chosen and set apart by his community, or by his own sense of calling. He leads worship and explains the Word. He does not claim to do what a priest does, and most would tell you so themselves. **He does not offer a sacrifice.**
+
+### The priest
+
+The priesthood begins with Christ. At the Last Supper he gave the Apostles a command: *"Do this in remembrance of me"* (Luke 22:19). On Easter night he breathed on them and said: *"As the Father has sent me, even so I send you… If you forgive the sins of any, they are forgiven"* (John 20:21–23). Before he ascended, he sent them to teach and baptize all nations (Matthew 28:19–20). He did not hand them a book. He handed them his own mission and his own authority.
+
+The Apostles knew they would die, and that the mission could not die with them. So they laid their hands on other men and passed on what they had received. Paul reminds Timothy of *"the gift of God that is within you through the laying on of my hands"* (2 Timothy 1:6), and he leaves Titus in Crete to appoint elders in every town (Titus 1:5). Men like Timothy and Titus were among the first bishops. Bishops laid hands on the next bishops, and on priests to share their work, and so it has gone, without a break, for two thousand years.
+
+That chain of hands is not a ceremony of welcome. It is the channel through which Christ hands on his own authority. The bishop receives the fullness of it; the priest receives a real share in it. The priest who says Mass in your parish was ordained by a bishop, who was ordained by a bishop, in a line that runs back to the Upper Room.
+
+> ✅ Holy Orders is "the sacrament through which the mission entrusted by Christ to his apostles continues to be exercised in the Church until the end of time" (Catechism 1536). Bishops receive the fullness of the sacrament (1557), and only a bishop can ordain (1576).
+
+Ordination does something to the man himself. It marks his soul with a **permanent seal**, the same kind of mark that Baptism and Confirmation leave. It can never be erased, and it is never repeated. A priest can fail. He can sin gravely. He can even leave the ministry. He remains a priest forever. That is why a priest who has left the ministry can still absolve a person who is dying.
+
+> ✅ The mark of Holy Orders is permanent (Catechism 1581–1583). The priest's own unworthiness does not stop Christ from acting through him (1584). Any priest can absolve a person in danger of death (Code of Canon Law 976).
+
+So when a priest stands at the altar, what happens there does not come from him: not from his holiness, his talent or his training. It comes from what he carries. He does not become Christ, and he does not replace him. He acts **in the person of Christ** (Catechism 1548). It is Christ himself who speaks and acts through him.
 
 When he says, "This is my Body," it is. When he says, "I absolve you," you are forgiven.
 
@@ -83,4 +101,4 @@ A symbol can't give you life. Only the real thing can.
 
 *Next: [[The Mass, Return Home — 0 — Start Here]]*
 
-*Date: 2026-11-11 | Source: Claude.ai — from Oscar's "Note for Claude on the Mass"; Exodus 3:5; 1 Kings 8:10–11, 27; Malachi 1:11; Luke 15:20; John 1:14; 6:53, 60, 66; Hebrews 10:14; Catechism 1367, 1374–1377; Council of Trent Sessions XIII and XXII*
+*Date: 2026-11-11 | Source: Claude.ai — from Oscar's "Note for Claude on the Mass"; Exodus 3:5; 1 Kings 8:10–11, 27; Malachi 1:11; Luke 15:20; John 1:14; 6:53, 60, 66; Luke 22:19; John 20:21–23; Matthew 28:19–20; 2 Timothy 1:6; Titus 1:5; Hebrews 10:14; Catechism 1367, 1374–1377, 1536, 1548, 1557, 1576, 1581–1584; Code of Canon Law 976; Council of Trent Sessions XIII and XXII*
