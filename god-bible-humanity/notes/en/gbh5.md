@@ -4,13 +4,17 @@
 
 ## 1 · Anchor
 
-**Jonah resists God's mercy toward his enemies and is restricted, not punished, into freedom; and in Jesus, divinity and humanity meet without competition, a king born in weakness who outranks every Caesar.**
+**Jonah fights God's mercy toward his enemies. God hems him in, not to punish him but to free him. And in Jesus, God and man meet without competing: a king born in weakness who outranks every Caesar.**
 
 *One image to carry:* a baby in a feeding trough, with an army of angels at his side.
 
 ## 2 · Pocket Version (15-second re-read)
 
-Jonah flees the call to preach mercy to Israel's enemy, is swallowed by a great fish, and is restored exactly where God wanted him; then he resents Nineveh's repentance, because he wanted judgment, not mercy. The Old Testament's institutions, covenant, law, temple, prophecy, never fully close the gap between God and humanity, so Israel comes to long for an anointed one, a Davidic king who is somehow also God himself. The Council of Chalcedon (451) defines how divinity and humanity meet in Jesus: fully God, fully human, in one person, without mixing or competing. Luke's nativity story sets this newborn king against Caesar Augustus at every point: fed versus feeding, sheltered versus homeless, guarded by legions versus guarded by an army of angels.
+Jonah flees the call to preach mercy to Israel's enemy, is swallowed by a great fish, and is restored exactly where God wanted him. Then he resents Nineveh's repentance, because he wanted judgment, not mercy.
+
+The Old Testament's institutions, covenant, law, temple, prophecy, never fully close the gap between God and humanity, so Israel comes to long for an anointed one (a Messiah), a king from David's line who is somehow also God himself. The Council of Chalcedon (451) defines how divinity and humanity meet in Jesus: fully God, fully human, in one person, without mixing or competing.
+
+Luke's nativity story sets this newborn king against Caesar Augustus at every point: fed versus feeding, sheltered versus homeless, guarded by legions versus guarded by an army of angels.
 
 ## 3 · Scripture text (Douay-Rheims)
 
@@ -24,7 +28,11 @@ Jonah flees the call to preach mercy to Israel's enemy, is swallowed by a great 
 
 Barron closes the Old Testament portion of the course with Jonah, which he calls one of the shortest and strangest books in the Bible, and one disproportionately influential (Herman Melville's Father Mapple sermon in Moby-Dick, he notes, is among its best commentaries). The book's interest is not Jonah's preaching, only three words in Hebrew, but Jonah himself: a flawed figure through whom the reader learns how resistance to God's call works, and is worked through.
 
-From there Barron pivots to the New Testament, insisting against the ancient heresy of Marcionism that the Old and New Testaments reveal the same God, and that Jesus cannot be understood apart from Israel's institutions: covenant, law, temple, prophecy. He surveys the New Testament's "high" claims about Jesus on nearly every page (forgiving sins, "you have heard it said, but I say," "lord of the Sabbath," "before Abraham was, I am") and then walks through three ancient errors about Christ's identity (monophysitism/docetism, Nestorianism, Arianism) before giving the Council of Chalcedon's answer. He closes by reading Luke's nativity account as a sustained, deliberate contrast between the newborn king and Caesar Augustus.
+From there Barron pivots to the New Testament, insisting against the ancient heresy of Marcionism (the idea that the God of the Old Testament is a different, lesser god) that the Old and New Testaments reveal the same God, and that Jesus cannot be understood apart from Israel's institutions: covenant, law, temple, prophecy.
+
+He surveys the New Testament's "high" claims about Jesus on nearly every page (forgiving sins, "you have heard it said, but I say," "lord of the Sabbath," "before Abraham was, I am") and then walks through three ancient errors about Christ's identity (monophysitism/docetism, Nestorianism, Arianism) before giving the Council of Chalcedon's answer.
+
+He closes by reading Luke's nativity account as a sustained, deliberate contrast between the newborn king and Caesar Augustus.
 
 ## 5 · The Passage Explained, by Beat
 
@@ -83,11 +91,17 @@ From there Barron pivots to the New Testament, insisting against the ancient her
 
 ## 9 · Why This Matters
 
-Jonah confronts the reader with a God whose mercy may be unwelcome, because it extends to people we would rather see judged. Chalcedon matters because getting the identity of Jesus wrong, too divine to be really human, too human to be really God, changes what salvation even means: only one who is fully human can heal humanity from within, and only one who is fully God can do so definitively. The nativity's contrast with Caesar reorients the reader's whole sense of where real power and real safety lie.
+Jonah confronts the reader with a God whose mercy may be unwelcome, because it extends to people we would rather see judged.
+
+Chalcedon matters because getting the identity of Jesus wrong, too divine to be really human, too human to be really God, changes what salvation even means. Only one who is fully human can heal humanity from within, and only one who is fully God can do so for good.
+
+The nativity's contrast with Caesar turns around the reader's whole sense of where real power and real safety lie.
+
+**Barron's reading of Luke in one line: the best-guarded man in the world was Caesar. The true king lay in a feeding trough.**
 
 ## 10 · Open Threads
 
-- Lecture 6, "God's Transformative Word," is expected to move into the Sermon on the Mount and the Passion and Resurrection, but the transcript file for it was empty when this note was built; it has not yet been built and needs its source text.
+- Lecture 6, "God's Transformative Word," moves into the Sermon on the Mount, the Passion and the Resurrection.
 - Possible side note: C.S. Lewis's image, quoted by Barron, of the Incarnation as God slipping "behind enemy lines," and its place in Lewis's wider argument in Mere Christianity.
 - Faith Journal: in a week, name one person toward whom you would rather see judgment than mercy, and sit with that honestly.
 
@@ -95,7 +109,7 @@ Jonah confronts the reader with a God whose mercy may be unwelcome, because it e
 
 ## 11 · Series Navigation
 
-Hub: [[GBH-0 God, the Bible and Humanity (Series Hub)]] · Previous: [[GBH-4 Grace and Mission]] · Next: [[GBH-6 God's Transformative Word]] (not yet built; source transcript missing)
+Hub: [[GBH-0 God, the Bible and Humanity (Series Hub)]] · Previous: [[GBH-4 Grace and Mission]] · Next: [[GBH-6 God's Transformative Word]]
 
 ---
 

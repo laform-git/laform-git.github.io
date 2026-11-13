@@ -18,11 +18,11 @@ At the burning bush Moses asks God's name. God answers "I AM WHO AM," which mean
 
 **Exodus 3:2-5 (summary of the scene).** The Lord appears to Moses in a flame of fire out of the midst of a bush. The bush is on fire and is not burnt. Moses goes to see. God calls him by name and tells him to remove his shoes, for the ground is holy.
 
-**Deuteronomy 6:4.** "Hear, O Israel: the Lord our God is one Lord."
+**Deuteronomy 6:4.** "Hear, O Israel, the Lord our God is one Lord."
 
 **Psalm 139.** "Lord, thou hast proved me, and known me… Whither shall I go from thy spirit? or whither shall I flee from thy face? If I ascend into heaven, thou art there: if I descend into hell, thou art present."
 
-*Scripture texts quoted from the Douay-Rheims. Verified for Exodus 3:14 against [drbo.org](http://drbo.org) and Biblia. Check Deuteronomy 6:4 and Psalm 138/139 wording against [drbo.org](http://drbo.org) before the Obsidian pass; Douay numbers the Psalm 138.*
+*Scripture quoted from the Douay-Rheims and checked against it: Exodus 3:14 at [drbo.org](http://drbo.org), [Deuteronomy 6:4](https://biblehub.com/drb/deuteronomy/6.htm) and [Psalm 139:1, 7-8](https://biblehub.com/drb/psalms/139.htm). The Douay numbers this psalm 138; most Bibles today number it 139.*
 
 ## 4 · Synthesis: Text and Setting
 
@@ -60,7 +60,7 @@ The setting matters. Moses was raised a prince of Egypt. His first recorded act 
 
 ## 7 · Doctrine (evidence-labeled)
 
-**1. God's name reveals that God alone IS.** ✅ Dogma-level teaching of the Church's faith, stated in the Catechism. CCC 213: "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS. The Greek Septuagint translation of the Hebrew Scriptures, and following it the Church's Tradition, understood the divine name in this sense: God is the fullness of Being and of every perfection, without origin and without end. All creatures receive all that they are and have from him; but he alone is his very being, and he is of himself everything that he is." *(Verified in the CCC on [vatican.va](http://vatican.va); the sentence after "without end" is quoted in full from CCC 213 and should be rechecked against the [vatican.va](http://vatican.va) text in the Obsidian pass.)*
+**1. God's name reveals that God alone IS.** ✅ Dogma-level teaching of the Church's faith, stated in the Catechism. CCC 213: "The revelation of the ineffable name 'I AM WHO AM' contains then the truth that God alone IS. The Greek Septuagint translation of the Hebrew Scriptures, and following it the Church's Tradition, understood the divine name in this sense: God is the fullness of Being and of every perfection, without origin and without end. All creatures receive all that they are and have from him; but he alone is his very being, and he is of himself everything that he is." *(Source: [CCC 213 on vatican.va](https://www.vatican.va/archive/ENG0015/__P16.HTM).)*
 
 🕯 **Reflect:** Everything I have is received. What do I treat as owned?
 
@@ -68,11 +68,11 @@ The setting matters. Moses was raised a prince of Egypt. His first recorded act 
 
 🕯 **Reflect:** If God has no parts, what does that do to the idea that I can understand him piece by piece?
 
-**3. God is in all things by essence, presence and power.** 🟢 Aquinas, ST I, q.8, a.3: "God is in all things by His power, inasmuch as all things are subject to His power; He is by His presence in all things, as all things are bare and open to His eyes; He is in all things by His essence, inasmuch as He is present to all as the cause of their being." Barron adds Aquinas's word "most intimately." Check that exact phrase against the Latin ("intime") before relying on it.
+**3. God is in all things by essence, presence and power.** 🟢 Aquinas, ST I, q.8, a.3: "God is in all things by His power, inasmuch as all things are subject to His power; He is by His presence in all things, as all things are bare and open to His eyes; He is in all things by His essence, inasmuch as He is present to all as the cause of their being." Barron adds Aquinas's word "most intimately." It comes two articles earlier, in ST I, q.8, a.1: "God is in all things, and innermostly" ([New Advent](https://www.newadvent.org/summa/1008.htm)).
 
 🕯 **Reflect:** Is there any place I think God is absent from?
 
-**4. God is closer than I am to myself and higher than my highest.** 🟢 Augustine, Confessions III.6.11: "tu autem eras interior intimo meo et superior summo meo." Verified in the Latin text. Barron uses it to hold two truths together: transcendence and immanence. Deny the first and you get pantheism. Deny the second and you get deism.
+**4. God is closer than I am to myself and higher than my highest.** 🟢 Augustine, Confessions III.6.11: "tu autem eras interior intimo meo et superior summo meo" (you were more inward than my inmost self and higher than my highest). Verified in the Latin text. Barron uses it to hold two truths together: transcendence and immanence. Deny the first and you get pantheism (God is just the world). Deny the second and you get deism (a God who made the world and then left it alone).
 
 🕯 **Reflect:** Which error do I lean toward, a God who is too distant, or a God who is only my feelings?
 
@@ -80,7 +80,7 @@ The setting matters. Moses was raised a prince of Egypt. His first recorded act 
 
 **6. Creation from nothing.** ✅ Dogma (Fourth Lateran Council, 1215; reaffirmed Vatican I). There is no rival to God and no raw material. Barron's spiritual point: nothing stands between you and God. Thomas Merton's definition of contemplation, as Barron cites it, is finding the place in you where you are here and now being created by God.
 
-**7. The argument from contingency.** 🟡 Theological and philosophical argument, not itself a defined dogma, though the Church teaches that God can be known by reason (Vatican I, Dei Filius). Barron's version: things that need not exist need causes. A chain of dependent causes cannot go on forever without explaining anything. So something must exist whose nature is to be. Aquinas: "this is what all men call God."
+**7. The argument from contingency.** 🟡 Theological and philosophical argument, not itself a defined dogma, though the Church teaches that God can be known by reason (Vatican I, Dei Filius). Barron's version: things that did not have to exist (contingent things) need causes. A chain of dependent causes cannot go on forever without explaining anything. So something must exist whose nature is to be. Aquinas: "this is what all men call God."
 
 **8. Barron's gloss on omniscience, omnipotence, omnipresence.** 🟡 Aquinas's teaching, put in modern speech. God is not the smartest or strongest being. He knows the world into being as an author knows a novel, and he is not a character in it.
 
@@ -92,16 +92,17 @@ The setting matters. Moses was raised a prince of Egypt. His first recorded act 
 - **Aquinas's "no real relation to the world"** does not mean God does not care. It means God does not depend on the world. Barron says this is good news.
 - **"I AM WHO AM" is not only a refusal.** It is also a revelation.
 - **Barron's claim that polytheism "says something true"** about God's presence in all things is a distinctive and debatable remark. The Church does not teach it as doctrine, and the Bible itself treats polytheism as error.
-- **Hebrew note, flagged.** Scholars debate how to translate the Hebrew of Exodus 3:14 (I am who I am, I will be what I will be). The Church's tradition, following the Septuagint, reads it as a statement of being. Both readings have defenders.
+- **A note on the Hebrew.** Scholars debate how to translate the Hebrew of Exodus 3:14 (I am who I am, I will be what I will be). The Church's tradition, following the Septuagint, reads it as a statement of being. Both readings have defenders.
 
 ## 9 · Why This Matters
 
 If God is an object, he becomes optional, and then easy to dismiss. If God is the ground of being, then everything depends on him, and the real question is not whether he exists but how I am related to him. This is also why prayer is not a technique. It is a response to someone who is already holding you in being.
 
+**Barron's point in one line: God is not the biggest thing in the room. He is the reason there is a room.**
+
 ## 10 · Open Threads
 
 - Lecture 2 picks up right worship: if God needs nothing, why sacrifice?
-- Verify the exact quotes marked above against [vatican.va](http://vatican.va) and [drbo.org](http://drbo.org) in the Obsidian review.
 - Possible side note: the Septuagint rendering ho on in Exodus 3:14 and its place in the Fathers.
 - Faith Journal: revisit the "anti-grasping / anti-hiding" pair in a week and ask which one you do more.
 

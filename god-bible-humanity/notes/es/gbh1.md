@@ -22,7 +22,7 @@ En la zarza ardiente, Moisés le pregunta a Dios su nombre. Dios responde «Yo s
 
 **Salmo 139.** «Yahveh, tú me escrutas y conoces… ¿Adónde iré yo lejos de tu espíritu, adónde de tu rostro huiré? Si escalo los cielos, allí estás tú, si me acuesto en el seol, allí te encuentras.»
 
-*Textos bíblicos citados de la Biblia de Jerusalén. En la nota en inglés (Douay-Rheims) se verificó Éxodo 3,14 contra [drbo.org](http://drbo.org) y Biblia. Revisar la redacción de Deuteronomio 6,4 y del Salmo 138/139 contra [drbo.org](http://drbo.org) antes del repaso en Obsidian; la Douay numera el salmo como 138.*
+*Textos bíblicos citados de la Biblia de Jerusalén. Algunas Biblias antiguas numeran este salmo como 138; la mayoría de las de hoy, como 139.*
 
 ## 4 · Síntesis: el texto y su contexto
 
@@ -60,7 +60,7 @@ El contexto importa. Moisés se crió como príncipe de Egipto. Lo primero que s
 
 ## 7 · Doctrina (con etiquetas de evidencia)
 
-**1. El nombre de Dios revela que solo Dios ES.** ✅ Enseñanza de la fe de la Iglesia a nivel de dogma, expresada en el Catecismo. CIC 213: «La revelación del Nombre inefable "Yo soy el que soy" contiene, pues, la verdad que sólo Dios ES. En este mismo sentido, ya la traducción de los Setenta y, siguiéndola, la Tradición de la Iglesia han entendido el Nombre divino: Dios es la plenitud del Ser y de toda perfección, sin origen y sin fin. Mientras todas las criaturas han recibido de Él todo su ser y su poseer, Él solo es su ser mismo y es por sí mismo todo lo que es.» *(Verificado en el CIC en [vatican.va](http://vatican.va); la frase después de «sin fin» se cita completa del CIC 213 y debe volver a revisarse contra el texto de [vatican.va](http://vatican.va) en el repaso en Obsidian.)*
+**1. El nombre de Dios revela que solo Dios ES.** ✅ Enseñanza de la fe de la Iglesia a nivel de dogma, expresada en el Catecismo. CIC 213: «La revelación del Nombre inefable "Yo soy el que soy" contiene, pues, la verdad que sólo Dios ES. En este mismo sentido, ya la traducción de los Setenta y, siguiéndola, la Tradición de la Iglesia han entendido el Nombre divino: Dios es la plenitud del Ser y de toda perfección, sin origen y sin fin. Mientras todas las criaturas han recibido de Él todo su ser y su poseer, Él solo es su ser mismo y es por sí mismo todo lo que es.» *(Fuente: CIC 213, en [vatican.va](http://vatican.va).)*
 
 🕯 **Reflexiona:** Todo lo que tengo lo he recibido. ¿Qué trato como si fuera mío?
 
@@ -68,11 +68,11 @@ El contexto importa. Moisés se crió como príncipe de Egipto. Lo primero que s
 
 🕯 **Reflexiona:** Si Dios no tiene partes, ¿qué le pasa a la idea de que puedo entenderlo por pedazos?
 
-**3. Dios está en todas las cosas por esencia, presencia y potencia.** 🟢 Santo Tomás, ST I, q.8, a.3: «Dios está en todas las cosas por potencia, en cuanto que todas están sometidas a su poder; está por presencia, en cuanto que todas las cosas están patentes y como desnudas a sus ojos; está por esencia, en cuanto que está en todas como causa de su ser.» Barron agrega la palabra de santo Tomás «íntimamente». Revisar esa frase exacta contra el latín («intime») antes de apoyarse en ella.
+**3. Dios está en todas las cosas por esencia, presencia y potencia.** 🟢 Santo Tomás, ST I, q.8, a.3: «Dios está en todas las cosas por potencia, en cuanto que todas están sometidas a su poder; está por presencia, en cuanto que todas las cosas están patentes y como desnudas a sus ojos; está por esencia, en cuanto que está en todas como causa de su ser.» Barron agrega la palabra de santo Tomás «íntimamente». Viene dos artículos antes, en ST I, q.8, a.1, donde santo Tomás dice que Dios está en todas las cosas, y en lo más íntimo de ellas ([texto en inglés en New Advent](https://www.newadvent.org/summa/1008.htm)).
 
 🕯 **Reflexiona:** ¿Hay algún lugar donde creo que Dios no está?
 
-**4. Dios está más cerca de mí que yo mismo y más alto que lo más alto mío.** 🟢 San Agustín, Confesiones III.6.11: «tu autem eras interior intimo meo et superior summo meo» (tú estabas más dentro de mí que lo más íntimo mío y más alto que lo más alto mío). Verificado en el texto latino. Barron lo usa para sostener dos verdades juntas: la trascendencia y la inmanencia. Si niegas la primera, terminas en el panteísmo. Si niegas la segunda, terminas en el deísmo.
+**4. Dios está más cerca de mí que yo mismo y más alto que lo más alto mío.** 🟢 San Agustín, Confesiones III.6.11: «tu autem eras interior intimo meo et superior summo meo» (tú estabas más dentro de mí que lo más íntimo mío y más alto que lo más alto mío). Verificado en el texto latino. Barron lo usa para sostener dos verdades juntas: la trascendencia y la inmanencia. Si niegas la primera, terminas en el panteísmo (Dios es solo el mundo). Si niegas la segunda, terminas en el deísmo (un Dios que hizo el mundo y luego lo dejó solo).
 
 🕯 **Reflexiona:** ¿Hacia cuál error me inclino, un Dios demasiado lejano, o un Dios que solo son mis sentimientos?
 
@@ -92,16 +92,17 @@ El contexto importa. Moisés se crió como príncipe de Egipto. Lo primero que s
 - **Lo de santo Tomás de que Dios «no tiene relación real con el mundo»** no quiere decir que a Dios no le importe. Quiere decir que Dios no depende del mundo. Barron dice que es una buena noticia.
 - **«Yo soy el que soy» no es solo una negativa.** También es una revelación.
 - **La afirmación de Barron de que el politeísmo «dice algo verdadero»** sobre la presencia de Dios en todas las cosas es un comentario propio y discutible. La Iglesia no lo enseña como doctrina, y la Biblia misma trata el politeísmo como un error.
-- **Nota sobre el hebreo, señalada.** Los expertos discuten cómo traducir el hebreo de Éxodo 3,14 (soy el que soy, seré el que seré). La tradición de la Iglesia, siguiendo a los Setenta, lo lee como una afirmación sobre el ser. Las dos lecturas tienen defensores.
+- **Una nota sobre el hebreo.** Los expertos discuten cómo traducir el hebreo de Éxodo 3,14 (soy el que soy, seré el que seré). La tradición de la Iglesia, siguiendo a los Setenta, lo lee como una afirmación sobre el ser. Las dos lecturas tienen defensores.
 
 ## 9 · Por qué importa
 
 Si Dios es un objeto, se vuelve opcional, y luego fácil de descartar. Si Dios es el fundamento del ser, entonces todo depende de él, y la pregunta de verdad no es si existe sino cómo me relaciono con él. Por eso también la oración no es una técnica. Es una respuesta a alguien que ya te está sosteniendo en el ser.
 
+**La idea de Barron en una línea: Dios no es la cosa más grande del cuarto. Es la razón de que haya un cuarto.**
+
 ## 10 · Temas abiertos
 
 - La lección 2 retoma el culto correcto: si Dios no necesita nada, ¿para qué el sacrificio?
-- Verificar las citas exactas marcadas arriba contra [vatican.va](http://vatican.va) y [drbo.org](http://drbo.org) en el repaso en Obsidian.
 - Posible nota aparte: la traducción de los Setenta *ho on* en Éxodo 3,14 y su lugar en los Padres de la Iglesia.
 - Diario de fe: volver en una semana al par «no agarrar / no esconderse» y preguntarse cuál de los dos hago más.
 

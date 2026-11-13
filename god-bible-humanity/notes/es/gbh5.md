@@ -4,13 +4,17 @@
 
 ## 1 · Ancla
 
-**Jonás se resiste a la misericordia de Dios hacia sus enemigos y es contenido, no castigado, hasta llegar a la libertad; y en Jesús, la divinidad y la humanidad se encuentran sin competir, un rey nacido en la debilidad que está por encima de todo César.**
+**Jonás pelea contra la misericordia de Dios hacia sus enemigos. Dios lo encierra, no para castigarlo sino para liberarlo. Y en Jesús, Dios y el hombre se encuentran sin competir: un rey nacido en la debilidad que está por encima de todo César.**
 
 *Una imagen para llevar:* un bebé en un pesebre, con un ejército de ángeles a su lado.
 
 ## 2 · Versión de bolsillo (para releer en 15 segundos)
 
-Jonás huye del llamado a predicar misericordia al enemigo de Israel, se lo traga un gran pez y queda de nuevo justo donde Dios lo quería; luego le molesta que Nínive se arrepienta, porque él quería juicio, no misericordia. Las instituciones del Antiguo Testamento, la alianza, la ley, el templo, la profecía, nunca cierran del todo la distancia entre Dios y la humanidad, así que Israel llega a anhelar un ungido, un rey de la casa de David que de algún modo es también Dios mismo. El Concilio de Calcedonia (451) define cómo se encuentran la divinidad y la humanidad en Jesús: plenamente Dios, plenamente hombre, en una sola persona, sin mezclarse ni competir. El relato del nacimiento en Lucas pone a este rey recién nacido frente a César Augusto en cada punto: alimentado contra el que alimenta, con techo contra sin techo, protegido por legiones contra protegido por un ejército de ángeles.
+Jonás huye del llamado a predicar misericordia al enemigo de Israel, se lo traga un gran pez y queda de nuevo justo donde Dios lo quería. Luego le molesta que Nínive se arrepienta, porque él quería juicio, no misericordia.
+
+Las instituciones del Antiguo Testamento, la alianza, la ley, el templo, la profecía, nunca cierran del todo la distancia entre Dios y la humanidad, así que Israel llega a anhelar un ungido (un Mesías), un rey de la casa de David que de algún modo es también Dios mismo. El Concilio de Calcedonia (451) define cómo se encuentran la divinidad y la humanidad en Jesús: plenamente Dios, plenamente hombre, en una sola persona, sin mezclarse ni competir.
+
+El relato del nacimiento en Lucas pone a este rey recién nacido frente a César Augusto en cada punto: alimentado contra el que alimenta, con techo contra sin techo, protegido por legiones contra protegido por un ejército de ángeles.
 
 ## 3 · Texto de la Escritura (Biblia de Jerusalén)
 
@@ -24,7 +28,11 @@ Jonás huye del llamado a predicar misericordia al enemigo de Israel, se lo trag
 
 Barron cierra la parte del curso sobre el Antiguo Testamento con Jonás, al que llama uno de los libros más cortos y raros de la Biblia, y uno con una influencia mucho más grande que su tamaño (el sermón del padre Mapple en *Moby Dick* de Herman Melville, señala, está entre sus mejores comentarios). Lo interesante del libro no es la predicación de Jonás, apenas tres palabras en hebreo, sino Jonás mismo: una figura con defectos por medio de la cual el lector aprende cómo funciona la resistencia al llamado de Dios, y cómo se atraviesa.
 
-De ahí Barron pasa al Nuevo Testamento e insiste, en contra de la antigua herejía del marcionismo, en que el Antiguo y el Nuevo Testamento revelan al mismo Dios, y en que a Jesús no se le puede entender aparte de las instituciones de Israel: la alianza, la ley, el templo, la profecía. Repasa las afirmaciones «altas» del Nuevo Testamento sobre Jesús que aparecen casi en cada página (perdonar los pecados, «habéis oído que se dijo, pero yo os digo», «señor del sábado», «antes de que Abraham existiera, Yo Soy») y luego recorre tres errores antiguos sobre quién es Cristo (monofisismo/docetismo, nestorianismo, arrianismo) antes de dar la respuesta del Concilio de Calcedonia. Cierra leyendo el relato del nacimiento en Lucas como un contraste constante y deliberado entre el rey recién nacido y César Augusto.
+De ahí Barron pasa al Nuevo Testamento e insiste, en contra de la antigua herejía del marcionismo (la idea de que el Dios del Antiguo Testamento es otro dios, inferior), en que el Antiguo y el Nuevo Testamento revelan al mismo Dios, y en que a Jesús no se le puede entender aparte de las instituciones de Israel: la alianza, la ley, el templo, la profecía.
+
+Repasa las afirmaciones «altas» del Nuevo Testamento sobre Jesús que aparecen casi en cada página (perdonar los pecados, «habéis oído que se dijo, pero yo os digo», «señor del sábado», «antes de que Abraham existiera, Yo Soy») y luego recorre tres errores antiguos sobre quién es Cristo (monofisismo/docetismo, nestorianismo, arrianismo) antes de dar la respuesta del Concilio de Calcedonia.
+
+Cierra leyendo el relato del nacimiento en Lucas como un contraste constante y deliberado entre el rey recién nacido y César Augusto.
 
 ## 5 · El pasaje explicado, por partes
 
@@ -83,11 +91,17 @@ De ahí Barron pasa al Nuevo Testamento e insiste, en contra de la antigua herej
 
 ## 9 · Por qué importa
 
-Jonás pone al lector frente a un Dios cuya misericordia puede no ser bienvenida, porque llega a gente que preferiríamos ver juzgada. Calcedonia importa porque equivocarse sobre quién es Jesús, demasiado divino para ser de verdad humano, demasiado humano para ser de verdad Dios, cambia lo que quiere decir la salvación misma: solo alguien plenamente humano puede sanar a la humanidad desde dentro, y solo alguien plenamente Dios puede hacerlo de forma definitiva. El contraste del nacimiento con César cambia por completo la idea del lector sobre dónde están el poder verdadero y la seguridad verdadera.
+Jonás pone al lector frente a un Dios cuya misericordia puede no ser bienvenida, porque llega a gente que preferiríamos ver juzgada.
+
+Calcedonia importa porque equivocarse sobre quién es Jesús, demasiado divino para ser de verdad humano, demasiado humano para ser de verdad Dios, cambia lo que quiere decir la salvación misma. Solo alguien plenamente humano puede sanar a la humanidad desde dentro, y solo alguien plenamente Dios puede hacerlo de forma definitiva.
+
+El contraste del nacimiento con César cambia por completo la idea del lector sobre dónde están el poder verdadero y la seguridad verdadera.
+
+**La lectura que Barron hace de Lucas, en una línea: el hombre mejor protegido del mundo era el César. El rey verdadero estaba acostado en un pesebre.**
 
 ## 10 · Temas abiertos
 
-- Se espera que la lección 6, «La Palabra de Dios que transforma», pase al Sermón de la Montaña y a la Pasión y la Resurrección, pero el archivo de la transcripción estaba vacío cuando se hizo esta nota; todavía no se ha hecho y necesita su texto de origen.
+- La lección 6, «La Palabra de Dios que transforma», pasa al Sermón de la Montaña, a la Pasión y a la Resurrección.
 - Posible nota aparte: la imagen de C. S. Lewis, citada por Barron, de la Encarnación como Dios que se mete «detrás de las líneas enemigas», y su lugar en el argumento más amplio de Lewis en *Mero cristianismo*.
 - Diario de fe: en una semana, nombrar a una persona a la que preferirías ver juzgada antes que verla recibir misericordia, y quedarte con eso con honestidad.
 
@@ -95,7 +109,7 @@ Jonás pone al lector frente a un Dios cuya misericordia puede no ser bienvenida
 
 ## 11 · Navegación de la serie
 
-Índice: [[GBH-0 Dios, la Biblia y la humanidad (índice de la serie)]] · Anterior: [[GBH-4 La gracia y la misión]] · Siguiente: [[GBH-6 La Palabra de Dios que transforma]] (todavía no hecha; falta la transcripción de origen)
+Índice: [[GBH-0 Dios, la Biblia y la humanidad (índice de la serie)]] · Anterior: [[GBH-4 La gracia y la misión]] · Siguiente: [[GBH-6 La Palabra de Dios que transforma]]
 
 ---
 

@@ -4,13 +4,15 @@
 
 ## 1 · Anchor
 
-**David is singer, warrior and priest together, prefiguring Christ; and no one meets God in the Bible without the same rhythm: grace received, sin acknowledged, mission given.**
+**David is singer, warrior and priest in one, and so he points ahead to Christ. And no one in the Bible meets God without the same three steps: grace received, sin admitted, mission given.**
 
 *One image to carry:* David, stripped of armor, dancing before the Ark in a priest's garment.
 
 ## 2 · Pocket Version (15-second re-read)
 
-David leads as sweet singer, warrior and priest, anticipating Jesus as prophet, king and high priest. His affair with Bathsheba shows what happens when he stops listening to God and starts acting like God. Elijah's contest on Carmel shows that false gods never answer, because only the true God can satisfy the heart's infinite longing. Isaiah's call and Peter's call in Luke 5 share the same three-step pattern: the unbidden breakthrough of grace, the honest admission of sin, and then a mission, "your life is not about you."
+David leads as sweet singer, warrior and priest, anticipating Jesus as prophet, king and high priest. His affair with Bathsheba shows what happens when he stops listening to God and starts acting like God. Elijah's contest on Carmel shows that false gods never answer, because only the true God can satisfy the heart's infinite longing.
+
+Isaiah's call and Peter's call in Luke 5 share the same three-step pattern: the unbidden breakthrough of grace, the honest admission of sin, and then a mission, "your life is not about you."
 
 ## 3 · Scripture text (Douay-Rheims)
 
@@ -24,7 +26,11 @@ David leads as sweet singer, warrior and priest, anticipating Jesus as prophet, 
 
 ## 4 · Synthesis: Text and Setting
 
-Barron treats David as the pivot of the whole Old Testament, looking back to Adam as a kind of king and forward to Jesus, "son of David." He organizes David's life around the three biblical offices: prophet (David the singer, who moves people through language, as Lincoln, Churchill and Martin Luther King later would), king (David the warrior against Goliath, fighting "naked," trusting only in God), and priest (David dancing before the Ark, bringing right worship to the center of the nation). The Bathsheba episode (2 Samuel 11) shows David failing precisely when he stays home from battle and stops listening to God.
+Barron treats David as the pivot of the whole Old Testament, looking back to Adam as a kind of king and forward to Jesus, "son of David."
+
+He organizes David's life around the three biblical offices: prophet (David the singer, who moves people through language, as Lincoln, Churchill and Martin Luther King later would), king (David the warrior against Goliath, fighting "naked," trusting only in God), and priest (David dancing before the Ark, bringing right worship to the center of the nation).
+
+The Bathsheba episode (2 Samuel 11) shows David failing precisely when he stays home from battle and stops listening to God.
 
 From there Barron moves to Elijah's contest with the prophets of Baal at Mount Carmel (1 Kings 18, Douay 3 Kings 18), using it to illustrate that false worship never answers, however much effort or even self-harm is poured into it. He closes with Isaiah's prophetic call (Isaiah 6) and its New Testament parallel, the call of Simon Peter (Luke 5), to establish a recurring three-step pattern of the spiritual life: grace, acknowledged sin, and mission.
 
@@ -62,7 +68,7 @@ From there Barron moves to Elijah's contest with the prophets of Baal at Mount C
 
 ## 7 · Doctrine (evidence-labeled)
 
-**1. David as singer, warrior, priest, prefiguring Christ as prophet, king and priest.** 🟡 A long-standing typological reading (patristic in origin, used by Barron as his own synthesis), not a single defined dogma, though the Church's teaching on Christ's threefold office (CCC 783-786, munus triplex) is itself solemn teaching, rooted in Lumen Gentium 31 and earlier tradition.
+**1. David as singer, warrior, priest, prefiguring Christ as prophet, king and priest.** 🟡 A long-standing typological reading (David as a picture of Christ in advance; patristic in origin, used by Barron as his own synthesis), not a single defined dogma, though the Church's teaching on Christ's threefold office (CCC 783-786, munus triplex, Latin for "threefold office") is itself solemn teaching, rooted in Lumen Gentium 31 and earlier tradition.
 
 **2. "Holy, holy, holy, the Lord God of hosts, all the earth is full of his glory" (Isaiah 6:3).** ✅ Scripture, verified. This text is also the direct source of the Sanctus sung at every Mass.
 
@@ -83,7 +89,11 @@ From there Barron moves to Elijah's contest with the prophets of Baal at Mount C
 
 ## 9 · Why This Matters
 
-The three offices in David, and the three-step pattern in the call narratives, both describe a single rhythm: worship (right relationship to God) grounds right action and right leadership; and every authentic encounter with God moves a person from unearned grace, through honest self-knowledge, into mission. Neither stage can be skipped: a mission without honest self-knowledge is presumption, and self-knowledge without mission curdles into despair.
+The three offices in David, and the three-step pattern in the call narratives, both describe a single rhythm. Worship (right relationship to God) grounds right action and right leadership. And every real encounter with God moves a person from unearned grace, through honest self-knowledge, into mission.
+
+No stage can be skipped. A mission without honest self-knowledge is presumption, and self-knowledge without mission curdles into despair.
+
+**Barron's line for the whole lecture: "your life is not about you."**
 
 ## 10 · Open Threads
 

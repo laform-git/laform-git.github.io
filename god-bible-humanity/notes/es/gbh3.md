@@ -4,13 +4,17 @@
 
 ## 1 · Ancla
 
-**La esclavitud viene después del mal culto; la verdadera libertad viene después del culto correcto, recibido como ley e interiorizado hasta que sale sin esfuerzo.**
+**El mal culto termina en esclavitud. El culto correcto termina en libertad: la Ley se recibe como regalo y se practica hasta que hacer el bien sale fácil.**
 
 *Una imagen para llevar:* un golfista, tieso e incómodo en una postura corregida, que en realidad, por primera vez, es libre de pegarle bien a la pelota.
 
 ## 2 · Versión de bolsillo (para releer en 15 segundos)
 
-Cuando adoramos algo menor que Dios, nos volvemos adictos a eso, porque solo Dios puede llenar nuestro anhelo infinito. Moisés es enviado a liberar a Israel de Egipto para que puedan dar culto a Dios, y el culto es justo el sentido de la liberación. La libertad de verdad no es la «libertad de indiferencia», la capacidad de escoger cualquier cosa. Es la «libertad para la excelencia», interiorizar con disciplina la ley hasta que el bien se vuelve fácil, como la práctica hace que un idioma o un golpe de golf salgan sin esfuerzo. La historia también advierte contra las medias tintas con el mal, y la historia de Elí y sus hijos muestra la corrupción sin atender dentro de la misma comunidad de fe, con el desastre como resultado, hasta que la gracia vuelve a entrar por medio de Ana.
+Cuando adoramos algo menor que Dios, nos volvemos adictos a eso, porque solo Dios puede llenar nuestro anhelo infinito. Moisés es enviado a liberar a Israel de Egipto para que puedan dar culto a Dios, y el culto es justo el sentido de la liberación.
+
+La libertad de verdad no es la «libertad de indiferencia», la capacidad de escoger cualquier cosa. Es la «libertad para la excelencia»: practicar la ley con disciplina hasta que el bien se vuelve fácil, como la práctica hace que un idioma o un golpe de golf salgan sin esfuerzo.
+
+La historia también advierte contra las medias tintas con el mal. Y Elí y sus hijos muestran lo que pasa cuando la corrupción se deja sin atender dentro de la misma comunidad de fe. Viene el desastre, hasta que la gracia vuelve a entrar por medio de Ana.
 
 ## 3 · Texto de la Escritura (Biblia de Jerusalén)
 
@@ -24,7 +28,9 @@ Cuando adoramos algo menor que Dios, nos volvemos adictos a eso, porque solo Dio
 
 ## 4 · Síntesis: el texto y su contexto
 
-Barron regresa a Moisés, al que Dios ya llamó por su nombre en la zarza ardiente, y que ahora es enviado a una misión: «Deja partir a mi pueblo». Insiste en que en la Biblia nadie recibe una experiencia de Dios sin ser enviado. Apoyándose en Orígenes de Alejandría, lee la historia del Éxodo en sentido espiritual: Israel esclavizado en Egipto representa todo lo bueno y creativo que hay en una persona; el faraón representa la adicción que lo ha esclavizado. La frase completa no es solo «deja partir a mi pueblo» sino «para que me celebre una fiesta en el desierto» (Éxodo 5,1; 7,16, y se repite). La liberación y el culto no se pueden separar.
+Barron regresa a Moisés, al que Dios ya llamó por su nombre en la zarza ardiente, y que ahora es enviado a una misión: «Deja partir a mi pueblo». Insiste en que en la Biblia nadie recibe una experiencia de Dios sin ser enviado.
+
+Apoyándose en Orígenes de Alejandría, lee la historia del Éxodo en sentido espiritual. Israel esclavizado en Egipto representa todo lo bueno y creativo que hay en una persona. El faraón representa la adicción que lo ha esclavizado. La frase completa no es solo «deja partir a mi pueblo» sino «para que me celebre una fiesta en el desierto» (Éxodo 5,1; 7,16, y se repite). La liberación y el culto no se pueden separar.
 
 El paso del mar Rojo, la entrega de la Ley en el Sinaí, la batalla contra Amalec y, más tarde, la historia de los hijos corruptos de Elí y de Samuel, el hijo de Ana, extienden el mismo tema: la libertad está unida al culto correcto, el culto correcto está unido a la Ley recibida como regalo, y la Ley está unida a la verdadera libertad, no a la restricción.
 
@@ -85,10 +91,12 @@ El paso del mar Rojo, la entrega de la Ley en el Sinaí, la batalla contra Amale
 
 El pasaje acomoda de otra manera dos cosas que la gente muchas veces entiende al revés: la libertad y la ley. Si la libertad es solo que no haya límites, la disciplina parece opresión. Si la libertad es la capacidad de hacer el bien bien y sin lucha, la disciplina es el camino para llegar ahí. La historia de Elí también importa para la vida de las instituciones: nombrar un mal sin actuar no basta, y el costo de tardarse se va acumulando.
 
+**La idea de Barron en una línea: la Ley no es una jaula. Es la práctica que te hace libre.**
+
 ## 10 · Temas abiertos
 
 - La lección 4 pasa al rey David como sacerdote, profeta y rey, y al relato del llamado de Isaías.
-- Posible nota aparte: las tres etapas de Pinckaers hacia la libertad para la excelencia, mencionadas de pasada en una fuente secundaria encontrada al verificar, y que Barron no detalla aquí.
+- Posible nota aparte: las tres etapas de Pinckaers hacia la libertad para la excelencia, que Barron no detalla aquí.
 - Diario de fe: en una semana, nombrar un «Agag» que solo has atendido a medias.
 
 **Pregunta socrática:** Si la libertad es interiorizar un buen patrón hasta que sale sin esfuerzo, ¿qué patrón me estoy negando a practicar ahora?

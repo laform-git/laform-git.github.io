@@ -4,13 +4,19 @@
 
 ## 1 · Ancla
 
-**Las Bienaventuranzas nombran la cura para la adicción a la riqueza, el placer, el poder y los honores; amar a los enemigos es la prueba de que la vida misma de Dios ha entrado en nosotros; y la cruz es Dios bajando hasta el fondo, hasta la muerte misma, algo que solo la Resurrección podría justificar predicar.**
+**Las Bienaventuranzas nombran la cura para la adicción a la riqueza, el placer, el poder y los honores. Amar a los enemigos es la prueba de que la vida misma de Dios ha entrado en nosotros. Y la cruz es Dios bajando hasta el fondo, hasta la muerte misma, un mensaje que solo la Resurrección podría justificar predicar.**
 
 *Una imagen para llevar:* una brasa del altar, no para quemar y acabar, sino para purificar y enviar.
 
 ## 2 · Versión de bolsillo (para releer en 15 segundos)
 
-Las Bienaventuranzas se pueden leer como lo contrario de los adoradores de Baal brincando alrededor de sus altares: «bienaventurados los pobres de espíritu» si tu adicción es la riqueza, «bienaventurados los mansos» si es el poder, «bienaventurados los que lloran» si es el placer, «bienaventurados cuando os persigan» si son los honores. Libre de esas adicciones, la misericordia corre a través de ti, que es lo que describen las Bienaventuranzas positivas. La prueba más difícil del amor es amar a los enemigos, porque demuestra que la manera de amar de Dios, que no pide nada a cambio, ha entrado en ti. Poner la otra mejilla y dar también el manto no son pasividad, sino una negativa provocadora y sin violencia a colaborar con el mal, como la vivieron Gandhi, King, Tutu y Juan Pablo II. Jesús baja hasta el fondo, a la traición, la injusticia, la tortura y la muerte, para que la misericordia divina alcance cada parte de la experiencia humana; y todo el mensaje se viene abajo sin la Resurrección, que los apóstoles sostienen como un hecho, no como un mito.
+Las Bienaventuranzas se pueden leer como lo contrario de los adoradores de Baal brincando alrededor de sus altares: «bienaventurados los pobres de espíritu» si tu adicción es la riqueza, «bienaventurados los mansos» si es el poder, «bienaventurados los que lloran» si es el placer, «bienaventurados cuando os persigan» si son los honores.
+
+Libre de esas adicciones, la misericordia corre a través de ti, que es lo que describen las Bienaventuranzas positivas. La prueba más difícil del amor es amar a los enemigos, porque demuestra que la manera de amar de Dios, que no pide nada a cambio, ha entrado en ti.
+
+Poner la otra mejilla y dar también el manto no son pasividad, sino una negativa provocadora y sin violencia a colaborar con el mal, como la vivieron Gandhi, King, Tutu y Juan Pablo II.
+
+Jesús baja hasta el fondo, a la traición, la injusticia, la tortura y la muerte, para que la misericordia divina alcance cada parte de la experiencia humana. Y todo el mensaje se viene abajo sin la Resurrección, que los apóstoles sostienen como un hecho, no como un mito.
 
 ## 3 · Texto de la Escritura (Biblia de Jerusalén)
 
@@ -28,9 +34,15 @@ Las Bienaventuranzas se pueden leer como lo contrario de los adoradores de Baal 
 
 ## 4 · Síntesis: el texto y su contexto
 
-Barron cierra el curso en el Sermón de la Montaña (Mateo 5-7), que trata, citando *Jesus and the Eyewitnesses* (Jesús y los testigos oculares) del experto en el Nuevo Testamento Richard Bauckham, como muy probablemente cercano a lo que Jesús enseñaba de costumbre, memorizado pronto por sus seguidores. El contexto importa: Jesús sube a un monte (eco del Sinaí; él es el nuevo Moisés) y se sienta a enseñar, la postura antigua de la autoridad, al revés de un salón de clases moderno.
+Barron cierra el curso en el Sermón de la Montaña (Mateo 5-7), que trata, citando *Jesus and the Eyewitnesses* (Jesús y los testigos oculares) del experto en el Nuevo Testamento Richard Bauckham, como muy probablemente cercano a lo que Jesús enseñaba de costumbre, memorizado pronto por sus seguidores.
 
-Barron lee las Bienaventuranzas con el fondo de los adoradores de Baal de la lección 4 y de los cuatro sustitutos de Dios según santo Tomás (riqueza, placer, poder, honores): cada Bienaventuranza «negativa» bendice la libertad de una de las cuatro adicciones, y cada Bienaventuranza «positiva» describe lo que corre cuando una persona ya es libre. Luego pasa al centro del sermón, el mandato de amar a los enemigos, como la prueba decisiva del amor verdadero, y lee los dichos de «poner la otra mejilla» como resistencia sin violencia y no como pasividad, con Gandhi, King, Tutu y Juan Pablo II como ejemplos modernos. Cierra todo el curso con el camino hacia abajo de la Encarnación hasta la cruz, el grito de abandono de Jesús, y la afirmación, que descansa por completo en la Resurrección, de que este hombre crucificado es el Mesías de Israel y el «Hijo de Dios», un título tomado a propósito del César.
+El contexto importa: Jesús sube a un monte (eco del Sinaí; él es el nuevo Moisés) y se sienta a enseñar, la postura antigua de la autoridad, al revés de un salón de clases moderno.
+
+Barron lee las Bienaventuranzas con el fondo de los adoradores de Baal de la lección 4 y de los cuatro sustitutos de Dios según santo Tomás (riqueza, placer, poder, honores): cada Bienaventuranza «negativa» bendice la libertad de una de las cuatro adicciones, y cada Bienaventuranza «positiva» describe lo que corre cuando una persona ya es libre.
+
+Luego pasa al centro del sermón, el mandato de amar a los enemigos, como la prueba decisiva del amor verdadero, y lee los dichos de «poner la otra mejilla» como resistencia sin violencia y no como pasividad, con Gandhi, King, Tutu y Juan Pablo II como ejemplos modernos.
+
+Cierra todo el curso con el camino hacia abajo de la Encarnación hasta la cruz, el grito de abandono de Jesús, y la afirmación, que descansa por completo en la Resurrección, de que este hombre crucificado es el Mesías de Israel y el «Hijo de Dios», un título tomado a propósito del César.
 
 ## 5 · El pasaje explicado, por partes
 
@@ -88,7 +100,7 @@ Barron lee las Bienaventuranzas con el fondo de los adoradores de Baal de la lec
 
 **3. La fe, la esperanza y la caridad como virtudes teologales, y solo la caridad permanece para siempre.** ✅ Escritura, 1 Corintios 13,13, verificada: «Ahora subsisten la fe, la esperanza y la caridad, estas tres. Pero la mayor de todas ellas es la caridad.» La Douay-Rheims traduce *agape* como «charity» (caridad) en todo el texto, de acuerdo con la terminología tradicional de la Iglesia (CIC 1812-1829 sobre las virtudes teologales).
 
-**4. «Se despojó de sí mismo… obedeciendo hasta la muerte y muerte de cruz» (Filipenses 2,7-8), la kénosis.** ✅ Escritura, verificada. Es un texto central de la cristología (cf. CIC 461-463 sobre la kénosis), aunque la lectura de Barron como un «camino hacia abajo» a toda forma de mal funcionamiento humano, que culmina en la muerte, es su propio desarrollo teológico del texto, no un dogma definido aparte.
+**4. «Se despojó de sí mismo… obedeciendo hasta la muerte y muerte de cruz» (Filipenses 2,7-8), la kénosis (en griego, «vaciarse de sí mismo»).** ✅ Escritura, verificada. Es un texto central de la cristología (cf. CIC 461-463 sobre la kénosis), aunque la lectura de Barron como un «camino hacia abajo» a toda forma de mal funcionamiento humano, que culmina en la muerte, es su propio desarrollo teológico del texto, no un dogma definido aparte.
 
 **5. «¡Dios mío, Dios mío! ¿por qué me has abandonado?» (Marcos 15,34), y la lectura de Chesterton.** ✅ La Escritura misma está verificada (cita el Salmo 22,2). La explicación de Chesterton, «el grito que confesaba que Dios fue abandonado por Dios», está verificada como palabras suyas en *Ortodoxia* (1908); es una meditación teológica impactante, no doctrina de la Iglesia en sí, y algunos teólogos leen el grito de otra manera, como la naturaleza humana de Cristo diciendo la primera línea de un salmo que termina en reivindicación y alabanza, y no como una ruptura dentro de Dios. Barron no resuelve esta tensión de forma explícita en la lección; los lectores deben tomar la frase de Chesterton como teología que evoca, no como doctrina establecida.
 
@@ -107,11 +119,15 @@ Barron lee las Bienaventuranzas con el fondo de los adoradores de Baal de la lec
 
 ## 9 · Por qué importa
 
-Esta lección completa el único hilo del curso: el culto correcto libera a la persona de la adicción a los bienes finitos, y esa libertad se vuelve, en concreto, amor, hasta el amor a los enemigos. La cruz muestra que este amor no tiene piso; llega hasta la traición, la injusticia y la muerte. Nada de esto importaría, insiste Barron, sin la Resurrección, y por eso la afirmación de los apóstoles no se ofrece como poesía sino como un hecho de testigos («nosotros que comimos y bebimos con él»). Todo el arco de las seis lecciones, desde el «Yo soy el que soy» en la zarza ardiente hasta el sepulcro vacío, depende de si este Dios, que no necesita nada y por eso solo puede amar, de verdad ha actuado en la historia.
+Esta lección completa el único hilo del curso: el culto correcto libera a la persona de la adicción a los bienes finitos, y esa libertad se vuelve, en concreto, amor, hasta el amor a los enemigos. La cruz muestra que este amor no tiene piso. Llega hasta la traición, la injusticia y la muerte. Nada de esto importaría, insiste Barron, sin la Resurrección, y por eso la afirmación de los apóstoles no se ofrece como poesía sino como un hecho de testigos («nosotros que comimos y bebimos con él»).
+
+Todo el arco de las seis lecciones, desde el «Yo soy el que soy» en la zarza ardiente hasta el sepulcro vacío, depende de si este Dios, que no necesita nada y por eso solo puede amar, de verdad ha actuado en la historia.
+
+**La idea de Barron en una línea: este amor no tiene piso, y sin la Resurrección nada de esto valdría la pena predicarse.**
 
 ## 10 · Temas abiertos
 
-- Esto cierra la serie GBH (6 de 6). Posible siguiente paso: una nota de síntesis que trace el único hilo (culto correcto → libertad → amor → cruz → resurrección) a través de las seis lecciones, parecida a la que se hizo para la serie de las Parábolas.
+- Esto cierra la serie (6 de 6). El único hilo a través de las seis lecciones: culto correcto → libertad → amor → cruz → resurrección.
 - Posible nota aparte: una mirada más cercana al debate de los expertos sobre el sentido del grito de abandono (Marcos 15,34), porque la lectura de Chesterton evoca mucho pero se discute entre los teólogos.
 - Diario de fe: en una semana, volver a ver cuál Bienaventuranza (pobres de espíritu, mansos, los que lloran, perseguidos) nombra tu propia adicción más activa entre la riqueza, el placer, el poder y los honores.
 

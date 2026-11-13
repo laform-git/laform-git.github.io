@@ -4,13 +4,17 @@
 
 ## 1 · Anchor
 
-**Enslavement follows bad worship; true freedom follows right worship, received as law, internalized until it becomes effortless.**
+**Bad worship ends in slavery. Right worship ends in freedom: the Law is received as a gift and practiced until doing good comes easily.**
 
 *One image to carry:* a golfer, rigid and awkward in a corrected stance, who is actually, for the first time, free to hit the ball well.
 
 ## 2 · Pocket Version (15-second re-read)
 
-When we worship something less than God, we become addicted to it, because only God can satisfy our infinite longing. Moses is sent to free Israel from Egypt so they can worship God, and worship is the very point of the liberation. Real freedom is not "freedom of indifference," the ability to choose anything. It is "freedom for excellence," the disciplined internalizing of the law until goodness becomes easy, the way practice makes a language or a golf swing effortless. The story also warns against half-measures with evil, and the story of Eli and his sons shows corruption going unaddressed inside the community of faith itself, with disaster as a result, until grace breaks in again through Hannah.
+When we worship something less than God, we become addicted to it, because only God can satisfy our infinite longing. Moses is sent to free Israel from Egypt so they can worship God, and worship is the very point of the liberation.
+
+Real freedom is not "freedom of indifference," the ability to choose anything. It is "freedom for excellence": practicing the law with discipline until goodness becomes easy, the way practice makes a language or a golf swing effortless.
+
+The story also warns against half-measures with evil. And Eli and his sons show what happens when corruption is left alone inside the community of faith itself. Disaster follows, until grace breaks in again through Hannah.
 
 ## 3 · Scripture text (Douay-Rheims)
 
@@ -24,7 +28,9 @@ When we worship something less than God, we become addicted to it, because only 
 
 ## 4 · Synthesis: Text and Setting
 
-Barron returns to Moses, already named by God at the burning bush, now sent on a mission: "Let my people go." He stresses that in the Bible no one receives an experience of God without being sent. Drawing on Origen of Alexandria, he reads the Exodus story spiritually: Israel enslaved in Egypt stands for everything good and creative in a person; Pharaoh stands for the addiction that has enslaved it. The full line is not just "let my people go" but "that they might worship me in the desert" (Exodus 5:1, 7:16, and recurring). Liberation and worship are inseparable.
+Barron returns to Moses, already named by God at the burning bush, now sent on a mission: "Let my people go." He stresses that in the Bible no one receives an experience of God without being sent.
+
+Drawing on Origen of Alexandria, he reads the Exodus story spiritually. Israel enslaved in Egypt stands for everything good and creative in a person. Pharaoh stands for the addiction that has enslaved it. The full line is not just "let my people go" but "that they might worship me in the desert" (Exodus 5:1, 7:16, and recurring). Liberation and worship are inseparable.
 
 The Red Sea crossing, the giving of the Law at Sinai, the battle with Amalek, and the later story of Eli's corrupt sons and Hannah's child Samuel all extend the same theme: liberty is tied to right worship, right worship is tied to the Law received as a gift, and the Law is tied to true freedom rather than restriction.
 
@@ -70,7 +76,7 @@ The Red Sea crossing, the giving of the Law at Sinai, the battle with Amalek, an
 
 **3. Conscience as "the aboriginal Vicar of Christ."** 🟢 Newman, Letter to the Duke of Norfolk, section 5, quoted in part at CCC 1778. Full line: "Conscience is not a long-sighted selfishness, nor a desire to be consistent with oneself; but it is a messenger from Him, Who, both in nature and grace, speaks to us behind a veil, and teaches and rules us by His representatives. Conscience is the aboriginal Vicar of Christ." This is Newman's own theological formulation, received with high respect, not a conciliar dogma.
 
-**4. The command to "put the ban" on Amalek (1 Samuel 15).** 🟡 A historically and morally difficult text. The Church does not read this as a standing permission for such warfare; the mainstream patristic approach, which Barron follows via Origen, reads it typologically, as the uncompromising rejection of sin rather than a literal model for conduct. This spiritual reading does not resolve the historical-moral difficulty of the text itself, which remains debated among scholars and theologians.
+**4. The command to "put the ban" on Amalek (1 Samuel 15).** 🟡 A historically and morally difficult text. The Church does not read this as a standing permission for such warfare; the mainstream patristic approach, which Barron follows via Origen, reads it typologically (as a picture of something spiritual), as the uncompromising rejection of sin rather than a literal model for conduct. This spiritual reading does not resolve the historical-moral difficulty of the text itself, which remains debated among scholars and theologians.
 
 **5. No one receives an experience of God without a mission.** 🟡 A recurring pattern Barron draws from the text (Moses, Isaiah, the apostles) rather than a single defined dogma, though it coheres with the Church's teaching on the universal call to mission (cf. Lumen Gentium 33).
 
@@ -83,12 +89,14 @@ The Red Sea crossing, the giving of the Law at Sinai, the battle with Amalek, an
 
 ## 9 · Why This Matters
 
-The passage reframes two things people often get backward: freedom and law. If freedom is only the absence of constraint, discipline looks like oppression. If freedom is the capacity to do the good well and without struggle, discipline is how you get there. The Eli narrative also matters for institutional life: naming a wrong without acting on it is not enough, and the cost of delay compounds.
+The passage reframes two things people often get backward: freedom and law. If freedom is only the absence of constraint, discipline looks like oppression. If freedom is the capacity to do the good well and without struggle, discipline is how you get there. The Eli narrative also matters for institutional life: naming a wrong without acting on it is not enough, and the cost of delay keeps growing.
+
+**Barron's point in one line: the Law is not a cage. It is the practice that makes you free.**
 
 ## 10 · Open Threads
 
 - Lecture 4 moves to King David as priest, prophet and king, and to Isaiah's call narrative.
-- Possible side note: Pinckaers's three stages toward freedom for excellence, mentioned in passing in a secondary source found during verification, not detailed by Barron here.
+- Possible side note: Pinckaers's three stages toward freedom for excellence, which Barron does not detail here.
 - Faith Journal: in a week, name one "Agag" you have only partly dealt with.
 
 **Socratic question:** If freedom is internalizing a good pattern until it becomes effortless, what pattern am I currently refusing to practice?

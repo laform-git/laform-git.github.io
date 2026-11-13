@@ -4,13 +4,19 @@
 
 ## 1 · Anchor
 
-**The Beatitudes name the cure for addiction to wealth, pleasure, power and honor; enemy-love is the proof that God's own life has entered us; and the cross is God going all the way down into death itself, which only the Resurrection could ever justify preaching.**
+**The Beatitudes name the cure for addiction to wealth, pleasure, power and honor. Love of enemies is the proof that God's own life has entered us. And the cross is God going all the way down into death itself, a message only the Resurrection could ever justify preaching.**
 
 *One image to carry:* a coal from the altar, not to burn away, but to cleanse and send.
 
 ## 2 · Pocket Version (15-second re-read)
 
-The Beatitudes can be read as the opposite of the Baal-worshippers hopping around their altars: "blessed are the poor in spirit" if wealth is your addiction, "blessed are the meek" if power is, "blessed are those who mourn" if pleasure is, "blessed are you when persecuted" if honor is. Freed from those addictions, mercy flows through you, which is what the positive Beatitudes describe. The hardest test of love is loving enemies, because it proves God's own kind of love, which asks nothing back, has entered you. Turning the other cheek and giving the second garment are not passivity but a provocative, nonviolent refusal to cooperate with evil, as Gandhi, King, Tutu and John Paul II lived out. Jesus goes all the way down, into betrayal, injustice, torture and death, so that divine mercy can reach every part of human experience; and the whole message collapses without the Resurrection, which the apostles insist on as a fact, not a myth.
+The Beatitudes can be read as the opposite of the Baal-worshippers hopping around their altars: "blessed are the poor in spirit" if wealth is your addiction, "blessed are the meek" if power is, "blessed are those who mourn" if pleasure is, "blessed are you when persecuted" if honor is.
+
+Freed from those addictions, mercy flows through you, which is what the positive Beatitudes describe. The hardest test of love is loving enemies, because it proves God's own kind of love, which asks nothing back, has entered you.
+
+Turning the other cheek and giving the second garment are not passivity but a provocative, nonviolent refusal to cooperate with evil, as Gandhi, King, Tutu and John Paul II lived out.
+
+Jesus goes all the way down, into betrayal, injustice, torture and death, so that divine mercy can reach every part of human experience. And the whole message collapses without the Resurrection, which the apostles insist on as a fact, not a myth.
 
 ## 3 · Scripture text (Douay-Rheims)
 
@@ -28,9 +34,15 @@ The Beatitudes can be read as the opposite of the Baal-worshippers hopping aroun
 
 ## 4 · Synthesis: Text and Setting
 
-Barron closes the course at the Sermon on the Mount (Matthew 5-7), which he treats, citing the New Testament scholar Richard Bauckham's Jesus and the Eyewitnesses, as very likely close to Jesus's own habitual teaching, memorized early by his followers. The setting matters: Jesus goes up a mountain (echoing Sinai; he is the new Moses) and sits to teach, the ancient posture of authority, the reverse of a modern lecture hall.
+Barron closes the course at the Sermon on the Mount (Matthew 5-7), which he treats, citing the New Testament scholar Richard Bauckham's Jesus and the Eyewitnesses, as very likely close to Jesus's own habitual teaching, memorized early by his followers.
 
-Barron reads the Beatitudes against the backdrop of lecture 4's Baal-worshippers and Aquinas's four substitutes for God (wealth, pleasure, power, honor): each "negative" Beatitude blesses freedom from one of the four addictions, and each "positive" Beatitude describes what flows once a person is free. He then turns to the sermon's rhetorical center, the command to love enemies, as the decisive test of real love, and reads the "turn the other cheek" sayings as nonviolent resistance rather than passivity, with Gandhi, King, Tutu and John Paul II as modern exemplars. He closes the whole course with the downward trajectory of the Incarnation into the cross, Jesus's cry of abandonment, and the claim, resting entirely on the Resurrection, that this crucified man is Israel's Messiah and "Son of God," a title deliberately taken from Caesar.
+The setting matters: Jesus goes up a mountain (echoing Sinai; he is the new Moses) and sits to teach, the ancient posture of authority, the reverse of a modern lecture hall.
+
+Barron reads the Beatitudes against the backdrop of lecture 4's Baal-worshippers and Aquinas's four substitutes for God (wealth, pleasure, power, honor): each "negative" Beatitude blesses freedom from one of the four addictions, and each "positive" Beatitude describes what flows once a person is free.
+
+He then turns to the sermon's rhetorical center, the command to love enemies, as the decisive test of real love, and reads the "turn the other cheek" sayings as nonviolent resistance rather than passivity, with Gandhi, King, Tutu and John Paul II as modern examples.
+
+He closes the whole course with the downward trajectory of the Incarnation into the cross, Jesus's cry of abandonment, and the claim, resting entirely on the Resurrection, that this crucified man is Israel's Messiah and "Son of God," a title deliberately taken from Caesar.
 
 ## 5 · The Passage Explained, by Beat
 
@@ -70,7 +82,7 @@ Barron reads the Beatitudes against the backdrop of lecture 4's Baal-worshippers
 
 🕯 **Reflect:** Is there a part of my own suffering I have assumed is too dark for God to be present in?
 
-**Beat 10 — The cry of dereliction and the Resurrection as the only adequate explanation.** "My God, my God, why hast thou forsaken me?" (Mark 15:34, quoting Psalm 22) is read, via Chesterton, as God himself entering the experience of abandonment by God. Barron argues that a crucified man claiming to be Messiah is not a plausible myth (unlike Hercules, no one dates a myth to a named Roman governor); only the apostles' insistence on having "eaten and drunk with him" after the Resurrection explains the emergence of the Church and its willingness to die for this claim.
+**Beat 10 — The cry of dereliction (abandonment) and the Resurrection as the only adequate explanation.** "My God, my God, why hast thou forsaken me?" (Mark 15:34, quoting Psalm 22) is read, via Chesterton, as God himself entering the experience of abandonment by God. Barron argues that a crucified man claiming to be Messiah is not a plausible myth (unlike Hercules, no one dates a myth to a named Roman governor); only the apostles' insistence on having "eaten and drunk with him" after the Resurrection explains the emergence of the Church and its willingness to die for this claim.
 
 🕯 **Reflect:** What difference would it make to my daily life if I treated the Resurrection as a historical claim requiring a real verdict, rather than a comforting symbol?
 
@@ -88,7 +100,7 @@ Barron reads the Beatitudes against the backdrop of lecture 4's Baal-worshippers
 
 **3. Faith, hope, and love as the theological virtues, with love alone abiding eternally.** ✅ Scripture, 1 Corinthians 13:13, verified: "And now there remain faith, hope, and charity, these three: but the greatest of these is charity." The Douay-Rheims renders agape as "charity" throughout, consistent with the Church's traditional terminology (CCC 1812-1829 on the theological virtues).
 
-**4. "He emptied himself... obedient unto death, even to the death of the cross" (Philippians 2:7-8), the kenosis.** ✅ Scripture, verified. This is a central Christological text (cf. CCC 461-463 on kenosis), though Barron's reading of it as a "downward trajectory" into every form of human dysfunction, culminating in death, is his own theological development of the text, not a separate defined dogma.
+**4. "He emptied himself... obedient unto death, even to the death of the cross" (Philippians 2:7-8), the kenosis (Greek for "self-emptying").** ✅ Scripture, verified. This is a central Christological text (cf. CCC 461-463 on kenosis), though Barron's reading of it as a "downward trajectory" into every form of human dysfunction, culminating in death, is his own theological development of the text, not a separate defined dogma.
 
 **5. "My God, my God, why hast thou forsaken me" (Mark 15:34), and Chesterton's reading of it.** ✅ The Scripture itself is verified (quoting Psalm 22:1). Chesterton's gloss, "the cry which confessed that God was forsaken of God," is verified as his own words in Orthodoxy (1908); it is a striking theological meditation, not itself Church doctrine, and some theologians read the cry differently, as the human nature of Christ voicing the opening line of a psalm that ends in vindication and praise, rather than as a rupture within the Godhead. Barron does not resolve this tension explicitly in the lecture; readers should hold Chesterton's line as evocative theology, not settled doctrine.
 
@@ -107,11 +119,15 @@ Barron reads the Beatitudes against the backdrop of lecture 4's Baal-worshippers
 
 ## 9 · Why This Matters
 
-This lecture completes the course's single thread: right worship frees a person from addiction to finite goods, and that freedom becomes, concretely, love, up to and including love of enemies. The cross shows this love has no floor; it goes all the way into betrayal, injustice and death. None of it would matter, Barron insists, without the Resurrection, which is why the apostles' claim is not offered as poetry but as eyewitness fact ("we who ate and drank with him"). The entire six-lecture arc, from "I AM WHO AM" at the burning bush to the empty tomb, turns on whether this God, who needs nothing and therefore can only love, has in fact acted in history.
+This lecture completes the course's single thread: right worship frees a person from addiction to finite goods, and that freedom becomes, concretely, love, up to and including love of enemies. The cross shows this love has no floor. It goes all the way into betrayal, injustice and death. None of it would matter, Barron insists, without the Resurrection, which is why the apostles' claim is not offered as poetry but as eyewitness fact ("we who ate and drank with him").
+
+The entire six-lecture arc, from "I AM WHO AM" at the burning bush to the empty tomb, turns on whether this God, who needs nothing and therefore can only love, has in fact acted in history.
+
+**Barron's point in one line: this love has no floor, and without the Resurrection none of it would be worth preaching.**
 
 ## 10 · Open Threads
 
-- This closes the GBH series (6 of 6). Possible next step: a synthesis note drawing the single thread (right worship → freedom → love → cross → resurrection) across all six lectures, similar to what was done for the Parables series.
+- This closes the series (6 of 6). The single thread across all six lectures: right worship → freedom → love → cross → resurrection.
 - Possible side note: a closer look at the scholarly debate on the meaning of the cry of dereliction (Mark 15:34), since Chesterton's reading is evocative but contested among theologians.
 - Faith Journal: in a week, revisit which Beatitude (poor in spirit, meek, mourning, persecuted) names your own most active addiction among wealth, pleasure, power and honor.
 

@@ -4,13 +4,15 @@
 
 ## 1 · Ancla
 
-**David es cantor, guerrero y sacerdote a la vez, y anuncia de antemano a Cristo; y nadie se encuentra con Dios en la Biblia sin el mismo ritmo: gracia recibida, pecado reconocido, misión dada.**
+**David es cantor, guerrero y sacerdote a la vez, y así anuncia de antemano a Cristo. Y nadie en la Biblia se encuentra con Dios sin los mismos tres pasos: gracia recibida, pecado reconocido, misión dada.**
 
 *Una imagen para llevar:* David, sin armadura, bailando ante el Arca con una vestidura de sacerdote.
 
 ## 2 · Versión de bolsillo (para releer en 15 segundos)
 
-David dirige como dulce cantor, guerrero y sacerdote, y anuncia de antemano a Jesús como profeta, rey y sumo sacerdote. Su pecado con Betsabé muestra lo que pasa cuando deja de escuchar a Dios y empieza a portarse como Dios. El duelo de Elías en el Carmelo muestra que los dioses falsos nunca responden, porque solo el Dios verdadero puede llenar el anhelo infinito del corazón. El llamado de Isaías y el llamado de Pedro en Lucas 5 comparten el mismo patrón de tres pasos: la gracia que irrumpe sin que nadie la pida, el reconocimiento honesto del pecado, y luego una misión: «tu vida no se trata de ti».
+David dirige como dulce cantor, guerrero y sacerdote, y anuncia de antemano a Jesús como profeta, rey y sumo sacerdote. Su pecado con Betsabé muestra lo que pasa cuando deja de escuchar a Dios y empieza a portarse como Dios. El duelo de Elías en el Carmelo muestra que los dioses falsos nunca responden, porque solo el Dios verdadero puede llenar el anhelo infinito del corazón.
+
+El llamado de Isaías y el llamado de Pedro en Lucas 5 comparten el mismo patrón de tres pasos: la gracia que irrumpe sin que nadie la pida, el reconocimiento honesto del pecado, y luego una misión: «tu vida no se trata de ti».
 
 ## 3 · Texto de la Escritura (Biblia de Jerusalén)
 
@@ -24,7 +26,11 @@ David dirige como dulce cantor, guerrero y sacerdote, y anuncia de antemano a Je
 
 ## 4 · Síntesis: el texto y su contexto
 
-Barron trata a David como el eje de todo el Antiguo Testamento, que mira hacia atrás a Adán como una especie de rey y hacia adelante a Jesús, «hijo de David». Organiza la vida de David alrededor de los tres oficios bíblicos: profeta (David el cantor, que mueve a la gente con el lenguaje, como después lo harían Lincoln, Churchill y Martin Luther King), rey (David el guerrero contra Goliat, que pelea «desnudo», confiando solo en Dios) y sacerdote (David bailando ante el Arca, poniendo el culto correcto en el centro de la nación). El episodio de Betsabé (2 Samuel 11) muestra a David fallando justo cuando se queda en casa en vez de ir a la batalla y deja de escuchar a Dios.
+Barron trata a David como el eje de todo el Antiguo Testamento, que mira hacia atrás a Adán como una especie de rey y hacia adelante a Jesús, «hijo de David».
+
+Organiza la vida de David alrededor de los tres oficios bíblicos: profeta (David el cantor, que mueve a la gente con el lenguaje, como después lo harían Lincoln, Churchill y Martin Luther King), rey (David el guerrero contra Goliat, que pelea «desnudo», confiando solo en Dios) y sacerdote (David bailando ante el Arca, poniendo el culto correcto en el centro de la nación).
+
+El episodio de Betsabé (2 Samuel 11) muestra a David fallando justo cuando se queda en casa en vez de ir a la batalla y deja de escuchar a Dios.
 
 De ahí Barron pasa al duelo de Elías con los profetas de Baal en el monte Carmelo (1 Reyes 18, en la Douay 3 Reyes 18), y lo usa para mostrar que el falso culto nunca responde, por más esfuerzo, o incluso daño a uno mismo, que se le ponga. Cierra con el llamado profético de Isaías (Isaías 6) y su paralelo en el Nuevo Testamento, el llamado de Simón Pedro (Lucas 5), para establecer un patrón de tres pasos que se repite en la vida espiritual: gracia, pecado reconocido y misión.
 
@@ -62,7 +68,7 @@ De ahí Barron pasa al duelo de Elías con los profetas de Baal en el monte Carm
 
 ## 7 · Doctrina (con etiquetas de evidencia)
 
-**1. David como cantor, guerrero y sacerdote, que anuncia de antemano a Cristo como profeta, rey y sacerdote.** 🟡 Una lectura figurativa de mucha tradición (de origen en los Padres, usada por Barron como su propia síntesis), no un solo dogma definido, aunque la enseñanza de la Iglesia sobre el triple oficio de Cristo (CIC 783-786, munus triplex) sí es enseñanza solemne, con raíz en Lumen gentium 31 y en la tradición anterior.
+**1. David como cantor, guerrero y sacerdote, que anuncia de antemano a Cristo como profeta, rey y sacerdote.** 🟡 Una lectura figurativa de mucha tradición (de origen en los Padres, usada por Barron como su propia síntesis), no un solo dogma definido, aunque la enseñanza de la Iglesia sobre el triple oficio de Cristo (CIC 783-786, munus triplex, «triple oficio» en latín) sí es enseñanza solemne, con raíz en Lumen gentium 31 y en la tradición anterior.
 
 **2. «Santo, santo, santo, Yahveh Sebaot: llena está toda la tierra de su gloria» (Isaías 6,3).** ✅ Escritura, verificada. Este texto es también la fuente directa del Santo que se canta en cada misa.
 
@@ -83,7 +89,11 @@ De ahí Barron pasa al duelo de Elías con los profetas de Baal en el monte Carm
 
 ## 9 · Por qué importa
 
-Los tres oficios de David y el patrón de tres pasos en los relatos de llamado describen un solo ritmo: el culto (la relación correcta con Dios) es la base de la acción correcta y del liderazgo correcto; y todo encuentro auténtico con Dios lleva a la persona de una gracia que no se ganó, pasando por un conocimiento honesto de sí misma, hasta la misión. No se puede saltar ninguna etapa: una misión sin conocerse con honestidad es presunción, y conocerse sin misión se agria hasta la desesperación.
+Los tres oficios de David y el patrón de tres pasos en los relatos de llamado describen un solo ritmo. El culto (la relación correcta con Dios) es la base de la acción correcta y del liderazgo correcto. Y todo encuentro auténtico con Dios lleva a la persona de una gracia que no se ganó, pasando por un conocimiento honesto de sí misma, hasta la misión.
+
+No se puede saltar ninguna etapa. Una misión sin conocerse con honestidad es presunción, y conocerse sin misión se agria hasta la desesperación.
+
+**La frase de Barron para toda la lección: «tu vida no se trata de ti».**
 
 ## 10 · Temas abiertos
 

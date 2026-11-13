@@ -10,7 +10,9 @@
 
 ## 2 · Versión de bolsillo (para releer en 15 segundos)
 
-Dios no crea por necesidad; no tiene necesidades. Como no necesita nada, solo puede querer nuestro bien, que es lo que es el amor. El Génesis muestra la creación como una procesión ordenada y pacífica, sin violencia, que termina en el ser humano, que está hecho para dirigir todas las cosas en la alabanza. Cuando damos culto como se debe, nuestra vida se integra, como un rosetón. Cuando en lugar de eso adoramos algo menor que Dios, la riqueza, el placer, el poder o los honores, nos desintegramos.
+Dios no crea por necesidad. No tiene necesidades. Como no necesita nada, solo puede querer nuestro bien, que es lo que es el amor. El Génesis muestra la creación como una procesión ordenada y pacífica, sin violencia, que termina en el ser humano, que está hecho para dirigir todas las cosas en la alabanza.
+
+Cuando damos culto como se debe, nuestra vida se une en un todo, como un rosetón. Cuando en lugar de eso adoramos algo menor que Dios, la riqueza, el placer, el poder o los honores, nos deshacemos.
 
 ## 3 · Texto de la Escritura (Biblia de Jerusalén)
 
@@ -22,7 +24,7 @@ Dios no crea por necesidad; no tiene necesidades. Como no necesita nada, solo pu
 
 ## 4 · Síntesis: el texto y su contexto
 
-La lección 1 dejó claro que Dios es Ipsum Esse, el ser mismo, que no necesita nada. Barron abre la lección 2 con la pregunta que eso plantea: si a Dios no le falta nada, ¿para qué crear? La respuesta equivocada de siempre es que Dios crea por necesidad. La respuesta católica es la contraria: como Dios no necesita nada, es libre de amar con pureza, porque amar es querer el bien del otro en cuanto otro, no usar al otro para uno mismo.
+La lección 1 dejó claro que Dios es Ipsum Esse, el ser mismo, que no necesita nada. Barron abre la lección 2 con la pregunta que eso plantea: si a Dios no le falta nada, ¿para qué crear? La respuesta equivocada de siempre es que Dios crea por necesidad. La respuesta católica es la contraria. Como Dios no necesita nada, es libre de amar con pureza. Amar es querer el bien del otro en cuanto otro, no usar al otro para uno mismo.
 
 Barron lee el Génesis 1 como una procesión litúrgica. Cada elemento del cosmos, el cielo, el mar, el sol, los animales, sale de Dios en orden, y de cada uno se dice que es bueno, pero nunca que es Dios. El ser humano se crea al final, como el que dirige la procesión en el culto, como un obispo o un sacerdote que entra al final en la misa. Las cosas que el mundo antiguo adoraba, el cielo, el mar, los animales, se nombran aquí justo para que Israel no las adore.
 
@@ -36,7 +38,7 @@ Barron lee el Génesis 1 como una procesión litúrgica. Cada elemento del cosmo
 
 🕯 **Reflexiona:** ¿En qué parte de mi vida doy por hecho que hace falta la fuerza o el control para arreglar las cosas?
 
-**Parte 3 — El tohu wa-bohu.** El «caos y confusión» y las aguas revueltas representan, a lo largo de toda la Biblia, la resistencia a Dios: el diluvio, el mar Rojo, la tormenta sobre la que camina Jesús. Dios es Señor sobre todo eso desde el primer versículo.
+**Parte 3 — El tohu wa-bohu (en hebreo, «sin forma y vacío»).** El «caos y confusión» y las aguas revueltas representan, a lo largo de toda la Biblia, la resistencia a Dios: el diluvio, el mar Rojo, la tormenta sobre la que camina Jesús. Dios es Señor sobre todo eso desde el primer versículo.
 
 🕯 **Reflexiona:** ¿Qué se siente como caos en mi vida ahora mismo que todavía no le he entregado al señorío de Dios?
 
@@ -79,7 +81,9 @@ Barron lee el Génesis 1 como una procesión litúrgica. Cada elemento del cosmo
 
 ## 9 · Por qué importa
 
-Si la creación es regalo y no necesidad, entonces mi existencia no se me debe, y no me la gano. La respuesta adecuada a un regalo es la gratitud hecha alabanza, no la posesión. El culto desordenado, hacer de la riqueza, el placer, el poder o los honores el bien más alto, no es solo una falla moral; Barron lo presenta como un error sobre la realidad misma con consecuencias reales: la desintegración de uno mismo y la discordia a su alrededor.
+Si la creación es regalo y no necesidad, entonces mi existencia no se me debe, y no me la gano. La respuesta adecuada a un regalo es la gratitud hecha alabanza, no la posesión. El culto desordenado, hacer de la riqueza, el placer, el poder o los honores el bien más alto, no es solo una falla moral. Barron lo presenta como un error sobre la realidad misma, con consecuencias reales: uno mismo se deshace, y la discordia se extiende alrededor.
+
+**La idea de Barron en una línea: no hacías falta. Fuiste querido.**
 
 ## 10 · Temas abiertos
 

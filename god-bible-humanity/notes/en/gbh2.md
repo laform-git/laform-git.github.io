@@ -10,7 +10,9 @@
 
 ## 2 · Pocket Version (15-second re-read)
 
-God does not create out of need; he has no need. Because he needs nothing, he can only will our good, which is what love is. Genesis shows creation as an ordered, peaceful procession, with no violence, ending in the human being, who is meant to lead all things in praise. When we worship rightly, our life becomes integrated, like a rose window. When we worship something less than God instead, wealth, pleasure, power or honor, we disintegrate.
+God does not create out of need. He has no need. Because he needs nothing, he can only will our good, which is what love is. Genesis shows creation as an ordered, peaceful procession, with no violence, ending in the human being, who is meant to lead all things in praise.
+
+When we worship rightly, our life comes together into one whole, like a rose window. When we worship something less than God instead, wealth, pleasure, power or honor, we come apart.
 
 ## 3 · Scripture text (Douay-Rheims)
 
@@ -22,7 +24,7 @@ God does not create out of need; he has no need. Because he needs nothing, he ca
 
 ## 4 · Synthesis: Text and Setting
 
-Lecture 1 established that God is Ipsum Esse, being itself, who needs nothing. Barron opens lecture 2 with the question this raises: if God lacks nothing, why create at all? The common wrong answer is that God creates out of need. The Catholic answer is the opposite: because God needs nothing, he is free to love purely, since love means willing the good of the other as other, not using the other for oneself.
+Lecture 1 established that God is Ipsum Esse, being itself, who needs nothing. Barron opens lecture 2 with the question this raises: if God lacks nothing, why create at all? The common wrong answer is that God creates out of need. The Catholic answer is the opposite. Because God needs nothing, he is free to love purely. Love means willing the good of the other as other, not using the other for oneself.
 
 Genesis 1 is read as a liturgical procession. Each element of the cosmos, sky, sea, sun, animals, comes forth from God in order, each one called good but never called God. The human being is created last, as the one who leads the procession in worship, the way a bishop or priest enters last at Mass. The things the ancient world worshiped, sky, sea, animals, are named here precisely so that Israel will not worship them.
 
@@ -36,7 +38,7 @@ Genesis 1 is read as a liturgical procession. Each element of the cosmos, sky, s
 
 🕯 **Reflect:** Where in my life do I assume force or control is needed to set things right?
 
-**Beat 3 — The tohu wa-bohu.** The "formless void" and watery chaos stands, through the whole Bible, for resistance to God: the flood, the Red Sea, the storm Jesus walks on. God has lordship over it from the first verse.
+**Beat 3 — The tohu wa-bohu (Hebrew for "formless and empty").** The "formless void" and watery chaos stands, through the whole Bible, for resistance to God: the flood, the Red Sea, the storm Jesus walks on. God has lordship over it from the first verse.
 
 🕯 **Reflect:** What feels like chaos in my life right now that I have not yet handed to God's lordship?
 
@@ -62,9 +64,9 @@ Genesis 1 is read as a liturgical procession. Each element of the cosmos, sky, s
 
 **2. Love is to will the good of the other as other.** 🟢 A classical definition (rooted in Aquinas, ST I-II q.26 a.4, "to love is to will good to someone"), which Barron uses to distinguish real love from self-interested kindness.
 
-**3. Creation is non-violent, out of nothing, by the Word.** ✅ Dogma (Fourth Lateran Council, 1215; Genesis 1). No rival power is defeated to make the world, unlike the pagan cosmogonies.
+**3. Creation is non-violent, out of nothing, by the Word.** ✅ Dogma (Fourth Lateran Council, 1215; Genesis 1). No rival power is defeated to make the world, unlike the pagan creation stories.
 
-**4. The human person is made to lead creation in praise, not to dominate it.** 🟢 Consistent with Genesis 1:28 read alongside Genesis 2:15 ("to dress and keep" the garden) and the Church's teaching against exploitative dominion (e.g., Laudato Si' §67, which reads "dominion" as responsible stewardship, not domination). Barron's claim that creation is meant to be "led in praise" by humanity is his own synthesis of this material, not a verbatim conciliar formula.
+**4. The human person is made to lead creation in praise, not to dominate it.** 🟢 Consistent with Genesis 1:28 read alongside Genesis 2:15 ("to dress and keep" the garden) and the Church's teaching against exploitative dominion (e.g., Laudato Si' §67, which reads "dominion" as responsible stewardship, not domination). Barron's claim that creation is meant to be "led in praise" by humanity is his own synthesis of this material, not a word-for-word formula from a council.
 
 **5. "Our heart is restless until it rests in you."** 🟢 Augustine, Confessions I.1.1, Latin verified: "quia fecisti nos ad te et inquietum est cor nostrum donec requiescat in te." Barron does not quote this directly in this lecture, but it underlies his claim that finite goods cannot satisfy the heart's longing; it is quoted directly in lecture 4 and is placed here as the classic statement of the same principle at work in the false-worship material.
 
@@ -79,7 +81,9 @@ Genesis 1 is read as a liturgical procession. Each element of the cosmos, sky, s
 
 ## 9 · Why This Matters
 
-If creation is gift rather than necessity, then my existence is not owed to me, and is not earned. The proper response to a gift is gratitude expressed as praise, not possession. Disordered worship, making wealth, pleasure, power or honor into one's highest good, is not merely a moral lapse; Barron frames it as a metaphysical mistake with real consequences: disintegration of the self and discord around it.
+If creation is gift rather than necessity, then my existence is not owed to me, and is not earned. The proper response to a gift is gratitude expressed as praise, not possession. Disordered worship, making wealth, pleasure, power or honor into one's highest good, is not only a moral lapse. Barron frames it as a mistake about reality itself (a metaphysical mistake), with real consequences: the self comes apart, and discord spreads around it.
+
+**Barron's point in one line: you were not needed. You were wanted.**
 
 ## 10 · Open Threads
 
