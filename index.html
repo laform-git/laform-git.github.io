@@ -58,6 +58,42 @@ html:root .sec .banner,html:root[data-skin] .sec .banner{background:linear-gradi
 .site{border:1.5px solid var(--rule)!important;border-radius:16px!important;box-shadow:var(--lift)!important}
 .site .etile{border-color:var(--rule)!important;border-radius:14px!important}
 </style>
+<!--home-book-261112--><link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet"><style id="home-book">html:root[data-skin="things"]{--bg:#fbf8f3;--surface:#fffdf9;--rule:#e9dfd3}html:root[data-skin="things"] body{background:#fbf8f3!important}
+html:root[data-skin] .brand{background:none!important;box-shadow:none!important;border:0!important;padding:18px 2px 10px!important;margin:0!important;gap:14px!important;align-items:center!important}
+html:root[data-skin] .brand img{width:64px!important;height:64px!important;border-radius:16px!important;padding:6px!important}
+html:root[data-skin] .brand .eyebrow{font:600 10.5px/1.3 var(--display)!important;letter-spacing:.14em!important}
+html:root[data-skin] .brand .eyebrow::before{display:none!important}
+html:root[data-skin] .brand h1{font:700 34px/1.05 "Literata",Georgia,serif!important;margin:2px 0 0!important}
+html:root[data-skin] .brand .wel{font:400 15px/1.4 "Literata",Georgia,serif!important;margin:4px 0 0!important}
+html:root[data-skin] .ctlrow{margin:6px 0 10px!important;gap:8px!important}
+html:root[data-skin] .ctlrow button{font-size:13px!important;min-height:34px!important;padding:6px 12px!important}
+html:root[data-skin] #libq{min-height:44px!important;font-size:16px!important;border-radius:12px!important}
+/* chips: one slim scrolling row */
+html:root[data-skin] .chips{display:flex!important;gap:8px!important;overflow-x:auto!important;margin:12px -16px 4px!important;padding:2px 16px 6px!important;grid-template-columns:none!important}
+html:root[data-skin] .chips a{flex:0 0 auto!important;height:36px!important;min-height:36px!important;padding:0 16px!important;font:700 14px/36px var(--display)!important;letter-spacing:.02em!important;text-transform:none!important;border-radius:999px!important;background:var(--surface)!important;color:var(--c,#8b1a1a)!important;border:1.5px solid var(--c,#8b1a1a)!important;box-shadow:none!important;grid-column:auto!important}
+html:root[data-skin] .chips a.on{background:var(--c,#8b1a1a)!important;color:#fff!important}
+/* section heading: text, not banner */
+html:root[data-skin] .sec{margin-top:26px!important}
+html:root[data-skin] #sections .sec .banner{background:none!important;background-image:none!important;box-shadow:none!important;border-radius:0!important;padding:0 0 8px!important;min-height:0!important;border-bottom:2px solid var(--sc)!important;margin-bottom:0!important}
+html:root[data-skin] #sections .sec .banner .secname{color:var(--sc)!important;font:700 26px/1.1 "Literata",Georgia,serif!important;text-transform:none!important;letter-spacing:0!important}
+html:root[data-skin] #sections .sec .banner small{color:var(--muted)!important}
+html:root[data-skin] #sections .sec .banner .shr{color:var(--sc)!important}
+/* series as rows */
+html:root[data-skin] .grid{gap:0!important;display:block!important}
+html:root[data-skin] .site{background:none!important;border:0!important;border-bottom:1px solid var(--rule)!important;border-radius:0!important;box-shadow:none!important;padding:14px 2px!important;gap:14px!important;align-items:center!important}
+html:root[data-skin] .site .etile{width:46px!important;height:46px!important;border-radius:12px!important;flex:0 0 46px!important}
+html:root[data-skin] .site .etile svg{width:28px!important;height:28px!important}
+html:root[data-skin] .site .l{font:600 10px/1.2 var(--display)!important;letter-spacing:.12em!important}
+html:root[data-skin] .site .t{font:700 19px/1.2 "Literata",Georgia,serif!important}
+html:root[data-skin] .site .s{font:400 14.5px/1.35 "Literata",Georgia,serif!important;-webkit-line-clamp:2!important}
+html:root[data-skin] .site .u{display:none!important}
+html:root[data-skin] .site::after{content:"›";color:var(--sc,#8b1a1a);font:400 26px/1 system-ui;margin-left:auto;padding-left:6px}
+html:root[data-skin="thingsdark"] #sections .sec .banner .secname,html:root[data-skin="thingsdark"] #sections .sec .banner .shr{color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
+html:root[data-skin="thingsdark"] #sections .sec .banner{border-bottom-color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
+html:root[data-skin="thingsdark"] .chips a{color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;border-color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important}
+html:root[data-skin="thingsdark"] .chips a.on{background:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;color:#1c1d1f!important}
+html:root[data-skin="thingsdark"] .site::after{color:var(--accent)}
+</style>
 <!--reader--><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
 <style>:root{--body:"Atkinson Hyperlegible",-apple-system,"Segoe UI",system-ui,sans-serif}body{font-family:var(--body);font-size:19px;line-height:1.6}article.note{font-size:19px}article.note li{margin:6px 0}.site .s,.course .s,.chcard .s,.seccard p{font-size:17px}</style>
 <div class="fsctl" role="group" aria-label="Reading tools"><button type="button" class="tts" aria-label="Read this page aloud">▶ Listen</button><button type="button" class="scr" aria-label="Auto-scroll: off">⇣ Scroll</button><select class="vsel" aria-label="Voice"><option value="">Voice</option></select><button type="button" data-d="-1" aria-label="Smaller text">A−</button><button type="button" data-d="1" aria-label="Larger text">A+</button></div>
@@ -99,41 +135,39 @@ function set(k){cur=k;r.setAttribute("data-skin",k);r.setAttribute("data-theme",
 b.addEventListener("click",function(){set(cur==="things"?"thingsdark":"things");if(window.__skinChanged)window.__skinChanged()});window.addEventListener("hashchange",function(){setTimeout(lab,0)});window.__skinLab=lab;
 var w=document.querySelector(".wrap"),row=document.querySelector(".ctlrow");if(row)row.appendChild(bar);else (w?w.parentNode:document.body).insertBefore(bar,w||document.body.firstChild);var k="things";try{k=localStorage.getItem("skin")||k}catch(e){}if(!M[k])k="things";set(k);if(window.__placeSkin)window.__placeSkin()})();</script>
 <style>.skinbar .onetap{font:800 14px/1 var(--display,system-ui);cursor:pointer;border:1.5px solid var(--accent);background:var(--surface);color:var(--accent);border-radius:999px;padding:9px 14px;min-height:38px;white-space:nowrap;touch-action:manipulation}.skinbar .onetap:hover{background:var(--accent-soft,var(--surface))}</style>
-<!--/reader-->
-<!--home-book-261112--><link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet"><style id="home-book">html:root[data-skin="things"]{--bg:#fbf8f3;--surface:#fffdf9;--rule:#e9dfd3}html:root[data-skin="things"] body{background:#fbf8f3!important}
-html:root[data-skin] .brand{background:none!important;box-shadow:none!important;border:0!important;padding:18px 2px 10px!important;margin:0!important;gap:14px!important;align-items:center!important}
-html:root[data-skin] .brand img{width:64px!important;height:64px!important;border-radius:16px!important;padding:6px!important}
-html:root[data-skin] .brand .eyebrow{font:600 10.5px/1.3 var(--display)!important;letter-spacing:.14em!important}
-html:root[data-skin] .brand .eyebrow::before{display:none!important}
-html:root[data-skin] .brand h1{font:700 34px/1.05 "Literata",Georgia,serif!important;margin:2px 0 0!important}
-html:root[data-skin] .brand .wel{font:400 15px/1.4 "Literata",Georgia,serif!important;margin:4px 0 0!important}
-html:root[data-skin] .ctlrow{margin:6px 0 10px!important;gap:8px!important}
-html:root[data-skin] .ctlrow button{font-size:13px!important;min-height:34px!important;padding:6px 12px!important}
-html:root[data-skin] #libq{min-height:44px!important;font-size:16px!important;border-radius:12px!important}
-/* chips: one slim scrolling row */
-html:root[data-skin] .chips{display:flex!important;gap:8px!important;overflow-x:auto!important;margin:12px -16px 4px!important;padding:2px 16px 6px!important;grid-template-columns:none!important}
-html:root[data-skin] .chips a{flex:0 0 auto!important;height:36px!important;min-height:36px!important;padding:0 16px!important;font:700 14px/36px var(--display)!important;letter-spacing:.02em!important;text-transform:none!important;border-radius:999px!important;background:var(--surface)!important;color:var(--c,#8b1a1a)!important;border:1.5px solid var(--c,#8b1a1a)!important;box-shadow:none!important;grid-column:auto!important}
-html:root[data-skin] .chips a.on{background:var(--c,#8b1a1a)!important;color:#fff!important}
-/* section heading: text, not banner */
-html:root[data-skin] .sec{margin-top:26px!important}
-html:root[data-skin] #sections .sec .banner{background:none!important;background-image:none!important;box-shadow:none!important;border-radius:0!important;padding:0 0 8px!important;min-height:0!important;border-bottom:2px solid var(--sc)!important;margin-bottom:0!important}
-html:root[data-skin] #sections .sec .banner .secname{color:var(--sc)!important;font:700 26px/1.1 "Literata",Georgia,serif!important;text-transform:none!important;letter-spacing:0!important}
-html:root[data-skin] #sections .sec .banner small{color:var(--muted)!important}
-html:root[data-skin] #sections .sec .banner .shr{color:var(--sc)!important}
-/* series as rows */
-html:root[data-skin] .grid{gap:0!important;display:block!important}
-html:root[data-skin] .site{background:none!important;border:0!important;border-bottom:1px solid var(--rule)!important;border-radius:0!important;box-shadow:none!important;padding:14px 2px!important;gap:14px!important;align-items:center!important}
-html:root[data-skin] .site .etile{width:46px!important;height:46px!important;border-radius:12px!important;flex:0 0 46px!important}
-html:root[data-skin] .site .etile svg{width:28px!important;height:28px!important}
-html:root[data-skin] .site .l{font:600 10px/1.2 var(--display)!important;letter-spacing:.12em!important}
-html:root[data-skin] .site .t{font:700 19px/1.2 "Literata",Georgia,serif!important}
-html:root[data-skin] .site .s{font:400 14.5px/1.35 "Literata",Georgia,serif!important;-webkit-line-clamp:2!important}
-html:root[data-skin] .site .u{display:none!important}
-html:root[data-skin] .site::after{content:"›";color:var(--sc,#8b1a1a);font:400 26px/1 system-ui;margin-left:auto;padding-left:6px}
-html:root[data-skin="thingsdark"] #sections .sec .banner .secname,html:root[data-skin="thingsdark"] #sections .sec .banner .shr{color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
-html:root[data-skin="thingsdark"] #sections .sec .banner{border-bottom-color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
-html:root[data-skin="thingsdark"] .chips a{color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;border-color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important}
-html:root[data-skin="thingsdark"] .chips a.on{background:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;color:#1c1d1f!important}
-html:root[data-skin="thingsdark"] .site::after{color:var(--accent)}
-</style>
-</body></html>
+<!--quiet-book-261112--><link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,700&display=swap" rel="stylesheet">
+<style id="quiet-book">:root{--serif:"Literata",Georgia,"Times New Roman",serif}
+:root[data-skin="things"]{--bg:#fbf8f3;--surface:#fffdf9;--rule:#e9dfd3;--ink:#2a211d}
+body{font-family:var(--serif)!important;line-height:1.55!important}
+.crumbs{padding-block:10px!important;gap:6px!important}
+.crumbs .libbtn{background:transparent!important;color:var(--accent)!important;box-shadow:none!important;border:0!important;padding:6px 4px!important;font:700 15px/1 var(--display)!important;min-height:36px}
+.crumbs .skinbar .onetap,.crumbs .tocbtn{border:0!important;background:transparent!important;font-size:14px!important;padding:6px 8px!important;min-height:36px!important}
+.crumbs .langs{border:1px solid var(--rule)!important;font-size:13px!important}
+.crumbs .langs a,.crumbs .langs .on{padding:6px 11px!important;min-height:32px!important}
+.hero{padding-top:22px}
+.hero .ptile{width:76px!important;height:76px!important;border-radius:18px!important;margin:0 0 14px!important;float:none!important}
+.hero .ptile small,.hero .ptile em,.hero .ptile i{display:none!important}
+.hero .ptile svg{width:44px!important;height:44px!important;left:50%!important;top:50%!important}
+.hero .ptile b{left:0!important;right:0!important;top:50%!important;transform:translateY(-50%);text-align:center;font-size:30px!important;letter-spacing:-.5px!important}
+.eyebrow{font:600 11px/1.4 var(--display)!important;letter-spacing:.14em!important}
+.hero h1{font:700 clamp(38px,6vw,60px)/1.08 var(--serif)!important;letter-spacing:-.01em!important}
+.hero .lede{font-size:19px!important;line-height:1.5!important;color:var(--muted)}
+.hero p a{display:inline-block;background:var(--accent);color:var(--bg)!important;text-decoration:none!important;border-radius:12px;padding:13px 18px;font:700 16px/1.25 var(--display)}
+.secgrid{padding-block:22px!important}
+.seccard{border:0!important;background:transparent!important;padding:0!important}
+.seccard .eyebrow{display:none}
+.seccard h2{font:700 13px/1.2 var(--display)!important;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)!important;margin:0 0 6px!important}
+.seccard ol{list-style:none;padding:0!important;border-top:1px solid var(--rule)}
+.seccard li{margin:0!important;border-bottom:1px solid var(--rule)}
+.seccard li a{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:15px 8px 15px 2px;text-decoration:none;color:var(--ink);font:600 19px/1.25 var(--serif)}
+.seccard li a::after{content:"\203A";color:var(--accent);font:400 24px/1 var(--display)}
+article.note h1.nt{font:700 clamp(32px,4.6vw,44px)/1.1 var(--serif)!important;margin:8px 0 6px!important}
+article.note .card{border:0!important;background:transparent!important;padding:0!important;margin:0 0 6px!important;box-shadow:none!important}
+article.note h2{font:700 23px/1.2 var(--serif)!important;color:var(--accent)!important;margin:30px 0 10px!important;padding:14px 0 0!important;border:0!important;border-top:1px solid var(--rule)!important}
+article.note h3{font-family:var(--serif)!important}
+article.note h4{font-family:var(--serif)!important}
+article.note p{margin:0 0 13px!important}
+article.note blockquote{background:color-mix(in srgb,var(--accent) 9%,var(--surface));border-left:3px solid var(--accent)!important;border-radius:0 8px 8px 0;padding:10px 14px!important;font-size:.88em}
+article.note blockquote p:last-child{margin:0!important}
+.fsctl{box-shadow:0 1px 4px rgba(0,0,0,.1)!important}</style>
+<!--/reader--></body></html>
