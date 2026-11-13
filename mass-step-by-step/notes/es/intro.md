@@ -2,7 +2,7 @@
 
 Te bautizaron. Tal vez te confirmaron. Luego la vida siguió, y te fuiste alejando.
 
-Está bien. No necesitas tenerlo todo resuelto para volver. Solo necesitas venir.
+No necesitas tenerlo todo resuelto para volver. Solo necesitas venir.
 
 Trae el polvo del camino. Trae los años de silencio. El Padre no espera una versión pulida de ti. **Te espera a ti.** Cuando el hijo pródigo por fin emprendió el regreso, nadie lo recibió en la puerta con un sermón. *"Estando él todavía lejos, le vio su padre y, conmovido, **corrió**, se echó a su cuello y le besó efusivamente"* (Lucas 15,20).
 
@@ -10,15 +10,25 @@ La culpa dice que eres malo. La gracia dice que eres querido.
 
 Pero primero, entiende de qué te alejaste. **No es un servicio religioso más.**
 
+## ¿Auditorio o templo?
+
+Hace tres mil años, el rey Salomón terminó el Templo de Jerusalén. Había tardado siete años, con todo el cedro y el oro que un reino podía reunir. El día de la dedicación, los sacerdotes llevaron el Arca de la Alianza y la colocaron en la sala más interior.
+
+Entonces pasó algo que ningún constructor había planeado. *"La nube llenó la Casa de Yahvé. Y los sacerdotes no pudieron continuar en el servicio a causa de la nube, porque la gloria de Yahvé llenaba la Casa de Yahvé"* (1 Reyes 8,10-11). Los hombres habían levantado un edificio. Dios vino a habitarlo.
+
+Salomón, de pie ante el altar, extendió las manos e hizo la pregunta que se hace todo corazón honesto: *"¿Es que verdaderamente habitará Dios con los hombres sobre la tierra? Si los cielos y los cielos de los cielos no pueden contenerte, ¡cuánto menos esta Casa que yo te he construido!"* (1 Reyes 8,27).
+
+La respuesta llegó unos mil años después: *"Y la Palabra se hizo carne, y puso su Morada entre nosotros"* (Juan 1,14). Dios sí vino a habitar en la tierra, y no se ha ido.
+
+Esa es la diferencia entre un auditorio y un templo. Entra en la mayoría de las iglesias protestantes y mira al frente: un escenario, un púlpito, una banda, pantallas. El salón está hecho para el sermón, y ahí pasan cosas buenas. Se predica la Biblia, y la gente ora y canta con fe sincera. Pero cuando la gente se va, el salón queda vacío. **Un auditorio se llena de gente. Un templo se llena de Dios.**
+
 ## ¿Escenario o altar?
 
-Entra en la mayoría de las iglesias protestantes y mira al frente. Un escenario. Un púlpito. Una banda. Pantallas. Todo está hecho para el sermón. Cuando la gente se va, queda un salón vacío.
-
-Ahora entra en una iglesia católica. Al frente hay un **altar**.
+Ahora entra en una iglesia católica y mira al frente. No hay escenario. Hay un **altar**.
 
 Un altar no es un escenario. No es un atril. **Un altar es un lugar de sacrificio.** Abel, Noé y Abrahán levantaron altares. En el Templo de Jerusalén se ofrecían corderos sobre uno. En el Calvario, el Cordero de Dios se ofreció una vez y para siempre.
 
-La Misa no repite el Calvario. Tampoco lo actúa como una obra de teatro: una obra es una nueva función de algo que pasó hace mucho. **La Misa es el mismo sacrificio, hecho presente.** No una copia. No una segunda parte. Lo real, que llega hasta tu domingo por la mañana.
+La Misa no repite el Calvario. Tampoco lo actúa como una obra de teatro: una obra es una nueva función de algo que pasó hace mucho. **La Misa es el mismo sacrificio, hecho presente.** No es una copia ni una segunda parte. Es el único sacrificio del Calvario, que atraviesa los siglos y llega hasta tu domingo por la mañana.
 
 > ✅ "Mediante una sola oblación ha llevado a la perfección para siempre a los santificados" (Hebreos 10,14). El sacrificio de la Cruz y el sacrificio de la Misa son un único sacrificio (Catecismo 1367; Concilio de Trento, 1562).
 
@@ -73,4 +83,4 @@ Un símbolo no puede darte vida. Solo lo real puede.
 
 *Siguiente: [[La Misa, regreso a casa — 0 — Empieza aquí]]*
 
-*Fecha: 2026-11-11 | Fuente: Claude.ai — a partir de la "Nota para Claude sobre la Misa" de Oscar; Éxodo 3,5; Malaquías 1,11; Lucas 15,20; Juan 6,53.60.66; Hebreos 10,14; Catecismo 1367, 1374–1377; Concilio de Trento, sesiones XIII y XXII. Citas bíblicas: Biblia de Jerusalén.*
+*Fecha: 2026-11-11 | Fuente: Claude.ai — a partir de la "Nota para Claude sobre la Misa" de Oscar; Éxodo 3,5; 1 Reyes 8,10-11.27; Malaquías 1,11; Lucas 15,20; Juan 1,14; 6,53.60.66; Hebreos 10,14; Catecismo 1367, 1374–1377; Concilio de Trento, sesiones XIII y XXII. Citas bíblicas: Biblia de Jerusalén.*

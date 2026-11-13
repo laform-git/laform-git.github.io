@@ -2,23 +2,33 @@
 
 You were baptized. Maybe confirmed. Then life happened, and you drifted.
 
-Fine. You don't need everything figured out to come back. You just need to come.
+You don't need to have everything figured out to come back. You only need to come.
 
-Bring the dirt. Bring the years of silence. The Father isn't waiting for a polished version of you. **He's waiting for you.** When the prodigal son finally turned for home, he didn't get a lecture at the door. His father saw him far off, and **ran** to him (Luke 15:20).
+Bring the dust of the road. Bring the years of silence. The Father isn't waiting for a polished version of you. **He's waiting for you.** When the prodigal son finally turned for home, he didn't get a lecture at the door. His father saw him far off, and **ran** to him (Luke 15:20).
 
 Guilt says you're bad. Grace says you're wanted.
 
 But first, know what you walked away from. **It isn't just another church service.**
 
+## An auditorium or a temple
+
+Three thousand years ago, King Solomon finished the Temple in Jerusalem. It had taken seven years, and all the cedar and gold a kingdom could gather. On the day of its dedication, the priests carried in the Ark of the Covenant and set it in the innermost room.
+
+Then something happened that no builder had planned. A cloud filled the house. The glory of the Lord came down so heavily that the priests could not stand to do their work (1 Kings 8:10–11). Men had raised a building. God had come to live in it.
+
+Solomon stood before the altar, stretched out his hands, and asked the question every honest heart asks: *"But will God indeed dwell on the earth? Behold, heaven and the highest heaven cannot contain you; how much less this house which I have built!"* (1 Kings 8:27).
+
+The answer came about a thousand years later: *"The Word became flesh and dwelt among us"* (John 1:14). God did come to dwell on earth, and he has not left.
+
+That is the difference between an auditorium and a temple. Walk into most Protestant churches and look at the front: a stage, a pulpit, a band, screens. The room is built for the sermon, and good things happen there. The Bible is preached, and people pray and sing with real faith. But when the people leave, the room is empty. **An auditorium is filled by a crowd. A temple is filled by God.**
+
 ## A stage or an altar
 
-Walk into most Protestant churches and look at the front. A stage. A pulpit. A band. Screens. It's built for the sermon. When the people leave, it's an empty room.
-
-Now walk into a Catholic church. At the front stands an **altar**.
+Now walk into a Catholic church and look at the front. There is no stage. There is an **altar**.
 
 An altar is not a stage. It's not a podium. **An altar is a place of sacrifice.** Abel, Noah and Abraham built altars. At the Temple in Jerusalem, lambs were offered on one. On Calvary, the Lamb of God was offered once, for all.
 
-The Mass doesn't repeat Calvary. It doesn't act it out like a play: a play is a new performance of an old event. **The Mass is the same sacrifice, made present.** Not a copy. Not a sequel. The real thing, reaching your Sunday morning.
+The Mass doesn't repeat Calvary. It doesn't act it out like a play: a play is a new performance of an old event. **The Mass is the same sacrifice, made present.** It is not a copy and not a sequel. It is the one sacrifice of Calvary, reaching across the centuries into your Sunday morning.
 
 > ✅ "By a single offering he has perfected for all time those who are sanctified" (Hebrews 10:14). The sacrifice of the Cross and the sacrifice of the Mass are one single sacrifice (Catechism 1367; Council of Trent, 1562).
 
@@ -73,4 +83,4 @@ A symbol can't give you life. Only the real thing can.
 
 *Next: [[The Mass, Return Home — 0 — Start Here]]*
 
-*Date: 2026-11-11 | Source: Claude.ai — from Oscar's "Note for Claude on the Mass"; Exodus 3:5; Malachi 1:11; Luke 15:20; John 6:53, 60, 66; Hebrews 10:14; Catechism 1367, 1374–1377; Council of Trent Sessions XIII and XXII*
+*Date: 2026-11-11 | Source: Claude.ai — from Oscar's "Note for Claude on the Mass"; Exodus 3:5; 1 Kings 8:10–11, 27; Malachi 1:11; Luke 15:20; John 1:14; 6:53, 60, 66; Hebrews 10:14; Catechism 1367, 1374–1377; Council of Trent Sessions XIII and XXII*
