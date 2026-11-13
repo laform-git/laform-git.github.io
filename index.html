@@ -99,4 +99,41 @@ function set(k){cur=k;r.setAttribute("data-skin",k);r.setAttribute("data-theme",
 b.addEventListener("click",function(){set(cur==="things"?"thingsdark":"things");if(window.__skinChanged)window.__skinChanged()});window.addEventListener("hashchange",function(){setTimeout(lab,0)});window.__skinLab=lab;
 var w=document.querySelector(".wrap"),row=document.querySelector(".ctlrow");if(row)row.appendChild(bar);else (w?w.parentNode:document.body).insertBefore(bar,w||document.body.firstChild);var k="things";try{k=localStorage.getItem("skin")||k}catch(e){}if(!M[k])k="things";set(k);if(window.__placeSkin)window.__placeSkin()})();</script>
 <style>.skinbar .onetap{font:800 14px/1 var(--display,system-ui);cursor:pointer;border:1.5px solid var(--accent);background:var(--surface);color:var(--accent);border-radius:999px;padding:9px 14px;min-height:38px;white-space:nowrap;touch-action:manipulation}.skinbar .onetap:hover{background:var(--accent-soft,var(--surface))}</style>
-<!--/reader--></body></html>
+<!--/reader-->
+<!--home-book-261112--><link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet"><style id="home-book">html:root[data-skin="things"]{--bg:#fbf8f3;--surface:#fffdf9;--rule:#e9dfd3}html:root[data-skin="things"] body{background:#fbf8f3!important}
+html:root[data-skin] .brand{background:none!important;box-shadow:none!important;border:0!important;padding:18px 2px 10px!important;margin:0!important;gap:14px!important;align-items:center!important}
+html:root[data-skin] .brand img{width:64px!important;height:64px!important;border-radius:16px!important;padding:6px!important}
+html:root[data-skin] .brand .eyebrow{font:600 10.5px/1.3 var(--display)!important;letter-spacing:.14em!important}
+html:root[data-skin] .brand .eyebrow::before{display:none!important}
+html:root[data-skin] .brand h1{font:700 34px/1.05 "Literata",Georgia,serif!important;margin:2px 0 0!important}
+html:root[data-skin] .brand .wel{font:400 15px/1.4 "Literata",Georgia,serif!important;margin:4px 0 0!important}
+html:root[data-skin] .ctlrow{margin:6px 0 10px!important;gap:8px!important}
+html:root[data-skin] .ctlrow button{font-size:13px!important;min-height:34px!important;padding:6px 12px!important}
+html:root[data-skin] #libq{min-height:44px!important;font-size:16px!important;border-radius:12px!important}
+/* chips: one slim scrolling row */
+html:root[data-skin] .chips{display:flex!important;gap:8px!important;overflow-x:auto!important;margin:12px -16px 4px!important;padding:2px 16px 6px!important;grid-template-columns:none!important}
+html:root[data-skin] .chips a{flex:0 0 auto!important;height:36px!important;min-height:36px!important;padding:0 16px!important;font:700 14px/36px var(--display)!important;letter-spacing:.02em!important;text-transform:none!important;border-radius:999px!important;background:var(--surface)!important;color:var(--c,#8b1a1a)!important;border:1.5px solid var(--c,#8b1a1a)!important;box-shadow:none!important;grid-column:auto!important}
+html:root[data-skin] .chips a.on{background:var(--c,#8b1a1a)!important;color:#fff!important}
+/* section heading: text, not banner */
+html:root[data-skin] .sec{margin-top:26px!important}
+html:root[data-skin] #sections .sec .banner{background:none!important;background-image:none!important;box-shadow:none!important;border-radius:0!important;padding:0 0 8px!important;min-height:0!important;border-bottom:2px solid var(--sc)!important;margin-bottom:0!important}
+html:root[data-skin] #sections .sec .banner .secname{color:var(--sc)!important;font:700 26px/1.1 "Literata",Georgia,serif!important;text-transform:none!important;letter-spacing:0!important}
+html:root[data-skin] #sections .sec .banner small{color:var(--muted)!important}
+html:root[data-skin] #sections .sec .banner .shr{color:var(--sc)!important}
+/* series as rows */
+html:root[data-skin] .grid{gap:0!important;display:block!important}
+html:root[data-skin] .site{background:none!important;border:0!important;border-bottom:1px solid var(--rule)!important;border-radius:0!important;box-shadow:none!important;padding:14px 2px!important;gap:14px!important;align-items:center!important}
+html:root[data-skin] .site .etile{width:46px!important;height:46px!important;border-radius:12px!important;flex:0 0 46px!important}
+html:root[data-skin] .site .etile svg{width:28px!important;height:28px!important}
+html:root[data-skin] .site .l{font:600 10px/1.2 var(--display)!important;letter-spacing:.12em!important}
+html:root[data-skin] .site .t{font:700 19px/1.2 "Literata",Georgia,serif!important}
+html:root[data-skin] .site .s{font:400 14.5px/1.35 "Literata",Georgia,serif!important;-webkit-line-clamp:2!important}
+html:root[data-skin] .site .u{display:none!important}
+html:root[data-skin] .site::after{content:"›";color:var(--sc,#8b1a1a);font:400 26px/1 system-ui;margin-left:auto;padding-left:6px}
+html:root[data-skin="thingsdark"] #sections .sec .banner .secname,html:root[data-skin="thingsdark"] #sections .sec .banner .shr{color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
+html:root[data-skin="thingsdark"] #sections .sec .banner{border-bottom-color:color-mix(in srgb,var(--sc) 45%,#fff)!important}
+html:root[data-skin="thingsdark"] .chips a{color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;border-color:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important}
+html:root[data-skin="thingsdark"] .chips a.on{background:color-mix(in srgb,var(--c,#8b1a1a) 40%,#fff)!important;color:#1c1d1f!important}
+html:root[data-skin="thingsdark"] .site::after{color:var(--accent)}
+</style>
+</body></html>
