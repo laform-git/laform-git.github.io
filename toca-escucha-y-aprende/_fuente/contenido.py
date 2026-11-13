@@ -242,7 +242,7 @@ dict(num=6, titulo="Practicamos juntas", nivel="c",
    dict(t="texto", titulo="Reto final", text="Enséñale a mamá un gesto de VoiceOver que ella no sepa. Explícale cómo se hace, sin tocar su mano."),
   ]),
  ],
- despedida="¡Terminaste el Nivel 1! Ya sabes moverte con VoiceOver y hablar con Siri.",
+ despedida="¡Terminaste el Nivel 1! Ya sabes moverte con VoiceOver y hablar con Siri. Sigue el Nivel 2.",
  mama=[
   ("Su salud: las misiones", ["<p>Dos misiones son de salud: bailar o brincar con un temporizador de Siri, y salir un rato a la luz de la mañana.</p>", "<p>Tu papel es acompañarla y celebrarla. Si le gustan, que las siga haciendo aunque ya termine el nivel.</p>"]),
   ("De qué trata esta lección", [
@@ -255,6 +255,6 @@ dict(num=6, titulo="Practicamos juntas", nivel="c",
   ("Cómo acompañarla", [
    "<ul><li><b>Celebra cada misión.</b> Son tareas reales que ya puede hacer sola.</li><li><b>En el reto final,</b> déjate enseñar. Explicar un gesto es la mejor señal de que ya lo domina.</li></ul>"]),
   ("Qué sigue", [
-   "<p>El Nivel 2 entra a apps de verdad, con más botones: el rotor para saltar por partes, escribir, Mensajes y apps hechas para personas con discapacidad visual.</p>"]),
+   "<p>El Nivel 2 entra a apps de verdad: más gestos, el rotor, música, podcasts, escribir mensajes y apps hechas para personas con discapacidad visual.</p>"]),
  ]),
 ]

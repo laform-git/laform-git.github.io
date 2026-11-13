@@ -1,0 +1,67 @@
+<!doctype html><html lang="es-MX"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Apps recomendadas · Toca, escucha y aprende</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<link rel="stylesheet" href="mama.css">
+<script src="../lib/tech-theme.js" data-toggle="top" data-lang="es"></script>
+</head><body>
+<main class="wrap">
+  <p class="kicker">Toca, escucha y aprende · Para mamá</p>
+  <h1>Apps recomendadas para personas con discapacidad visual</h1>
+
+  <button type="button" class="all" id="all"><span id="all-i" aria-hidden="true">▶</span><span id="all-t">Escuchar todo</span></button>
+  <div class="voice">
+    <label for="voz">Voz</label>
+    <select id="voz"><option value="">Automática</option></select>
+    <button type="button" id="probar">Probar</button>
+    <p class="hint">¿No aparece la voz que quieres? En Configuración busca «Voces», descarga una en español, cierra Safari por completo y vuelve a abrir esta página.</p>
+  </div>
+
+  <section class="sec say" style="--k:var(--c1)">
+    <h2>Cómo leer esta lista</h2>
+    <p>Son apps y funciones para personas ciegas o con baja visión, revisadas en noviembre de 2026. Las apps cambian: antes de instalar una, pruébala tú con VoiceOver encendido.</p>
+    <p>✅ confirmado en la fuente oficial · 🟢 buena evidencia · 🟡 no lo pude confirmar del todo; compruébalo en su teléfono.</p>
+  </section>
+
+  <section class="sec say" style="--k:var(--c2)">
+    <h2>Lo que ya trae el iPhone</h2>
+    <ul><li>✅ <b>VoiceOver.</b> El lector de pantalla. Todo el curso se basa en él. <a href="https://support.apple.com/es-lamr/guide/iphone/iph3e2e2281/ios">Lista de gestos de Apple</a>.</li><li>✅ <b>Siri.</b> Para pedir cosas con la voz: llamar, poner música, alarmas, mensajes.</li><li>✅ <b>Reconocimiento en tiempo real.</b> Con VoiceOver encendido, tocar tres veces con cuatro dedos lo empieza o lo detiene: el iPhone va diciendo lo que ve la cámara. 🟡 Lo que reconoce depende del modelo de iPhone.</li><li>✅ <b>Lupa.</b> Una app de Apple que agranda con la cámara y también describe lo que ve.</li><li>🟡 <b>Descripciones de imágenes con inteligencia artificial.</b> El sistema más reciente (iOS 27) agregó al rotor opciones para describir una imagen o la pantalla completa y hacerle preguntas. Según <a href="https://afb.org/ios-27-accessibility">la American Foundation for the Blind</a>, varias de estas funciones necesitan un iPhone 15 Pro o más nuevo. No pude confirmar si ya funcionan en español.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c3)">
+    <h2>Para leer y reconocer cosas</h2>
+    <ul><li>✅ <b>Seeing AI</b> (Microsoft, gratis, en español). Lee texto corto y documentos, describe fotos y escenas, y reconoce colores, billetes y productos por su código de barras. <a href="https://club.once.es/afiliados/servicios/autonomia-personal-y-tecnologia/tiflotecnologia/valoraciones-de-accesibilidad-de-aplicaciones-para-moviles/seeing-ai-1/seeing-ai-ios.pdf">La ONCE de España la evaluó</a> y la considera accesible para personas ciegas, con algunos detalles por mejorar. Es la primera que conviene instalar.</li><li>✅ <b>Be My Eyes</b> (gratis). Videollamada con una persona voluntaria que ve por la cámara, y un asistente de inteligencia artificial que describe fotos. <a href="https://www.bemyeyes.com/terms-conditions/">Sus términos</a> dicen que es para personas de 18 años o más: úsala tú, con ella al lado.</li><li>🟡 <b>Envision.</b> Parecida a Seeing AI: lee texto y describe escenas. No revisé su precio actual ni su español.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c4)">
+    <h2>Para moverse</h2>
+    <ul><li>🟢 <b>Lazarillo</b> (gratis, hecha en Chile, en español). Un GPS que dice en voz alta las calles, los cruces y los lugares cercanos. Para ella, por ahora, solo caminando con un adulto. No revisé qué tan completos están sus datos en su ciudad: pruébenla en una calle que conozcan.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c5)">
+    <h2>Para aprender VoiceOver jugando</h2>
+    <ul><li>🟡 <b>Ballyland Mágico</b> (Sonokids). Un juego en español hecho para que niños ciegos aprendan los gestos de VoiceOver: arrastrar un dedo, dos toques, deslizar con uno y con tres dedos. <a href="https://www.sonokids.org/ballyland-early-learning/ballyland-game-apps/ballyland-magico/">Su página</a> lo presenta como juego para iPad, no para iPhone, y no la actualizan desde 2020: revisa en la App Store si sigue disponible.</li><li>✅ <b>Práctica de VoiceOver.</b> Está en <span class="path">Configuración → Accesibilidad → VoiceOver</span>. Ella hace un gesto y el iPhone le dice cuál fue, sin abrir nada. Gratis y siempre a la mano.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c6)">
+    <h2>Para escuchar</h2>
+    <ul><li>✅ <b>Podcasts</b> (de Apple, gratis). La lista de programas en español para su edad está en las notas de la Lección 10.</li><li>✅ <b>Música</b> (de Apple). Pedirle música a Siri necesita suscripción a Apple Music.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c1)">
+    <h2>Cómo saber si una app nueva le va a servir</h2>
+    <ul><li><b>Mira la sección Accesibilidad en la App Store.</b> Desde iOS 26, los desarrolladores pueden declarar en la página de su app si funciona con VoiceOver. Es opcional y todavía pocas apps lo llenan (<a href="https://afb.org/blog/entry/ios-26-accessibility-features">American Foundation for the Blind</a>).</li><li><b>Pruébala tú con VoiceOver encendido.</b> Desliza a la derecha por la primera pantalla. Si los botones dicen su nombre («Reproducir», «Enviar»), va bien. Si solo dice «botón, botón», no le va a servir.</li><li><b>Busca la app en AppleVis</b> (applevis.com), un sitio en inglés donde personas ciegas califican qué tan bien funciona cada app con VoiceOver.</li></ul>
+  </section>
+
+  <section class="sec say" style="--k:var(--c2)">
+    <h2>De dónde sale el método del curso</h2>
+    <ul><li><a href="https://www.cnib.ca/en/node/610">ABCs of iOS</a>, manual de la CNIB de Canadá para enseñar VoiceOver a niños pequeños: practicar el gesto fuera de la pantalla, toque suave, tu mano debajo de la suya, pasos chicos y mucha repetición, y no mover las apps de lugar.</li><li><a href="https://www.pathstoliteracy.org/resource/ios-device-skills-checklist/">Lista de habilidades de iOS</a>, de Paths to Literacy (Perkins School for the Blind): el orden en que se aprenden los gestos, el rotor y las apps de todos los días.</li><li>Manual del iPhone de Apple: <a href="https://support.apple.com/es-lamr/guide/iphone/iph3e2e2281/ios">gestos</a>, <a href="https://support.apple.com/es-lamr/guide/iphone/iph3e2e3a6d/ios">rotor</a> y <a href="https://support.apple.com/es-lamr/guide/iphone/iph3e2e3d1d/ios">teclado</a>.</li></ul>
+  </section>
+
+  <nav class="end" aria-label="Más">
+    <a href="./"><small>Inicio</small>Todas las lecciones</a>
+    <a class="next" href="leccion-12-mama.html"><small>Notas</small>Lección 12: Apps que te ayudan</a>
+  </nav>
+</main>
+<script src="mama.js"></script>
+</body></html>
