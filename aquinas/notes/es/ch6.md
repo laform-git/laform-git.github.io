@@ -2,7 +2,7 @@
 
 *Cómo Dios provee para el mundo sin competir con él: la metáfora del autor y la novela, la providencia sobre lo particular, la libertad para la excelencia, la ciencia media de Molina, el mal como privación y la respuesta de Job al sufrimiento.*
 
-*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 6 (transcripción). Sexta de ocho lecciones; sigue a la doctrina de la creación (Cap. 5) y cierra el arco "Dios y el mundo" antes de la antropología de Tomás (Cap. 7). Transcripción completa: la lección termina con "Gracias", seguido de una breve pregunta del público sobre Tillich y Tomás de Aquino.*
+*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 6 (transcripción). Sexta de ocho lecciones; sigue a la doctrina de la creación (Cap. 5) y cierra el arco "Dios y el mundo" antes de la antropología de Tomás (Cap. 7).*
 
 ## Por qué importa
 Barron llama al problema del mal "el problema de los problemas", el grano de arena en la ostra que produce la perla de la teología. En esta lección toda la metafísica anterior (Dios como *ipsum esse*, la creación *ex nihilo*, la causalidad no competitiva) rinde fruto pastoral. Si Dios es el autor de todo, ¿somos marionetas? Si Dios es infinitamente bueno y todopoderoso, ¿por qué un niño se está quedando ciego? La respuesta de Barron tiene dos movimientos: entender bien la *imagen* de Dios (autor, no personaje) y entender bien la *naturaleza* del mal (una carencia, no un rival). Reconoce con honestidad que la segunda mitad apunta hacia una solución más que ofrecer una respuesta nítida, como ocurre con la Trinidad.
@@ -107,6 +107,8 @@ Ante una pregunta sobre Paul Tillich (liberal moderno) frente a Tomás (clásico
 ## Aplicación práctica
 (1) Al pensar en Dios y en tus propias decisiones, imagina al autor y la novela, no a dos competidores en un mismo escenario. (2) Toma las "coincidencias" como invitaciones a buscar la providencia, sin pretender conocer la trama. (3) Mide la libertad por la facilidad con que alcanzas el bien, no por cuántas opciones mantienes abiertas. (4) Con una persona que sufre, imita la primera semana de los amigos de Job (silencio y presencia), no sus discursos.
 
+**Los dos pasos de Barron en una línea: Dios es el autor, no un personaje de la historia; y el mal es una carencia, no un rival.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dada la metáfora del autor y la novela de Barron, ¿por qué la providencia total de Dios no lo convierte en "una causa entre muchas"?**
 A. Porque Dios solo pone el mundo en marcha y luego se retira, como dicen los deístas
@@ -133,13 +135,12 @@ C. Confirma la opinión de los amigos de que el sufrimiento de Job es castigo po
 *Por qué B: Dios no da ninguna teoría; como el padre del niño de tres años después de la cirugía, tiene una respuesta que Job no podría asimilar, así que le abre la mirada a la totalidad de la providencia.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** la lección cierra con "Gracias" y una breve pregunta del público sobre Tillich; no falta nada.
 - **La serpiente en el jardín:** Barron plantea "¿por qué hay un principio de corrupción en el Edén?" y lo deja explícitamente para más adelante.
 - **Molina frente a la predestinación tomista:** el esbozo comprensivo que hace Barron de la ciencia media omite el lado dominico de la controversia; vale la pena comprobar cómo encaja con los textos del propio Tomás.
 - **El mal físico sin un bien visible:** Barron admite que no siempre puede verlo; la respuesta descansa en la entrega, que las notas sobre la Cruz y el sufrimiento redentor desarrollan más.
 - **Libertad para la excelencia y felicidad:** probablemente se retoma en el Cap. 8 (Ética y felicidad).
 
-## Lo que se omitió deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - Comentarios y humor: "How about those Bears", el detalle de la comida en Denny's, la fecha del concierto de Dylan en Rochester, las bromas con el arquitecto de Phoenix.
 - Repeticiones: Barron repite varias veces la definición de libertad y la respuesta de Tomás; cada una se conserva una vez.
 - La mayor parte de las preguntas sobre Tillich, reducidas a un párrafo porque son biografía más que providencia.

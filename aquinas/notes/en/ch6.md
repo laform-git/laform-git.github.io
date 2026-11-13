@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.6: Providence and the Problem of Evil
 *How God provides for the world without competing with it: the author-and-novel metaphor, providence over particulars, freedom for excellence, Molina's middle knowledge, evil as privation, and Job's answer to suffering.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 6 (transcript). Sixth of eight lectures; follows the doctrine of creation (Ch.5) and closes the "God and the world" arc before Aquinas's anthropology (Ch.7). Transcript complete: the lecture ends with "Thanks," followed by a short audience question on Tillich and Aquinas.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 6 (transcript). Sixth of eight lectures; follows the doctrine of creation (Ch.5) and closes the "God and the world" arc before Aquinas's anthropology (Ch.7).*
 
 ## Why This Matters
 Barron calls the problem of evil "the problem of problems," the irritant in the oyster that produces the pearl of theology. This lecture is where all the earlier metaphysics (God as *ipsum esse*, creation *ex nihilo*, non-competitive causality) pays off pastorally. If God is the author of everything, are we puppets? If God is all-good and all-powerful, why is a child going blind? Barron's answer has two moves: get the *picture* of God right (author, not character), and get the *nature* of evil right (a lack, not a rival). He is honest that the second half gestures toward a solution rather than delivering a neat answer, as with the Trinity.
@@ -107,6 +107,8 @@ Asked about Paul Tillich (modern liberal) versus Aquinas (classical): both use o
 ## Practical Takeaway
 (1) When thinking about God and your own choices, picture author and novel, not two competitors on one stage. (2) Treat "coincidences" as invitations to look for providence, while not pretending to know the plot. (3) Measure freedom by how easily you reach the good, not by how many options you keep open. (4) With a suffering person, imitate Job's friends' first week (silence and presence), not their speeches.
 
+**Barron's two moves in one line: God is the author, not a character in the story; and evil is a lack, not a rival.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given Barron's author-to-novel metaphor, why does God's total providence not make him "one cause among many"?**
 A. Because God only sets the world in motion and then withdraws, as the deists say
@@ -133,13 +135,12 @@ C. He confirms the friends' view that Job's suffering is punishment for hidden s
 *Why B: God gives no theory; like the father of the three-year-old after surgery, he has an answer Job could not take in, so he opens Job's view to the whole of providence.*
 
 ## Open Threads
-- ✅ **Transcript complete:** the lecture closes with "Thanks" and a brief audience question on Tillich; nothing missing.
 - **The snake in the garden:** Barron raises "why is there a principle of corruption in Eden?" and explicitly leaves it for later.
 - **Molina vs. Thomist predestination:** Barron's sympathetic sketch of middle knowledge skips the Dominican side of the controversy; worth checking how it fits Aquinas's own texts.
 - **Physical evil without visible good:** Barron admits he cannot always see it; the answer rests on surrender, which the Cross and redemptive-suffering notes develop further.
 - **Freedom for excellence and happiness:** likely picked up in Ch.8 (Ethics & Happiness).
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Asides and humor: "How about those Bears," the Denny's lunch detail, Dylan's Rochester concert date, the Phoenix architect banter.
 - Repetitions: Barron restates the freedom definition and the Thomas reply several times; each is kept once.
 - Most of the Q&A on Tillich, reduced to one paragraph since it is biography rather than providence.

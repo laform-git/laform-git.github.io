@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.8: Aquinas on Ethics & Happiness
 *Aquinas's ethics starts with happiness, not law: an analysis of desire, four false candidates for beatitudo (wealth, honor, power, pleasure), God as the only good that satisfies, the cardinal virtues, and the eternal–natural–positive law cascade.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 8 (transcript). Final lecture of eight; it closes the course's exitus-reditus arc by treating ethics as the return to God. Transcript complete: it ends with Barron's closing blessing.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 8 (transcript). Final lecture of eight; it closes the course's exitus-reditus arc by treating ethics as the return to God.*
 
 ## Why This Matters
 This is the payoff lecture of the course. The first seven lectures followed the *exitus*, everything coming forth from God (God, attributes, Trinity, creation, providence, the human person). Ethics is the *reditus*: how a human being, body and soul, made in God's image, gets back to God. Barron's main move is to flip the common picture of Catholic morality. It does not start with prohibitions. It starts with happiness, the one thing everyone wants, and only reaches law at the very end, as a tool for building the virtues that lead to happiness.
@@ -109,6 +109,8 @@ Virtues are inner capacities that order us properly toward an end. Barron draws 
 ## Practical Takeaway
 Study-level takeaways: (1) run the "Russian doll" test on a desire when it feels urgent and see where it ends; (2) when a good stops satisfying and you want "more," Barron reads that as the cavern speaking, not as a sign you need a bigger dose; (3) use the four virtues as a diagnostic: is the problem knowing the right thing (prudence), inner pull (temperance), or outer fear (courage)?; (4) read rules as scaffolding for virtue rather than as the point.
 
+**Barron's flip in one line: Catholic morality does not start with rules. It starts with happiness, and the rules come last, as tools.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given where law appears in the *Summa*, what does Barron say this shows about Aquinas's ethics?**
 A. Law is the foundation, and everything before Question 90 is preliminary metaphysics
@@ -135,12 +137,11 @@ C. Because Aquinas taught that any unpopular law may be ignored
 *Why B: on the cascade Barron describes, positive law is just only when it reflects natural law, which rests on eternal law; King appealed to Aquinas on exactly this point.*
 
 ## Open Threads
-- ✅ **Transcript complete:** it ends with the exitus-reditus wrap-up and "God bless you all."
 - **Grace and the supernatural end:** Barron says beatitudo is reached "only through the grace of God" but does not develop grace, the theological virtues (faith, hope, charity), or how they relate to the cardinal ones. Worth reading alongside Thomas's own treatise.
 - **Natural law list:** Barron's basic goods (knowledge, sociability, religion, arts, friendship) are a quick sketch, not Thomas's full enumeration. 🟡 Check against the *Summa* (I-II, Q.94) before relying on it.
 - **Final-cause argument for God:** stated briefly; how it relates to the earlier "ways" from the Ch.2 lecture is not spelled out.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Extra golf and fundraising detail, the 25th-anniversary *Lord of the Rings* remark, and Barron's comments about his own generation and the internet.
 - Repeated passes through the addiction rhythm (wealth, honor, pleasure, power each restated); kept once with the key quotes.
 - The breakfast-cereal and "why are you here" chains beyond one example each.

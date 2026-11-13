@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.7: Aquinas's Anthropology
 *Aquinas's account of the human being: body-soul unity over Platonic dualism, the soul as form of the body, the agent intellect's grasp of immaterial form as the case for the soul's immortality, bodily resurrection, and the imago Dei as the mind's restless hunger for God.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 7 (transcript). Seventh of eight lectures; follows Providence and the Problem of Evil (Ch.6) and sets up Ethics & Happiness (Ch.8). Transcript complete; it ends on Psalm 42 with no formal wrap-up, consistent with Barron's continuous-talk style.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 7 (transcript). Seventh of eight lectures; follows Providence and the Problem of Evil (Ch.6) and sets up Ethics & Happiness (Ch.8).*
 
 ## Why This Matters
 This is the lecture where the course turns from God to us. After the approach to God, the attributes, the Trinity, creation and providence, Barron asks what kind of creature God provides for in a distinctive way: the one made in His image. Aquinas's answer is a careful middle path between two errors that still shape how people talk about themselves: Platonic dualism (the "real me" is a soul trapped in a body) and a reductive view that collapses the soul into matter. One section is heavy on epistemology (how the mind abstracts form); it is the hinge of the whole argument for the soul's immortality, so it gets a table.
@@ -106,6 +106,8 @@ The objection Barron raises himself: has Aquinas tied soul and body so tightly t
 ## Practical Takeaway
 Study-level takeaways: (1) when you hear "the real me is inside," test it against *anima mea non sum ego*; (2) the soul as form of the body is the single idea that ties together the Creed's resurrection of the body, sacramental matter and form, and Theology of the Body; (3) the four-step chain (senses, phantasm, agent intellect, passive intellect) is the core of the argument for the soul's immortality, worth being able to say from memory; (4) Barron's practical reading of the imago Dei: your endless "why?" is not a distraction from faith but the image of God pulling you toward truth itself.
 
+**Aquinas's answer to "the real me is inside": *anima mea non sum ego*, I am not my soul.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given Aquinas's line "Anima mea non sum ego," how would he answer someone who says "the real me is inside, and my body is just the vehicle"?**
 A. He would agree, since the soul is immortal and the body is not
@@ -132,13 +134,12 @@ C. Because words alone are not valid in canon law
 *Why B: Barron gives Aquinas's answer as "that simple": we have bodies and souls, so grace comes through water, oil, bread, wine and hands, specified by words.*
 
 ## Open Threads
-- ✅ **Transcript complete:** it ends on Psalm 42 without a formal wrap-up, consistent with Barron's style. One short stretch in the epistemology section has doubled letters ("TTo," "ffor," "AAquinas"), a transcription glitch with no lost content.
 - **Eschatology** (heaven, hell, the state of the separated soul): explicitly deferred "for another day."
 - **Citations to verify:** the "containing, not contained" quote and the "intellect never understands so many things" quote have no reference in the lecture; "cherish the body" is cited only as "second part of the Summa, Question 25."
 - **Augustine:** Barron's "problematically Platonic" reading of Augustine on body and sexuality is his interpretation; worth testing against Augustine's own texts.
 - **From restless intellect to happiness:** the beatific vision as the mind's endpoint sets up Ch.8, Aquinas on Ethics & Happiness.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Plot detail of *Close Encounters* and the "What's it all about, Alfie?" aside, kept to one line each.
 - Descartes's step-by-step doubt (dream, deception, glasses) beyond the core *cogito* and *res cogitans* / *res extensa* split.
 - Repeated restatements of the prison and ghost images, and of the "Aristotelian Platonist" formula.

@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.3: The Attributes of God
 *Aquinas's attributes of God as Barron presents them: three ways of naming God, divine simplicity (essence equals existence, ipsum esse subsistens, not in any genus), the non-competitive God, perfection and goodness, transcendence and immanence, immutability as fidelity, eternity vs. everlastingness, and God's creative knowledge.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 3 (transcript). Third of eight lectures; follows Ch.2 Approach to God (the five ways) and leads into Ch.4 The Trinity. Transcript complete: Barron closes the lecture himself and previews the next one.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 3 (transcript). Third of eight lectures; follows Ch.2 Approach to God (the five ways) and leads into Ch.4 The Trinity.*
 
 ## Why This Matters
 Lecture 2 gave the five ways; this lecture is where Barron says the real work starts. The proofs only "open the door"; the bulk of Aquinas's treatise on God is filling in what can be said about the God those arguments reach. Barron walks through the opening questions of the *Summa theologiae* (Part I): the three ways of naming God, divine simplicity (which he calls Aquinas's single most important teaching), perfection and goodness, God's presence in the world, immutability, eternity and knowledge. The thread that ties it together is his signature theme: because God is not a being among beings, God does not compete with creatures. That idea answers the New Atheists, frames the Incarnation, and turns metaphysics into a spirituality of surrender. Its vocabulary (*ipsum esse subsistens*, *actus purus*, *nunc stans*) is the toolkit for the rest of the course.
@@ -108,6 +108,8 @@ Asked for Aquinas's most important teaching, Barron answers: **the simplicity of
 ## Practical Takeaway
 Study takeaways: (1) when talking about God, test every statement against the via negativa and the way of eminence; (2) keep the chain clear: pure act → not a body → essence equals existence → not in any genus → non-competitive presence; (3) read immutability and eternity as statements about fidelity and fullness, not coldness. Spiritual takeaway Barron explicitly draws: stop grasping and stop hiding; neither works, and what remains is surrender and love.
 
+**Barron's thread through the whole lecture: God is not a being among beings, so God does not compete with you.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given that in God essence and existence coincide, what is the best Thomistic reading of "I am who I am" (Exodus 3:14)?**
 A. A refusal to reveal anything at all about God
@@ -134,14 +136,13 @@ C. God knows only Himself and not particular creatures
 *Why B: our knowledge is derived from things; God, knowing His own power, knows everything that power produces, so He "knows you into being" and depends on nothing.*
 
 ## Open Threads
-- ✅ **Transcript complete:** it ends with Barron closing the lecture and previewing more attributes, then the Trinity.
 - **"God is implicitly co-willed in every act of the will":** promised for later, probably in the ethics and happiness lecture (Ch.8).
 - **Exitus–reditus** and the "ground of being" theme: promised for the creation lecture (Ch.5).
 - **Immaterial intellect** (*quodammodo omnia*): Barron says he will return to it, likely in Ch.7 (anthropology).
 - **Remaining attributes:** a few more are promised for the next lecture before the Trinity (Ch.4).
 - **Citation details not given in the lecture:** the exact Isaiah verse (commonly 26:12 🟡, not stated by Barron), the Arab philosophers he credits, and the article number for the genus question.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Color: Casper, the Minnesota whiteout, the baseball and chef examples, the "Peterson recording" example.
 - Repeated restatements of "to be God is to be to be" and of the geometry analogy.
 - Deeper historical framing (Monte Cassino, young Aquinas's question) already covered in Ch.1 and Ch.2.

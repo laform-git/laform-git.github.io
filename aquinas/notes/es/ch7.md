@@ -1,7 +1,7 @@
 # Barron — Tomás de Aquino, Cap. 7: La antropología de Tomás de Aquino
 *La concepción tomista del ser humano: la unidad de cuerpo y alma frente al dualismo platónico, el alma como forma del cuerpo, la captación de la forma inmaterial por el intelecto agente como argumento a favor de la inmortalidad del alma, la resurrección corporal y la imago Dei como el hambre inquieta de Dios que tiene la mente.*
 
-*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 7 (transcripción). Séptima de ocho lecciones; sigue a La providencia y el problema del mal (Cap. 6) y prepara Ética y felicidad (Cap. 8). Transcripción completa; termina con el Salmo 42 sin un cierre formal, en línea con el estilo de charla continua de Barron.*
+*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 7 (transcripción). Séptima de ocho lecciones; sigue a La providencia y el problema del mal (Cap. 6) y prepara Ética y felicidad (Cap. 8).*
 
 ## Por qué importa
 Esta es la lección en la que el curso pasa de Dios a nosotros. Después del acercamiento a Dios, los atributos, la Trinidad, la creación y la providencia, Barron pregunta por qué clase de criatura cuida Dios de un modo particular: la que fue hecha a Su imagen. La respuesta de Tomás es un cuidadoso camino intermedio entre dos errores que todavía moldean cómo la gente habla de sí misma: el dualismo platónico (el "verdadero yo" es un alma atrapada en un cuerpo) y una visión reduccionista que disuelve el alma en la materia. Una sección se centra en la epistemología (cómo la mente abstrae la forma); es la bisagra de todo el argumento a favor de la inmortalidad del alma, así que lleva una tabla.
@@ -105,6 +105,8 @@ La objeción que el propio Barron plantea: ¿ha unido Tomás tan estrechamente a
 ## Aplicación práctica
 Conclusiones a nivel de estudio: (1) cuando escuches "el verdadero yo está dentro", ponlo a prueba con *anima mea non sum ego*; (2) el alma como forma del cuerpo es la idea que une la resurrección de la carne del Credo, la materia y forma sacramentales y la Teología del Cuerpo; (3) la cadena de cuatro pasos (sentidos, fantasma, intelecto agente, intelecto pasivo) es el núcleo del argumento a favor de la inmortalidad del alma, y vale la pena poder decirla de memoria; (4) la lectura práctica de Barron sobre la imago Dei: tu "¿por qué?" interminable no es una distracción de la fe, sino la imagen de Dios que te atrae hacia la verdad misma.
 
+**La respuesta de Tomás a «el verdadero yo está adentro»: *anima mea non sum ego*, yo no soy mi alma.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dada la frase de Tomás "Anima mea non sum ego", ¿cómo respondería a alguien que dice "el verdadero yo está dentro y mi cuerpo es solo el vehículo"?**
 A. Estaría de acuerdo, ya que el alma es inmortal y el cuerpo no
@@ -131,13 +133,12 @@ C. Porque las palabras solas no son válidas en el derecho canónico
 *Por qué B: Barron presenta la respuesta de Tomás como "así de simple": tenemos cuerpo y alma, así que la gracia llega a través del agua, el aceite, el pan, el vino y las manos, especificados por palabras.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** termina con el Salmo 42 sin un cierre formal, en línea con el estilo de Barron. Un tramo breve de la sección de epistemología tiene letras duplicadas ("TTo", "ffor", "AAquinas"), un fallo de transcripción sin pérdida de contenido.
 - **Escatología** (cielo, infierno, el estado del alma separada): explícitamente aplazada "para otro día".
 - **Citas por verificar:** la cita de "conteniéndolo, no contenida" y la de "el intelecto nunca entiende tantas cosas" no tienen referencia en la lección; "amar el cuerpo" solo se cita como "segunda parte de la Suma, cuestión 25".
 - **Agustín:** la lectura de Barron de un Agustín "problemáticamente platónico" sobre el cuerpo y la sexualidad es su interpretación; vale la pena contrastarla con los propios textos de Agustín.
 - **Del intelecto inquieto a la felicidad:** la visión beatífica como punto final de la mente prepara el Cap. 8, Tomás de Aquino sobre la ética y la felicidad.
 
-## Lo que se recortó deliberadamente (autoauditoría)
+## Lo que se dejó fuera de esta nota
 - Detalles de la trama de *Encuentros cercanos* y el comentario "What's it all about, Alfie?", reducidos a una línea cada uno.
 - La duda paso a paso de Descartes (sueño, engaño, anteojos) más allá del núcleo del *cogito* y la escisión entre *res cogitans* y *res extensa*.
 - Repeticiones de las imágenes de la prisión y del fantasma, y de la fórmula del "platónico aristotélico".

@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.1: Life, Times, and Culture
 *Barron's portrait of Aquinas in context: the luminous 13th-century renaissance, his road from Monte Cassino through Naples, Paris and the Dominicans, how a Summa article works as a staged debate, and the saint who called his work straw.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 1 (transcript). First of eight lectures; sets the scene (culture, life, how the texts work) before Ch.2 begins the thought itself. Transcript complete: it ends with Barron's own close.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 1 (transcript). First of eight lectures; sets the scene (culture, life, how the texts work) before Ch.2 begins the thought itself.*
 
 ## Why This Matters
 This is the scene-setting lecture for the course. Before the arguments for God, the attributes, the Trinity, creation, evil, the human person and happiness, Barron wants you to know who Aquinas was, what culture produced him, and how his texts are built. The most useful payload is the anatomy of a *Summa* article: once you see it as a written-up live debate, the dry page opens. The second is apologetic: Barron dismantles the "Dark Ages until the Renaissance" story. The third is the saint behind the scholar, the man who wrote some 50 folio volumes and then called it all "straw."
@@ -125,6 +125,8 @@ Parts divide into **questions**, questions into **articles**, and "the articles 
 ## Practical Takeaway
 (1) Read the *Summa* as a debate transcript: find the utrum, read the respondeo, then see how he answers the strongest objection. (2) Use the steel-man habit in apologetics: state the opposing case well and name what is right in it before correcting it. (3) Keep the "Dark Ages" counter-list ready: cathedrals, Dante, universities, Francis, monks copying the classics. (4) Hold study and prayer together, as Thomas did.
 
+**Barron's verdict on that century: call it anything you want, but "the one thing you can't call it is dark."**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Which best captures Barron's case against the "Dark Ages" narrative?**
 A. The 15th-century Renaissance rediscovered classical texts the medievals had lost
@@ -151,13 +153,12 @@ C. It shows simple exhaustion from overwork, nothing more
 *Why B: "straw" is relative to what was revealed, not a retraction; Barron mentions a possible stroke (Theodora's "stupefactus") and a mystical experience.*
 
 ## Open Threads
-- ✅ **Transcript complete:** it ends with a clear close ("we'll pick up next time now with Thomas addressing the question of God").
 - **Which argument for God** grabbed Barron at 14 is not named; Ch.2 covers the arguments.
 - **Peter of Ireland and the papal bans on Aristotle:** named, not detailed.
 - **The anti-Manichee argument** at St Louis's table is not given; Ch.6 on evil may touch Manichaean dualism.
 - **The Cistercian monastery** where he died is not named in the lecture.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Travel color: the walk up to Roccasecca, Naples's "edgy" reputation, the origin of Cologne's name.
 - Asides on memorizing the Quran and Dante's 33 cantos and tercets.
 - The classmate who tried to help Thomas with logic and got corrected.

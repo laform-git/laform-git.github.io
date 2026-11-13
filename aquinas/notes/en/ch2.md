@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.2: Approach to God
 *How Aquinas approaches God: why he rejects Anselm's ontological argument yet grants an inchoate self-evidence through the desire for happiness, and how three of his Five Ways (motion, contingency, design) work as "paths" rather than proofs.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 2 (transcript). Second of eight lectures; follows Ch.1 Life, Times, and Culture and hands off to Ch.3 The Attributes of God. Transcript confirmed complete: it opens with two leftover items from Ch.1 and closes by announcing the next lecture.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 2 (transcript). Second of eight lectures; follows Ch.1 Life, Times, and Culture and hands off to Ch.3 The Attributes of God.*
 
 ## Why This Matters
 This is the hinge of the course. Ch.1 introduced the man; this lecture introduces the one subject he never stopped asking about. Barron sets two traditions side by side: the a priori, Anselmian route (God's existence follows from the very idea of God) and the a posteriori, Thomist route (look at the world, find what needs explaining, follow the chain to God). He then walks through three of the Five Ways in detail, with homely examples (a cooling cup of coffee, a lamp on a chain, a studio that will not exist in a few hours). The key interpretive move is that Thomas calls these *viae*, paths, not proofs: they lead toward God without claiming to capture him. The lecture only establishes *that* something like an unmoved mover, a necessary being and a governing intelligence exists; *what* that reality must be like is deferred to Ch.3.
@@ -137,6 +137,8 @@ Barron calls it "the most intuitively obvious, but also maybe the weakest" in st
 ## Practical Takeaway
 Study-level takeaways: (1) when you meet an argument for God, ask first whether it is a priori (from the idea) or a posteriori (from the world); Thomas only trusts the second; (2) explain the first and third ways with a **here-and-now** dependency (lamp, coffee), never a timeline; (3) the desire for happiness is itself a pointer to God, which is why misplaced happiness (pleasure, money, power, honor) dims that pointer; (4) present the Ways as paths with humility, not as a trap for the other person.
 
+**Thomas's own word for his arguments is *viae*, paths: they lead toward God without claiming to capture him.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Why does Thomas reject Anselm's ontological argument?**
 A. Because he denies that God is that than which nothing greater can be thought
@@ -163,13 +165,12 @@ C. A retreat to faith alone, since reason cannot address design
 *Why B: Barron moves from "things act for ends" to "the world is intelligible at every level," which a local designer would not explain.*
 
 ## Open Threads
-- ✅ **Transcript complete:** it opens with Ch.1 leftovers and ends by handing off to Ch.3; no cut-off.
 - **What the unmoved mover, necessary being and governing intelligence must be like** (pure act, and why it deserves the name "God") is promised for Ch.3 The Attributes of God.
 - **Jung and consensus gentium:** check where Jung uses the phrase; it predates him.
 - **Gödel's proof** is only sketched; the actual formal version uses modal logic and is more technical than presented.
 - **Source for "Whatever can be known or understood is less than God Himself":** not cited in the lecture.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Most of the skull and pulpit anecdotes (kept only the conclusions), the Liam Neeson joke, and the psychological "why are we here" chain beyond one line.
 - Repetitions of Hitchens as foil and of "we could do a whole course on this."
 - Extra causal links in the coffee and studio examples (engineers, cameras' makers) beyond what shows the structure.

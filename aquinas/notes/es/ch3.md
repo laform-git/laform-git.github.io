@@ -2,7 +2,7 @@
 
 *Los atributos de Dios en Tomás de Aquino tal como los presenta Barron: tres maneras de nombrar a Dios, la simplicidad divina (esencia igual a existencia, ipsum esse subsistens, fuera de todo género), el Dios no competitivo, la perfección y la bondad, la trascendencia y la inmanencia, la inmutabilidad como fidelidad, la eternidad frente a la perpetuidad, y el conocimiento creador de Dios.*
 
-*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 3 (transcripción). Tercera de ocho lecciones; sigue a Cap. 2 El acercamiento a Dios (las cinco vías) y conduce a Cap. 4 La Trinidad. Transcripción completa: el propio Barron cierra la lección y anticipa la siguiente.*
+*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 3 (transcripción). Tercera de ocho lecciones; sigue a Cap. 2 El acercamiento a Dios (las cinco vías) y conduce a Cap. 4 La Trinidad.*
 
 ## Por qué importa
 La Lección 2 presentó las cinco vías; en esta lección, según Barron, empieza el verdadero trabajo. Las pruebas solo "abren la puerta"; el grueso del tratado de Tomás sobre Dios consiste en precisar qué se puede decir del Dios al que llegan esos argumentos. Barron recorre las primeras cuestiones de la *Summa theologiae* (Primera Parte): las tres maneras de nombrar a Dios, la simplicidad divina (que él llama la enseñanza más importante de Tomás), la perfección y la bondad, la presencia de Dios en el mundo, la inmutabilidad, la eternidad y el conocimiento. El hilo que lo une todo es su tema característico: como Dios no es un ente entre los entes, Dios no compite con las criaturas. Esa idea responde a los Nuevos Ateos, enmarca la Encarnación y convierte la metafísica en una espiritualidad de entrega. Su vocabulario (*ipsum esse subsistens*, *actus purus*, *nunc stans*) es la caja de herramientas para el resto del curso.
@@ -108,6 +108,8 @@ Cuando le preguntan cuál es la enseñanza más importante de Tomás, Barron res
 ## Aplicación práctica
 Para el estudio: (1) al hablar de Dios, pon a prueba cada afirmación con la via negativa y la vía de eminencia; (2) mantén clara la cadena: acto puro → no es un cuerpo → esencia igual a existencia → fuera de todo género → presencia no competitiva; (3) lee la inmutabilidad y la eternidad como afirmaciones sobre la fidelidad y la plenitud, no sobre la frialdad. La lección espiritual que Barron saca explícitamente: deja de querer apoderarte y deja de esconderte; ninguna de las dos cosas funciona, y lo que queda es entrega y amor.
 
+**El hilo de Barron en toda la lección: Dios no es un ser entre los seres, así que Dios no compite contigo.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dado que en Dios coinciden esencia y existencia, ¿cuál es la mejor lectura tomista de "Yo soy el que soy" (Éxodo 3,14)?**
 A. Una negativa a revelar cualquier cosa sobre Dios
@@ -134,14 +136,13 @@ C. Dios solo se conoce a sí mismo y no a las criaturas particulares
 *Por qué B: nuestro conocimiento se deriva de las cosas; Dios, al conocer su propio poder, conoce todo lo que ese poder produce, así que "te conoce hasta hacerte existir" y no depende de nada.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** termina con Barron cerrando la lección y anticipando más atributos, y luego la Trinidad.
 - **"Dios es implícitamente co-querido en todo acto de la voluntad":** prometido para más adelante, probablemente en la lección sobre ética y felicidad (Cap. 8).
 - **Exitus–reditus** y el tema del "fundamento del ser": prometidos para la lección sobre la creación (Cap. 5).
 - **Intelecto inmaterial** (*quodammodo omnia*): Barron dice que volverá a él, probablemente en el Cap. 7 (antropología).
 - **Atributos restantes:** se prometen algunos más para la próxima lección, antes de la Trinidad (Cap. 4).
 - **Detalles de citas no dados en la lección:** el versículo exacto de Isaías (comúnmente 26,12 🟡, no indicado por Barron), los filósofos árabes a quienes atribuye la distinción y el número de artículo para la cuestión del género.
 
-## Lo que se omitió deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - Anécdotas: Gasparín, la ventisca de Minnesota, los ejemplos del béisbol y del chef, el ejemplo de la "grabación de Peterson".
 - Repeticiones de "ser Dios es ser ser" y de la analogía geométrica.
 - Marco histórico más profundo (Montecasino, la pregunta del joven Tomás), ya cubierto en los Cap. 1 y Cap. 2.

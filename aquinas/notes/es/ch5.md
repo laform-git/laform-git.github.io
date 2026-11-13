@@ -2,7 +2,7 @@
 
 *Por qué Dios crea (no por necesidad), qué puede y qué no puede hacer su poder, la creación de la nada como una relación continua y no como un suceso del pasado, y por qué la belleza y la variedad del mundo manifiestan la gloria de Dios.*
 
-*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 5 (transcripción). Quinta de ocho lecciones; pasa de Dios en sí mismo (Cap. 2 a Cap. 4) al mundo en su relación con Dios, y prepara el Cap. 6 sobre la providencia y el mal. Textos utilizados: Suma Teológica I, q.44 en adelante, y la cuestión disputada De Potentia Dei, que Barron estudió para su doctorado en París. La transcripción parece completa: termina con una transición limpia hacia la siguiente lección.*
+*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 5 (transcripción). Quinta de ocho lecciones; pasa de Dios en sí mismo (Cap. 2 a Cap. 4) al mundo en su relación con Dios, y prepara el Cap. 6 sobre la providencia y el mal. Textos utilizados: Suma Teológica I, q.44 en adelante, y la cuestión disputada De Potentia Dei, que Barron estudió para su doctorado en París.*
 
 ## Por qué importa
 Barron dice que la creación es "en algunos sentidos tan desconcertante como la Trinidad", y aquí la metafísica de Tomás se convierte directamente en espiritualidad. Cuatro ideas la sostienen: (1) Dios crea por una bondad desbordante, nunca por necesidad; (2) el poder de Dios es ilimitado pero nunca está desligado de su mente (el argumento contra el voluntarismo); (3) la creación de la nada significa que nada se interpone entre nosotros y Dios, y que la creación está ocurriendo ahora; (4) una criatura es más una relación con Dios que una sustancia frente a Él. Cada idea tiene una consecuencia espiritual que Barron extrae de años de dirección espiritual.
@@ -119,6 +119,8 @@ Barron señala el poder como una cuestión viva: la filosofía moderna, desde ha
 ## Aplicación práctica
 Tal como Barron las plantea: (1) cuando la práctica se sienta como apaciguar a un Dios necesitado, recuerda *bonum diffusivum sui*: Él quiere, no necesita; (2) pon a prueba cualquier afirmación sobre el poder preguntando si está ligada a la verdad y al bien, o si es un martillo; (3) prueba literalmente la definición de Merton, unos minutos de "sentarse y hundirse"; (4) usa la idea de los hermanos ontológicos cuando cueste amar a un enemigo; (5) usa *integritas, consonantia, claritas* para percibir la belleza.
 
+**La idea de Tomás, como la lee Barron: Dios crea porque te quiere, no porque te necesite, y te está creando ahora mismo.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dado el contraste de Barron entre Aristóteles y Platón, ¿por qué dice Tomás que Dios crea?**
 A. Porque Dios, como el primer motor de Aristóteles, necesitaba algo fuera de sí mismo para conocer y amar
@@ -145,12 +147,11 @@ C. Porque la moral es lo que Dios manda, encaje o no con la realidad
 *Por qué B: Barron reconoce que la enemistad es real en la superficie, pero fundamenta el Sermón de la Montaña en una relación compartida con el Creador. La respuesta C es el voluntarismo que la lección rechaza.*
 
 ## Hilos abiertos
-- ✅ **La transcripción parece completa:** termina con una transición limpia hacia la providencia y el mal (Cap. 6). No hay cortes a mitad de frase ni duplicaciones.
 - **Providencia y mal:** "por qué Dios permite incluso grandes males y sufrimientos" en una creación bella se pospone explícitamente al Cap. 6.
 - **Dios como general de un ejército:** Barron dice "volveré sobre eso"; probablemente en el Cap. 6.
 - **Citas por verificar:** el argumento de la tertia pars sobre la Encarnación y las cuestiones de la Suma posteriores a la q.44 no tienen número; el resumen de Barron sobre Descartes está comprimido y su datación de De Caussade parece errónea 🟡.
 - **Referencias previas:** el Salmo 139, Ireneo y una historia de la infancia de Teilhard se citaron en lecciones anteriores; la historia de Teilhard no se vuelve a contar aquí.
 
-## Lo que se omitió deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - Comentarios personales (recuerdos de París, su swing de golf, mitos de la infancia), los estribillos repetidos de "sentarse y hundirse", la alegoría completa de la caverna y el ejemplo de la atrapada de fútbol americano.
 - La comparación sobre el islam en el Discurso de Ratisbona, más allá del comentario de una línea de Barron, porque la lección la deja explícitamente de lado.

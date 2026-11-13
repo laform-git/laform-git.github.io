@@ -2,7 +2,7 @@
 
 *Cómo se aproxima Tomás de Aquino a Dios: por qué rechaza el argumento ontológico de Anselmo pero concede una evidencia incoada a través del deseo de felicidad, y cómo tres de sus cinco vías (movimiento, contingencia, diseño) funcionan como "caminos" y no como pruebas.*
 
-*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 2 (transcripción). Segunda de ocho lecciones; sigue al Cap. 1 Vida, época y cultura y da paso al Cap. 3 Los atributos de Dios. Transcripción confirmada como completa: abre con dos asuntos pendientes del Cap. 1 y cierra anunciando la próxima lección.*
+*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 2 (transcripción). Segunda de ocho lecciones; sigue al Cap. 1 Vida, época y cultura y da paso al Cap. 3 Los atributos de Dios.*
 
 ## Por qué importa
 Esta es la bisagra del curso. El Cap. 1 presentó al hombre; esta lección presenta el único tema sobre el que nunca dejó de preguntar. Barron pone dos tradiciones lado a lado: la vía a priori, anselmiana (la existencia de Dios se sigue de la idea misma de Dios), y la vía a posteriori, tomista (mira el mundo, encuentra lo que necesita explicación y sigue la cadena hasta Dios). Luego recorre en detalle tres de las cinco vías, con ejemplos cotidianos (una taza de café que se enfría, una lámpara colgada de una cadena, un estudio que no existirá dentro de unas horas). La clave interpretativa es que Tomás las llama *viae*, caminos, no pruebas: conducen hacia Dios sin pretender atraparlo. La lección solo establece *que* existe algo como un motor inmóvil, un ser necesario y una inteligencia que gobierna; *cómo* debe ser esa realidad se deja para el Cap. 3.
@@ -137,6 +137,8 @@ Barron la llama "la más intuitivamente obvia, pero quizá también la más déb
 ## Aplicación práctica
 Conclusiones para el estudio: (1) cuando te encuentres con un argumento sobre Dios, pregunta primero si es a priori (desde la idea) o a posteriori (desde el mundo); Tomás solo confía en el segundo; (2) explica la primera y la tercera vía con una dependencia **aquí y ahora** (lámpara, café), nunca con una línea de tiempo; (3) el deseo de felicidad es en sí mismo un indicador que apunta a Dios, y por eso la felicidad mal buscada (placer, dinero, poder, honor) atenúa ese indicador; (4) presenta las vías como caminos con humildad, no como una trampa para la otra persona.
 
+**La palabra del propio Tomás para sus argumentos es *viae*, caminos: llevan hacia Dios sin pretender atraparlo.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. ¿Por qué rechaza Tomás el argumento ontológico de Anselmo?**
 A. Porque niega que Dios sea aquello mayor que lo cual nada puede pensarse
@@ -163,13 +165,12 @@ C. Un repliegue a la sola fe, ya que la razón no puede tratar el diseño
 *Por qué B: Barron pasa de "las cosas actúan hacia fines" a "el mundo es inteligible en todos los niveles", algo que un diseñador local no explicaría.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** abre con asuntos pendientes del Cap. 1 y termina dando paso al Cap. 3; sin cortes.
 - **Cómo deben ser el motor inmóvil, el ser necesario y la inteligencia que gobierna** (acto puro, y por qué merece el nombre de "Dios") se promete para el Cap. 3 Los atributos de Dios.
 - **Jung y el consensus gentium:** verificar dónde usa Jung la frase; es anterior a él.
 - **La prueba de Gödel** solo se esboza; la versión formal real usa lógica modal y es más técnica de lo que se presenta.
 - **Fuente de "Todo lo que puede ser conocido o entendido es menos que Dios mismo":** no se cita en la lección.
 
-## Lo que se recortó deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - La mayor parte de las anécdotas del cráneo y del púlpito (se conservaron solo las conclusiones), el chiste sobre Liam Neeson y la cadena psicológica de "por qué estamos aquí" más allá de una línea.
 - Las repeticiones de Hitchens como contrapunto y de "podríamos hacer un curso entero sobre esto".
 - Eslabones causales adicionales en los ejemplos del café y del estudio (ingenieros, fabricantes de las cámaras) más allá de lo que muestra la estructura.

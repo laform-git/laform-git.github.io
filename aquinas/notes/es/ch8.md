@@ -1,7 +1,7 @@
 # Barron — Tomás de Aquino, Cap. 8: Tomás de Aquino sobre la ética y la felicidad
 *La ética de Tomás empieza por la felicidad, no por la ley: un análisis del deseo, cuatro falsos candidatos a la beatitudo (riqueza, honor, poder, placer), Dios como el único bien que sacia, las virtudes cardinales y la cascada de ley eterna, natural y positiva.*
 
-*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 8 (transcripción). Última de ocho lecciones; cierra el arco exitus-reditus del curso tratando la ética como el regreso a Dios. Transcripción completa: termina con la bendición final de Barron.*
+*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 8 (transcripción). Última de ocho lecciones; cierra el arco exitus-reditus del curso tratando la ética como el regreso a Dios.*
 
 ## Por qué importa
 Esta es la lección culminante del curso. Las primeras siete lecciones siguieron el *exitus*, todo lo que sale de Dios (Dios, los atributos, la Trinidad, la creación, la providencia, la persona humana). La ética es el *reditus*: cómo un ser humano, cuerpo y alma, hecho a imagen de Dios, vuelve a Dios. El movimiento principal de Barron es darle la vuelta a la imagen habitual de la moral católica. No empieza por las prohibiciones. Empieza por la felicidad, lo único que todos quieren, y solo llega a la ley al final, como herramienta para formar las virtudes que conducen a la felicidad.
@@ -108,6 +108,8 @@ Las virtudes son capacidades interiores que nos ordenan correctamente hacia un f
 ## Aplicación práctica
 Conclusiones a nivel de estudio: (1) aplica la prueba de la "muñeca rusa" a un deseo cuando se sienta urgente y mira dónde termina; (2) cuando un bien deja de saciarte y quieres "más", Barron lo lee como la caverna que habla, no como señal de que necesitas una dosis mayor; (3) usa las cuatro virtudes como diagnóstico: ¿el problema es saber lo correcto (prudencia), el tirón interior (templanza) o el miedo exterior (fortaleza)?; (4) lee las reglas como andamiaje para la virtud y no como el objetivo.
 
+**El giro de Barron en una línea: la moral católica no empieza con reglas. Empieza con la felicidad, y las reglas llegan al final, como herramientas.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Dado dónde aparece la ley en la *Suma*, ¿qué dice Barron que esto muestra sobre la ética de Tomás?**
 A. La ley es el fundamento, y todo lo anterior a la cuestión 90 es metafísica preliminar
@@ -134,12 +136,11 @@ C. Porque Tomás enseñó que cualquier ley impopular puede ignorarse
 *Por qué B: en la cascada que describe Barron, la ley positiva es justa solo cuando refleja la ley natural, que descansa en la ley eterna; King apeló a Tomás precisamente en este punto.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** termina con el cierre de exitus-reditus y "Dios los bendiga a todos".
 - **La gracia y el fin sobrenatural:** Barron dice que la beatitudo se alcanza "solo por la gracia de Dios", pero no desarrolla la gracia, las virtudes teologales (fe, esperanza, caridad) ni cómo se relacionan con las cardinales. Vale la pena leerlo junto al propio tratado de Tomás.
 - **Lista de la ley natural:** los bienes básicos de Barron (conocimiento, sociabilidad, religión, artes, amistad) son un esbozo rápido, no la enumeración completa de Tomás. 🟡 Contrastar con la *Suma* (I-II, q.94) antes de apoyarse en ella.
 - **Argumento a favor de Dios por la causa final:** se plantea brevemente; no se explica cómo se relaciona con las "vías" anteriores de la lección del Cap. 2.
 
-## Lo que se recortó deliberadamente (autoauditoría)
+## Lo que se dejó fuera de esta nota
 - Detalles adicionales de golf y de recaudación de fondos, el comentario sobre el 25.º aniversario de *El Señor de los Anillos* y los comentarios de Barron sobre su propia generación e internet.
 - Pasadas repetidas por el ritmo de la adicción (riqueza, honor, placer, poder, cada uno reiterado); se conservó una vez con las citas clave.
 - Las cadenas del cereal del desayuno y de "por qué estás aquí" más allá de un ejemplo cada una.

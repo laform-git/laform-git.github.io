@@ -2,7 +2,7 @@
 
 *Cómo Tomás de Aquino, siguiendo a Agustín, lee la Trinidad a través del autoconocimiento y el amor de sí de la mente: un Dios, dos procesiones, tres personas como relaciones subsistentes, cuatro relaciones inmanentes, además de su explicación de la voluntad y el amor de Dios y de la fe como suprarracional.*
 
-*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 4 (transcripción). Cuarta de ocho lecciones; sigue a los atributos divinos (Cap. 3) y precede a la doctrina de la creación (Cap. 5). Transcripción confirmada como completa: cierra con el "amor que mueve el sol y las demás estrellas" de Dante y el "probablemente es un buen lugar para terminar esta lección" de Barron.*
+*Fuente: obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 4 (transcripción). Cuarta de ocho lecciones; sigue a los atributos divinos (Cap. 3) y precede a la doctrina de la creación (Cap. 5).*
 
 ## Por qué importa
 Hasta esta lección Barron ha mantenido a Tomás en terreno puramente filosófico: las cinco vías, la simplicidad, la inmutabilidad, la eternidad, el conocimiento. Un judío piadoso, un musulmán o un filósofo secular podrían seguir la mayor parte. Aquí cruza a territorio propiamente teológico, la afirmación distintivamente cristiana de que el único Dios de Israel es Padre, Hijo y Espíritu Santo. Lo hace en tres movimientos: (1) termina los atributos con la voluntad y el amor de Dios; (2) explica por qué la fe está por encima de la razón, no por debajo; (3) recorre el argumento de la "formación de imágenes" de Tomás en la *Summa contra Gentiles*, Libro 4, que termina en un resumen compacto 1-2-3-4 que se puede memorizar. Es la lección más densa hasta ahora, y la que une al abstracto "motor inmóvil" con "Dios es amor".
@@ -120,6 +120,8 @@ Barron pasa de la *Summa Theologiae* a la anterior y más filosófica *Summa con
 ## Aplicación práctica
 Para el estudio: (1) memoriza el esquema 1-2-3-4; es la forma más rápida de enunciar la doctrina sin caer en el modalismo ni en el triteísmo; (2) usa la analogía de la mente (me conozco, me amo, sigo siendo uno) como puerta de entrada, recordando la observación de Barron de que las personas son "no sé qués" y ninguna analogía las abarca; (3) ten lista la distinción fe/razón para conversaciones apologéticas: la pregunta nunca es "razón o fe" sino "por debajo de la razón o por encima"; (4) la frase "amado hasta existir" es un buen punto de partida para la oración.
 
+**La regla de Barron para la fe y la razón: la pregunta nunca es «razón o fe», sino «por debajo de la razón o por encima de ella».**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Según la explicación de la voluntad de Tomás tal como la presenta Barron, ¿por qué Dios ama necesariamente a las criaturas?**
 A. Porque Dios siente una atracción emocional hacia ellas que cambia con el tiempo
@@ -146,14 +148,13 @@ C. Son modos distintos en que el único Dios se nos manifiesta
 *Por qué B: una diferencia en el ser o en la mente haría dos dioses (triteísmo), y los meros modos serían modalismo; Tomás sitúa la distinción puramente en la relación.*
 
 ## Hilos abiertos
-- ✅ **Transcripción confirmada como completa:** termina con una frase de cierre ("un buen lugar para terminar esta lección"). Errores tipográficos menores en la transcripción ("Trinixty", "imself") no afectan el contenido.
 - **La creación como acto de voluntad vs. la procesión del Hijo como no querida:** Barron deja la creación para la próxima lección (Cap. 5 La doctrina de la creación).
 - **Grados de ser** (por qué Dios quiere para un ángel más bien que para un perro, y por qué a Tomás "le gusta la variedad en la creación"): prometido para más adelante.
 - **Ángeles:** presentados brevemente como intelectos puros; Tomás como *Doctor Angelicus* y *Doctor Communis*.
 - **Filioque y Oriente:** la procesión "del Padre y del Hijo" se afirma sin la controversia histórica.
 - **Fuentes de las citas atribuidas** ("Se goza a sí mismo", *si comprehendis*): no se dan en la lección; verificar antes de citar.
 
-## Lo que se omitió deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - Repaso del Cap. 3 (simplicidad, inmutabilidad, eternidad, conocimiento) más allá de una línea.
 - Apartes: la pausa de Barron para tomar agua, el "si tienes un año" sobre el *De Trinitate*, las digresiones extensas sobre el golf y la ropa para cenar, la ilustración de "saldrías de la sala" completa.
 - Repeticiones del principio de la formación de imágenes (lo reformula tres o cuatro veces).

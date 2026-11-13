@@ -1,7 +1,7 @@
 # Barron — Thomas Aquinas, Ch.4: The Trinity
 *How Aquinas, following Augustine, reads the Trinity through the mind's self-knowledge and self-love: one God, two processions, three persons as subsistent relations, four immanent relations, plus his account of God's will and love and of faith as supra-rational.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 4 (transcript). Fourth of eight lectures; follows the divine attributes (Ch.3) and precedes the doctrine of creation (Ch.5). Transcript confirmed complete: it closes on Dante's "love that moves the planets and the other stars" and Barron's "probably a good place to end this lecture."*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 4 (transcript). Fourth of eight lectures; follows the divine attributes (Ch.3) and precedes the doctrine of creation (Ch.5).*
 
 ## Why This Matters
 Up to this lecture Barron has kept Aquinas on purely philosophical ground: the five ways, simplicity, immutability, eternity, knowledge. A pious Jew, a Muslim or a secular philosopher could follow most of it. Here he crosses into properly theological territory, the distinctively Christian claim that the one God of Israel is Father, Son and Holy Spirit. He does it in three moves: (1) he finishes the attributes with God's will and love; (2) he explains why faith is above reason, not below it; (3) he walks through Aquinas's "image-making" argument from the *Summa contra Gentiles*, Book 4, ending in a compact 1-2-3-4 summary you can memorize. It is the densest lecture so far, and the one that ties the abstract "unchanged changer" to "God is love."
@@ -119,6 +119,8 @@ Barron switches from the *Summa Theologiae* to the earlier, more philosophical *
 ## Practical Takeaway
 Study-level takeaways: (1) memorize the 1-2-3-4 schema; it is the fastest way to state the doctrine without falling into modalism or tritheism; (2) use the mind analogy (I know myself, I love myself, I am still one) as an entry point, while remembering Barron's point that the persons are "I don't know whats" and no analogy captures them; (3) keep the faith/reason distinction ready for apologetics conversations: the question is never "reason or faith" but "below reason or above it"; (4) the "loved into being" line is a usable prayer starting point.
 
+**Barron's rule for faith and reason: the question is never "reason or faith," but "below reason or above it."**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given Aquinas's account of will as Barron presents it, why does God necessarily love creatures?**
 A. Because God feels an emotional attraction to them that changes over time
@@ -145,14 +147,13 @@ C. They are different modes in which the one God appears to us
 *Why B: difference in being or mind would make two gods (tritheism), and mere modes would be modalism; Aquinas locates the distinction purely in relation.*
 
 ## Open Threads
-- ✅ **Transcript confirmed complete:** it ends with a closing line ("a good place to end this lecture"). Minor typos in the transcript ("Trinixty," "imself") do not affect content.
 - **Creation as an act of will vs. the Son's procession as not willed:** Barron flags creation for the next lecture (Ch.5 Doctrine of Creation).
 - **Degrees of being** (why an angel is willed more good than a dog, and why Aquinas "likes the variety in creation"): promised for later.
 - **Angels:** introduced briefly as pure intellects; Aquinas as *Doctor Angelicus* and *Doctor Communis*.
 - **Filioque and the East:** the procession "from the Father and the Son" is asserted without the historical controversy.
 - **Sources of the attributed quotes** ("He enjoys Himself," *si comprehendis*): not given in the lecture; verify before quoting.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Recap of Ch.3 (simplicity, immutability, eternity, knowledge) beyond one line.
 - Asides: Barron's drink-of-water pause, "if you have a year" on *De Trinitate*, extended golf and dinner-clothes riffs, the "you'd leave the room" illustration in full.
 - Repetitions of the image-making principle (he restates it three or four times).

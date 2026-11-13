@@ -2,7 +2,7 @@
 
 *El retrato que Barron hace de Tomás de Aquino en su contexto: el luminoso renacimiento del siglo XIII, su camino desde Montecassino pasando por Nápoles, París y los dominicos, cómo funciona un artículo de la Suma como un debate escenificado, y el santo que llamó paja a su obra.*
 
-*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 1 (transcripción). Primera de ocho lecciones; prepara el escenario (cultura, vida, cómo funcionan los textos) antes de que el Cap. 2 comience con el pensamiento propiamente dicho. Transcripción completa: termina con el cierre del propio Barron.*
+*Fuente: Obispo Robert Barron, curso de Peterson Academy "Thomas Aquinas", Lección 1 (transcripción). Primera de ocho lecciones; prepara el escenario (cultura, vida, cómo funcionan los textos) antes de que el Cap. 2 comience con el pensamiento propiamente dicho.*
 
 ## Por qué importa
 Esta es la lección que prepara el escenario del curso. Antes de los argumentos sobre Dios, los atributos, la Trinidad, la creación, el mal, la persona humana y la felicidad, Barron quiere que sepas quién fue Tomás de Aquino, qué cultura lo produjo y cómo están construidos sus textos. El aporte más útil es la anatomía de un artículo de la *Suma*: una vez que lo ves como un debate en vivo puesto por escrito, la página árida se abre. El segundo es apologético: Barron desmonta el relato de la "Edad Oscura hasta el Renacimiento". El tercero es el santo detrás del erudito, el hombre que escribió unos 50 volúmenes en folio y luego lo llamó todo "paja".
@@ -125,6 +125,8 @@ Las partes se dividen en **cuestiones**, las cuestiones en **artículos**, y "lo
 ## Aplicación práctica
 (1) Lee la *Suma* como la transcripción de un debate: encuentra el utrum, lee el respondeo y luego mira cómo responde a la objeción más fuerte. (2) Usa el hábito del steel-man en la apologética: expón bien la postura contraria y nombra lo que tiene de acertado antes de corregirla. (3) Ten a la mano los argumentos contra la "Edad Oscura": catedrales, Dante, universidades, Francisco, monjes copiando a los clásicos. (4) Mantén juntos el estudio y la oración, como hizo Tomás.
 
+**El veredicto de Barron sobre ese siglo: llámalo como quieras, pero oscuro no fue.**
+
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. ¿Qué resume mejor el argumento de Barron contra el relato de la "Edad Oscura"?**
 A. El Renacimiento del siglo XV redescubrió textos clásicos que los medievales habían perdido
@@ -151,13 +153,12 @@ C. Muestra un simple agotamiento por exceso de trabajo, nada más
 *Por qué B: "paja" es relativo a lo revelado, no una retractación; Barron menciona un posible derrame cerebral (el "stupefactus" de Teodora) y una experiencia mística.*
 
 ## Hilos abiertos
-- ✅ **Transcripción completa:** termina con un cierre claro ("retomaremos la próxima vez con Tomás abordando la cuestión de Dios").
 - **Qué argumento sobre Dios** cautivó a Barron a los 14 años no se nombra; el Cap. 2 cubre los argumentos.
 - **Pedro de Irlanda y las prohibiciones papales de Aristóteles:** se nombran, no se detallan.
 - **El argumento contra los maniqueos** en la mesa de San Luis no se da; el Cap. 6 sobre el mal quizá toque el dualismo maniqueo.
 - **El monasterio cisterciense** donde murió no se nombra en la lección.
 
-## Lo que se recortó deliberadamente (autoevaluación)
+## Lo que se dejó fuera de esta nota
 - Color de viaje: la subida a pie a Roccasecca, la reputación "atrevida" de Nápoles, el origen del nombre de Colonia.
 - Digresiones sobre memorizar el Corán y los 33 cantos y tercetos de Dante.
 - El compañero de clase que intentó ayudar a Tomás con la lógica y terminó corregido.

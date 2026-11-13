@@ -2,7 +2,7 @@
 # Barron — Thomas Aquinas, Ch.5: Doctrine of Creation
 *Why God creates (not from need), what His power can and cannot do, creation from nothing as a continual relation rather than a past event, and why the world's beauty and variety display God's glory.*
 
-*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 5 (transcript). Fifth of eight lectures; turns from God in Himself (Ch.2 to Ch.4) to the world in relation to God, and sets up Ch.6 on providence and evil. Texts used: Summa Theologiae I, q.44 onward, and the disputed question De Potentia Dei, which Barron studied for his Paris doctorate. Transcript reads as complete: it ends on a clean segue to the next lecture.*
+*Source: Bishop Robert Barron, Peterson Academy course "Thomas Aquinas," Lecture 5 (transcript). Fifth of eight lectures; turns from God in Himself (Ch.2 to Ch.4) to the world in relation to God, and sets up Ch.6 on providence and evil. Texts used: Summa Theologiae I, q.44 onward, and the disputed question De Potentia Dei, which Barron studied for his Paris doctorate.*
 
 ## Why This Matters
 Barron calls creation "as puzzling as the Trinity in some ways," and here Aquinas's metaphysics turns directly into spirituality. Four ideas carry it: (1) God creates out of overflowing goodness, never need; (2) God's power is unlimited but never cut loose from His mind (the case against voluntarism); (3) creation from nothing means nothing stands between us and God, and creation is happening now; (4) a creature is a relation to God more than a substance over against Him. Each has a spiritual consequence Barron draws from years of spiritual direction.
@@ -119,6 +119,8 @@ Barron flags power as a live question: modern philosophy for some 200 years, and
 ## Practical Takeaway
 As Barron frames them: (1) when practice feels like appeasing a needy God, recall *bonum diffusivum sui*: He wants, not needs; (2) test any claim about power by asking whether it is tied to truth and the good, or is a hammer; (3) try Merton's definition literally, a few minutes of "sit and sink"; (4) use the ontological-siblings idea when an enemy is hard to love; (5) use *integritas, consonantia, claritas* to notice beauty.
 
+**Aquinas's point, as Barron reads it: God creates because he wants you, not because he needs you, and he is creating you right now.**
+
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given Barron's contrast between Aristotle and Plato, why does Aquinas say God creates?**
 A. Because God, like Aristotle's prime mover, needed something outside Himself to know and love
@@ -145,13 +147,12 @@ C. Because morality is whatever God commands, whether or not it fits reality
 *Why B: Barron grants the enmity is real on the surface but grounds the Sermon on the Mount in a shared relation to the Creator. Answer C is the voluntarism the lecture rejects.*
 
 ## Open Threads
-- ✅ **Transcript reads as complete:** it ends with a clean segue to providence and evil (Ch.6). No mid-sentence cut and no duplication.
 - **Providence and evil:** "why does God permit even great evil and suffering" in a beautiful creation is explicitly deferred to Ch.6.
 - **God as general of an army:** Barron says "I'll come back to that"; likely in Ch.6.
 - **Citations to verify:** the tertia pars Incarnation argument and the Summa questions after q.44 are unnumbered; Barron's Descartes summary is compressed and his de Caussade dating looks off 🟡.
 - **Back-references:** Psalm 139, Irenaeus and a Teilhard childhood story were cited in earlier lectures; the Teilhard story is not retold here.
 
-## What Was Deliberately Cut (Self-Audit)
+## Left Out of This Note
 - Personal asides (Paris memories, his golf swing, childhood myths), repeated "sit and sink" refrains, the full cave allegory and the football-catch example.
 - The Islam comparison in the Regensburg Address, beyond Barron's one-line remark, because the lecture explicitly sets it aside.
 
