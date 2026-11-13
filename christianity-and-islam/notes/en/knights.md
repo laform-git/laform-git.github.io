@@ -7,3 +7,5 @@ The origin is medical, not martial. A hospice in Jerusalem cared for sick and de
 After the loss of the Holy Land the order relocated: Cyprus, then Rhodes from 1310, then Malta from 1530 after Suleiman expelled them. There it withstood the Ottoman siege of 1565, one of the decisive sieges of the century, and operated as a naval power and a hospital state until Napoleon took the island in 1798.
 
 It survives today as the Sovereign Military Order of Malta, a lay religious order with a peculiar status in international law, running hospitals, clinics and relief operations. Its interest is the combination the modern mind finds hardest to hold together: a body of armed men whose rule bound them primarily to nursing the poor.
+
+**They carried swords, but their rule put the sick first.**

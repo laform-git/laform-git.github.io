@@ -20,6 +20,8 @@ This is Aquinas's real point. A claim to speak for God needs credentials that on
 
 The same test cuts in both directions. If force is no sign of God, then every Christian attempt to spread the faith by coercion was equally without warrant. 🟢 *Dignitatis Humanae* §10 (1965) teaches that the act of faith is by its very nature free and that no one may be forced to embrace the faith against his will. Benedict XVI made the same argument at Regensburg (12 September 2006): because God acts with *logos*, with reason, spreading faith through violence is contrary to God's nature. He framed this through a quotation from the Byzantine emperor Manuel II and afterward made clear the quoted words were not his own judgment on Islam.
 
+**Power proves nothing about God. That rule judges Christians as much as anyone.**
+
 🕯 **Reflect:** Where do I try to win arguments about faith by pressure, volume, or cleverness, rather than by the witness of a changed life?
 
 ---

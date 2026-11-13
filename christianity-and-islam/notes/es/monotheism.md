@@ -5,3 +5,5 @@
 El monoteísmo de Israel fue revolucionario en el mundo antiguo: un solo Dios, no un panteón; un Dios personal, no una fuerza impersonal; un Dios creador que está fuera y por encima de la creación, no identificado con ella.
 
 El monoteísmo cristiano es trinitario: hay un solo Dios que es Padre, Hijo y Espíritu Santo. Esto no es una concesión que diluya el monoteísmo, sino su revelación más profunda: el único Dios es una eterna comunión de amor. La unidad de Dios es la unidad de tres Personas en una sola naturaleza.
+
+**Un solo Dios, y ese único Dios es una comunión de amor.**

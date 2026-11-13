@@ -2,7 +2,7 @@
 
 ## What Preceded the First Crusade (1096)
 
-The Crusades did not emerge in a vacuum. Starting in the 7th century, Arab and Islamic armies had expanded across an enormous region — lands that had been Christian for centuries.
+The Crusades did not come out of nowhere. Starting in the 7th century, Arab and Islamic armies had expanded across an enormous region — lands that had been Christian for centuries.
 
 **By 711 AD — before the First Crusade — these territories had been conquered:**
 
@@ -24,7 +24,7 @@ The Crusades were not initiated as an unprovoked offensive — they were a milit
 
 ## Historical Nuance
 
-The Crusades were mixed in their conduct and motivation. Alongside genuine religious zeal were political ambition, violence against Jews and Eastern Christians, and military failures. They cannot be reduced to either pure heroism or pure villainy.
+The Crusades were mixed in their conduct and motivation. Alongside genuine religious zeal were political ambition, violence against Jews and Eastern Christians, and military failures. **They cannot be reduced to either pure heroism or pure villainy.**
 
 Context matters: judging 11th–13th century military campaigns by 21st century moral standards, without accounting for the geopolitical realities that provoked them, distorts more than it illuminates.
 

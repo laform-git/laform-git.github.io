@@ -6,4 +6,6 @@ The shortest document of the Council, it begins from the unity of the human race
 
 Its sections treat Hinduism and Buddhism (n. 2); Muslims, whom the Church regards with esteem as worshippers of the one God (n. 3); the Jewish people, rejecting the charge that Jews then or now bear collective guilt for Christ's death and deploring antisemitism (n. 4); and universal brotherhood, condemning discrimination on grounds of race, color, condition of life or religion (n. 5).
 
+**The Church rejects nothing that is true and holy in other religions, and she does not stop proclaiming Christ.**
+
 External: [Nostra Aetate — full text (vatican.va)](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)

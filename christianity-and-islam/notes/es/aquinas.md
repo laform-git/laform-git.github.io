@@ -20,6 +20,8 @@ Este es el verdadero punto de Santo Tomás. Quien afirma hablar en nombre de Dio
 
 La misma prueba vale en ambas direcciones. Si la fuerza no es signo de Dios, entonces todo intento cristiano de propagar la fe por coacción careció igualmente de autoridad. 🟢 *Dignitatis Humanae* §10 (1965) enseña que el acto de fe es por su propia naturaleza libre y que nadie puede ser forzado a abrazar la fe contra su voluntad. Benedicto XVI expuso el mismo argumento en Ratisbona (12 de septiembre de 2006): porque Dios actúa con *logos*, con razón, difundir la fe mediante la violencia es contrario a la naturaleza de Dios. Lo planteó a través de una cita del emperador bizantino Manuel II y después aclaró que las palabras citadas no eran su propio juicio sobre el islam.
 
+**El poder no prueba nada sobre Dios. Esa regla juzga a los cristianos igual que a cualquiera.**
+
 🕯 **Reflexiona:** ¿Dónde intento ganar discusiones sobre la fe con presión, volumen o ingenio, en lugar de con el testimonio de una vida transformada?
 
 ---

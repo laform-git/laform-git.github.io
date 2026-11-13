@@ -24,7 +24,7 @@ Las cruzadas no se iniciaron como una ofensiva sin provocación: fueron una resp
 
 ## Matices históricos
 
-Las cruzadas tuvieron una conducta y unas motivaciones mixtas. Junto al genuino celo religioso hubo ambición política, violencia contra judíos y cristianos orientales, y fracasos militares. No pueden reducirse ni a puro heroísmo ni a pura villanía.
+Las cruzadas tuvieron una conducta y unas motivaciones mixtas. Junto al genuino celo religioso hubo ambición política, violencia contra judíos y cristianos orientales, y fracasos militares. **No pueden reducirse ni a puro heroísmo ni a pura villanía.**
 
 El contexto importa: juzgar campañas militares de los siglos XI al XIII con los estándares morales del siglo XXI, sin tener en cuenta las realidades geopolíticas que las provocaron, distorsiona más de lo que ilumina.
 

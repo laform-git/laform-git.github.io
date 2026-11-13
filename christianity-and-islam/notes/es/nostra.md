@@ -6,4 +6,6 @@ Es el documento más breve del Concilio y parte de la unidad del género humano,
 
 Sus secciones tratan del hinduismo y el budismo (n. 2); de los musulmanes, a quienes la Iglesia mira con aprecio como adoradores del único Dios (n. 3); del pueblo judío, rechazando la acusación de que los judíos de entonces o de ahora carguen con una culpa colectiva por la muerte de Cristo y deplorando el antisemitismo (n. 4); y de la fraternidad universal, condenando toda discriminación por motivos de raza, color, condición de vida o religión (n. 5).
 
+**La Iglesia no rechaza nada de lo verdadero y santo que hay en otras religiones, y no deja de anunciar a Cristo.**
+
 Enlace externo: [Nostra Aetate — texto completo (vatican.va)](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)
