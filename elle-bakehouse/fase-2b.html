@@ -1,0 +1,170 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Elle Bakehouse · Fase 2B</title><link rel="stylesheet" href="../claude-tips/style.css?v=3"><link rel="stylesheet" href="../claude-tips/theme.css?v=3">
+<style>
+.chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.step{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-top:1px solid rgba(0,0,0,.07)}
+.step:first-child{border-top:none}
+.step .n{flex:none;margin:0}
+.step div p{margin:2px 0 0;font-size:16px;color:#374151}
+.step b{font-size:17px}
+.chk{list-style:none;margin:0;padding:0}
+.chk li{display:flex;gap:10px;padding:8px 0;border-top:1px solid rgba(0,0,0,.07);font-size:16px}
+.chk li:first-child{border-top:none}
+.chk li:before{content:"";flex:none;width:20px;height:20px;border:2.5px solid #15803D;border-radius:5px;margin-top:2px}
+.grp{border:2px solid;border-radius:14px;padding:12px 14px;margin-top:12px}
+.grp h3{margin:0 0 2px;font-size:19px}
+.grp .sub{margin:0 0 6px;font-size:15px;color:#4B5563}
+.imp{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;padding:10px 0;border-top:1px solid rgba(0,0,0,.07)}
+.imp:first-of-type{border-top:none}
+.imp .n{grid-row:span 3;margin:0}
+.imp b{font-size:17px}
+.imp p{margin:0;font-size:15px;color:#374151}
+.imp .meta{font-size:13px;font-weight:700;letter-spacing:.04em;color:#6B7280}
+.tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.06em;border-radius:999px;padding:2px 9px;background:#FFF7ED;color:#C2410C;margin-left:6px;vertical-align:2px}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 0;border-top:1px solid rgba(0,0,0,.07)}
+.flow:first-child{border-top:none}
+.flow .arrow{font-size:20px;transform:none!important;margin:0}
+.nw{border-color:#EA580C;background:#FFF7ED}
+.out{border-color:#16A34A;background:#F0FDF4}
+.flab{width:100%;font-size:12px;font-weight:700;letter-spacing:.06em;color:#6B7280}
+.copy{position:relative}
+.copy pre{font-family:Menlo,Consolas,monospace;font-size:13.5px;line-height:1.55;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:14px;margin:10px 0 0;white-space:pre-wrap;overflow-wrap:anywhere;color:#1F2937;max-height:560px;overflow:auto}
+.copy button{position:absolute;top:8px;right:8px;font:700 14px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:#7C3AED;color:#fff;border:none;border-radius:999px;padding:8px 14px;cursor:pointer}
+.note{font-size:15px;color:#4B5563;margin:10px 0 0}
+.pg2{break-before:page}
+@media (max-width:640px){.copy pre{font-size:13px}}
+html.dark .chip{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+html.dark .nw{background:#33240f;border-color:#EA580C}html.dark .out{background:#15291d;border-color:#16A34A}
+html.dark .imp p,html.dark .step div p,html.dark .note,html.dark .grp .sub{color:#b8bcc4}
+html.dark .copy pre{background:#23272e;color:#e6e7e9}
+html.dark .tag{background:#33240f;color:#f3bf62}
+.btnl{display:inline-block;margin-top:12px;background:#C2410C;color:#fff!important;text-decoration:none;font-weight:800;font-size:17px;padding:12px 18px;border-radius:999px}
+.say{font-family:Menlo,Consolas,monospace;font-size:14.5px;background:#F1F5F9;border-left:5px solid #2563EB;border-radius:8px;padding:9px 12px;margin:8px 0 0}
+html.dark .say{background:#23272e;color:#e6e7e9}
+.tbl{width:100%;border-collapse:collapse;font-size:15.5px}.tbl th,.tbl td{text-align:left;padding:8px 6px;border-top:1px solid rgba(0,0,0,.08);vertical-align:top}.tbl th{font-size:13px;letter-spacing:.05em;color:#6B7280}
+html.dark .tbl th,html.dark .tbl td{border-color:rgba(255,255,255,.1)}
+</style><script src="../lib/tech-theme.js" data-toggle="top" data-lang="es"></script></head><body><div class="wrap">
+
+<div class="top"><a href='index.html'>← Elle Bakehouse</a><span>Fase 2B</span><span></span></div>
+<div class="hdr"><div><div class="lvl">ELLE BAKEHOUSE · FASE 2B · AVANZADA</div><h1>Elle Bakehouse · Fase 2B</h1><p>Tu sitio pro: tú dices qué cambiar y Claude Code hace todo lo técnico. GitHub guarda cada versión y Cloudflare lo pone en línea.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+
+<div class="card"><div class="ch navy">Fase 2 o Fase 2B</div><div class="cb">
+<table class="tbl"><tr><th></th><th>FASE 2 · SENCILLA</th><th>FASE 2B · PRO</th></tr>
+<tr><td><b>Quién hace el trabajo</b></td><td>Claude te da un archivo y tú lo subes</td><td>Claude Code hace todo; tú solo apruebas</td></tr>
+<tr><td><b>Dónde vive el sitio</b></td><td>GitHub Pages</td><td>Cloudflare (muy rápido, gratis)</td></tr>
+<tr><td><b>Tus fotos</b></td><td>Las subes una por una</td><td>Una carpeta por sección; el sitio se arma solo</td></tr>
+<tr><td><b>Páginas</b></td><td>Una sola página con el menú</td><td>Inicio, Menú, una por sección, Nosotros y Contacto</td></tr>
+<tr><td><b>Necesitas</b></td><td>Teléfono o computadora</td><td>Una Mac con Claude Code</td></tr>
+</table>
+<p class="note">Empieza con la fase 2. Pasa a la 2B cuando quieras más páginas o cambiar el sitio solo con pedirlo. Si no tienes Mac, alguien de tu familia que use Claude Code puede hacerlo por ti.</p>
+</div></div>
+
+<div class="card"><div class="ch green">Cómo funciona</div><div class="cb">
+<div class="flow"><span class="chip">Tú dices qué cambiar</span><span class="arrow">→</span><span class="chip">Claude Code lo hace</span><span class="arrow">→</span><span class="chip">GitHub guarda cada versión</span><span class="arrow">→</span><span class="chip">Cloudflare lo pone en línea</span></div>
+<p class="note">GitHub es el archivo de tu sitio: guarda cada cambio con su fecha. Cloudflare es la vitrina: muestra el sitio al mundo. Claude Code es tu ayudante: hace todo lo técnico en tu Mac.</p>
+</div></div>
+
+<div class="card"><div class="ch orange">Una sola vez: abre tus cuentas</div><div class="cb">
+<div class="step"><span class="n" style="background:#141B2D">1</span><div><b>GitHub</b><p>Usa tu cuenta de la fase 2. Claude Code revisa si ya estás conectada; si no, abre tu navegador y tú solo tocas <b>Authorize</b>.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">2</span><div><b>Cloudflare</b><p>Crea una cuenta gratis en cloudflare.com. Luego Claude Code abre tu navegador para conectarla y tú tocas <b>Allow</b>.</p></div></div>
+
+<p class="note">Claude nunca escribe tu contraseña. Tú apruebas cada conexión en tu navegador.</p>
+</div></div>
+
+<div class="card"><div class="ch orange">Cómo se arma tu sitio</div><div class="cb">
+<div class="step"><span class="n" style="background:#141B2D">1</span><div><b>Un lugar privado en GitHub</b><p>Claude Code crea un repositorio <b>privado</b> solo para tu sitio y lo guarda en tu Mac, fuera de Dropbox.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">2</span><div><b>Las carpetas</b><p>Solo la carpeta <b>public</b> se publica. Dentro, una carpeta de fotos por sección: <b>Pasteles</b>, <b>Galletas</b>, <b>Roles</b>. Claude nunca les cambia el nombre a tus fotos. Un pequeño programa arma todas las páginas a partir de esas carpetas.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">3</span><div><b>Si ya tienes un sitio</b><p>Claude copia sus textos y fotos sin tocar el sitio viejo.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">4</span><div><b>Fotos ligeras</b><p>En el sitio van copias de tamaño web (unos 1800 píxeles de ancho). Las originales se quedan en tu Drive. Claude deja fuera fotos repetidas, capturas de pantalla y fotos de internet.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">5</span><div><b>Revisión de fotos</b><p>Antes de publicar, Claude lee el texto que aparece en cada foto (nombres de otras marcas, marcas de agua, créditos de fotógrafos) y te dice qué encontró.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">6</span><div><b>Las páginas</b><p>Inicio con fotos que pasan solas, Menú, una página por sección, Nosotros y Contacto. Limpio, con mucho espacio y hecho para el celular. Al tocar una foto se ve en grande.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">7</span><div><b>Lo ves antes que nadie</b><p>Claude te lo enseña en tu navegador, en tamaño computadora y en tamaño celular.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">8</span><div><b>Se publica</b><p>Cloudflare lo pone en línea en una dirección de prueba como <b>elle-bakehouse.tu-cuenta.workers.dev</b>.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">9</span><div><b>Se revisa todo</b><p>Claude abre cada página y cada foto, y confirma que los archivos privados <b>no</b> se ven en internet.</p></div></div>
+
+<div class="step"><span class="n" style="background:#141B2D">10</span><div><b>Se guarda en GitHub</b><p>Cada versión queda guardada con su fecha.</p></div></div>
+
+</div></div>
+
+<div class="card"><div class="ch red">Para cambiar algo después</div><div class="cb">
+<div class="step"><span class="n" style="background:#EA580C">A</span><div><b>Dilo con tus palabras</b><p>Abre Claude Code en la carpeta de tu sitio y escribe, por ejemplo:</p><div class="say">Cambia el precio del pastel de chocolate a $480 y publícalo.</div><p>Claude hace el cambio, te lo enseña, lo publica, lo revisa y lo guarda.</p></div></div>
+
+<div class="step"><span class="n" style="background:#EA580C">B</span><div><b>Fotos nuevas</b><p>Ponlas en tu carpeta <b>Fotos nuevas</b> de Google Drive, una subcarpeta por sección. Claude las pasa al sitio y vacía la carpeta.</p></div></div>
+
+<div class="step"><span class="n" style="background:#EA580C">C</span><div><b>Desde otra Mac</b><p>Claude primero trae la última versión de GitHub y, al terminar, la vuelve a guardar.</p></div></div>
+
+</div></div>
+
+<div class="card"><div class="ch navy">Tu propia dirección</div><div class="cb">
+<p class="note" style="margin-top:0">Con tu permiso, y como un paso aparte, tu dominio (por ejemplo <b>ellebakehouse.com</b>) se conecta al sitio de Cloudflare. Tus clientas ven tu dirección y no la de prueba. El dominio sí tiene un costo al año. Claude nunca toca tu dominio actual ni tu sitio viejo sin preguntarte.</p>
+</div></div>
+
+<div class="card"><div class="ch green">Reglas</div><div class="cb">
+<ul class="list">
+<li>✅ <b>Privado:</b> el repositorio es privado y ningún archivo guarda contraseñas, claves ni números de cuenta.</li>
+<li>✅ <b>Nada se borra:</b> lo que ya no sirve se renombra con <b>zz-BORRAR</b> y la fecha.</li>
+<li>✅ <b>Bitácora:</b> una nota corta en tu Drive con cada cambio, la fecha y en qué Mac se hizo, lo más nuevo arriba.</li>
+</ul>
+</div></div>
+
+<div class="card"><div class="ch orange">El mensaje para Claude Code</div><div class="cb">
+<p class="note" style="margin-top:0">La primera vez, abre Claude Code en tu Mac y pega todo esto. Claude te pregunta lo que falte y te pide aprobar cada conexión.</p>
+<div class="copy"><button type="button" id="cp">Copiar</button><pre id="blk">Hazme el sitio web de mi repostería, Elle Bakehouse, con GitHub y Cloudflare. Tú haces todo lo técnico; yo solo apruebo en mi navegador.
+
+UNA SOLA VEZ
+1. GitHub: revisa con `gh auth status`. Si no estoy conectada, corre `gh auth login` y yo apruebo en el navegador.
+2. Cloudflare: corre `npx wrangler login` y yo apruebo en el navegador. Nunca escribas mi contraseña.
+
+CÓMO ARMARLO
+1. Crea un repositorio PRIVADO en mi GitHub, solo para este sitio. Guárdalo en ~/Claude/repos/elle-bakehouse (fuera de Dropbox).
+2. Carpetas:
+   - public/ = el sitio. SOLO esta carpeta se publica.
+   - public/images/&lt;Sección&gt;/ = una carpeta por sección (Pasteles, Galletas, Roles). Nunca les cambies el nombre a mis fotos.
+   - tools/build.py = arma todas las páginas a partir de las carpetas de fotos (orden, portadas, contacto). Para cambiar el sitio, cambia build.py, no las páginas.
+   - wrangler.jsonc = configuración de Cloudflare, con "assets": { "directory": "./public" }.
+   - .gitignore = .wrangler/, node_modules/, .DS_Store, .env* (nunca guardes mi número de cuenta).
+   - README.md = guía corta de las carpetas y de cómo publicar.
+3. Si ya tengo un sitio, copia sus textos y fotos sin cambiarlo.
+4. Fotos: copias de tamaño web (máximo unos 1800 px de ancho, JPEG calidad ~80). Las originales se quedan en mi Google Drive. Deja fuera fotos de internet, capturas y repetidas.
+5. Lee el texto de cada foto (nombres de otras marcas, marcas de agua, créditos) y dime qué encontraste antes de publicar.
+6. Páginas: Inicio (fotos que pasan solas + mosaico de secciones), Menú con precios, una página por sección, Nosotros y Contacto (botones para pedir por Instagram y WhatsApp). Limpio, con mucho espacio, hecho para el celular. Al tocar una foto se ve en grande.
+7. Enséñamelo en el navegador, en tamaño computadora y celular, antes de publicar.
+8. Publica con `npx wrangler deploy`. La dirección de prueba será como elle-bakehouse.&lt;cuenta&gt;.workers.dev.
+9. Revisa que todas las páginas y fotos abran, y que README, build.py y wrangler.jsonc NO se vean en internet.
+10. Guarda y sube todo a GitHub.
+
+PARA CAMBIAR DESPUÉS
+- Yo digo qué cambiar. Tú editas build.py o las fotos, lo armas, me lo enseñas, publicas, revisas y guardas en GitHub.
+- Fotos nuevas: las dejo en mi carpeta "Fotos nuevas" de Google Drive, una subcarpeta por sección. Tú las pasas a public/images/&lt;Sección&gt;/ y vacías la carpeta.
+- En otra Mac: primero `git pull`; al terminar, sube los cambios.
+
+MI DOMINIO (paso aparte, solo con mi permiso)
+- Conecta mi dominio al sitio de Cloudflare. Nunca toques mi dominio actual, su DNS ni mi sitio viejo sin preguntarme.
+
+REGLAS
+- Repositorio privado. Ningún archivo con contraseñas, claves o números de cuenta.
+- Nunca borres: renombra con "zz-BORRAR &lt;fecha&gt;".
+- Lleva una bitácora corta en mi Google Drive: qué cambió, en qué Mac, lo más nuevo arriba.</pre></div>
+</div></div>
+
+<div class="rem"><div class="k">PARA RECORDAR</div><div class="m">Tú dices qué cambiar. Claude Code lo hace. GitHub lo guarda. Cloudflare lo publica.</div></div>
+
+<div class="pn"><a href='fase-2.html'><small>Anterior</small>Elle Bakehouse · Fase 2</a><a class='next' href='fase-3.html'><small>Siguiente</small>Elle Bakehouse · Fase 3</a></div>
+
+<div class="foot">Elle Bakehouse · Fase 2B</div></div><script>
+document.getElementById('cp').addEventListener('click',function(){var b=this,el=document.getElementById('blk'),t=el.innerText;
+function sel(){var r=document.createRange();r.selectNodeContents(el);var s=getSelection();s.removeAllRanges();s.addRange(r);b.textContent='Seleccionado';}
+if(navigator.clipboard){navigator.clipboard.writeText(t).then(function(){b.textContent='Copiado';},sel);}else{sel();}
+setTimeout(function(){b.textContent='Copiar';},2500);});
+</script></body></html>
