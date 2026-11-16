@@ -1,8 +1,8 @@
 # Islam
 
-*"La religión monoteísta que se remonta a la predicación de Mahoma en la Arabia del siglo VII y que sostiene que el Corán es la revelación definitiva de Dios."*
+*"La religión monoteísta que se remonta a la predicación de Muhammad en la Arabia del siglo VII y que sostiene que el Corán es la revelación definitiva de Dios."*
 
-Los musulmanes creen en un solo Dios, Creador y Juez, y sostienen que Mahoma (c. 570–632) es el último de los profetas. Su práctica se centra en los Cinco Pilares: la profesión de fe (*shahada*), la oración cinco veces al día (*salat*), la limosna (*zakat*), el ayuno del Ramadán (*sawm*) y la peregrinación a La Meca (*hajj*).
+Los musulmanes creen en un solo Dios, Creador y Juez, y sostienen que Muhammad (c. 570–632) es el último de los profetas. Su práctica se centra en los Cinco Pilares: la profesión de fe (*shahada*), la oración cinco veces al día (*salat*), la limosna (*zakat*), el ayuno del Ramadán (*sawm*) y la peregrinación a La Meca (*hajj*).
 
 Honran a Abraham, Moisés y Jesús como profetas y tienen a María en gran estima, pero niegan la Trinidad y la divinidad de Cristo, y el Corán niega que Jesús haya sido crucificado (4,157).
 

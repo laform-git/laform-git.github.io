@@ -64,7 +64,7 @@ Los resultados inmediatos que relata:
 - Una relación basada en un poder absoluto y sin límites
 - Obediencia movida por el miedo al castigo
 - Sin amor en la ecuación: solo mando y cumplimiento
-- Cuanto más se estudia a Mahoma, sostiene ella, más moralmente repugnante resulta la figura
+- Cuanto más se estudia a Muhammad, sostiene ella, más moralmente repugnante resulta la figura
 
 ### Cristianismo — Entrega al amor
 En contraste, la relación cristiana con Dios es:
