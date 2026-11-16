@@ -1,0 +1,103 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Claude-11 Claude Code: From Talking to Doing · Claude Tips</title><link rel="stylesheet" href="style.css?v=3"><link rel="stylesheet" href="theme.css?v=3"><script src="theme.js?v=3"></script>
+<style>
+.quote{font-family:Menlo,Consolas,monospace;font-size:15px;background:#F1F5F9;border-left:6px solid #7C3AED;border-radius:8px;padding:12px 14px;margin:10px 0 0;color:#1F2937;white-space:pre-wrap}
+.qlab{font-size:13px;font-weight:700;letter-spacing:.06em;color:#6D28D9;margin-top:14px}
+.tbl{width:100%;border-collapse:collapse;font-size:15px}
+.tbl th,.tbl td{text-align:left;vertical-align:top;padding:8px 8px;border-top:1px solid #E5E7EB}
+.tbl th{font-size:13px;letter-spacing:.05em;color:#6B7280;border-top:none}
+.tbl td:first-child{font-weight:700;width:30%}
+.tw{overflow-x:auto}
+.goal{font-size:17px;margin:0}
+.goal li{margin:4px 0}
+details.q{border:2px solid #CBD5E1;border-radius:12px;padding:10px 14px;margin:8px 0;background:#fff}
+details.q summary{font-weight:700;cursor:pointer}
+details.q p{margin:8px 0 0}
+.practice li{margin:8px 0;font-size:16px}
+.mini{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.mini .box h3{font-size:17px}
+.mini.two{grid-template-columns:repeat(2,1fr)}
+.flow{display:flex;flex-wrap:wrap;align-items:center;gap:8px;justify-content:center}
+.flow .chip{background:#fff;border:2px solid #CBD5E1;border-radius:10px;padding:6px 10px;font-size:15px;font-weight:600}
+.flow .ar{font-size:20px;color:#64748B;font-weight:700}
+@media (max-width:640px){.mini,.mini.two{grid-template-columns:1fr}.tbl td:first-child{width:36%}}
+html.dark .quote{background:#23272e;color:#e6e7e9}
+html.dark .tbl th,html.dark .tbl td{border-top-color:#3a3d42}
+html.dark details.q,html.dark .flow .chip{background:#26282b;border-color:#3a3d42;color:#e6e7e9}
+@media print{details.q{break-inside:avoid}details.q p{display:block}}
+.ch.pur{background:#7C3AED}.ch.gry2{background:#64748B}
+.lv{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.08em;background:#7C3AED;color:#fff;border-radius:999px;padding:2px 9px;margin-left:6px;vertical-align:2px}
+.steps{display:flex;flex-direction:column;gap:8px}
+.steps>div{display:flex;gap:10px;align-items:flex-start;font-size:16px}
+.steps .n{flex:none}
+</style></head><body><div class="wrap">
+<div class="top"><a href='index.html'>← All guides</a><span>Guide 11</span><a class='lang' href='claude-12-es.html'>Español</a></div>
+<div class="hdr"><div><div class="lvl">CLAUDE CLASS · CLAUDE-11 · ADVANCED</div><h1>Claude Code: From Talking to Doing</h1><p>A chat answers you. Claude Code does the work: on your files, your website and your apps, while you watch and approve.</p></div><svg class="spark" viewBox="0 0 40 40" aria-hidden="true"><g stroke="#F97316" stroke-width="3.4" stroke-linecap="round"><line x1="20" y1="4" x2="20" y2="15"/><line x1="20" y1="25" x2="20" y2="36"/><line x1="4" y1="20" x2="15" y2="20"/><line x1="25" y1="20" x2="36" y2="20"/><line x1="8.7" y1="8.7" x2="16.5" y2="16.5"/><line x1="23.5" y1="23.5" x2="31.3" y2="31.3"/><line x1="31.3" y1="8.7" x2="23.5" y2="16.5"/><line x1="16.5" y1="23.5" x2="8.7" y2="31.3"/></g></svg></div>
+<div class="card"><div class="ch navy">In this lesson</div><div class="cb">
+<ul class="goal"><li>What Claude Code is, and how it is different from a chat</li><li>Where you can use it: computer, browser and phone</li><li>Everything it can do, in plain words</li><li>How to start safely, and how to undo</li></ul>
+</div></div>
+<div class="card"><div class="ch orange">The big idea</div><div class="cb">
+<p style="margin:0 0 10px">In a chat, Claude <b>tells you</b> what to do and you do it. In Claude Code, Claude <b>does it</b>: it opens the files, makes the changes, runs the steps, checks the result and shows you what changed. You stay the boss: it asks before anything important.</p>
+<div class="tw"><table class="tbl"><tr><th></th><th>Chat</th><th>Claude Code</th></tr>
+<tr><td>What you get</td><td>An answer, a draft, a file to download</td><td>The job done, on your real files</td></tr>
+<tr><td>Who does the steps</td><td>You copy, paste and click</td><td>Claude does them and reports back</td></tr>
+<tr><td>What it can touch</td><td>What you paste or attach</td><td>A folder you choose on your computer, or a project on GitHub</td></tr>
+<tr><td>How long it works</td><td>One answer at a time</td><td>Minutes or hours, step after step, even on its own schedule</td></tr>
+<tr><td>Safety</td><td>Nothing changes until you act</td><td>It asks permission before changes; you can review and undo</td></tr></table></div>
+<p class="cap"><b>Simple rule:</b> want to <i>know</i> something? Chat. Want something <i>done</i> on your files, site or apps? Claude Code.</p>
+</div></div>
+<div class="card"><div class="ch green">Where it runs</div><div class="cb">
+<div class="mini"><div class="box"><h3>🖥️ Desktop app</h3><p>The easiest start. In the Claude app, open the <b>Code</b> tab and pick a folder. Changes show side by side so you can review them.</p></div>
+<div class="box"><h3>🌐 Browser and phone</h3><p>At <b>claude.ai/code</b> or in the Claude phone app. It works in the cloud, so you can start a long job and check back later.</p></div>
+<div class="box"><h3>⌨️ Terminal and editors</h3><p>For people who code: the Mac Terminal, VS Code and JetBrains. Same Claude Code, same powers.</p></div></div>
+<p class="cap">It needs a paid Claude plan. Your settings and instructions follow you from one place to another.</p>
+</div></div>
+<div class="card"><div class="ch pur">Everything it can do</div><div class="cb">
+<div class="tw"><table class="tbl"><tr><th>Area</th><th>What it does for you</th></tr>
+<tr><td>🏗️ Build</td><td>Websites, small tools, calculators, forms and apps, from a plain description. It writes the code, runs it and checks it works.</td></tr>
+<tr><td>🛠️ Fix</td><td>Paste an error or describe the problem. It finds the cause and repairs it.</td></tr>
+<tr><td>📁 Files and photos</td><td>Organize folders, rename and convert files, resize photos for the web, clean up data in spreadsheets.</td></tr>
+<tr><td>🗂️ Every version saved</td><td>Works with GitHub: saves each change with a note, so any version can come back.</td></tr>
+<tr><td>🌍 Publish</td><td>Puts websites online (GitHub Pages, Cloudflare and others) and tests every page.</td></tr>
+<tr><td>🔌 Your apps</td><td>Connects to tools like Google Drive, Notion, Slack and Jira to read and update them.</td></tr>
+<tr><td>📝 Remembers your way</td><td>Reads a note of your rules (<b>CLAUDE.md</b>) at the start of every session, and learns as it works.</td></tr>
+<tr><td>🧩 Skills</td><td>Saves a job you repeat as a skill you call by name, like <i>/weekly-report</i>.</td></tr>
+<tr><td>✅ Automatic checks</td><td><b>Hooks</b> run a check before or after Claude acts, like tidying files after every edit.</td></tr>
+<tr><td>👥 A team of helpers</td><td>Splits a big job between several helpers working at the same time, then puts the results together.</td></tr>
+<tr><td>⏰ On a schedule</td><td>Runs a job every morning or every week, even with your computer off (cloud scheduled tasks).</td></tr>
+<tr><td>📱 From anywhere</td><td>Start on the computer and keep going from your phone, or send it a task from your phone.</td></tr>
+<tr><td>🧪 Test websites</td><td>Opens your site in Chrome to see and fix what is wrong.</td></tr>
+<tr><td>💬 From team chat</td><td>Mention <b>@Claude</b> in Slack with a problem and get the fix back.</td></tr></table></div>
+</div></div>
+<div class="card"><div class="ch green">Step by step: your first job</div><div class="cb">
+<div class="steps">
+<div><span class="n" style="background:#15803D">1</span><span>Open the Claude desktop app and choose the <b>Code</b> tab.</span></div>
+<div><span class="n" style="background:#15803D">2</span><span>Pick a folder to work in. Start with a <b>copy</b>, not your only originals.</span></div>
+<div><span class="n" style="background:#15803D">3</span><span>Say what you want in plain words, with the result you expect.</span></div>
+<div><span class="n" style="background:#15803D">4</span><span>Claude shows a plan, then asks before it changes anything. Read it and approve.</span></div>
+<div><span class="n" style="background:#15803D">5</span><span>Review what changed. Not right? Say what to fix, or ask it to go back.</span></div>
+</div>
+</div></div>
+<div class="card"><div class="ch pur">Recipes to copy and paste</div><div class="cb">
+<div class="qlab">Tidy a folder</div><div class="quote">In this folder, sort my photos into one subfolder per month, keep the original names, and show me the plan before you move anything.</div>
+<div class="qlab">Build a small website</div><div class="quote">Make a simple website for my bakery: home, menu with photos and prices, and contact. It must look good on a phone. Show it to me before you publish.</div>
+<div class="qlab">Fix something</div><div class="quote">This page shows an error: [paste it]. Find the cause, fix it, and tell me in two lines what was wrong.</div>
+<div class="qlab">Set your rules once</div><div class="quote">Create a CLAUDE.md for this folder with my rules: never delete files, ask before publishing, write in plain Spanish.</div>
+<div class="qlab">A real example</div><div class="quote">See Elle Bakehouse, Fase 2B: a full website brief written for Claude Code.</div>
+</div></div>
+<div class="card"><div class="ch red">Mistakes to avoid</div><div class="cb">
+<div class="mini two"><div class="box rd"><h3>✕ Working on your only copy</h3><p>Start in a copy or a folder saved on GitHub, so every step can be undone.</p></div><div class="box rd"><h3>✕ Approving without reading</h3><p>It asks before changes for a reason. Read the plan, then say yes.</p></div><div class="box rd"><h3>✕ Vague requests</h3><p>Say what "done" looks like: which pages, which folder, what to check.</p></div><div class="box rd"><h3>✕ Passwords in files</h3><p>Log in yourself in the browser when it asks. Never paste passwords into the chat or a file.</p></div></div>
+</div></div>
+<div class="card"><div class="ch navy">Practice (10 minutes)</div><div class="cb">
+<ol class="practice"><li>Open the Code tab and pick a folder with a few copied photos.</li><li>Use the "Tidy a folder" recipe. Read the plan before you approve.</li><li>Ask: "What did you change, and how do I undo it?"</li></ol>
+</div></div>
+<div class="card"><div class="ch gry2">Check yourself</div><div class="cb">
+<details class="q"><summary>You want to know how to make a menu. Chat or Claude Code?</summary><p>Chat. You want an answer. Use Claude Code when you want the menu built and published for you.</p></details><details class="q"><summary>Where is the easiest place to start Claude Code?</summary><p>The Code tab in the Claude desktop app.</p></details><details class="q"><summary>How do you give Claude Code rules it always follows?</summary><p>Put them in a CLAUDE.md file in the folder. It reads it at the start of every session.</p></details>
+</div></div>
+<div class="card"><div class="ch green">Where this is going</div><div class="cb">
+<p style="margin:0">AI is moving from answering to <b>doing</b>: helpers that take a whole job, work for hours, run on a schedule and check their own work. The habit to build now: describe the result you want clearly, keep your files where every version is saved, and review before you approve.</p>
+</div></div>
+<div class="rem"><div class="k">REMEMBER</div><div class="m">Chat answers. Code does. You describe, Claude does, you approve.</div></div>
+<div class="pn"><a href='claude-11.html'><small>← Previous</small>Notion, Claude's Long-Term Memory</a><a class='next' href='index.html'><small>Done</small>All guides</a></div>
+<div class="foot">Claude Tips · Claude-11 · Source: Anthropic, Claude Code documentation (code.claude.com/docs)</div></div></body></html>
