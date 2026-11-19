@@ -309,6 +309,18 @@
     "icon": "<path d=\"M10 24h10l14-12v40L20 40H10z\"/><path d=\"M42 22a14 14 0 0 1 0 20M48 16a22 22 0 0 1 0 32\"/>"
   },
   {
+    "name": "Mamá aprende iPhone",
+    "section": "Tech",
+    "path": "mama-aprende-iphone/",
+    "label": "Para mamá",
+    "blurb": "Clases de iPhone desde cero para mamá, y cómo enseñarle a su hija con «Toca, escucha y aprende».",
+    "langs": "Español",
+    "status": "Live",
+    "sym": "Ma",
+    "num": 29,
+    "icon": "<rect x=\"18\" y=\"6\" width=\"28\" height=\"52\" rx=\"6\"/><path d=\"M28 12h8\"/><circle cx=\"32\" cy=\"34\" r=\"7\"/><path d=\"M24 50c2-4 5-6 8-6s6 2 8 6\"/>"
+  },
+  {
     "name": "Architects of the Culture of Death",
     "section": "Mindforge",
     "path": "architects/",

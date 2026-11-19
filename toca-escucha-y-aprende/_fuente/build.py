@@ -81,6 +81,8 @@ AYUDA_APPLE = ('  <section class="help" aria-labelledby="ap"><h2 id="ap">Ayuda d
 VO_BOX = ('  <a class="vo" href="voiceover.html"><span class="t">Encender y apagar VoiceOver</span>'
           '<span class="s">Tres clics al botón lateral, o «Oye Siri, activa VoiceOver». Aquí están todas las formas.</span></a>\n')
 
+MAMA_SERIE = '  <a class="apps" href="../mama-aprende-iphone/" style="margin-bottom:14px">Mamá aprende iPhone<small>Para mamá: clases de iPhone desde cero, y cómo enseñarle a su hija.</small></a>\n'
+
 def index():
     def lista(Ls):
         items = []
@@ -106,7 +108,7 @@ def index():
  '.n{flex:none;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:#fff;font-weight:700}\n'
  '</style>\n<script src="../lib/tech-theme.js" data-toggle="top" data-lang="es"></script>\n</head><body>\n<div class="wrap">\n'
  f'  <h1>{SERIE}</h1>\n  <p class="lede">Lecciones para aprender a usar el iPhone con VoiceOver y Siri, desde cero. Cada lección tiene una página para ella, que se escucha con VoiceOver, y notas para mamá.</p>\n'
- + VO_BOX + niveles + AYUDA_APPLE +
+ + VO_BOX + niveles + AYUDA_APPLE + MAMA_SERIE +
  '  <a class="apps" href="apps.html">Apps recomendadas<small>Para mamá: las mejores apps para personas con discapacidad visual, y cómo elegir una nueva.</small></a>\n</div>\n</body></html>\n')
 
 def apps():
