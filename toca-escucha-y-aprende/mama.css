@@ -40,3 +40,6 @@ dd{margin:2px 0 0;font-size:18px}
 .end a:active{background:var(--sky-bg)}
 .apple a{color:var(--sky);font-weight:700}
 .apple li{margin:8px 0}
+.vo-link{margin:-6px 0 16px;font-size:18px;font-weight:700}
+.vo-link a{color:var(--sky)}
+.vo-sum{font-size:21px;margin:-4px 0 18px}
