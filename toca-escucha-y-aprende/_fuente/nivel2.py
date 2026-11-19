@@ -275,7 +275,7 @@ dict(num=12, apple=[('Obtener apps en App Store', 'https://support.apple.com/es-
    dict(t="texto", titulo="Reto final", text="Enséñale a alguien de tu familia tu gesto favorito del Nivel 2. Explícale cómo se hace y para qué sirve."),
   ]),
  ],
- despedida="¡Terminaste el Nivel 2! Ya escuchas música y cuentos, escribes mensajes y conoces apps que te ayudan.",
+ despedida="¡Terminaste el Nivel 2! Ya escuchas música y cuentos, escribes mensajes y conoces apps que te ayudan. En el Nivel 3 aprendes a pedir ayuda, a contestar llamadas y a escribir en braille.",
  mama=[
   ("Su salud: afuera", ["<p>El teléfono es una herramienta, no el plan del día. Después de la lección, un rato afuera: tocar, oler, escuchar y correr de la mano de alguien.</p>"]),
   ("De qué trata esta lección", [

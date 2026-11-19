@@ -2,8 +2,9 @@ import json, sys, html
 import os; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from contenido import LECCIONES as NIVEL1
 from nivel2 import LECCIONES2, APPS
-LECCIONES = NIVEL1 + LECCIONES2
-NIVELES = [('Nivel 1 · Primeros pasos', NIVEL1), ('Nivel 2 · Apps, música y mensajes', LECCIONES2)]
+from nivel3 import LECCIONES3
+LECCIONES = NIVEL1 + LECCIONES2 + LECCIONES3
+NIVELES = [('Nivel 1 · Primeros pasos', NIVEL1), ('Nivel 2 · Apps, música y mensajes', LECCIONES2), ('Nivel 3 · Seguridad, llamadas, cámara y braille', LECCIONES3)]
 
 OUT = sys.argv[1]
 SERIE = "Toca, escucha y aprende"
