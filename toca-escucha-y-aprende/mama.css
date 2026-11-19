@@ -38,3 +38,5 @@ dd{margin:2px 0 0;font-size:18px}
 .end a.next::after{content:"\2192";grid-column:2;grid-row:1/3;width:32px;height:32px;border-radius:50%;background:#F97316;border:2px solid #F97316;color:#fff;display:grid;place-items:center;font-weight:700;font-size:17px;line-height:1}
 .end a+a{border-left:1px solid var(--line)}
 .end a:active{background:var(--sky-bg)}
+.apple a{color:var(--sky);font-weight:700}
+.apple li{margin:8px 0}

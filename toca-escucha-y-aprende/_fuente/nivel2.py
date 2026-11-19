@@ -20,7 +20,7 @@ def a(url, texto):
 
 LECCIONES2 = [
 # ───────────────────────── LECCIÓN 7 ─────────────────────────
-dict(num=7, titulo="Tres gestos nuevos", nivel="c",
+dict(num=7, apple=[('Usar gestos de VoiceOver', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e2281/ios'), ('Activar y practicar con VoiceOver', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e415f/ios')], titulo="Tres gestos nuevos", nivel="c",
  intro="Bienvenida al Nivel 2. Hoy aprendes tres gestos nuevos. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -66,7 +66,7 @@ dict(num=7, titulo="Tres gestos nuevos", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 8 ─────────────────────────
-dict(num=8, titulo="El rotor: tu perilla invisible", nivel="c",
+dict(num=8, apple=[('Controlar VoiceOver con el rotor', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e3a6d/ios')], titulo="El rotor: tu perilla invisible", nivel="c",
  intro="Hoy conoces el rotor. Ten cerca un frasco con tapa. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -110,7 +110,7 @@ dict(num=8, titulo="El rotor: tu perilla invisible", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 9 ─────────────────────────
-dict(num=9, titulo="Tu música", nivel="c",
+dict(num=9, apple=[('Reproducir música en el iPhone', 'https://support.apple.com/es-lamr/guide/iphone/iph0138fb328/ios'), ('Usar Siri para reproducir música y podcasts', 'https://support.apple.com/es-lamr/105053')], titulo="Tu música", nivel="c",
  intro="Hoy tu iPhone se vuelve tu radio. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -152,7 +152,7 @@ dict(num=9, titulo="Tu música", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 10 ─────────────────────────
-dict(num=10, titulo="Cuentos y podcasts", nivel="c",
+dict(num=10, apple=[('Introducción a Podcasts en el iPhone', 'https://support.apple.com/es-lamr/guide/iphone/iphaca38804e/ios'), ('Escuchar audiolibros en la app Libros', 'https://support.apple.com/es-lamr/guide/iphone/iphac1971248/ios')], titulo="Cuentos y podcasts", nivel="c",
  intro="Hoy vas a escuchar cuentos y programas. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -196,7 +196,7 @@ dict(num=10, titulo="Cuentos y podcasts", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 11 ─────────────────────────
-dict(num=11, titulo="Escribe con tu voz y con tus dedos", nivel="c",
+dict(num=11, apple=[('Usar el teclado en pantalla con VoiceOver', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e3d1d/ios'), ('Dictar texto en el iPhone', 'https://support.apple.com/es-lamr/guide/iphone/iph2c0651d2/ios'), ('Enviar y responder a mensajes', 'https://support.apple.com/es-lamr/guide/iphone/iph82fb73ba3/ios')], titulo="Escribe con tu voz y con tus dedos", nivel="c",
  intro="Hoy aprendes a escribir en tu iPhone. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -241,7 +241,7 @@ dict(num=11, titulo="Escribe con tu voz y con tus dedos", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 12 ─────────────────────────
-dict(num=12, titulo="Apps que te ayudan", nivel="c",
+dict(num=12, apple=[('Obtener apps en App Store', 'https://support.apple.com/es-lamr/guide/iphone/iphc90580097/ios'), ('Lupa: obtener información sobre lo que te rodea', 'https://support.apple.com/es-lamr/guide/iphone/iphe867dc99c/ios'), ('Cómo pedirle ayuda a Apple con la accesibilidad', 'https://support.apple.com/es-lamr/111749')], titulo="Apps que te ayudan", nivel="c",
  intro="Última lección del Nivel 2. Hoy conoces apps que te ayudan, y haces misiones. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[

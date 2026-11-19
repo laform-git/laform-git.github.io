@@ -3,7 +3,7 @@
 
 LECCIONES = [
 # ───────────────────────── LECCIÓN 1 ─────────────────────────
-dict(num=1, titulo="¿Qué es la accesibilidad?", nivel="a",
+dict(num=1, apple=[('Introducción a las funciones de accesibilidad del iPhone', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e4367/ios'), ('Activar y desactivar rápidamente las funciones de accesibilidad (el atajo)', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e31a5/ios')], titulo="¿Qué es la accesibilidad?", nivel="a",
  intro="Cada pantalla tiene un solo botón. Para seguir, desliza un dedo a la derecha hasta oír «Empezar, botón». Luego toca dos veces la pantalla.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -48,7 +48,7 @@ dict(num=1, titulo="¿Qué es la accesibilidad?", nivel="a",
  ]),
 
 # ───────────────────────── LECCIÓN 2 ─────────────────────────
-dict(num=2, titulo="¿Por qué iPhone?", nivel="b",
+dict(num=2, apple=[('Accesibilidad en Apple (México)', 'https://www.apple.com/mx/accessibility/'), ('Introducción a las funciones de accesibilidad del iPhone', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e4367/ios')], titulo="¿Por qué iPhone?", nivel="b",
  intro="Hoy hay un botón nuevo: Atrás. Siguiente avanza y Atrás regresa. Desliza a la derecha para encontrarlos.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -89,7 +89,7 @@ dict(num=2, titulo="¿Por qué iPhone?", nivel="b",
  ]),
 
 # ───────────────────────── LECCIÓN 3 ─────────────────────────
-dict(num=3, titulo="Conoce tu iPhone con las manos", nivel="b",
+dict(num=3, apple=[('Usar y personalizar el botón de acción', 'https://support.apple.com/es-lamr/guide/iphone/iphe89d61d66/ios'), ('Ajustar el botón lateral', 'https://support.apple.com/es-lamr/guide/iphone/iph75f461ff0/ios')], titulo="Conoce tu iPhone con las manos", nivel="b",
  intro="Hoy vas a conocer tu iPhone con las manos. Tenlo cerca. Usa Atrás y Siguiente como en la lección 2.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -131,7 +131,7 @@ dict(num=3, titulo="Conoce tu iPhone con las manos", nivel="b",
  ]),
 
 # ───────────────────────── LECCIÓN 4 ─────────────────────────
-dict(num=4, titulo="Conoce a VoiceOver", nivel="c",
+dict(num=4, apple=[('Activar y practicar con VoiceOver', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e415f/ios'), ('Usar gestos de VoiceOver', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e2281/ios'), ('Configurar Face ID', 'https://support.apple.com/es-lamr/guide/iphone/iph6d162927a/ios')], titulo="Conoce a VoiceOver", nivel="c",
  intro="Desde hoy hay un menú. Elige una burbuja. El botón Menú siempre te regresa aquí.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -174,7 +174,7 @@ dict(num=4, titulo="Conoce a VoiceOver", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 5 ─────────────────────────
-dict(num=5, titulo="Conoce a Siri", nivel="c",
+dict(num=5, apple=[('Activar e invocar a Siri', 'https://support.apple.com/es-lamr/guide/iphone/iph83aad8922/ios'), ('Configuración de accesibilidad de Siri', 'https://support.apple.com/es-lamr/guide/iphone/iphaff1d606/ios')], titulo="Conoce a Siri", nivel="c",
  intro="Hoy conoces a Siri, la asistente que te escucha. Elige una burbuja.",
  secciones=[
   dict(nombre="Historia", pantallas=[
@@ -216,7 +216,7 @@ dict(num=5, titulo="Conoce a Siri", nivel="c",
  ]),
 
 # ───────────────────────── LECCIÓN 6 ─────────────────────────
-dict(num=6, titulo="Practicamos juntas", nivel="c",
+dict(num=6, apple=[('Controlar VoiceOver con el rotor (lo verás en la lección 8)', 'https://support.apple.com/es-lamr/guide/iphone/iph3e2e3a6d/ios'), ('Cómo pedirle ayuda a Apple con la accesibilidad', 'https://support.apple.com/es-lamr/111749'), ('Comunidad de accesibilidad de Apple', 'https://communities.apple.com/es/community/accessibility')], titulo="Practicamos juntas", nivel="c",
  intro="Hoy no hay nada nuevo: vas a usar todo lo que aprendiste. Elige una burbuja.",
  secciones=[
   dict(nombre="Misiones", pantallas=[
