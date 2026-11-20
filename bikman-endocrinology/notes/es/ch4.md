@@ -3,6 +3,8 @@
 
 *Fuente: Peterson Academy, Clase 4 + preguntas y respuestas. Aplica al cortisol la cadena de mando del Cap. 2 (hipotálamo, hipófisis, suprarrenal), y suma las hormonas del centro de la glándula.*
 
+**En palabras sencillas:** esta clase explica las glándulas suprarrenales, que están encima de los riñones. Cada una son en realidad dos glándulas: la capa de afuera hace hormonas de colesterol (una que guarda sal, el cortisol que sube el azúcar, y hormonas sexuales), y el centro hace adrenalina. El cortisol y la adrenalina suben el azúcar en la sangre, y por eso trabajan en contra de la insulina. También repasa las enfermedades de estas glándulas y aclara que la "fatiga suprarrenal" no está comprobada. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **HPA**: eje hipotálamo-hipófisis-suprarrenal, el sistema del estrés
 - **ADH**: hormona antidiurética, que hace que los riñones retengan agua
@@ -24,9 +26,10 @@
 - **AMP**: monofosfato de adenosina, señal de que a la célula le falta energía
 
 ## Por qué importa
+Las suprarrenales manejan la sal, el azúcar y la respuesta al estrés; entenderlas explica cómo el estrés que dura mucho termina en resistencia a la insulina.
 
 ## La idea central — Una glándula, dos tejidos totalmente distintos
-La glándula suprarrenal (encima de cada riñón) está dividida en dos, en forma y en función: la **corteza** o capa externa (hormonas esteroideas, hechas de colesterol) y la **médula** o centro (adrenalina y noradrenalina, hechas de aminoácidos). Tienen distinto origen en el embrión, distinto tipo de hormona y distinta forma de mandar señales. ✅ Bikman la compara con una naranja: la corteza es la cáscara y la médula es la pulpa.
+La glándula suprarrenal (encima de cada riñón) está dividida en dos, en forma y en función. Son la **corteza** o capa externa (hormonas esteroideas, hechas de colesterol) y la **médula** o centro (adrenalina y noradrenalina, hechas de aminoácidos). Tienen distinto origen en el embrión, distinto tipo de hormona y distinta forma de mandar señales. ✅ Bikman la compara con una naranja: la corteza es la cáscara y la médula es la pulpa.
 
 ## Frases clave y datos para recordar (Clase 4)
 - **"Sal, azúcar, sexo"**: el truco para recordar las tres capas de la corteza (glomerular, fascicular, reticular), con un detalle extra: "mientras más adentro, más dulce".
@@ -43,7 +46,7 @@ La glándula suprarrenal (encima de cada riñón) está dividida en dos, en form
 |---|---|---|---|
 | Zona glomerular | Mineralocorticoide (maneja las sales) | Aldosterona | El sistema renina-angiotensina |
 | Zona fascicular | Glucocorticoide (maneja el azúcar) | Cortisol | La ACTH (la cadena hipotálamo-hipófisis-suprarrenal) |
-| Zona reticular | Hormonas sexuales | Hormonas masculinas de la suprarrenal (sobre todo DHEA y DHEA-S; muy poco estrógeno) | La ACTH; empieza a subir entre los 6 y 8 años (adrenarquia), llega a su máximo en la juventud y baja con la edad |
+| Zona reticular | Hormonas sexuales | Hormonas masculinas de la suprarrenal (sobre todo DHEA y DHEA-S, hormonas masculinas suaves; muy poco estrógeno) | La ACTH; empieza a subir entre los 6 y 8 años (adrenarquia), llega a su máximo en la juventud y baja con la edad |
 
 Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroides (la proteína StAR, la mitocondria, la pregnenolona).
 
@@ -53,7 +56,7 @@ Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroi
 **La cadena de cuatro órganos:**
 1. El **riñón** nota el problema → suelta **renina**.
 2. El **hígado** fabrica angiotensinógeno; la renina lo corta → **angiotensina I**.
-3. Los **pulmones** tienen la enzima **ECA**, que convierte la angiotensina I en **angiotensina II**.
+3. Los **pulmones** tienen la enzima **ECA** (enzima convertidora de angiotensina; algunas medicinas para la presión la frenan), que convierte la angiotensina I en **angiotensina II**.
 4. La **angiotensina II** hace tres cosas: aprieta los vasos directamente, le pide al hipotálamo que fabrique más ADH y le pide a la corteza suprarrenal que fabrique aldosterona.
 
 **Qué hace la aldosterona en el riñón:** guarda sodio y agua y saca potasio por la orina. Así se recupera el volumen de la sangre y la presión, y el sistema se apaga solo (retroalimentación negativa). ✅
@@ -66,8 +69,8 @@ Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroi
 **Qué lo dispara más:** según Bikman, el azúcar bajo es la señal más fuerte para que salga la CRH. 🟡 Revisión de la evidencia: el azúcar bajo es un estímulo muy fuerte, pero en el día a día esta cadena se rige por el reloj del cuerpo (el ritmo de 24 horas) y por el estrés físico y emocional; lo de "la más fuerte" es la forma de verlo de Bikman.
 
 **El detalle de la POMC:**
-- La ACTH se corta de una proteína más grande, la **POMC (proopiomelanocortina)**.
-- Según Bikman, la POMC se parte en **ACTH y en hormona que oscurece la piel (MSH)** al mismo tiempo, en cantidades iguales. 🟡 Revisión de la evidencia: cómo se corta la POMC depende del tejido (Harno 2018). Las células de la hipófisis humana sueltan sobre todo ACTH (y otros pedazos como la β-endorfina) y poca MSH; el oscurecimiento de la piel cuando la ACTH está alta se debe en gran parte a la misma ACTH, que lleva dentro la parte de la MSH y puede activar las células que dan color a la piel.
+- La ACTH se corta de una proteína más grande, la **POMC (proopiomelanocortina, una proteína "madre" de la que salen varias hormonas)**.
+- Según Bikman, la POMC se parte en **ACTH y en hormona que oscurece la piel (MSH)** al mismo tiempo, en cantidades iguales. 🟡 Revisión de la evidencia: cómo se corta la POMC depende del tejido (Harno 2018). Las células de la hipófisis humana sueltan sobre todo ACTH (y otros pedazos como la β-endorfina, un calmante natural) y poca MSH; el oscurecimiento de la piel cuando la ACTH está alta se debe en gran parte a la misma ACTH, que lleva dentro la parte de la MSH y puede activar las células que dan color a la piel.
 - **Lo que se ve en la consulta:** cuando hay ACTH de más (en la enfermedad de Addison; en el síndrome de Cushing, sobre todo con los niveles muy altos de los tumores fuera de la hipófisis que fabrican ACTH y, menos, en la enfermedad de Cushing de la hipófisis), también hay más efecto tipo MSH. Eso explica la piel color cobre u oscurecida, que se nota hasta en la base de las uñas y en las encías, sea cual sea el color de piel. ✅
 
 **El reloj del cortisol:** el cortisol empieza a subir alrededor de las 4 de la mañana. Se especula (él mismo dice que es especulación) que prepara al cuerpo y al cerebro para despertar.
@@ -80,7 +83,7 @@ Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroi
 
 ## El centro de la glándula (médula) — adrenalina y noradrenalina
 - Se fabrican a partir de **tirosina** (la misma base de aminoácido que la hormona tiroidea del Cap. 3): tirosina → pasos intermedios → **dopamina** (un poco pasa a la sangre) → más pasos → **adrenalina** (el producto final principal). ✅
-- **Se prende por los nervios:** dolor, frío, sangrado, presión baja o azúcar bajo → un nervio (el esplácnico) → suelta acetilcolina → entra calcio a las células del centro de la glándula → sale la adrenalina que estaba guardada en bolsitas. ✅
+- **Se prende por los nervios:** dolor, frío, sangrado, presión baja o azúcar bajo → un nervio (el esplácnico, que va a los órganos de la panza) → suelta acetilcolina → entra calcio a las células del centro de la glándula → sale la adrenalina que estaba guardada en bolsitas. ✅
 - **Dura muy poco en la sangre**: se elimina en minutos. Por eso el efecto de una inyección de adrenalina (EpiPen) es rápido, fuerte y corto. ✅
 
 **Qué hace según el receptor:**
@@ -103,16 +106,16 @@ Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroi
 
 **Síndrome de Conn (aldosterona de más):** presión alta + potasio bajo (músculos débiles) + **renina baja** (eso confirma que la glándula fabrica aldosterona por su cuenta) ✅, casi siempre por un tumor de la suprarrenal. 🟡 Revisión de la evidencia: el crecimiento de las dos suprarrenales (hiperplasia bilateral) es por lo menos tan común como un tumor que fabrica aldosterona, y la mayoría de los pacientes tiene el potasio normal; por eso las guías recomiendan buscarlo en muchas personas con presión alta (Funder 2016).
 
-**Hiperplasia suprarrenal congénita:** una falla heredada en una enzima (en cerca de 95% de los casos falta la 21-hidroxilasa) impide fabricar cortisol (y muchas veces aldosterona). La ACTH sube mucho y empuja a la glándula a fabricar hormonas masculinas de más. Eso puede masculinizar a un bebé niña antes de nacer, o adelantar el desarrollo en un niño; la forma grave hace perder sal y pone en peligro la vida del recién nacido. ✅ (Speiser 2018)
+**Hiperplasia suprarrenal congénita:** una falla heredada en una enzima (en cerca de 95% de los casos falta la 21-hidroxilasa, un paso para fabricar cortisol) impide fabricar cortisol (y muchas veces aldosterona). La ACTH sube mucho y empuja a la glándula a fabricar hormonas masculinas de más. Eso puede masculinizar a un bebé niña antes de nacer, o adelantar el desarrollo en un niño. La forma grave hace perder sal y pone en peligro la vida del recién nacido. ✅ (Speiser 2018)
 
-**Feocromocitoma:** un tumor del centro de la glándula que fabrica adrenalina de más. Se parece a un ataque de pánico que no se quita solo. ✅ Lo típico son episodios de dolor de cabeza, sudor y corazón acelerado, con presión alta; se diagnostica midiendo unas sustancias llamadas metanefrinas en la sangre o la orina (Lenders 2014).
+**Feocromocitoma:** un tumor del centro de la glándula que fabrica adrenalina de más. Se parece a un ataque de pánico que no se quita solo. ✅ Lo típico son episodios de dolor de cabeza, sudor y corazón acelerado, con presión alta; se diagnostica midiendo unas sustancias llamadas metanefrinas (lo que queda de la adrenalina cuando el cuerpo la deshace) en la sangre o la orina (Lenders 2014).
 
 **Enfermedad de Addison:** las defensas destruyen la capa externa de las suprarrenales; el cortisol y la aldosterona bajan. La ACTH sube **mucho** (porque ya no hay cortisol que la frene), y la MSH con ella: el mismo mecanismo de la piel color cobre que en la enfermedad de Cushing, pero en la dirección contraria. JFK es el ejemplo famoso. ✅ (Bornstein 2016)
 
 **"Fatiga suprarrenal" — desmentida claramente:** no hay evidencia de que exista. Los síntomas que se le achacan se explican mejor por estrés de verdad, que dura mucho, y por el estilo de vida, no porque las suprarrenales se "agoten". 🟢 Una revisión de 58 estudios no encontró apoyo para que la "fatiga suprarrenal" sea una enfermedad real (Cadegiani 2016). Vale la pena saberlo para corregirlo cuando aparezca en la publicidad de bienestar o de suplementos.
 
 ## Lo más destacado de las preguntas y respuestas
-**Cómo se sueltan las hormonas esteroideas pegadas:** la parte libre es la que funciona; a medida que se usa la hormona libre, se suelta una cantidad igual de la parte pegada para reponerla. Es un equilibrio que se va ajustando, no una sola descarga. ✅ **Relación con la pubertad:** según Bikman, una de las cosas que inicia la pubertad es que el hígado fabrica menos de la proteína que transporta las hormonas sexuales, y así sube la parte libre aunque no cambie la producción total. Esto amplía la idea de hormona pegada y suelta del Cap. 1 con un detonante concreto. 🔴 Revisión de la evidencia: esa proteína (la SHBG) sí baja en la pubertad, pero la pubertad empieza cuando el hipotálamo vuelve a soltar GnRH en pulsos; la baja de la SHBG acompaña a la pubertad, no la inicia (Abreu 2016).
+**Cómo se sueltan las hormonas esteroideas pegadas:** la parte libre es la que funciona; a medida que se usa la hormona libre, se suelta una cantidad igual de la parte pegada para reponerla. Es un equilibrio que se va ajustando, no una sola descarga. ✅ **Relación con la pubertad:** según Bikman, una de las cosas que inicia la pubertad es que el hígado fabrica menos de la proteína que transporta las hormonas sexuales, y así sube la parte libre aunque no cambie la producción total. Esto amplía la idea de hormona pegada y suelta del Cap. 1 con un detonante concreto. 🔴 Revisión de la evidencia: esa proteína (la SHBG, la que transporta las hormonas sexuales) sí baja en la pubertad, pero la pubertad empieza cuando el hipotálamo vuelve a soltar GnRH en pulsos; la baja de la SHBG acompaña a la pubertad, no la inicia (Abreu 2016).
 
 **El cortisol y las dietas cetogénicas o bajas en carbohidratos:**
 - Bikman confirma que el cortisol alto **pone a fabricar** azúcar nueva (y no al revés, como a veces dicen los críticos de la dieta keto).
@@ -126,7 +129,7 @@ Las tres capas usan exactamente el mismo camino del Cap. 1 para fabricar esteroi
 - 🔴 Pensar que el síndrome de Cushing y la enfermedad de Cushing son lo mismo: el síndrome es la categoría general; la enfermedad es el caso concreto de un tumor de la hipófisis, y se distinguen por el nivel de ACTH.
 
 ## Conclusión práctica
-Este capítulo convierte la frase "el estrés causa resistencia a la insulina" en una explicación completa de cómo pasa: el cortisol y la adrenalina suben directamente el azúcar en la sangre por caminos concretos, y por eso trabajan todo el tiempo en contra de la insulina.
+Este capítulo convierte la frase "el estrés causa resistencia a la insulina" en una explicación completa de cómo pasa. El cortisol y la adrenalina suben directamente el azúcar en la sangre por caminos concretos, y por eso trabajan todo el tiempo en contra de la insulina.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Entre el síndrome de Cushing (general) y la enfermedad de Cushing (de la hipófisis), ¿qué valor de laboratorio los distingue?**
@@ -156,6 +159,8 @@ C. Esa doble protección es un error de diseño
 - Comentarios personales: la mímica de Bikman al explicar la aldosterona, y la descripción larga de la comparación con la naranja.
 - El detalle de cómo se ven los genitales en la hiperplasia suprarrenal congénita, resumido a lo importante para la salud en vez de la descripción completa.
 - Volver a explicar los receptores GPCR y el AMP cíclico (ya en el Cap. 1 y aplicado en el Cap. 3); aquí solo es nueva la tabla de receptores por tejido.
+
+**La idea para recordar: el cortisol y la adrenalina suben el azúcar para ayudarnos en momentos de esfuerzo, pero altos por mucho tiempo traen resistencia a la insulina.**
 
 ---
 **Referencias:**

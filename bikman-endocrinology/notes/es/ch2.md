@@ -2,6 +2,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 2 (transcripción). Se apoya directamente en la clasificación de hormonas del Cap. 1.*
 
+**En palabras sencillas:** esta clase explica la cadena de mando de las hormonas: el hipotálamo, en el cerebro, da la orden; la hipófisis la pasa; y la glándula final hace la hormona. Si se mide qué parte de la cadena está alta o baja, se puede saber dónde empieza el problema. También explica las dos hormonas de la parte de atrás de la hipófisis (la del parto y la que guarda agua) y las cinco líneas de la parte de adelante. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
 - **FSH**: hormona foliculoestimulante, señal del cerebro para producir espermatozoides y óvulos
@@ -19,14 +21,14 @@
 - **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
 
 ## Por qué importa
-Este capítulo explica cómo razonan los médicos para descubrir *en qué punto* de la cadena empieza un problema de hormonas: en la glándula, en la hipófisis o en el cerebro. Y explica algo importante: por qué, cuando alguien se pone testosterona por fuera (terapia de testosterona), es normal que bajen las hormonas LH y FSH. Es la respuesta esperada del cuerpo, no señal de un problema aparte en la hipófisis.
+Este capítulo explica cómo razonan los médicos para descubrir *en qué punto* de la cadena empieza un problema de hormonas: en la glándula, en la hipófisis o en el cerebro. Y explica algo importante: por qué, cuando alguien se pone testosterona por fuera (terapia de testosterona), es normal que bajen las hormonas LH y FSH (las que la hipófisis manda a los órganos sexuales). Es la respuesta esperada del cuerpo, no señal de un problema aparte en la hipófisis.
 
 ## La idea que marca todo — El director que Bikman mencionó en el Cap. 1
 El Cap. 1 dijo que casi toda la comunicación entre hormonas no necesita un director (el modelo de la "banda de jazz"). Este capítulo presenta el sistema que SÍ funciona como un verdadero director: la cadena **hipotálamo (el director general) → hipófisis anterior (su mano derecha) → glándula final**. ✅ Esta misma estructura de tres niveles se repite para la tiroides, las glándulas suprarrenales y los órganos sexuales: apréndela una vez, úsala tres veces.
 
 ## Frases clave y datos para recordar (Clase 2)
 - **"El hipotálamo es como el director general… la hipófisis anterior es como su mano derecha."** Es la comparación que ordena todo el capítulo.
-- **La diabetes insípida puede hacer orinar hasta 20 litros al día.** Una cifra impresionante, causada solo por la pérdida de agua (el azúcar no tiene nada que ver), y muy distinta de la diabetes mellitus (la del azúcar). ✅ Revisión de la evidencia: en 2022 un grupo internacional de expertos propuso cambiarle el nombre a "deficiencia de arginina vasopresina (AVP)" (cuando falla el cerebro) o "resistencia a la AVP" (cuando falla el riñón), para que ya no se confunda con la diabetes mellitus (Arima 2022).
+- **La diabetes insípida puede hacer orinar hasta 20 litros al día.** Una cifra impresionante, causada solo por la pérdida de agua (el azúcar no tiene nada que ver), y muy distinta de la diabetes mellitus (la del azúcar). ✅ Revisión de la evidencia: en 2022 un grupo internacional de expertos propuso cambiarle el nombre a "deficiencia de arginina vasopresina (AVP, la hormona que hace que el riñón guarde agua)" (cuando falla el cerebro) o "resistencia a la AVP" (cuando falla el riñón), para que ya no se confunda con la diabetes mellitus (Arima 2022).
 - **"Diabetes mellitus… orina con sabor a miel… diabetes insípida… no sabe a nada."** Es el chiste de Bikman sobre el origen de las palabras, como en el Cap. 1, para aclarar que son dos enfermedades que solo comparten la palabra "diabetes".
 - **La prolactina es la única hormona de la hipófisis anterior a la que hay que decirle que PARE, no que empiece.** Todas las demás necesitan una señal de "prender"; la prolactina sale sola a menos que la dopamina la frene.
 - **La hipófisis posterior es literalmente una prolongación del hipotálamo**, no una glándula aparte conectada por vasos sanguíneos como la hipófisis anterior. Por eso no encaja en el esquema de los tres niveles.
@@ -34,8 +36,8 @@ El Cap. 1 dijo que casi toda la comunicación entre hormonas no necesita un dire
 - **La leptina (la hormona de las células de grasa, de la serie de metabolismo de Bikman) es necesaria para que salga la GnRH**: "si quitas la leptina, quitas la GnRH". 🟢 Revisión de la evidencia: las personas que nacen sin leptina tienen la LH y la FSH bajas y no pasan por una pubertad normal, y el tratamiento con leptina devuelve las hormonas de la pubertad (Farooqi 1999; Farooqi 2002).
 
 ## Los tres niveles: terciario, secundario y primario
-- **Problema terciario:** empieza en el hipotálamo. (Las hormonas que manda el hipotálamo —GnRH, TRH, CRH— ni siquiera se pueden medir en un análisis de sangre normal, porque solo existen en un vasito diminuto entre el hipotálamo y la hipófisis.) ✅
-- **Problema secundario:** empieza en la hipófisis anterior (LH y FSH, TSH, ACTH; estas SÍ se pueden medir en un análisis normal). ✅
+- **Problema terciario:** empieza en el hipotálamo. (Las hormonas que manda el hipotálamo —GnRH, TRH, CRH, sus órdenes para los órganos sexuales, la tiroides y las suprarrenales— ni siquiera se pueden medir en un análisis de sangre normal, porque solo existen en un vasito diminuto entre el hipotálamo y la hipófisis.) ✅
+- **Problema secundario:** empieza en la hipófisis anterior (LH y FSH, TSH, ACTH: las que mandan a los órganos sexuales, la tiroides y las suprarrenales; estas SÍ se pueden medir en un análisis normal). ✅
 - **Problema primario:** empieza en la glándula final misma (los órganos sexuales, la tiroides, la capa externa de las suprarrenales). ✅
 
 **La lógica principal, dicha de forma sencilla:** si la hormona final está baja y la señal de la hipófisis está **alta**, el cerebro está gritando más fuerte para compensar: es un problema **primario** (la glándula no está haciendo caso). Si la hormona final está baja y la señal de la hipófisis está **también baja o normal**, el cerebro no está mandando bien la señal desde el principio: es un problema **secundario o terciario**. ✅
@@ -50,11 +52,11 @@ El Cap. 1 dijo que casi toda la comunicación entre hormonas no necesita un dire
 - **Hallazgo más nuevo y sorprendente:** hay alguna evidencia de que ayuda a reparar y mantener sano el músculo. Bikman lo presenta como un efecto inesperado, que muestra lo "desordenada" que es la endocrinología real comparada con el libro de texto. 🟡 Revisión de la evidencia: esto viene sobre todo de estudios en ratones (Elabd 2014); en personas hay poca evidencia.
 
 **ADH/AVP (hormona antidiurética / arginina vasopresina: la misma molécula con dos nombres históricos):**
-- **Dos cosas la disparan:** unos sensores de presión en el cuello (en las arterias carótidas) que notan la presión baja (según Bikman, la causa principal), y unos sensores del hipotálamo que notan demasiada sal en la sangre (según él, la de reserva). 🟡 Revisión de la evidencia: los libros de fisiología lo ordenan al revés. Lo que más manda en el día a día es qué tan concentrada está la sangre, que detectan los sensores del hipotálamo; los sensores de presión y volumen (en el cuello, la aorta y el corazón) toman el control sobre todo cuando el volumen o la presión de la sangre bajan mucho (Bichet 2019; Christ-Crain 2019).
+- **Dos cosas la disparan.** Unos sensores de presión en el cuello (en las arterias carótidas) notan la presión baja (según Bikman, la causa principal). Y unos sensores del hipotálamo que notan demasiada sal en la sangre (según él, la de reserva). 🟡 Revisión de la evidencia: los libros de fisiología lo ordenan al revés. Lo que más manda en el día a día es qué tan concentrada está la sangre, que detectan los sensores del hipotálamo; los sensores de presión y volumen (en el cuello, la aorta y el corazón) toman el control sobre todo cuando el volumen o la presión de la sangre bajan mucho (Bichet 2019; Christ-Crain 2019).
 - **Dos efectos, según el receptor:**
     - **Receptores V1** (en el músculo de las paredes de los vasos) → señal por un receptor GPCR → sube el calcio dentro de la célula → los vasos se aprietan → sube directamente la presión.
     - **Receptores V2** (en el riñón) → señal por un receptor GPCR → el riñón coloca canales de agua (**acuaporina-2**) en sus tubitos colectores (y con el tiempo fabrica más) → el agua de la orina regresa a la sangre → se recupera el volumen y la presión de la sangre, y se diluye la sal.
-- **ADH de más — SIADH (síndrome de secreción inadecuada de hormona antidiurética):** casi siempre por tumores; según Bikman causa retención de agua, presión alta y, curiosamente, muy poca orina. 🔴 Revisión de la evidencia: lo que distingue al SIADH es el sodio bajo en la sangre (hiponatremia), con un volumen de sangre casi normal y una orina demasiado concentrada; la presión alta no es parte del cuadro. Además de los tumores (sobre todo el cáncer de pulmón de células pequeñas), son causas frecuentes algunos medicamentos, las enfermedades del pulmón y los problemas del cerebro (Ellison 2007).
+- **ADH de más — SIADH (síndrome de secreción inadecuada de hormona antidiurética):** casi siempre por tumores. Según Bikman causa retención de agua, presión alta y, curiosamente, muy poca orina. 🔴 Revisión de la evidencia: lo que distingue al SIADH es el sodio bajo en la sangre (hiponatremia), con un volumen de sangre casi normal y una orina demasiado concentrada; la presión alta no es parte del cuadro. Además de los tumores (sobre todo el cáncer de pulmón de células pequeñas), son causas frecuentes algunos medicamentos, las enfermedades del pulmón y los problemas del cerebro (Ellison 2007).
 - **Falta de ADH — Diabetes insípida:** hasta **20 litros al día** de orina muy clara y aguada, y presión baja por perder agua todo el tiempo. 🟡 Revisión de la evidencia: lo que la define es orinar muchísimo y muy diluido (Christ-Crain 2019); quien conserva la sed suele compensar tomando agua, así que la deshidratación y la presión baja aparecen sobre todo cuando la sed falla o no hay agua a mano.
 
 **Cómo se diagnostica la diabetes insípida — un método muy bien pensado:**
@@ -73,7 +75,7 @@ El Cap. 1 dijo que casi toda la comunicación entre hormonas no necesita un dire
 | TRH | Tirotropas | TSH | Tiroides | El frío la PRENDE; el estrés y la falta de sueño la APAGAN |
 | CRH | Corticotropas | ACTH | Capa externa de las suprarrenales | El azúcar bajo y el estrés la PRENDEN |
 | GHRH (la estimula); somatostatina (la frena) | Somatotropas | Hormona del crecimiento | Todo el cuerpo (actúa directamente) | En la pubertad, la subida de las hormonas sexuales (estradiol y testosterona) acelera esta línea |
-| PIF (= dopamina) | Lactotropas | Prolactina | Tejido del pecho (actúa directamente) | **La única que necesita una señal para APAGARSE, no para PRENDERSE**: sale sola si no la frenan |
+| PIF (factor que frena la prolactina, = dopamina) | Lactotropas | Prolactina | Tejido del pecho (actúa directamente) | **La única que necesita una señal para APAGARSE, no para PRENDERSE**: sale sola si no la frenan |
 
 🟢 **Vale la pena subrayar la relación entre la leptina y la GnRH.** La leptina no es solo una señal de "ya comí suficiente": hace falta para que funcione toda la cadena de las hormonas sexuales.
 
@@ -95,6 +97,7 @@ El Cap. 1 dijo que casi toda la comunicación entre hormonas no necesita un dire
 - 🔴 Pensar que la leptina es solo una hormona del metabolismo o del hambre: también hace falta para que salga la GnRH, y así une directamente las hormonas del metabolismo con las de la reproducción.
 
 ## Conclusión práctica
+Cuando un análisis de hormonas salga raro, compara la hormona final con la de la hipófisis: si una está baja y la otra alta, la glándula no responde; si las dos están bajas, la orden no está llegando.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Viendo cómo funciona la prueba de estímulo (poner la hormona del hipotálamo y ver si la hipófisis responde), ¿por qué no se puede simplemente medir la GnRH, la TRH o la CRH directamente, en lugar de usar este método indirecto?**
@@ -112,6 +115,8 @@ C. La GnRH, la TRH y la CRH se guardan en bolsitas y salen demasiado despacio pa
 - Comentarios personales: el chiste de Bikman sobre lo mal que se visten los profesores (el juego de palabras con "insípida", sin sabor) y su comentario sobre sus propias referencias a clases de fisiología.
 - Los casos clínicos en forma de diálogo (guiones de pacientes) se resumieron a la lógica del diagnóstico, en vez de copiarlos como conversación.
 - La explicación general de los receptores GPCR (ya vista completa en el Cap. 1); aquí solo se menciona aplicada a los receptores V1 y V2, sin volver a explicarla.
+
+**La idea para recordar: si la hormona final está baja y la de la hipófisis alta, falla la glándula; si las dos están bajas, falla la orden que viene del cerebro.**
 
 ---
 **Referencias:**

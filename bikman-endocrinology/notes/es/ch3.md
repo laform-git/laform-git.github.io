@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 3 (transcripción). Es la primera clase dedicada a una sola glándula; aplica directamente a la tiroides el esquema de los tres niveles del Cap. 2 y la clasificación de hormonas del Cap. 1.*
 
+**En palabras sencillas:** esta clase explica la tiroides, la glándula del cuello cuya hormona llega a todas las células y marca qué tan rápido trabajan. La tiroides necesita yodo de la comida para fabricar su hormona. Fabrica sobre todo T4, que los tejidos convierten en T3, la forma activa. Con la TSH y la hormona de tiroides se puede saber si la glándula va acelerada o lenta, y dónde está la falla. También explica Graves, Hashimoto y el bocio. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **TPO**: tiroperoxidasa, una enzima que la tiroides usa para fabricar su hormona
 - **TSH**: hormona estimulante de la tiroides, la señal del cerebro a la tiroides
@@ -17,23 +19,24 @@
 - **HPG**: eje hipotálamo-hipófisis-gónadas, el sistema que controla las hormonas sexuales
 
 ## Por qué importa
+La hormona de la tiroides marca qué tan rápido trabaja cada célula del cuerpo y es indispensable para que se forme el cerebro del bebé; entenderla ayuda a leer cualquier análisis de tiroides.
 
 ## La idea que marca todo
 La hormona de la tiroides actúa en **todas y cada una de las células del cuerpo**; no es una hormona con un trabajo pequeño o limitado. ✅ Por su papel central en el metabolismo (la especialidad de Bikman) y por su papel decisivo, y sin vuelta atrás, en el desarrollo del cerebro del bebé antes de nacer, es una de las hormonas más importantes de todo el sistema de hormonas.
 
 ## Frases clave y datos para recordar (Clase 3)
-- **La tiroides fabrica 20 veces más T4 que T3, y aun así la T3 es unas 100 veces más activa que la T4.** Es la paradoja que toda la clase quiere explicar. 🟡 Revisión de la evidencia: la tiroides suelta unas 13 veces más T4 que T3, y cerca de 80% de la T3 del cuerpo se fabrica a partir de la T4 fuera de la tiroides (Peeters y Visser, Endotext). La T3 se pega a los receptores de la hormona tiroidea con una fuerza unas 10 a 30 veces mayor que la T4, así que "unas 100 veces" exagera la diferencia (Wejaphikul 2019).
+- **La tiroides fabrica 20 veces más T4 que T3, y aun así la T3 es unas 100 veces más activa que la T4.** (La T4 tiene cuatro yodos y la T3 tres.) Es la paradoja que toda la clase quiere explicar. 🟡 Revisión de la evidencia: la tiroides suelta unas 13 veces más T4 que T3, y cerca de 80% de la T3 del cuerpo se fabrica a partir de la T4 fuera de la tiroides (Peeters y Visser, Endotext). La T3 se pega a los receptores de la hormona tiroidea con una fuerza unas 10 a 30 veces mayor que la T4, así que "unas 100 veces" exagera la diferencia (Wejaphikul 2019).
 - **"Atraviesa la puerta directamente… como un fantasma."** Viene del Cap. 1, aplicado aquí a cómo la T3 entra en la célula y va directo al núcleo.
 - **La T3 inversa como una versión "villana… rarísima" de la T3.** Así describe Bikman una forma de la T3 que no funciona y que quizá existe para mantener "ocupada" a la tiroides cuando hay hambre, sin acelerar el metabolismo.
-- **El "hipertiroidismo" que le volvía a una mujer cada temporada resultó ser tejido de tiroides que se colaba sin querer en la carne molida que su familia preparaba en casa.** Un caso real y publicado, de verdad insólito (los médicos lo llaman tirotoxicosis facticia). 🟡 Revisión de la evidencia: el episodio mejor documentado es un brote de 121 casos en 1984–85 en Minnesota y estados vecinos, causado por carne molida hecha con recortes de cuello que tenían tejido de tiroides (Hedberg 1987); la versión de una sola familia no se pudo comprobar.
+- **El "hipertiroidismo" que le volvía a una mujer cada temporada resultó ser tejido de tiroides que se colaba sin querer en la carne molida que su familia preparaba en casa.** Un caso real y publicado, de verdad insólito (los médicos lo llaman tirotoxicosis facticia: exceso de hormona de tiroides que viene de fuera). 🟡 Revisión de la evidencia: el episodio mejor documentado es un brote de 121 casos en 1984–85 en Minnesota y estados vecinos, causado por carne molida hecha con recortes de cuello que tenían tejido de tiroides (Hedberg 1987); la versión de una sola familia no se pudo comprobar.
 - **Las personas con Hashimoto tendrían unas 20 veces más probabilidad de tener también enfermedad celíaca** (intolerancia al gluten). Una cifra llamativa y concreta. 🔴 Revisión de la evidencia: un análisis que juntó a 6,024 pacientes con enfermedad autoinmune de la tiroides encontró enfermedad celíaca confirmada por biopsia en cerca de 1.6% (más o menos 1 de cada 62; 6.2% en niños), aproximadamente el doble de lo que se ve en la población general, que es cerca de 1%. Muy lejos de 20 veces (Roy 2016).
 - **El bocio (tiroides agrandada) puede aparecer con la hormona tiroidea alta, baja O totalmente normal.** El tamaño por sí solo no dice nada sobre cómo funciona.
 
 ## Cómo se fabrica la hormona tiroidea — todo el camino, con la enzima TPO
 Una sola enzima, la **TPO (tiroperoxidasa)**, participa en casi todos los pasos. Lo que quiere decir Bikman: un medicamento que frene solo esta enzima puede parar toda la línea de producción.
 
-1. **Entrada del yoduro:** el yoduro (NO el yodo puro; Bikman insiste en esta diferencia química) pasa de la sangre a la célula de la tiroides por una puerta llamada **NIS** (simportador sodio-yoduro). Esta puerta mete el yoduro aunque vaya "cuesta arriba", aprovechando el empuje del sodio. La energía viene indirectamente de la bomba de sodio y potasio, que gasta ATP; no existe una bomba aparte para el yoduro. ✅ (Portulano 2014)
-2. **La pendrina** pasa luego el yoduro de la célula al **coloide** (el centro lleno de líquido del folículo); una vez ahí, el yoduro ya no vuelve a salir tal como entró. ✅ 🟡 Revisión de la evidencia: no se sabe bien qué papel exacto tiene la pendrina en la tiroides; otro canal, la anoctamina-1, podría llevar buena parte de este yoduro (Rousset, Endotext).
+1. **Entrada del yoduro:** el yoduro (NO el yodo puro; Bikman insiste en esta diferencia química) pasa de la sangre a la célula de la tiroides por una puerta llamada **NIS** (simportador sodio-yoduro: una puerta que mete juntos sodio y yoduro). Esta puerta mete el yoduro aunque vaya "cuesta arriba", aprovechando el empuje del sodio. La energía viene indirectamente de la bomba de sodio y potasio, que gasta ATP; no existe una bomba aparte para el yoduro. ✅ (Portulano 2014)
+2. **La pendrina** (otra puerta de la célula) pasa luego el yoduro de la célula al **coloide** (el centro lleno de líquido del folículo); una vez ahí, el yoduro ya no vuelve a salir tal como entró. ✅ 🟡 Revisión de la evidencia: no se sabe bien qué papel exacto tiene la pendrina en la tiroides; otro canal, la anoctamina-1, podría llevar buena parte de este yoduro (Rousset, Endotext).
 3. **Oxidación (primer trabajo de la TPO):** la TPO usa agua oxigenada (peróxido de hidrógeno) para convertir el yoduro (I⁻) en yodo que se pueda usar. ✅
 4. **Pegado del yodo (segundo trabajo de la TPO):** el yodo se pega a unas piezas llamadas tirosinas de una proteína grande, la **tiroglobulina**. Con un yodo se forma MIT (monoyodotirosina); con dos, DIT (diyodotirosina). ✅
 5. **Unión de piezas (tercer trabajo de la TPO):** dos DIT juntas → **T4**; una MIT y una DIT juntas → **T3** (la forma menos común y más activa). ✅
@@ -59,14 +62,14 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, participa en casi todos los pasos.
 | **Alta** | **Baja** | **Hipotiroidismo primario**: la glándula no hace caso aunque la hipófisis grite más fuerte |
 | **Baja** | **Baja** | Hipotiroidismo, pero no se sabe si es secundario o terciario; el mismo problema de medición que arriba |
 
-✅ **Es el mismo razonamiento del Cap. 2, aplicado:** el nivel que no obedece a su "jefe" es donde está la falla. Cuando la TSH y la T3 se mueven juntas (las dos altas o las dos bajas), la glándula no tiene la culpa; pero para saber si el problema es la hipófisis o el hipotálamo hace falta la prueba de estímulo del Cap. 2, porque la TRH sigue sin poder medirse directamente. 🟢 Revisión de la evidencia: en la práctica, los médicos miran la TSH junto con la **T4 libre**, no con la T3 (la T3 se usa sobre todo cuando se sospecha una tiroides acelerada). Una TSH baja, o "normal" cuando no debería serlo, con la T4 libre baja, apunta a un problema central, en la hipófisis o el hipotálamo (Jonklaas 2014; Ross 2016).
+✅ **Es el mismo razonamiento del Cap. 2, aplicado:** el nivel que no obedece a su "jefe" es donde está la falla. Cuando la TSH y la T3 se mueven juntas (las dos altas o las dos bajas), la glándula no tiene la culpa; pero para saber si el problema es la hipófisis o el hipotálamo hace falta la prueba de estímulo del Cap. 2, porque la TRH sigue sin poder medirse directamente. 🟢 Revisión de la evidencia: en la práctica, los médicos miran la TSH junto con la **T4 libre** (la T4 suelta, la que no va pegada a su transportador), no con la T3 (la T3 se usa sobre todo cuando se sospecha una tiroides acelerada). Una TSH baja, o "normal" cuando no debería serlo, con la T4 libre baja, apunta a un problema central, en la hipófisis o el hipotálamo (Jonklaas 2014; Ross 2016).
 
 ## Tiroides acelerada (hipertiroidismo) — señales, causas y la enfermedad de Graves
 **Señales generales** (todas vienen de un metabolismo acelerado): pérdida de peso, no aguantar el calor, sed y respiración agitada, pulso y presión altos (a veces latidos irregulares), temblor en los músculos, piel húmeda. ✅
 
 **Causas, de la más común a la menos común (según Bikman):** enfermedad de Graves > adenoma de tiroides (un tumor benigno, envuelto, que no se riega; la misma diferencia que se explicó en los capítulos anteriores) > tumores malignos > tumor de la hipófisis que fabrica TSH > struma ovarii (tejido de tiroides que crece solo dentro del ovario; rarísimo y extraño). 🟡 Revisión de la evidencia: las guías ponen primero la enfermedad de Graves, después el bocio con varios nódulos que fabrican hormona de más (bocio multinodular tóxico) y el nódulo único que trabaja por su cuenta (adenoma tóxico). La inflamación de la tiroides (tiroiditis) es otra causa frecuente de exceso de hormona, mientras que el cáncer de tiroides casi nunca lo causa (Ross 2016).
 
-**Enfermedad de Graves — lo importante:** es una enfermedad autoinmune (las defensas atacan al propio cuerpo) que **estimula** la tiroides en vez de destruirla. Bikman la compara con la diabetes tipo 1, donde las defensas destruyen las células que fabrican insulina. En Graves, unos anticuerpos se hacen pasar por TSH en el receptor de TSH, y eso hace fabricar hormona de más Y crecer la glándula. ✅ Como la T3 sube por esta "TSH falsa", la TSH verdadera baja por la retroalimentación negativa normal. Por eso, según la tabla de arriba, Graves es un **hipertiroidismo primario**.
+**Enfermedad de Graves — lo importante:** es una enfermedad autoinmune (las defensas atacan al propio cuerpo). Pero **estimula** la tiroides en vez de destruirla. Bikman la compara con la diabetes tipo 1, donde las defensas destruyen las células que fabrican insulina. En Graves, unos anticuerpos se hacen pasar por TSH en el receptor de TSH, y eso hace fabricar hormona de más Y crecer la glándula. ✅ Como la T3 sube por esta "TSH falsa", la TSH verdadera baja por la retroalimentación negativa normal. Por eso, según la tabla de arriba, Graves es un **hipertiroidismo primario**.
 
 **Señales propias de Graves (que no da cualquier tiroides acelerada):**
 - **Ojos saltones (exoftalmos):** los anticuerpos estimulan unas células detrás del ojo (fibroblastos), que hacen crecer la grasa y los músculos de detrás del globo ocular y empujan los ojos hacia adelante (Bahn 2010). ✅ Suele venir con "retraso del párpado" (el párpado no baja parejo cuando el ojo mira hacia abajo), aunque eso puede verse en cualquier tiroides acelerada; los ojos saltones son la señal propia de Graves.
@@ -93,7 +96,7 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, participa en casi todos los pasos.
 | **Alto** | Graves, tumor que fabrica TSH, etc. | Se estimula de más directamente tanto la fabricación de hormona como el crecimiento |
 | **Normal** | Adenoma que no fabrica hormona de más | Crece un bulto por su cuenta, sin que tenga que ver la TSH; casi siempre de un solo lado, no parejo |
 
-**Cómo se estudia:** con un escaneo de captación de yodo radiactivo. Si toda la glándula capta parejo = bocio de toda la glándula; si capta mucho en un solo punto ("caliente") = nódulo o adenoma. ✅
+**Cómo se estudia:** con un escaneo de captación de yodo radiactivo (se toma una dosis pequeña de yodo marcado y una cámara ve dónde se junta). Si toda la glándula capta parejo = bocio de toda la glándula; si capta mucho en un solo punto ("caliente") = nódulo o adenoma. ✅
 
 ## Lo principal que hace la hormona tiroidea (la T3, la forma activa)
 - **Grasa:** activa directamente y con fuerza la quema de grasa (lipólisis); cada vez que sube la hormona tiroidea, suben las grasas libres en la sangre. ✅
@@ -107,6 +110,7 @@ Una sola enzima, la **TPO (tiroperoxidasa)**, participa en casi todos los pasos.
 - 🔴 Pensar que no importa a qué hora se toma la medicina de la tiroides: un estudio bien controlado encontró que tomarla al acostarse daba una TSH un poco mejor que tomarla en la mañana, sin diferencia en cómo se sentían las personas (Bolk 2010).
 
 ## Conclusión práctica
+Para leer un análisis de tiroides, mira juntas la TSH y la hormona de tiroides: si se mueven en sentido contrario, la falla está en la glándula; si se mueven juntas, está más arriba. Y recuerda que sin yodo en la comida no hay hormona.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Si la enfermedad de Graves es una enfermedad autoinmune que ESTIMULA la tiroides en vez de destruirla, ¿por qué importa eso para leer bien un análisis de tiroides acelerada?**
@@ -135,6 +139,8 @@ C. La T4 y la T3 hacen exactamente lo mismo y la diferencia de cantidad no impor
 - Comentarios personales: la anécdota de Bikman sobre su propia biopsia de grasa (sus estudiantes le sacaron grasa de la panza), su chiste sobre Canadá y Jordan Peterson, y la forma larga de contar los casos clínicos.
 - El caso de la tiroides acelerada por la carne molida se resumió a sus datos clave, en vez de contarse completo.
 - Lo que ya se vio en los Cap. 1–2: cómo funcionan los receptores GPCR en general (aquí solo se menciona para el receptor de TSH) y la idea general de hormona pegada y suelta (aquí solo se aplica a la proteína que transporta la tiroxina, añadiendo como dato nuevo el reparto 80/10/10 entre las proteínas transportadoras).
+
+**La idea para recordar: la hormona de tiroides marca el ritmo de cada célula, y sin yodo en la comida la tiroides no puede fabricarla.**
 
 ---
 **Referencias:**
