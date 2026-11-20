@@ -3,6 +3,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 2 (transcripción). Segunda de ocho clases; sigue del Cap. 1 Snake Oil Origins y prepara el Cap. 3 Selling Sickness. Transcripción completa: termina con un adelanto de la siguiente clase (los "líderes de opinión"), como es su estilo de charla continua.*
 
+**En palabras sencillas:** en esta clase llega la ciencia de verdad. Durante la Segunda Guerra Mundial, el gobierno, las universidades y las compañías trabajaron juntos, sin patentes, para fabricar penicilina en grande. Después, las compañías aprendieron a ganar con las patentes: sacar copias de sus propias medicinas, anunciarse con los médicos y aprovechar huecos de la ley. Posner ve aquí el origen de casi todo lo que define a la industria de hoy. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **USDA**: Departamento de Agricultura de EE. UU.
 - **FDA**: la agencia de alimentos y medicamentos de EE. UU.
@@ -25,7 +27,7 @@ En esta clase llega la ciencia de verdad, y Posner lo presenta como "la ciencia 
 - Dos de los investigadores de Oxford le piden ayuda a EE. UU. antes de que Estados Unidos entre a la guerra. Roosevelt arranca un programa secreto que Posner llama **el segundo programa secreto más grande de la Segunda Guerra Mundial, después del Proyecto Manhattan** (la bomba atómica). ✅ (su orden 🟡)
 - Un laboratorio en **Peoria, Illinois**, recibe a los investigadores británicos; **doce compañías se ofrecen como voluntarias**, entre ellas Pfizer, Merck y Squibb, junto con universidades (Posner menciona un "Rockefeller Group"). ✅
 - Se juntaron muestras de moho en las embajadas de EE. UU. de todo el mundo; el moho más potente salió de un **melón mohoso de un mercado a un par de millas del laboratorio**. ✅
-- **El gran avance de Pfizer: fermentar en tanques profundos**, lo que hizo posible fabricar en grandes cantidades. La transcripción lo relaciona con el ácido cítrico ("este ácido cítrico, aprovechado") sin explicar cómo. ✅ Revisión de la evidencia: la relación es real. Pfizer fabricaba ácido cítrico fermentando moho en tanques profundos desde 1919 y usó ese conocimiento para la penicilina; su planta adaptada en Brooklyn abrió el 1 de marzo de 1944 (monumento histórico de la ACS, 2008).
+- **El gran avance de Pfizer: fermentar en tanques profundos**, lo que hizo posible fabricar en grandes cantidades. La transcripción lo relaciona con el ácido cítrico ("este ácido cítrico, aprovechado") sin explicar cómo. ✅ Revisión de la evidencia: la relación es real. Pfizer fabricaba ácido cítrico fermentando moho en tanques profundos desde 1919 y usó ese conocimiento para la penicilina; su planta adaptada en Brooklyn abrió el 1 de marzo de 1944 (monumento histórico de la Sociedad Americana de Química, ACS, 2008).
 - **El gobierno construyó los tanques y las plantas con el dinero de los contribuyentes**, para Pfizer y las demás. La fabricación pasó de poca (1941 a 1942) a enorme (1943) y a cientos de millones de unidades para 1945. ✅ (Solo la planta de Pfizer en Brooklyn fabricó más en un mes de 1944 que en todo 1943: ACS 2008. Lo de "cientos de millones de unidades" es como él lo dijo; no lo pudimos verificar.) 🟡 Que el gobierno haya pagado la planta de cada compañía es como él lo dijo y no está verificado; los historiadores sí describen el programa como dirigido por el gobierno, con cooperación entre empresas y datos compartidos abiertamente (Quinn 2013).
 - La condición clave: **"Nadie puede patentar la penicilina"**. Con una docena de fabricantes del mismo producto, el precio bajó y siguió bajando. Las compañías vendían muchísimo pero ganaban poco, y no les gustaba nada. ✅ 🟢 Revisión de la evidencia: la medicina en sí no se patentó, pero sí se registraron **patentes de cómo fabricarla**, de Merck y del científico del Departamento de Agricultura de EE. UU. (USDA) Andrew Moyer (Gaynes 2017; ver Cap. 3).
 
@@ -155,6 +157,8 @@ C. Cumplir con las reglas se llevaba la mayor parte del presupuesto
 - Repeticiones: la clase vuelve a contar varias veces la historia de la penicilina, la cifra de 600% y la lista resumen ("enormes centros de investigación, distribución en todo el mundo, gran poder para presionar a los políticos...").
 - La comparación con la presión de Google y Facebook sobre los políticos y el comentario sobre la "puerta giratoria" de los contratistas de armas.
 - El contenido detallado del adelanto del Cap. 3 (límites de presión alta, DSM, "líderes de opinión"), guardado para la nota de ese capítulo, más allá de las menciones cortas de arriba.
+
+**La idea para recordar: la penicilina mostró lo que se logra trabajando juntos y sin patentes; después, las patentes cambiaron las reglas del juego.**
 
 ---
 **Referencias:**

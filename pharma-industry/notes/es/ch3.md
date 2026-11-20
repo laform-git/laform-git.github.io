@@ -3,6 +3,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 3 (transcripción). Tercera de ocho clases; empieza con dos agregados al Cap. 2 (patentes de cómo fabricar la penicilina, antibióticos en las granjas) y termina con un adelanto del Cap. 4 (la investigación y el proyecto de ley de 1959–62). Transcripción leída completa: termina con el adelanto de la Clase 4.*
 
+**En palabras sencillas:** esta clase cuenta cómo la industria aprendió a vender sus medicinas. Ahí nacieron los vendedores que visitan al médico, las muestras gratis, los artículos escritos por encargo y los cursos para médicos pagados por las compañías. También nacieron los trucos para alargar una patente con un cambio mínimo, y la costumbre de ampliar lo que cuenta como enfermedad. Posner es periodista, no científico, y la revisión de fuentes corrige varios datos. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **FDA**: la agencia de alimentos y medicamentos de EE. UU.
 - **USDA**: Departamento de Agricultura de EE. UU.
@@ -11,7 +13,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-El Cap. 2 mostró que por fin las medicinas podían funcionar (los antibióticos). El Cap. 3 muestra cómo la industria aprendió a *venderlas*, y Posner dice que aquí nació la forma de hacer negocio de la industria farmacéutica moderna: el vendedor que visita al médico, la muestra gratis, el artículo escrito por encargo, los cursos para médicos pagados por la industria, la patente que se alarga con un "nuevo y mejorado" y la ampliación de lo que cuenta como enfermedad. Posner es periodista de investigación (autor de *Pharma*), no científico. Sus datos de historia se marcan con ✅ cuando los dice con claridad; sus interpretaciones y algunas cifras confusas, con 🟡. Lo más útil para la vida diaria es la sección final: cómo ser un paciente que hace más preguntas cuando le sugieren una medicina nueva.
+El Cap. 2 mostró que por fin las medicinas podían funcionar (los antibióticos). El Cap. 3 muestra cómo la industria aprendió a *venderlas*, y Posner dice que aquí nació la forma de hacer negocio de la industria farmacéutica moderna. Son el vendedor que visita al médico, la muestra gratis, el artículo escrito por encargo, los cursos para médicos pagados por la industria, la patente que se alarga con un "nuevo y mejorado" y la ampliación de lo que cuenta como enfermedad. Posner es periodista de investigación (autor de *Pharma*), no científico. Sus datos de historia se marcan con ✅ cuando los dice con claridad; sus interpretaciones y algunas cifras confusas, con 🟡. Lo más útil para la vida diaria es la sección final: cómo ser un paciente que hace más preguntas cuando le sugieren una medicina nueva.
 
 ## Dos agregados al Cap. 2
 - **Patentes de la penicilina:** Ernst Chain (29 años, judío alemán que emigró, del equipo de Oxford) propuso patentar la penicilina; sus dos colegas británicos se escandalizaron y le dijeron que "dejaría mal parada a la comunidad judía". No se pidió ninguna patente. ✅ 🟢 Revisión de la evidencia: Chain sí creía que hacía falta una patente, mientras que Florey y otros pensaban que no era ético patentar una medicina que salva vidas (Gaynes 2017); el comentario sobre la "comunidad judía" es como lo cuenta Posner y aquí no está verificado.
@@ -28,7 +30,7 @@ El Cap. 2 mostró que por fin las medicinas podían funcionar (los antibióticos
 | --- | --- |
 | 1906 | Se crea con la Ley de Alimentos y Medicamentos Puros, como parte de la Oficina de Química; se ocupa sobre todo de lo que se le agrega a la comida; también, en teoría, del tabaco y las medicinas (🟡 lo del tabaco es como él lo dijo, sin verificar) |
 | 1930 | Se vuelve una oficina aparte, pero con poca gente y poco poder. 🟡 Revisión de la evidencia: en 1927 se llamó Food, Drug, and Insecticide Administration; en 1930, Food and Drug Administration, todavía dentro del Departamento de Agricultura; salió de Agricultura hasta 1940 (historia de la FDA) |
-| 1938 | Ley FD&C: hay que probar que es segura; agrega aparatos médicos, colorantes y cosméticos. El personal crece solo **2%** en un año (según lo dijo; sin verificar) |
+| 1938 | Ley FD&C (Ley Federal de Alimentos, Medicinas y Cosméticos): hay que probar que es segura; agrega aparatos médicos, colorantes y cosméticos. El personal crece solo **2%** en un año (según lo dijo; sin verificar) |
 
 ## La vieja guardia y la nueva guardia
 | | Vieja guardia | Nueva guardia |
@@ -155,6 +157,8 @@ C. \* Presionando a los congresos de cada estado, uno por uno, con el apoyo de l
 - Los comentarios personales de Posner (la comparación del consumismo con las aspiradoras, el chiste de la búsqueda en Google más allá de una línea).
 - El repaso repetido de "cómo estaban las cosas antes de 1906" (jarabes para la tos con heroína, inhaladores de cocaína), que ya se vio en el Cap. 1.
 - El diálogo detallado de cómo el vendedor presentaba la medicina ("esta me deja con la boca abierta"), que solo se conserva como ejemplo de la buena relación.
+
+**La idea para recordar: muchas de las formas de vender medicinas que vemos hoy nacieron aquí, y conviene preguntar qué pruebas hay detrás de cada anuncio.**
 
 ---
 **Referencias:**

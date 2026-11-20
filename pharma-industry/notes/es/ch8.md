@@ -4,6 +4,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 8 (transcripción). Última clase del curso de ocho partes; cierra la serie usando el COVID-19 como ejemplo de cada patrón de los Cap. 1 a 7, y luego unas cuantas preguntas del público sobre los médicos, la FDA y la base de datos de pagos de ProPublica. Transcripción completa: termina de forma natural al final de las preguntas.*
 
+**En palabras sencillas:** esta última clase sigue el dinero durante la pandemia de COVID-19. Posner no discute si las vacunas funcionaron; muestra cómo la emergencia cambió las reglas: dinero público para investigar, patentes privadas, contratos secretos, protección contra demandas y ganancias enormes. Termina con su lista para ser un "paciente más inteligente", sin dejar de decir que la medicina moderna salva vidas. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **FDA**: la agencia de alimentos y medicamentos de EE. UU.
 - **OMS**: Organización Mundial de la Salud
@@ -14,7 +16,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Esta es la clase final. Posner toma el método que fue armando en todo el curso (crisis, dinero público, patente privada, poca vigilancia de los precios, agrandar el mercado) y lo aplica al COVID-19 mientras pasaba. Deja claro que no está discutiendo si las vacunas funcionaron o si hacían falta; está "siguiendo el dinero". La clase sirve por dos razones: muestra cómo la emergencia cambió las reglas (protección contra demandas, compras aseguradas, permisos para saltarse los conflictos de intereses), y termina con lo más práctico de todo el curso, una lista corta de hábitos para ser un paciente informado y que pregunta, sin rechazar la atención médica. Posner es periodista de investigación (autor de *Pharma: Greed, Lies, and the Poisoning of America*), no científico: sus datos de historia y de dinero se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. Varias cifras de dinero de esta clase no cuadran entre sí y están señaladas.
+Esta es la clase final. Posner toma el método que fue armando en todo el curso (crisis, dinero público, patente privada, poca vigilancia de los precios, agrandar el mercado) y lo aplica al COVID-19 mientras pasaba. Deja claro que no está discutiendo si las vacunas funcionaron o si hacían falta; está "siguiendo el dinero". La clase sirve por dos razones. Muestra cómo la emergencia cambió las reglas (protección contra demandas, compras aseguradas, permisos para saltarse los conflictos de intereses). Y termina con lo más práctico de todo el curso, una lista corta de hábitos para ser un paciente informado y que pregunta, sin rechazar la atención médica. Posner es periodista de investigación (autor de *Pharma: Greed, Lies, and the Poisoning of America*), no científico: sus datos de historia y de dinero se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. Varias cifras de dinero de esta clase no cuadran entre sí y están señaladas.
 
 ## El punto de partida — Un libro sobre la pandemia equivocada
 - *Pharma* salió el **10 de marzo de 2020** (cinco años de investigación con su esposa Trisha, cientos de entrevistas, decenas de miles de páginas de documentos). La OMS declaró pandemia el COVID-19 **al día siguiente**, y su gira para presentar el libro se vino abajo. ✅
@@ -41,7 +43,7 @@ Esta es la clase final. Posner toma el método que fue armando en todo el curso 
 
 **Lo que se quedó la industria farmacéutica:** la propiedad intelectual (los derechos sobre el invento), que le da poder para poner precios por mucho tiempo y ganancias de vender en todo el mundo a partir de trabajo pagado con dinero público. ✅
 
-- **El modelo de la penicilina que él quería:** darles dinero a las compañías con generosidad, hacer todo rápido, pero asegurarse de que **nadie fuera dueño de la patente**. Como todavía no había ninguna medicina contra el COVID, Posner dice que era una oportunidad rara de hacerlo limpio, a diferencia del AZT y el Truvada (Cap. 7), donde los NIH hicieron el trabajo y las compañías se quedaron con las patentes. 🟡 Lo que él prefería como política.
+- **El modelo de la penicilina que él quería:** darles dinero a las compañías con generosidad, hacer todo rápido, pero asegurarse de que **nadie fuera dueño de la patente**. Como todavía no había ninguna medicina contra el COVID, Posner dice que era una oportunidad rara de hacerlo limpio, a diferencia del AZT y el Truvada (medicinas contra el VIH; Cap. 7), donde los NIH hicieron el trabajo y las compañías se quedaron con las patentes. 🟡 Lo que él prefería como política.
 - **La cláusula que se perdió:** el primer paquete de emergencia fue de **unos $8,000 millones, con $3,000 a $4,000 millones para investigar vacunas**, aprobado unos **ocho días** después, con un presidente republicano y una Cámara demócrata (Pelosi). El primer borrador tenía una cláusula que decía que nadie sería dueño privado de la propiedad intelectual, y **desapareció del proyecto final**. Los cabilderos de la industria dijeron que soltar la propiedad intelectual sería regalar años de conocimiento propio sobre el ARNm. ✅ (según lo que él reporta) 🟡 Revisión de la evidencia: la ley firmada el 6 de marzo de 2020 no tenía nada sobre propiedad intelectual, solo que las compras siguieran reglas de "precios justos y razonables" y que el Departamento de Salud (HHS) "podía" actuar con las leyes que ya había para que los productos se pudieran pagar (CRS 2020); un borrador de la Cámara del 2 de marzo agregaba que el HHS "no hará nada que retrase el desarrollo" de esos productos (KEI 2020). No encontramos la cláusula de no propiedad intelectual que él describe en ningún borrador que revisamos.
 - **El dato de los NIH:** desde los años treinta, los NIH han invertido unos **$900,000 millones** en investigación que las compañías usaron para patentar medicinas de marca (hasta 2020; "acercándose al billón"; 🟡 la cifra es como él la dijo, sin verificar). Su comparación: los impuestos pagan escuelas que ayudan a todos, pero eso no debería dejar que una compañía cobre **$23,000 por un frasco de gel Acthar**. ✅ / 🟡 (la comparación)
 
@@ -126,6 +128,7 @@ El equilibrio que insiste en mantener: **la medicina moderna salva vidas**. Infe
 - 🔴 "No se puede saber cuánto le paga la industria a tu médico": la base de datos de ProPublica y la página del gobierno Open Payments te dejan buscarlo.
 
 ## Conclusión práctica
+Usa las cinco reglas del paciente más inteligente: date cuenta del sistema, cuestiona la prisa, separa lo nuevo del precio, entiende hasta dónde llegan las reglas y ve la publicidad como una forma de vender. Y no rechaces la atención médica: ser un paciente más inteligente es preguntar, no dejar de atenderte.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Con lo que cuenta Posner del primer proyecto de ley de emergencia por el COVID, ¿cuál era el "modelo de la penicilina" que dice que se perdió?**
@@ -167,6 +170,8 @@ C. Confiar por completo en lo que aprueba la FDA, porque las reglas hacen que ya
 - Explicaciones de gráficas sin cifras que se puedan leer (la gráfica de volumen de compraventa en Webull, la gráfica completa de pagos contra investigación más allá de las cifras citadas).
 - Sus comentarios sobre los "vendedores al estilo Sackler" de Bristol-Myers más allá de lo del margen de 3%.
 - Las veces que repite "oportunidad única en la vida" y "sigue el dinero".
+
+**La idea para recordar: la medicina moderna salva vidas, y aun así conviene preguntar, seguir el dinero y no tomar lo nuevo como si fuera mejor.**
 
 ---
 **Referencias:**

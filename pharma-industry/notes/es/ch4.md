@@ -3,6 +3,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 4 (transcripción). Cuarta de ocho clases; sigue del Cap. 3 Selling Sickness y prepara el Cap. 5 Mother's Little Helper. La clase termina con tres preguntas del público (recetar para usos no aprobados, gobierno contra competencia, las grandes empresas de comida y las farmacéuticas). La transcripción está completa.*
 
+**En palabras sencillas:** esta clase cuenta cómo nacieron las reglas modernas para las medicinas. Antes de 1962, una compañía de EE. UU. solo tenía que mostrar que una medicina era más o menos segura, no que funcionaba. La tragedia de la talidomida, una pastilla que causó defectos graves en bebés, empujó una ley que exigió pruebas de que las medicinas funcionan. Posner ve un ciclo que se repite: tragedia, luego reforma, luego resistencia de la industria. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **FDA**: la agencia de alimentos y medicamentos de EE. UU.
 - **FTC**: Comisión Federal de Comercio de EE. UU.
@@ -112,7 +114,7 @@ Posner la llama una Resolución del Senado; era un proyecto de ley del Senado. �
 | 2 | Se quitó la regla de **aprobación automática a los 60 días** |
 | 3 | **Inspecciones** cada cierto tiempo en las plantas |
 | 4 | **Reglas de control de calidad** (antes, todo era a palabra de honor); a Posner se le olvidó esta y la agregó después |
-| 5 | **Poder para retirar** medicinas que fueran "un peligro inmediato para la salud pública" o que "no cumplieron lo que prometían como tratamiento"; se usó después para quitar la mayoría de las mezclas de antibióticos en dosis fija (🟢 la revisión posterior, llamada DESI, de si funcionaban las medicinas aprobadas entre 1938 y 1962, había marcado unas 600 medicinas como inútiles a principios de los años setenta: Greene 2012) |
+| 5 | **Poder para retirar** medicinas que fueran "un peligro inmediato para la salud pública" o que "no cumplieron lo que prometían como tratamiento"; se usó después para quitar la mayoría de las mezclas de antibióticos en dosis fija (🟢 la revisión posterior, llamada DESI, sigla en inglés de Estudio de la Eficacia de las Medicinas, de si funcionaban las medicinas aprobadas entre 1938 y 1962, había marcado unas 600 medicinas como inútiles a principios de los años setenta: Greene 2012) |
 | 6 | Los anuncios para médicos tienen que mantener "un **equilibrio justo**" entre la promoción y la exactitud (la ley no dice qué es eso) |
 | 7 | **Prueba de que funciona**: "evidencia sustancial" sacada de "estudios adecuados y bien controlados", y retirar las medicinas que no sirven como tratamiento |
 
@@ -186,6 +188,8 @@ C. Usó el poder de la FDA para pedir pruebas de que funcionaba
 - La corrección repetida del sueldo de Welch y la cita repetida de la "tercera ola".
 - Cómo hizo sus preguntas el público, que solo se conservan como temas resumidos.
 - Los comentarios de Posner sobre lo aburridas que son las audiencias del Congreso y sobre los nombres que terminan en "-mycin".
+
+**La idea para recordar: las reglas que protegen a los pacientes casi siempre llegaron después de una tragedia, y vale la pena preguntar cuánto tiempo lleva una medicina a la venta.**
 
 ---
 **Referencias:**

@@ -4,6 +4,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 7 (transcripción). Séptima de ocho clases; sigue del Cap. 6, sobre cómo se compró a los políticos, y prepara el Cap. 8, sobre las ganancias de la pandemia. Posner es periodista de investigación (autor de "Pharma"), no científico: sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. La transcripción parece completa; termina con su lista del "paciente más inteligente".*
 
+**En palabras sencillas:** esta clase muestra lo contrario de vender a millones. Una ley de 1983 quiso ayudar a las personas con enfermedades raras dando premios a quien hiciera medicinas "huérfanas" para ellas. Con el tiempo, algunas de esas medicinas se volvieron las que más dinero dejan, con precios de cientos de miles o millones de dólares por paciente. Posner explica los huecos de esa ley y el papel de unos intermediarios poco conocidos, los PBM. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **PBM**: administrador de beneficios de farmacia, intermediario que maneja precios de medicamentos para las aseguradoras
 - **NIH**: Institutos Nacionales de Salud de EE. UU.
@@ -16,7 +18,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Las clases anteriores siguieron el modelo de vender a millones. Esta clase muestra lo contrario. Desde la Ley de Medicamentos Huérfanos, las medicinas que más dejan pueden ser las que tratan a unos cuantos cientos o miles de personas, a entre $300,000 y $4 millones cada una. La idea de Posner: **la ganancia viene de que haya pocos, no de vender mucho**, y lo que lo permite es una mezcla de leyes de patentes, la exclusividad para medicinas huérfanas, la promoción para usos no aprobados ("off-label") y unos intermediarios de los que se sabe poco (los PBM). Para un paciente: el precio de lista, la lista de medicinas que cubre el seguro y la farmacia a la que lo mandan dependen de fuerzas que no tienen nada que ver con qué tan bien funciona una medicina.
+Las clases anteriores siguieron el modelo de vender a millones. Esta clase muestra lo contrario. Desde la Ley de Medicamentos Huérfanos (para enfermedades raras), las medicinas que más dejan pueden ser las que tratan a unos cuantos cientos o miles de personas, a entre $300,000 y $4 millones cada una. La idea de Posner: **la ganancia viene de que haya pocos, no de vender mucho**. Lo que lo permite es una mezcla de leyes de patentes, la exclusividad para medicinas huérfanas, la promoción para usos no aprobados ("off-label") y unos intermediarios de los que se sabe poco (los PBM, empresas que manejan las medicinas que cubre cada seguro). Para un paciente: el precio de lista, la lista de medicinas que cubre el seguro y la farmacia a la que lo mandan dependen de fuerzas que no tienen nada que ver con qué tan bien funciona una medicina.
 
 ## Comentario al empezar — Ganar con los efectos secundarios
 - Posner dice que una compañía de los años sesenta veía una medicina con muchos efectos secundarios como una "medicina de entrada": no adictiva, sino una fuente de más medicinas para tratar sus efectos secundarios. 🟡 (no se dice qué compañía ni qué medicina)
@@ -177,6 +179,8 @@ C. Porque la ley nacional pide que las listas prefieran las medicinas caras
 - Comentarios de paso: la frase de Sex and the City, la comparación Valium/Xerox, la muerte de Sackler en 1987, la comparación con "Heinz 57".
 - Las veces que repite el rango de precios de $300,000 a $3 millones y que "nadie ha oído de las medicinas huérfanas".
 - El contexto social de los primeros años del sida, el detalle de la historia de la "medicina de entrada" de los años sesenta y la nota de que la publicidad especializada todavía apunta a las mujeres (el patrón del Cap. 5).
+
+**La idea para recordar: una ley pensada para las enfermedades raras abrió un negocio enorme; pregunta si tu medicina es huérfana y si hay genéricos.**
 
 ---
 **Referencias:**

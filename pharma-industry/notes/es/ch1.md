@@ -3,6 +3,8 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry" (en pantalla aparece como "Secrets of Big Pharma: How to Be a Smarter Patient"), Clase 1 (transcripción). Primera de ocho clases; cubre más o menos de 1800 a los años veinte del siglo XX. Transcripción completa: termina con un adelanto de la Clase 2 y "Muchas gracias".*
 
+**En palabras sencillas:** esta primera clase cuenta cómo nació la industria de las medicinas. Al principio no había reglas: cualquiera vendía remedios sin receta, sin pruebas y sin decir qué tenían. Las primeras grandes compañías crecieron vendiendo morfina, cocaína y hasta heroína como si fueran medicinas seguras. Las leyes llegaron tarde y suaves. Posner es periodista y abogado, no médico; varias de sus fechas no son exactas, y la revisión de fuentes las corrige. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **ADN**: el código genético dentro de cada célula
 - **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
@@ -23,7 +25,7 @@ Esta es la historia de cómo empezó todo, y el resto del curso se construye sob
 ## Por qué se vendían las curas falsas — Lo poco que se sabía de medicina
 La idea de fondo de Posner: cuando la gente no sabe qué la enferma, el miedo más una promesa de cura dicha con seguridad es fácil de vender. ✅ (como argumento)
 - La idea de que los microbios causan enfermedades era nueva y mucha gente no la aceptaba. Él les da el crédito a **Louis Pasteur** (carne y leche echadas a perder) y a un **científico alemán de las bacterias (1882)**, que no nombra en la clase pero es **Robert Koch**, quien demostró que la tuberculosis viene de microbios, cuando muchos creían que se heredaba. 🟡 Cuando dice que el trabajo de Pasteur llegó "unas cuantas décadas" antes de las medicinas de mediados del siglo XIX, las fechas no cuadran.
-- Se culpaba de la enfermedad a las personas, no a los microbios: dice que una Ley de Inmigración de 1882 salió del miedo al cólera (del que se culpaba a los inmigrantes irlandeses) 🟡 (sin verificar: no encontramos una fuente que relacione la Ley de 1882 con el miedo al cólera), y cita la **Ley de Inmigración de 1891**, que no dejaba entrar a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (la cita tal como la leyó)
+- Se culpaba de la enfermedad a las personas, no a los microbios. Dice que una Ley de Inmigración de 1882 salió del miedo al cólera (del que se culpaba a los inmigrantes irlandeses) 🟡 (sin verificar: no encontramos una fuente que relacione la Ley de 1882 con el miedo al cólera), y cita la **Ley de Inmigración de 1891**, que no dejaba entrar a "todos los idiotas, dementes, indigentes... y personas que padezcan una enfermedad contagiosa repugnante o peligrosa". ✅ (la cita tal como la leyó)
 - **Walter Reed (1900)** demostró que los mosquitos pasan la fiebre amarilla. Posner lo llama "general del ejército"; ✅ Revisión de la evidencia: Reed era médico cirujano del Ejército (con rango de mayor) y dirigió la Junta de Fiebre Amarilla del Ejército en Cuba (Pierce 2003).
 
 ## La morfina y cómo las guerras hicieron nacer a las compañías
@@ -67,7 +69,7 @@ El caso favorito de Posner. Lo que hizo el equipo de investigación de Bayer, se
 | 1900 | **Heroína** (del alemán *heroisch*, "heroico") | Sin receta; de 10 a 15 veces más fuerte que la morfina y más rápida 🟡 |
 | 1903 | **Fenobarbital (Luminal)**, el primer barbitúrico (calmante y para dormir) | Sin receta |
 
-🟡 Las fechas son de Posner. Revisión de la evidencia: Hoffmann logró aspirina pura el 10 de agosto de 1897 y Bayer la sacó a la venta en 1899 (Sneader 2000); Bayer empezó a fabricar heroína para vender en 1898 (Hosztafi 2001); la heroína es unas **2 a 3 veces** más fuerte que la morfina, no de 10 a 15 (EUDA); el primer barbitúrico fue el **barbital (Veronal)**, descubierto en 1903 y vendido por Bayer y Merck desde 1904, mientras que el **fenobarbital (Luminal)** se fabricó en 1911 y Bayer lo vendió desde 1912 (López-Muñoz 2005). No pudimos verificar que Bayer haya guardado la fenacetina sin venderla.
+🟡 Las fechas son de Posner. Revisión de la evidencia: Hoffmann logró aspirina pura el 10 de agosto de 1897 y Bayer la sacó a la venta en 1899 (Sneader 2000); Bayer empezó a fabricar heroína para vender en 1898 (Hosztafi 2001); la heroína es unas **2 a 3 veces** más fuerte que la morfina, no de 10 a 15 (EUDA, la agencia de drogas de la Unión Europea); el primer barbitúrico fue el **barbital (Veronal)**, descubierto en 1903 y vendido por Bayer y Merck desde 1904, mientras que el **fenobarbital (Luminal)** se fabricó en 1911 y Bayer lo vendió desde 1912 (López-Muñoz 2005). No pudimos verificar que Bayer haya guardado la fenacetina sin venderla.
 
 - **Cómo se anunciaba la heroína (a la venta en EE. UU. desde 1900):** remedio para la tos y el resfriado, incluso para niños; "funciona mejor que la codeína" con "una décima parte" de sus efectos secundarios; y, su favorita, **una cura para la adicción a la morfina**. "Para mí, el ejemplo más crudo de la publicidad ganándole a la ciencia". ✅
 - **Barbitúricos:** se vendían para el insomnio, la ansiedad, los "nervios" y la depresión; sin receta, y para 1908 eran un gran éxito de ventas en EE. UU. Cuando Bayer lo sacó, la competencia lo copió, el mismo patrón que con la cocaína y la morfina. ✅
@@ -75,7 +77,7 @@ El caso favorito de Posner. Lo que hizo el equipo de investigación de Bayer, se
 
 ## Las reglas llegan tarde — La Ley de Alimentos y Medicamentos Puros de 1906
 - El patrón que Posner quiere que se siga en todo el curso: **el gobierno reacciona tarde**, cuando ya se juntó una crisis de salud pública (hasta el Valium, las anfetaminas y los opioides). 🟡 (su idea)
-- **Harvey Washington Wiley** (Oficina de Química), que se ocupaba de los conservadores de la comida como el formaldehído, dirigió el **"Escuadrón del Veneno"**: unos voluntarios comían platillos con conservadores escondidos para ver quién se enfermaba. Posner dice que se suspendió porque murió un voluntario 🟡 (sin verificar: las pruebas empezaron en 1902, y las fuentes que revisamos no hablan de ninguna muerte; NPR 2018). **La jungla** (la novela de Upton Sinclair, aunque no se menciona al autor) aumentó el enojo de la gente. ✅
+- **Harvey Washington Wiley** (Oficina de Química), que se ocupaba de los conservadores de la comida como el formaldehído, dirigió el **"Escuadrón del Veneno"**: unos voluntarios comían platillos con conservadores escondidos para ver quién se enfermaba. Posner dice que se suspendió porque murió un voluntario 🟡 (sin verificar: las pruebas empezaron en 1902, y las fuentes que revisamos no hablan de ninguna muerte; la radio pública de EE. UU., NPR 2018). **La jungla** (la novela de Upton Sinclair, aunque no se menciona al autor) aumentó el enojo de la gente. ✅
 - Tanto los fabricantes de "medicinas de patente" como las empresas "serias" (Merck, Pfizer) presionaron a los políticos contra reglas estrictas: "Somos una industria nueva... No nos pongan tantas reglas". Posner lo llama **la primera presión a los políticos que le salió bien a la industria**, hecha sin una asociación del ramo y sin las grandes agencias de publicidad. 🟡
 - **Lo que se aprobó:** los mismos productos adictivos siguieron a la venta; sin necesidad de receta; sin pruebas de que fueran seguros ni de que funcionaran; no se tuvo que retirar nada. El único cambio, según Posner: **había que poner en la lista lo que tenían** (no cuánto). 🟡 Revisión de la evidencia: la Ley prohibió las etiquetas falsas o engañosas y obligó a decir si tenían **y cuánto** tenían de once ingredientes peligrosos concretos (entre ellos el alcohol, la heroína y la cocaína); lo demás no había que ponerlo (FDA).
 - **Vin Mariani:** vino de Burdeos con **7.6 mg de cocaína por onza**, vendido para dar energía y estar despierto, recomendado por el **papa León XIII** y por "miles de médicos". Poner la cocaína en la etiqueta no le bajó las ventas. ✅ (la cifra de 7.6 mg es como él la dijo y no está verificada)
@@ -164,6 +166,8 @@ C. Que las patentes de 17 años hacen imposible controlar una medicina por mucho
 - Detalles de las comidas del Escuadrón del Veneno y de las discusiones sobre conservadores, más allá de lo que explica la Ley de 1906.
 - Las cifras confusas del arranque de Pfizer ("$2,500 en ahorros de $1,000"), que solo se conservan señaladas.
 - La comparación con los cárteles y la lista de beneficios extra de las GLP-1, en no más de una línea cada una.
+
+**La idea para recordar: la industria nació vendiendo productos que creaban adicción, con más publicidad que ciencia, y las reglas siempre llegaron tarde.**
 
 ---
 **Referencias:**
