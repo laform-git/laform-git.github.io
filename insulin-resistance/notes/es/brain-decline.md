@@ -8,6 +8,8 @@
 > 🔴 **Evidencia débil o inexistente** — se estudió y no se encontró un beneficio importante, o el resultado fue en contra.
 
 ---
+**En palabras sencillas:** esta nota explica cómo la resistencia a la insulina se relaciona con la pérdida de memoria y el riesgo de Alzheimer. Primero repasa cómo se forma y las enfermedades que empuja en todo el cuerpo. Luego se enfoca en el cerebro: cuando le cuesta usar el azúcar, se proponen varias formas de daño. También explica cómo revisar tu propio nivel con el HOMA-IR, una cuenta con el azúcar y la insulina en ayunas. La relación con el Alzheimer es real, pero no está claro qué causa qué. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## Parte 1 — Cómo se Desarrolla la Resistencia a la Insulina
 
 **El punto de partida es lo que comemos y movernos poco, no solo la herencia.**
@@ -23,7 +25,7 @@
 
 - Diabetes tipo 2 ✅
 - Prediabetes ✅
-- Enfermedad del hígado graso (ahora llamada MASLD/MASH, antes NAFLD/NASH; Rinella 2023) 🟢
+- Enfermedad del hígado graso (ahora llamada MASLD/MASH, sus nombres en inglés, antes NAFLD/NASH; Rinella 2023) 🟢
 - Triglicéridos altos 🟢
 - Colesterol HDL bajo 🟢
 - Colesterol LDL en partículas pequeñas y apretadas (llamado Patrón B) 🟢
@@ -33,12 +35,12 @@
 - Arterias tapadas (aterosclerosis) / enfermedad del corazón 🟢
 - Riesgo de derrame cerebral 🟢
 - PMOS (antes SOP, síndrome de ovario poliquístico) ✅
-- Desajuste de las hormonas que controlan la ovulación (ovulación irregular o que no ocurre, por un desequilibrio entre las hormonas LH y FSH), aunque no haya un diagnóstico completo de PMOS 🟡
+- Desajuste de las hormonas que controlan la ovulación (ovulación irregular o que no ocurre, por un desequilibrio entre las hormonas LH y FSH, que manda el cerebro al ovario), aunque no haya un diagnóstico completo de PMOS 🟡
 - Testosterona baja (hombres) 🟢
 - Exceso de hormonas masculinas en mujeres (más andrógenos libres porque baja la SHBG, la proteína que los transporta), sin un diagnóstico completo de PMOS 🟡
 - Patrones de dominancia de estrógeno (la resistencia a la insulina altera cómo la grasa fabrica y procesa el estrógeno — nota: la "dominancia de estrógeno" en sí es un término de medicina funcional, no un diagnóstico formal) 🟡
 - Insuficiencia de progesterona (ligada al mismo problema de ovulación de los puntos anteriores) 🟡
-- Miomas uterinos (solo hay estudios de observación, y no coinciden: un estudio de un solo momento en EE. UU. con 867 mujeres sin diabetes encontró que un HOMA-IR más alto se asocia con más miomas, con cerca de 17% más probabilidad por cada unidad de HOMA-IR (Sun 2025); el estudio SWAN, que siguió a mujeres por años, no encontró relación global entre el HOMA-IR y nuevos diagnósticos de miomas, solo una relación antes de la menopausia (Mitro 2025). En un grupo de mujeres seguidas en Taiwán, las mujeres con diabetes tipo 2 que usaban metformina tuvieron cerca de la mitad del riesgo de miomas (Tseng 2019), lo cual es sugerente pero no es prueba — ningún ensayo ha probado la metformina para miomas. Se ha visto que van juntos, no que uno cause el otro) 🟡
+- Miomas uterinos (solo hay estudios de observación, y no coinciden: un estudio de un solo momento en EE. UU. con 867 mujeres sin diabetes encontró que un HOMA-IR más alto se asocia con más miomas, con cerca de 17% más probabilidad por cada unidad de HOMA-IR (Sun 2025); el estudio SWAN (un estudio grande de mujeres en la edad de la menopausia), que siguió a mujeres por años, no encontró relación global entre el HOMA-IR y nuevos diagnósticos de miomas, solo una relación antes de la menopausia (Mitro 2025). En un grupo de mujeres seguidas en Taiwán, las mujeres con diabetes tipo 2 que usaban metformina tuvieron cerca de la mitad del riesgo de miomas (Tseng 2019), lo cual es sugerente pero no es prueba — ningún ensayo ha probado la metformina para miomas. Se ha visto que van juntos, no que uno cause el otro) 🟡
 - Problemas de tiroides (tiroides lenta, leve o franca; la relación con la resistencia a la insulina va en los dos sentidos, y los estudios de verdad no se ponen de acuerdo sobre cuál causa cuál) 🟡
 - Infertilidad 🟢
 - Inflamación leve pero constante ✅
@@ -98,7 +100,7 @@ Si la resistencia a la insulina es una causa primaria del Alzheimer, o uno de va
 ---
 ## Parte 3.5 — ¿Es Esta la Causa Más Común del Deterioro de la Memoria?
 
-**Respuesta corta: No. La edad es el mayor factor de riesgo, y la genética (como el APOE ε4) pesa en algunas personas. La resistencia a la insulina es uno de varios factores modificables — importante, pero no está comprobado que sea el mayor.**
+**Respuesta corta: No. La edad es el mayor factor de riesgo, y la genética (como el APOE ε4, una variante de un gen que lleva grasas en el cerebro) pesa en algunas personas. La resistencia a la insulina es uno de varios factores modificables — importante, pero no está comprobado que sea el mayor.**
 
 - **La edad es el factor de riesgo más fuerte para el deterioro cognitivo en general.** Simplemente envejecer aumenta el riesgo más que cualquier otro factor individual. Esto no es algo sobre lo que alguien pueda actuar, así que aquí es solo contexto, no un área de enfoque. ✅ Sólido como una roca.
 - **Entre los factores que una persona sí puede cambiar**, la Comisión Lancet de 2024 estima que 14 factores de riesgo modificables explican en conjunto cerca del 45% de los casos de demencia. Las mayores proporciones individuales son la pérdida auditiva y el colesterol LDL alto (cerca de 7% cada uno). La diabetes explica cerca del 2%. La resistencia a la insulina en sí no está entre los 14. El grupo metabólico y vascular (diabetes, LDL alto, hipertensión, obesidad, tabaquismo, sedentarismo, exceso de alcohol) explica cerca del 17% en conjunto (Livingston 2024). 🟢 Evidencia sólida para estas estimaciones.
@@ -152,6 +154,8 @@ Glucosa en ayunas (mg/dL) multiplicada por insulina en ayunas (uIU/mL), dividido
 
 - Se podrían agregar recomendaciones específicas de protocolo dietético/de ejercicio si esta nota está pensada para impulsar la acción, no solo la comprensión
 - El cálculo e interpretación del índice TyG aún no se ha detallado — podría agregarse como una sección de seguimiento si resulta útil
+
+**La idea para recordar: cuidar la respuesta a la insulina cuida también al cerebro, y se puede revisar con análisis sencillos.**
 
 ---
 **Referencias:**

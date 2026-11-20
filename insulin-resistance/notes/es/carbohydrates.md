@@ -2,6 +2,8 @@
 
 *Qué son los carbohidratos, cómo el largo de la cadena decide qué tan rápido llegan a la sangre, y por qué la fructosa —no la glucosa— es el azúcar más ligado a la grasa en el hígado y a la ApoB.*
 
+**En palabras sencillas:** esta nota explica qué son los carbohidratos. Todos están hechos de azúcares pequeños unidos en cadenas; mientras más cortas las cadenas, más rápido llegan a la sangre. La fibra es una cadena que no podemos cortar. La gran diferencia está entre la glucosa, que se usa en todo el cuerpo, y la fructosa, que maneja sobre todo el hígado y que, en exceso, se liga más a la grasa en el hígado. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## Por qué importa
 
 Los carbohidratos refinados y el azúcar líquida son los principales motores de la resistencia a la insulina y de un perfil de lípidos con ApoB alta y HDL baja. Conocer las familias de carbohidratos permite leer una etiqueta o un plato y predecir su efecto en el metabolismo, en vez de memorizar alimentos "buenos" y "malos".
@@ -132,3 +134,6 @@ C. El queso no tiene el enlace de la galactosa
 ---
 
 *Fecha: 2026-11-05 | Fuente: bioquímica estándar. Diagramas originales (en inglés).*
+
+**La idea para recordar: no todos los azúcares son iguales; la fibra frena la subida del azúcar y la fructosa de más va directo al hígado.**
+

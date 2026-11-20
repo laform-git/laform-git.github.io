@@ -1,5 +1,7 @@
 # Resistencia a la Insulina — Cascada Molecular
 
+**En palabras sencillas:** esta nota explica lo que pasa dentro de la célula cuando llega la insulina. La señal pasa de una pieza a otra, como una fila de fichas de dominó, hasta que se abre la puerta por donde entra el azúcar. En la resistencia a la insulina, dos restos de grasa (el DAG y la ceramida) atoran esa fila en puntos concretos. Saber dónde se atora explica por qué el ejercicio, el ayuno y la berberina ayudan. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## Por qué importa
 
 La resistencia a la insulina no es una cerradura rota. Es una fila de fichas de dominó que se atora dentro de la célula. Saber exactamente dónde se atora explica por qué la berberina, el ejercicio y el ayuno funcionan por dentro de la célula.
@@ -193,6 +195,8 @@ Dos puertas, la misma llave. La cerradura de la puerta del azúcar se desgasta (
 **Conclusión práctica**
 
 Por eso no basta con corregir la resistencia a medias ni fijarse solo en el azúcar: mientras quede algo de insulina alta de compensación, seguirá alimentando la fabricación de grasa, incluso los días en que el azúcar en ayunas salga bien.
+
+**La idea para recordar: la resistencia a la insulina es una fila de dominó atorada dentro de la célula, y el ejercicio abre un camino que la rodea.**
 
 ---
 **Referencias:**

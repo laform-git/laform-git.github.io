@@ -4,6 +4,8 @@
 
 ---
 
+**En palabras sencillas:** esta nota cuenta, como una historia, el viaje del azúcar por el cuerpo. Comes, el azúcar entra a la sangre y la insulina le abre la puerta de las células. Cuando las puertas empiezan a costar trabajo, el cuerpo esconde el problema por años. El daño aparece primero en el hígado, luego en el corazón, los vasos y la presión, y al final en el cerebro. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## 1. Comer — La glucosa entra a la sangre
 
 La comida se descompone en glucosa (azúcar), que pasa a tu sangre. Ahora tu cuerpo necesita sacar ese azúcar de la sangre y meterlo en tus células, donde se quema para obtener energía. ✅ Totalmente sólido.
@@ -73,6 +75,8 @@ Un panel de laboratorio normal revisa cada parada de forma aislada —un número
 - [[Sugar vs. Cholesterol Number — Why Insulin Resistance Drives Heart Disease Risk]] — detalle completo de la Parada 8
 
 - [[Lipid Triad]] — detalle completo del cambio en el colesterol de la Parada 8
+
+**La idea para recordar: el azúcar que no entra bien a las células termina dañando el hígado, el corazón y el cerebro, mucho antes de que se note.**
 
 ---
 

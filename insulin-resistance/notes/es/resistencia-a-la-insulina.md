@@ -4,6 +4,8 @@ La resistencia a la insulina es el gran problema de salud de nuestra época. Est
 
 ---
 
+**En palabras sencillas:** esta es la nota central de la serie. La insulina es la llave que deja entrar el azúcar a las células. En la resistencia a la insulina, las células le hacen menos caso, y el cuerpo fabrica más insulina para compensar. Eso puede pasar en silencio durante años antes de que el azúcar salga alto en los análisis. La nota explica las causas, cómo medirla, qué órganos afecta y un plan para revertirla con la comida, el ejercicio y algunos suplementos. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## Qué es la insulina y qué hace
 
 Después de comer, el azúcar (glucosa) llena la sangre. El cuerpo quiere ese azúcar *dentro* de las células, donde se quema para dar energía. **La insulina es la llave** que abre las células para que el azúcar pueda entrar.
@@ -172,7 +174,7 @@ La resistencia a la insulina no es solo un problema de azúcar. La señal de ins
 
 ## Resistencia a la insulina y el cerebro
 
-- La resistencia a la insulina en el cuerpo va junto con un menor uso de azúcar en las zonas del cerebro que el Alzheimer daña primero, según un tipo de escáner (PET con FDG) (Willette 2015). Casi todo el azúcar entra a las neuronas sin necesitar insulina (por las puertas GLUT1 y GLUT3), así que la relación probablemente se debe a que las señales de la insulina dentro del cerebro funcionan mal, y no a que simplemente se bloquee la entrada del azúcar. 🟡 Van juntas y hay explicaciones razonables, pero no está demostrado que una cause la otra.
+- La resistencia a la insulina en el cuerpo va junto con un menor uso de azúcar en las zonas del cerebro que el Alzheimer daña primero, según un tipo de escáner (PET con FDG, un estudio que muestra cuánto azúcar usa el cerebro) (Willette 2015). Casi todo el azúcar entra a las neuronas sin necesitar insulina (por las puertas GLUT1 y GLUT3), así que la relación probablemente se debe a que las señales de la insulina dentro del cerebro funcionan mal, y no a que simplemente se bloquee la entrada del azúcar. 🟡 Van juntas y hay explicaciones razonables, pero no está demostrado que una cause la otra.
 - El nombre **"diabetes tipo 3"** para el Alzheimer lo inventaron unos investigadores para describir esta relación. No es un diagnóstico oficial, y todavía se discute qué tan fuerte es la relación (si es una causa, si solo van juntos, o si comparten factores de riesgo). 🟡 En debate: toma la explicación como razonable y con apoyo, y el nombre "diabetes tipo 3" como una forma corta de decirlo, no como un hecho comprobado.
 - La lentitud normal de la edad (tardar en encontrar palabras, pensar más despacio) es esperable y es otra cosa. Esto describe un riesgo adicional; no dice que todo cambio de memoria venga de la insulina.
 
@@ -250,6 +252,8 @@ Las bacterias de las encías enfermas que pasan a la sangre por la encía inflam
 
 - AMPK a fondo: la berberina, el ayuno y el ejercicio prenden el mismo interruptor.
 - La relación triglicéridos/HDL como señal temprana de resistencia a la insulina: todavía no se desarrolla en esta nota.
+
+**La idea para recordar: la resistencia a la insulina empieza años antes que la diabetes, y la comida y el ejercicio son las palancas más fuertes para revertirla.**
 
 ---
 

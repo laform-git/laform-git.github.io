@@ -1,5 +1,7 @@
 # Resistencia a la insulina — Cómo se desarrolla
 
+**En palabras sencillas:** esta nota cuenta, paso a paso, cómo se va formando la resistencia a la insulina. No aparece de un día para otro: es una cadena de cambios que puede crecer en silencio diez años o más. Primero sube la insulina para compensar, luego la grasa se acumula donde no debe, y al final el azúcar sube y aparece la diabetes. Por eso medir solo el azúcar la descubre tarde. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 La resistencia a la insulina no aparece de un día para otro, como un interruptor que se prende. Es una cadena de cambios que puede ir creciendo en silencio durante años, muchas veces diez años o más, antes de que el azúcar en la sangre salga mal en los análisis (Warram 1990; Tabák 2009). 🟢 Los pasos de abajo son el orden que normalmente se enseña. En la vida real se mezclan, el orden cambia de persona a persona, y los expertos todavía discuten qué parte del cuerpo falla primero. 🟡
 
 1. **Subidas repetidas de azúcar en la sangre.** Comer seguido harinas blancas y azúcar hace que el azúcar suba mucho, y con él la insulina, una y otra vez. 🟡 Que todo empiece por la insulina es una idea discutida. Las revisiones más serias dan más peso a comer de más por mucho tiempo, moverse poco, la herencia familiar y la grasa que se va guardando en el hígado y en los músculos (Petersen & Shulman 2018). La insulina alta es a la vez resultado y motor de la resistencia (Shanik 2008).
@@ -17,6 +19,8 @@ La resistencia a la insulina no aparece de un día para otro, como un interrupto
 7. **El páncreas se agota.** Las células del páncreas que fabrican insulina (células beta) se cansan de tratar de seguir el ritmo y empiezan a fallar. Ese derrumbe final es lo que aparece como diabetes tipo 2 en un análisis normal. 🟢 Pero el desgaste empieza antes de lo que hace pensar la palabra "final": en estudios de autopsia, las personas con azúcar en ayunas alterada o con diabetes tipo 2 tenían entre 40 y 63% menos de estas células (Butler 2003). Y una debilidad heredada de estas células decide en gran parte quién llega a tener diabetes (Kahn 2003).
 
 Lo más importante para el diagnóstico: la diabetes y la prediabetes se diagnostican midiendo el azúcar y la HbA1c (el promedio del azúcar de los últimos tres meses), no la insulina (ADA 2026). ✅ Por eso buena parte de la etapa en que el páncreas compensa, muchas veces años, no se ve en los análisis de rutina. 🟢 La insulina en ayunas y el índice HOMA-IR (una cuenta que combina azúcar e insulina en ayunas) pueden detectarla antes 🟡, pero sirven sobre todo para investigación y estudios de muchas personas. Los análisis de insulina no son iguales en todos los laboratorios, no hay un número límite que todos acepten, y un solo resultado de HOMA-IR puede variar mucho (alrededor de 31%) (Matthews 1985; Wallace 2004). El azúcar en ayunas y la HbA1c suben claramente sobre todo cuando el páncreas ya no logra compensar (Tabák 2009). 🟢
+
+**La idea para recordar: la resistencia a la insulina crece en silencio durante años, y mientras más temprano se detecta, más fácil es revertirla.**
 
 ---
 **Referencias:**

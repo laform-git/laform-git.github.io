@@ -2,6 +2,8 @@
 
 *El magnesio es un ayudante indispensable para que la insulina funcione. Tener poco magnesio empeora la resistencia a la insulina, y el azúcar alta en sangre gasta magnesio: un círculo. Reponerlo ayuda sobre todo si hay deficiencia.*
 
+**En palabras sencillas:** el magnesio es un ayudante que la insulina necesita para funcionar. Tener poco magnesio empeora la resistencia a la insulina, y el azúcar alta hace que se pierda más magnesio por la orina: un círculo. Reponerlo ayuda sobre todo a quien le falta. La nota explica qué formas de magnesio sirven, qué alimentos lo tienen y qué precauciones tomar. Lo comprobado va marcado ✅ y lo que se discute 🟡.
+
 ## Por qué importa
 
 El magnesio está dentro de la propia cadena de señales de la insulina, así que si falta, todo lo demás (dieta, berberina, ejercicio) funciona peor sin que se note. Además es uno de los minerales que menos se comen en las dietas modernas.
@@ -14,7 +16,7 @@ El magnesio está dentro de la propia cadena de señales de la insulina, así qu
 | Receptor de insulina | El "interruptor" del receptor de insulina necesita magnesio para encenderse (para pegar etiquetas de fosfato) | Señal de insulina más débil ✅ |
 | GLUT4 | Ayuda a subir las puertas del azúcar (GLUT4) a la superficie de las células del músculo y la grasa | Sale menos glucosa de la sangre ✅ |
 | Páncreas | Apoya la energía de las células beta y la liberación de insulina | Secreción de insulina menos eficaz 🟡 |
-| Inflamación | Con poco magnesio suben las señales de inflamación (por ejemplo, la PCR) | Más inflamación → más resistencia a la insulina 🟡 |
+| Inflamación | Con poco magnesio suben las señales de inflamación (por ejemplo, la PCR, proteína C reactiva) | Más inflamación → más resistencia a la insulina 🟡 |
 
 - El magnesio participa como cofactor en más de 300 reacciones enzimáticas. ✅
 
@@ -75,7 +77,7 @@ Refinar los granos les quita casi todo el magnesio: otra razón por la que los c
 
 - **Enfermedad renal:** los riñones eliminan el magnesio de sobra; si fallan → riesgo de acumulación. ✅
 - **Antibióticos** (tetraciclinas, quinolonas) y **bifosfonatos:** separarlos al menos 2 horas; el magnesio bloquea su absorción. ✅
-- **Medicamentos que bloquean el ácido (IBP) por largo tiempo** reducen la absorción de magnesio. ✅
+- **Medicamentos que bloquean el ácido (IBP, como el omeprazol) por largo tiempo** reducen la absorción de magnesio. ✅
 - **Diuréticos:** algunos aumentan la pérdida de magnesio. ✅
 - Con **berberina:** no hay interacción conocida; los dos mejoran la sensibilidad a la insulina por caminos distintos. 🟡
 
@@ -120,3 +122,6 @@ C. No se absorbe nada
 ---
 
 *Fecha: 2026-11-05 | Ampliada con niveles de evidencia, formas, fuentes en alimentos e interacciones.*
+
+**La idea para recordar: el magnesio ayuda a que la insulina funcione; cómelo en semillas, nueces y hojas verdes, y pregunta al médico antes de tomar suplementos si tienes problemas de riñón.**
+
