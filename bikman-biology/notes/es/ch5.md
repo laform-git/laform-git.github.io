@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology" (Fundamentos de Biología), Clase 5 (transcripción). Es el mismo curso de los Cap. 1-4 y el Cap. 6 ("del ADN a la proteína", del Cap. 4, es lo que viene justo antes): biología básica de la célula, no una clase de tratamientos médicos.*
 
+**En palabras sencillas:** esta clase explica cómo se dividen las células. Casi todas las células del cuerpo se copian a sí mismas en dos células iguales (mitosis), y así crecemos y reparamos los tejidos. Solo las células que darán óvulos o espermatozoides hacen otra división (meiosis), que deja la mitad de los cromosomas y mezcla los genes, por eso los hermanos son distintos. La clase también muestra qué pasa cuando la división falla (por ejemplo, el síndrome de Down) y cómo se decide el sexo del bebé.
+
 **Palabras de esta nota:**
 - **SRY**: el gen del cromosoma Y que inicia el desarrollo masculino
 - **ADN**: el código genético dentro de cada célula
@@ -76,9 +78,9 @@ Para Bikman, son tantas las cosas que pueden fallar que es un milagro que la div
 
 | Error | Qué pasa | Ejemplo de la clase |
 |---|---|---|
-| **Duplicación** | Un pedazo se copia de más por accidente al intercambiar | El gen MYC, una causa común de cáncer de mama |
-| **Inversión** | Un pedazo se mete al revés | Cromosoma 16, algunas leucemias mieloides agudas (LMA) |
-| **Translocación** | Intercambio entre cromosomas que no son pareja | 14 y 21 (robertsoniana), leucemia mieloide crónica (LMC) |
+| **Duplicación** | Un pedazo se copia de más por accidente al intercambiar | El gen MYC (un gen que empuja a la célula a crecer), una causa común de cáncer de mama |
+| **Inversión** | Un pedazo se mete al revés | Cromosoma 16, algunas leucemias mieloides agudas (LMA, un cáncer de la sangre) |
+| **Translocación** | Intercambio entre cromosomas que no son pareja | 14 y 21 (robertsoniana), leucemia mieloide crónica (LMC, otro cáncer de la sangre) |
 | **Deleción** | Un pedazo no pasa y se pierde | Cromosoma 5, "cri du chat" (llanto como de maullido de gato, poco peso al nacer, cabeza chica) |
 
 🟡 Bikman atribuye estos errores al intercambio de pedazos de la meiosis. Los ejemplos de cáncer como MYC, LMA y LMC normalmente se describen como cambios que aparecen en células del cuerpo durante la vida, algo que la clase no separa; toma las enfermedades que menciona como ejemplos suyos, no como una explicación completa. En concreto: la LMC se define por la translocación 9;22 (el cromosoma Filadelfia, BCR-ABL1), no por la 14;21 (Shammas 2025); una translocación robertsoniana 14;21, en cambio, es una causa conocida de síndrome de Down heredado (por translocación); la inv(16) es un tipo reconocido de LMA (Talami 2021); y tener MYC de más aparece en un grupo de cánceres de mama, no es una causa común.
@@ -99,7 +101,7 @@ Para Bikman, son tantas las cosas que pueden fallar que es un milagro que la div
 🟡 En la transcripción, la parte del síndrome de Down describe la "macroglosia" como una mandíbula demasiado grande; macroglosia quiere decir lengua agrandada. Seguramente se equivocó al hablar; no se puso en las correcciones de abajo.
 
 ## Cómo se define el sexo y cómo se desarrolla
-**Qué es el sexo.** Contar cromosomas deja de servir en los casos raros (XXY, solo X), así que Bikman define el sexo por **qué tipo de célula para reproducirse produce**: espermatozoide quiere decir hombre, óvulo quiere decir mujer. Dice que ningún ser humano ha producido nunca los dos y, por eso, considera que el sexo es de dos tipos (binario). ✅ (Es su postura clara; se presenta como parte de la clase.) 🟡 Revisión de la evidencia: definir el sexo por el tipo de célula para reproducirse es la definición biológica de siempre. Hay diferencias del desarrollo sexual poco comunes, incluidos casos con tejido de ovario y de testículo (ovotesticulares) (Lee 2006); no está verificado que algún ser humano haya producido los dos tipos funcionando.
+**Qué es el sexo.** Contar cromosomas deja de servir en los casos raros (XXY, solo X), así que Bikman define el sexo por **qué tipo de célula para reproducirse produce**: espermatozoide quiere decir hombre, óvulo quiere decir mujer. Dice que ningún ser humano ha producido nunca los dos y, por eso, considera que el sexo es de dos tipos (binario). ✅ (Es su postura clara; se presenta como parte de la clase.) 🟡 Revisión de la evidencia: definir el sexo por el tipo de célula para reproducirse es la definición biológica de siempre. Hay diferencias del desarrollo sexual poco comunes, incluidos casos con tejido de ovario y de testículo (ovotesticulares) (Lee 2006). No está verificado que algún ser humano haya producido los dos tipos funcionando.
 
 **La cadena del desarrollo**
 1. El **gen SRY** (la región que decide el sexo, en el brazo corto del cromosoma Y) se lee y se convierte en **TDF, el factor que decide que se formen testículos**. ✅
@@ -110,7 +112,7 @@ Para Bikman, son tantas las cosas que pueden fallar que es un milagro que la div
 |---|---|---|
 | Células para reproducirse | Espermatogonias (espermatozoides) | Ovogonias (óvulos) |
 | De apoyo | Células de Sertoli (fabrican la hormona antimülleriana, AMH) | Células de la granulosa |
-| Que fabrican hormonas esteroides | Células de Leydig (de donde sale casi toda la testosterona) | Células de la teca (fabrican hormonas masculinas, que las células de la granulosa de al lado convierten en estrógeno con la aromatasa; la clase dice que el estrógeno lo hace la teca, Simpson 2002) |
+| Que fabrican hormonas esteroides | Células de Leydig (de donde sale casi toda la testosterona) | Células de la teca (fabrican hormonas masculinas, que las células de la granulosa de al lado convierten en estrógeno con la aromatasa, una enzima que convierte hormonas masculinas en estrógeno; la clase dice que el estrógeno lo hace la teca, Simpson 2002) |
 
 **Las estructuras de adentro.** El embrión empieza con los dos juegos de estructuras. ✅
 - La **testosterona** de las células de Leydig hace crecer las estructuras masculinas (conducto deferente, epidídimo, próstata); para ser exactos, la próstata y los genitales de afuera responden a la dihidrotestosterona (DHT), que se forma a partir de la testosterona (Hughes 2012).
@@ -136,7 +138,7 @@ Para Bikman, son tantas las cosas que pueden fallar que es un milagro que la div
 - **Después de la pubertad, el número de células de grasa normalmente se queda fijo**; la grasa que se sube después viene sobre todo de que las células que ya hay se agrandan.
 - **La mitosis deja igual el número; la meiosis I lo reduce y la meiosis II lo deja igual.**
 - **El intercambio de pedazos explica por qué los hermanos son distintos.**
-- **El cromosoma Y es de los más chicos (los cromosomas 21 y 22 son más chicos; NCBI GRCh38; el Y completo mide unos 62 Mb, Rhie 2023) pero "pelea en una categoría de peso más alta"** porque lleva el SRY.
+- **El cromosoma Y es de los más chicos (los cromosomas 21 y 22 son más chicos; NCBI GRCh38; el Y completo mide unos 62 Mb, o sea unos 62 millones de letras de ADN, Rhie 2023) pero "pelea en una categoría de peso más alta"** porque lleva el SRY.
 - **El sexo se define por la célula para reproducirse que produce una persona**, no por contar cromosomas.
 - **El camino de desarrollo de siempre es el femenino**; las estructuras masculinas solo se forman si reciben la orden.
 - **Cada molécula de estrógeno fue alguna vez una hormona masculina** (testosterona o androstenediona).
@@ -189,6 +191,8 @@ C. \* Un cuerpo que se ve femenino, con testosterona muy alta (porque nunca reci
 - Las descripciones detalladas del cuerpo en los síndromes de trisomía, más allá de lo principal.
 - Las repeticiones de cómo se copia el ADN (cadenas adelantada y atrasada, de 3' a 5') ya explicado en la clase anterior.
 - Errores de la transcripción que se anotaron pero no se pusieron: "síntesis" por sinapsis, "miótico" por mitótico, y células "leading" por células de Leydig.
+
+**La idea para recordar: la mitosis hace copias iguales para crecer y reparar, la meiosis hace óvulos y espermatozoides únicos, y casi todo problema de esta clase viene de un error en uno de esos pasos.**
 
 ---
 **Referencias:**

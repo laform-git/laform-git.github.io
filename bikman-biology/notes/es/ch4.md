@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology" (Fundamentos de Biología), Clase 4 (transcripción). Cuarto de seis capítulos de un curso básico sobre la célula; se apoya en lo visto de las moléculas de la vida (Cap. 3) y las enzimas, y prepara el tema de cómo se dividen las células (Cap. 5).*
 
+**En palabras sencillas:** esta clase cuenta cómo los genes se convierten en el cuerpo. Primero la célula copia su ADN antes de dividirse. Luego hace una copia de trabajo de un gen (el ARN mensajero), le recorta los pedazos que no sirven y la manda fuera del núcleo. Ahí, una pequeña máquina (el ribosoma) la lee de tres en tres letras y arma la proteína, que después se dobla para poder trabajar. Al final, Bikman da su opinión sobre los aceites de semillas y explica la epigenética: marcas sobre los genes que cambian cómo se usan sin cambiar el ADN.
+
 **Palabras de esta nota:**
 - **ADN**: el código genético dentro de cada célula
 - **ARN**: una copia de trabajo del código genético
@@ -110,8 +112,8 @@ En esta clase las piezas de antes (ácidos nucleicos, enzimas, partes de la cél
 - Dice que la ciencia contesta el *cómo* y el *qué*, no el *por qué*, y comparte su propia forma de ver la biología como diseño inteligente. No es una afirmación científica de la clase; se anota solo para que el resumen esté completo.
 
 **Epigenética (marcas sobre los genes)**
-- Epigenética: cambios como la **metilación** (también mencionó la carbonilación) que estorban la lectura o el uso del código, aunque el ADN de abajo esté completo. Pueden aparecer en varios momentos (después de hacer el ARN o después de fabricar la proteína, según Bikman) y les afectan cosas como el estado del metabolismo. ✅ 🟢 Revisión de la evidencia: las marcas epigenéticas de siempre son la metilación del ADN y unas marcas químicas en las histonas (las proteínas alrededor de las cuales se enrolla el ADN), como la acetilación y la metilación, además de algunos ARN que controlan; la carbonilación no se suele contar como marca epigenética.
-- **Estudio de la hambruna holandesa:** los hijos de papás sanos que estaban en el vientre durante el Invierno del Hambre de Holanda de 1944-45, al final de la Segunda Guerra Mundial, tuvieron más adelante más tendencia al sobrepeso y la diabetes. Como pasó en una sola generación, no puede ser por un cambio en los genes ni por evolución; Bikman lo ve como una señal epigenética de "ahorra, guárdalo todo" cuando falta comida. 🟢 Revisión de la evidencia: los hijos que pasaron por eso sí tuvieron más obesidad cuando el hambre fue al principio del embarazo (Ravelli 1976) y peor manejo del azúcar (Ravelli 1998), y sesenta años después tenían una metilación distinta en el gen IGF2 (Heijmans 2008). Que los cambios epigenéticos causen los efectos en el metabolismo tiene lógica, pero no está demostrado.
+- Epigenética: cambios como la **metilación** (pegarle una pequeña marca química al ADN; también mencionó la carbonilación) que estorban la lectura o el uso del código, aunque el ADN de abajo esté completo. Pueden aparecer en varios momentos (después de hacer el ARN o después de fabricar la proteína, según Bikman) y les afectan cosas como el estado del metabolismo. ✅ 🟢 Revisión de la evidencia: las marcas epigenéticas de siempre son la metilación del ADN y unas marcas químicas en las histonas (las proteínas alrededor de las cuales se enrolla el ADN), como la acetilación y la metilación, además de algunos ARN que controlan; la carbonilación no se suele contar como marca epigenética.
+- **Estudio de la hambruna holandesa:** los hijos de papás sanos que estaban en el vientre durante el Invierno del Hambre de Holanda de 1944-45, al final de la Segunda Guerra Mundial, tuvieron más adelante más tendencia al sobrepeso y la diabetes. Como pasó en una sola generación, no puede ser por un cambio en los genes ni por evolución; Bikman lo ve como una señal epigenética de "ahorra, guárdalo todo" cuando falta comida. 🟢 Revisión de la evidencia: los hijos que pasaron por eso sí tuvieron más obesidad cuando el hambre fue al principio del embarazo (Ravelli 1976) y peor manejo del azúcar (Ravelli 1998), y sesenta años después tenían una metilación distinta en el gen IGF2, un gen ligado al crecimiento (Heijmans 2008). Que los cambios epigenéticos causen los efectos en el metabolismo tiene lógica, pero no está demostrado.
 - **Estar expuesto a radiación** es otra cosa que puede cambiar cuánto se usa un gen (que haya demasiada o muy poca de cierta proteína). ✅
 
 ## Correcciones clave para recordar
@@ -122,7 +124,7 @@ En esta clase las piezas de antes (ácidos nucleicos, enzimas, partes de la cél
 - 🔴 Pensar que el riesgo heredado de enfermedades o las tendencias del metabolismo tienen que venir de un cambio en el ADN: el ejemplo de la hambruna holandesa muestra que los cambios **epigenéticos** pueden cambiar los resultados en una sola generación sin cambiar los genes.
 
 ## Conclusión práctica
-Lo práctico de esta clase es el esquema mismo: cualquier proteína que te importe (insulina, receptores, enzimas, proteínas que transportan) es el producto final de hacer la copia de trabajo, recortarla, fabricar la proteína y doblarla, y en cada paso algo puede fallar o controlarse. Lo único sobre comida (preferir las grasas de siempre a los aceites de semillas refinados para proteger de la oxidación las cubiertas y el ADN) es una opinión que Bikman defiende con un mecanismo que tiene lógica, no algo que se demuestre en esta clase.
+Lo práctico de esta clase es el esquema mismo. Cualquier proteína que te importe (insulina, receptores, enzimas, proteínas que transportan) es el producto final de cuatro pasos: hacer la copia de trabajo, recortarla, fabricar la proteína y doblarla. En cada paso algo puede fallar o controlarse. Lo único sobre comida es preferir las grasas de siempre a los aceites de semillas refinados, para proteger de la oxidación (el daño químico por oxígeno) las cubiertas y el ADN. Es una opinión que Bikman defiende con un mecanismo que tiene lógica, no algo que se demuestre en esta clase.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Si la ADN polimerasa solo puede armar ADN nuevo de 5' a 3' y la helicasa abre la doble hélice en una sola dirección, ¿por qué la cadena atrasada se copia en pedazos?**
@@ -160,6 +162,8 @@ C. \* Las cubiertas con muchas grasas poliinsaturadas tienden a oxidarse, y las 
 - La explicación larga, con gestos, sobre el punto exacto donde arranca la polimerasa en cada cadena; se resumió en la regla y el resultado porque la transcripción no es clara en esa parte.
 - Sus comentarios de filosofía y religión sobre el diseño y sobre el porqué contra el cómo, dejados en una sola línea señalada.
 - El repaso de lo que ya se vio de las moléculas de la vida y las enzimas en el Cap. 3.
+
+**La idea para recordar: el ADN se copia en ARN, el ARN se convierte en proteína, y son las proteínas las que de verdad hacen el trabajo del cuerpo.**
 
 ---
 **Referencias:**

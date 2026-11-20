@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 3 (transcripción). Tercer capítulo de un curso básico de seis clases; sigue del Cap. 1 (La célula) y el Cap. 2 (Atravesar la pared celular). Es un curso distinto de las series "Why We Get Sick" y "Essentials of Endocrinology" del mismo profesor, pero da las palabras de química en las que se apoyan las dos.*
 
+**En palabras sencillas:** todo ser vivo está hecho de cuatro familias de moléculas: carbohidratos (azúcares y almidones), grasas, proteínas y ácidos nucleicos (el ADN y el ARN). Todas tienen carbono. Las enzimas son proteínas que hacen el trabajo de la célula, y su nombre casi siempre termina en "-asa". Con estas ideas se entiende por qué la insulina se tiene que inyectar, por qué el azúcar y el almidón se tienen que "cortar" antes de absorberse y por qué el colesterol es la base de muchas hormonas.
+
 **Palabras de esta nota:**
 - **ARNm**: ARN mensajero, la copia de un gen que la célula lee para fabricar una proteína
 - **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
@@ -18,7 +20,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las células, el metabolismo) y en las otras series de Bikman sale de estas cuatro familias de moléculas y de las enzimas. En cuanto sepas acomodar cualquier molécula como carbohidrato, grasa, proteína o ácido nucleico, y sepas que las enzimas (cuyo nombre siempre termina en -asa) son las que de verdad hacen el trabajo, palabras como triglicérido, hormona peptídica, glucólisis o ARNm dejan de ser palabras raras y se vuelven fáciles de entender. También explica cosas prácticas de todos los días: por qué la insulina y la mayoría de las medicinas GLP-1 se tienen que inyectar, por qué el azúcar y el almidón se tienen que "cortar" antes de absorberse, y por qué el colesterol es más que un número en los análisis de grasas en la sangre.
+Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las células, el metabolismo) y en las otras series de Bikman sale de estas cuatro familias de moléculas y de las enzimas. En cuanto sepas acomodar cualquier molécula como carbohidrato, grasa, proteína o ácido nucleico, y sepas que las enzimas (cuyo nombre siempre termina en -asa) son las que de verdad hacen el trabajo, muchas palabras raras se vuelven fáciles. Por ejemplo: triglicérido, hormona peptídica, glucólisis (la forma en que la célula quema azúcar) o ARNm. También explica cosas prácticas de todos los días: por qué la insulina y la mayoría de las medicinas GLP-1 se tienen que inyectar, por qué el azúcar y el almidón se tienen que "cortar" antes de absorberse, y por qué el colesterol es más que un número en los análisis de grasas en la sangre.
 
 ## Qué hace "biológica" a una molécula — El carbono
 - Las **biomoléculas** son moléculas orgánicas que están en los seres vivos. No están vivas en sí mismas (no cumplen los requisitos de vida del Cap. 1), pero toda célula las necesita. ✅
@@ -49,11 +51,11 @@ Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las c�
 | --- | --- | --- |
 | **Glicerolípidos** (triglicérido) | Un esqueleto de glicerol + tres ácidos grasos; no le gusta el agua por ningún lado (a diferencia de los fosfolípidos, que tienen dos caras) | El único tipo que se usa como energía; la grasa que te puedes pellizcar |
 | **Fosfolípidos** | Una cabeza de fosfato + dos ácidos grasos | Forman las cubiertas de la célula y de sus partes |
-| **Esfingolípidos** | Se llaman así por la misteriosa esfinge (por mucho tiempo no se supo para qué servían) | Mandan señales; le dicen a la célula si vivir o morir; tienen que ver con cómo se responde a la insulina (las ceramidas; Chaurasia 2021) |
-| **Esteroides** | Hechos a partir del colesterol; todo lo que se vuelve esteroide empezó como colesterol | Hormonas sexuales (estrógenos, hormonas masculinas como la testosterona), cortisol, aldosterona (hormona que controla la sal), y, según la clase, una molécula parecida al colesterol que necesita la cadena que mueve electrones en la mitocondria (la coenzima Q10; en realidad no es un esteroide ni se fabrica del colesterol, sino que comparte los primeros pasos del camino que fabrica el colesterol, Littarru 2007) |
+| **Esfingolípidos** | Se llaman así por la misteriosa esfinge (por mucho tiempo no se supo para qué servían) | Mandan señales; le dicen a la célula si vivir o morir; tienen que ver con cómo se responde a la insulina (las ceramidas, un tipo de esfingolípido; Chaurasia 2021) |
+| **Esteroides** | Hechos a partir del colesterol; todo lo que se vuelve esteroide empezó como colesterol | Hormonas sexuales (estrógenos, hormonas masculinas como la testosterona), cortisol (la hormona del estrés), aldosterona (hormona que controla la sal), y, según la clase, una molécula parecida al colesterol que necesita la cadena que mueve electrones en la mitocondria (la coenzima Q10; en realidad no es un esteroide ni se fabrica del colesterol, sino que comparte los primeros pasos del camino que fabrica el colesterol, Littarru 2007) |
 
 - **Por qué la grasa da más calorías:** tener muchas uniones entre carbonos quiere decir mucha energía química guardada; una caloría es solo una medida de energía. ✅ 🟢 Para ser exactos, la grasa tiene muchas uniones carbono-hidrógeno y poco oxígeno, por eso da unas 9 calorías por gramo contra unas 4 de los carbohidratos o las proteínas.
-- **La barrera de fosfolípidos:** la gota de grasa de una célula de grasa está rodeada de fosfolípidos que la "protegen"; antes de poder deshacer la grasa, una serie de pasos (que se verán en la clase de energía de la célula) tiene que quitar esos fosfolípidos de en medio. 🟡 El mecanismo queda para después; aquí solo se presenta la idea. 🟢 Revisión de la evidencia: la superficie de la gota es una sola capa de fosfolípidos cubierta de proteínas como la perilipina-1; las señales de las hormonas cambian estas proteínas para que las enzimas que cortan la grasa (ATGL, HSL) lleguen a ella (Lass 2011).
+- **La barrera de fosfolípidos:** la gota de grasa de una célula de grasa está rodeada de fosfolípidos que la "protegen"; antes de poder deshacer la grasa, una serie de pasos (que se verán en la clase de energía de la célula) tiene que quitar esos fosfolípidos de en medio. 🟡 El mecanismo queda para después; aquí solo se presenta la idea. 🟢 Revisión de la evidencia: la superficie de la gota es una sola capa de fosfolípidos cubierta de proteínas como la perilipina-1. Las señales de las hormonas cambian estas proteínas para que las enzimas que cortan la grasa (ATGL, HSL) lleguen a ella (Lass 2011).
 
 ## Proteínas
 - **Las principales máquinas de la célula.** Cuando en la célula se hace un trabajo, casi siempre lo hace una proteína: enzimas, receptores (en la superficie y dentro de la célula, incluso para las hormonas esteroides que atraviesan la cubierta), canales, transportadores y piezas de estructura como el esqueleto de la célula. ✅
@@ -69,9 +71,9 @@ Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las c�
 | **Primario** | Una fila recta de aminoácidos, como un "collar de perlas" | No; tiene todas las piezas, pero todavía no es una proteína que sirva |
 | **Secundario** | Hélice alfa (espiral, como un bastón de dulce) y lámina beta (doblada como acordeón) | No; sigue siendo un paso intermedio |
 | **Terciario** | Las hélices y láminas enrolladas entre sí; la insulina es el ejemplo que usa | Sí; es lo mínimo para que una proteína sirva |
-| **Cuaternario** | Varias proteínas terciarias unidas; la hemoglobina de los glóbulos rojos | No todas las proteínas necesitan llegar aquí |
+| **Cuaternario** | Varias proteínas terciarias unidas; la hemoglobina de los glóbulos rojos (la proteína que lleva el oxígeno) | No todas las proteínas necesitan llegar aquí |
 
-- **Por qué las hormonas hechas de proteína se tienen que inyectar:** si te tragas la insulina, aunque esté en su forma terciaria perfecta, las enzimas de la digestión la desenrollan y la cortan en aminoácidos que el cuerpo usa para lo que le convenga. Lo mismo pasa con las medicinas GLP-1, las que tanto se usan para bajar de peso, que son péptidos y por eso se inyectan. ✅ 🟢 Revisión de la evidencia: ya hay excepciones en pastilla. La semaglutida en pastilla (Rybelsus), que se absorbe gracias a una sustancia que la ayuda, la aprobó la FDA para la diabetes tipo 2 en 2019; en diciembre de 2025 se aprobó una pastilla de Wegovy para bajar de peso; y en abril de 2026 se aprobó el orforglipron (Foundayo), una medicina GLP-1 de molécula pequeña que no es un péptido (FDA 2019; ABC News 2025; Healio 2026). La insulina se sigue inyectando.
+- **Por qué las hormonas hechas de proteína se tienen que inyectar:** si te tragas la insulina, aunque esté en su forma terciaria perfecta, las enzimas de la digestión la desenrollan y la cortan en aminoácidos que el cuerpo usa para lo que le convenga. Lo mismo pasa con las medicinas GLP-1, las que tanto se usan para bajar de peso, que son péptidos y por eso se inyectan. ✅ 🟢 Revisión de la evidencia: ya hay excepciones en pastilla. La semaglutida en pastilla (Rybelsus), que se absorbe gracias a una sustancia que la ayuda, la aprobó la FDA para la diabetes tipo 2 en 2019. En diciembre de 2025 se aprobó una pastilla de Wegovy para bajar de peso. Y en abril de 2026 se aprobó el orforglipron (Foundayo), una medicina GLP-1 de molécula pequeña que no es un péptido (FDA 2019; ABC News 2025; Healio 2026). La insulina se sigue inyectando.
 
 ## Ácidos nucleicos
 - Una familia grande que incluye el ATP (la molécula principal de energía de la célula, que se verá más adelante) y los **nucleótidos** que guardan la información de los genes: **ADN y ARN**. ✅
@@ -90,7 +92,7 @@ Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las c�
 
 ## Enzimas — Las que hacen el trabajo de la célula
 - **Por qué hacen falta:** hasta un simple glóbulo rojo hace cientos de miles de reacciones, y el cuerpo tiene unos 30 billones de células de unos 200 tipos distintos. Sin enzimas, la mayoría de estas reacciones no pasaría a tiempo para servir. ✅ 🟡 Revisión de la evidencia: las cifras son aproximadas. El mapa más completo del metabolismo humano tiene unas 13,500 reacciones distintas en todo el cuerpo (Brunk 2018), y un glóbulo rojo, que no tiene núcleo ni mitocondrias, hace muchas menos; el total de células es de unos 30 a 36 billones (Hatton 2023).
-- **Tipos de unión:** una **unión covalente** comparte electrones y es muy fuerte; un **puente de hidrógeno** es solo una atracción eléctrica y es débil (el calor la puede romper, como cuando hierve el agua). Una célula no se puede poner a hervir, así que ese trabajo lo hacen las enzimas. ✅
+- **Tipos de unión:** una **unión covalente** comparte electrones (partículas del átomo) y es muy fuerte; un **puente de hidrógeno** es solo una atracción eléctrica y es débil (el calor la puede romper, como cuando hierve el agua). Una célula no se puede poner a hervir, así que ese trabajo lo hacen las enzimas. ✅
 - **Qué hace una enzima:** baja la energía que, si no, haría imposible una reacción, para que pase ahora y no "algún día". ✅
 
 ### Reglas de las enzimas
@@ -163,6 +165,8 @@ C. \* Glicerolípidos (triglicéridos): un esqueleto de glicerol con tres ácido
 - Comentarios personales: la historia de su posdoctorado sobre la biología de las grasas y la explicación, con las manos, de cómo están hechos los nucleótidos y cómo se juntan las bases ("mi pulgar es el fosfato").
 - Lo repetido de los Cap. 1-2: transporte por la cubierta, entrada junto con el sodio, la doble capa de fosfolípidos con dos caras (solo se mencionan).
 - Los errores de transcripción en el texto original ("thiamine" por timina, "glycocytic" por enlace glucosídico) se tomaron como las palabras correctas en vez de copiarse tal cual.
+
+**La idea para recordar: carbohidratos, grasas, proteínas y ácidos nucleicos son las piezas de la vida, y las enzimas son las que hacen que las reacciones pasen a tiempo.**
 
 ---
 **Referencias:**
