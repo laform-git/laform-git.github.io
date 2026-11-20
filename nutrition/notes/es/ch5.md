@@ -3,6 +3,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 5 (transcripción). Quinto de ocho capítulos; se apoya en lo de proteína, saciedad y comida ultraprocesada de las clases anteriores y pasa de "qué comer" a "cómo ajustarlo a tu meta".*
 
+**En palabras sencillas:** esta clase convierte los consejos en un plan propio. Ninguna comida ni ninguna dieta con nombre es la clave; lo es la forma de comer que puedes mantener la mayor parte de tu vida. Repasa las dietas famosas (carnívora, paleo, vegana, mediterránea, keto y otras) y lo que se sabe de cada una. Luego da una cuenta sencilla para bajar grasa sin perder músculo: calorías para mantenerse, cuánto quitar y cuánta proteína comer. Y desmiente ideas falsas, como que se puede "dañar" el metabolismo. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **DASH**: dieta diseñada para bajar la presión arterial
 - **NEAT**: calorías que se gastan con el movimiento cotidiano (no ejercicio)
@@ -11,7 +13,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Esta es la clase en la que las recomendaciones de antes se vuelven un plan propio. La idea central de Lugavere es que ninguna comida ni ninguna dieta con nombre es la palanca; lo es la forma de comer que puedes mantener la mayor parte de tu vida. También da un método concreto que se puede revisar (calorías para mantenerse, de cuánto quitar, el mínimo de proteína, las calorías que quedan) y corrige varias ideas falsas comunes sobre bajar grasa.
+Esta es la clase en la que las recomendaciones de antes se vuelven un plan propio. La idea central de Lugavere es que ninguna comida ni ninguna dieta con nombre es la palanca. Lo es la forma de comer que puedes mantener la mayor parte de tu vida. También da un método concreto que se puede revisar (calorías para mantenerse, de cuánto quitar, el mínimo de proteína, las calorías que quedan) y corrige varias ideas falsas comunes sobre bajar grasa.
 
 ## Lo que deja claro al principio — la forma de comer por encima de las comidas
 - **La comida no es buena ni mala moralmente.** Nada de culpa por comer fuera de una forma sana de comer. ✅ (lo que opina el maestro)
@@ -64,7 +66,7 @@ Esta es la clase en la que las recomendaciones de antes se vuelven un plan propi
 2. **No bajes los carbohidratos a cero.** Los carbohidratos dan energía para levantar pesado; dice que hacer dieta no tiene por qué debilitarte si te quedas con los carbohidratos. La fuerza puede ser lagartijas, dominadas, aguantar posiciones, ejercicios con tu peso, no solo gimnasio.
 3. **Deja la grasa en un nivel correcto.** Las dietas con muy poca grasa pueden afectar las hormonas y no dejar que se absorban las vitaminas que se disuelven en grasa (A, D, E, K) y sustancias de las plantas (carotenoides, polifenoles). La piel seca es su ejemplo de señal de muy poca grasa; poca energía en el gimnasio hace pensar en muy pocos carbohidratos.
 4. **Mínimo de proteína:** cerca de 1.6 g por kg o 0.7 a 0.8 g por libra de peso. 🟡 Una vez dice "por kilo de músculo y todo lo que no es grasa" y después "de peso"; la cifra por libra solo cuadra con la del peso.
-5. **Mejor el movimiento de todos los días (NEAT) que el cardio para quemar calorías.** El gasto por moverse sin hacer ejercicio (caminar, quehaceres, no estarse quieto, bailar, jugar con tu gato) le gana a una corrida fuerte en la caminadora y no se come la energía para las pesas. Aun así valora el cardio para la salud. ✅
+5. **Mejor el movimiento de todos los días (NEAT, la energía que se gasta moviéndose sin hacer ejercicio) que el cardio para quemar calorías.** El gasto por moverse sin hacer ejercicio (caminar, quehaceres, no estarse quieto, bailar, jugar con tu gato) le gana a una corrida fuerte en la caminadora y no se come la energía para las pesas. Aun así valora el cardio para la salud. ✅
 
 ## La cuenta práctica (su ejemplo con 185 lb)
 
@@ -114,7 +116,7 @@ Esta es la clase en la que las recomendaciones de antes se vuelven un plan propi
 - 🔴 Buscar la "mejor dieta": gana la que puedes mantener.
 
 ## Conclusión práctica
-Escoge una forma de comer de buena calidad que disfrutes, quita calorías usando como punto de partida 15 x peso (menos si eres delgado), mantén la proteína cerca de 0.7 a 0.8 g por libra, sigue haciendo pesas tan fuerte como siempre, deja carbohidratos y grasas en niveles correctos y muévete más en el día en vez de hacer cardio fuerte. Ajusta según los resultados, no según el dogma. Bajar grasa no es la única meta: evita quedarte con poco músculo.
+Escoge una forma de comer de buena calidad que disfrutes. Quita calorías usando como punto de partida 15 x peso (menos si eres delgado). Mantén la proteína cerca de 0.7 a 0.8 g por libra y sigue haciendo pesas tan fuerte como siempre. Deja carbohidratos y grasas en niveles correctos y muévete más en el día en vez de hacer cardio fuerte. Ajusta según los resultados, no según el dogma. Bajar grasa no es la única meta: evita quedarte con poco músculo.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Una persona delgada y una persona con mucha grasa quieren bajar de peso. Según la clase, ¿por qué la persona delgada debería ir más despacio?**
@@ -153,6 +155,8 @@ C. \* Seguir haciendo pesas tan fuerte como cuando se ganaba músculo, dejar car
 - Puntos repetidos: "más lento es mejor" y "poder seguirla", repetidos varias veces, juntados en una sola parte
 - Historias personales más allá de su prueba de grasa del cuerpo en una sola persona: su edad cuando le interesó la keto (16), su amistad y juntas con Martha Clare Morris
 - El paso de la calculadora frente al público; la cuenta se queda en la tabla
+
+**La idea para recordar: la mejor dieta es la que puedes mantener; baja grasa despacio, con suficiente proteína y sin dejar las pesas.**
 
 ---
 **Referencias:**

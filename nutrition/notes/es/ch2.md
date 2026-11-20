@@ -4,6 +4,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 2 (transcripción). Segundo capítulo de una serie de ocho clases; el Cap. 1 ve las bases de la nutrición (aquí se da por sabido qué son los macronutrientes).*
 
+**En palabras sencillas:** esta clase da el modelo práctico de una dieta sana en cinco partes: las calorías, la mezcla de nutrientes, las vitaminas y minerales, comer poca comida ultraprocesada y la saciedad (qué tanto llena la comida). La idea central: casi todos comemos hasta llenarnos, así que en vez de "comer menos" conviene llenar el plato con comida que llena más con menos calorías. Las tres palancas son la proteína, la fibra y el agua. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **ATP**: trifosfato de adenosina, la moneda de energía de la célula
 - **PDCAAS**: puntaje de calidad de la proteína
@@ -18,7 +20,7 @@
 - **TRT**: terapia de reemplazo de testosterona
 
 ## Por qué importa
-Esta clase es el motor práctico de la serie: convierte las palabras del Cap. 1 en un modelo que funciona de una buena dieta. Su idea central es cambiar el consejo de "come menos" — la gente ya come hasta llenarse, así que lo que se puede mover es *qué tanto llena cada caloría*, no la fuerza de voluntad.
+Esta clase es el motor práctico de la serie: convierte las palabras del Cap. 1 en un modelo que funciona de una buena dieta. Su idea central es cambiar el consejo de "come menos". La gente ya come hasta llenarse, así que lo que se puede mover es *qué tanto llena cada caloría*, no la fuerza de voluntad.
 
 ## Las cinco partes de una dieta sana (la forma de verlo de Lugavere)
 - **Equilibrio de energía** — calorías que entran contra las que se gastan.
@@ -36,7 +38,7 @@ Lo que más dice: no hay una dieta igual para todos; ninguna comida por sí sola
 | Forma | Qué es | Lo que opina el maestro |
 | --- | --- | --- |
 | **Calorimetría indirecta** | Medir en laboratorio el oxígeno que entra y el CO2 que sale (y el calor) para saber cuánta energía gasta el cuerpo | La única forma de saberlo "clarísimo"; pocos tienen acceso |
-| **Mifflin-St Jeor** | Una fórmula con peso, estatura, edad y sexo → **TMB**, luego ajustada por actividad → **GETD** | Todas las calculadoras de internet la usan; sigue siendo un cálculo aproximado (Mifflin 1990) |
+| **Mifflin-St Jeor** | Una fórmula con peso, estatura, edad y sexo → **TMB** (tasa metabólica basal), luego ajustada por actividad → **GETD** (gasto energético total diario) | Todas las calculadoras de internet la usan; sigue siendo un cálculo aproximado (Mifflin 1990) |
 | **Peso × 15** | Cálculo rápido de las calorías para mantenerse | Solo un cálculo rápido 🟡 (no dice en qué unidades en la transcripción; seguramente libras) |
 | **Diario de comida + peso parejo** | Apuntar lo que se come cada día y sacar el promedio de una semana mientras el peso no cambia | Seguramente lo más exacto *y* lo más fácil |
 
@@ -45,14 +47,14 @@ Lo que más dice: no hay una dieta igual para todos; ninguna comida por sí sola
 ## Calidad de la proteína, los carbohidratos y las grasas
 **La calidad de la proteína** tiene dos lados:
 - **Qué aminoácidos trae** — la proteína animal es la de mejor calidad ("no se discute"). Lo que *sí* se discute es cuánto importa eso en una dieta variada con suficiente proteína; Lugavere opina: no mucho. ✅
-- **Qué tan bien se digiere** — se mide con el **PDCAAS** (más viejo; llega máximo a 1.0; lo describe como un método con cerdos que recupera aminoácidos en el excremento) y el más nuevo **DIAAS** (puede pasar de 1, y ahí la proteína animal "se lleva la corona"). La soya y el tofu salen bastante bien; la proteína de cacahuate y de arroz se digiere menos. ✅ Dice que importa sobre todo en dietas con poca proteína y en gente con pocos recursos o que vive donde casi no hay comida sana. 🟡 (Lo del PDCAAS y los cerdos lo dijo de memoria: "creo".) Corrección: el PDCAAS se basa en estudios con ratas y en lo que se digiere en todo el tubo digestivo (medido en el excremento); es el DIAAS el que mide cuánto se digiere cada aminoácido al final del intestino delgado, de preferencia en cerdos en crecimiento o en personas (FAO 2013; Mathai 2017).
+- **Qué tan bien se digiere** — se mide con el **PDCAAS** (una calificación de la calidad de la proteína; más viejo; llega máximo a 1.0; lo describe como un método con cerdos que recupera aminoácidos en el excremento) y el más nuevo **DIAAS** (otra calificación, más precisa; puede pasar de 1, y ahí la proteína animal "se lleva la corona"). La soya y el tofu salen bastante bien; la proteína de cacahuate y de arroz se digiere menos. ✅ Dice que importa sobre todo en dietas con poca proteína y en gente con pocos recursos o que vive donde casi no hay comida sana. 🟡 (Lo del PDCAAS y los cerdos lo dijo de memoria: "creo".) Corrección: el PDCAAS se basa en estudios con ratas y en lo que se digiere en todo el tubo digestivo (medido en el excremento); es el DIAAS el que mide cuánto se digiere cada aminoácido al final del intestino delgado, de preferencia en cerdos en crecimiento o en personas (FAO 2013; Mathai 2017).
 
 **Calidad de los carbohidratos:** la etiqueta de simple o complejo "no parece importar tanto"; lo que importa son los carbohidratos de plantas y de comida entera con la **matriz del alimento** (cómo está armado) completa (la fibra y el agua hacen más lenta la digestión y la salida del azúcar). Los carbohidratos ultraprocesados se digieren rápido y no tienen matriz. ✅
 
 **Grasa:** no le preocupa la diferencia entre grasas "sanas y no sanas" *dentro de la comida entera y poco procesada*; la diferencia importa para las **grasas que se agregan**, que se ven después. La grasa llena y deja que se absorban las vitaminas que se disuelven en grasa. ✅
 
 ## Micronutrientes — qué tanto aprovecha el cuerpo y la teoría del "triaje"
-- **El 90% de los estadounidenses tiene falta de por lo menos un micronutriente indispensable** (su cifra). 🟡 Lo dice sin fuente. Revisión de la evidencia: los análisis de sangre de la encuesta NHANES indican que cerca del 31% de los estadounidenses corre riesgo de por lo menos una falta de vitaminas o de anemia (Bird 2017). Comer menos de lo necesario es más común que tener una falta de verdad: aun contando suplementos, cerca del 70% no llega a lo que se necesita en promedio de vitamina D, el 34% de vitamina A y el 25% de vitamina C (Fulgoni 2011). Decir "90% tiene falta" es exagerado. La comida también se ha "empobrecido" (por el procesamiento y cómo se cultiva; se mencionan algunas vitaminas B). ✅
+- **El 90% de los estadounidenses tiene falta de por lo menos un micronutriente indispensable** (su cifra). 🟡 Lo dice sin fuente. Revisión de la evidencia: los análisis de sangre de la encuesta NHANES (una gran encuesta de salud de EE. UU.) indican que cerca del 31% de los estadounidenses corre riesgo de por lo menos una falta de vitaminas o de anemia (Bird 2017). Comer menos de lo necesario es más común que tener una falta de verdad: aun contando suplementos, cerca del 70% no llega a lo que se necesita en promedio de vitamina D, el 34% de vitamina A y el 25% de vitamina C (Fulgoni 2011). Decir "90% tiene falta" es exagerado. La comida también se ha "empobrecido" (por el procesamiento y cómo se cultiva; se mencionan algunas vitaminas B). ✅
 - **Qué tanto aprovecha el cuerpo (biodisponibilidad):** las vitaminas y minerales de los productos animales son, en general, los que mejor se aprovechan. Ejemplo: **retinol** (vitamina A animal, se usa directo) contra **betacaroteno** (la "materia prima" de la vitamina A en las plantas; el cuerpo lo tiene que convertir, y las personas lo convierten muy distinto, en parte por sus genes). La vitamina C viene sobre todo de plantas y se aprovecha bien; las vitaminas B, sobre todo de animales, con el folato en las plantas. ✅
 - **Magnesio:** ayuda en unos 300 procesos o más (hacer ATP, enzimas que reparan el ADN); cerca del **50% de los adultos no come suficiente**. Viene sobre todo de plantas — un puño de almendras da cerca del 20% de lo que se necesita al día; cualquier cosa verde (la clorofila tiene magnesio en el centro, como la hemoglobina tiene hierro). ✅ (NIH ODS: ayuda en más de 300 sistemas de enzimas; el 48% de los estadounidenses come menos de lo que se necesita en promedio; 1 onza de almendras = 80 mg, 19% del valor diario.)
 - **Teoría del "triaje" del envejecimiento (Bruce Ames):** cuando faltan micronutrientes, el cuerpo los usa primero para sobrevivir ahora (pelear o huir, tener hijos) antes que para cosas de largo plazo como reparar el ADN — así que comer poco de ellos por mucho tiempo podría dañar sin hacer ruido qué tanto vive uno. ✅ (Se presenta como teoría; Ames 2006.)
@@ -79,7 +81,7 @@ Lo que más dice: no hay una dieta igual para todos; ninguna comida por sí sola
 
 ## La fibra, más allá de llenar
 - Le baja el golpe de azúcar en la sangre a los carbohidratos porque hace más lento que el azúcar llegue al intestino delgado. ✅
-- Va junto con menos inflamación, en parte por lo que fabrican las bacterias del intestino, como el **butirato** (el intestino como "fábrica de medicinas"). Ojo: fíjate qué plantas y cuánto aguantas *tú*. ✅
+- Va junto con menos inflamación, en parte por lo que fabrican las bacterias del intestino, como el **butirato** (una grasa de cadena corta que alimenta al intestino) (el intestino como "fábrica de medicinas"). Ojo: fíjate qué plantas y cuánto aguantas *tú*. ✅
 - **Atrapa el estrógeno y el colesterol** en el intestino, y ayuda a mantenerlos en equilibrio. ✅ (Es lo que dice el maestro, de pasada; deja lo del colesterol para después.) 🟢 En el caso del colesterol, las fibras espesas como el psyllium atrapan los ácidos de la bilis; un análisis de 28 estudios encontró que unos 10 g al día bajaron el colesterol LDL, el colesterol no HDL y la apoB (Jovanovski 2018).
 - **Súbela poco a poco:** no somos rumiantes; dependemos de las bacterias del intestino para fermentar la fibra y hacer cosas útiles como los ácidos grasos de cadena corta. ✅
 
@@ -101,7 +103,7 @@ Lo que más dice: no hay una dieta igual para todos; ninguna comida por sí sola
 - 🔴 "Las vitaminas de plantas y de animales son lo mismo" — el cuerpo las aprovecha distinto (retinol contra betacaroteno), y una dieta variada cubre los dos lados.
 
 ## Conclusión práctica
-Arma tus comidas alrededor de la proteína, las plantas con mucha fibra y la comida con mucha agua; come poca comida ultraprocesada; calcula cuántas calorías necesitas con un diario de comida mientras tu peso no cambia; y toma las cantidades oficiales de nutrientes como el mínimo. Si subes la fibra, hazlo poco a poco y fíjate cuánto aguantas.
+Arma tus comidas alrededor de la proteína, las plantas con mucha fibra y la comida con mucha agua. Come poca comida ultraprocesada. Calcula cuántas calorías necesitas con un diario de comida mientras tu peso no cambia. Y toma las cantidades oficiales de nutrientes como el mínimo. Si subes la fibra, hazlo poco a poco y fíjate cuánto aguantas.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. A alguien que come una dieta ultraprocesada y con muchas calorías le dicen que "solo coma menos". ¿Por qué dice Lugavere que esto suele fallar?**
@@ -138,6 +140,8 @@ C. Da más calorías por gramo que cualquier otro macronutriente
 - La explicación larga sobre la hemoglobina y la clorofila más allá de la comparación de una línea.
 - Repasos generales de qué son los macronutrientes del Cap. 1.
 - Lo del magnesio en el caldo de huesos, que ni el propio maestro tenía claro.
+
+**La idea para recordar: llena el plato con proteína, fibra y comida con agua; así te llenas con menos calorías sin pelear contra el hambre.**
 
 ---
 **Referencias:**

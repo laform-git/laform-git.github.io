@@ -4,6 +4,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 8 (transcripción). Última lección de la serie de 8 partes; retoma temas de capítulos anteriores (los nitratos de las hojas verdes, la fibra, el ácido del estómago en suplemento, la vitamina D como hormona) en vez de traer una idea totalmente nueva.*
 
+**En palabras sencillas:** esta última clase trata de los microbios que viven en nosotros, sobre todo en la boca y en el intestino grueso. Las bacterias de la boca convierten el nitrato de las hojas verdes en algo que abre los vasos, y las del colon convierten la fibra en sustancias que bajan la inflamación. Explica los tipos de fibra, el truco de cocer y enfriar la papa, y por qué conviene comer con calma. Al final, Lugavere cuenta qué suplementos toma él; eso es su decisión personal, no una receta. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
@@ -13,7 +15,7 @@
 - **TRT**: terapia de reemplazo de testosterona
 
 ## Por qué importa
-Esta lección explica cómo la comida se vuelve trabajo del cuerpo: las bacterias de la boca convierten el nitrato de la comida en la materia prima del óxido nítrico, las bacterias del colon convierten la fibra en butirato y otras sustancias útiles, y el estado de los nervios con el que comes decide cuánto aprovechas de verdad de la comida. Casi todo lo que se dice aquí junta cómo funciona con pruebas de observación, y Lugavere acepta con franqueza que el tema "todavía está en la edad oscura".
+Esta lección explica cómo la comida se vuelve trabajo del cuerpo. Las bacterias de la boca convierten el nitrato de la comida en la materia prima del óxido nítrico (un gas que abre los vasos). Las bacterias del colon convierten la fibra en butirato y otras sustancias útiles. Y el estado de los nervios con el que comes decide cuánto aprovechas de verdad de la comida. Casi todo lo que se dice aquí junta cómo funciona con pruebas de observación, y Lugavere acepta con franqueza que el tema "todavía está en la edad oscura".
 
 ## La idea central — un mundo de microbios que se formó junto con nosotros
 - El **microbioma** = bacterias, virus y hongos (la parte de hongos es el **micobioma**). Los microbios viven por todo el cuerpo, hasta en lugares que antes se creían limpios de ellos (el tejido del pecho, el páncreas). ✅
@@ -44,14 +46,14 @@ Esta lección explica cómo la comida se vuelve trabajo del cuerpo: las bacteria
 - **Comida fermentada:** lácteos fermentados, chucrut crudo, pepinillos, kimchi, natto, hasta el chocolate oscuro; parecen ayudar a que haya más variedad de bacterias y a aguantar mejor la fibra. ✅ (En un estudio al azar de 10 semanas, una dieta con mucha comida fermentada subió la variedad del microbioma y bajó señales de inflamación, mientras que una dieta con mucha fibra no subió la variedad; Wastyk 2021.)
 - **Evitar salvo que el médico diga que hacen falta:** antibióticos que matan muchos tipos de bacterias (dice que los médicos a veces los recetan porque los pacientes esperan medicina). ✅
 - **Orgánico cuando te comes la cáscara o la piel** (manzanas, hojas verdes, moras) para tocar menos herbicidas y pesticidas; dice claro que no es fanático de lo orgánico y que come moras no orgánicas en restaurantes. El glifosato (un herbicida) podría afectar caminos de las bacterias del intestino; no se sabe el efecto a largo plazo. 🟡
-- **Emulsionantes de fábrica:** polisorbato 80 y carboximetilcelulosa, en las bebidas de nueces y los helados; investigación todavía temprana, casi toda en animales, hace pensar en inflamación del intestino. 🟡 "La dosis hace el veneno." Un estudio chico al azar en personas sanas encontró que la carboximetilcelulosa bajó la variedad del microbioma y los ácidos grasos de cadena corta (Chassaing 2022).
+- **Emulsionantes de fábrica** (lo que se agrega para que no se separen los ingredientes): polisorbato 80 y carboximetilcelulosa, en las bebidas de nueces y los helados; investigación todavía temprana, casi toda en animales, hace pensar en inflamación del intestino. 🟡 "La dosis hace el veneno." Un estudio chico al azar en personas sanas encontró que la carboximetilcelulosa bajó la variedad del microbioma y los ácidos grasos de cadena corta (Chassaing 2022).
 - **Sube la fibra poco a poco.** La panza hinchada y los gases después de subirla de golpe quieren decir que las bacterias todavía no se acostumbran, no que la fibra sea el enemigo. ✅
 
 ## El mapa de la fibra
 
 | Tipo | Qué hace | Ejemplos de la lección |
 | --- | --- | --- |
-| Soluble (se disuelve en agua) | Las bacterias del intestino la fermentan y hacen butirato, vitaminas y otras sustancias útiles (por ejemplo, urolitina A de los polifenoles de la granada) | Avena, cáscara de psyllium, chía, frijoles y lentejas |
+| Soluble (se disuelve en agua) | Las bacterias del intestino la fermentan y hacen butirato, vitaminas y otras sustancias útiles (por ejemplo, urolitina A, una sustancia que sale de los polifenoles de la granada) | Avena, cáscara de psyllium, chía, frijoles y lentejas |
 | Insoluble (no se disuelve) | "Fibra dura": da volumen, mantiene el paso, ayuda a soltar células muertas de la pared del intestino; cuesta más digerirla | Arroz integral, fibra de cereales |
 | Almidón resistente | Almidón que no se digiere en el intestino delgado y se fermenta en el colon; no sale como fibra en las etiquetas | Plátanos verdes, mango verde, papa cocida y enfriada, arroz, pasta |
 | Espesa (hace gel) | Otra forma de clasificarla; mejora el azúcar en la sangre y baja el LDL | Cáscara de psyllium, avena |
@@ -79,7 +81,7 @@ Esta lección explica cómo la comida se vuelve trabajo del cuerpo: las bacteria
 | --- | --- | --- |
 | Magnesio | Del 50 al 60% de las personas no come suficiente; las mejores comidas son las hojas verdes oscuras, las almendras y el chocolate oscuro; los análisis de sangre no sirven mucho porque casi todo está en el hueso; él toma **glicinato** cada día; ayuda a prevenir la migraña; ayuda a prender la vitamina D, así que lo probaría antes que la vitamina D si esta sale baja (NIH ODS: el 48% de los estadounidenses come menos de lo que se necesita en promedio, y del 50 al 60% del magnesio del cuerpo está en el hueso) | 🟡 decisión personal |
 | Vitamina D | Una hormona que controla cerca del **5% de los genes**; pruebas de que calma unas defensas que trabajan de más (enfermedades autoinmunes); **2,000–5,000 UI al día** es un buen punto de partida | 🟡 lo de "es difícil pasarse" lo dice él. Revisión de la evidencia: el límite de arriba para adultos es de 4,000 UI al día (NIH ODS), y la Endocrine Society recomienda no dar suplemento de rutina arriba de lo recomendado en adultos sanos de menos de 75 años (Demay 2024). La parte de los genes que se suele citar es cerca del 3% (Bouillon 2008). En el estudio VITAL, 2,000 UI al día bajaron cerca de 22% las enfermedades autoinmunes nuevas (Hahn 2022). |
-| Aceite de pescado | Sirve más si no comes pescado; las pruebas son sobre todo del aceite de pescado más que del de kril o de algas; compra de un fabricante de confianza y busca el sello **IFOS** porque las grasas se echan a perder fácil | 🟡 |
+| Aceite de pescado | Sirve más si no comes pescado; las pruebas son sobre todo del aceite de pescado más que del de kril o de algas; compra de un fabricante de confianza y busca el sello **IFOS** (un programa que revisa la pureza del aceite de pescado) porque las grasas se echan a perder fácil | 🟡 |
 | Creatina monohidratada | Segura y barata; mete agua al músculo; ayuda a levantar pesas; pruebas nuevas para el cerebro y la salud mental; pregúntale al médico si tienes algún problema de salud | ✅ la forma con mejores pruebas según la lección |
 | Proteína de suero (whey) | Él toma uno o dos licuados al día; llena; subir la proteína poco a poco cambia la proporción de músculo y grasa | 🟡 lo que él hace |
 
@@ -142,6 +144,8 @@ C. La fibra insoluble da volumen al excremento
 - Comentarios personales: lo mucho que le gusta el mango verde y los pleitos amistosos por eso, el comentario sobre la ensalada de pasta, sus recetas de licuados de whey (stevia, vainilla, moras congeladas).
 - Puntos repetidos: lo de masticar despacio y subir la fibra poco a poco se dijo varias veces; se dejó una sola vez.
 - Ninguna parte de la transcripción fue confusa, salvo errores chicos de escritura (por ejemplo, "nitrate to nitrate" se leyó como nitrato a nitrito; "karyogenic" se leyó como cariogénico).
+
+**La idea para recordar: alimenta a tus bacterias con muchas plantas distintas y comida fermentada, y come con calma; ellas hacen parte del trabajo.**
 
 ---
 **Referencias:**

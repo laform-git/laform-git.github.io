@@ -4,6 +4,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 4 (transcripción). Nota de la serie: Cap. 1 a Cap. 8 del mismo curso; aquí Lugavere pasa de los nutrientes a las cosas de fuera alrededor de la comida.*
 
+**En palabras sencillas:** esta clase pasa de qué comer a cuándo comerlo. Lo primero sigue siendo la calidad de la comida; la hora es solo un ajuste fino. El cuerpo tiene relojes que se ponen a tiempo con la luz y con la hora de comer, y comer más temprano en el día parece ayudar al azúcar y a la presión. El ayuno no es mágico para bajar grasa y tiene costos reales (músculo, vida social). Para la proteína importa sobre todo la cantidad total del día, no la hora exacta. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **IGF-1**: factor de crecimiento similar a la insulina tipo 1, por medio del cual actúa la hormona del crecimiento
 - **NIH**: Institutos Nacionales de Salud de EE. UU.
@@ -13,7 +15,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuándo comerlo". Te da una forma de decidir más que una regla: la hora es el 20 % en la regla del 80/20 (Pareto), la cantidad de proteína es la piedra grande, y el ayuno es una herramienta que se puede usar o no, con costos reales (músculo, vida social, estrés).
+Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuándo comerlo". Te da una forma de decidir más que una regla. La hora es el 20 % en la regla del 80/20 (Pareto, la idea de que el 20 % de las causas da el 80 % del resultado). La cantidad de proteína es la piedra grande. Y el ayuno es una herramienta que se puede usar o no, con costos reales (músculo, vida social, estrés).
 
 ## El orden de importancia — lo que comes le gana a cuándo lo comes
 - ✅ Lo que dice claro Lugavere: más o menos el 80 % del esfuerzo es la calidad de la comida y el otro 20 % la hora (regla de Pareto).
@@ -55,7 +57,7 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 | --- | --- |
 | **Vida social** | La cena es la comida más social; estar aislado es un riesgo para la depresión, la demencia y morir por cualquier causa |
 | **Músculo** | El AI puede no ser lo mejor para mantener y ganar músculo; cortar a las 6 PM puede hacer perder una toma de proteína más tarde |
-| **Testosterona** | Un estudio (él "cree que en hombres") unió el AI con menos testosterona; 🟡 sin nombre en la clase; lo más seguro es que sea Moro 2016: en 34 hombres que hacían pesas, 8 semanas comiendo 16:8 bajaron la testosterona y el IGF-1, mientras la grasa bajó y la fuerza se mantuvo |
+| **Testosterona** | Un estudio (él "cree que en hombres") unió el AI con menos testosterona; 🟡 sin nombre en la clase; lo más seguro es que sea Moro 2016: en 34 hombres que hacían pesas, 8 semanas comiendo 16:8 bajaron la testosterona y el IGF-1 (una hormona de crecimiento), mientras la grasa bajó y la fuerza se mantuvo |
 | **Deportistas y fisicoculturistas** | Pueden rendir mejor con la proteína repartida igual durante todo el día que con la ART temprana |
 
 - ✅ Lo que él hace: nada de comida más o menos 1 hora después de despertar y nada de 2 a 3 horas antes de dormir; "al cuerpo le gusta lo constante".
@@ -63,13 +65,13 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 ## El ayuno como un estrés que fortalece (hormesis)
 - ✅ **Hormesis**: un estrés que hace daño en dosis altas pero fortalece en dosis bajas. Sus ejemplos: el ejercicio, el calor del sauna, las sustancias con que se defienden las plantas en la comida fresca ("lo que no te mata te hace más fuerte").
 - ✅ El ayuno se presenta como hormesis: prende genes y caminos que van con comer menos calorías y con vivir más.
-- 🟡 Lo del cerebro se basa en el investigador de los NIH "Mark Matson" (así escrito en la transcripción; es Mark Mattson, quien por años dirigió un laboratorio de neurociencias del Instituto Nacional sobre el Envejecimiento de EE. UU.; vea de Cabo y Mattson 2019): en animales, el ayuno sube el BDNF y otras proteínas que ayudan a que nazcan neuronas y a que el cerebro cambie y se adapte. Lugavere insiste en que mucho de esto es trabajo en animales.
+- 🟡 Lo del cerebro se basa en el investigador de los NIH "Mark Matson" (así escrito en la transcripción; es Mark Mattson, quien por años dirigió un laboratorio de neurociencias del Instituto Nacional sobre el Envejecimiento de EE. UU.; vea de Cabo y Mattson 2019): en animales, el ayuno sube el BDNF (una proteína que ayuda a las neuronas a crecer) y otras proteínas que ayudan a que nazcan neuronas y a que el cerebro cambie y se adapte. Lugavere insiste en que mucho de esto es trabajo en animales.
 - 🟢 Cuidado: el estrés total que se aguanta tiene un límite (estrés que no se quita, mucho café, poco sueño, ejercicio seguido); agrega el ayuno sabiendo eso y decide primero si tu meta es bajar grasa o ganar músculo.
 
 ## La ventana anabólica — casi toda desmentida
 - ✅ La regla vieja: tomar proteína justo después de entrenar o "se pierde lo ganado". Sugiere que la publicidad de la proteína en polvo ayudó a empujarla al unir un producto con una costumbre.
 - ✅ La ventana es mucho más ancha de lo que se creía (en un análisis de muchos estudios, la hora de la proteína no cambió de forma importante la fuerza ni el tamaño del músculo una vez que se tomó en cuenta la proteína total; Schoenfeld 2013). **Primero las piedras grandes**: la proteína total del día son las piedras del frasco; la hora es la arena.
-- ✅ **Excepción: entrenar en ayunas.** Sin aminoácidos en la sangre, conviene comer proteína poco después de entrenar. El ejercicio sube tanto la construcción de proteína del músculo (SPM) como su desgaste (DPM); la proteína "frena" el desgaste y da las piezas para construir. Si ya comiste, no hay que correr por proteína.
+- ✅ **Excepción: entrenar en ayunas.** Sin aminoácidos en la sangre, conviene comer proteína poco después de entrenar. El ejercicio sube tanto la construcción de proteína del músculo (SPM, síntesis de proteína muscular) como su desgaste (DPM, degradación de proteína muscular); la proteína "frena" el desgaste y da las piezas para construir. Si ya comiste, no hay que correr por proteína.
 
 ## Cifras de proteína
 
@@ -108,7 +110,7 @@ Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuánd
 - 🔴 "El ayuno no hace daño": es un estrés que fortalece en poca dosis; se suma al estrés total y puede costar músculo y (en un estudio citado) testosterona.
 
 ## Conclusión práctica
-Escoge un horario para comer constante y cargado a temprano, haz la primera comida más o menos una hora después de despertar y la última de 2 a 3 horas antes de dormir, come proteína en cerca de 1.6 g/kg o más repartida en el día, y ve todo lo demás como un ajuste fino que se puede usar o no. Si un horario de ayuno te cuesta proteína, entrenamiento, sueño o cenas con otros, la misma lógica de la clase dice que lo dejes. Esta es la forma de ver del maestro, no una indicación médica.
+Escoge un horario para comer constante y cargado a temprano. Haz la primera comida más o menos una hora después de despertar y la última de 2 a 3 horas antes de dormir. Come proteína en cerca de 1.6 g/kg o más repartida en el día, y ve todo lo demás como un ajuste fino que se puede usar o no. Si un horario de ayuno te cuesta proteína, entrenamiento, sueño o cenas con otros, la misma lógica de la clase dice que lo dejes. Esta es la forma de ver del maestro, no una indicación médica.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Un amigo dice que el ayuno intermitente derrite la grasa de una forma que controlar las calorías no puede. Con lo de esta clase, ¿cuál es la mejor respuesta?**
@@ -147,6 +149,8 @@ C. \* El límite de 30 g es un mito; lo que más importa es la proteína total d
 - Recordatorios repetidos sobre la proteína y el ir y venir entre libras y kilos.
 - Explicaciones generales del reloj del cuerpo y la hormesis más allá de lo que dijo la clase.
 - El sauna como ejemplo de hormesis se dejó en una línea; el lenguaje de vista general "a 30,000 pies".
+
+**La idea para recordar: primero qué comes y cuánta proteína; después, comer más temprano y de forma constante es un buen ajuste.**
 
 ---
 **Referencias:**

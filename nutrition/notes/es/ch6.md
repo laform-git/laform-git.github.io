@@ -3,6 +3,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 6 (transcripción). Sexto de ocho capítulos. Es una clase con opiniones fuertes: donde lo que dice Lugavere va más allá de las pruebas que cita en la plática, se marca con 🟡.*
 
+**En palabras sencillas:** esta clase enseña a juzgar las noticias sobre comida. Que dos cosas vayan juntas no quiere decir que una cause la otra, y un "25% más de riesgo" puede ser muy poco en la vida real. Solo los estudios al azar con grupo de control demuestran causas, y ningún estudio solo debería cambiar tu dieta. Después compara la comida de animales con la de plantas, habla de las sustancias de las plantas que nos dan un estrés bueno y pregunta si la obesidad es genética. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 - **OMS**: Organización Mundial de la Salud
@@ -19,7 +21,7 @@ Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirma
 ## Leer las pruebas — que vayan juntas, que una cause la otra, riesgo relativo contra riesgo real
 - **Correlación** = que dos cosas vayan juntas. Lugavere: cada vez que oyes la palabra "riesgo", quiere decir correlación sin decirlo. Su ejemplo: los celulares y la obesidad han subido al mismo tiempo; nadie piensa que uno cause la otra. ✅
 - **Causalidad** = que una cosa cause directamente otra. El ejemplo más fuerte que da es fumar: más o menos un **2,000% más de riesgo** de cáncer de pulmón, y aun así no todos los que fuman lo tienen. Compáralo con los titulares típicos de nutrición ("la carne roja sube ~30% el riesgo de tal cáncer"): una señal mucho más débil, así que mucha menos seguridad. ✅ Para comparar tamaños, la agencia del cáncer de la OMS (IARC) calcula cerca de 18% más riesgo de cáncer de colon por cada 50 g al día de carne procesada, y cerca de 17% por cada 100 g al día de carne roja si de verdad la causa (Bouvard 2015).
-- **Riesgo relativo contra riesgo real (absoluto):** su ejemplo de improviso: que el huevo "sube 25% el riesgo de diabetes tipo 2" suena grande, pero si el riesgo real en toda la vida es 4%, subirlo 25% lo lleva a **5%**. Los estudios suelen dar el riesgo relativo (RR), y también "hazard ratios" u "odds ratios"; "en general todos dicen lo mismo". ✅
+- **Riesgo relativo contra riesgo real (absoluto):** su ejemplo de improviso es este. Que el huevo "sube 25% el riesgo de diabetes tipo 2" suena grande, pero si el riesgo real en toda la vida es 4%, subirlo 25% lo lleva a **5%**. Los estudios suelen dar el riesgo relativo (RR), y también "hazard ratios" u "odds ratios" (otras formas de comparar riesgos); "en general todos dicen lo mismo". ✅
 - **Cosas que se revuelven y el sesgo de la gente que se cuida:** los que comen carne, después de décadas de que les dijeran que no, suelen moverse menos y fumar más. Con las plantas pasa al revés: la comida fresca es un privilegio de quien tiene más dinero, y los que comen frutas y verduras también pueden tener más estudios, ir a mercados de productores, pagar gimnasio y tomar multivitamínicos. Lo que dice es que la relación puede ser real, "muy bien puede serlo", pero en los datos de observación no se puede separar de esas costumbres. ✅
 - **Solo los estudios al azar con grupo de control** pueden demostrar que una cosa causa otra. ✅
 
@@ -67,8 +69,8 @@ Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirma
 - **Hormesis:** una dosis baja de estrés que no nos envenena y que hace que el cuerpo se adapte. Las plantas no pueden huir ni pelear, así que se vuelven "químicas brillantes": sustancias amargas para que no se las coman en las hojas verdes oscuras, hierbas, especias, los taninos del té y del café. El nombre que le da Mark Hyman: **"fitoadaptación simbiótica"**. ✅ (El nombre científico de esta idea es xenohormesis; Howitz y Sinclair 2008.)
 - **Luteína y zeaxantina** (kale, acelga): se sabe que protegen los ojos del daño de la mácula por la edad; se juntan en el cerebro; se disuelven en grasa, y eso es una razón para no comer una dieta con demasiada poca grasa. 🟡 Revisión de la evidencia: "se sabe que protegen" es exagerado. En el estudio AREDS2, agregar luteína y zeaxantina no bajó de forma importante el avance a daño grave de la mácula en el análisis principal (AREDS2 2013); sí reemplazaron al betacaroteno en la fórmula de vitaminas para los ojos porque el betacaroteno fue junto con más cáncer de pulmón en exfumadores.
 - **Antocianinas** (arándanos, cebolla morada, papas moradas; los rojos y morados de frutas y verduras): dice que se juntan en el hipocampo (una zona de la memoria). 🟡 Se demostró en ratas que comieron arándanos (Andres-Lacueva 2005); todavía no en personas.
-- **Glucosinolatos / sulforafano** (brócoli, germinados, coles de Bruselas, coliflor, kale, arúgula; se forma al masticar estas verduras): prende las defensas propias del cuerpo; en un estudio al azar en China, una bebida de germinado de brócoli con mucho sulforafano hizo que se sacara más benceno (61%) y acroleína (23%) por la orina (Egner 2014). ✅
-- **Flavanoles:** un estudio al azar que cita encontró que la comida con muchos flavanoles mejoró la memoria y el pensamiento y subió el **BDNF** comparada con comida con pocos flavanoles; acepta que "no es un estudio perfecto" porque la comida tiene muchas sustancias. 🟢 (Neshatdoust 2016: dos estudios al azar, de 18 y 12 semanas.)
+- **Glucosinolatos / sulforafano** (brócoli, germinados, coles de Bruselas, coliflor, kale, arúgula; se forma al masticar estas verduras): prende las defensas propias del cuerpo (las que limpian sustancias dañinas); en un estudio al azar en China, una bebida de germinado de brócoli con mucho sulforafano hizo que se sacara más benceno (61%) y acroleína (23%) por la orina (Egner 2014). ✅
+- **Flavanoles:** un estudio al azar que cita encontró que la comida con muchos flavanoles mejoró la memoria y el pensamiento y subió el **BDNF** (una proteína que ayuda a las neuronas) comparada con comida con pocos flavanoles; acepta que "no es un estudio perfecto" porque la comida tiene muchas sustancias. 🟢 (Neshatdoust 2016: dos estudios al azar, de 18 y 12 semanas.)
 - No todas las sustancias le caen bien a todas las personas (su comentario sobre la dieta carnívora). 🟡
 
 ## La fibra, otra vez
@@ -136,6 +138,8 @@ C. \* Ver la comida solo como sus nutrientes conocidos sueltos, olvidando las su
 - Las repeticiones de lo de correlación contra causa y del ejemplo de los celulares más allá de una vez.
 - Errores de escritura de la transcripción y un salto de línea a mitad de frase en lo de Ty Beal (se entendió el contenido, no se afectó).
 - Detalles de la preocupación por la dieta carnívora: solo una línea en la clase.
+
+**La idea para recordar: ante un titular de "riesgo", pregunta cuánto sube el riesgo real y qué tipo de estudio es; la comida de animales y la de plantas aportan cosas distintas.**
 
 ---
 **Referencias:**

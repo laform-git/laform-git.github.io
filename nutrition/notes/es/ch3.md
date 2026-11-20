@@ -4,6 +4,8 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 3 (transcripción). Tercer capítulo de una serie de ocho (Fundamentos, Superestrellas de la saciedad, Estándares, A qué hora comer, Dieta a la medida, Controversias, Alimentos geniales, Bacterias del intestino). Lugavere aclara desde el principio que no es médico; lo que dice viene de diez años trabajando en nutrición y de lo que le cuentan sus lectores, no de atender pacientes. Lo de abajo es lo que él dice, con 🟡 donde no tiene apoyo o se discute.*
 
+**En palabras sencillas:** esta clase pone la vara para medir la comida. Antes se culpaba a un nutriente suelto (la grasa, luego los carbohidratos); ahora lo que importa es qué tan procesada está la comida. Un estudio muy controlado mostró que, con comida ultraprocesada, la gente comió unas 500 calorías más al día sin darse cuenta. Lugavere desconfía de los aceites de semillas refinados y del azúcar agregado; la revisión marca dónde los datos no le dan toda la razón. Cierra con cinco pruebas sencillas para reconocer la comida de verdad. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **NOVA**: sistema que clasifica los alimentos según qué tan procesados están
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
@@ -12,7 +14,7 @@
 - **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
 
 ## Por qué importa
-Esta es la clase de los "estándares": pone la vara con la que el resto de la serie mide la comida. El cambio central es pasar del modelo viejo (echarle la culpa a un nutriente suelto: primero la grasa, luego la grasa saturada, luego los carbohidratos) al modelo nuevo (lo que importa es la comida, qué tan procesada está y cómo está armada). Es una clase de ideas y reglas prácticas más que de química del cuerpo.
+Esta es la clase de los "estándares": pone la vara con la que el resto de la serie mide la comida. El cambio central es dejar el modelo viejo (echarle la culpa a un nutriente suelto: primero la grasa, luego la grasa saturada, luego los carbohidratos). El modelo nuevo dice (lo que importa es la comida, qué tan procesada está y cómo está armada). Es una clase de ideas y reglas prácticas más que de química del cuerpo.
 
 ## Modelo viejo contra modelo nuevo
 |  | Modelo viejo | Modelo nuevo (Lugavere) |
@@ -33,7 +35,7 @@ Esta es la clase de los "estándares": pone la vara con la que el resto de la se
 
 ## Qué son los alimentos ultraprocesados (AUP)
 - **Formal:** mezclas de fábrica con muchos ingredientes, muy procesadas, muchas veces con muchas calorías, azúcar agregado, grasas y sal. ✅
-- **El sistema NOVA** (hecho en América Latina) pone la comida en cuatro grupos según qué tan procesada está; lo poco procesado (carne, pescado, huevos, frutas, verduras, nueces, semillas) en un extremo y lo ultraprocesado en el otro. NOVA inventó la palabra "ultraprocesado". A Lugavere le parece el mejor sistema que conoce. 🟡 Dice "grupo cero o uno" para lo poco procesado y "tres o cuatro" para los AUP; la transcripción no es clara aquí, así que los números exactos de los grupos no están comprobados. Corrección: NOVA tiene cuatro grupos del 1 al 4: (1) comida sin procesar o poco procesada, (2) cosas para cocinar procesadas como aceites, mantequilla, azúcar y sal, (3) comida procesada y (4) comida ultraprocesada. No hay grupo cero, y solo el grupo 4 es ultraprocesado. Se hizo en Brasil (Monteiro 2019).
+- **El sistema NOVA** (una forma de clasificar la comida, hecha en América Latina) pone la comida en cuatro grupos según qué tan procesada está; lo poco procesado (carne, pescado, huevos, frutas, verduras, nueces, semillas) en un extremo y lo ultraprocesado en el otro. NOVA inventó la palabra "ultraprocesado". A Lugavere le parece el mejor sistema que conoce. 🟡 Dice "grupo cero o uno" para lo poco procesado y "tres o cuatro" para los AUP; la transcripción no es clara aquí, así que los números exactos de los grupos no están comprobados. Corrección: NOVA tiene cuatro grupos del 1 al 4: (1) comida sin procesar o poco procesada, (2) cosas para cocinar procesadas como aceites, mantequilla, azúcar y sal, (3) comida procesada y (4) comida ultraprocesada. No hay grupo cero, y solo el grupo 4 es ultraprocesado. Se hizo en Brasil (Monteiro 2019).
 - **Para comparar: el "Food Compass" de Tufts** se volvió famoso en internet por calificar a Lucky Charms y Frosted Mini-Wheats por encima de la carne molida y los huevos pochados; es su ejemplo de cómo un sistema de calificación puede engañar. 🟡 (cómo él describe la calificación; el Food Compass es un sistema real de puntos de Tufts, Mozaffarian 2021, pero aquí no se revisaron los puntos exactos)
 - **Regla de la cocina:** si no lo podrías hacer en tu cocina, seguramente es ultraprocesado. ✅
 - **Cómo suele ser un AUP:** una mezcla de carbohidratos y grasa, con poca proteína, normalmente con sal agregada. Le parecen bien los productos procesados con mucha proteína, como la proteína de suero de leche (whey), y le preocupan menos el yogur griego y lácteos parecidos. 🟢
@@ -57,7 +59,7 @@ Esta es la clase de los "estándares": pone la vara con la que el resto de la se
 - **Se echan a perder fácil con el oxígeno** porque casi todo es grasa poliinsaturada. Comemos algunos de ellos hasta **mil veces más que hace 100 años**. ✅ (su cifra; el aceite de soya por persona en EE. UU. subió más de 1,000 veces entre 1909 y 1999, Blasbalg 2011)
 - **Por qué el sistema los deja pasar:** bajan el colesterol LDL comparados con la grasa saturada. Lo que contesta Lugavere: las grasas en la sangre son solo una señal entre muchas de la salud, no hay datos de largo plazo de otras cosas y el sistema "solo ve" las grasas en la sangre. 🟡 se discute; es su argumento, no algo en lo que todos estén de acuerdo. Revisión de la evidencia: sí hay datos de largo plazo en personas. Grupos juntados con análisis de sangre (68,659 personas, seguidas hasta 32 años) unieron más ácido linoleico con menos enfermedad del corazón y menos muertes por el corazón (Marklund 2019), y entre 221,054 adultos de EE. UU. seguidos hasta 33 años, comer más aceites vegetales (incluidos soya y canola) fue junto con 16 % menos muertes en general y comer más mantequilla con 15 % más (Zhang 2025). Un nuevo análisis de un estudio al azar viejo que cambió grasa saturada por aceite de maíz encontró menos colesterol pero no menos muertes (Ramsden 2016), y eso mantiene abierto el debate.
 - **Lo del cerebro:** el cerebro está hecho en buena parte de grasas poliinsaturadas y estas grasas pasan fácil la barrera que protege el cerebro, así que piensa que las grasas dañadas podrían dañar el cerebro; acepta que no hay datos de largo plazo. 🟡 es especulación
-- **Las freidoras son el daño más claro:** los aceites que se tienen calientes por horas (cuenta que algunos restaurantes cambian el aceite solo después de semanas, según sus seguidores) forman restos dañados como los **aldehídos**, que él llama causantes conocidos de cáncer. Datos en ratones (inflamación, tumores que crecen más rápido en ratones propensos, intestino que deja pasar cosas, comparado con aceite de oliva). 🟡 solo datos en ratones
+- **Las freidoras son el daño más claro:** los aceites que se tienen calientes por horas (cuenta que algunos restaurantes cambian el aceite solo después de semanas, según sus seguidores) forman restos dañados como los **aldehídos** (sustancias que salen cuando la grasa se quema o se echa a perder), que él llama causantes conocidos de cáncer. Datos en ratones (inflamación, tumores que crecen más rápido en ratones propensos, intestino que deja pasar cosas, comparado con aceite de oliva). 🟡 solo datos en ratones
 - **Postura equilibrada:** los aceites de semillas son una **señal** de que se comen AUP, no "la prueba del crimen". No quiere repetir el error de los que hacen las reglas de culpar a un solo nutriente. En casa, tiene sentido usarlos poco porque no se sabe cómo se guardaron ni cuánto se calentaron. ✅
 
 **Azúcar agregado**
@@ -107,7 +109,7 @@ Esta es la clase de los "estándares": pone la vara con la que el resto de la se
 - 🔴 Tomar que un aceite baje el LDL como prueba de que es sano: lo que objeta es que las grasas en la sangre son una medida entre muchas (se discute; vea Temas abiertos).
 
 ## Conclusión práctica
-Usa las Cinco R y la prueba de "¿lo podría hacer en mi cocina?" como filtro rápido, arma tus comidas con comida poco procesada que tenga proteína, y ve la comida frita de restaurante y el azúcar agregado como los lugares más claros para recortar. No cambies el fijarte en cómo comes en general por el miedo a un solo nutriente. Lugavere piensa según la dosis y es práctico, no de "cero absoluto".
+Usa las Cinco R y la prueba de "¿lo podría hacer en mi cocina?" como filtro rápido. Arma tus comidas con comida poco procesada que tenga proteína. Y ve la comida frita de restaurante y el azúcar agregado como los lugares más claros para recortar. No cambies el fijarte en cómo comes en general por el miedo a un solo nutriente. Lugavere piensa según la dosis y es práctico, no de "cero absoluto".
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. En el estudio de Hall con personas internadas, los participantes comieron lo que quisieron de dietas poco procesadas y luego ultraprocesadas. ¿Qué muestra el resultado de forma más directa sobre el equilibrio de energía?**
@@ -139,6 +141,8 @@ C. \* Se cuela, son calorías vacías, sabe demasiado bien, saca de la dieta a l
 - Detalles personales: la historia del súper "Fat-Free Foods", su encuesta de Instagram sobre freidoras más allá de la conclusión principal, el desvío del amigo granjero sobre el pollo crudo más allá del aviso de seguridad.
 - Repeticiones de "la dosis hace el veneno" y "no soy médico"; se dejó una de cada una.
 - Detalles del diagrama de cómo se refina el aceite (refinado, preblanqueado, quitarle la cera) más allá del paso de quitarle el olor, porque la diapositiva no está en la transcripción.
+
+**La idea para recordar: la comida de verdad casi no tiene lista de ingredientes; mientras menos procesada, menos de más se come.**
 
 ---
 **Referencias:**
