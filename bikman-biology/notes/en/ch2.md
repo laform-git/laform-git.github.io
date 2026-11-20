@@ -4,6 +4,8 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 2 (transcript, ~9,400 words). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series. Builds directly on Ch.1 (the cell and its membrane); the next chapter is the Central Dogma.*
 
+**In plain words:** molecules are always moving, and they spread from crowded places to less crowded ones on their own. Water follows dissolved substances like salt and sugar. With those two rules, plus a set of doors and pumps in the cell's skin, this lecture explains why some diabetes drugs make people urinate a lot, why drinking far too much water can kill, and how sugar and cholesterol carriers get into cells.
+
 **Words in this note:**
 - **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
 - **SGLT1**: a pump that pulls sugar in from the gut
@@ -18,145 +20,147 @@
 - **RNA**: a working copy of genetic code
 
 ## Why This Matters
-This lecture is the plumbing manual. It explains why glucose enters the liver without insulin but needs insulin in muscle and fat, why SGLT2-inhibitor diabetes drugs cause heavy urination and UTIs, why drinking too much pure water can kill, and how LDL actually gets into a cell.
+This lecture is the plumbing manual. It explains why glucose (blood sugar) enters the liver without insulin but needs insulin to enter muscle and fat. It explains why SGLT2 inhibitors, a family of diabetes drugs, cause heavy urination and urinary tract infections (UTIs). It explains why drinking too much plain water can kill, and how LDL, the main cholesterol carrier in the blood, actually gets into a cell.
 
 ## Vocabulary and the Core Physics
-- **Solvent** is the liquid something is dissolved in (water, in all eukaryotes). **Solute** is the dissolved molecule. **Concentration** is the amount of solute in a given volume of solvent. ✅
-- **Concentration gradient** is the difference in particle number between two spaces. ✅
-- **Brownian movement:** all molecules are in constant, random, chaotic motion (Newton's first law: things in motion stay in motion). Crowded molecules bump into each other and randomly spread into emptier space until they reach **equilibrium**, an even distribution. ✅ Bikman's key framing: nothing "tells" the molecule to move down its gradient — it is just statistics of random motion.
+- **Solvent** is the liquid something is dissolved in (water, in all complex cells). **Solute** is the thing dissolved in it. **Concentration** is how much solute there is in a given amount of solvent. ✅
+- **Concentration gradient** is the difference in how many particles there are between two spaces. ✅
+- **Brownian movement:** all molecules move all the time, randomly and chaotically (Newton's first law: things in motion stay in motion). Crowded molecules bump into each other and, by chance, spread into emptier space until they are spread evenly. That even state is called **equilibrium**. ✅ Bikman's key point: nothing "tells" a molecule to move from crowded to empty. It is just the statistics of random motion.
 
-## Diffusion — Solutes Moving
-- **Diffusion** is the movement of solute across a membrane, from high concentration to low. When it goes down the gradient it is **passive transport: no cellular energy required**. ✅
-- **Active transport** moves a solute *against* its gradient and costs cellular energy. ✅
-- **Potassium is the lecture's anchor example:** there is more than 10 times more potassium inside the cell than outside, so it "wants" to leak out. The cell holds that difference only by spending energy to pump it in. ✅
-- **Glucose after a meal is the passive example:** blood glucose spikes far above the level inside cells. The liver has always-open transporters, so glucose simply flows down its gradient into the liver with no insulin and no energy. ✅
+## Diffusion — Dissolved Substances Moving
+- **Diffusion** is the movement of a solute across a membrane, from high concentration to low. When it goes from crowded to empty like this, it is **passive transport: the cell spends no energy**. ✅
+- **Active transport** moves a solute the other way, *against* its gradient, and it costs the cell energy. ✅
+- **Potassium is the lecture's main example:** there is more than 10 times more potassium inside the cell than outside, so it "wants" to leak out. The cell keeps that difference only by spending energy to pump potassium back in. ✅
+- **Glucose after a meal is the passive example:** blood sugar rises far above the level inside cells. The liver has sugar doors that are always open, so glucose simply flows from high to low into the liver, with no insulin and no energy needed. ✅
 
-## Osmosis — Solvent Moving
-- **Osmosis** is the movement of the *solvent* (water) across a membrane, whereas diffusion is the movement of the *solute*. ✅
-- **U-shaped pipe thought experiment:** if the membrane passes only solute, solute diffuses until both sides match (volumes unchanged). If the membrane passes only water, the solute is stuck, so water moves toward the more concentrated side. Concentrations end up matched, but **volumes are now different**. ✅
-- **Osmotic pressure** is the real, measurable pressure generated by water being pulled toward the concentrated compartment. ✅
+## Osmosis — Water Moving
+- **Osmosis** is the movement of the *solvent* (water) across a membrane. Diffusion, by contrast, is the movement of the *solute*. ✅
+- **The U-shaped pipe thought experiment:** picture a U-shaped tube split by a membrane. If the membrane lets only the solute through, the solute spreads until both sides match, and the water levels stay the same. If the membrane lets only water through, the solute is stuck, so water moves toward the more concentrated side. The concentrations end up matched, but **the volumes are now different**. ✅
+- **Osmotic pressure** is a real, measurable pressure created by water being pulled toward the more concentrated side. ✅
 
 | Feature | Diffusion | Osmosis |
 | --- | --- | --- |
-| **What moves** | Solute (salt, glucose, electrolytes) | Solvent (water) |
-| **Membrane must be permeable to** | The solute | Water (solute is blocked) |
-| **Driving force** | Solute gradient, high to low | Water follows the higher solute concentration |
-| **End state** | Equal concentration, equal volume | Equal concentration, *unequal* volume |
+| **What moves** | Solute (salt, glucose, electrolytes, the body's salts) | Solvent (water) |
+| **Membrane must let through** | The solute | Water (solute is blocked) |
+| **What drives it** | Solute gradient, high to low | Water follows the higher solute concentration |
+| **End result** | Equal concentration, equal volume | Equal concentration, *unequal* volume |
 
-### Two clinical applications from the lecture
-- **Edema:** after long standing, water leaves the blood into the space around vessels in the lower legs; the building osmotic pressure pushes against the skin's elasticity, so limbs swell. 🟡 Evidence check: the main driver is gravity raising the hydrostatic (fluid) pressure inside leg capillaries, which pushes fluid out; the osmotic pull of blood proteins is the force that normally draws it back (revised Starling principle; Levick 2010).
-- **Why uncontrolled diabetes means excess urine:** the kidney's glomerulus filters glucose into the renal tubule. Normally nearly all is reabsorbed (and water follows). When blood glucose is extremely high (Bikman's figure: about 10 times normal), the load exceeds reabsorption, glucose stays in the tubule, and its osmotic pull keeps water there too, so urine volume rises. "Diabetes" comes from the Greek for "siphon" (passing through), a nod to the excess urine. ✅ 🟡 Evidence check on the 10-times figure: glucose starts to spill into urine once blood glucose passes the renal threshold of about 180 mg/dL (10 mmol/L), roughly twice normal (Hieshima 2020).
+### Two medical examples from the lecture
+- **Edema (swelling):** after long standing, water leaves the blood and moves into the space around the blood vessels in the lower legs. The osmotic pressure builds up against the skin's stretch, so the legs swell. 🟡 Evidence check: the main cause is gravity. It raises the fluid pressure inside the tiny blood vessels of the legs (hydrostatic pressure), which pushes fluid out. The osmotic pull of blood proteins is the force that normally draws it back in (the revised Starling principle; Levick 2010).
+- **Why uncontrolled diabetes means too much urine:** the glomerulus, the kidney's filter, filters glucose into the renal tubule, the small tube that becomes urine. Normally almost all of that glucose is taken back into the blood, and water follows it. When blood sugar is extremely high (Bikman's figure: about 10 times normal), there is too much to take back. Glucose stays in the tube, its osmotic pull keeps water there too, and the amount of urine rises. The word "diabetes" comes from the Greek for "siphon" (passing through), a nod to the heavy urine. ✅ 🟡 Evidence check on the 10-times figure: glucose starts to spill into urine once blood sugar passes the kidney's threshold of about 180 mg/dL (10 mmol/L), roughly twice normal (Hieshima 2020).
 
 ## Tonicity — Osmosis Applied to the Cell
-The fluid inside cells is the **ICF** (intracellular fluid); all fluid outside (blood, lymph, etc.) is the **ECF** (extracellular fluid). Water crosses the cell membrane quickly; solutes cross slowly and under tight control, so **water moves first**. ✅
+Tonicity describes how concentrated the fluid around a cell is compared with the fluid inside it. The fluid inside cells is the **ICF** (intracellular fluid). All fluid outside cells (blood, lymph and so on) is the **ECF** (extracellular fluid). Water crosses the cell membrane quickly. Solutes cross slowly and under tight control. So **water moves first**. ✅
 
-| Condition | ECF vs. ICF | Water moves | Cell result |
+| Condition | ECF vs. ICF | Water moves | What happens to the cell |
 | --- | --- | --- | --- |
-| **Isotonic** | Matched | No net movement | Normal, round red blood cell |
-| **Hypertonic ECF** | ECF too concentrated | Out of cell into ECF | Cell shrinks, shriveled on microscope |
-| **Hypotonic ECF** | ECF too dilute | Into cell from ECF | Cell swells, can burst |
+| **Isotonic** | Matched | No overall movement | Normal, round red blood cell |
+| **Hypertonic ECF** | Outside fluid too concentrated | Out of the cell into the ECF | Cell shrinks and looks shriveled under a microscope |
+| **Hypotonic ECF** | Outside fluid too diluted | Into the cell from the ECF | Cell swells and can burst |
 
-- **Water intoxication:** a radio-show water-drinking contest ended in a death from diluting the ECF too far. ✅ The case is real: in January 2007, Jennifer Strange, 28, died of water intoxication after a KDND-FM (Sacramento) contest; a jury awarded her family $16.5 million in 2009 (ABC News/AP 2009).
-- **IV error scenario:** infusing a hypotonic bag raises ECF volume while lowering its concentration; cells then take in water and swell until the body excretes the excess water and holds on to solute. If swelling goes too far the cell bursts, which Bikman calls **hydropic degeneration** (his water-balloon analogy). ✅ 🟡 He uses that term for bursting; the term is commonly used for cell swelling in pathology, so treat his definition as lecture shorthand.
+- **Water intoxication:** a water-drinking contest on a radio show ended in a death, because the woman diluted her ECF too far. ✅ The case is real: in January 2007, Jennifer Strange, 28, died of water intoxication after a contest on KDND-FM in Sacramento. In 2009 a jury awarded her family $16.5 million (ABC News/AP 2009).
+- **The wrong IV bag:** if a hospital drips in a hypotonic (too diluted) IV bag, the ECF grows in volume while its concentration drops. Cells then take in water and swell, until the body gets rid of the extra water and holds on to its salts. If the swelling goes too far, the cell bursts. Bikman calls this **hydropic degeneration** (his water-balloon picture). ✅ 🟡 He uses the term for bursting. In disease science the term usually means cell swelling, so treat his definition as classroom shorthand.
 
 ## Crossing the Membrane — The Transport Toolkit
-The cell must recognize a molecule, decide whether it moves at all, and decide how much. Two broad systems: **membrane-embedded structures** and **vesicle-mediated transport**.
+The cell has to recognize a molecule, decide whether it moves at all, and decide how much. There are two broad systems: **structures built into the membrane** and **transport in vesicles** (small bubbles).
 
-| Structure | How it works | Example from lecture |
+| Structure | How it works | Example from the lecture |
 | --- | --- | --- |
-| **Channel** | Closed until told to open; then an open pore, selective for what fits; flow is fast | Chemical-gated (calcium released from muscle ER signals a channel), electrical-gated (nerve ion movement), mechanical-gated (pressure on skin opens channels so nerves sense touch) |
-| **Uniporter** | Carrier binds one molecule, changes shape, releases it inside | Glucose transporters (GLUTs) |
-| **Symporter** | Moves two different molecules the same direction; will not move until both are bound | SGLT (sodium plus glucose) |
-| **Antiporter** | Moves two different molecules in opposite directions per flip | Sodium-potassium pump (sodium out, potassium in; costs energy, active transport) |
+| **Channel** | Closed until told to open; then an open hole that lets through only what fits. Flow is fast | Opened by chemicals (calcium released from the ER of a muscle cell signals a channel), by electricity (salts moving in nerves), or by pressure (pressing on the skin opens channels so nerves feel touch) |
+| **Uniporter** | A carrier grabs one molecule, changes shape, and releases it inside | Glucose transporters (GLUTs) |
+| **Symporter** | Moves two different molecules in the same direction; will not move until both are attached | SGLT (sodium plus glucose) |
+| **Antiporter** | Moves two different molecules in opposite directions each time it flips | Sodium-potassium pump (sodium out, potassium in; costs energy, so it is active transport) |
 
-- **Channel vs. transporter:** a channel just opens and lets things rush through; a transporter is a carrier that undergoes a **conformational change**, so it is slower and more regulated. ✅
-- Transporters move sugars, amino acids, and more. ✅
+- **Channel vs. transporter:** a channel simply opens and things rush through. A transporter is a carrier that changes shape (a **conformational change**), so it is slower and more controlled. ✅
+- Transporters move sugars, amino acids (the building blocks of protein) and more. ✅
 
 ## The Glucose Journey — Three Mechanisms in One Gut Cell
-The lecture's capstone example is a single intestinal epithelial cell (lining the gut), which uses all three transport types: (Koepsell 2020)
-1. **Basal side (blood side): sodium-potassium antiporter, active.** Pumps sodium out of the cell into blood (blood has roughly 10 times more sodium than the cell interior), keeping intracellular sodium very low. ✅
-2. **Apical side (gut-facing): SGLT1 symporter.** Sodium flows into the cell *down* its gradient (passively, thanks to step 1), and glucose hitches a ride; no sodium, no glucose entry. ✅
-3. **Basal side: GLUT uniporter.** Glucose exits to the blood one molecule at a time. ✅
+The high point of the lecture is a single cell from the lining of the gut (an intestinal epithelial cell). It uses all three types of transport (Koepsell 2020):
+1. **Blood side: the sodium-potassium pump, which costs energy.** It pumps sodium out of the cell into the blood. Blood has roughly 10 times more sodium than the inside of the cell, so this keeps sodium inside the cell very low. ✅
+2. **Gut side: the SGLT1 symporter.** Sodium flows into the cell *from high to low* (passively, thanks to step 1), and glucose rides along with it. No sodium, no glucose entry. ✅
+3. **Blood side: a GLUT uniporter.** Glucose leaves the cell into the blood one molecule at a time. ✅
 
-- 🟡 The transcript is garbled where it summarizes this (it labels the symport step "active" and says the uniporter moves "sodium out"). Standard reading, consistent with the rest of his explanation: the pump is the active step; the symport is driven by the sodium gradient the pump creates.
-- **SGLT2** does the same sodium-glucose job in the kidney, returning filtered glucose to blood. **SGLT1** is the gut version. ✅ (Ghezzi 2018)
-- **GLUT family:** all other glucose movement in the body uses glucose transporters. **GLUT4**-type (muscle and fat) are tucked inside the cell and surface only when insulin binds its receptor. About **12 other glucose transporters** are always ready (brain neurons, kidney), so they pull glucose in as soon as levels rise, with no insulin needed. ✅ 🟢 Evidence check: humans have 14 GLUT proteins; not all carry mainly glucose (GLUT5 carries fructose, for example), and the roles of several are still uncertain (Mueckler 2013).
-- **Muscle's back door:** working muscle can open its glucose transporters by itself through contraction, no insulin needed; when it settles down it returns to waiting for insulin. ✅ (Richter 2013) Context given: fat has a very low metabolic rate, muscle higher and able to rise steeply with exercise, kidney the highest (Bikman says about 10 times). 🟢 Evidence check: per kilogram at rest, kidneys and heart are the highest (about 440 kcal/kg/day), versus about 13 for skeletal muscle and 4.5 for fat, so the kidney runs at roughly 30 times resting muscle (Wang 2010).
+- 🟡 The transcript is garbled where he sums this up: it calls the symport step "active" and says the uniporter moves "sodium out." The standard reading, which fits the rest of his explanation: the pump is the step that costs energy, and the symporter is powered by the sodium difference the pump creates.
+- **SGLT2** does the same sodium-plus-glucose job in the kidney, returning filtered glucose to the blood. **SGLT1** is the gut version. ✅ (Ghezzi 2018)
+- **The GLUT family:** all other glucose movement in the body uses glucose transporters (GLUTs). The **GLUT4** type, found in muscle and fat, is kept tucked inside the cell and only comes to the surface when insulin attaches to its receptor. About **12 other glucose transporters** are always ready (in brain nerve cells and the kidney, for example), so they pull glucose in as soon as levels rise, with no insulin needed. ✅ 🟢 Evidence check: humans have 14 GLUT proteins. Not all of them carry mainly glucose (GLUT5 carries fructose, fruit sugar, for example), and the roles of several are still unclear (Mueckler 2013).
+- **Muscle's back door:** working muscle can open its own sugar doors just by contracting, with no insulin needed. When it settles down, it goes back to waiting for insulin. ✅ (Richter 2013) For context, he compares how much energy different tissues burn (their metabolic rate): fat very little, muscle more and able to rise steeply with exercise, the kidney the most (Bikman says about 10 times). 🟢 Evidence check: per kilogram at rest, the kidneys and heart burn the most (about 440 kcal/kg/day), against about 13 for skeletal muscle and 4.5 for fat. So the kidney runs at roughly 30 times resting muscle (Wang 2010).
 
 ## Drugs That Block the Transporters (Gliflozins)
-- Drug names ending in **-gliflozin** are SGLT inhibitors. ✅
-- **SGLT1 inhibitors:** glucose stays in the gut, creating an osmotic gradient that pulls in water, causing severe diarrhea; Bikman says they are very rarely used for that reason. ✅ 🟢 Evidence check: no selective SGLT1 blocker is approved; sotagliflozin, which blocks both SGLT1 and SGLT2, was FDA-approved in 2023 for heart failure, and diarrhea is among its known side effects (Siddiqui 2026).
-- **SGLT2 inhibitors:** glucose stays in the kidney tubule; osmotic pull produces much more urine, constant thirst, dehydration worry. Glucose in the urinary tract also feeds bacteria (the lecture's marathon aid-station analogy), so UTIs become more frequent and more serious. 🟡 Evidence check: a meta-analysis of 86 trials (50,880 patients) found genital infections about 3 times more common on SGLT2 inhibitors, but no overall rise in UTIs (only dapagliflozin 10 mg showed one) (Puckrin 2018). He adds, with some edge, that the alternative is eating less glucose.
+- Drug names ending in **-gliflozin** are SGLT inhibitors, meaning they block the SGLT doors. ✅
+- **SGLT1 blockers:** glucose stays in the gut. That creates an osmotic pull that draws water into the gut and causes severe diarrhea. Bikman says that is why they are very rarely used. ✅ 🟢 Evidence check: no drug that blocks only SGLT1 is approved. Sotagliflozin, which blocks both SGLT1 and SGLT2, was approved by the FDA in 2023 for heart failure, and diarrhea is one of its known side effects (Siddiqui 2026).
+- **SGLT2 blockers:** glucose stays in the kidney tube. Its osmotic pull produces much more urine, constant thirst and a worry about dehydration. Glucose in the urinary tract also feeds bacteria (the lecture's picture: like a food station for marathon runners), so he says UTIs become more frequent and more serious. 🟡 Evidence check: a review of 86 trials (50,880 patients) found genital infections about 3 times more common on SGLT2 blockers, but no overall rise in UTIs (only dapagliflozin 10 mg showed one) (Puckrin 2018). He adds, a little sharply, that the alternative is eating less glucose.
 
-## Vesicle-Mediated Transport
-A **vesicle** is a pocket enclosed by its own phospholipid bilayer (same physics as the cell membrane, as in Ch.1), used to bring things in or send things out. ✅
+## Transport in Vesicles
+A **vesicle** is a small pocket wrapped in its own double layer of fat molecules (the same structure as the cell membrane, as in Ch.1). Cells use vesicles to bring things in or send things out. ✅
 
 | Process | Direction | What it is | Example |
 | --- | --- | --- | --- |
-| **Phagocytosis** (cell eating) | In | Cell engulfs a particle | Phagocytes engulfing particles |
-| **Pinocytosis** (cell drinking) | In | Membrane pinches off a bubble of nearby molecules (not a gulp of water) | Certain B vitamins, vitamin C (as stated; in fact these vitamins are absorbed mainly by specific carrier proteins, Said 2011) |
-| **Receptor-mediated endocytosis** | In | Receptors bind a specific molecule, then the cell wraps and pulls it in | LDL binding the LDL receptor |
-| **Exocytosis** | Out | Vesicle fuses with the membrane and releases contents | Beta cell releasing insulin when glucose rises; nerve-to-cell neurotransmitter release |
-| **Transcytosis** | In then out | Endocytosis on one side, exocytosis on the other; passes through without interacting with the cell | Gut absorption of small peptides (as stated; in fact di- and tripeptides enter gut cells through the PepT1 transporter, Smith 2013) |
+| **Phagocytosis** (cell eating) | In | The cell swallows a particle | Phagocytes (cleaner cells of the immune system) swallowing particles |
+| **Pinocytosis** (cell drinking) | In | The membrane pinches off a bubble of nearby dissolved molecules (not a gulp of water) | Certain B vitamins, vitamin C (as he says; in fact these vitamins are absorbed mainly by specific carrier proteins, Said 2011) |
+| **Receptor-mediated endocytosis** | In | Receptors grab a specific molecule, then the cell wraps around it and pulls it in | LDL attaching to the LDL receptor |
+| **Exocytosis** | Out | A vesicle merges with the membrane and releases what is inside | A beta cell in the pancreas releasing insulin when blood sugar rises; a nerve releasing a chemical messenger (neurotransmitter) to the next cell |
+| **Transcytosis** | In, then out | Taken in on one side, released on the other; passes through without affecting the cell | Absorbing small protein pieces (peptides) in the gut (as he says; in fact pieces of two or three amino acids enter gut cells through a transporter called PepT1, Smith 2013) |
 
-- **LDL is not cholesterol itself:** Bikman describes it as a large particle of fats and proteins; the cell takes it in to access the cholesterol and fats it carries, because cholesterol is "a molecule for life." ✅ (Goldstein 2009)
+- **LDL is not cholesterol itself.** Bikman describes it as a large particle of fats and proteins. The cell takes it in to get at the cholesterol and fats it carries, because cholesterol is "a molecule for life." ✅ (Goldstein 2009)
 
 ## Punchlines & Quotable Facts (Lecture 2)
-- **Molecules never stop moving;** a gradient is just crowded molecules randomly spreading out. No instruction required.
-- **More than 10 times more potassium inside the cell than outside** — held only by spending energy.
-- **Diffusion moves the solute; osmosis moves the water.** End result of osmosis: matched concentration, unmatched volume.
-- **"Diabetes" means excess urine** — caused by glucose osmotically holding water in the kidney tubule.
-- **Blocking SGLT1 gives diarrhea; blocking SGLT2 gives polyuria and UTIs** — both are osmosis plus bacteria-feeding glucose, not random side effects.
-- **One gut cell uses all three transport types:** pump, symporter, uniporter.
-- **Muscle has a back door:** contraction opens glucose transporters without insulin.
-- **LDL gets in by receptor-mediated endocytosis** — the cell "knocks, then wraps around."
+- **Molecules never stop moving.** A gradient is just crowded molecules spreading out by chance. No instructions needed.
+- **More than 10 times more potassium inside the cell than outside**, held there only by spending energy.
+- **Diffusion moves the dissolved substance; osmosis moves the water.** The end of osmosis: matched concentration, unmatched volume.
+- **"Diabetes" means too much urine**, caused by glucose holding water in the kidney tube by osmosis.
+- **Blocking SGLT1 gives diarrhea; blocking SGLT2 gives heavy urination and UTIs.** Both come from osmosis plus glucose feeding bacteria, not from random side effects.
+- **One gut cell uses all three kinds of transport:** pump, symporter, uniporter.
+- **Muscle has a back door:** contracting opens its sugar doors without insulin.
+- **LDL gets in by receptor-mediated endocytosis:** the cell "knocks, then wraps around."
 
 ## Key Corrections to Carry Forward
-- 🔴 Assuming water and solute movement are the same thing: diffusion is solute movement, osmosis is water movement, and osmosis ends with equal concentration but *unequal volume*.
-- 🔴 Assuming glucose entry always needs insulin: only muscle and fat (GLUT4-type) are insulin-dependent; the liver, brain, kidney and others use always-open transporters, and exercising muscle can bypass insulin.
-- 🔴 Assuming gradient-driven movement is directed: it is random motion plus crowding; only going *against* a gradient costs energy.
-- 🔴 Assuming "cell drinking" (pinocytosis) is water uptake: it is vesicle uptake of dissolved molecules, and water itself moves by osmosis.
-- 🔴 Assuming LDL is cholesterol: it is a fat-and-protein carrier particle that cells take up via receptor-mediated endocytosis.
+- 🔴 Thinking water movement and solute movement are the same: diffusion moves the solute, osmosis moves the water, and osmosis ends with equal concentration but *unequal volume*.
+- 🔴 Thinking glucose always needs insulin to enter a cell: only muscle and fat (GLUT4 type) depend on insulin. The liver, brain, kidney and others use doors that are always open, and exercising muscle can skip insulin.
+- 🔴 Thinking movement down a gradient is directed: it is random motion plus crowding. Only moving *against* a gradient costs energy.
+- 🔴 Thinking "cell drinking" (pinocytosis) means taking in water: it is taking in dissolved molecules in a vesicle. Water itself moves by osmosis.
+- 🔴 Thinking LDL is cholesterol: it is a carrier particle of fat and protein that cells take in by receptor-mediated endocytosis.
 
 ## Practical Takeaway
-The same two physical rules explain most of the lecture: things flow down gradients for free, and water follows solute. Drug side effects (SGLT inhibitors), clinical dangers (water intoxication, wrong IV bag, edema), and insulin biology (which cells wait for insulin) all fall out of those rules plus the transporter toolkit.
+The same two physical rules explain most of the lecture: things flow from crowded to empty for free, and water follows dissolved substances. Drug side effects (SGLT blockers), medical dangers (water intoxication, the wrong IV bag, swelling) and insulin biology (which cells wait for insulin) all come from those rules plus the set of doors and pumps.
 
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. After a starchy meal, glucose flows into the liver with no insulin and no energy spent, while in muscle and fat it needs insulin. What explains the difference?**
-A. The liver spends ATP to pull glucose in, while muscle and fat do not
-B. Glucose diffuses only into cells that are larger in volume
-C. \* The liver's glucose transporters are always open, so glucose simply moves down its gradient; muscle and fat keep their GLUT4-type transporters inside the cell until insulin signals them to surface
-*Why C: this is the passive-transport example plus the insulin-dependent transporter point from the lecture; gradient-driven entry costs no energy, and insulin acts as the gate only in muscle and fat.*
+A. The liver spends ATP (the cell's energy currency) to pull glucose in, while muscle and fat do not
+B. Glucose spreads only into cells that are larger
+C. \* The liver's sugar doors are always open, so glucose simply flows from high to low; muscle and fat keep their GLUT4 doors inside the cell until insulin signals them to come to the surface
+*Why C: this is the lecture's passive-transport example plus the point about insulin-dependent doors. Entry down a gradient costs no energy, and insulin acts as the gatekeeper only in muscle and fat.*
 
-**2. A patient on an SGLT2 inhibitor urinates heavily and is prone to UTIs. Which explanation fits the lecture?**
-A. \* Blocking SGLT2 leaves glucose in the kidney tubule, whose osmotic pull holds water there (more urine), and the glucose in the urinary tract feeds bacteria
-B. SGLT2 inhibitors damage the bladder lining directly, so bacteria enter more easily
-C. SGLT2 inhibitors block aquaporin water channels, which causes urine to build up
-*Why A: the lecture ties both effects to retained glucose, osmosis pulling water in, and bacteria using glucose as fuel.*
+**2. A patient on an SGLT2 blocker urinates heavily and gets UTIs easily. Which explanation fits the lecture?**
+A. \* Blocking SGLT2 leaves glucose in the kidney tube, its osmotic pull holds water there (more urine), and the glucose in the urinary tract feeds bacteria
+B. SGLT2 blockers damage the bladder lining directly, so bacteria get in more easily
+C. SGLT2 blockers block the water channels (aquaporins), so urine builds up
+*Why A: the lecture links both effects to glucose left behind, osmosis pulling water in, and bacteria using glucose as fuel.*
 
-**3. Someone drinks a huge volume of pure water. What happens to their red blood cells, and why?**
-A. They shrink, because the ECF becomes too concentrated and water leaves the cells
-B. \* They swell and can burst, because the diluted ECF is hypotonic, so water moves by osmosis into the more concentrated cells
-C. They stay normal, because cell membranes block water and only allow solutes through
-*Why B: the lecture says water moves first, and a hypotonic ECF drives water into cells; extreme dilution can burst them, which is why water-drinking contests have killed people.*
+**3. Someone drinks a huge amount of plain water. What happens to their red blood cells, and why?**
+A. They shrink, because the fluid outside becomes too concentrated and water leaves the cells
+B. \* They swell and can burst, because the diluted fluid outside is hypotonic, so water moves by osmosis into the more concentrated cells
+C. They stay normal, because cell membranes block water and only let dissolved substances through
+*Why B: the lecture says water moves first, and a too-diluted outside fluid drives water into cells. Extreme dilution can burst them, which is why water-drinking contests have killed people.*
 
-**4. In the gut epithelial cell, why can sodium enter through SGLT1 passively and carry glucose along with it?**
+**4. In the gut cell, why can sodium enter through SGLT1 without spending energy and carry glucose along with it?**
 A. Because SGLT1 is a channel that is always open to both molecules
-B. Because the gut lumen has an energy source that pushes sodium into the cell
-C. \* Because the sodium-potassium pump on the blood side keeps intracellular sodium very low, creating a gradient that sodium runs down, with glucose coupled to it through the symporter
-*Why C: the lecture shows the pump (active) setting up the sodium gradient that the symporter then exploits; the symporter requires both molecules to be bound, so it is not an open channel.*
+B. Because the inside of the gut has an energy source that pushes sodium into the cell
+C. \* Because the sodium-potassium pump on the blood side keeps sodium inside the cell very low, creating a slope that sodium runs down, with glucose linked to it through the symporter
+*Why C: the lecture shows the pump (which costs energy) setting up the sodium difference that the symporter then uses. The symporter needs both molecules attached, so it is not an open channel.*
 
 ## Open Threads
-- **Cellular energy (what pays for active transport)** — explicitly deferred to later lectures; the Metabolic Mechanisms chapter should cover it.
-- **Nerve signaling and channel gating in depth** — Bikman points to his Fundamentals of Physiology course.
-- **The next lecture is the Central Dogma** (DNA to RNA to protein).
-- **Verify later:** the pinocytosis examples (B vitamins, vitamin C) and the kidney-metabolic-rate figure. Audit result: the vitamins use specific carriers rather than pinocytosis (Said 2011), and the kidney runs at about 30 times resting muscle per kilogram (Wang 2010).
+- **Cell energy (what pays for active transport):** saved for later lectures; the Metabolic Mechanisms chapter should cover it.
+- **Nerve signals and how channels open, in depth:** Bikman points to his Fundamentals of Physiology course.
+- **The next lecture is the Central Dogma** (DNA makes RNA, RNA makes protein).
+- **To check later:** the pinocytosis examples (B vitamins, vitamin C) and the kidney energy figure. Audit result: the vitamins use specific carriers rather than pinocytosis (Said 2011), and the kidney runs at about 30 times resting muscle per kilogram (Wang 2010).
 
 ## What Was Deliberately Cut (Self-Audit)
-- Personal commentary and humor: the Itsy Bitsy Spider and marathon-aid-station imagery beyond one line, the water-balloon-kid aside, his comments on his own aging skin and lecturing posture.
-- Recap of Ch.1 content that opens and closes the lecture (cell theory, prokaryotes vs. eukaryotes, organelles); already covered in the Ch.1 note.
-- Repeated restatements of the same U-tube and two-container examples, condensed to one version each.
-- The detailed step-by-step narration of the gut cell's three transporters, condensed into a numbered list.
+- Personal comments and humor: the Itsy Bitsy Spider and marathon food-station pictures beyond one line, the aside about a kid with a water balloon, his remarks on his own aging skin and how he stands when lecturing.
+- The recap of Ch.1 at the start and end of the lecture (cell theory, the two families of cells, organelles); already covered in the Ch.1 note.
+- Repeated versions of the same U-tube and two-container examples, cut down to one each.
+- The detailed step-by-step story of the gut cell's three transporters, cut down to a numbered list.
+
+**The point to remember: things flow from crowded to empty for free, water follows dissolved substances, and a few kinds of doors and pumps decide what gets into a cell, which explains diabetes symptoms and drug side effects alike.**
 
 ---
 **References:**
