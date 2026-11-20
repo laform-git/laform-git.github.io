@@ -3,6 +3,8 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry" (he calls it "The Secrets of Big Pharma: How To Be a Better Patient"), Lecture 5 (transcript). Fifth of eight lectures; it steps back from the 1962 Kefauver endpoint of Ch.4 into the 1950s "chemical calm" and runs forward to the opioid era, then hands off to Ch.6 on political capture. Transcript complete: it ends on Posner's preview of the next lecture.*
 
+**In plain words:** from the 1950s to the 1970s, drug companies learned to turn everyday feelings (stress, tiredness, weight, getting older) into medical problems and sell a pill for each one, mostly to women, through a profession that was almost all men. Miltown, diet amphetamines, Librium, Valium and menopause hormones each looked safe at first; dependence and harm came out later. Posner shows the same method being used again in the 1990s to sell the painkiller OxyContin, which helped start the opioid crisis. His facts are marked ✅ and his opinions 🟡; many of his numbers have no source given.
+
 **Words in this note:**
 - **DNA**: the genetic code inside each cell
 - **FDA**: U.S. Food and Drug Administration
@@ -14,40 +16,40 @@
 - **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
 
 ## Why This Matters
-This is the thematic hinge of the course. Instead of a straight timeline, Posner ties together three product waves (tranquilizers, amphetamines, hormones) and the later opioid wave by one method: take a normal human experience (stress, fatigue, weight, aging, pain), redefine it as a medical problem, sell a pill as the safe fix, and stay quiet about dependence until it cannot be ignored. His specific angle is **gendered marketing**: in the 1950s to 1970s the target was women, prescribed to by a profession that was about 95% male. Posner is an investigative journalist (author of *Pharma*), not a clinician: his historical facts are marked ✅ when clearly stated, his interpretations 🟡. Many numbers are lecture claims without a cited source.
+This lecture ties the whole course together. Instead of a straight timeline, Posner links three waves of products (tranquilizers, amphetamines, hormones) and the later opioid wave by one method. Take a normal human experience (stress, tiredness, weight, aging, pain); redefine it as a medical problem; sell a pill as the safe fix; and keep quiet about dependence until it can no longer be ignored. His particular angle is **marketing aimed at one sex**: from the 1950s to the 1970s the target was women, who were prescribed drugs by a profession that was about 95% male. Posner is an investigative journalist (author of *Pharma*), not a doctor: his historical facts are marked ✅ when clearly stated, his interpretations 🟡. Many numbers are claims from the lecture without a source.
 
 ## The Setup — The "Age of Anxiety" Becomes a Market
-- Post-World War II America is prosperous but anxious about rapid change; Posner cites Auden's poem *The Age of Anxiety*, Bernstein's symphony of the same name, and Time/Newsweek articles using the phrase. ✅
-- Pharma's insight: if emotional discomfort could be **medicalized**, it could be sold a chemical solution. Posner calls this "pathologizing normal emotion." 🟡 (his framing)
-- Starting point, barbiturates: heavy downers, dependence-forming, dangerous with alcohol. Lilly's "Secanol" (transcript spelling; the brand is **Seconal**, secobarbital: López-Muñoz 2005) was the top seller into the early 1950s. ✅
-- Posner restates his course thesis: the industry's DNA is in addictive products (Civil War morphine onward), and when a new product turns out to be addictive, companies "bury the information until they can't ignore it anymore." 🟡
+- America after World War II is well off but anxious about fast change. Posner cites Auden's poem *The Age of Anxiety*, Bernstein's symphony of the same name, and Time and Newsweek articles using the phrase. ✅
+- The drug industry's insight: if emotional discomfort could be **medicalized** (treated as an illness), a chemical answer could be sold for it. Posner calls this "pathologizing normal emotion," that is, turning normal feelings into a disease. 🟡 (his framing)
+- The starting point was barbiturates: heavy "downers" (calming, sleep-inducing drugs) that cause dependence and are dangerous with alcohol. Lilly's "Secanol" (the transcript's spelling; the brand is **Seconal**, secobarbital: López-Muñoz 2005) was the top seller into the early 1950s. ✅
+- Posner repeats his course argument: the industry's DNA lies in addictive products (from Civil War morphine on), and when a new product turns out to be addictive, companies "bury the information until they can't ignore it anymore." 🟡
 
 ## Thorazine to Miltown — Inventing the "Mild Tranquilizer"
 
 | Drug | Maker | Key numbers (as stated) |
 | --- | --- | --- |
-| Thorazine | Smith Kline (rights bought from French discovery, 1953; 🟡 US clinical use began in 1954: López-Muñoz 2005) | 3 million prescriptions in year one; 80% by psychiatrists, mostly in asylums; 99.6% of US tranquilizer sales in 1954–55 |
+| Thorazine | Smith Kline (bought the rights to the French discovery, 1953; 🟡 US medical use began in 1954: López-Muñoz 2005) | 3 million prescriptions in year one; 80% by psychiatrists, mostly in asylums (mental hospitals); 99.6% of US tranquilizer sales in 1954–55 |
 | Miltown / Equanil (chemical twins) | Carter Products / Wyeth (American Home Products) | From under 1% to 70% of tranquilizer sales in one year; 36 million prescriptions, one-third of all prescriptions in 1957; 1 in 20 Americans had tried it within two years |
 
-- Thorazine origin: Posner says a French surgeon found it by accident while looking for a malaria cure. 🟡 His account. Evidence check: partly right. Phenothiazines had been used as antimalarials before 1940, but chlorpromazine was made at Rhône-Poulenc in December 1950 during antihistamine research; the French navy surgeon Henri Laborit used it in anaesthesia, and psychiatrists adopted it in 1952 (López-Muñoz 2005).
-- **Arthur Sackler's brief:** a hit drug must be prescribed by ordinary doctors, not psychiatrists. He wanted "Thorazine light," an "emotional aspirin," ultimately a lifestyle pill taken not for illness but to feel better about everyday life. ✅ (Posner cites Sackler's notes)
-- Miltown came from **Carter Products**, a consumer company (Carter's Little Liver Pills, Nair, Arrid), not a Sackler client. Named after the New Jersey testing location. Carter sat on it for nearly a year, doubting a market existed. ✅
-- **The regulatory naming trick:** Carter rejected "tranquilizer" (too Thorazine) and "barbiturate," and proposed a new FDA category, **"mild tranquilizer."** With nothing else in that category, doctors assumed it was safe. ✅
-- Marketing: a New York symposium, bound proceedings mailed to 153,000 US doctors (Sackler's technique). Schwab's drugstore in Hollywood sold out 250,000 pills in four months; Milton Berle joked he would become "Miltown Berle"; Norman Mailer, Tallulah Bankhead and Tennessee Williams praised it. ✅
-- Cultural twist: people **bragged** about taking Miltown as a sign they were busy and successful. ✅
-- 1958 AMA convention, San Francisco: Salvador Dalí (whose wife Gala was a user) built a 60-foot walk-through "dream state" installation; $100,000 total, $60,000 his fee; later destroyed. ✅
-- Ads to doctors claimed "Proven, Scientific, Selective" before any such proof was required, and pushed it for pregnancy, allergic patients, chronic disease and "battered parent syndrome." ✅
-- (Miltown's 1955 launch by Carter Products came with a huge marketing blitz, making it one of the first celebrity blockbuster drugs: Herzberg 2011.)
-- The problem: Miltown was "barbiturates light": high dependence and overdose risk with alcohol, later psychomotor dysfunction (stumbling, dropping things). This set Posner's template: hit, then problems, then sales fall, then a "new and improved" replacement. 🟡 (his pattern)
+- Where Thorazine came from: Posner says a French surgeon found it by accident while looking for a cure for malaria. 🟡 His account. Evidence check: partly right. Phenothiazines (the chemical family) had been used against malaria before 1940, but chlorpromazine was made at Rhône-Poulenc in December 1950 during research on antihistamines (allergy drugs). The French navy surgeon Henri Laborit used it in anaesthesia, and psychiatrists took it up in 1952 (López-Muñoz 2005).
+- **Arthur Sackler's goal:** a hit drug must be prescribed by ordinary family doctors, not psychiatrists. He wanted "Thorazine light," an "emotional aspirin," and in the end a lifestyle pill taken not for illness but to feel better about everyday life. ✅ (Posner cites Sackler's notes)
+- Miltown came from **Carter Products**, a consumer-goods company (Carter's Little Liver Pills, Nair, Arrid), not one of Sackler's clients. It was named after the New Jersey town where it was tested. Carter sat on it for nearly a year, doubting there was a market. ✅
+- **The naming trick with the regulator:** Carter rejected "tranquilizer" (too much like Thorazine) and "barbiturate," and proposed a new FDA category, **"mild tranquilizer."** With nothing else in that category, doctors assumed it was safe. ✅
+- Marketing: a New York symposium (expert meeting), with the bound proceedings mailed to 153,000 US doctors (Sackler's technique). Schwab's drugstore in Hollywood sold out of 250,000 pills in four months. The comedian Milton Berle joked he would become "Miltown Berle"; Norman Mailer, Tallulah Bankhead and Tennessee Williams praised it. ✅
+- A cultural twist: people **bragged** about taking Miltown, as a sign that they were busy and successful. ✅
+- The 1958 AMA convention in San Francisco: Salvador Dalí (whose wife Gala took it) built a 60-foot walk-through "dream state" display; it cost $100,000 in total, $60,000 of it his fee; it was later destroyed. ✅
+- Ads to doctors claimed "Proven, Scientific, Selective" before any such proof was required, and pushed it for pregnancy, allergic patients, long-term illness and "battered parent syndrome." ✅
+- (Carter Products launched Miltown in 1955 with a huge marketing blitz, making it one of the first celebrity blockbuster drugs: Herzberg 2011.)
+- The problem: Miltown was "barbiturates light." It carried a high risk of dependence and of overdose with alcohol, and later showed psychomotor problems (trouble with movement: stumbling, dropping things). This set Posner's pattern: a hit, then problems, then falling sales, then a "new and improved" replacement. 🟡 (his pattern)
 
 ## The Executive Monkey — Bad Science as Marketing
-- 1950s Walter Reed Army experiments on stress (not pharma-funded): two restrained monkeys shocked every 15–20 seconds; one could press a lever to stop the shocks for both. At autopsy, the lever-pressing **"executive monkey"** had ulcers; the passive one did not. ✅ (Brady 1958) Posner calls it "bad science." 🟡
-- Sackler's use of it: men (breadwinners) are executive monkeys who need anti-anxiety drugs to avoid ulcers and work better; women at home have "exhaustion or frustrations" recast as being overwrought or hysterical, needing calm to be better mothers and wives. ✅ (as Posner describes the pitch)
+- 1950s experiments on stress at Walter Reed Army hospital (not paid for by drug companies): two monkeys, held still, were given an electric shock every 15–20 seconds. One could press a lever to stop the shocks for both. When they were examined after death, the lever-pressing **"executive monkey"** had ulcers; the passive one did not. ✅ (Brady 1958) Posner calls it "bad science." 🟡
+- How Sackler used it: men (the breadwinners) are executive monkeys who need anti-anxiety drugs to avoid ulcers and work better. Women at home have "exhaustion or frustrations," recast as being overwrought or hysterical, and need calming to be better mothers and wives. ✅ (as Posner describes the pitch)
 
 ## The Ads — "Now She Can Cope"
-Posner shows period ads, all aimed at women and housework: Ritalin ("better housework"), Butisol ("Now She Can Cope"), Serax ("You Can't Get Her Free, But You Can Help Her Be Less Anxious"), Mellaril ("She Can Be Reached At Home"), Mornidine for morning sickness, Nervine. ✅ Some ad names are garbled in the transcript ("Blatz") 🟡. His point: no comparable ads showed men on a golf course needing a pill.
+Posner shows ads from the period, all aimed at women and housework: Ritalin ("better housework"), Butisol ("Now She Can Cope"), Serax ("You Can't Get Her Free, But You Can Help Her Be Less Anxious"), Mellaril ("She Can Be Reached At Home"), Mornidine for morning sickness, Nervine. ✅ Some ad names are garbled in the transcript ("Blatz") 🟡. His point: there were no similar ads showing men on a golf course needing a pill.
 
-Posner's Valium "life album" ad: a fictional 35-year-old single woman labeled "psychoneurotic" because she is unmarried. He says there is no such condition. 🟡
+Posner's Valium "life album" ad: an invented 35-year-old single woman labelled "psychoneurotic" because she is not married. He says there is no such condition. 🟡
 
 **Share of prescriptions going to women in the 1960s (as stated):**
 
@@ -59,115 +61,117 @@ Posner's Valium "life album" ad: a fictional 35-year-old single woman labeled "p
 | Amphetamines | 80% |
 
 ## Amphetamines — The Diet Pill Interlude
-- 1960s amphetamines sold as diet pills (mainly to women), "pep pills" and mood elevators. Thousands of **diet clinics** opened, most of them subsidiaries of drug companies. ✅
-- Margin: 100,000 10-mg pills cost the clinic **$71** and sold for **$12,000**. 🟡 (as stated; unverified)
-- By the mid-1960s the government estimated about **half** of diet-clinic amphetamines were diverted to the street, the same pattern later seen with OxyContin. 🟡 (as stated; unverified)
-- FDA template, per Posner: slow and behind. It received reports of "amphetamine-induced psychosis, antisocial behavior, and crippling paranoia," accepted company assurances they were rare, and in 1963 nearly approved CIBA's Dexamyl for **over-the-counter** sale before reversing at the last moment. 🟡 (as stated; we could not verify the Dexamyl episode)
+- In the 1960s amphetamines (stimulants, "speed") were sold as diet pills (mainly to women), "pep pills" and mood lifters. Thousands of **diet clinics** opened, most of them owned by drug companies. ✅
+- The profit: 100,000 10-mg pills cost the clinic **$71** and sold for **$12,000**. 🟡 (as stated; unverified)
+- By the mid-1960s the government estimated that about **half** of diet-clinic amphetamines were leaking out to the street, the same pattern later seen with OxyContin. 🟡 (as stated; unverified)
+- The FDA's pattern, according to Posner: slow and behind. It received reports of "amphetamine-induced psychosis, antisocial behavior, and crippling paranoia," accepted the companies' word that they were rare, and in 1963 nearly approved CIBA's Dexamyl for **over-the-counter** sale (no prescription) before backing off at the last moment. 🟡 (as stated; we could not verify the Dexamyl episode)
 
 ## Librium and Valium — The "Emotional Aspirin" Arrives
-- Hoffmann-La Roche's **Librium** (1960) launched the **benzodiazepines**: a genuinely better side-effect profile than Miltown, with less apparent dependence and alcohol-overdose risk at prescribed doses. Posner's caveat: it was always being compared to the worse drug before it. ✅
-- **Valium** (1963) is a "me-too" of Librium. Roche and Sackler debated cannibalization and decided it would be additive. ✅
+- Hoffmann-La Roche's **Librium** (1960) began the **benzodiazepines** ("benzos," a family of calming drugs). Its side effects really were milder than Miltown's, with less obvious dependence and less risk of overdose with alcohol at prescribed doses. Posner's warning: it was always being compared with the worse drug before it. ✅
+- **Valium** (1963) is a "me-too" of Librium. Roche and Sackler debated whether it would steal Librium's sales and decided it would add to them. ✅
 - Sales: Librium became the No.1 US drug; Valium replaced it, became the **first $100 million and then the first billion-dollar drug**, and stayed the world's No.1 drug for **15 years**. ✅ (as stated; the "first billion-dollar drug" title is unverified here)
-- By around 1970, Posner says, **20% of adult American women** were regular users; 70–80% of benzo prescriptions went to women. ✅ (as stated)
-- The message to women, in Posner's paraphrase of the Sackler/Roche material: anxiety, loneliness or being unheard "are not social problems... They are chemical imbalances." Ad language included "renewed calm," "female nerves," irritability, and "A Tranquil Woman Is a Good Woman." ✅ His summary: "A medicated woman is a manageable woman." 🟡
-- Doctor diagnoses recorded as reasons: hysteria, nerves, domestic fatigue. Posner attributes the bias to a male-dominated profession and low representation of women in medicine. 🟡
-- Culture: the Rolling Stones' "Mother's Little Helper" ("though she's not really ill, there's a little yellow pill"); Jacqueline Susann's *Valley of the Dolls* (Posner says she named Valium "dolls" 🟡). Celebrity dependence cases (Elizabeth Taylor, Elvis Presley) were spun as "some people overdo it." ✅
+- By around 1970, Posner says, **20% of adult American women** took it regularly; 70–80% of benzo prescriptions went to women. ✅ (as stated)
+- The message to women, in Posner's summary of the Sackler and Roche material: anxiety, loneliness or not being listened to "are not social problems... They are chemical imbalances." Ad wording included "renewed calm," "female nerves," irritability, and "A Tranquil Woman Is a Good Woman." ✅ His summary: "A medicated woman is a manageable woman." 🟡
+- Reasons doctors wrote down: hysteria, nerves, domestic fatigue (tiredness from housework). Posner puts this bias down to a profession run by men, with few women doctors. 🟡
+- Culture: the Rolling Stones' "Mother's Little Helper" ("though she's not really ill, there's a little yellow pill"); Jacqueline Susann's *Valley of the Dolls* (Posner says she named Valium "dolls" 🟡). Famous people's dependence (Elizabeth Taylor, Elvis Presley) was explained away as "some people overdo it." ✅
 
 ### When the calm wore off (as stated)
-- Up to **70%** physiological addiction reported in one national survey of doctors (phrasing garbled 🟡).
-- **65%** of long-term users trying to stop had withdrawal problems, including **rebound anxiety** worse than the original anxiety, which drives people back to the drug.
-- Cognitive impairment in **over half** of cases in one on/off study.
-- Misuse with alcohol and later opioids. The FDA was accumulating addiction, withdrawal and cognition reports by the early 1970s but acted slowly. ✅
+- Up to **70%** physical addiction reported in one national survey of doctors (wording garbled 🟡).
+- **65%** of long-term users who tried to stop had withdrawal problems, including **rebound anxiety** (anxiety that comes back worse than before), which drives people back to the drug.
+- Problems with thinking and memory in **over half** of cases in one study of taking and stopping the drug.
+- Misuse with alcohol and, later, opioids. The FDA was collecting reports of addiction, withdrawal and memory problems by the early 1970s but acted slowly. ✅
 
 ## The Playbook (Posner's Summary)
-1. Identify a poorly defined condition, or brand one.
-2. Medicalize normal human experience (stress, discomfort, aging).
-3. Position the drug as universally safe: non-addictive, no downside.
-4. Flood physicians: sponsorships, conferences, ghostwritten articles.
-5. Build cultural demand: celebrities, public figures, make the drug part of the conversation.
+1. Find a poorly defined condition, or invent a name for one.
+2. Turn normal human experience (stress, discomfort, aging) into a medical problem.
+3. Present the drug as safe for everyone: not addictive, no downside.
+4. Flood doctors: sponsorships, conferences, ghostwritten articles.
+5. Build demand in the culture: celebrities, public figures, make the drug part of everyday talk.
 6. When harms appear, blame misuse ("some people overdo it").
 
-🟡 This list is Posner's synthesis; the steps are his framing of the cases above.
+🟡 This list is Posner's own summary; the steps are his reading of the cases above.
 
 ## Hormone Replacement — Medicalizing Menopause
-- Wyeth and others targeted a stage of life every woman who lives long enough goes through. HRT (originally from **pregnant mares' urine**, Premarin) was marketed as anti-aging: skin, hair, sexuality, "recapture your natural femininity." ✅
-- **Robert Wilson**, a star New York gynecologist, wrote ***Feminine Forever***, claiming untreated menopause destroys femininity, sexuality and clear thinking, using his own mother's "revival" on Wyeth's HRT as proof. ✅
-- **Hidden funding:** Wyeth paid for the book's publication, his office and speaking tours. ✅
-- Posner's wife Trisha (author of *This Is Not Your Mother's Menopause*, 2000) interviewed Wilson's son, who said Wilson's wife had breast cancer twice and died of the second; the family and Wyeth kept the first diagnosis quiet so it would not hurt sales. ✅ (as told; single-source family account 🟡)
-- Barbara Seaman's book (about 10 years later) and congressional investigation followed. Early HRT and the 1960 contraceptive pill (called the first lifestyle drug) carried estrogen at **10–15 times** what is considered safe today; blood clots and deaths, and later estrogen-receptive breast cancers, emerged. Companies then lowered doses. ✅
-- Then vs now, per Posner: in the 1960s women were meant to stay on HRT forever; doctors today often aim for about **five years** maximum. ✅ (as stated) 🟡 Evidence check: current guidance sets no fixed five-year limit; it calls for individualized treatment, with longer use for documented reasons such as persistent hot flashes, shared decision-making and periodic re-evaluation (NAMS 2022).
+- Wyeth and others targeted a stage of life every woman who lives long enough goes through. HRT (hormone replacement therapy, first made from **the urine of pregnant mares**, Premarin) was sold as anti-aging: skin, hair, sex life, "recapture your natural femininity." ✅
+- **Robert Wilson**, a star New York gynecologist (women's health doctor), wrote ***Feminine Forever***. He claimed that untreated menopause destroys femininity, sex life and clear thinking, and used his own mother's "revival" on Wyeth's HRT as proof. ✅
+- **Hidden funding:** Wyeth paid for the book's publication, his office and his speaking tours. ✅
+- Posner's wife Trisha (author of *This Is Not Your Mother's Menopause*, 2000) interviewed Wilson's son. He said Wilson's wife had breast cancer twice and died of the second; the family and Wyeth kept the first diagnosis quiet so it would not hurt sales. ✅ (as told; one family member's account 🟡)
+- Barbara Seaman's book (about 10 years later) and an investigation by Congress followed. Early HRT and the 1960 birth-control pill (called the first lifestyle drug) carried estrogen (a female hormone) at **10–15 times** what is considered safe today. Blood clots and deaths came out, and later breast cancers that feed on estrogen. Companies then lowered the doses. ✅
+- Then and now, according to Posner: in the 1960s women were meant to stay on HRT forever; doctors today often aim for about **five years** at most. ✅ (as stated) 🟡 Evidence check: current guidance sets no fixed five-year limit. It calls for treatment fitted to each woman, with longer use for documented reasons such as hot flashes that continue, decisions shared between doctor and patient, and regular review (NAMS 2022).
 
 ## The Bridge to Opioids — New Drug, Old Playbook
-- Arthur Sackler died in 1987 (honored by the advertising industry as a pharma marketing pioneer); his brothers **Raymond and Mortimer** applied the method to **OxyContin** (US approval December 1995; it launched in 1996). ✅ (FDA timeline)
-- Purdue's FDA pitch: a polymer coating releases oxycodone over **12 hours** (its own tests suggested about 8), supposedly reducing abuse. No studies showed that. (🟢 At approval the FDA itself believed slow absorption would mean less abuse potential, though the label warned that crushing and injecting could be lethal: FDA timeline.) Crushing the pill defeated it; tablets went up to **160 mg**. The FDA official who agreed later worked for Purdue. ✅
-- 2001: diversion reports; Appalachian towns of 3,500 people receiving 5 million pills (🟡 town figures as stated, unverified). Reps got the industry's most lavish bonuses, called it less addictive, and pushed off-label uses (osteoarthritis, ordinary back pain). ✅
-- **2007:** Purdue signed a consent agreement, then resumed. Posner links the crisis to roughly **100,000 dead** (as stated). 🟡 Evidence check: in May 2007 Purdue **pleaded guilty** to a felony of misleading doctors and patients and paid $600 million, and three executives paid $34.5 million more (CNN Money 2007). The toll is far higher than 100,000: about **806,000** people died of opioid overdoses in the US from 1999 to 2023, nearly 80,000 in 2023 alone (CDC). These counts cover all opioids, not OxyContin alone.
-- Purdue's defense when toxicology showed OxyContin in overdose deaths: other drugs (benzos, alcohol) were also present, so OxyContin was not "the" cause. ✅
-- **Forbes, 2015:** the Sacklers at **$14 billion**, the "Oxy Clan," a family made rich by one drug. ✅
-- **Key opinion leaders:** a 1980s pain-medicine movement (Dr. Portenoy named) argued opioids were wrongly feared. A short journal letter (Posner says JAMA; "38,000" hospital patients, only two addicted) was cited endlessly though it was not peer-reviewed and tracked no one after discharge. Maxim: if you take opioids truly for pain, you won't get addicted. Speakers' bureaus sent doctors to resort conferences. ✅ Evidence check: the letter was Porter and Jick, *New England Journal of Medicine*, 1980, "Addiction rare in patients treated with narcotics"; it reviewed records of 39,946 hospital patients (close to Posner's 38,000), of whom 11,882 received an opioid, and found **4 cases of addiction** (not JAMA, and not 2). A 2017 analysis found 608 citations, 72% of them using it as evidence that addiction was rare (Porter 1980; Leung 2017; Retraction Watch 2017). The pain-medicine case series by Portenoy and Foley appeared in 1986.
-- Pendulum: today opioids are so feared that Trisha got only Tylenol after breast-cancer surgery about five years ago. ✅
+- Arthur Sackler died in 1987 (honoured by the advertising industry as a pioneer of drug marketing). His brothers **Raymond and Mortimer** used the same method for **OxyContin**, a strong opioid painkiller (US approval December 1995; it launched in 1996). ✅ (FDA timeline)
+- Purdue's pitch to the FDA: a plastic-like coating releases the oxycodone slowly over **12 hours** (its own tests suggested about 8), which was supposed to make it harder to abuse. No studies showed that. (🟢 At approval the FDA itself believed slow absorption would mean less potential for abuse, though the label warned that crushing and injecting could kill: FDA timeline.) Crushing the pill defeated the coating; tablets went up to **160 mg**. The FDA official who agreed later worked for Purdue. ✅
+- 2001: reports of pills leaking to the street; towns in Appalachia with 3,500 people receiving 5 million pills (🟡 town figures as stated, unverified). Sales reps got the most generous bonuses in the industry, called it less addictive, and pushed uses it was not approved for (osteoarthritis, ordinary back pain). ✅
+- **2007:** Purdue signed a consent agreement (a deal with the government), then carried on. Posner links the crisis to roughly **100,000 dead** (as stated). 🟡 Evidence check: in May 2007 Purdue **pleaded guilty** to a serious crime (a felony) of misleading doctors and patients and paid $600 million, and three executives paid $34.5 million more (CNN Money 2007). The death toll is far higher than 100,000: about **806,000** people died of opioid overdoses in the US from 1999 to 2023, nearly 80,000 in 2023 alone (CDC). These counts cover all opioids, not OxyContin alone.
+- Purdue's defence when blood tests after overdose deaths showed OxyContin: other drugs (benzos, alcohol) were also present, so OxyContin was not "the" cause. ✅
+- **Forbes, 2015:** the Sacklers were worth **$14 billion**, the "Oxy Clan," a family made rich by one drug. ✅
+- **Key opinion leaders** (respected doctors who speak for a drug): a 1980s pain-medicine movement (Dr. Portenoy named) argued that doctors feared opioids wrongly. A short letter to a journal (Posner says JAMA; "38,000" hospital patients, only two addicted) was quoted endlessly, though it was not peer-reviewed (checked by other experts) and followed no one after they left hospital. The saying was: if you take opioids truly for pain, you won't get addicted. Speakers' bureaus (paid speaking programs) sent doctors to conferences at resorts. ✅ Evidence check: the letter was Porter and Jick, *New England Journal of Medicine*, 1980, "Addiction rare in patients treated with narcotics." It reviewed the records of 39,946 hospital patients (close to Posner's 38,000), of whom 11,882 received an opioid, and found **4 cases of addiction** (not JAMA, and not 2). A 2017 analysis found 608 citations, 72% of them using it as evidence that addiction was rare (Porter 1980; Leung 2017; Retraction Watch 2017). The pain-medicine case series by Portenoy and Foley appeared in 1986.
+- The pendulum has swung: today opioids are so feared that Trisha got only Tylenol after breast-cancer surgery about five years ago. ✅
 
 ## Punchlines & Quotable Facts (Lecture 5)
 - **"Mild tranquilizer"** was a category Carter asked the FDA to create, and the label alone made doctors think Miltown was safe.
 - **Miltown went from under 1% to 70% of the tranquilizer market in a year;** one-third of all 1957 prescriptions.
 - **"Thorazine light" / "emotional aspirin":** Sackler's goal of a feel-better pill for people who are not ill.
-- **Amphetamines: $71 cost, $12,000 sale** per 100,000 pills through drug-company-owned diet clinics.
-- **The FDA nearly made an amphetamine (Dexamyl) over-the-counter in 1963.**
-- **Valium: first billion-dollar drug, No.1 in the world for 15 years;** 1 in 5 adult American women regular users by about 1970.
-- **"A Tranquil Woman Is a Good Woman."** Actual ad language Posner quotes.
-- **Wyeth secretly funded *Feminine Forever*.**
+- **Amphetamines: $71 cost, $12,000 sale** per 100,000 pills, through diet clinics owned by drug companies.
+- **The FDA nearly made an amphetamine (Dexamyl) available without prescription in 1963.**
+- **Valium: the first billion-dollar drug, No.1 in the world for 15 years;** 1 in 5 adult American women took it regularly by about 1970.
+- **"A Tranquil Woman Is a Good Woman."** Real ad wording Posner quotes.
+- **Wyeth secretly paid for *Feminine Forever*.**
 - **"The tranquilizer and opioid crises are linked by marketing, not just chemistry."**
 - **"If you control a society's definition of normal emotion, you can market the drug."**
 
 ## Key Corrections to Carry Forward
-- 🔴 "Mild" in a drug label means mild: Miltown's "mild tranquilizer" category was a marketing request granted by the FDA, not a measured safety finding.
-- 🔴 "Newer equals safe": each wave (barbiturates, Thorazine, Miltown, benzos, OxyContin) looked safer only next to the one before; dependence surfaced later.
-- 🔴 "Approved means the regulator checked the claims": the FDA accepted the 12-hour, less-abusable OxyContin claim without studies, and (per Posner) nearly made an amphetamine OTC.
-- 🔴 "An expert book is independent": *Feminine Forever* was funded by the HRT maker.
-- 🔴 "It's the other drugs in the toxicology report": a defense Purdue used to deflect from OxyContin.
-- 🔴 "A woman physician is immune to the marketing": Posner says doctors of any gender are targets.
+- 🔴 "Mild" on a drug label means mild: Miltown's "mild tranquilizer" category was a marketing request the FDA granted, not a measured safety finding.
+- 🔴 "Newer means safe": each wave (barbiturates, Thorazine, Miltown, benzos, OxyContin) only looked safer next to the one before; dependence came out later.
+- 🔴 "Approved means the regulator checked the claims": the FDA accepted the claim that OxyContin lasted 12 hours and was harder to abuse without studies, and (according to Posner) nearly made an amphetamine available without prescription.
+- 🔴 "An expert's book is independent": *Feminine Forever* was paid for by the HRT maker.
+- 🔴 "It's the other drugs in the blood test": a defence Purdue used to shift blame away from OxyContin.
+- 🔴 "A woman doctor is immune to the marketing": Posner says doctors of either sex are targets.
 
 ## Practical Takeaway
-Posner's own "smarter patient" list, as study points rather than medical advice (he says "I'm not a doctor"): (1) be cautious when a drug is offered for mood, anxiety, sleep, weight or menopause; (2) ask about non-drug alternatives (his example: German doctors may prescribe black cohosh for menopausal hot flashes, treated as alternative in the US 🟡); (3) be wary of any drug marketed as restoring "balance, calm, or energy"; (4) understand prescribing bias, especially benzos to women; (5) ask whether a drug treats the condition or only masks symptoms, and for how long it is meant to be taken.
+Posner's own "smarter patient" list, as study points rather than medical advice (he says "I'm not a doctor"): (1) be careful when a drug is offered for mood, anxiety, sleep, weight or menopause; (2) ask about options without drugs (his example: German doctors may prescribe black cohosh, an herbal remedy, for menopausal hot flashes, treated as alternative medicine in the US 🟡); (3) be wary of any drug sold as restoring "balance, calm, or energy"; (4) be aware of bias in prescribing, especially benzos to women; (5) ask whether a drug treats the condition or only hides the symptoms, and how long it is meant to be taken.
 
 ## Questions to Learn From (Socratic) — with Answer Options
 **1. Given how Miltown was approved, why did doctors so readily see it as safe?**
 A. Large clinical trials had shown it was non-addictive
 B. \* The FDA, at Carter's request, created a new "mild tranquilizer" category, and the label itself signaled safety with nothing else on the market to compare
 C. It was prescribed mainly by psychiatrists in asylums
-*Why B: Posner stresses that the category name, not evidence, carried the safety message; Thorazine (not Miltown) was the asylum drug.*
+*Why B: Posner stresses that the name of the category, not evidence, carried the safety message; Thorazine (not Miltown) was the asylum drug.*
 
 **2. Given the executive-monkey studies, how did Sackler turn them into marketing?**
 A. \* He cast working men as stressed "executive monkeys" needing anti-anxiety drugs to prevent ulcers, and recast women's frustrations at home as nerves needing calm
 B. He used them to prove tranquilizers prevent ulcers in monkeys
 C. He argued only the passive monkey needed medication
-*Why A: the studies were Army stress research, not drug trials; Sackler borrowed the story to sell drugs along gender lines.*
+*Why A: the studies were Army research on stress, not drug trials; Sackler borrowed the story to sell drugs differently to men and women.*
 
 **3. Given the amphetamine diet-clinic story, which pattern does Posner say repeats with OxyContin?**
 A. Prices fall once generics arrive
 B. The FDA moves quickly once reports arrive
 C. \* A widely prescribed addictive drug gets diverted to the street (about half of diet-clinic amphetamines by the mid-1960s), while the regulator lags
-*Why C: Posner explicitly links amphetamine diversion to OxyContin diversion, with the FDA slow in both.*
+*Why C: Posner openly links amphetamines leaking to the street with OxyContin doing the same, with the FDA slow both times.*
 
 **4. Given the *Feminine Forever* story, what is the lesson for evaluating a medical source?**
 A. Books by prominent specialists can be trusted without question
 B. \* Check funding: Wyeth paid for the book, office and tours, and the family hid a breast-cancer diagnosis that might have hurt sales
 C. Menopause symptoms are always best treated with lifelong HRT
-*Why B: the hidden sponsor and concealed adverse outcome are Posner's point; today's practice limits HRT duration rather than "forever."*
+*Why B: the hidden sponsor and the hidden harm are Posner's point; today's practice limits how long HRT is taken rather than "forever."*
 
 ## Open Threads
-- ✅ **Transcript complete:** it ends on Posner's preview of the next lecture (political capture, erosion of safeguards). The Dropbox file for Lecture 6 carries the same text as Lecture 5, so Ch.6 still needs its own transcript.
-- **Opioid-addiction letter:** checked: Porter and Jick, NEJM 1980, 4 addictions among 11,882 opioid-treated patients (39,946 records reviewed) (see evidence check above).
-- **Thorazine's origin story:** checked: antihistamine research at Rhône-Poulenc (1950); Laborit was the surgeon; phenothiazines had earlier antimalarial use.
-- **Benzo dependence numbers** (70%, 65%, over half) come without named studies.
+- ✅ **Transcript complete:** it ends on Posner's preview of the next lecture (political capture, the wearing away of safeguards). The Dropbox file for Lecture 6 holds the same text as Lecture 5, so Ch.6 still needs its own transcript.
+- **The opioid-addiction letter:** checked: Porter and Jick, NEJM 1980, 4 addictions among 11,882 patients given opioids (39,946 records reviewed) (see evidence check above).
+- **Where Thorazine came from:** checked: antihistamine research at Rhône-Poulenc (1950); Laborit was the surgeon; phenothiazines had earlier been used against malaria.
+- **The benzo dependence numbers** (70%, 65%, over half) come without named studies.
 - **Political capture** (the FDA official who joined Purdue, the revolving door) is promised for Ch.6.
 
 ## What Was Deliberately Cut (Self-Audit)
-- Posner's opening aside about the 23-hour audiobook and course selectivity.
-- The Getty photo-rights aside on the Dalí installation and the "multimillion-dollar art" speculation.
+- Posner's opening aside about the 23-hour audiobook and how selective the course is.
+- The aside about Getty photo rights for the Dalí display and the guessing about "multimillion-dollar art."
 - Trisha's reaction to the Valium ads and Posner's Marcus Welby joke.
-- Repeated restatements of the "medicalize discomfort" thesis; kept once in the Playbook.
+- Repeated restatements of the "medicalize discomfort" argument; kept once in the Playbook.
 - Personal stories of parents who lost children to OxyContin, beyond the death-toll line.
+
+**The point to remember: when a pill is sold to fix a normal part of life, ask who defined the problem, what the evidence is, and what happens when you try to stop taking it.**
 
 ---
 **References:**
