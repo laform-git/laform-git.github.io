@@ -4,6 +4,8 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 1 (transcript). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series, but a separate course — whole-body function built up from the cell. New series, new note thread.*
 
+**In plain words:** the body is always correcting itself to stay within safe limits, like a thermostat keeping a room warm. Cells also keep different amounts of salts inside and outside, and they spend energy to keep it that way. When those salts rush in and out, they create the tiny electrical signals that run nerves, muscles and the heart. This lecture teaches those three ideas, which the rest of the course builds on.
+
 **Words in this note:**
 - **ATP**: adenosine triphosphate, the cell's energy currency
 - **ADA**: American Diabetes Association
@@ -15,148 +17,150 @@
 - **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
 
 ## Why This Matters
-This lecture is the vocabulary layer for the entire physiology course: nervous system, muscle, heart and lungs, gut, endocrine, and fat all reuse the three ideas introduced here — feedback loops that restore a set point, gradients that need ATP to maintain, and electrical signals made of moving ions.
+This lecture gives the basic words for the whole physiology course. The nervous system, muscle, heart and lungs, gut, hormones and fat all reuse the three ideas introduced here: feedback loops that bring the body back to a set point, differences in concentration (gradients) that need ATP, the cell's energy molecule, to keep up, and electrical signals made of moving ions (charged salts).
 
-## Scope-Setting Claim — The Body Is Many Levels, One Whole
-Physiology studies the whole organism: molecules → cells → tissues/organs → organ systems → body. Bikman's course order: cell physiology → peripheral nervous system → skeletal muscle → cardiopulmonary → gastrointestinal → endocrine (his stated favorite). ✅ His framing: the miracle is not only that the body works but that it goes right *as often as it does*, given how many things could go wrong.
+## The Big Idea — The Body Is Many Levels, One Whole
+Physiology is the study of how the whole body works: molecules → cells → tissues and organs → organ systems → the body. Bikman's course order: the cell → the nerves outside the brain and spinal cord (peripheral nervous system) → muscles that move the skeleton → heart and lungs → gut → hormones (his stated favorite). ✅ His view: the miracle is not only that the body works, but that it goes right *as often as it does*, given how many things could go wrong.
 
 ## Punchlines & Quotable Facts (Lecture 1)
-- **"Balance is death."** — a cell *needs* different concentrations inside versus outside; equilibrium means the cell stops functioning.
-- **The entire bloodstream holds only about a teaspoon of glucose** — a single candy bar can carry roughly 10x that, which is why a fast-acting correction signal (insulin) is non-negotiable. 🟢 Evidence check: a 70 kg adult's blood holds about 4 g of glucose, roughly a teaspoon (Wasserman 2009); a full-size candy bar typically carries about 20–30 g of sugar, so 5–7x is closer than 10x.
-- **Sodium is about 10x higher outside the cell; potassium is about 30x higher inside.** The cell spends energy keeping this imbalance, not removing it.
-- **Myelin makes the signal about 50x faster** than the same axon without it — and myelin is described as cholesterol- and fat-heavy. 🟢 Evidence check: the standard textbook range is 5- to 50-fold, so 50x is the upper end (Guyton & Hall); myelin has the highest cholesterol content in the brain, and cholesterol is essential for building it (Saher 2005).
-- **"Water chases electrolytes."** — wherever ions go, water follows through channels.
-- **Lidocaine numbs by blocking voltage-gated sodium channels**, so the nerve cannot depolarize and no signal forms. ✅ (Hille 1977)
-- **Cellular energy = molecules that let the cell do work** (ATP), not "energy" in the power-plant sense.
+- **"Balance is death."** A cell *needs* different concentrations inside and outside. If everything evened out (equilibrium), the cell would stop working.
+- **All the blood in the body holds only about a teaspoon of glucose (sugar).** A single candy bar can carry roughly 10 times that, which is why a fast-acting correction signal (insulin) is essential. 🟢 Evidence check: a 70 kg adult's blood holds about 4 g of glucose, roughly a teaspoon (Wasserman 2009). A full-size candy bar typically carries about 20–30 g of sugar, so 5–7 times is closer than 10 times.
+- **Sodium is about 10 times higher outside the cell; potassium is about 30 times higher inside.** The cell spends energy keeping this imbalance, not removing it.
+- **Myelin makes the nerve signal about 50 times faster** than on the same nerve fiber without it. Myelin, the fatty coating around nerve fibers, is described as rich in cholesterol and fat. 🟢 Evidence check: the standard textbook range is 5 to 50 times, so 50 is the top end (Guyton & Hall). Myelin has the highest cholesterol content in the brain, and cholesterol is essential for building it (Saher 2005).
+- **"Water chases electrolytes."** Wherever the body's salts (electrolytes) go, water follows through channels.
+- **Lidocaine numbs by blocking the sodium channels that open with voltage**, so the nerve cannot fire and no signal forms. ✅ (Hille 1977)
+- **Cell energy means molecules that let the cell do work** (ATP), not "energy" in the power-plant sense.
 
 ## Homeostasis and Feedback
-**Homeostasis:** the body constantly snaps back toward a set point (normal) across countless variables.
-- **Body temperature:** held within a couple of degrees, about 36–38 C ✅
-- **pH:** "too acidic" claims aside, it is held in an exceptionally narrow range (arterial blood about 7.35–7.45) ✅
-- **Blood glucose:** about 70–110 mg/dL; far outside that range is acutely dangerous ✅ 🟢 Evidence check: the ADA defines normal fasting glucose as below 100 mg/dL, and up to about 140 mg/dL two hours after a glucose load is still normal (ADA 2025).
+**Homeostasis:** the body constantly pulls itself back toward a set point (normal) for countless measures.
+- **Body temperature:** held within a couple of degrees, about 36–38 C. ✅
+- **pH (how acidic or alkaline the blood is):** whatever the "too acidic" claims say, it is held in an extremely narrow range (blood in the arteries about 7.35–7.45). ✅
+- **Blood glucose:** about 70–110 mg/dL; far outside that range is immediately dangerous. ✅ 🟢 Evidence check: the American Diabetes Association (ADA) defines normal fasting blood sugar as below 100 mg/dL, and up to about 140 mg/dL two hours after a sugar drink is still normal (ADA 2025).
 
-**Negative feedback** (the default): sense a change → elicit a response → response restores the starting point and turns itself off. Three components:
+**Negative feedback** (the usual kind): notice a change → respond → the response brings things back to the starting point and then switches itself off. It has three parts:
 
-| Component | Job | Thermostat | Blood glucose | Childbirth (positive) |
+| Part | Job | Thermostat | Blood glucose | Childbirth (positive) |
 | --- | --- | --- | --- | --- |
-| **Sensor** | Measures the variable | Thermometer | Pancreatic beta cell | Cervix (stretch) |
-| **Control center** | Compares reading to the set point | Thermostat | Pancreatic beta cell | Hypothalamus |
-| **Effector** | Produces the corrective response | Furnace / A/C | Insulin release, opening doors for glucose to enter cells | Oxytocin → uterine contraction |
+| **Sensor** | Measures the thing | Thermometer | Beta cell in the pancreas | Cervix (stretch) |
+| **Control center** | Compares the reading to the set point | Thermostat | Beta cell in the pancreas | Hypothalamus (a control area at the base of the brain) |
+| **Effector** | Makes the correction | Furnace / air conditioning | Insulin release, opening doors so glucose can enter cells | Oxytocin → the womb (uterus) contracts |
 
-- In real physiology the three parts are often lumped together — the beta cell is sensor, control center, and source of the effector all at once. ✅
-- **Positive feedback:** a signal that ramps itself up (microphone too close to the speaker). Uncommon, always temporary, needs a precise purpose and a way to turn off. ✅
-- **Childbirth example:** baby presses on cervix → stretch signal to hypothalamus → oxytocin → uterine contractions → more stretch → more oxytocin, until birth ends the loop. ✅ Bikman notes most positive-feedback examples occur in the female body, with fewer in the male body. 🔴 Evidence check: this is his framing; positive loops also run in every body, e.g. the clotting cascade and the sodium-channel opening that drives each action potential (Guyton & Hall).
-- ✅ The transcript says the hypothalamus "releases" oxytocin. Anatomically, oxytocin is made by hypothalamic neurons (supraoptic and paraventricular nuclei) and released into the blood from their nerve endings in the posterior pituitary, so the hypothalamus is the right control center (Gimpl & Fahrenholz 2001).
+- In real bodies the three parts are often rolled into one. The beta cell is the sensor, the control center and the source of the effector all at once. ✅
+- **Positive feedback:** a signal that keeps boosting itself (like a microphone too close to a speaker). It is uncommon, always temporary, and needs a precise purpose and a way to switch off. ✅
+- **The childbirth example:** the baby presses on the cervix → a stretch signal goes to the hypothalamus → oxytocin is released → the uterus contracts → more stretch → more oxytocin, until the birth ends the loop. ✅ Bikman notes that most examples of positive feedback happen in the female body, with fewer in the male body. 🔴 Evidence check: this is his framing. Positive loops also run in every body, for example blood clotting and the sodium-channel opening that drives each nerve signal (Guyton & Hall).
+- ✅ The transcript says the hypothalamus "releases" oxytocin. Strictly, oxytocin is made by nerve cells in the hypothalamus (in areas called the supraoptic and paraventricular nuclei) and released into the blood from their nerve endings in the back part of the pituitary gland. So the hypothalamus is the right control center (Gimpl & Fahrenholz 2001).
 - ✅ Even positive feedback serves homeostasis: the end result (baby delivered, cervix no longer stretched) is a return to a stable state.
 
-## Membrane Transport
-The cell membrane is a **lipid bilayer** loaded with fats — Bikman uses this as a reason not to fear dietary fat, since fat is a structural component of every cell. ✅ 🔴 Evidence check: the membrane fact is solid, but the body makes most of its membrane lipids itself, so it does not settle dietary-fat questions; the AHA and the Cochrane review focus on fat *type*, favoring unsaturated over saturated fat (Sacks 2017; Hooper 2020). Everything entering or leaving is tightly regulated.
+## Moving Things Across the Cell Membrane
+The cell membrane is a **double layer of fat molecules (lipid bilayer)**. Bikman uses this as a reason not to fear fat in food, since fat is a building block of every cell. ✅ 🔴 Evidence check: the membrane fact is solid, but the body makes most of its membrane fats itself, so it does not settle questions about dietary fat. The American Heart Association (AHA) and a Cochrane review focus on the *type* of fat, favoring unsaturated over saturated fat (Sacks 2017; Hooper 2020). Everything entering or leaving the cell is tightly controlled.
 
 **The gradient setup (the part everything else depends on):**
-- Sodium: ~10x higher in the extracellular fluid (ECF) than intracellular (ICF) → constantly pushes **in**.
-- Potassium: ~30x higher in the ICF → constantly leaks **out**.
-- Ions rolling downhill create a **concentration gradient** and an **electrical gradient** together = the **electrochemical gradient**. ✅
+- Sodium: about 10 times higher in the fluid outside cells (extracellular fluid, ECF) than inside (intracellular fluid, ICF), so it is always pushing **in**.
+- Potassium: about 30 times higher inside, so it is always leaking **out**.
+- Ions rolling "downhill" create a **concentration gradient** and an **electrical gradient** at the same time. Together they make the **electrochemical gradient**. ✅
 
-| Type | Energy use | Mechanism | Notes |
+| Type | Energy use | How it works | Notes |
 | --- | --- | --- | --- |
-| **Simple diffusion — through bilayer** | None in the moment | Molecule leaks across the lipid layers | Speed depends on gradient steepness, membrane surface area, and permeability |
-| **Simple diffusion — channel** | None in the moment | Open pore through both layers | Ions and water use channels |
-| **Facilitated diffusion** | None in the moment | Carrier ("Pac-Man") binds molecule, changes shape, releases exactly that amount inside | Precisely regulated; carrier-mediated |
-| **Primary active transport** | Directly uses ATP | Pump powered by breaking ATP, moving molecules uphill | Sodium-potassium ATPase is the famous example |
-| **Secondary active — symport** | Indirect | One ion goes downhill, another hitches a ride in the **same** direction uphill | Uses a gradient that was built earlier |
-| **Secondary active — antiport** | Indirect | One ion goes downhill, another goes the **opposite** way uphill | They pass without colliding |
+| **Simple diffusion through the membrane** | None at the moment | The molecule leaks across the fat layers | Speed depends on how steep the gradient is, how much membrane there is, and how easily it passes (permeability) |
+| **Simple diffusion through a channel** | None at the moment | An open hole through both layers | Ions and water use channels |
+| **Facilitated diffusion** | None at the moment | A carrier (a "Pac-Man") grabs the molecule, changes shape, and releases exactly that amount inside | Precisely controlled; uses a carrier |
+| **Primary active transport** | Uses ATP directly | A pump powered by breaking ATP, moving molecules uphill | The sodium-potassium pump (ATPase) is the famous example |
+| **Secondary active: symport** | Indirect | One ion goes downhill, and another rides along uphill in the **same** direction | Uses a gradient built earlier |
+| **Secondary active: antiport** | Indirect | One ion goes downhill, another goes uphill the **opposite** way | They pass without colliding |
 
-✅ This table is the most reusable reference from the lecture — every future transporter in the course will map onto one of these rows.
+✅ This table is the most useful reference from the lecture. Every transporter later in the course fits one of these rows.
 
 **Key points worth keeping:**
-- **The stone-on-the-hill metaphor:** passive = stone rolling down; active = pushing the stone up. Even "passive" transport depended on energy spent earlier to build the gradient. ✅
-- **Surface area:** more membrane means faster simple diffusion. Bikman's example: bigger muscles pull in glucose faster simply by having more entry points — one reason increasing muscle mass helps regulate blood sugar. ✅ 🟡 The lecture attaches this to surface area and does not specify the exact transport mechanism for glucose entry. ✅ Evidence check: glucose enters muscle by facilitated diffusion through GLUT4 transporters (insulin and contraction move more of them to the membrane), not by simple diffusion. Muscle takes up most of the glucose disposed of under insulin (DeFronzo 1981), and more relative muscle mass goes with less insulin resistance and prediabetes (Srikanthan & Karlamangla 2011).
-- **Water follows ions:** clinicians can push electrolytes into urine so water follows, lowering blood pressure in people with excess body water. ✅ (kidney detail deliberately not covered)
-- **ATP** (adenosine triphosphate): breaking the high-energy phosphate bonds (hydrolysis) releases energy the cell "pays" for work. Made by mitochondria from fats and glucose. The **-ase** suffix marks an enzyme. ✅
-- **Sodium-potassium ATPase:** pumps sodium out and potassium in, each against its gradient, using one ATP-powered protein (3 sodium out and 2 potassium in per ATP). ✅ (Clausen 2017) It restores the imbalance after signaling.
+- **The stone on the hill:** passive transport is a stone rolling down; active transport is pushing the stone up. Even "passive" transport depended on energy spent earlier to build the gradient. ✅
+- **Surface area:** more membrane means faster simple diffusion. Bikman's example: bigger muscles pull in glucose faster simply because they have more entry points, one reason building muscle helps control blood sugar. ✅ 🟡 The lecture ties this to surface area and does not say exactly how glucose gets into muscle. ✅ Evidence check: glucose enters muscle by facilitated diffusion through GLUT4 sugar doors (insulin and exercise bring more of them to the surface), not by simple diffusion. Muscle takes up most of the glucose cleared from the blood under insulin (DeFronzo 1981), and having more muscle relative to body size goes with less insulin resistance and prediabetes (Srikanthan & Karlamangla 2011).
+- **Water follows ions:** doctors can push salts into the urine so water follows, lowering blood pressure in people who hold too much water. ✅ (kidney details deliberately not covered)
+- **ATP** (adenosine triphosphate): breaking its high-energy phosphate bonds (a reaction called hydrolysis) releases energy the cell "pays" for work. ATP is made by mitochondria from fats and glucose. The ending **-ase** marks an enzyme. ✅
+- **The sodium-potassium pump (ATPase):** pushes sodium out and potassium in, each against its gradient, using one ATP-powered protein (3 sodium out and 2 potassium in per ATP). ✅ (Clausen 2017) It restores the imbalance after each signal.
 
-## Electrophysiology — Electrical Signals from Ions
-**Membrane potential:** the voltage across the membrane (millivolts), created by ion movement. ✅
-- Potassium leaving → makes the inside more **negative**. Sodium entering → makes it more **positive**. ✅
-- Slightly more potassium movement than sodium at rest keeps the cell at **resting potential of about -70 mV** (polarized). ✅
+## Electrical Signals from Ions (Electrophysiology)
+**Membrane potential:** the voltage across the membrane, measured in millivolts (mV), created by moving ions. ✅
+- Potassium leaving makes the inside more **negative**. Sodium entering makes it more **positive**. ✅
+- At rest, slightly more potassium moves than sodium, which keeps the cell at a **resting potential of about -70 mV** (said to be "polarized"). ✅
 
 | Term | What happens | Ion responsible |
 | --- | --- | --- |
-| **Depolarization** | Membrane potential rises from -70 toward positive | Sodium rushing in |
-| **Repolarization** | Returns toward -70 | Potassium rushing out |
-| **Hyperpolarization** | Pushes below -70 (e.g. -80, -90) — further from firing | Potassium still leaving the cell |
+| **Depolarization** | Voltage rises from -70 toward positive | Sodium rushing in |
+| **Repolarization** | Voltage returns toward -70 | Potassium rushing out |
+| **Hyperpolarization** | Voltage drops below -70 (e.g. -80, -90), further from firing | Potassium still leaving the cell |
 
-- 🟡 The lecture describes hyperpolarization as "more potassium running in" in one place, while elsewhere tying potassium to leaving the cell; the stable takeaway is only that **potassium movement drives the negative shift**. ✅ Evidence check: hyperpolarization comes from potassium continuing to **leave** while the slow voltage-gated potassium channels are still open; "running in" was a slip (Hodgkin & Huxley 1952).
-- Hyperpolarization has real consequences: signals fail to reach the heart or nerves, so the heart can stop or sensation can be lost. 🟢 Evidence check: a hyperpolarized cell is harder to fire, and acetylcholine slows the heart this way; in clinical potassium disorders, though, cardiac arrest is more typical of *high* potassium, which depolarizes cells and inactivates sodium channels (Weiss 2017).
+- 🟡 In one place the lecture describes hyperpolarization as "more potassium running in," while elsewhere it links potassium to leaving the cell. The solid takeaway is only that **potassium movement drives the shift to negative**. ✅ Evidence check: hyperpolarization comes from potassium continuing to **leave** while the slow potassium channels are still open; "running in" was a slip (Hodgkin & Huxley 1952).
+- Hyperpolarization has real consequences: signals fail to reach the heart or nerves, so the heart can stop or feeling can be lost. 🟢 Evidence check: a hyperpolarized cell is harder to fire, and acetylcholine (a nerve chemical) slows the heart this way. In real potassium disorders, though, cardiac arrest is more typical of *high* potassium, which depolarizes cells and switches off sodium channels (Weiss 2017).
 
-**Graded vs. action potentials**
-- **Graded potential:** small, local, "little bumps" — often from gated channels. The three gate types: **chemically gated** (neurotransmitter, e.g. acetylcholine), **voltage-gated** (important in skeletal and heart muscle), **pressure-gated** (touch, vibration, and gut distension from gas). ✅
-- **Threshold: about -55 mV.** Reach it and the response becomes all-or-nothing. ✅ A touch too light to be felt is a graded potential that did not reach threshold.
+**Small signals vs. full signals (graded vs. action potentials)**
+- **Graded potential:** a small, local "little bump," often from channels that open on a trigger (gated channels). The three kinds of gate: **chemically gated** (opened by a nerve chemical, a neurotransmitter, such as acetylcholine), **voltage-gated** (important in skeletal and heart muscle), and **pressure-gated** (touch, vibration, and the gut stretching from gas). ✅
+- **Threshold: about -55 mV.** Reach it, and the response becomes all-or-nothing. ✅ A touch too light to feel is a small signal that did not reach threshold.
 
-**The four steps of an action potential**
-1. Graded potentials depolarize the membrane from -70 to threshold (-55).
-2. Voltage-gated **sodium** channels open; sodium floods in; potential rises to about **+30 mV** (Hodgkin & Huxley 1952).
-3. Sodium channels close, voltage-gated **potassium** channels open; potassium leaves → rapid repolarization.
-4. Often a brief hyperpolarization overshoot, corrected by the **sodium-potassium ATPase**. ✅
+**The four steps of an action potential (a full nerve signal)**
+1. Small signals push the voltage up from -70 to the threshold (-55).
+2. Voltage-gated **sodium** channels open; sodium floods in; the voltage rises to about **+30 mV** (Hodgkin & Huxley 1952).
+3. Sodium channels close and voltage-gated **potassium** channels open; potassium leaves, and the voltage falls quickly.
+4. Often there is a brief overshoot below rest (hyperpolarization), corrected by the **sodium-potassium pump**. ✅
 
-**Propagation along a neuron**
-- Neurons can be several feet long (longest cells in the body); the **axon** is the long thread. ✅
-- **Contiguous propagation:** uninterrupted signal down an unmyelinated axon — fast, but not fast enough for many needs.
-- **Saltatory propagation:** myelin sheaths ("pearls") wrap the axon; only the exposed **nodes** depolarize, so the signal skips ahead, about **50x faster**. ✅
+**How the signal travels along a nerve cell**
+- Nerve cells (neurons) can be several feet long, the longest cells in the body. The **axon** is the long thread. ✅
+- **Continuous travel (contiguous propagation):** the signal moves step by step along an uncoated axon. Fast, but not fast enough for many needs.
+- **Jumping travel (saltatory propagation):** sheaths of myelin ("pearls") wrap the axon. Only the bare gaps (**nodes**) fire, so the signal skips ahead, about **50 times faster**. ✅
 
-**Synaptic transmission** (chemical hand-off)
-1. Action potential reaches the presynaptic terminal.
-2. Voltage-gated **calcium** channels open; calcium rushes in (higher outside).
-3. Calcium pulls neurotransmitter-filled vesicles to the membrane, which release their contents into the **synaptic cleft**.
-4. Neurotransmitter binds receptors on the postsynaptic cell (neuron, muscle, or other tissue), opening chemically gated channels.
-5. **Three ways to turn the signal off:** reuptake transporter pulls it back in, enzymes degrade it, or it diffuses away. ✅
-- 🟢 Bikman flags calcium as a recurring theme in the muscle and heart lectures.
+**Passing the signal to the next cell (the synapse)**
+1. The action potential reaches the end of the nerve (the presynaptic terminal).
+2. Voltage-gated **calcium** channels open; calcium rushes in (it is higher outside).
+3. Calcium pulls tiny bubbles (vesicles) full of neurotransmitter to the membrane, and they release their contents into the gap between cells (the **synaptic cleft**).
+4. The neurotransmitter attaches to receptors on the next cell (a nerve, a muscle or another tissue) and opens chemically gated channels.
+5. **Three ways to switch the signal off:** a transporter pulls it back in (reuptake), enzymes break it down, or it drifts away. ✅
+- 🟢 Bikman flags calcium as a theme that keeps coming back in the muscle and heart lectures.
 
 ## Key Corrections to Carry Forward
-- 🔴 Assuming the goal of a cell is balance or equilibrium: the cell works to keep inside and outside **different**; equilibrium means loss of function.
-- 🔴 Assuming "energy" in biology means something like electricity or fuel: cellular energy is ATP, molecules whose bonds are broken to pay for work.
-- 🔴 Assuming positive feedback is always pathological: it is rare, temporary, and purposeful (childbirth), and it still ends in a return to normal.
-- 🔴 Assuming passive transport is "free": it only costs nothing in the moment, because energy was spent earlier building the gradient.
-- 🔴 Assuming the body is "too acidic" in a loose sense: pH is held in an exceptionally narrow range by active adjustment.
+- 🔴 Thinking a cell aims for balance or equilibrium: the cell works to keep inside and outside **different**; equilibrium means it stops working.
+- 🔴 Thinking "energy" in biology means something like electricity or fuel: cell energy is ATP, molecules whose bonds are broken to pay for work.
+- 🔴 Thinking positive feedback is always a sign of disease: it is rare, temporary and has a purpose (childbirth), and it still ends in a return to normal.
+- 🔴 Thinking passive transport is "free": it costs nothing at that moment only because energy was spent earlier building the gradient.
+- 🔴 Thinking the body is "too acidic" in a loose sense: pH is held in an extremely narrow range by constant adjustment.
 
 ## Practical Takeaway
-When any physiological variable drifts, ask the three questions: **what is the sensor, where is the set point compared, and what is the effector?** And whenever a signal, contraction, or nerve impulse is involved, trace it back to a maintained ion gradient that ATP is paying for. That frame will organize every system in the remaining six lectures.
+When any body measure drifts, ask three questions: **what is the sensor, where is it compared to the set point, and what makes the correction?** And whenever a signal, a muscle contraction or a nerve impulse is involved, trace it back to a salt gradient that ATP is paying to keep up. That frame will organize every system in the remaining six lectures.
 
 ## Questions to Learn From (Socratic) — with Answer Options
-**1. Given that membrane surface area speeds simple diffusion — what does this suggest about why building muscle can help blood sugar regulation?**
-A. Larger muscles slow glucose entry so blood sugar spikes less
-B. Muscle mass only matters for strength, not for glucose handling
-C. \* A larger muscle cell membrane gives glucose more entry points, so muscle can pull glucose in more rapidly, which helps regulate blood sugar
-*Why C: Bikman cites bigger muscles having more membrane surface and therefore more entry points for glucose, making muscle mass one of the best ways to help regulate blood sugar.*
+**1. More membrane surface speeds up simple diffusion. What does this suggest about why building muscle can help control blood sugar?**
+A. Larger muscles slow glucose entry so blood sugar rises less
+B. Muscle mass only matters for strength, not for handling glucose
+C. \* A larger muscle cell membrane gives glucose more entry points, so muscle can pull glucose in faster, which helps control blood sugar
+*Why C: Bikman points out that bigger muscles have more membrane surface and therefore more entry points for glucose, making muscle mass one of the best ways to help control blood sugar.*
 
-**2. In childbirth, which mapping of the three feedback components is correct?**
-A. \* Sensor = cervix stretch, control center = hypothalamus, effector = oxytocin acting on the uterus
+**2. In childbirth, which match of the three feedback parts is correct?**
+A. \* Sensor = stretch of the cervix, control center = hypothalamus, effector = oxytocin acting on the uterus
 B. Sensor = uterus, control center = cervix, effector = hypothalamus
 C. Sensor = oxytocin, control center = uterus, effector = cervix
-*Why A: stretch is detected at the cervix, interpreted in the hypothalamus, and answered by oxytocin driving contractions, which stretch the cervix more — positive feedback with the same three parts as negative feedback.*
+*Why A: stretch is sensed at the cervix, read in the hypothalamus, and answered by oxytocin driving contractions, which stretch the cervix more. That is positive feedback with the same three parts as negative feedback.*
 
-**3. Given that lidocaine numbs by blocking voltage-gated sodium channels — why does that abolish the sensation?**
-A. It increases potassium leaving so the nerve hyperpolarizes permanently
-B. \* Without sodium entry the nerve cannot depolarize to threshold, so no action potential forms and no signal travels
-C. It destroys the myelin so saltatory conduction stops
-*Why B: the action potential depends on sodium rushing in once threshold (-55 mV) is reached; block that step and the signal never starts.*
+**3. Lidocaine numbs by blocking voltage-gated sodium channels. Why does that stop the feeling?**
+A. It makes more potassium leave, so the nerve stays hyperpolarized forever
+B. \* Without sodium coming in, the nerve cannot reach threshold, so no action potential forms and no signal travels
+C. It destroys the myelin, so the jumping signal stops
+*Why B: the action potential depends on sodium rushing in once threshold (-55 mV) is reached. Block that step and the signal never starts.*
 
 **4. Why does secondary active transport count as "indirect" energy use?**
 A. It uses no energy at all, like simple diffusion
 B. It burns ATP directly at the transporter, like the sodium-potassium pump
-C. \* It harnesses a gradient that was built earlier with energy, letting one ion run downhill to move another uphill (symport or antiport)
-*Why C: the stone was already pushed uphill by a primary pump; symport and antiport simply exploit that stored gradient.*
+C. \* It uses a gradient that was built earlier with energy, letting one ion run downhill to move another uphill (symport or antiport)
+*Why C: the stone was already pushed uphill by a primary pump; symport and antiport simply use that stored gradient.*
 
 ## Open Threads
-- **Peripheral nervous system (Lecture 2)** — will apply action potentials, propagation, and synapses directly.
-- **Skeletal muscle and heart (Lectures 3–4)** — voltage-gated channels, calcium, and ATP hydrolysis return here.
-- **Endocrine system (Lecture 6)** — the feedback framework and the hypothalamus both reappear.
-- **Kidney and water/electrolyte handling** — named only in passing in this lecture.
+- **The peripheral nervous system (Lecture 2):** will apply action potentials, signal travel and synapses directly.
+- **Skeletal muscle and heart (Lectures 3–4):** voltage-gated channels, calcium and the breaking of ATP come back here.
+- **The hormone (endocrine) system (Lecture 6):** the feedback framework and the hypothalamus both reappear.
+- **The kidney and how it handles water and salts:** mentioned only in passing in this lecture.
 
 ## What Was Deliberately Cut (Self-Audit)
-- Personal commentary: Canada versus Florida thermostat asides, his bioenergetics PhD background, the pantomimed neuron descriptions.
-- Repeated restatements of the sodium/potassium ratios and the stone-on-hill metaphor beyond their first clear use.
-- Course roadmap detail beyond one line (covered in each upcoming lecture note).
+- Personal comments: asides about thermostats in Canada versus Florida, his PhD background in bioenergetics, and his acted-out descriptions of nerve cells.
+- Repeated restatements of the sodium and potassium ratios and the stone-on-the-hill picture after their first clear use.
+- Course roadmap details beyond one line (covered in each upcoming lecture note).
+
+**The point to remember: the body is always pulling itself back to normal, and cells spend energy keeping salts unbalanced, because those salts rushing in and out are what make nerves, muscles and the heart work.**
 
 ---
 **References:**
