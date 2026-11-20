@@ -4,6 +4,20 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 2 (transcripción, unas 9,400 palabras). El mismo profesor de las series "Why We Get Sick" y "Essentials of Endocrinology". Sigue directo del Cap. 1 (la célula y su cubierta); el siguiente capítulo es "Del ADN a la proteína" (el Dogma Central).*
 
+**Palabras de esta nota:**
+- **SGLT2**: bomba del riñón que regresa el azúcar a la sangre; también un tipo de medicamento para la diabetes que la bloquea
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **SGLT1**: bomba que jala el azúcar desde el intestino
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **GLUT5**: la puerta del intestino para la fructosa
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **ADN**: el código genético dentro de cada célula
+- **ARN**: una copia de trabajo del código genético
+
 ## Por qué importa
 Esta clase es el manual de plomería. Explica por qué el azúcar entra al hígado sin insulina pero necesita insulina en el músculo y la grasa, por qué las medicinas para la diabetes que bloquean el SGLT2 hacen orinar mucho y causan infecciones, por qué tomar demasiada agua sola puede matar, y cómo entra de verdad el LDL en una célula.
 

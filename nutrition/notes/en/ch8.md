@@ -4,6 +4,13 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 8 (transcript). Final lecture of the 8-part series; it recaps threads from earlier chapters (nitrates in greens, fiber, supplemental HCl, vitamin D as a hormone) rather than introducing a wholly new framework.*
 
+**Words in this note:**
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **NIH**: U.S. National Institutes of Health
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+
 ## Why This Matters
 This lecture explains how food gets converted into physiology: bacteria in the mouth turn dietary nitrate into the nitric oxide precursor, bacteria in the colon turn fiber into butyrate and other postbiotics, and the nervous state you eat in decides how much of the meal you actually extract. Most claims here are mechanism-plus-observational evidence, and Lugavere is candid that the field is "still in the dark ages."
 

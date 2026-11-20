@@ -3,6 +3,16 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry" (he calls it "The Secrets of Big Pharma: How To Be a Better Patient"), Lecture 5 (transcript). Fifth of eight lectures; it steps back from the 1962 Kefauver endpoint of Ch.4 into the 1950s "chemical calm" and runs forward to the opioid era, then hands off to Ch.6 on political capture. Transcript complete: it ends on Posner's preview of the next lecture.*
 
+**Words in this note:**
+- **DNA**: the genetic code inside each cell
+- **FDA**: U.S. Food and Drug Administration
+- **AMA**: American Medical Association
+- **HRT**: hormone replacement therapy
+- **CDC**: U.S. Centers for Disease Control and Prevention
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the thematic hinge of the course. Instead of a straight timeline, Posner ties together three product waves (tranquilizers, amphetamines, hormones) and the later opioid wave by one method: take a normal human experience (stress, fatigue, weight, aging, pain), redefine it as a medical problem, sell a pill as the safe fix, and stay quiet about dependence until it cannot be ignored. His specific angle is **gendered marketing**: in the 1950s to 1970s the target was women, prescribed to by a profession that was about 95% male. Posner is an investigative journalist (author of *Pharma*), not a clinician: his historical facts are marked ✅ when clearly stated, his interpretations 🟡. Many numbers are lecture claims without a cited source.
 

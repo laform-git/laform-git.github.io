@@ -4,6 +4,15 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 1 (transcript). Bikman is a metabolic scientist/professor (BYU) — credentialed academic source, not a media personality.*
 
+**Words in this note:**
+- **NHANES**: a large U.S. government health and nutrition survey
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **HbA1c**: a blood test showing average blood sugar over about three months
+- **TG**: triglycerides, the main fat in the blood
+- **AMPK**: the cell's fuel-gauge switch, turned on when energy is low
+
 ## Why This Matters
 
 This lecture reframes insulin resistance from "one disease among many" to "the common soil most chronic disease grows from" — and gives the actual biochemistry for how a fat cell goes from storing energy safely to poisoning the rest of the body. It also introduces the historical name for metabolic syndrome (insulin resistance syndrome) which is more mechanistically honest than the modern term.

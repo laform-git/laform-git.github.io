@@ -4,6 +4,18 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 2 + Q&A (transcript). Continuation of Ch.1 — see that note for the foundational cascade, ceramides, and hypertrophy/hyperplasia setup this chapter builds on.*
 
+**Words in this note:**
+- **BMI**: body mass index, weight compared with height
+- **PPAR**: a family of switches that control how cells burn and store fat
+- **HbA1c**: a blood test showing average blood sugar over about three months
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **AMP**: adenosine monophosphate, a sign the cell is low on energy
+- **USDA**: U.S. Department of Agriculture
+- **CDC**: U.S. Centers for Disease Control and Prevention
+- **TG**: triglycerides, the main fat in the blood
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 
 Ch.1 established that ceramides drive insulin resistance and that fat cells fail two ways (running out of room, running out of blood supply). Ch.2 answers the natural next question: **how much fat can a body actually store before this starts, and why does that limit differ person to person?** It also fills in the secondary causes (seed oils, uric acid), the endocrine signaling fat cells do (adiponectin, leptin), and the genetics behind who gets hypertrophy vs. hyperplasia.

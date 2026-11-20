@@ -4,6 +4,17 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 5 (transcript). Follows Cardiopulmonary Physiology (Ch.4); the pancreas and glucagon are explicitly handed off to the Endocrine lecture (Ch.6).*
 
+**Words in this note:**
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **NIH**: U.S. National Institutes of Health
+- **SGLT1**: a pump that pulls sugar in from the gut
+- **GLUT5**: the gut's door for fructose
+- **SGLT2**: a pump in the kidney that takes sugar back into the blood; also a class of diabetes drugs that block it
+- **FDA**: U.S. Food and Drug Administration
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 This is the "how does food actually become fuel" lecture. Every macronutrient has a different route into the body — carbohydrates and protein go straight to the blood, long-chain fat detours through the lymph, and short- and medium-chain fats go straight to the liver. That routing is the mechanistic backbone for later topics: insulin and glucagon (Ch.6), adipose tissue (Ch.7), ketones, and the gut-hormone drugs now in the news. It also explains why fat, bile and protein digestion are linked, which cuts against a lot of low-fat folk wisdom.
 

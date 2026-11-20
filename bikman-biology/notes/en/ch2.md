@@ -4,6 +4,19 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 2 (transcript, ~9,400 words). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series. Builds directly on Ch.1 (the cell and its membrane); the next chapter is the Central Dogma.*
 
+**Words in this note:**
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **SGLT1**: a pump that pulls sugar in from the gut
+- **SGLT2**: a pump in the kidney that takes sugar back into the blood; also a class of diabetes drugs that block it
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **GLUT5**: the gut's door for fructose
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **DNA**: the genetic code inside each cell
+- **RNA**: a working copy of genetic code
+
 ## Why This Matters
 This lecture is the plumbing manual. It explains why glucose enters the liver without insulin but needs insulin in muscle and fat, why SGLT2-inhibitor diabetes drugs cause heavy urination and UTIs, why drinking too much pure water can kill, and how LDL actually gets into a cell.
 

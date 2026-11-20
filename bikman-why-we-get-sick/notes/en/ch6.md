@@ -4,6 +4,19 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 6 + Q&A (final lecture, transcript). This closes the six-chapter arc: what insulin resistance is (Ch.1–2), why it matters (Ch.3–4), and now the full practical implementation (Ch.5–6).*
 
+**Words in this note:**
+- **OGTT**: oral glucose tolerance test: you drink sugar and blood sugar is checked over two hours
+- **WHO**: World Health Organization
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **TG**: triglycerides, the main fat in the blood
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **CAC**: coronary artery calcium score, a heart scan for hardened plaque
+- **SGLT2**: a pump in the kidney that takes sugar back into the blood; also a class of diabetes drugs that block it
+- **PCOS**: polycystic ovary syndrome, a hormone condition in women
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **TZD**: thiazolidinediones, a class of diabetes drugs
+
 ## Why This Matters
 
 This is the actual "how" chapter — the four dietary pillars in a specific, deliberate order, plus temperature-based interventions, plus the specific numeric homework targets that finally give concrete goals for everything built up across five prior chapters.

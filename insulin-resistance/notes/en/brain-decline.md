@@ -1,11 +1,31 @@
 # Insulin Resistance and Brain Decline — From Diet to Alzheimer's Risk
 > **What this is:** A self-contained explanation of how insulin resistance develops and how it drives cognitive decline and Alzheimer's risk. Written to be understood without reading any other note first.
 
+**In plain words:** insulin resistance means the body's cells stop answering insulin well, so the body makes more and more insulin to keep blood sugar normal. It usually builds up from diet, too little movement, poor sleep and stress, and it can stay hidden for years. It is linked to a long list of conditions, from diabetes and fatty liver to high blood pressure. The brain gets its own form of it, and that is one likely contributor to memory loss and Alzheimer's disease. It is not the only cause, and not proven to be the biggest one. The good news is that the same habits that improve insulin resistance also match what experts advise for lowering dementia risk.
+
 > **How to read the color markers used throughout this note:**
 > ✅ **Rock solid** — well-established, essentially undisputed in the medical literature.
 > 🟢 **Strong evidence** — well-supported by multiple studies, but not yet universally settled.
 > 🟡 **Contested / newer evidence** — a real signal exists, but the evidence is mixed, preliminary, or still actively debated among researchers.
 > 🔴 **Weak or no evidence** — studied but not shown to provide meaningful benefit, or a net-negative finding.
+
+**Words in this note:**
+- **MASLD**: fatty liver disease linked to metabolism (formerly NAFLD)
+- **MASH**: fatty liver with inflammation and damage (formerly NASH)
+- **NAFLD**: the older name for MASLD
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **PCOS**: polycystic ovary syndrome, a hormone condition in women
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **FSH**: follicle-stimulating hormone, a brain hormone that drives sperm and egg development
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **IGF-1**: insulin-like growth factor 1, the hormone growth hormone works through
+- **BPH**: benign prostatic hyperplasia, a non-cancerous enlarged prostate
+- **GLUT1**: a sugar door that works without insulin, used by the brain and red blood cells
+- **TyG**: the triglyceride-glucose index, another estimate of insulin resistance
+- **HbA1c**: a blood test showing average blood sugar over about three months
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
 
 ---
 ## Part 1 — How Insulin Resistance Develops
@@ -15,7 +35,7 @@
 - **Frequent high-glucose meals.** Sugary drinks, refined carbs, and frequent snacking cause repeated blood sugar spikes. Each spike triggers an insulin release to clear it. ✅ Rock solid.
 - **Chronic overexposure dulls the response.** Cells exposed to persistently high insulin reduce the number and sensitivity of their insulin receptors — similar to how ears tune out a sound that never stops. Receptor down-regulation by high insulin is well documented. Whether high insulin is *the* starting point of insulin resistance is debated: the "hyperinsulinemia-first" view (popularized by lecturers such as Benjamin Bikman) goes beyond what has been proven, and many researchers instead place fat build-up inside liver and muscle cells first. 🟡 Contested as the starting point.
 - **Lack of exercise removes a major insulin-sensitizing pathway.** Muscle contraction during exercise pulls glucose into muscle cells through a separate pathway that does not need much insulin at all. Without regular activity, this backup route is unused, and cells rely more heavily on insulin signaling — which is already becoming impaired. 🟢 Strong evidence.
-- **Poor sleep and chronic stress independently worsen insulin sensitivity**, partly through higher evening cortisol and sympathetic ("fight or flight") activity, adding to the same problem from a different direction. Six nights limited to 4 hours in bed measurably reduced glucose tolerance in healthy young men (Spiegel 1999). 🟢 Strong evidence.
+- **Poor sleep and chronic stress independently worsen insulin sensitivity**, partly through higher evening cortisol (the main stress hormone) and sympathetic ("fight or flight") activity, adding to the same problem from a different direction. Six nights limited to 4 hours in bed measurably reduced glucose tolerance in healthy young men (Spiegel 1999). 🟢 Strong evidence.
 - **The pancreas compensates by producing more insulin (hyperinsulinemia).** Blood sugar can look completely normal on a routine test for years while insulin itself runs high in the background, quietly forcing resistant cells to respond. This hidden phase is why insulin resistance is often present long before any diagnosis. 🟢 Strong evidence.
 
 ---
@@ -26,37 +46,37 @@
 - Fatty liver disease (now called MASLD/MASH, formerly NAFLD/NASH; Rinella 2023) 🟢
 - High triglycerides 🟢
 - Low HDL cholesterol 🟢
-- Small, dense LDL particles (Pattern B) 🟢
+- Small, dense LDL particles (Pattern B, the kind of "bad" cholesterol particle that gets into artery walls more easily) 🟢
 - High blood pressure / hypertension 🟢
-- Abdominal / visceral obesity 🟢
-- Metabolic syndrome ✅
-- Atherosclerosis / heart disease 🟢
+- Abdominal / visceral obesity (deep belly fat around the organs) 🟢
+- Metabolic syndrome (a cluster of belly fat, high blood pressure, high blood sugar and abnormal blood fats occurring together) ✅
+- Atherosclerosis (fatty plaque building up in the arteries) / heart disease 🟢
 - Stroke risk 🟢
-- PMOS (formerly PCOS) ✅
-- Hypothalamic-pituitary-ovarian axis dysfunction (irregular/absent ovulation via LH:FSH imbalance, independent of a full PMOS diagnosis) 🟡
+- PMOS (formerly PCOS, polycystic ovary syndrome, a hormone condition in women) ✅
+- Hypothalamic-pituitary-ovarian axis dysfunction, meaning a breakdown in the chain of signals from brain to ovaries (irregular/absent ovulation via LH:FSH imbalance, independent of a full PMOS diagnosis) 🟡
 - Low testosterone (men) 🟢
-- Functional hyperandrogenism in women (elevated free androgens via low SHBG, without a full PMOS diagnosis) 🟡
+- Functional hyperandrogenism in women (too much male-type hormone activity: elevated free androgens via low SHBG, without a full PMOS diagnosis) 🟡
 - Estrogen dominance patterns (insulin resistance alters fat tissue's estrogen production/metabolism — note: "estrogen dominance" itself is a functional-medicine term, not a formal diagnosis) 🟡
 - Progesterone insufficiency (linked to the same ovulatory disruption driving the conditions above) 🟡
-- Uterine fibroids (observational evidence only, and mixed: a cross-sectional US study of 867 non-diabetic women found higher HOMA-IR linked to more fibroids, about 17% higher odds per HOMA-IR unit (Sun 2025); the prospective SWAN cohort found no overall link between HOMA-IR and new fibroid diagnoses, only a link before menopause (Mitro 2025). Metformin users with type 2 diabetes had about half the fibroid risk in a Taiwanese cohort (Tseng 2019), which is suggestive but not proof — no trial has tested metformin for fibroids. Association shown, causation not established) 🟡
-- Thyroid dysfunction (subclinical/overt hypothyroidism — bidirectional relationship with insulin resistance, but causal direction is genuinely mixed in the literature) 🟡
+- Uterine fibroids, non-cancerous growths in the womb (observational evidence only, and mixed: a cross-sectional US study of 867 non-diabetic women found higher HOMA-IR linked to more fibroids, about 17% higher odds per HOMA-IR unit (Sun 2025); the prospective SWAN cohort found no overall link between HOMA-IR and new fibroid diagnoses, only a link before menopause (Mitro 2025). Metformin users with type 2 diabetes had about half the fibroid risk in a Taiwanese cohort (Tseng 2019), which is suggestive but not proof — no trial has tested metformin for fibroids. Association shown, causation not established) 🟡
+- Thyroid dysfunction (subclinical/overt hypothyroidism, an underactive thyroid, mild or full — bidirectional, meaning each can worsen the other; relationship with insulin resistance, but causal direction is genuinely mixed in the literature) 🟡
 - Infertility 🟢
 - Chronic low-grade inflammation ✅
 - Gout / elevated uric acid 🟢
-- Kidney stones (nephrolithiasis) — insulin resistance lowers urinary pH and increases uric acid and calcium excretion, raising stone risk; strongest evidence specifically for uric acid stones (Rendina 2014; Liu 2025) 🟢
+- Kidney stones (nephrolithiasis) — insulin resistance makes urine more acidic (lowers urinary pH) and increases uric acid and calcium excretion, raising stone risk; strongest evidence specifically for uric acid stones (Rendina 2014; Liu 2025) 🟢
 - Sleep apnea 🟢
 - Steatohepatitis (MASH, formerly non-alcoholic steatohepatitis) 🟢
 - Chronic kidney disease 🟢
-- Certain cancers — strongest link: endometrial, liver 🟢. Moderate link: pancreatic, colorectal 🟡. Modest link: breast 🟡.
-- Skin tags / acanthosis nigricans ✅ (Rendon 1989)
-- Psoriasis (onset and severity linked via shared chronic inflammatory pathways) 🟢 (Tripathy 2026)
-- Hidradenitis suppurativa (insulin resistance is considered a core underlying feature in many patients, closely tied to metabolic syndrome) 🟢 (van Straalen 2022)
-- Adult acne (hyperinsulinemia raises IGF-1, increasing androgen activity and sebum production) 🟡
+- Certain cancers — strongest link: endometrial (lining of the womb), liver 🟢. Moderate link: pancreatic, colorectal 🟡. Modest link: breast 🟡.
+- Skin tags / acanthosis nigricans (dark, velvety skin patches, usually on the neck or armpits) ✅ (Rendon 1989)
+- Psoriasis, a skin condition with red, scaly patches (onset and severity linked via shared chronic inflammatory pathways) 🟢 (Tripathy 2026)
+- Hidradenitis suppurativa, painful lumps and boils in the armpits and groin (insulin resistance is considered a core underlying feature in many patients, closely tied to metabolic syndrome) 🟢 (van Straalen 2022)
+- Adult acne (hyperinsulinemia raises IGF-1, increasing androgen activity and sebum, the skin's oil) 🟡
 - Androgenetic alopecia / male pattern hair loss (same IGF-1/androgen pathway as acne, less definitively established) 🟡
-- Cataracts (chronic hyperglycemia promotes protein damage — advanced glycation end-products — in the eye's lens) 🟡
+- Cataracts, clouding of the eye's lens (long-term high blood sugar, or hyperglycemia, promotes protein damage — advanced glycation end-products — in the eye's lens) 🟡
 - Benign prostatic hyperplasia (BPH) / lower urinary tract symptoms (established risk factor for BPH progression, independent of age alone) 🟢 (Vikram 2010)
 - Periodontal (gum) disease (bidirectional — insulin resistance worsens gum disease, and the resulting inflammation worsens insulin resistance in turn) 🟢 (Gurav 2012)
-- Sarcopenia / age-related muscle loss (blunts muscle's anabolic response to protein intake and resistance training) 🟢
+- Sarcopenia / age-related muscle loss (blunts muscle's anabolic, or muscle-building, response to protein intake and resistance training) 🟢
 - Low libido / female sexual dysfunction (decreased desire, arousal, and lubrication — documented specifically in women with type 2 diabetes (Rahmanian 2019); the same vascular and hormonal mechanisms are biologically plausible earlier at the insulin-resistance stage, but this has not been directly studied in non-diabetic women) 🟡
 - Erectile dysfunction 🟢
 - Depression and mood disturbance 🟡
@@ -68,27 +88,27 @@ Insulin resistance is a shared contributor to all of these, which is why they so
 ---
 ## Part 3 — The Brain (Main Focus)
 
-**Brain insulin resistance is a defined research concept** — the brain's own reduced response to insulin, separate from body-wide insulin resistance (Arnold 2018). Post-mortem brain tissue shows it in Alzheimer's patients who never had diabetes (Talbot 2012). 🟢 Strong evidence that it exists in Alzheimer's brains. It is not yet a clinical diagnosis: there is no routine test that measures it in a living person.
+**Brain insulin resistance is a defined research concept** — the brain's own reduced response to insulin, separate from body-wide insulin resistance (Arnold 2018). Brain tissue examined after death shows it in Alzheimer's patients who never had diabetes (Talbot 2012). 🟢 Strong evidence that it exists in Alzheimer's brains. It is not yet a clinical diagnosis: there is no routine test that measures it in a living person.
 
 ### How it develops
-Brain cells have their own insulin receptors. Two routes are proposed, and both may operate: chronically high blood insulin may reduce how much insulin is transported across the blood-brain barrier into the brain, and inflammation and toxic amyloid-beta clumps (oligomers) may disrupt insulin signaling inside brain cells directly (Arnold 2018; Talbot 2012). 🟡 The exact sequence, and how much body-wide insulin resistance drives brain insulin resistance, is still being worked out.
+Brain cells have their own insulin receptors. Two routes are proposed, and both may operate. First, high blood insulin over a long time may reduce how much insulin is carried across the blood-brain barrier (the tight filter between the blood and the brain). Second, inflammation and toxic clumps of amyloid-beta (oligomers; amyloid-beta is the sticky protein that forms Alzheimer's plaques) may disrupt insulin signaling inside brain cells directly (Arnold 2018; Talbot 2012). 🟡 The exact sequence, and how much body-wide insulin resistance drives brain insulin resistance, is still being worked out.
 
 ### Why it matters — four proposed mechanisms of damage
-1. **Reduced brain fuel use.** The brain is only about 2% of body weight but uses roughly 20% of the body's energy, almost all of it from glucose. ✅ Rock solid. Most glucose enters brain cells through transporters (GLUT1, GLUT3) that do **not** need insulin, so the brain is not simply "locked out" of glucose the way muscle is (Arnold 2018). Still, in people with prediabetes or early type 2 diabetes, higher HOMA-IR goes with an Alzheimer's-like pattern of lower glucose use on brain PET scans (Baker 2011). 🟡 The link with reduced brain energy use is real; how much is caused by brain insulin resistance itself is uncertain.
+1. **Reduced brain fuel use.** The brain is only about 2% of body weight but uses roughly 20% of the body's energy, almost all of it from glucose. ✅ Rock solid. Most glucose enters brain cells through transporters (GLUT1, GLUT3) that do **not** need insulin, so the brain is not simply "locked out" of glucose the way muscle is (Arnold 2018). Still, in people with prediabetes or early type 2 diabetes, higher HOMA-IR goes with an Alzheimer's-like pattern of lower glucose use on brain PET scans, scans that show how much sugar each brain area uses (Baker 2011). 🟡 The link with reduced brain energy use is real; how much is caused by brain insulin resistance itself is uncertain.
 2. **Loss of a protective mechanism.** Insulin also helps protect synapses (the connections between brain cells). In lab studies of neurons, insulin signaling blocked toxic amyloid-beta oligomers from binding to synapses (De Felice 2009). Insulin resistance would remove this protection, not just the energy supply. 🟡 Shown in cell and animal studies; not yet shown directly in people.
-3. **Impaired waste clearance and toxic protein buildup.** Insulin influences the clearance of amyloid-beta, the protein that forms Alzheimer's plaques, and the phosphorylation of tau (Kellar 2020). In 186 late-middle-aged adults with normal blood sugar, higher insulin resistance went with more amyloid on brain PET scans (Willette 2015). 🟡 Consistent mechanism and some human imaging data, but human studies are small and not all agree.
-4. **Blood-brain barrier dysfunction and impaired neuroplasticity.** Recent mechanistic reviews identify insulin resistance as also weakening the blood-brain barrier — the protective filter around brain blood vessels — and impairing the brain's ability to form new neural connections (Kellar 2020; Wang 2025). 🟡 Newer evidence base, mostly from animal and mechanistic studies, still being refined.
+3. **Impaired waste clearance and toxic protein buildup.** Insulin influences the clearance of amyloid-beta, the protein that forms Alzheimer's plaques, and the phosphorylation (chemical tagging) of tau, a second protein that forms tangles inside brain cells in Alzheimer's (Kellar 2020). In 186 late-middle-aged adults with normal blood sugar, higher insulin resistance went with more amyloid on brain PET scans (Willette 2015). 🟡 Consistent mechanism and some human imaging data, but human studies are small and not all agree.
+4. **Blood-brain barrier dysfunction and impaired neuroplasticity (the brain's ability to rewire itself).** Recent mechanistic reviews identify insulin resistance as also weakening the blood-brain barrier — the protective filter around brain blood vessels — and impairing the brain's ability to form new neural connections (Kellar 2020; Wang 2025). 🟡 Newer evidence base, mostly from animal and mechanistic studies, still being refined.
 
 ### A recent preliminary finding: a routine blood marker may flag faster decline
-⚠️ **Preliminary — conference abstract, not yet a peer-reviewed paper.** At the European Academy of Neurology congress in June 2025, a team from the University of Brescia (Gumina et al.) reported a retrospective review of 315 non-diabetic patients with cognitive impairment, followed for 3 years. Among those with mild cognitive impairment due to Alzheimer's, people in the highest third of the **TyG index** had about four times the risk of rapid decline (hazard ratio 4.08, but with a very wide 95% confidence interval of 1.06–15.73). No link was seen in patients without Alzheimer's (Gumina 2025).
+⚠️ **Preliminary — conference abstract, not yet a peer-reviewed paper.** At the European Academy of Neurology congress in June 2025, a team from the University of Brescia (Gumina et al.) reported a retrospective review (looking back at existing records) of 315 non-diabetic patients with cognitive impairment (problems with memory and thinking), followed for 3 years. Among those with mild cognitive impairment due to Alzheimer's, people in the highest third of the **TyG index** had about four times the risk of rapid decline (hazard ratio 4.08). The 95% confidence interval was very wide, 1.06–15.73: the true effect could be anywhere from almost none to about 16 times the risk. No link was seen in patients without Alzheimer's (Gumina 2025).
 
-- The **TyG index** is not a simple ratio. It is calculated as ln[fasting triglycerides (mg/dL) × fasting glucose (mg/dL) ÷ 2], from a routine fasting lipid panel and glucose test. It was developed in Mexico as a low-cost stand-in for insulin resistance (Simental-Mendía 2008). 🟢 Strong evidence as a surrogate marker of insulin resistance.
+- The **TyG index** is not a simple ratio. It is calculated as ln[fasting triglycerides (mg/dL) × fasting glucose (mg/dL) ÷ 2] (ln is the natural logarithm, a calculator button that shrinks large numbers into a small scale), from a routine fasting lipid panel and glucose test. It was developed in Mexico as a low-cost stand-in for insulin resistance (Simental-Mendía 2008). 🟢 Strong evidence as a surrogate marker (an indirect stand-in measure) of insulin resistance.
 - 🟡 **The TyG–rapid decline finding itself is preliminary:** a single retrospective study, a subgroup result, a wide confidence interval, and no full peer-reviewed publication found as of this review. It should not be used to predict any individual's course, and it is not clinical practice.
 
 ### Is There Also a Link to Autism?
 **Short answer: a documented but weak, unsettled association — far less established than the Alzheimer's link.** 🟡 Contested.
 
-- Maternal diabetes during pregnancy is associated with modestly higher autism risk in the child. In a Kaiser Permanente cohort of 322,323 children, gestational diabetes diagnosed by 26 weeks of pregnancy was linked to about 42% higher autism risk after adjustment (hazard ratio 1.42); gestational diabetes diagnosed later, and pre-existing type 2 diabetes after adjustment, were not significantly linked (Xiang 2015). Effect sizes are small, and causation is not established — maternal weight and other pregnancy factors are hard to fully separate out as confounders.
+- Maternal diabetes during pregnancy is associated with modestly higher autism risk in the child. In a Kaiser Permanente cohort of 322,323 children, gestational diabetes diagnosed by 26 weeks of pregnancy was linked to about 42% higher autism risk after adjustment, meaning after accounting for other differences between the mothers (hazard ratio 1.42); gestational diabetes diagnosed later, and pre-existing type 2 diabetes after adjustment, were not significantly linked (Xiang 2015). Effect sizes are small, and causation is not established — maternal weight and other pregnancy factors are hard to fully separate out as confounders.
 - Some studies find higher rates of insulin resistance in autistic children and adults themselves, but the direction is unclear — autism-related diet, activity levels, and some medications can independently affect metabolic health, so this could be consequence rather than cause. 🟡 Not verified against a systematic review for this note.
 - This research area is far less developed than the Alzheimer's literature — no consensus mechanism exists here.
 
@@ -98,7 +118,7 @@ Whether insulin resistance is a primary *cause* of Alzheimer's, or one of severa
 ---
 ## Part 3.5 — Is This the Most Common Cause of Memory Decline?
 
-**Short answer: No. Age is the biggest risk factor, and genetics (such as APOE ε4) matter in some people. Insulin resistance is one of several modifiable contributors — an important one, but not proven to be the biggest.**
+**Short answer: No. Age is the biggest risk factor, and genetics (such as APOE ε4, a common gene variant that raises Alzheimer's risk) matter in some people. Insulin resistance is one of several modifiable contributors — an important one, but not proven to be the biggest.**
 
 - **Age is the strongest risk factor for cognitive decline in general.** Simply getting older raises risk more than any single other factor. This is not something anyone can act on, so it's just context here, not a focus area. ✅ Rock solid.
 - **Among the factors a person can change**, the 2024 Lancet Commission estimates that 14 modifiable risk factors together account for about 45% of dementia cases. The largest single shares are hearing loss and high LDL cholesterol (about 7% each). Diabetes accounts for about 2%. Insulin resistance itself is not one of the 14. The metabolic and vascular group (diabetes, high LDL, hypertension, obesity, smoking, physical inactivity, excess alcohol) accounts for about 17% combined (Livingston 2024). 🟢 Strong evidence for these estimates.
@@ -142,10 +162,14 @@ Fasting glucose (mg/dL) multiplied by fasting insulin (uIU/mL), divided by 405 (
 - Berberine — the only one with a metabolic case: it works by improving insulin sensitivity, not by a direct brain effect. A meta-analysis of 46 randomized trials in people with type 2 diabetes showed lower HOMA-IR, fasting insulin and HbA1c (Guo 2021). Most trials were small and conducted in China, and none measured cognitive outcomes. 🟢 for glucose and insulin markers in type 2 diabetes; no evidence for brain outcomes.
 
 **Medications:**
-- **Metformin** — only small trials so far: 80 people with amnestic mild cognitive impairment for 12 months (Luchsinger 2016) and 20 people with early Alzheimer's for 8 weeks (Koenig 2017). Each showed a signal on one memory or executive-function test, but no proven cognitive benefit. A larger trial (MAP, about 326 participants) has finished enrolling, and results are not yet published. 🟡
-- **GLP-1 drugs (semaglutide, liraglutide)** — In the evoke and evoke+ phase 3 trials (3,808 people with early Alzheimer's, 2 years), oral semaglutide did not slow clinical progression. Some biomarkers improved, but there was no clinical benefit and no new safety concern (Cummings 2026). In the phase 2b ELAD trial (204 non-diabetic people with mild to moderate Alzheimer's, 1 year), liraglutide missed its primary goal (brain glucose metabolism); one secondary measure of executive function favored the drug (Edison 2026). In people with early type 2 diabetes, adding liraglutide to metformin did not change cognition over about 4 years compared with other diabetes drugs (Luchsinger 2025). 🔴 No proven benefit for treating Alzheimer's. These trials do not show net harm; whether GLP-1 drugs help *prevent* dementia remains untested in trials.
+- **Metformin** — only small trials so far: 80 people with amnestic mild cognitive impairment (early memory loss) for 12 months (Luchsinger 2016) and 20 people with early Alzheimer's for 8 weeks (Koenig 2017). Each showed a signal on one memory or executive-function test (planning, focus and decision-making), but no proven cognitive benefit. A larger trial (MAP, about 326 participants) has finished enrolling, and results are not yet published. 🟡
+- **GLP-1 drugs (semaglutide, liraglutide)** — In the evoke and evoke+ phase 3 trials (3,808 people with early Alzheimer's, 2 years), oral semaglutide did not slow clinical progression. Some biomarkers (lab and scan signs of the disease) improved, but there was no clinical benefit and no new safety concern (Cummings 2026). In the phase 2b ELAD trial (204 non-diabetic people with mild to moderate Alzheimer's, 1 year), liraglutide missed its primary goal (brain glucose metabolism); one secondary measure of executive function favored the drug (Edison 2026). In people with early type 2 diabetes, adding liraglutide to metformin did not change cognition over about 4 years compared with other diabetes drugs (Luchsinger 2025). 🔴 No proven benefit for treating Alzheimer's. These trials do not show net harm; whether GLP-1 drugs help *prevent* dementia remains untested in trials.
 
 **Bottom line:** none replace fixing insulin resistance through diet and exercise.
+
+---
+
+**The point to remember: insulin resistance is one likely contributor to memory decline, not the only cause and not proven to be the biggest. It can be measured years ahead, and the habits that improve it (better food, regular exercise, good sleep, weight and blood-pressure control) are the same ones experts advise for protecting the brain.**
 
 ---
 ## Open Threads

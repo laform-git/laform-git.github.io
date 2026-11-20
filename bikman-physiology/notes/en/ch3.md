@@ -4,6 +4,15 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 3 (transcript). Third lecture of a seven-lecture systems course; it builds directly on the electrophysiology (Ch.1) and peripheral nervous system (Ch.2) lectures. Ends with a short student Q&A on brain fuel, lactate, and ketones.*
 
+**Words in this note:**
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **ATPase**: an enzyme that uses ATP for energy
+- **ADP**: adenosine diphosphate, "spent" ATP
+- **SERCA**: a pump that pulls calcium back so a muscle can relax
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 Muscle is, by mass, the largest single tissue in most people (about 38% of body weight in men and 31% in women; Janssen 2000), and it is one of the most metabolically dynamic tissues in the body. Bikman's framing: muscle is the one cell type that physically changes size in milliseconds, and every concept from earlier lectures (action potentials, chemically gated channels, ATP, active vs. passive transport, nicotinic receptors) is used here with nothing new added except the muscle-specific hardware. The lecture also corrects two common beliefs: that "lactic acid" causes the burn, and that bigger muscles come from more muscle cells.
 

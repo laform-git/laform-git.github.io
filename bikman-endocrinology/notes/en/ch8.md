@@ -4,6 +4,14 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 8 + Q&A (final lecture). Fat tissue as an endocrine organ — personal to Bikman, who says discovering this field as a graduate student set his entire career path.*
 
+**Words in this note:**
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **BMI**: body mass index, weight compared with height
+- **SREBP-1c**: a switch that turns on fat-making in the liver
+- **POMC**: a parent protein the brain cuts into ACTH and other hormones
+- **MSH**: melanocyte-stimulating hormone, which affects skin color and appetite
+- **GnRH**: gonadotropin-releasing hormone, the brain's signal that starts LH and FSH
+
 ## Why This Matters
 This chapter gives the specific molecular mechanism for why adiponectin matters, introduces a genuinely actionable clinical proxy (the leptin:adiponectin ratio), and includes Bikman's detailed, non-mainstream critique of how GLP-1 weight-loss drugs are currently prescribed.
 

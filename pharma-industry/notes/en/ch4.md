@@ -4,6 +4,14 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry," Lecture 4 (transcript). Fourth of eight lectures; follows Ch.3 Selling Sickness and sets up Ch.5 Mother's Little Helper. The lecture ends with three audience Q&A exchanges (off-label prescribing, government versus competition, Big Food and Big Pharma). Transcript is complete.*
 
+**Words in this note:**
+- **FDA**: U.S. Food and Drug Administration
+- **AMA**: American Medical Association
+- **FTC**: U.S. Federal Trade Commission
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the lecture where modern drug regulation is born. Before 1962, a US drug company only had to show a drug was reasonably safe; it never had to show the drug worked, never had to register with the FDA, and never had an inspector at the door. Posner's thesis is a repeating cycle: **tragedy, then reform, then industry resistance**. The reform that finally passed was a safety-and-efficacy law, and the industry accepted it because the part it feared most (shorter patents and loss of pricing power) was dropped. Knowing what the 1962 law did and did not do is the baseline for reading any prescription label, any drug ad and any "FDA-approved" claim. Posner is an investigative journalist (author of *Pharma*), not a scientist, so his historical facts are marked ✅ when stated clearly and his interpretations 🟡.
 

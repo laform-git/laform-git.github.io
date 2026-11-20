@@ -4,6 +4,18 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry," Lecture 7 (transcript). Seventh of eight lectures; follows Ch.6 on political capture and sets up Ch.8 on pandemic profits. Posner is an investigative journalist (author of "Pharma"), not a scientist: his historical facts are marked ✅ when clearly stated, his interpretations 🟡. Transcript reads as complete; it ends on his "smarter patient" checklist.*
 
+**Words in this note:**
+- **PBM**: pharmacy benefit manager, a middleman that handles drug prices for insurers
+- **PBMs**: pharmacy benefit managers, middlemen that handle drug prices for insurers
+- **NIH**: U.S. National Institutes of Health
+- **FDA**: U.S. Food and Drug Administration
+- **HIV**: human immunodeficiency virus
+- **CDC**: U.S. Centers for Disease Control and Prevention
+- **FTC**: U.S. Federal Trade Commission
+- **DNA**: the genetic code inside each cell
+- **TRT**: testosterone replacement therapy
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 Earlier lectures followed the mass-market model. This lecture shows the inversion. Since the Orphan Drug Act, the most profitable drugs can be ones that treat a few hundred or a few thousand people at $300,000 to $4 million each. Posner's thesis: **profit comes from scarcity, not volume**, and the system that allows it is a mix of patent law, orphan exclusivity, off-label promotion and opaque middlemen (PBMs). For a patient: list price, formulary and pharmacy routing are shaped by forces unrelated to how well a drug works.
 

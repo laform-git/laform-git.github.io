@@ -4,6 +4,17 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 7 (transcripción). Séptima de ocho clases; sigue del Cap. 6, sobre cómo se compró a los políticos, y prepara el Cap. 8, sobre las ganancias de la pandemia. Posner es periodista de investigación (autor de "Pharma"), no científico: sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. La transcripción parece completa; termina con su lista del "paciente más inteligente".*
 
+**Palabras de esta nota:**
+- **PBM**: administrador de beneficios de farmacia, intermediario que maneja precios de medicamentos para las aseguradoras
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **VIH**: virus de inmunodeficiencia humana
+- **CDC**: Centros para el Control y la Prevención de Enfermedades de EE. UU.
+- **FTC**: Comisión Federal de Comercio de EE. UU.
+- **ADN**: el código genético dentro de cada célula
+- **TRT**: terapia de reemplazo de testosterona
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Las clases anteriores siguieron el modelo de vender a millones. Esta clase muestra lo contrario. Desde la Ley de Medicamentos Huérfanos, las medicinas que más dejan pueden ser las que tratan a unos cuantos cientos o miles de personas, a entre $300,000 y $4 millones cada una. La idea de Posner: **la ganancia viene de que haya pocos, no de vender mucho**, y lo que lo permite es una mezcla de leyes de patentes, la exclusividad para medicinas huérfanas, la promoción para usos no aprobados ("off-label") y unos intermediarios de los que se sabe poco (los PBM). Para un paciente: el precio de lista, la lista de medicinas que cubre el seguro y la farmacia a la que lo mandan dependen de fuerzas que no tienen nada que ver con qué tan bien funciona una medicina.
 

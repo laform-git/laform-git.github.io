@@ -4,6 +4,13 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 7 (transcript). The capstone of the course's organ-system tour, which Bikman deliberately gives its own chapter because physiology textbooks rarely do. Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series; this lecture is where his fat-cell research specialty shows up most directly.*
 
+**Words in this note:**
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **LPL**: lipoprotein lipase, the enzyme that unloads fat from the blood into tissues
+- **BMI**: body mass index, weight compared with height
+- **TRT**: testosterone replacement therapy
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the lecture that explains *why* fat grows, not just *that* it grows. Bikman's central claim is that fat gain needs two things, energy and an insulin signal, and that the metabolic damage of excess fat comes from how big each fat cell gets rather than how much fat the body carries in total. It ties together everything in the "Why We Get Sick" series (insulin as a growth signal, inflammation as a cause of insulin resistance) and sets up the "Functions of Fat" chapter of the Endocrinology course.
 

@@ -4,6 +4,15 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry," Lecture 8 (transcript). Final lecture of the eight-part course; it closes the series with COVID-19 as the case study for every pattern in Ch.1 to Ch.7, then a short audience Q&A on doctors, the FDA and the ProPublica payments database. Transcript complete: it ends naturally at the end of the Q&A.*
 
+**Words in this note:**
+- **FDA**: U.S. Food and Drug Administration
+- **WHO**: World Health Organization
+- **mRNA**: messenger RNA, the copy of a gene the cell reads to build a protein
+- **NIH**: U.S. National Institutes of Health
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the capstone lecture. Posner takes the playbook he built across the course (crisis, public funding, private patent, weak pricing oversight, market expansion) and runs COVID-19 through it in real time. He is explicit that he is not discussing whether the vaccines worked or were needed; he is "following the money." The lecture is useful for two reasons: it shows how emergency conditions changed the rules (liability shields, purchase guarantees, conflict-of-interest exemptions), and it ends with his most practical material in the whole course, a short list of habits for being an informed, skeptical patient without rejecting care. Posner is an investigative journalist (author of *Pharma: Greed, Lies, and the Poisoning of America*), not a scientist: his historical and financial facts are marked ✅ when clearly stated, and his interpretations 🟡. Several dollar figures in this lecture are internally inconsistent and are flagged.
 

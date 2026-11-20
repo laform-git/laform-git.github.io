@@ -4,6 +4,20 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 6 (final lecture). Completes the six-chapter series.*
 
+**Words in this note:**
+- **TRT**: testosterone replacement therapy
+- **PCOS**: polycystic ovary syndrome, a hormone condition in women
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **FSH**: follicle-stimulating hormone, a brain hormone that drives sperm and egg development
+- **GnRH**: gonadotropin-releasing hormone, the brain's signal that starts LH and FSH
+- **CRH**: corticotropin-releasing hormone, the brain's first stress signal
+- **GPCR**: a receptor on the cell surface that passes signals inside
+- **LPL**: lipoprotein lipase, the enzyme that unloads fat from the blood into tissues
+- **AMH**: anti-Müllerian hormone, which reflects egg supply in women
+- **TG**: triglycerides, the main fat in the blood
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+
 ## Why This Matters
 This chapter gives the full mechanistic explanation for PCOS (insulin blocking aromatase) with a cited low-carb intervention study, and.
 

@@ -4,6 +4,16 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 6 (transcript). Sixth of eight chapters. This is an opinionated lecture: where Lugavere's claims go beyond the evidence he cites in the talk, they are flagged 🟡.*
 
+**Words in this note:**
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **WHO**: World Health Organization
+- **RCT**: randomized controlled trial, the strongest kind of study for testing a treatment
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **USDA**: U.S. Department of Agriculture
+- **BDNF**: brain-derived neurotrophic factor, a protein that helps brain cells grow and connect
+- **BMI**: body mass index, weight compared with height
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 This is the "how to think" lecture of the series. Before judging any specific food claim (meat bad, eggs bad, erythritol bad), you need the tools to judge the evidence behind it.
 

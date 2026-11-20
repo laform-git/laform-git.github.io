@@ -3,6 +3,26 @@
 
 *Fuente: Peterson Academy, Clase 4 + preguntas y respuestas. Aplica al cortisol la cadena de mando del Cap. 2 (hipotálamo, hipófisis, suprarrenal), y suma las hormonas del centro de la glándula.*
 
+**Palabras de esta nota:**
+- **HPA**: eje hipotálamo-hipófisis-suprarrenal, el sistema del estrés
+- **ADH**: hormona antidiurética, que hace que los riñones retengan agua
+- **ACTH**: hormona adrenocorticotrópica, la señal del cerebro a las suprarrenales para producir cortisol
+- **MSH**: hormona estimulante de los melanocitos, que influye en el color de la piel y el apetito
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **DHEA-S**: la forma almacenada de la DHEA que se mide en sangre
+- **StAR**: proteína que lleva el colesterol a la fábrica de hormonas de la célula
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **AVP**: arginina vasopresina, la misma hormona que la ADH
+- **CRH**: hormona liberadora de corticotropina, la primera señal de estrés del cerebro
+- **POMC**: proteína madre que el cerebro corta para obtener la ACTH y otras hormonas
+- **SHBG**: globulina fijadora de hormonas sexuales, una proteína que retiene las hormonas sexuales en la sangre
+- **GnRH**: hormona liberadora de gonadotropinas, la señal del cerebro que pone en marcha la LH y la FSH
+- **TRT**: terapia de reemplazo de testosterona
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **HPG**: eje hipotálamo-hipófisis-gónadas, el sistema que controla las hormonas sexuales
+- **AMP**: monofosfato de adenosina, señal de que a la célula le falta energía
+
 ## Por qué importa
 
 ## La idea central — Una glándula, dos tejidos totalmente distintos

@@ -4,6 +4,14 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry," Lecture 3 (transcript). Third of eight lectures; it opens with two add-ons to Ch.2 (penicillin use patents, farm antibiotics) and closes with a preview of Ch.4 (the 1959–62 investigation and bill). Transcript read in full and complete: it ends on the Lecture 4 preview.*
 
+**Words in this note:**
+- **FDA**: U.S. Food and Drug Administration
+- **USDA**: U.S. Department of Agriculture
+- **AMA**: American Medical Association
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 Ch.2 showed that drugs could finally work (antibiotics). Ch.3 shows how the industry learned to *sell* them, and Posner argues this is where the business model of modern pharma was born: the drug rep, the free sample, the ghostwritten article, continuing medical education with a sponsor, the "new and improved" patent extension, and the expansion of what counts as a disease. Posner is an investigative journalist (author of *Pharma*), not a scientist. His historical facts are marked ✅ when clearly stated; his interpretations and a few garbled numbers are 🟡. The practical payoff is the closing section: how to be a more questioning patient when a new drug is suggested.
 

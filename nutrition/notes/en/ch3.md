@@ -4,6 +4,14 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 3 (transcript). Third chapter of an eight-chapter series (Fundamentals, Satiety Superstars, Standards, Timing, Tailoring, Controversies, Genius Foods, Microbiome). Lugavere states up front he is not a medical doctor; his lens is a decade of nutrition work and reader feedback, not clinical practice. His claims below are attributed to him, with 🟡 where unsupported or contested.*
 
+**Words in this note:**
+- **NOVA**: a system that sorts foods by how processed they are
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **UPF**: ultra-processed food
+- **RBD**: REM sleep behavior disorder, acting out dreams in sleep
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 This is the "standards" lecture: it sets the yardstick the rest of the series measures food against. The central move is from the old model (demonize one nutrient in isolation: fat, then saturated fat, then carbs) to the new model (the food, its processing, and its matrix are what matter). It is a concepts-and-heuristics lecture rather than a biochemistry lecture.
 

@@ -3,6 +3,14 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 2 (transcripción). Segunda de ocho clases; sigue del Cap. 1 Snake Oil Origins y prepara el Cap. 3 Selling Sickness. Transcripción completa: termina con un adelanto de la siguiente clase (los "líderes de opinión"), como es su estilo de charla continua.*
 
+**Palabras de esta nota:**
+- **USDA**: Departamento de Agricultura de EE. UU.
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 En esta clase llega la ciencia de verdad, y Posner lo presenta como "la ciencia se encuentra con la ganancia". El Proyecto Penicilina muestra lo que la industria puede lograr cuando el gobierno, las universidades y las compañías trabajan juntos sin patentes; todo lo que viene después muestra lo que esas mismas compañías hicieron cuando ya pudieron patentar. Casi todo lo que define a la industria de hoy nace aquí: los juegos con las patentes (medicinas de copia), la publicidad dirigida a los médicos, el hueco legal de recetar para usos no aprobados ("off-label"), las "puertas giratorias" con quienes las vigilan y el cambio de las curas a las recetas de por vida. Posner es periodista de investigación (autor de *Pharma*), no científico: sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus opiniones e interpretaciones con 🟡.
 

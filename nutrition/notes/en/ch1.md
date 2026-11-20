@@ -4,6 +4,15 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 1 (transcript). A practical, non-PhD framing of nutrition: the food-processing continuum, the three macronutrients, and the essential-vs-optimal distinction. New series, new note thread.*
 
+**Words in this note:**
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **UPF**: ultra-processed food
+- **WHO**: World Health Organization
+- **FDA**: U.S. Food and Drug Administration
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+
 ## Why This Matters
 This is the vocabulary lecture for the whole eight-part nutrition course. Lugavere sets the lens he uses everywhere after it: nutrition is bespoke, not one-size-fits-all; whole foods come packaged by nature with protective partners (antioxidants, fiber, a food matrix); and processing is a continuum, not a yes/no.
 

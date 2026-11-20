@@ -4,6 +4,22 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 3 (transcript). Continuation of Ch.1–2 — this chapter moves from "what insulin resistance is" into "what diseases it actually causes," starting with type 2 diabetes and heart disease.*
 
+**Words in this note:**
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **NHANES**: a large U.S. government health and nutrition survey
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **RCT**: randomized controlled trial, the strongest kind of study for testing a treatment
+- **TG**: triglycerides, the main fat in the blood
+- **LDL-C**: the cholesterol carried in LDL
+- **RCTs**: randomized controlled trials, the strongest kind of study for testing a treatment
+- **DNA**: the genetic code inside each cell
+- **AHA**: American Heart Association
+- **HbA1c**: a blood test showing average blood sugar over about three months
+- **MCT**: medium-chain triglycerides, fats the liver turns quickly into ketones
+
 ## Why This Matters
 
 Ch.1–2 built the mechanism and the threshold concept. This chapter answers **why we keep missing insulin resistance clinically** (we measure the wrong thing, historically and technically), then walks through exactly how insulin resistance becomes type 2 diabetes tissue by tissue, and mounts a detailed, evidence-based challenge to the standard LDL-causes-heart-disease model.

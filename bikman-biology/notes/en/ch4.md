@@ -4,6 +4,14 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 4 (transcript). Fourth of six chapters in a foundational cell-biology course; builds on the biomolecule (Ch.3) and enzyme material and sets up the cell cycle (Ch.5).*
 
+**Words in this note:**
+- **DNA**: the genetic code inside each cell
+- **RNA**: a working copy of genetic code
+- **mRNA**: messenger RNA, the copy of a gene the cell reads to build a protein
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+
 ## Why This Matters
 This is the lecture where the earlier pieces (nucleic acids, enzymes, organelles, vesicles) snap into one story: **genes determine the body because DNA is turned into RNA, and RNA is turned into the proteins that actually do the work.** It is foundational vocabulary rather than something you act on directly, and the Q&A at the end is where it touches diet and long-term health.
 

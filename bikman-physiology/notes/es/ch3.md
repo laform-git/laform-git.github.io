@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 3 (transcripción). Tercera clase de un curso de siete clases sobre los sistemas del cuerpo; se apoya directo en las clases de señales eléctricas (Cap. 1) y de los nervios fuera del cerebro (Cap. 2). Termina con una ronda corta de preguntas de estudiantes sobre el combustible del cerebro, el lactato y las cetonas.*
 
+**Palabras de esta nota:**
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **ATPasa**: enzima que usa ATP como energía
+- **ADP**: difosfato de adenosina, el ATP ya "gastado"
+- **SERCA**: bomba que regresa el calcio para que el músculo se relaje
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 El músculo es, por peso, el tejido más grande en casi todas las personas (cerca del 38% del peso del cuerpo en hombres y del 31% en mujeres; Janssen 2000), y es de los tejidos que más energía mueven en el cuerpo. La forma de verlo de Bikman: el músculo es el único tipo de célula que cambia de tamaño en milésimas de segundo, y cada idea de las clases anteriores (señales completas, canales que se abren con sustancias químicas, ATP, bombear contra pasar solo, receptores nicotínicos) se usa aquí sin agregar nada nuevo más que las piezas propias del músculo. La clase también corrige dos creencias comunes: que el "ácido láctico" causa el ardor y que los músculos más grandes vienen de tener más células de músculo.
 

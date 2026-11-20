@@ -4,6 +4,20 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 7 (transcript, subtitle "Achieving Antifragility"). Builds on the MIND diet, hormesis, food-matrix and cholesterol material from earlier lectures in this course.*
 
+**Words in this note:**
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **BDNF**: brain-derived neurotrophic factor, a protein that helps brain cells grow and connect
+- **NEAT**: non-exercise activity thermogenesis, the calories burned by everyday movement
+- **DASH**: a diet designed to lower blood pressure
+- **USDA**: U.S. Department of Agriculture
+- **RCT**: randomized controlled trial, the strongest kind of study for testing a treatment
+- **FDA**: U.S. Food and Drug Administration
+- **APOE4**: a gene variant that raises Alzheimer's risk
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+- **BMI**: body mass index, weight compared with height
+
 ## Why This Matters
 This is the "what do I actually put in the cart" lecture. It first frames metabolic health as resilience (not just weight), then gives a short, repeatable list of food categories with the reason each one earns its place. The practical move is simple: fewer foods, bought repeatedly, rather than "everything in moderation."
 

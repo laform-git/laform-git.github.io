@@ -3,6 +3,13 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 4 (transcripción). Cuarta de ocho clases; sigue del Cap. 3 Selling Sickness y prepara el Cap. 5 Mother's Little Helper. La clase termina con tres preguntas del público (recetar para usos no aprobados, gobierno contra competencia, las grandes empresas de comida y las farmacéuticas). La transcripción está completa.*
 
+**Palabras de esta nota:**
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **FTC**: Comisión Federal de Comercio de EE. UU.
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 En esta clase nacen las reglas modernas para las medicinas. Antes de 1962, una farmacéutica de EE. UU. solo tenía que demostrar que una medicina era más o menos segura; nunca tenía que demostrar que funcionaba, nunca tenía que registrarse ante la FDA y nunca tenía a un inspector en la puerta. La idea de Posner es un ciclo que se repite: **tragedia, luego reforma, luego resistencia de la industria**. La reforma que por fin se aprobó fue una ley de seguridad y de que funcionaran, y la industria la aceptó porque se quitó lo que más miedo le daba (patentes más cortas y perder el poder de poner precios). Saber qué hizo y qué no hizo la ley de 1962 es la base para leer cualquier etiqueta de receta, cualquier anuncio de medicinas y cualquier frase de "aprobado por la FDA". Posner es periodista de investigación (autor de *Pharma*), no científico, así que sus datos de historia se marcan ✅ cuando los dice con claridad y sus interpretaciones 🟡.
 

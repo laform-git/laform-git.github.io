@@ -4,6 +4,13 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 2 (transcripción). Se apoya directo en la Clase 1 (la célula, incluidas la señal completa del nervio y el paso de la señal entre células). El mismo maestro de las series de Endocrinología y Why We Get Sick; esta es la primera clase del curso que ve sistemas completos.*
 
+**Palabras de esta nota:**
+- **GABA**: el principal mensajero químico calmante del cerebro
+- **GABA-A**: el receptor del GABA sobre el que actúan las pastillas para dormir y el alcohol
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta clase pasa de la célula al primer sistema de órganos y da el mapa de conexiones en el que se va a apoyar cada clase que sigue del curso (músculo del esqueleto, corazón y pulmones, aparato digestivo, hormonas, grasa). Dos ideas son las que más pesan para después: (1) el sistema nervioso automático controla todo menos el músculo del esqueleto por medio de dos ramas contrarias pero que trabajan juntas, y (2) la misma señal se puede subir o bajar en el punto donde pasa de una célula a otra (sinapsis), por eso el dolor lo pueden subir las prostaglandinas y bajar las endorfinas. Bikman también termina con la grasa, la parte que más tiene que ver con su enfoque del azúcar y la energía: la señal del lado simpático es lo que les dice a las células de grasa que deshagan la grasa guardada.
 

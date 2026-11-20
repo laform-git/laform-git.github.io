@@ -4,6 +4,15 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 1 (transcripción). Una forma práctica, no de doctorado, de ver la nutrición: qué tan procesada está la comida, los tres macronutrientes y la diferencia entre lo indispensable y lo mejor. Serie nueva, notas nuevas.*
 
+**Palabras de esta nota:**
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **OMS**: Organización Mundial de la Salud
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+
 ## Por qué importa
 Esta es la clase de las palabras básicas de todo el curso de nutrición de ocho partes. Lugavere pone el enfoque que usa en todo lo que sigue: la nutrición es a la medida, no igual para todos; la comida natural viene "empacada" por la naturaleza con cosas que la protegen (antioxidantes, fibra, la estructura del alimento, que él llama matriz); y qué tan procesado está algo va por grados, no es sí o no.
 

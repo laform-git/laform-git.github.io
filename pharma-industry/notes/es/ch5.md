@@ -3,6 +3,15 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry" (él lo llama "The Secrets of Big Pharma: How To Be a Better Patient"), Clase 5 (transcripción). Quinta de ocho clases; regresa desde 1962, el año de Kefauver con el que terminó el Cap. 4, a la "calma química" de los años cincuenta y avanza hasta la época de los opioides, para luego pasar al Cap. 6 sobre cómo se compró a los políticos. Transcripción completa: termina con el adelanto de Posner de la siguiente clase.*
 
+**Palabras de esta nota:**
+- **ADN**: el código genético dentro de cada célula
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **TRH**: hormona liberadora de tirotropina, la señal del cerebro que pone en marcha la TSH
+- **CDC**: Centros para el Control y la Prevención de Enfermedades de EE. UU.
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta es la clase que une todo el curso. En vez de una línea del tiempo en orden, Posner junta tres olas de productos (tranquilizantes, anfetaminas, hormonas) y la ola posterior de opioides con un solo método: tomar algo normal de la vida (estrés, cansancio, peso, envejecer, dolor), presentarlo como un problema médico, vender una pastilla como la solución segura y callarse lo de la dependencia hasta que ya no se pueda esconder. Se fija sobre todo en la **publicidad dirigida según el sexo**: de los años cincuenta a los setenta el blanco eran las mujeres, y quienes les recetaban eran casi todos hombres (cerca de 95%). Posner es periodista de investigación (autor de *Pharma*), no médico: sus datos de historia se marcan ✅ cuando los dice con claridad y sus interpretaciones 🟡. Muchas cifras son cosas que dijo en la clase sin dar la fuente.
 

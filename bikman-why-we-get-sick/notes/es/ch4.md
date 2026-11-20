@@ -4,6 +4,21 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick", Clase 4 + preguntas y respuestas (transcripción). Completa la lista de enfermedades que se anunció en el Cap. 1: Alzheimer/demencia, migrañas, SOP, disfunción eréctil/testosterona baja y cáncer.*
 
+**Palabras de esta nota:**
+- **SOP**: síndrome de ovario poliquístico, un trastorno hormonal en mujeres
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **TRT**: terapia de reemplazo de testosterona
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **APOE4**: variante de un gen que aumenta el riesgo de alzhéimer
+- **ARN**: una copia de trabajo del código genético
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **MCT**: triglicéridos de cadena media, grasas que el hígado convierte rápido en cetonas
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **SHBG**: globulina fijadora de hormonas sexuales, una proteína que retiene las hormonas sexuales en la sangre
+- **ADN**: el código genético dentro de cada célula
+- **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
+- **DHEA-S**: la forma almacenada de la DHEA que se mide en sangre
+
 ## Por qué importa
 
 Este capítulo toma la misma pregunta de "¿es la causa o solo está ahí?" que el Cap. 3 hizo sobre el LDL y la aplica a las placas de amiloide en el Alzheimer, con una historia de verdad sorprendente detrás, sobre las autoridades que aprueban medicinas y sobre la honestidad en la ciencia.

@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology", Lección 7. A diferencia de los Cap. 3–6 (tiroides, suprarrenales, glándulas sexuales), el páncreas NO obedece a la cadena hipotálamo-hipófisis: trabaja por su cuenta y revisa el cuerpo directamente.*
 
+**Palabras de esta nota:**
+- **MODY**: diabetes de inicio en la madurez de los jóvenes, una forma hereditaria de diabetes
+- **GLUT1**: puerta del azúcar que funciona sin insulina, la usan el cerebro y los glóbulos rojos
+- **GLUT2**: puerta del azúcar de doble sentido en hígado, intestino y páncreas
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **HbA1c**: análisis que muestra el promedio de azúcar en sangre de unos tres meses
+- **AMP**: monofosfato de adenosina, señal de que a la célula le falta energía
+
 ## Por qué importa
 Lo más útil y nuevo de este capítulo es la **MODY**: un tipo de diabetes que se hereda, que se parece a la tipo 1 pero muchas veces se diagnostica mal, y que se puede tratar con una sola pastilla o con una dieta baja en carbohidratos en vez de insulina de por vida. Vale la pena conocerla si en una familia hay diabetes "tipo 1" en varias generaciones (algo que no debería pasar con una tipo 1 verdadera, que es autoinmune y no se hereda de forma directa de padres a hijos).
 

@@ -4,6 +4,21 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 4 + Q&A (transcript). Completes the disease list from Ch.1's scope-setting claim: Alzheimer's/dementia, migraines, PCOS, erectile dysfunction/low testosterone, and cancer.*
 
+**Words in this note:**
+- **PCOS**: polycystic ovary syndrome, a hormone condition in women
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **TRT**: testosterone replacement therapy
+- **FDA**: U.S. Food and Drug Administration
+- **APOE4**: a gene variant that raises Alzheimer's risk
+- **RNA**: a working copy of genetic code
+- **RCTs**: randomized controlled trials, the strongest kind of study for testing a treatment
+- **MCT**: medium-chain triglycerides, fats the liver turns quickly into ketones
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **DNA**: the genetic code inside each cell
+- **NHANES**: a large U.S. government health and nutrition survey
+- **DHEA-S**: the stored, blood-test form of DHEA
+
 ## Why This Matters
 
 This chapter takes the same "is it cause or bystander?" question Ch.3 asked about LDL and applies it to amyloid plaques in Alzheimer's — with genuinely startling regulatory and research-integrity history behind it.

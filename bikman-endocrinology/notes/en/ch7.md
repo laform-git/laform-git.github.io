@@ -4,6 +4,16 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 7. Unlike Ch.3–6 (thyroid, adrenal, gonads), the pancreas does NOT report to the hypothalamic-pituitary axis — it's autonomous, sampling the body directly.*
 
+**Words in this note:**
+- **MODY**: maturity-onset diabetes of the young, an inherited form of diabetes
+- **GLUT1**: a sugar door that works without insulin, used by the brain and red blood cells
+- **GLUT2**: a two-way sugar door in the liver, gut and pancreas
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **HbA1c**: a blood test showing average blood sugar over about three months
+- **GPCR**: a receptor on the cell surface that passes signals inside
+- **AMP**: adenosine monophosphate, a sign the cell is low on energy
+
 ## Why This Matters
 The most practically significant new material here is **MODY** — a genetic form of diabetes that mimics Type 1 but is commonly misdiagnosed, is treatable with a single pill or low-carb diet rather than lifelong insulin therapy, and is worth knowing about given any family history of "Type 1" diabetes across generations (which should not happen with true Type 1, since it's autoimmune, not inherited in a dominant pattern).
 

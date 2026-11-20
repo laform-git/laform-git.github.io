@@ -4,6 +4,16 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 6 (transcript) — the final lecture of the course, followed by a Q&A on statins and cancer metabolism. Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series; this lecture is the energy-chemistry foundation underneath both.*
 
+**Words in this note:**
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **CoQ10**: coenzyme Q10, a helper in the mitochondria's energy chain
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **NADH**: a molecule that carries energy from food to the mitochondria
+- **ADP**: adenosine diphosphate, "spent" ATP
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+
 ## Why This Matters
 Every hormone, receptor and transporter covered in the other Bikman series ultimately cashes out as a question about energy: is the cell breaking fuel down to make ATP, or building something up and storing it? This lecture lays out the machinery behind that choice and names the one signal that largely decides it — **insulin**.
 

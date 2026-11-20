@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology" (Fundamentos de Biología), Clase 5 (transcripción). Es el mismo curso de los Cap. 1-4 y el Cap. 6 ("del ADN a la proteína", del Cap. 4, es lo que viene justo antes): biología básica de la célula, no una clase de tratamientos médicos.*
 
+**Palabras de esta nota:**
+- **SRY**: el gen del cromosoma Y que inicia el desarrollo masculino
+- **ADN**: el código genético dentro de cada célula
+- **TRT**: terapia de reemplazo de testosterona
+- **AMH**: hormona antimülleriana, que refleja la reserva de óvulos
+- **DHT**: dihidrotestosterona, una forma más potente de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta clase toma la maquinaria para copiar el ADN y usar los genes de la clase anterior y muestra cómo la usa la célula en la práctica para dividirse. Es la base de cómo crecemos, cómo se reparan los tejidos, cómo nos reproducimos y — en el último tercio — de cómo se decide el sexo y cómo el desarrollo puede no coincidir con los genes.
 

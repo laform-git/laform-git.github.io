@@ -4,6 +4,18 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 2 (transcript). Second chapter of an eight-lecture series; Ch.1 covers nutritional fundamentals (macronutrient definitions are assumed here).*
 
+**Words in this note:**
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **PDCAAS**: a score for protein quality
+- **DIAAS**: a newer score for protein quality
+- **NHANES**: a large U.S. government health and nutrition survey
+- **DNA**: the genetic code inside each cell
+- **NIH**: U.S. National Institutes of Health
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+
 ## Why This Matters
 This lecture is the practical engine of the series: it turns the vocabulary of Ch.1 into a working model of a good diet. Its central move is reframing "eat less" advice — people already eat to fullness, so the lever is *satiety per calorie*, not willpower.
 

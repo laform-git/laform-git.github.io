@@ -4,6 +4,19 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 2 (transcripción). Segundo capítulo de una serie de ocho clases; el Cap. 1 ve las bases de la nutrición (aquí se da por sabido qué son los macronutrientes).*
 
+**Palabras de esta nota:**
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **PDCAAS**: puntaje de calidad de la proteína
+- **DIAAS**: puntaje más nuevo de calidad de la proteína
+- **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
+- **ADN**: el código genético dentro de cada célula
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+
 ## Por qué importa
 Esta clase es el motor práctico de la serie: convierte las palabras del Cap. 1 en un modelo que funciona de una buena dieta. Su idea central es cambiar el consejo de "come menos" — la gente ya come hasta llenarse, así que lo que se puede mover es *qué tanto llena cada caloría*, no la fuerza de voluntad.
 

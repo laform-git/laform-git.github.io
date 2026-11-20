@@ -4,6 +4,14 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 8 (transcripción). Última lección de la serie de 8 partes; retoma temas de capítulos anteriores (los nitratos de las hojas verdes, la fibra, el ácido del estómago en suplemento, la vitamina D como hormona) en vez de traer una idea totalmente nueva.*
 
+**Palabras de esta nota:**
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+
 ## Por qué importa
 Esta lección explica cómo la comida se vuelve trabajo del cuerpo: las bacterias de la boca convierten el nitrato de la comida en la materia prima del óxido nítrico, las bacterias del colon convierten la fibra en butirato y otras sustancias útiles, y el estado de los nervios con el que comes decide cuánto aprovechas de verdad de la comida. Casi todo lo que se dice aquí junta cómo funciona con pruebas de observación, y Lugavere acepta con franqueza que el tema "todavía está en la edad oscura".
 

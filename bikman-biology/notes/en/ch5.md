@@ -4,6 +4,15 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 5 (transcript). Same course as Ch.1-4 and Ch.6 (the Central Dogma in Ch.4 is the direct prerequisite) — foundational cell biology, not a clinical protocol lecture.*
 
+**Words in this note:**
+- **SRY**: the gene on the Y chromosome that starts male development
+- **DNA**: the genetic code inside each cell
+- **TRT**: testosterone replacement therapy
+- **AMH**: anti-Müllerian hormone, which reflects egg supply in women
+- **DHT**: dihydrotestosterone, a stronger form of testosterone
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This lecture takes the DNA replication and gene-expression machinery from the Central Dogma lecture and shows how a cell actually uses it to divide. It is the mechanical backbone for growth, tissue repair, reproduction, and — in the last third — how sex is determined and how development can diverge from genotype.
 

@@ -2,6 +2,21 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 1 (transcripción). Es el mismo profesor de la serie "Why We Get Sick" (seis capítulos, carpeta de Ciencia Metabólica), pero es un curso aparte: trata de cómo funcionan las hormonas en general, no solo de la resistencia a la insulina. Serie nueva, notas nuevas.*
 
+**Palabras de esta nota:**
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **StAR**: proteína que lleva el colesterol a la fábrica de hormonas de la célula
+- **IRS-1**: sustrato del receptor de insulina 1, el primer relevo de la señal de la insulina dentro de la célula
+- **PI3K**: enzima que pasa la señal de la insulina dentro de la célula
+- **AMP**: monofosfato de adenosina, señal de que a la célula le falta energía
+- **ADN**: el código genético dentro de cada célula
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **SHBG**: globulina fijadora de hormonas sexuales, una proteína que retiene las hormonas sexuales en la sangre
+- **ACTH**: hormona adrenocorticotrópica, la señal del cerebro a las suprarrenales para producir cortisol
+
 ## Por qué importa
 Esta clase da las palabras y las ideas básicas que se van a usar más adelante, cuando la serie llegue a las hormonas de la tiroides, de las glándulas suprarrenales y de los órganos sexuales.
 

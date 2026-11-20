@@ -3,6 +3,22 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 1 (transcript). Same lecturer as the "Why We Get Sick" series (six chapters, Metabolic Science folder) but this is a separate, distinct course — foundational hormone biology rather than insulin resistance specifically. New series, new note thread.*
 
+**Words in this note:**
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **StAR**: a protein that carries cholesterol into the cell's hormone factory
+- **IRS-1**: insulin receptor substrate 1, the first relay in insulin's signal inside the cell
+- **PI3K**: an enzyme that passes insulin's signal along inside the cell
+- **AMP**: adenosine monophosphate, a sign the cell is low on energy
+- **GPCR**: a receptor on the cell surface that passes signals inside
+- **DNA**: the genetic code inside each cell
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
+
 ## Why This Matters
 This lecture builds the vocabulary and mechanisms that will apply directly when this series reaches thyroid, adrenal, and gonadal hormones.
 

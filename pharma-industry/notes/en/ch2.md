@@ -4,6 +4,14 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry," Lecture 2 (transcript). Second of eight lectures; follows Ch.1 Snake Oil Origins and sets up Ch.3 Selling Sickness. Transcript complete: it ends on a preview of the next lecture (key opinion leaders), consistent with Posner's continuous-talk style.*
 
+**Words in this note:**
+- **USDA**: U.S. Department of Agriculture
+- **FDA**: U.S. Food and Drug Administration
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the lecture where real science arrives, and Posner's frame is "science meets profit." The Penicillin Project shows what the industry can do when government, universities and companies work together without patents; everything after it shows what the same companies did once they could patent. Nearly every structural feature of today's industry is born here: patent games (me-too drugs), marketing aimed at doctors, the off-label loophole, revolving doors with regulators, and the pivot from cures to lifelong prescriptions. Posner is an investigative journalist (author of *Pharma*), not a scientist: his historical facts are marked ✅ when clearly stated, his opinions and interpretations 🟡.
 

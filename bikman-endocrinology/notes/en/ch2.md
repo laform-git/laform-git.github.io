@@ -3,6 +3,23 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 2 (transcript). Builds directly on Ch.1's hormone classification.*
 
+**Words in this note:**
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **FSH**: follicle-stimulating hormone, a brain hormone that drives sperm and egg development
+- **TRT**: testosterone replacement therapy
+- **AVP**: arginine vasopressin, the same hormone as ADH
+- **GnRH**: gonadotropin-releasing hormone, the brain's signal that starts LH and FSH
+- **TRH**: thyrotropin-releasing hormone, the brain's signal that starts TSH
+- **CRH**: corticotropin-releasing hormone, the brain's first stress signal
+- **TSH**: thyroid-stimulating hormone, the brain's signal to the thyroid
+- **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
+- **HPG**: the hypothalamus-pituitary-gonad axis, the system that controls sex hormones
+- **ADH**: antidiuretic hormone, which makes the kidneys hold water
+- **GPCR**: a receptor on the cell surface that passes signals inside
+- **TG**: triglycerides, the main fat in the blood
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 This chapter gives the diagnostic logic clinicians actually use to figure out *where* in the chain a hormone problem originates — gland, pituitary, or brain — and, critically, explains why suppressed LH/FSH on exogenous testosterone therapy is an expected physiological response, not evidence of a separate pituitary problem.
 

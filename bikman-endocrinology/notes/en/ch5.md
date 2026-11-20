@@ -4,6 +4,23 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 5.*
 
+**Words in this note:**
+- **HPG**: the hypothalamus-pituitary-gonad axis, the system that controls sex hormones
+- **DHT**: dihydrotestosterone, a stronger form of testosterone
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **GnRH**: gonadotropin-releasing hormone, the brain's signal that starts LH and FSH
+- **GH**: growth hormone
+- **SRY**: the gene on the Y chromosome that starts male development
+- **AMH**: anti-Müllerian hormone, which reflects egg supply in women
+- **FSH**: follicle-stimulating hormone, a brain hormone that drives sperm and egg development
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **StAR**: a protein that carries cholesterol into the cell's hormone factory
+- **IGF-1**: insulin-like growth factor 1, the hormone growth hormone works through
+- **LPL**: lipoprotein lipase, the enzyme that unloads fat from the blood into tissues
+- **GPCR**: a receptor on the cell surface that passes signals inside
+
 ## Why This Matters
 This chapter gives the actual cellular mechanism behind testosterone production (Leydig cells responding to LH), what happens to testosterone after it's made (conversion to DHT or estradiol), and a specific, cited study on dietary fat's direct effect on testosterone levels.
 

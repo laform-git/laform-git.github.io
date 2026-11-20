@@ -4,6 +4,18 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 3 (transcript). First specific gland lecture, directly applying Ch.2's tertiary/secondary/primary framework and Ch.1's hormone classification system to the thyroid.*
 
+**Words in this note:**
+- **TSH**: thyroid-stimulating hormone, the brain's signal to the thyroid
+- **TPO**: thyroid peroxidase, an enzyme the thyroid uses to make hormone
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRH**: thyrotropin-releasing hormone, the brain's signal that starts TSH
+- **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
+- **CRH**: corticotropin-releasing hormone, the brain's first stress signal
+- **LH**: luteinizing hormone, a brain hormone that tells the testes or ovaries to make sex hormones
+- **HPG**: the hypothalamus-pituitary-gonad axis, the system that controls sex hormones
+- **GPCR**: a receptor on the cell surface that passes signals inside
+
 ## Why This Matters
 
 ## Scope-Setting Claim

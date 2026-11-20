@@ -2,6 +2,22 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 2 (transcripción). Se apoya directamente en la clasificación de hormonas del Cap. 1.*
 
+**Palabras de esta nota:**
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **FSH**: hormona foliculoestimulante, señal del cerebro para producir espermatozoides y óvulos
+- **TRT**: terapia de reemplazo de testosterona
+- **AVP**: arginina vasopresina, la misma hormona que la ADH
+- **GnRH**: hormona liberadora de gonadotropinas, la señal del cerebro que pone en marcha la LH y la FSH
+- **TRH**: hormona liberadora de tirotropina, la señal del cerebro que pone en marcha la TSH
+- **CRH**: hormona liberadora de corticotropina, la primera señal de estrés del cerebro
+- **TSH**: hormona estimulante de la tiroides, la señal del cerebro a la tiroides
+- **ACTH**: hormona adrenocorticotrópica, la señal del cerebro a las suprarrenales para producir cortisol
+- **HPG**: eje hipotálamo-hipófisis-gónadas, el sistema que controla las hormonas sexuales
+- **ADH**: hormona antidiurética, que hace que los riñones retengan agua
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Este capítulo explica cómo razonan los médicos para descubrir *en qué punto* de la cadena empieza un problema de hormonas: en la glándula, en la hipófisis o en el cerebro. Y explica algo importante: por qué, cuando alguien se pone testosterona por fuera (terapia de testosterona), es normal que bajen las hormonas LH y FSH. Es la respuesta esperada del cuerpo, no señal de un problema aparte en la hipófisis.
 

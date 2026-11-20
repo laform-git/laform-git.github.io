@@ -4,6 +4,14 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 4 (transcript). Series note: Ch.1 to Ch.8 of the same course; Lugavere shifts here from nutrients to extrinsic variables around eating.*
 
+**Words in this note:**
+- **IGF-1**: insulin-like growth factor 1, the hormone growth hormone works through
+- **NIH**: U.S. National Institutes of Health
+- **BDNF**: brain-derived neurotrophic factor, a protein that helps brain cells grow and connect
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This lecture is the practical bridge between "what to eat" (Ch.1 to Ch.3) and "how to schedule it." It gives you a decision framework rather than a rule: timing is the 20% in a Pareto split, protein quantity is the big rock, and fasting is an optional tool with real trade-offs (muscle, social life, stress load).
 

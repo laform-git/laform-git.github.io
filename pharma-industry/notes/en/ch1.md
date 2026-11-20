@@ -4,6 +4,14 @@
 
 *Source: Gerald Posner, Peterson Academy course "The Pharmaceutical Industry" (introduced on screen as "Secrets of Big Pharma: How to Be a Smarter Patient"), Lecture 1 (transcript). First of eight lectures; covers roughly 1800 to the 1920s. Transcript complete: it closes with a preview of Lecture 2 and "Thank you very much."*
 
+**Words in this note:**
+- **DNA**: the genetic code inside each cell
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **FDA**: U.S. Food and Drug Administration
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the origin story the rest of the course builds on. Posner's thesis is that the industry's start (addictive products, no prescriptions, no safety or efficacy proof, marketing ahead of science, early lobbying against regulation) is its "DNA" and a "template" that keeps repeating. Posner is an investigative journalist and lawyer (author of *Pharma*), not a scientist or physician, so his historical facts are marked ✅ when clearly stated and his interpretations 🟡. Several dates and attributions in the lecture are loose; a source audit (October 2026) adds inline evidence checks where the record differs, with references at the end.
 

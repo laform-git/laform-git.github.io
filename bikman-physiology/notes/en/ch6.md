@@ -4,6 +4,18 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 6 (transcript). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series — this is the compact, physiology-level version of the endocrine system, with disorders as the teaching device.*
 
+**Words in this note:**
+- **TSH**: thyroid-stimulating hormone, the brain's signal to the thyroid
+- **IGF-1**: insulin-like growth factor 1, the hormone growth hormone works through
+- **TRH**: thyrotropin-releasing hormone, the brain's signal that starts TSH
+- **WHO**: World Health Organization
+- **NHANES**: a large U.S. government health and nutrition survey
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
+
 ## Why This Matters
 This is the one "system" lecture in the course that is not a single organ — it is about signals moving between organs. Its two most reusable ideas: (1) **negative feedback lets you predict whether a hormone goes up or down**, and (2) **a hormone's chemistry (peptide, amine, steroid) dictates how it travels and how it signals**. It also closes with the cleanest short statement of how insulin resistance matures into type 2 diabetes.
 

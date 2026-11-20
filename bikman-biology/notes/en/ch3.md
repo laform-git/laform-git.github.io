@@ -4,6 +4,19 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 3 (transcript). Third chapter of a six-lecture foundations course; follows Ch.1 (The Cell) and Ch.2 (Crossing the Cell Wall). Separate course from the "Why We Get Sick" and "Essentials of Endocrinology" series by the same lecturer, but it supplies the molecular vocabulary both rely on.*
 
+**Words in this note:**
+- **mRNA**: messenger RNA, the copy of a gene the cell reads to build a protein
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **DNA**: the genetic code inside each cell
+- **RNA**: a working copy of genetic code
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **GLUT5**: the gut's door for fructose
+- **FDA**: U.S. Food and Drug Administration
+- **ATPase**: an enzyme that uses ATP for energy
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 Every later topic in this course (central dogma, cell cycle, metabolism) and in the other Bikman series is built from these four molecule families and from enzymes. Once you can sort any molecule into carbohydrate, lipid, protein, or nucleic acid, and know that enzymes (always ending in -ase) are what actually get work done, terms like triglyceride, peptide hormone, glycolysis, or mRNA stop being jargon and become predictable. It also explains several practical facts you already live with: why insulin and most GLP-1 drugs must be injected, why sugar and starch must be "snipped" before absorption, and why cholesterol is more than a lipid-panel number.
 

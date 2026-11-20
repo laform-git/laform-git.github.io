@@ -3,6 +3,18 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 6 (transcripción). El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology" — esta es la versión corta, a nivel de fisiología, de las hormonas, usando las enfermedades como ejemplos para aprender.*
 
+**Palabras de esta nota:**
+- **TSH**: hormona estimulante de la tiroides, la señal del cerebro a la tiroides
+- **IGF-1**: factor de crecimiento similar a la insulina tipo 1, por medio del cual actúa la hormona del crecimiento
+- **TRH**: hormona liberadora de tirotropina, la señal del cerebro que pone en marcha la TSH
+- **ACTH**: hormona adrenocorticotrópica, la señal del cerebro a las suprarrenales para producir cortisol
+- **OMS**: Organización Mundial de la Salud
+- **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
+- **HOMA-IR**: puntaje calculado con el azúcar y la insulina en ayunas para estimar la resistencia a la insulina
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Es la única lección del curso que no trata de un solo órgano — trata de mensajes que viajan de un órgano a otro. Sus dos ideas que más sirven en otros temas: (1) **el freno automático (retroalimentación negativa) te deja adivinar si una hormona va a subir o bajar**, y (2) **de qué está hecha una hormona (proteína, aminoácido o colesterol) decide cómo viaja y cómo da su mensaje**. Además termina con la explicación corta más clara de cómo la resistencia a la insulina crece hasta volverse diabetes tipo 2.
 

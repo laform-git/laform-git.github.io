@@ -4,6 +4,21 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 3 (transcripción). Sigue de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa de verdad", empezando por la diabetes tipo 2 y las enfermedades del corazón.*
 
+**Palabras de esta nota:**
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
+- **HOMA-IR**: puntaje calculado con el azúcar y la insulina en ayunas para estimar la resistencia a la insulina
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **LDL-C**: el colesterol que va en las LDL
+- **ADN**: el código genético dentro de cada célula
+- **AHA**: Asociación Americana del Corazón
+- **HbA1c**: análisis que muestra el promedio de azúcar en sangre de unos tres meses
+- **MCT**: triglicéridos de cadena media, grasas que el hígado convierte rápido en cetonas
+
 ## Por qué importa
 
 Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. Este capítulo responde **por qué seguimos sin detectar la resistencia a la insulina en la consulta** (medimos lo que no es, por razones de historia y de técnica), luego explica exactamente cómo la resistencia a la insulina se convierte en diabetes tipo 2, órgano por órgano, y presenta una crítica detallada y con evidencia a la idea común de que el LDL causa las enfermedades del corazón.

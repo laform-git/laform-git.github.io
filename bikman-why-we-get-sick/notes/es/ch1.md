@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 1 (transcripción). Bikman es científico y profesor de metabolismo (BYU): una fuente académica seria, no una figura de los medios.*
 
+**Palabras de esta nota:**
+- **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **HbA1c**: análisis que muestra el promedio de azúcar en sangre de unos tres meses
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **AMPK**: el sensor de combustible de la célula, se enciende cuando falta energía
+
 ## Por qué importa
 
 Esta clase cambia la forma de ver la resistencia a la insulina: deja de ser "una enfermedad más entre muchas" y pasa a ser "la tierra común de la que nacen la mayoría de las enfermedades crónicas". Explica, paso a paso, cómo una célula de grasa pasa de guardar energía de forma segura a envenenar el resto del cuerpo. También da el nombre antiguo del síndrome metabólico (síndrome de resistencia a la insulina), que describe mejor lo que de verdad pasa que el nombre moderno.

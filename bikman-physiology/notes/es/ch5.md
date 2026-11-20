@@ -3,6 +3,17 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 5 (transcripción). Sigue a Fisiología del corazón y los pulmones (Cap. 4); el páncreas y el glucagón se dejan claramente para la lección de Hormonas (Cap. 6).*
 
+**Palabras de esta nota:**
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **SGLT1**: bomba que jala el azúcar desde el intestino
+- **GLUT5**: la puerta del intestino para la fructosa
+- **SGLT2**: bomba del riñón que regresa el azúcar a la sangre; también un tipo de medicamento para la diabetes que la bloquea
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Esta es la lección de "cómo la comida se vuelve de verdad combustible". Cada macronutriente toma un camino distinto para entrar al cuerpo: los carbohidratos y la proteína van directo a la sangre, la grasa de cadena larga se desvía por la linfa (otro sistema de tubos del cuerpo), y las grasas de cadena corta y mediana van directo al hígado. Esos caminos distintos son la base de temas que vienen después: insulina y glucagón (Cap. 6), la grasa del cuerpo (Cap. 7), las cetonas y las medicinas basadas en hormonas del intestino que hoy salen en las noticias. También explica por qué la digestión de la grasa, la bilis y la proteína están unidas, lo que contradice mucho de lo que se dice sobre comer con poca grasa.
 

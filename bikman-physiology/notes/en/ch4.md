@@ -4,6 +4,15 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 4 (transcript). Same lecturer and same course thread as Ch.1 to Ch.3; this lecture builds on the ion/calcium and skeletal-muscle machinery from earlier chapters and hands off to the endocrine lecture next.*
 
+**Words in this note:**
+- **SERCA**: a pump that pulls calcium back so a muscle can relax
+- **ATPase**: an enzyme that uses ATP for energy
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **FEV1**: how much air you can blow out in one second
+- **VEGF**: a signal that makes new blood vessels grow
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **CAC**: coronary artery calcium score, a heart scan for hardened plaque
+
 ## Why This Matters
 The heart's only job is to move blood, and the blood is only worth moving because of what the lungs just did to it. Bikman's framing: you cannot understand one without the other. This chapter supplies the mechanics behind blood pressure numbers, heart sounds, murmurs, breathing rate, and a spirometry report. It also shows, again, a recurring theme of the course: the body regulates itself through chemistry (CO₂, hydrogen ions, stretch, pressure) rather than through any central awareness.
 

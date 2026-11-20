@@ -4,6 +4,18 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology" (Esenciales de Endocrinología), Clase 3 (transcripción). Es la primera clase dedicada a una sola glándula; aplica directamente a la tiroides el esquema de los tres niveles del Cap. 2 y la clasificación de hormonas del Cap. 1.*
 
+**Palabras de esta nota:**
+- **TPO**: tiroperoxidasa, una enzima que la tiroides usa para fabricar su hormona
+- **TSH**: hormona estimulante de la tiroides, la señal del cerebro a la tiroides
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **TRH**: hormona liberadora de tirotropina, la señal del cerebro que pone en marcha la TSH
+- **ACTH**: hormona adrenocorticotrópica, la señal del cerebro a las suprarrenales para producir cortisol
+- **CRH**: hormona liberadora de corticotropina, la primera señal de estrés del cerebro
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **HPG**: eje hipotálamo-hipófisis-gónadas, el sistema que controla las hormonas sexuales
+
 ## Por qué importa
 
 ## La idea que marca todo

@@ -3,6 +3,14 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry" (en pantalla aparece como "Secrets of Big Pharma: How to Be a Smarter Patient"), Clase 1 (transcripción). Primera de ocho clases; cubre más o menos de 1800 a los años veinte del siglo XX. Transcripción completa: termina con un adelanto de la Clase 2 y "Muchas gracias".*
 
+**Palabras de esta nota:**
+- **ADN**: el código genético dentro de cada célula
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta es la historia de cómo empezó todo, y el resto del curso se construye sobre ella. La idea de Posner es que la forma en que empezó la industria (productos que crean adicción, sin recetas, sin pruebas de que fueran seguros ni de que funcionaran, más publicidad que ciencia, y presión temprana sobre los políticos para que no hubiera reglas) es su "ADN" y un "molde" que se sigue repitiendo. Posner es periodista de investigación y abogado (autor del libro *Pharma*), no científico ni médico; por eso sus datos de historia se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. Varias fechas y nombres de la clase no son exactos; una revisión de fuentes (octubre de 2026) agrega revisiones de la evidencia donde la historia real es distinta, con las referencias al final.
 

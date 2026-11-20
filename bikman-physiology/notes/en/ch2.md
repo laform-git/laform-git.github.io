@@ -4,6 +4,13 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 2 (transcript). Builds directly on Lecture 1 (cell physiology, including the action potential and synapse). Same lecturer as the Endocrinology and Why We Get Sick series; this is the first systems-level lecture of the course.*
 
+**Words in this note:**
+- **GABA**: the brain's main calming chemical messenger
+- **GABA-A**: the receptor for GABA that sleeping pills and alcohol act on
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **TRT**: testosterone replacement therapy
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This lecture moves from the cell to the first organ system, and it supplies the wiring diagram that every later lecture in the course (skeletal muscle, cardiopulmonary, GI, endocrine, adipose) will plug into. Two ideas carry the most weight forward: (1) the autonomic nervous system runs everything except skeletal muscle through two opposing but cooperating branches, and (2) the same signal can be amplified or suppressed at the synapse, which is why pain can be turned up by prostaglandins and turned down by endorphins. Bikman also closes on fat tissue, the part most relevant to his metabolic focus: sympathetic signaling is what tells fat cells to break down stored fat.
 

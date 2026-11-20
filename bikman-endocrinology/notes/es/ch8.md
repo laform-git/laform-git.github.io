@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology", Lección 8 + preguntas y respuestas (última lección). La grasa como órgano que fabrica hormonas es un tema personal para Bikman: dice que descubrir este campo cuando estudiaba el posgrado marcó toda su carrera.*
 
+**Palabras de esta nota:**
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **IMC**: índice de masa corporal, el peso comparado con la estatura
+- **SREBP-1c**: interruptor que enciende la fabricación de grasa en el hígado
+- **POMC**: proteína madre que el cerebro corta para obtener la ACTH y otras hormonas
+- **MSH**: hormona estimulante de los melanocitos, que influye en el color de la piel y el apetito
+- **VIH**: virus de inmunodeficiencia humana
+- **GnRH**: hormona liberadora de gonadotropinas, la señal del cerebro que pone en marcha la LH y la FSH
+
 ## Por qué importa
 Este capítulo explica con detalle por qué importa la adiponectina, presenta una medida de laboratorio que de verdad se puede pedir y usar (la relación leptina:adiponectina) e incluye la crítica detallada y poco común de Bikman sobre cómo se recetan hoy las medicinas GLP-1 para bajar de peso.
 

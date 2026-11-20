@@ -4,6 +4,21 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" ("Por qué nos enfermamos"), Clase 5 (transcripción). Esta es la clase de "soluciones" que se fue dejando pendiente en los Cap. 1–4: primero los análisis y, luego, las cuatro herramientas para actuar: medicinas, ejercicio, cirugía y dieta.*
 
+**Palabras de esta nota:**
+- **HOMA-IR**: puntaje calculado con el azúcar y la insulina en ayunas para estimar la resistencia a la insulina
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **TZD**: tiazolidinedionas, un tipo de medicamento para la diabetes
+- **ADA**: Asociación Americana de Diabetes
+- **SOP**: síndrome de ovario poliquístico, un trastorno hormonal en mujeres
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **SGLT2**: bomba del riñón que regresa el azúcar a la sangre; también un tipo de medicamento para la diabetes que la bloquea
+- **SGLT1**: bomba que jala el azúcar desde el intestino
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **AMPK**: el sensor de combustible de la célula, se enciende cuando falta energía
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 
 Todos los capítulos anteriores dejaron para esta clase las metas en números y lo que se puede hacer en la práctica.

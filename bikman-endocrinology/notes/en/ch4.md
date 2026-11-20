@@ -4,6 +4,25 @@
 
 *Source: Peterson Academy, Lecture 4 + Q&A. Applies Ch.2's HPA framework to cortisol, plus adrenal medulla catecholamines.*
 
+**Words in this note:**
+- **HPA**: the hypothalamus-pituitary-adrenal axis, the body's stress system
+- **ADH**: antidiuretic hormone, which makes the kidneys hold water
+- **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
+- **MSH**: melanocyte-stimulating hormone, which affects skin color and appetite
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **DHEA-S**: the stored, blood-test form of DHEA
+- **AVP**: arginine vasopressin, the same hormone as ADH
+- **CRH**: corticotropin-releasing hormone, the brain's first stress signal
+- **POMC**: a parent protein the brain cuts into ACTH and other hormones
+- **SHBG**: sex hormone binding globulin, a protein that holds sex hormones in the blood
+- **GnRH**: gonadotropin-releasing hormone, the brain's signal that starts LH and FSH
+- **TRT**: testosterone replacement therapy
+- **TG**: triglycerides, the main fat in the blood
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **HPG**: the hypothalamus-pituitary-gonad axis, the system that controls sex hormones
+- **GPCR**: a receptor on the cell surface that passes signals inside
+- **AMP**: adenosine monophosphate, a sign the cell is low on energy
+
 ## Why This Matters
 
 ## Scope-Setting Claim — One Gland, Two Completely Different Tissues

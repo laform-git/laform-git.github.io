@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 4 (transcripción). El mismo maestro y la misma línea del curso que los Cap. 1 a 3; esta clase se apoya en lo de las partículas con carga, el calcio y el músculo del esqueleto de los capítulos anteriores y abre paso a la clase de hormonas que sigue.*
 
+**Palabras de esta nota:**
+- **SERCA**: bomba que regresa el calcio para que el músculo se relaje
+- **ATPasa**: enzima que usa ATP como energía
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **VEF1**: cuánto aire puedes sacar en un segundo
+- **VEGF**: señal que hace crecer vasos sanguíneos nuevos
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **CAC**: puntaje de calcio coronario, un estudio del corazón que busca placa endurecida
+
 ## Por qué importa
 El único trabajo del corazón es mover la sangre, y la sangre solo vale la pena moverla por lo que los pulmones le acaban de hacer. La forma de verlo de Bikman: no se puede entender uno sin el otro. Este capítulo da cómo funciona lo que hay detrás de los números de la presión, los ruidos del corazón, los soplos, cuántas veces respiramos y un estudio de soplar (espirometría). También muestra, otra vez, algo que se repite en el curso: el cuerpo se maneja solo con la química (CO₂, iones de hidrógeno, estiramiento, presión) y no con un centro que lo piense.
 

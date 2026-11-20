@@ -4,6 +4,15 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 8 (transcripción). Última clase del curso de ocho partes; cierra la serie usando el COVID-19 como ejemplo de cada patrón de los Cap. 1 a 7, y luego unas cuantas preguntas del público sobre los médicos, la FDA y la base de datos de pagos de ProPublica. Transcripción completa: termina de forma natural al final de las preguntas.*
 
+**Palabras de esta nota:**
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **OMS**: Organización Mundial de la Salud
+- **ARNm**: ARN mensajero, la copia de un gen que la célula lee para fabricar una proteína
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta es la clase final. Posner toma el método que fue armando en todo el curso (crisis, dinero público, patente privada, poca vigilancia de los precios, agrandar el mercado) y lo aplica al COVID-19 mientras pasaba. Deja claro que no está discutiendo si las vacunas funcionaron o si hacían falta; está "siguiendo el dinero". La clase sirve por dos razones: muestra cómo la emergencia cambió las reglas (protección contra demandas, compras aseguradas, permisos para saltarse los conflictos de intereses), y termina con lo más práctico de todo el curso, una lista corta de hábitos para ser un paciente informado y que pregunta, sin rechazar la atención médica. Posner es periodista de investigación (autor de *Pharma: Greed, Lies, and the Poisoning of America*), no científico: sus datos de historia y de dinero se marcan con ✅ cuando los dice con claridad, y sus interpretaciones con 🟡. Varias cifras de dinero de esta clase no cuadran entre sí y están señaladas.
 

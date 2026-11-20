@@ -4,6 +4,14 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 4 (transcripción). Nota de la serie: Cap. 1 a Cap. 8 del mismo curso; aquí Lugavere pasa de los nutrientes a las cosas de fuera alrededor de la comida.*
 
+**Palabras de esta nota:**
+- **IGF-1**: factor de crecimiento similar a la insulina tipo 1, por medio del cual actúa la hormona del crecimiento
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **BDNF**: factor neurotrófico derivado del cerebro, proteína que ayuda a las neuronas a crecer y conectarse
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta clase es el puente práctico entre "qué comer" (Cap. 1 a Cap. 3) y "cuándo comerlo". Te da una forma de decidir más que una regla: la hora es el 20 % en la regla del 80/20 (Pareto), la cantidad de proteína es la piedra grande, y el ayuno es una herramienta que se puede usar o no, con costos reales (músculo, vida social, estrés).
 

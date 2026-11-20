@@ -3,6 +3,13 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 7 (transcripción). El cierre del recorrido del curso por los órganos, al que Bikman a propósito le da su propio capítulo porque los libros de fisiología casi nunca lo hacen. El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology"; en esta lección es donde más se nota que la célula de grasa es lo que él investiga.*
 
+**Palabras de esta nota:**
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **LPL**: lipoproteína lipasa, la enzima que descarga la grasa de la sangre en los tejidos
+- **IMC**: índice de masa corporal, el peso comparado con la estatura
+- **TRT**: terapia de reemplazo de testosterona
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta es la lección que explica *por qué* crece la grasa, no solo *que* crece. La idea central de Bikman es que para subir de grasa hacen falta dos cosas, energía y una orden de la insulina, y que el daño de tener grasa de más viene de qué tan grande se hace cada célula de grasa más que de cuánta grasa tiene el cuerpo en total. Junta todo lo de la serie "Why We Get Sick" (la insulina como orden de crecer, la inflamación como causa de la resistencia a la insulina) y prepara el capítulo "Funciones de la grasa" del curso de Endocrinología.
 

@@ -3,6 +3,19 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology", Clase 6 (la última). Completa la serie de seis capítulos.*
 
+**Palabras de esta nota:**
+- **TRT**: terapia de reemplazo de testosterona
+- **SOP**: síndrome de ovario poliquístico, un trastorno hormonal en mujeres
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **SHBG**: globulina fijadora de hormonas sexuales, una proteína que retiene las hormonas sexuales en la sangre
+- **FSH**: hormona foliculoestimulante, señal del cerebro para producir espermatozoides y óvulos
+- **GnRH**: hormona liberadora de gonadotropinas, la señal del cerebro que pone en marcha la LH y la FSH
+- **CRH**: hormona liberadora de corticotropina, la primera señal de estrés del cerebro
+- **LPL**: lipoproteína lipasa, la enzima que descarga la grasa de la sangre en los tejidos
+- **AMH**: hormona antimülleriana, que refleja la reserva de óvulos
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+
 ## Por qué importa
 Este capítulo da la explicación completa de cómo funciona el SOP (síndrome de ovario poliquístico), según Bikman (la insulina bloqueando la aromatasa), con un estudio de una dieta baja en carbohidratos, y.
 

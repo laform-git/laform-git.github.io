@@ -4,6 +4,18 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" ("Por qué nos enfermamos"), Clase 6 + preguntas y respuestas (clase final, transcripción). Con esto se cierra la historia de seis capítulos: qué es la resistencia a la insulina (Cap.1–2), por qué importa (Cap.3–4) y ahora cómo ponerlo todo en práctica (Cap.5–6).*
 
+**Palabras de esta nota:**
+- **OMS**: Organización Mundial de la Salud
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **HOMA-IR**: puntaje calculado con el azúcar y la insulina en ayunas para estimar la resistencia a la insulina
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **CAC**: puntaje de calcio coronario, un estudio del corazón que busca placa endurecida
+- **SGLT2**: bomba del riñón que regresa el azúcar a la sangre; también un tipo de medicamento para la diabetes que la bloquea
+- **SOP**: síndrome de ovario poliquístico, un trastorno hormonal en mujeres
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **TZD**: tiazolidinedionas, un tipo de medicamento para la diabetes
+
 ## Por qué importa
 
 Este es el verdadero capítulo del "cómo": los cuatro pilares de la alimentación en un orden concreto y pensado, más lo que se puede hacer con el calor y el frío, más metas concretas en números, como "tarea", que por fin le dan objetivos claros a todo lo que se construyó en los cinco capítulos anteriores.

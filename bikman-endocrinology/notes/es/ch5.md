@@ -3,6 +3,22 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Essentials of Endocrinology", Clase 5.*
 
+**Palabras de esta nota:**
+- **HPG**: eje hipotálamo-hipófisis-gónadas, el sistema que controla las hormonas sexuales
+- **DHT**: dihidrotestosterona, una forma más potente de testosterona
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **LH**: hormona luteinizante, señal del cerebro para que testículos u ovarios produzcan hormonas sexuales
+- **GnRH**: hormona liberadora de gonadotropinas, la señal del cerebro que pone en marcha la LH y la FSH
+- **GH**: hormona del crecimiento
+- **SRY**: el gen del cromosoma Y que inicia el desarrollo masculino
+- **AMH**: hormona antimülleriana, que refleja la reserva de óvulos
+- **FSH**: hormona foliculoestimulante, señal del cerebro para producir espermatozoides y óvulos
+- **SHBG**: globulina fijadora de hormonas sexuales, una proteína que retiene las hormonas sexuales en la sangre
+- **StAR**: proteína que lleva el colesterol a la fábrica de hormonas de la célula
+- **IGF-1**: factor de crecimiento similar a la insulina tipo 1, por medio del cual actúa la hormona del crecimiento
+- **LPL**: lipoproteína lipasa, la enzima que descarga la grasa de la sangre en los tejidos
+
 ## Por qué importa
 Este capítulo explica cómo se fabrica de verdad la testosterona (unas células del testículo, las de Leydig, responden a la hormona LH), qué le pasa a la testosterona después (se convierte en DHT o en estradiol) y un estudio concreto sobre cómo la grasa de la comida afecta directamente los niveles de testosterona.
 

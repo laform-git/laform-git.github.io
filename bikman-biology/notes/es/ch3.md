@@ -4,6 +4,19 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 3 (transcripción). Tercer capítulo de un curso básico de seis clases; sigue del Cap. 1 (La célula) y el Cap. 2 (Atravesar la pared celular). Es un curso distinto de las series "Why We Get Sick" y "Essentials of Endocrinology" del mismo profesor, pero da las palabras de química en las que se apoyan las dos.*
 
+**Palabras de esta nota:**
+- **ARNm**: ARN mensajero, la copia de un gen que la célula lee para fabricar una proteína
+- **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
+- **ADN**: el código genético dentro de cada célula
+- **ARN**: una copia de trabajo del código genético
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **GLUT5**: la puerta del intestino para la fructosa
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **ATPasa**: enzima que usa ATP como energía
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Todo lo que viene en este curso (del ADN a la proteína, cómo se dividen las células, el metabolismo) y en las otras series de Bikman sale de estas cuatro familias de moléculas y de las enzimas. En cuanto sepas acomodar cualquier molécula como carbohidrato, grasa, proteína o ácido nucleico, y sepas que las enzimas (cuyo nombre siempre termina en -asa) son las que de verdad hacen el trabajo, palabras como triglicérido, hormona peptídica, glucólisis o ARNm dejan de ser palabras raras y se vuelven fáciles de entender. También explica cosas prácticas de todos los días: por qué la insulina y la mayoría de las medicinas GLP-1 se tienen que inyectar, por qué el azúcar y el almidón se tienen que "cortar" antes de absorberse, y por qué el colesterol es más que un número en los análisis de grasas en la sangre.
 

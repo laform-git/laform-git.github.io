@@ -3,6 +3,13 @@
 
 *Fuente: Gerald Posner, curso de Peterson Academy "The Pharmaceutical Industry", Clase 3 (transcripción). Tercera de ocho clases; empieza con dos agregados al Cap. 2 (patentes de cómo fabricar la penicilina, antibióticos en las granjas) y termina con un adelanto del Cap. 4 (la investigación y el proyecto de ley de 1959–62). Transcripción leída completa: termina con el adelanto de la Clase 4.*
 
+**Palabras de esta nota:**
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **USDA**: Departamento de Agricultura de EE. UU.
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 El Cap. 2 mostró que por fin las medicinas podían funcionar (los antibióticos). El Cap. 3 muestra cómo la industria aprendió a *venderlas*, y Posner dice que aquí nació la forma de hacer negocio de la industria farmacéutica moderna: el vendedor que visita al médico, la muestra gratis, el artículo escrito por encargo, los cursos para médicos pagados por la industria, la patente que se alarga con un "nuevo y mejorado" y la ampliación de lo que cuenta como enfermedad. Posner es periodista de investigación (autor de *Pharma*), no científico. Sus datos de historia se marcan con ✅ cuando los dice con claridad; sus interpretaciones y algunas cifras confusas, con 🟡. Lo más útil para la vida diaria es la sección final: cómo ser un paciente que hace más preguntas cuando le sugieren una medicina nueva.
 

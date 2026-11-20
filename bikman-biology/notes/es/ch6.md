@@ -4,6 +4,16 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology" (Fundamentos de Biología), Clase 6 (transcripción) — la última clase del curso, seguida de una sesión de preguntas sobre las estatinas y sobre cómo usa el cáncer el azúcar. Es el mismo profesor de las series "Why We Get Sick" y "Essentials of Endocrinology"; esta clase es la base de química de la energía en la que se apoyan las dos.*
 
+**Palabras de esta nota:**
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **CoQ10**: coenzima Q10, ayudante en la cadena de energía de las mitocondrias
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **NADH**: molécula que lleva la energía de la comida a las mitocondrias
+- **ADP**: difosfato de adenosina, el ATP ya "gastado"
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+
 ## Por qué importa
 Cada hormona, receptor y transportador que se estudia en las otras series de Bikman termina siendo una pregunta sobre la energía: ¿la célula está deshaciendo combustible para fabricar ATP (la "moneda" de energía), o está construyendo algo y guardándolo? Esta clase explica la maquinaria detrás de esa decisión y dice qué señal la decide en gran parte: la **insulina**.
 

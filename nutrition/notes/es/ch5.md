@@ -3,6 +3,13 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 5 (transcripción). Quinto de ocho capítulos; se apoya en lo de proteína, saciedad y comida ultraprocesada de las clases anteriores y pasa de "qué comer" a "cómo ajustarlo a tu meta".*
 
+**Palabras de esta nota:**
+- **DASH**: dieta diseñada para bajar la presión arterial
+- **NEAT**: calorías que se gastan con el movimiento cotidiano (no ejercicio)
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta es la clase en la que las recomendaciones de antes se vuelven un plan propio. La idea central de Lugavere es que ninguna comida ni ninguna dieta con nombre es la palanca; lo es la forma de comer que puedes mantener la mayor parte de tu vida. También da un método concreto que se puede revisar (calorías para mantenerse, de cuánto quitar, el mínimo de proteína, las calorías que quedan) y corrige varias ideas falsas comunes sobre bajar grasa.
 

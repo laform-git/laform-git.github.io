@@ -3,6 +3,16 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 6 (transcripción). Sexto de ocho capítulos. Es una clase con opiniones fuertes: donde lo que dice Lugavere va más allá de las pruebas que cita en la plática, se marca con 🟡.*
 
+**Palabras de esta nota:**
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **OMS**: Organización Mundial de la Salud
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **USDA**: Departamento de Agricultura de EE. UU.
+- **BDNF**: factor neurotrófico derivado del cerebro, proteína que ayuda a las neuronas a crecer y conectarse
+- **IMC**: índice de masa corporal, el peso comparado con la estatura
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Esta es la clase de "cómo pensar" de la serie. Antes de juzgar cualquier afirmación sobre una comida (la carne es mala, el huevo es malo, el eritritol es malo), hacen falta herramientas para juzgar las pruebas que la sostienen.
 

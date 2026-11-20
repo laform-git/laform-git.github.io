@@ -4,6 +4,15 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Basics of Biology," Lecture 1 (transcript). Same lecturer as the "Essentials of Endocrinology" and "Why We Get Sick" series; this is the ground-floor course that the others build on. New series, new note thread (six chapters: cell, membrane transport, biomolecules, central dogma, cell cycle, metabolism).*
 
+**Words in this note:**
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+- **DNA**: the genetic code inside each cell
+- **RNA**: a working copy of genetic code
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **LDL**: low-density lipoprotein, the "bad" cholesterol carrier
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+
 ## Why This Matters
 This lecture is the vocabulary layer underneath everything else Bikman teaches: what a cell is, what its parts do, and why its membrane is a selective barrier rather than a wall. It is foundational rather than personal.
 

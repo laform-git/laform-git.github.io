@@ -4,6 +4,16 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Fundamentals of Physiology," Lecture 1 (transcript). Same lecturer as the "Why We Get Sick" and "Essentials of Endocrinology" series, but a separate course — whole-body function built up from the cell. New series, new note thread.*
 
+**Words in this note:**
+- **ATP**: adenosine triphosphate, the cell's energy currency
+- **ADA**: American Diabetes Association
+- **AHA**: American Heart Association
+- **ATPase**: an enzyme that uses ATP for energy
+- **GLUT4**: the sugar door in muscle and fat cells that insulin opens
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This lecture is the vocabulary layer for the entire physiology course: nervous system, muscle, heart and lungs, gut, endocrine, and fat all reuse the three ideas introduced here — feedback loops that restore a set point, gradients that need ATP to maintain, and electrical signals made of moving ions.
 

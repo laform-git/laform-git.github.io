@@ -4,6 +4,13 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Clase 3 (transcripción). Tercer capítulo de una serie de ocho (Fundamentos, Superestrellas de la saciedad, Estándares, A qué hora comer, Dieta a la medida, Controversias, Alimentos geniales, Bacterias del intestino). Lugavere aclara desde el principio que no es médico; lo que dice viene de diez años trabajando en nutrición y de lo que le cuentan sus lectores, no de atender pacientes. Lo de abajo es lo que él dice, con 🟡 donde no tiene apoyo o se discute.*
 
+**Palabras de esta nota:**
+- **NOVA**: sistema que clasifica los alimentos según qué tan procesados están
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **RBD**: trastorno de conducta del sueño REM, actuar los sueños dormido
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Esta es la clase de los "estándares": pone la vara con la que el resto de la serie mide la comida. El cambio central es pasar del modelo viejo (echarle la culpa a un nutriente suelto: primero la grasa, luego la grasa saturada, luego los carbohidratos) al modelo nuevo (lo que importa es la comida, qué tan procesada está y cómo está armada). Es una clase de ideas y reglas prácticas más que de química del cuerpo.
 

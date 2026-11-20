@@ -4,6 +4,13 @@
 
 *Source: Max Lugavere, Peterson Academy course "Introduction to Nutrition," Lecture 5 (transcript). Fifth of eight chapters; builds on the protein, satiety, and ultra-processed-food material from earlier lectures and shifts from "what to eat" to "how to fit it to your goal."*
 
+**Words in this note:**
+- **DASH**: a diet designed to lower blood pressure
+- **NEAT**: non-exercise activity thermogenesis, the calories burned by everyday movement
+- **TRT**: testosterone replacement therapy
+- **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 This is the lecture where the earlier recommendations get converted into a personal plan. Lugavere's central claim is that no single food and no single named diet is the lever; the pattern you can sustain for most of your life is. It also gives a concrete, checkable method (maintenance calories, deficit size, protein floor, remaining calorie budget) and corrects several common fat-loss myths.
 

@@ -4,6 +4,20 @@
 
 *Fuente: Max Lugavere, curso de Peterson Academy "Introduction to Nutrition", Lección 7 (transcripción, subtítulo "Achieving Antifragility"). Se apoya en lo de la dieta MIND, el estrés bueno, la matriz del alimento y el colesterol de lecciones anteriores de este curso.*
 
+**Palabras de esta nota:**
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **BDNF**: factor neurotrófico derivado del cerebro, proteína que ayuda a las neuronas a crecer y conectarse
+- **NEAT**: calorías que se gastan con el movimiento cotidiano (no ejercicio)
+- **DASH**: dieta diseñada para bajar la presión arterial
+- **USDA**: Departamento de Agricultura de EE. UU.
+- **ECA**: ensayo clínico aleatorizado, el tipo de estudio más sólido para probar un tratamiento
+- **FDA**: la agencia de alimentos y medicamentos de EE. UU.
+- **APOE4**: variante de un gen que aumenta el riesgo de alzhéimer
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+- **IMC**: índice de masa corporal, el peso comparado con la estatura
+
 ## Por qué importa
 Esta es la lección de "qué pongo de verdad en el carrito". Primero presenta la salud metabólica como aguante (no solo peso) y luego da una lista corta que se puede repetir de tipos de comida, con la razón por la que cada una se gana su lugar. Lo práctico es sencillo: menos comidas, compradas una y otra vez, en vez de "de todo con medida".
 

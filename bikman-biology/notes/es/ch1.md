@@ -4,6 +4,15 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology", Clase 1 (transcripción). Es el mismo profesor de las series "Essentials of Endocrinology" y "Why We Get Sick"; este es el curso básico en el que se apoyan los demás. Serie nueva, notas nuevas (seis capítulos: la célula, cómo entran y salen cosas de la célula, las moléculas de la vida, del ADN a la proteína, cómo se dividen las células, cómo sacan energía).*
 
+**Palabras de esta nota:**
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **ADN**: el código genético dentro de cada célula
+- **ARN**: una copia de trabajo del código genético
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+
 ## Por qué importa
 Esta clase da las palabras básicas sobre las que se apoya todo lo que enseña Bikman: qué es una célula, qué hacen sus partes y por qué su cubierta es una puerta que escoge qué deja pasar y no una pared cerrada. Es una clase de bases más que de cosas para aplicar en la vida diaria.
 

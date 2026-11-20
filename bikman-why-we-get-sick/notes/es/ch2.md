@@ -4,6 +4,20 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick", Clase 2 + preguntas y respuestas (transcripción). Sigue del Cap.1 — revisa esa nota para la cadena básica, las ceramidas y la diferencia entre agrandar células (hipertrofia) y hacer células nuevas (hiperplasia), que es la base de este capítulo.*
 
+**Palabras de esta nota:**
+- **IMC**: índice de masa corporal, el peso comparado con la estatura
+- **PPAR**: familia de interruptores que controlan cómo las células queman y guardan grasa
+- **HbA1c**: análisis que muestra el promedio de azúcar en sangre de unos tres meses
+- **HOMA-IR**: puntaje calculado con el azúcar y la insulina en ayunas para estimar la resistencia a la insulina
+- **NIH**: Institutos Nacionales de Salud de EE. UU.
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **AMP**: monofosfato de adenosina, señal de que a la célula le falta energía
+- **USDA**: Departamento de Agricultura de EE. UU.
+- **CDC**: Centros para el Control y la Prevención de Enfermedades de EE. UU.
+- **TG**: triglicéridos, la grasa principal de la sangre
+- **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 
 El Cap.1 mostró que las ceramidas causan la resistencia a la insulina y que las células de grasa fallan de dos maneras (se quedan sin espacio y se quedan sin sangre). El Cap.2 responde la siguiente pregunta lógica: **¿cuánta grasa puede guardar de verdad un cuerpo antes de que empiece esto, y por qué ese límite cambia de una persona a otra?** También completa las causas secundarias (aceites de semillas, ácido úrico), las hormonas que fabrican las células de grasa (adiponectina, leptina) y los genes que deciden quién agranda sus células y quién hace células nuevas.

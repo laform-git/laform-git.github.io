@@ -4,6 +4,14 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Basics of Biology" (Fundamentos de Biología), Clase 4 (transcripción). Cuarto de seis capítulos de un curso básico sobre la célula; se apoya en lo visto de las moléculas de la vida (Cap. 3) y las enzimas, y prepara el tema de cómo se dividen las células (Cap. 5).*
 
+**Palabras de esta nota:**
+- **ADN**: el código genético dentro de cada célula
+- **ARN**: una copia de trabajo del código genético
+- **ARNm**: ARN mensajero, la copia de un gen que la célula lee para fabricar una proteína
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **TRT**: terapia de reemplazo de testosterona
+
 ## Por qué importa
 En esta clase las piezas de antes (ácidos nucleicos, enzimas, partes de la célula, bolsitas) se juntan en una sola historia: **los genes deciden cómo es el cuerpo porque el ADN se convierte en ARN, y el ARN se convierte en las proteínas que de verdad hacen el trabajo.** Son palabras básicas más que algo que puedas usar directamente; la sesión de preguntas del final es donde el tema se conecta con la comida y la salud a largo plazo.
 

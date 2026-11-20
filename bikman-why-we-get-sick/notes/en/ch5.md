@@ -4,6 +4,21 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Why We Get Sick," Lecture 5 (transcript). This is the "solutions" lecture referenced as an open thread across Ch.1–4 — diagnostic tests, then the four intervention levers: drugs, exercise, surgery, and diet.*
 
+**Words in this note:**
+- **HOMA-IR**: a score calculated from fasting sugar and fasting insulin to estimate insulin resistance
+- **TG**: triglycerides, the main fat in the blood
+- **HDL**: high-density lipoprotein, the "good" cholesterol carrier
+- **RCT**: randomized controlled trial, the strongest kind of study for testing a treatment
+- **TZD**: thiazolidinediones, a class of diabetes drugs
+- **OGTT**: oral glucose tolerance test: you drink sugar and blood sugar is checked over two hours
+- **ADA**: American Diabetes Association
+- **PCOS**: polycystic ovary syndrome, a hormone condition in women
+- **GLP-1**: a gut hormone that lowers appetite and blood sugar; also a class of drugs (such as semaglutide)
+- **SGLT2**: a pump in the kidney that takes sugar back into the blood; also a class of diabetes drugs that block it
+- **SGLT1**: a pump that pulls sugar in from the gut
+- **RCTs**: randomized controlled trials, the strongest kind of study for testing a treatment
+- **ApoB**: apolipoprotein B; counts all the cholesterol particles that can clog arteries
+
 ## Why This Matters
 
 Every prior chapter deferred specific numeric targets and practical interventions to this lecture.

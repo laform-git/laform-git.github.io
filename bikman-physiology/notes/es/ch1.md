@@ -4,6 +4,16 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 1 (transcripción). El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology", pero es otro curso: cómo funciona todo el cuerpo, armado a partir de la célula. Serie nueva, notas nuevas.*
 
+**Palabras de esta nota:**
+- **ATP**: trifosfato de adenosina, la moneda de energía de la célula
+- **ADA**: Asociación Americana de Diabetes
+- **AHA**: Asociación Americana del Corazón
+- **ATPasa**: enzima que usa ATP como energía
+- **GLUT4**: la puerta del azúcar en músculo y grasa que abre la insulina
+- **TRT**: terapia de reemplazo de testosterona
+- **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
+- **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
+
 ## Por qué importa
 Esta clase pone las palabras básicas de todo el curso de fisiología (cómo funciona el cuerpo): los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa usan otra vez las tres ideas que se ven aquí: los círculos que se corrigen solos y regresan a un punto fijo, las diferencias entre adentro y afuera que necesitan energía (ATP) para mantenerse, y las señales eléctricas que salen de partículas con carga que se mueven.
 
