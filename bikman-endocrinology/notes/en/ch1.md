@@ -3,6 +3,8 @@
 
 *Source: Dr. Benjamin Bikman, Peterson Academy course "Essentials of Endocrinology," Lecture 1 (transcript). Same lecturer as the "Why We Get Sick" series (six chapters, Metabolic Science folder) but this is a separate, distinct course — foundational hormone biology rather than insulin resistance specifically. New series, new note thread.*
 
+**In plain words:** hormones are chemical messages that cells send to other cells. Today scientists know that almost every tissue sends them, not just a few glands. This lecture sorts hormones into three types (built from protein pieces, from single amino acids, or from cholesterol), explains how each one travels in the blood and delivers its message, and shows why a lab test should often look at the "free" hormone, not just the total.
+
 **Words in this note:**
 - **DHEA**: a hormone made by the adrenal glands that the body turns into sex hormones
 - **TRT**: testosterone replacement therapy
@@ -20,84 +22,87 @@
 - **ACTH**: adrenocorticotropic hormone, the brain's signal to the adrenal glands to make cortisol
 
 ## Why This Matters
-This lecture builds the vocabulary and mechanisms that will apply directly when this series reaches thyroid, adrenal, and gonadal hormones.
+This lecture builds the words and ideas that will be used directly when the series reaches the thyroid, adrenal and sex hormones.
 
-## Scope-Setting Claim — Every Tissue Is Endocrine
-The classic view limited endocrinology to specific glands (thyroid, adrenal, pituitary). Current understanding: **every tissue in the body secretes hormones** — muscle, fat, and gut are now recognized as active endocrine organs alongside the classic glands. ✅ Bikman's jazz band analogy: hormones are not a single conductor directing everything from the top down — they are more like band members responding to and influencing each other directly (though the brain does act as something closer to a conductor in some cases).
+## The Big Idea — Every Tissue Makes Hormones
+The old view limited endocrinology (the study of hormones) to certain glands: the thyroid, the adrenals and the pituitary. Today's understanding: **every tissue in the body releases hormones.** Muscle, fat and the gut are now recognized as active hormone-making (endocrine) organs alongside the classic glands. ✅ Bikman's jazz band picture: hormones are not one conductor directing everything from the top. They are more like band members responding to and influencing each other directly (though the brain does act more like a conductor in some cases).
 
 ## Punchlines & Quotable Facts (Lecture 1)
-- **"Every single tissue in the body is an endocrine tissue."** — the reframing this entire lecture builds toward.
-- **During intense cycling, muscle glucose uptake rises 20–30x while blood glucose stays rock steady** — the clean example Bikman uses to demonstrate why hormonal cross-talk (glucagon signaling the liver) has to exist at all. 🟢 Evidence check: exercise can raise muscle glucose uptake up to ~50-fold (Sylow 2017); blood glucose is held steady mainly by extra liver glucose output (glucagon, catecholamines), and it can even rise during very hard exercise.
-- **"We never should have ever called it a vitamin"** — on vitamin D, which is built on the same steroid nucleus as cortisol, testosterone, and estrogen, and functions far more like a hormone. ✅ Evidence check: vitamin D is a *secosteroid* (one ring of the steroid nucleus is broken open). It is made in the skin from 7-dehydrocholesterol by UVB light and activated in the liver and kidney, not built from pregnenolone (Bikle 2014).
-- **A thousand times more thyroid hormone circulates bound to its carrier than free** — yet only the free fraction is biologically active.
-- **Steroid hormones cannot be stored at all** — made strictly on demand, because they are too "greasy" (lipid-soluble) for the cell to hold in a vesicle.
-- **"Two naughty little kids in class... handing messages back and forth"** — Bikman's description of paracrine signaling between the pancreas's neighboring alpha and beta cells.
+- **"Every single tissue in the body is an endocrine tissue."** The new view this whole lecture builds toward.
+- **During hard cycling, glucose uptake by muscle rises 20–30 times while blood sugar stays rock steady.** Bikman uses this clean example to show why hormones have to talk to each other (glucagon telling the liver to release sugar). 🟢 Evidence check: exercise can raise muscle glucose uptake up to ~50-fold (Sylow 2017). Blood sugar is held steady mainly by extra sugar output from the liver (driven by glucagon and adrenaline-type hormones, the catecholamines), and it can even rise during very hard exercise.
+- **"We never should have ever called it a vitamin."** On vitamin D, which he says is built on the same steroid core as cortisol, testosterone and estrogen and works much more like a hormone. ✅ Evidence check: vitamin D is a *secosteroid* (one ring of the steroid core is broken open). It is made in the skin from a cholesterol relative (7-dehydrocholesterol) by UVB sunlight, and switched on in the liver and kidney. It is not built from pregnenolone (Bikle 2014).
+- **A thousand times more thyroid hormone travels attached to its carrier than free,** yet only the free part does anything.
+- **Steroid hormones cannot be stored at all.** They are made strictly on demand, because they are too "greasy" (fat-soluble) for the cell to hold in a storage bubble.
+- **"Two naughty little kids in class... handing messages back and forth."** Bikman's description of neighbor-to-neighbor (paracrine) signaling between the alpha and beta cells sitting side by side in the pancreas.
 
-## The Three Hormone Classes — Full Comparison
+## The Three Hormone Types — Full Comparison
 
 | Feature | Peptide | Amine | Steroid |
 | --- | --- | --- | --- |
-| **Built from** | Chain of amino acids ("string of pearls") | 1–2 amino acids (mainly tyrosine, also phenylalanine/tryptophan) | Cholesterol (the 4-ring "steroid nucleus") |
-| **Examples** | Insulin, glucagon, growth hormone | Thyroid hormone, epinephrine/norepinephrine | Cortisol, aldosterone, testosterone, estrogens, vitamin D |
-| **Storage** | Vesicles (pre-made, ready to release) | Vesicles (catecholamines); thyroid hormone uses a unique structure called a **follicle** | **None — made on demand only** |
-| **Water solubility** | Water-soluble | Catecholamines: water-soluble. Thyroid hormone: lipid-soluble | Lipid-soluble |
-| **Blood transport** | Free-flowing, no carrier needed | Catecholamines: free-flowing. Thyroid: carrier-bound | **Carrier-bound** (transport protein required) |
-| **How it signals the cell** | Binds a surface receptor ("knocks on the door") — never enters the cell | Catecholamines: surface receptor. Thyroid: enters the cell through membrane transporters (e.g., MCT8), then acts at the nucleus | **Passes straight through the cell membrane**, often acts directly at the nucleus |
+| **Built from** | A chain of amino acids (a "string of pearls") | One or two amino acids (mainly tyrosine, also phenylalanine or tryptophan) | Cholesterol (the four-ring "steroid core") |
+| **Examples** | Insulin, glucagon, growth hormone | Thyroid hormone, adrenaline/noradrenaline (epinephrine/norepinephrine) | Cortisol, aldosterone, testosterone, estrogens, vitamin D |
+| **Storage** | Storage bubbles (vesicles), ready-made and waiting to be released | Vesicles (adrenaline-type hormones); thyroid hormone uses a special structure called a **follicle** | **None: made on demand only** |
+| **Dissolves in** | Water | Adrenaline-type: water. Thyroid hormone: fat | Fat |
+| **Travel in the blood** | Flows freely, no carrier needed | Adrenaline-type: flows freely. Thyroid: attached to a carrier | **Attached to a carrier** (a transport protein is needed) |
+| **How it delivers its message** | Attaches to a receptor on the surface ("knocks on the door"); never enters the cell | Adrenaline-type: surface receptor. Thyroid: enters the cell through membrane transporters (for example MCT8), then acts at the nucleus | **Passes straight through the cell membrane**, often acting directly at the nucleus |
 
-✅ This table is the single most reusable reference from this lecture — every future hormone in this series (thyroid, cortisol, testosterone, estrogen, insulin, growth hormone) will map onto one of these three rows.
+✅ This table is the most useful reference from the lecture. Every hormone later in this series (thyroid, cortisol, testosterone, estrogen, insulin, growth hormone) fits one of these three columns.
 
-## Steroidogenesis
-- **LDL is the delivery vehicle**, not just a cardiovascular risk marker — it carries cholesterol to the gonads and adrenal cortex specifically so those tissues can build steroid hormones. 🟡 Evidence check: LDL is one supply route, not the only one. Steroid-making cells also take up HDL cholesterol (via the SR-BI receptor), make their own cholesterol and draw on stored cholesteryl esters; mice lacking LDL receptors still make adrenal steroids normally (Kraemer 2007; Miller 2011).
-- **StAR protein** (steroidogenic acute regulatory protein), located on the mitochondria, is the specific gatekeeper that pulls cholesterol into the mitochondria to begin steroid synthesis. ✅
-- **Pregnenolone** is the universal first product — every steroid hormone branches downstream from this one shared precursor molecule (vitamin D is the exception: it is made from 7-dehydrocholesterol in the skin, not from pregnenolone; Bikle 2014).
-- **Why steroid hormones are not stored:** their lipid solubility means they can freely diffuse through any membrane — a storage vesicle could not contain them even if the cell tried. This is a structural/chemical constraint, not a design choice. ✅
+## How Steroid Hormones Are Made (Steroidogenesis)
+- **LDL is the delivery truck**, not just a marker of heart risk. It carries cholesterol to the testes or ovaries (gonads) and the outer layer of the adrenal glands (adrenal cortex) so those tissues can build steroid hormones. 🟡 Evidence check: LDL is one supply route, not the only one. Steroid-making cells also take up HDL cholesterol (through a receptor called SR-BI), make their own cholesterol, and draw on stored cholesterol. Mice without LDL receptors still make adrenal steroids normally (Kraemer 2007; Miller 2011).
+- **StAR protein** (steroidogenic acute regulatory protein), sitting on the mitochondria, is the gatekeeper that pulls cholesterol into the mitochondria to start making steroids. ✅
+- **Pregnenolone** is the shared first product. Every steroid hormone branches off from this one starting molecule (vitamin D is the exception: it is made from 7-dehydrocholesterol in the skin, not from pregnenolone; Bikle 2014).
+- **Why steroid hormones are not stored:** because they dissolve in fat, they can slip through any membrane. A storage bubble could not hold them even if the cell tried. This is a limit set by chemistry, not a design choice. ✅
 
-## Bound vs. Free Hormone
-- Lipid-soluble hormones (thyroid, testosterone, estrogen, cortisol) travel through blood **mostly bound** to carrier proteins — only the small **free fraction** is biologically active. ✅
-- **Pregnancy example given:** rising estrogen during pregnancy roughly doubles thyroxine-binding globulin (TBG, the main thyroid carrier protein), massively increasing the *bound* pool — but the *free* pool (the actually active fraction) stays essentially the same. ✅ This creates a large physiological buffer: even if thyroid production were compromised during pregnancy, there's a huge reserve of bound hormone that can release into the free pool as needed. 🔴 Evidence check: this buffer idea is interpretation. In practice pregnancy raises thyroid hormone needs: in women on levothyroxine the required dose rose by about 47% in the first half of pregnancy, starting as early as week 5, and the authors advised raising the dose by about 30% as soon as pregnancy is confirmed (Alexander 2004); see the current ATA pregnancy guideline for practice (Korevaar 2026).
-- 🟢 **General principle worth carrying forward:** any future lab work on testosterone, thyroid, or cortisol needs to distinguish **total** vs. **free** hormone — a "normal" total reading can mask an abnormal free fraction if carrier protein levels have shifted for any reason (medication, liver function, pregnancy, etc.).
+## Attached vs. Free Hormone
+- Fat-soluble hormones (thyroid, testosterone, estrogen, cortisol) travel in the blood **mostly attached (bound)** to carrier proteins. Only the small **free part** does anything. ✅
+- **The pregnancy example:** rising estrogen in pregnancy roughly doubles thyroxine-binding globulin (TBG, the main carrier of thyroid hormone). This greatly increases the *bound* pool, but the *free* pool (the part that actually works) stays basically the same. ✅ He says this creates a large built-in buffer: even if the thyroid made less hormone during pregnancy, there would be a big reserve of bound hormone that could be released into the free pool as needed. 🔴 Evidence check: this buffer idea is an interpretation. In real life, pregnancy raises the need for thyroid hormone. In women taking thyroid hormone pills (levothyroxine), the dose they needed rose by about 47% in the first half of pregnancy, starting as early as week 5, and the authors advised raising the dose by about 30% as soon as pregnancy is confirmed (Alexander 2004). See the current American Thyroid Association (ATA) pregnancy guideline for practice (Korevaar 2026).
+- 🟢 **A general rule worth keeping:** any future blood test for testosterone, thyroid or cortisol needs to tell **total** hormone apart from **free** hormone. A "normal" total can hide an abnormal free level if the amount of carrier protein has changed for any reason (medicines, liver function, pregnancy and so on).
 
-## Signaling Types — Three Scales of Communication
-- **Autocrine:** a cell signals itself and identical neighboring cells — common in immune responses (e.g., a macrophage stimulating its own further activation) ✅
-- **Paracrine:** signaling between adjacent cells without entering the bloodstream — Bikman's example: pancreatic alpha cells (glucagon) and beta cells (insulin) communicating directly, since they sit immediately next to each other ✅
-- **Endocrine:** the classic definition — hormone enters the bloodstream and travels to a distant target tissue ✅
+## Three Distances of Signaling
+- **Autocrine:** a cell signals itself and identical cells next to it. Common in immune responses (for example, a macrophage, an immune cell, switching itself on further). ✅
+- **Paracrine:** signaling between neighboring cells without entering the blood. Bikman's example: the alpha cells (which make glucagon) and beta cells (which make insulin) of the pancreas talking directly, since they sit right next to each other. ✅
+- **Endocrine:** the classic definition. The hormone enters the blood and travels to a distant target. ✅
 
-## Receptor Mechanisms — Two Major Systems
-**Tyrosine kinase receptors** (water-soluble hormones, e.g., insulin)
-- Hormone binds surface receptor → receptor changes shape and phosphorylates itself (the insulin receptor is already a paired dimer before insulin binds) → downstream signaling cascade. This lecture places that specific pathway within the broader tyrosine kinase receptor category.
+## How Receptors Work — Two Main Systems
+**Tyrosine kinase receptors** (for water-soluble hormones, for example insulin)
+- The hormone attaches to a surface receptor → the receptor changes shape and adds phosphate tags to itself (the insulin receptor is already a joined pair before insulin attaches) → a chain of signals follows inside the cell. This lecture places that insulin pathway within the wider family of tyrosine kinase receptors.
 
-**G protein-coupled receptors (GPCRs)** — described as the single most relevant receptor type across the entire endocrinology field, Nobel Prize-recognized (Chemistry 2012, Lefkowitz and Kobilka)
-- Hormone binds → the receptor changes shape and activates its G protein, whose alpha subunit separates from the beta/gamma pair → triggers downstream signaling, most commonly producing **cyclic AMP** via adenylate cyclase ✅
-- A second GPCR-activated pathway, **phospholipase C**, provides an entirely separate signaling branch from the same receptor family ✅
-- 🟢 Flagged as the pathway to watch for repeatedly across this entire course — Bikman states GPCR signaling will recur constantly as new hormones are introduced
+**G protein-coupled receptors (GPCRs)**: described as the single most important receptor type in all of endocrinology, recognized with a Nobel Prize (Chemistry 2012, Lefkowitz and Kobilka)
+- The hormone attaches → the receptor changes shape and switches on its G protein, whose alpha part splits off from the beta/gamma pair → this starts a chain of signals inside the cell, most often making a messenger called **cyclic AMP** through an enzyme called adenylate cyclase. ✅
+- A second pathway switched on by GPCRs, **phospholipase C**, is a completely separate signaling branch from the same receptor family. ✅
+- 🟢 Flagged as the pathway to watch for again and again in this course; Bikman says GPCR signaling will come up constantly as new hormones are introduced.
 
-**Steroid/lipid-soluble hormone signaling** — no membrane receptor needed at all
-- Passes directly through the cell membrane — often travels straight to the nucleus and directly influences gene expression, where it binds its own intracellular (nuclear) receptor, which then acts on DNA ✅
+**Steroid (fat-soluble) hormone signaling**: no membrane receptor needed at all
+- The hormone passes straight through the cell membrane, often travels directly to the nucleus, and attaches to its own receptor inside the cell (a nuclear receptor), which then acts on the DNA to change which genes are used. ✅
 
 ## Negative and Positive Feedback
-- **Negative feedback (the default):** a stimulus triggers a hormone response, and that response acts to shut off the original stimulus — the insulin/glucose example (glucose rises → insulin rises → glucose falls → insulin falls) is the clean, familiar version of this. ✅
-- **Positive feedback (rare, tightly controlled):** more of a signal produces even more of the same signal, rather than shutting it down. Bikman names two examples, both female-specific: the ovulatory cycle and pregnancy itself (more precisely, the estradiol-driven LH surge before ovulation and the oxytocin loop during childbirth). 🟡 Flagged as an upcoming topic — mechanism not detailed in this lecture, just introduced as a named exception to the negative-feedback default.
+- **Negative feedback (the usual way):** something triggers a hormone response, and that response works to switch off the original trigger. Insulin and glucose are the clean, familiar example: glucose rises → insulin rises → glucose falls → insulin falls. ✅
+- **Positive feedback (rare and tightly controlled):** more of a signal produces even more of the same signal, rather than shutting it down. Bikman names two examples, both in women: the ovulation cycle and pregnancy itself (more exactly, the surge of LH, a pituitary hormone, driven by estradiol before ovulation, and the oxytocin loop during childbirth). 🟡 Flagged as a topic for later; the mechanism is not explained in this lecture, only named as an exception to the negative-feedback rule.
 
 ## Key Corrections to Carry Forward
-- 🔴 Assuming endocrinology only concerns a handful of classic glands: current understanding treats essentially every tissue (muscle, fat, gut, immune cells) as an active endocrine participant, not just thyroid/adrenal/pituitary/gonads.
-- 🔴 Assuming vitamin D is "just" a vitamin: it's built on the same steroid nucleus as cortisol and testosterone (strictly, a secosteroid made from 7-dehydrocholesterol) and functions as a hormone, not a nutrient in the conventional sense.
-- 🔴 Assuming a "normal" total hormone level on a lab panel is sufficient: without knowing the free fraction, a total reading can be misleading if carrier protein levels have shifted for any reason.
+- 🔴 Thinking endocrinology is only about a handful of classic glands: today essentially every tissue (muscle, fat, gut, immune cells) is seen as an active hormone sender, not just the thyroid, adrenals, pituitary and sex glands.
+- 🔴 Thinking vitamin D is "just" a vitamin: it is built on the same steroid core as cortisol and testosterone (strictly, a secosteroid made from 7-dehydrocholesterol) and works as a hormone, not a nutrient in the usual sense.
+- 🔴 Thinking a "normal" total hormone level on a blood test is enough: without knowing the free part, a total can mislead if carrier protein levels have changed for any reason.
 
 ## Practical Takeaway
+When reading a hormone blood test, ask whether it measured total or free hormone, and whether anything (medicines, liver function, pregnancy) might have changed the carrier proteins.
 
 ## Questions to Learn From (Socratic) — with Answer Options
-**1. Given that steroid hormones cannot be stored and are made strictly on demand — what does this suggest about why steroid hormone levels can fluctuate more rapidly in response to acute stimuli compared to peptide hormones like insulin?**
-A. Steroid hormones fluctuate more slowly than peptide hormones because they take longer to synthesize
-B. \* Since steroid hormones have no pre-made reserve sitting in vesicles (unlike insulin), their blood levels are entirely dependent on real-time synthesis rate — meaning acute changes in signal (e.g., ACTH driving cortisol) translate to acute changes in hormone output, without a stored buffer smoothing things out the way insulin's vesicle reserve does
-C. There's no meaningful difference in response speed between steroid and peptide hormones
-*Why B: this is a direct logical consequence of the storage difference established in this lecture — no stored reserve means output tracks synthesis signal more directly and immediately.*
+**1. Steroid hormones cannot be stored and are made strictly on demand. What does this suggest about why steroid hormone levels can change faster in response to sudden triggers than protein hormones like insulin?**
+A. Steroid hormones change more slowly than protein hormones because they take longer to make
+B. \* Since steroid hormones have no ready-made reserve sitting in storage bubbles (unlike insulin), their blood levels depend entirely on how fast they are being made at that moment; so a sudden change in signal (for example ACTH driving cortisol) becomes a sudden change in hormone output, with no stored buffer smoothing it out the way insulin's storage does
+C. There is no real difference in response speed between steroid and protein hormones
+*Why B: this follows directly from the storage difference set out in this lecture. No stored reserve means output follows the signal to make more more directly and immediately.*
 
 ## Open Threads
-- **Positive feedback mechanism in the ovulatory cycle and pregnancy** — named but not explained in this lecture; flagged as an upcoming topic in this series.
-- **Thyroid gland lecture** — explicitly named as the next major topic; will directly apply the bound/free hormone concept from this lecture.
+- **How positive feedback works in the ovulation cycle and pregnancy:** named but not explained in this lecture; flagged as a later topic in this series.
+- **The thyroid gland lecture:** named as the next major topic; it will apply the bound and free hormone idea from this lecture directly.
 
 ## What Was Deliberately Cut (Self-Audit)
-- Personal commentary: Bikman's jazz-band musician-by-musician narration style, his reference to his own prior "Basics in Biology" course
+- Personal touches: Bikman's band-member-by-band-member narration of the jazz picture, and his reference to his own earlier "Basics in Biology" course.
+
+**The point to remember: almost every tissue sends hormones, each hormone type travels and signals in its own way, and only the free, unattached part of a hormone actually does the work.**
 
 ---
 **References:**
