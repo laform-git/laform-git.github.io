@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 1 (transcripción). El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology", pero es otro curso: cómo funciona todo el cuerpo, armado a partir de la célula. Serie nueva, notas nuevas.*
 
+**En palabras sencillas:** esta primera clase explica cómo una célula se mantiene viva. El cuerpo siempre trata de regresar a lo normal, como un termostato que prende y apaga la calefacción. La célula también gasta energía para que adentro y afuera sean distintos: más sodio afuera, más potasio adentro. Cuando esas partículas con carga se mueven, nacen las señales eléctricas de los nervios. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **ATP**: trifosfato de adenosina, la moneda de energía de la célula
 - **ADA**: Asociación Americana de Diabetes
@@ -15,7 +17,7 @@
 - **ApoB**: apolipoproteína B; cuenta todas las partículas de colesterol que pueden tapar las arterias
 
 ## Por qué importa
-Esta clase pone las palabras básicas de todo el curso de fisiología (cómo funciona el cuerpo): los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa usan otra vez las tres ideas que se ven aquí: los círculos que se corrigen solos y regresan a un punto fijo, las diferencias entre adentro y afuera que necesitan energía (ATP) para mantenerse, y las señales eléctricas que salen de partículas con carga que se mueven.
+Esta clase pone las palabras básicas de todo el curso de fisiología (cómo funciona el cuerpo). Los nervios, el músculo, el corazón y los pulmones, el intestino, las hormonas y la grasa usan otra vez las tres ideas que se ven aquí. Son los círculos que se corrigen solos y regresan a un punto fijo, las diferencias entre adentro y afuera que necesitan energía (ATP) para mantenerse, y las señales eléctricas que salen de partículas con carga que se mueven.
 
 ## Lo que abarca — el cuerpo tiene muchos niveles, pero es uno solo
 La fisiología estudia el cuerpo completo: moléculas → células → tejidos y órganos → sistemas de órganos → cuerpo. El orden del curso de Bikman: la célula → los nervios fuera del cerebro → el músculo del esqueleto → el corazón y los pulmones → el aparato digestivo → las hormonas (su favorito, dice). ✅ Su forma de verlo: lo maravilloso no es solo que el cuerpo funcione, sino que todo salga bien *tan seguido*, con todas las cosas que podrían salir mal.
@@ -26,14 +28,14 @@ La fisiología estudia el cuerpo completo: moléculas → células → tejidos y
 - **El sodio está unas 10 veces más concentrado afuera de la célula; el potasio, unas 30 veces más adentro.** La célula gasta energía en mantener esta diferencia, no en quitarla.
 - **La mielina hace la señal unas 50 veces más rápida** que en el mismo cable del nervio sin ella — y se dice que la mielina tiene mucho colesterol y grasa. 🟢 Revisión de la evidencia: lo que dicen los libros es de 5 a 50 veces, así que 50 es lo más alto (Guyton & Hall); la mielina es lo que más colesterol tiene en el cerebro y el colesterol es indispensable para formarla (Saher 2005).
 - **"El agua va detrás de las sales (electrolitos)."** — a donde van las partículas con carga, el agua las sigue por unos canales.
-- **La lidocaína duerme la zona porque tapa los canales de sodio que se abren con el voltaje**, y así el nervio no se puede "encender" y no sale ninguna señal. ✅ (Hille 1977)
+- **La lidocaína (la anestesia que pone el dentista) duerme la zona porque tapa los canales de sodio que se abren con el voltaje**, y así el nervio no se puede "encender" y no sale ninguna señal. ✅ (Hille 1977)
 - **La energía de la célula = moléculas que le dejan hacer trabajo** (ATP), no "energía" como la de una planta de luz.
 
 ## Mantenerse parejo y corregirse solo
 **Homeostasis:** el cuerpo siempre regresa a un punto fijo (lo normal) en muchísimas cosas.
 - **Temperatura del cuerpo:** se mantiene en un par de grados, más o menos 36–38 C ✅
 - **pH (qué tan ácido está):** aunque se diga que el cuerpo está "muy ácido", se mantiene en un rango muy angosto (en la sangre de las arterias, más o menos 7.35–7.45) ✅
-- **Azúcar en la sangre:** más o menos 70–110 mg/dL; muy fuera de eso es peligroso en el momento ✅ 🟢 Revisión de la evidencia: la ADA (asociación de diabetes de EE. UU.) dice que el azúcar normal en ayunas es menos de 100 mg/dL, y hasta unos 140 mg/dL dos horas después de tomar azúcar sigue siendo normal (ADA 2025).
+- **Azúcar en la sangre:** más o menos 70–110 mg/dL; muy fuera de eso es peligroso en el momento ✅ 🟢 Revisión de la evidencia: la ADA (asociación de diabetes de EE. UU.) dice que el azúcar normal en ayunas es menos de 100 mg/dL, y hasta unos 140 mg/dL (miligramos por decilitro, la unidad con que se mide el azúcar) dos horas después de tomar azúcar sigue siendo normal (ADA 2025).
 
 **Corregirse solo hacia atrás (retroalimentación negativa)** (lo normal): notar un cambio → dar una respuesta → la respuesta regresa todo al punto de partida y se apaga sola. Tres partes:
 
@@ -46,14 +48,14 @@ La fisiología estudia el cuerpo completo: moléculas → células → tejidos y
 - En el cuerpo de verdad, las tres partes suelen estar juntas: la célula beta es sensor, centro de control y de donde sale la respuesta al mismo tiempo. ✅
 - **Corregirse hacia adelante (retroalimentación positiva):** una señal que se hace más grande sola (un micrófono muy cerca de la bocina). Es rara, siempre por un rato, necesita un propósito claro y una forma de apagarse. ✅
 - **El ejemplo del parto:** el bebé empuja el cuello de la matriz → señal de estiramiento al hipotálamo → oxitocina → la matriz se aprieta → más estiramiento → más oxitocina, hasta que el nacimiento cierra el círculo. ✅ Bikman dice que casi todos los ejemplos de corregirse hacia adelante pasan en el cuerpo de la mujer, y menos en el del hombre. 🔴 Revisión de la evidencia: es su forma de verlo; también hay círculos hacia adelante en todos los cuerpos, por ejemplo la cadena que forma los coágulos y la apertura de canales de sodio en cada señal del nervio (Guyton & Hall).
-- ✅ La transcripción dice que el hipotálamo "suelta" la oxitocina. Por cómo está hecho el cuerpo, la oxitocina la fabrican neuronas del hipotálamo (núcleos supraóptico y paraventricular) y sale a la sangre desde las puntas de esos nervios en la parte de atrás de la hipófisis, así que el hipotálamo sí es el centro de control correcto (Gimpl & Fahrenholz 2001).
+- ✅ La transcripción dice que el hipotálamo "suelta" la oxitocina. Por cómo está hecho el cuerpo, la oxitocina la fabrican neuronas del hipotálamo (núcleos supraóptico y paraventricular) y sale a la sangre desde las puntas de esos nervios en la parte de atrás de la hipófisis (una glándula pequeña debajo del cerebro), así que el hipotálamo sí es el centro de control correcto (Gimpl & Fahrenholz 2001).
 - ✅ Hasta corregirse hacia adelante sirve para mantenerse parejo: el resultado final (el bebé nacido, el cuello de la matriz ya no estirado) es regresar a un estado estable.
 
 ## Cómo pasan las cosas por la pared de la célula
 La pared de la célula es una **doble capa de grasa** (bicapa lipídica) — Bikman usa esto como razón para no tenerle miedo a la grasa de la comida, porque la grasa es parte de cómo está hecha cada célula. ✅ 🔴 Revisión de la evidencia: lo de la pared de la célula es firme, pero el cuerpo fabrica él mismo casi todas las grasas de sus paredes, así que esto no resuelve las preguntas sobre la grasa de la comida; la asociación del corazón de EE. UU. (AHA) y la revisión Cochrane se fijan en el *tipo* de grasa y prefieren la insaturada sobre la saturada (Sacks 2017; Hooper 2020). Todo lo que entra o sale está muy controlado.
 
 **Las diferencias entre adentro y afuera (la parte de la que depende todo lo demás):**
-- Sodio: ~10 veces más alto en el líquido de afuera de la célula (LEC) que en el de adentro (LIC) → empuja siempre hacia **adentro**.
+- Sodio: ~10 veces más alto en el líquido de afuera de la célula (LEC, líquido extracelular) que en el de adentro (LIC, líquido intracelular) → empuja siempre hacia **adentro**.
 - Potasio: ~30 veces más alto adentro (LIC) → se sale siempre hacia **afuera**.
 - Las partículas con carga que "ruedan cuesta abajo" crean juntas una **diferencia de cantidad** y una **diferencia eléctrica** = la **diferencia electroquímica** (gradiente electroquímico). ✅
 
@@ -72,11 +74,11 @@ La pared de la célula es una **doble capa de grasa** (bicapa lipídica) — Bik
 - **La comparación de la piedra en el cerro:** pasar solo = la piedra rueda cuesta abajo; bombear = empujar la piedra cuesta arriba. Hasta lo de "pasar solo" dependió de energía que se gastó antes para armar la diferencia. ✅
 - **Cuánta pared hay:** más pared quiere decir que se pasa solo más rápido. El ejemplo de Bikman: los músculos más grandes toman azúcar más rápido solo por tener más puertas de entrada — una razón por la que tener más músculo ayuda a controlar el azúcar en la sangre. ✅ 🟡 La clase lo une a cuánta pared hay y no dice exactamente cómo entra el azúcar. ✅ Revisión de la evidencia: el azúcar entra al músculo "con ayuda" por unos transportadores llamados GLUT4 (la insulina y apretar el músculo ponen más en la pared), no pasando solo. El músculo se lleva casi todo el azúcar que se saca de la sangre con la insulina (DeFronzo 1981), y tener más músculo comparado con el cuerpo va junto con que la insulina funcione mejor y con menos prediabetes (Srikanthan & Karlamangla 2011).
 - **El agua sigue a las partículas con carga:** los médicos pueden hacer que se saquen sales por la orina para que el agua las siga, y así bajar la presión en personas con agua de más en el cuerpo. ✅ (lo del riñón a propósito no se ve aquí)
-- **ATP** (adenosín trifosfato): romper sus uniones de fosfato con mucha energía (hidrólisis) suelta la energía con la que la célula "paga" el trabajo. Lo fabrican las mitocondrias (las "plantas de energía" de la célula) con grasas y azúcar. La terminación **-asa** quiere decir que es una enzima. ✅
+- **ATP** (adenosín trifosfato): romper sus uniones de fosfato con mucha energía (hidrólisis, romperlas con ayuda de agua) suelta la energía con la que la célula "paga" el trabajo. Lo fabrican las mitocondrias (las "plantas de energía" de la célula) con grasas y azúcar. La terminación **-asa** quiere decir que es una enzima. ✅
 - **La bomba de sodio-potasio (ATPasa):** saca sodio y mete potasio, los dos contra su diferencia, usando una sola proteína que funciona con ATP (saca 3 de sodio y mete 2 de potasio por cada ATP). ✅ (Clausen 2017) Vuelve a armar la diferencia después de cada señal.
 
 ## Señales eléctricas a partir de partículas con carga
-**Voltaje de la pared (potencial de membrana):** la diferencia eléctrica entre adentro y afuera (en milivoltios), que se crea cuando se mueven las partículas con carga. ✅
+**Voltaje de la pared (potencial de membrana):** la diferencia eléctrica entre adentro y afuera (en milivoltios, mV: milésimas de voltio), que se crea cuando se mueven las partículas con carga. ✅
 - El potasio que sale → hace el interior más **negativo**. El sodio que entra → lo hace más **positivo**. ✅
 - Como en reposo se mueve un poco más potasio que sodio, la célula se queda en un **voltaje de reposo de unos -70 mV** (polarizada). ✅
 
@@ -90,7 +92,7 @@ La pared de la célula es una **doble capa de grasa** (bicapa lipídica) — Bik
 - La hiperpolarización tiene efectos reales: las señales no llegan al corazón o a los nervios, así que el corazón se puede parar o se puede perder la sensibilidad. 🟢 Revisión de la evidencia: una célula hiperpolarizada cuesta más prenderla, y así es como la acetilcolina hace más lento el corazón; pero en los problemas de potasio que ven los médicos, que el corazón se pare es más típico del potasio *alto*, que despolariza las células y apaga los canales de sodio (Weiss 2017).
 
 **Señales chicas contra señales completas (potenciales graduados contra potenciales de acción)**
-- **Señal chica (potencial graduado):** chica, en un solo lugar, "pequeños baches" — muchas veces por canales con compuerta. Los tres tipos de compuerta: **que se abren con una sustancia química** (un mensajero químico, por ejemplo la acetilcolina), **que se abren con el voltaje** (importantes en el músculo del esqueleto y del corazón), **que se abren con presión** (tocar, vibración y la panza estirada por gases). ✅
+- **Señal chica (potencial graduado):** chica, en un solo lugar, "pequeños baches" — muchas veces por canales con compuerta. Los tres tipos de compuerta: **que se abren con una sustancia química** (un mensajero químico, por ejemplo la acetilcolina, el mensajero que manda el nervio al músculo), **que se abren con el voltaje** (importantes en el músculo del esqueleto y del corazón), **que se abren con presión** (tocar, vibración y la panza estirada por gases). ✅
 - **El punto de disparo (umbral): unos -55 mV.** Al llegar ahí, la respuesta es de todo o nada. ✅ Un toque tan suave que no se siente es una señal chica que no llegó al punto de disparo.
 
 **Los cuatro pasos de una señal completa (potencial de acción)**
@@ -157,6 +159,8 @@ C. \* Aprovecha una diferencia que se armó antes con energía, dejando que una 
 - Comentarios personales: los desvíos sobre el termostato en Canadá contra Florida, su doctorado en energía de las células (bioenergética), cuando describía las neuronas con las manos.
 - Repeticiones de las proporciones de sodio y potasio y de la comparación de la piedra en el cerro más allá de la primera vez clara.
 - Detalle del plan del curso más allá de una línea (se ve en la nota de cada clase que sigue).
+
+**La idea para recordar: la célula gasta energía para que adentro y afuera sean distintos, y de esa diferencia salen las señales que mueven al cuerpo.**
 
 ---
 **Referencias:**

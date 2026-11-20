@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 4 (transcripción). El mismo maestro y la misma línea del curso que los Cap. 1 a 3; esta clase se apoya en lo de las partículas con carga, el calcio y el músculo del esqueleto de los capítulos anteriores y abre paso a la clase de hormonas que sigue.*
 
+**En palabras sencillas:** esta clase explica el corazón y los pulmones como un solo equipo. El corazón es una bomba de cuatro cuartos que manda la sangre a los pulmones y luego a todo el cuerpo; el "lub-dub" son sus válvulas al cerrarse. El corazón marca su propio ritmo y se aprieta más fuerte entre más se llena. Los pulmones meten y sacan aire con cambios de presión, y lo que nos hace respirar es sobre todo el CO₂ de la sangre. Al final explica la preeclampsia, un problema del embarazo. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **SERCA**: bomba que regresa el calcio para que el músculo se relaje
 - **ATPasa**: enzima que usa ATP como energía
@@ -17,7 +19,7 @@
 El único trabajo del corazón es mover la sangre, y la sangre solo vale la pena moverla por lo que los pulmones le acaban de hacer. La forma de verlo de Bikman: no se puede entender uno sin el otro. Este capítulo da cómo funciona lo que hay detrás de los números de la presión, los ruidos del corazón, los soplos, cuántas veces respiramos y un estudio de soplar (espirometría). También muestra, otra vez, algo que se repite en el curso: el cuerpo se maneja solo con la química (CO₂, iones de hidrógeno, estiramiento, presión) y no con un centro que lo piense.
 
 ## El "8" de dos caminos — por dónde va la sangre
-El corazón tiene cuatro cuartos: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo, y cada aurícula se vacía en el ventrículo que tiene debajo. La sangre recorre sin parar un camino doble; a cada uno lo empuja un lado del corazón. ✅
+El corazón tiene cuatro cuartos: dos aurículas arriba (derecha, izquierda) y dos ventrículos abajo. Cada aurícula se vacía en el ventrículo que tiene debajo. La sangre recorre sin parar un camino doble. A cada camino lo empuja un lado del corazón. ✅
 
 | Paso | A dónde va la sangre | Nota |
 |---|---|---|
@@ -48,7 +50,7 @@ El músculo del esqueleto necesita un nervio de fuera para cada fibra; el coraz�
 
 | Característica | Músculo del esqueleto (Cap. 3) | Músculo del corazón |
 |---|---|---|
-| **Qué lo dispara** | Una neurona que mueve, una por fibra | **Células marcapasos (P)** del nódulo SA; no hace falta neurona |
+| **Qué lo dispara** | Una neurona que mueve, una por fibra | **Células marcapasos (P)** del nódulo SA (el marcapasos natural, arriba en la aurícula derecha); no hace falta neurona |
 | **Cómo pasa la señal** | Cada fibra por su lado; se usan unas, otras no | De célula a célula por **puertas entre células (uniones en hendidura)** en los **discos intercalares**; todo o nada |
 | **Túbulos T** | Sí tiene | Sí en las células de los ventrículos (más anchos, a la altura de las líneas Z); pocos en las de las aurículas (Bers 2002) |
 | **De dónde viene el calcio** | Solo del retículo sarcoplásmico (RS) | **Primero de afuera de la célula** (canales tipo L), que luego abre el receptor de rianodina del RS para que salga mucho más |
@@ -65,7 +67,7 @@ La sangre por minuto depende de **qué tan fuerte se aprieta el ventrículo** y 
 - **El paso del aire depende de (1) la diferencia de presión entre el aire de afuera y los alvéolos y (2) qué tan anchas están las vías del aire.** ✅
 
 **El lado de la presión (ley de Boyle: el espacio y la presión van al revés):**
-- El aire de afuera está a unos 760 mmHg; el espacio entre el pulmón y la pared del pecho (intrapleural) está a unos 756 mmHg, una **presión de ese espacio** un poco negativa (unos −4 mmHg comparada con afuera), que da una **presión a través del pulmón** positiva (la del alvéolo menos la de ese espacio, unos +4 mmHg) que mantiene los pulmones abiertos contra la pared del pecho. La imagen de Bikman: un puño empujando un globo. ✅
+- El aire de afuera está a unos 760 mmHg (milímetros de mercurio, la unidad de la presión). El espacio entre el pulmón y la pared del pecho (intrapleural) está a unos 756 mmHg. Esa **presión de ese espacio** es un poco negativa (unos −4 mmHg comparada con afuera), y da una **presión a través del pulmón** positiva (la del alvéolo menos la de ese espacio, unos +4 mmHg) que mantiene los pulmones abiertos contra la pared del pecho. La imagen de Bikman: un puño empujando un globo. ✅
 - **Meter aire:** el diafragma baja, los músculos entre las costillas abren la caja del pecho → sube el espacio → la presión baja más que la de afuera → entra el aire. **Sacar aire:** baja el espacio → la presión sube más que la de afuera → sale el aire. La gravedad y la posición del cuerpo no importan para esto básico de la presión. ✅ (La posición del cuerpo sí cambia cuánto aire cabe en los pulmones y a dónde va; Guyton & Hall.)
 
 **El lado del estorbo (qué tan anchas están las vías del aire):** el lado simpático **abre las vías del aire** (más aire al huir); el parasimpático las cierra un poco (cuando se necesita menos). 🟡 En la transcripción Bikman dice que abrirlas es "hacerlas más chicas"; es un error al hablar. Abrirlas las hace más anchas, y la misma frase lo confirma al final (pasa mejor el aire).
@@ -82,7 +84,7 @@ La sangre por minuto depende de **qué tan fuerte se aprieta el ventrículo** y 
 |---|---|---|
 | **Más CO₂** | Suelta el oxígeno más fácil | El músculo trabajando que quema azúcar o grasa hace CO₂ |
 | **Más iones de hidrógeno** | Suelta el oxígeno más fácil | Romper ATP en un músculo activo hace H⁺ |
-| **Más 2,3-DPG** | Suelta el oxígeno más fácil | La placenta les dice a los glóbulos rojos de la mamá que suban el 2,3-DPG para que al bebé le llegue mucho oxígeno. 🟡 Revisión de la evidencia: el 2,3-DPG sube en el embarazo, en la altura y en la anemia, pero lo de la señal de la placenta no está comprobado; la razón principal de que al bebé le llegue oxígeno es que la hemoglobina del bebé casi no se pega al 2,3-DPG y por eso agarra el oxígeno más fuerte (Guyton & Hall) |
+| **Más 2,3-DPG** (una sustancia de los glóbulos rojos) | Suelta el oxígeno más fácil | La placenta les dice a los glóbulos rojos de la mamá que suban el 2,3-DPG para que al bebé le llegue mucho oxígeno. 🟡 Revisión de la evidencia: el 2,3-DPG sube en el embarazo, en la altura y en la anemia, pero lo de la señal de la placenta no está comprobado; la razón principal de que al bebé le llegue oxígeno es que la hemoglobina del bebé casi no se pega al 2,3-DPG y por eso agarra el oxígeno más fuerte (Guyton & Hall) |
 
 ✅ Los dos primeros son lo que las metas de la clase de Bikman llaman el **efecto Bohr**. Los dos suben con el ejercicio, así que el músculo "pide" oxígeno sin ninguna señal consciente.
 
@@ -102,13 +104,13 @@ La espirometría da un **espirograma**, una línea que sube al meter aire y baja
 | **Capacidad vital** | Sacar todo el aire que se pueda y luego meter lo más que se pueda (el aire que siempre queda, volumen residual, nunca sale) | Problema **restrictivo** (que no deja estirar): pulmón con cicatrices, endurecido, "acartonado" (por ejemplo, por asbesto, polvo, humo) que ya no se estira |
 | **VEF1** (aire que se saca a la fuerza en un segundo) | Después de meter todo el aire, soplar lo más fuerte y rápido que se pueda; cuánto sale en 1 segundo | Problema **obstructivo** (de vías tapadas): vía del aire angosta, "respirar por un popote"; mete bien el aire, lo saca despacio |
 
-✅ Nota sobre las reglas de hoy: lo tapado se define por una **proporción VEF1/CVF** baja, no solo por un VEF1 bajo (el VEF1 también baja en lo restrictivo), y una capacidad vital baja solo hace pensar en lo restrictivo hasta que se mide cuánto aire cabe en total en los pulmones (Stanojevic 2022).
+✅ Nota sobre las reglas de hoy: lo tapado se define por una **proporción VEF1/CVF** baja (CVF: todo el aire que se saca a la fuerza), no solo por un VEF1 bajo (el VEF1 también baja en lo restrictivo), y una capacidad vital baja solo hace pensar en lo restrictivo hasta que se mide cuánto aire cabe en total en los pulmones (Stanojevic 2022).
 
 ## Agregado de preguntas y respuestas — la preeclampsia como ejemplo
 - La preeclampsia es de los problemas más comunes del embarazo; aparece como presión alta y un riñón que falla cada vez más; los médicos revisan la **proteína en la orina** en cada consulta como señal del daño del riñón. ✅ 🟢 Revisión de la evidencia: le pasa a un porcentaje chico de los embarazos; la proteína en la orina es la señal clásica, pero las reglas de hoy dejan diagnosticarla sin ella cuando hay daño en otros órganos, y que falle el riñón es algo grave, no lo normal (ACOG 2020).
-- La placenta (el pulmón del bebé, por eso tiene tantos vasos) usa el **VEGF** para formar vasos con señales a sí misma (**autocrinas**). El filtro del riñón (glomérulo) también necesita VEGF para mantenerse completo. ✅
-- En algunas mujeres, por una razón que no se sabe, la placenta suelta **receptores de VEGF sueltos** que se "chupan" el VEGF. El VEGF baja, el filtro del riñón deja pasar proteína y los riñones fallan. 🟢 Este receptor suelto es el sFlt-1 (Maynard 2003; Levine 2004). Esto, y no la placenta en sí, es lo que pone en peligro a la mamá. 🟡 Se dice que no se sabe por qué suelta esos receptores.
-- Una vez que empiezan las convulsiones es **eclampsia**, que normalmente mata. La única cura es sacar la placenta (y por eso al bebé); los riñones y la presión se recuperan en unas horas. 🔴 Revisión de la evidencia: la eclampsia es una emergencia peligrosa, pero con atención a tiempo casi todas las mujeres sobreviven; el sulfato de magnesio baja más o menos a la mitad el riesgo de convulsiones (Magpie 2002), y el riesgo de morir es mucho más alto donde falta atención médica (Fishel Bartal & Sibai 2022). Después del parto, la presión suele tardar días o semanas en volver a lo normal, y la preeclampsia hasta puede empezar después del nacimiento (ACOG 2020). El jaloneo en la práctica es ganar tiempo para el bebé, muchas veces dándole a la mamá **esteroides parecidos al cortisol (que bajan la inflamación, no los que hacen crecer músculo)** para que los pulmones del bebé maduren más rápido. ✅ (betametasona o dexametasona; McGoldrick 2020)
+- La placenta (el pulmón del bebé, por eso tiene tantos vasos) usa el **VEGF** (una señal que hace crecer vasos sanguíneos) para formar vasos con señales a sí misma (**autocrinas**). El filtro del riñón (glomérulo) también necesita VEGF para mantenerse completo. ✅
+- En algunas mujeres, por una razón que no se sabe, la placenta suelta **receptores de VEGF sueltos** que se "chupan" el VEGF. El VEGF baja, el filtro del riñón deja pasar proteína y los riñones fallan. 🟢 Este receptor suelto se llama sFlt-1 (Maynard 2003; Levine 2004). Esto, y no la placenta en sí, es lo que pone en peligro a la mamá. 🟡 Se dice que no se sabe por qué suelta esos receptores.
+- Una vez que empiezan las convulsiones es **eclampsia**, que normalmente mata. La única cura es sacar la placenta (y por eso al bebé); los riñones y la presión se recuperan en unas horas. 🔴 Revisión de la evidencia: la eclampsia es una emergencia peligrosa, pero con atención a tiempo casi todas las mujeres sobreviven. el sulfato de magnesio (una medicina que se pone en la vena) baja más o menos a la mitad el riesgo de convulsiones (Magpie 2002), y el riesgo de morir es mucho más alto donde falta atención médica (Fishel Bartal & Sibai 2022). Después del parto, la presión suele tardar días o semanas en volver a lo normal, y la preeclampsia hasta puede empezar después del nacimiento (ACOG 2020). El jaloneo en la práctica es ganar tiempo para el bebé, muchas veces dándole a la mamá **esteroides parecidos al cortisol (que bajan la inflamación, no los que hacen crecer músculo)** para que los pulmones del bebé maduren más rápido. ✅ (betametasona o dexametasona; McGoldrick 2020)
 
 ## Frases clave y datos para recordar (Clase 4)
 - **"De verdad no se puede entender uno sin el otro."** — el corazón y los pulmones como un solo sistema.
@@ -170,6 +172,8 @@ C. \* El estiramiento mayor da un apretón más fuerte, así que la sangre por l
 - Detalle de las comparaciones: lo del puño en el globo y el plato sobre la barra mojada se dejó en una línea cada una.
 - Detalle del sistema automático más allá de lo que hace en las vías del aire y en el latido, que se vio en el Cap. 2.
 - 🟡 Error de la transcripción: Bikman dice "estimulación autonómica" para lo que hace el VEGF en la placenta y luego lo describe bien como autocrino (que la célula se manda a sí misma); aquí se toma como autocrino.
+
+**La idea para recordar: el corazón y los pulmones se ajustan solos a lo que el cuerpo necesita, y cuando fallan casi siempre es algo mecánico.**
 
 ---
 **Referencias:**

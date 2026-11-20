@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology" (Fundamentos de Fisiología), Clase 3 (transcripción). Tercera clase de un curso de siete clases sobre los sistemas del cuerpo; se apoya directo en las clases de señales eléctricas (Cap. 1) y de los nervios fuera del cerebro (Cap. 2). Termina con una ronda corta de preguntas de estudiantes sobre el combustible del cerebro, el lactato y las cetonas.*
 
+**En palabras sencillas:** esta clase explica cómo se aprieta un músculo. El nervio suelta un mensajero, la señal entra muy adentro de la célula del músculo y suelta calcio. Con el calcio, dos proteínas se agarran y jalan una de otra, como manos que jalan una cuerda, y el músculo se hace más corto. Para soltarse y relajarse hace falta energía (ATP). También explica los tipos de fibra, por qué el músculo crece y por qué el "ácido láctico" no es lo que causa el ardor. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **ATP**: trifosfato de adenosina, la moneda de energía de la célula
 - **ATPasa**: enzima que usa ATP como energía
@@ -14,7 +16,7 @@
 - **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
 
 ## Por qué importa
-El músculo es, por peso, el tejido más grande en casi todas las personas (cerca del 38% del peso del cuerpo en hombres y del 31% en mujeres; Janssen 2000), y es de los tejidos que más energía mueven en el cuerpo. La forma de verlo de Bikman: el músculo es el único tipo de célula que cambia de tamaño en milésimas de segundo, y cada idea de las clases anteriores (señales completas, canales que se abren con sustancias químicas, ATP, bombear contra pasar solo, receptores nicotínicos) se usa aquí sin agregar nada nuevo más que las piezas propias del músculo. La clase también corrige dos creencias comunes: que el "ácido láctico" causa el ardor y que los músculos más grandes vienen de tener más células de músculo.
+El músculo es, por peso, el tejido más grande en casi todas las personas (cerca del 38% del peso del cuerpo en hombres y del 31% en mujeres; Janssen 2000), y es de los tejidos que más energía mueven en el cuerpo. La forma de verlo de Bikman: el músculo es el único tipo de célula que cambia de tamaño en milésimas de segundo, y cada idea de las clases anteriores (señales completas, canales que se abren con sustancias químicas, ATP, bombear contra pasar solo, receptores nicotínicos) se usa aquí. No agrega nada nuevo más que las piezas propias del músculo. La clase también corrige dos creencias comunes: que el "ácido láctico" causa el ardor y que los músculos más grandes vienen de tener más células de músculo.
 
 ## Cómo está organizado el músculo — del músculo entero a la fibra
 - **De grande a chico:** músculo entero → **fascículos** (manojos de células de músculo) → **fibras** (cada fibra es una célula de músculo) → **miofibrillas** (piezas de proteína dentro de la célula) → **sarcómeros** (las unidades que trabajan y se repiten). ✅
@@ -28,12 +30,12 @@ El músculo es, por peso, el tejido más grande en casi todas las personas (cerc
 4. La acetilcolina se pega a los **receptores colinérgicos nicotínicos** de la **placa motora** (el lado del músculo). Son canales que se abren con una sustancia química.
 5. La pared del músculo se **despolariza** y dispara su propia señal completa. ✅
 
-**El ejemplo del Botox:** la toxina botulínica no deja que las bolsitas suelten la acetilcolina. La señal llega y el calcio entra, pero no sale mensajero, así que no se le puede ordenar al músculo que se apriete. El resultado es que el músculo tratado se paraliza (su ejemplo: la cara y la frente). ✅ La toxina corta las proteínas SNARE que dejan que las bolsitas se junten con la pared (Dong 2019).
+**El ejemplo del Botox:** la toxina botulínica no deja que las bolsitas suelten la acetilcolina. La señal llega y el calcio entra, pero no sale mensajero, así que no se le puede ordenar al músculo que se apriete. El resultado es que el músculo tratado se paraliza (su ejemplo: la cara y la frente). ✅ La toxina corta las proteínas SNARE (unas proteínas que funcionan como cierre) que dejan que las bolsitas se junten con la pared (Dong 2019).
 
 ## De la señal al apretón (acoplamiento excitación-contracción) — llevar la señal muy adentro
 - **Túbulos T:** la señal no solo viaja por encima. Unos hundimientos con forma de letra T llevan la señal completa muy adentro de la fibra. ✅
 - **Retículo sarcoplásmico (RS):** una red como malla que corre justo al lado (sin tocarlos) de los túbulos T, cargada de calcio guardado. ✅
-- **La comparación del corcho:** la señal que baja por el túbulo T prende el **receptor DHP (dihidropiridina)**, que funciona como un corcho que se saca, y eso abre los **receptores de rianodina** del RS. El calcio "brota" del RS hacia el líquido de la célula. ✅
+- **La comparación del corcho:** la señal que baja por el túbulo T prende el **receptor DHP (dihidropiridina, el sensor de voltaje del túbulo)**, que funciona como un corcho que se saca, y eso abre los **receptores de rianodina** del RS. El calcio "brota" del RS hacia el líquido de la célula. ✅
 - **Calsecuestrina:** una molécula grande dentro del RS que guarda el calcio hasta la siguiente señal. Bikman la llama "la niñera del calcio". ✅
 
 Que salga el calcio es solo el primer paso; prepara el apretón, no es el apretón.
@@ -55,7 +57,7 @@ Que salga el calcio es solo el primer paso; prepara el apretón, no es el apret�
 
 | Paso | Qué pasa | Qué permite |
 |---|---|---|
-| **0. Reposo** | La tropomiosina tapa los lugares de unión. La cabeza de la miosina está "armada" y trae **ATP ya usado (ADP + Pi)**. | Lista pero bloqueada |
+| **0. Reposo** | La tropomiosina tapa los lugares de unión. La cabeza de la miosina está "armada" y trae **ATP ya usado (ADP + Pi: el ATP partido en dos pedazos, el ADP y un fosfato suelto)**. | Lista pero bloqueada |
 | **1. Llega el calcio** | El calcio se pega a la **troponina**, que cambia de forma y quita de en medio a la tropomiosina. | Lugares de unión destapados |
 | **2. Se pega** | La cabeza de la miosina se agarra de la actina y forma el **puente**. | Puente hecho |
 | **3. Sale el Pi** | El fosfato suelto sale de la cabeza. | Dispara el jalón |
@@ -68,7 +70,7 @@ Que salga el calcio es solo el primer paso; prepara el apretón, no es el apret�
 
 ## Relajarse — donde el ATP importa dos veces
 - **Parar la señal:** cuando la neurona deja de disparar, el "corcho" DHP/rianodina vuelve a su lugar. ✅
-- **Las bombas SERCA** (que regresan el calcio al RS) bombean el calcio de regreso al RS. Como es una bomba que usa ATP y va contra la diferencia, es **bombear con energía (transporte activo)**. ✅
+- **Las bombas SERCA** (bombas de calcio que regresan el calcio al RS) bombean el calcio de regreso al RS. Como es una bomba que usa ATP y va contra la diferencia, es **bombear con energía (transporte activo)**. ✅
 - **El calcio se va, la troponina se afloja, la tropomiosina vuelve a tapar los lugares de unión** y el apretón termina. ✅
 - **El ATP solo hace falta para dos cosas:** (1) soltar y volver a armar la cabeza de la miosina, y (2) bombear el calcio de regreso al RS. ✅ 🟢 Revisión de la evidencia: los libros agregan un tercer uso, la bomba de sodio-potasio que vuelve a armar las diferencias de partículas con carga en la pared del músculo después de cada señal completa (Guyton & Hall).
 - 🟢 **Lo curioso:** el ATP quizá importa más para relajarse que para apretarse, pero hay que relajarse antes de poder apretarse otra vez.
@@ -91,13 +93,13 @@ Que salga el calcio es solo el primer paso; prepara el apretón, no es el apret�
 ## Crecer el músculo (hipertrofia) — células más grandes, no más células
 - El reto del ejercicio repetido hace crecer el músculo por **hipertrofia**: el **número de células del músculo se queda igual**, pero cada célula se hace más grande. ✅
 - Cómo funciona según él: entran más actina y miosina (más filamentos gruesos y delgados) en cada célula. ✅
-- 🟡 La clase no ve las señales que hacen que se agregue esa proteína (mTOR, las células "de reserva" del músculo, hormonas); solo describe cómo queda hecho.
+- 🟡 La clase no ve las señales que hacen que se agregue esa proteína (mTOR, un interruptor de crecimiento dentro de la célula; las células "de reserva" del músculo; hormonas); solo describe cómo queda hecho.
 
 ## El cansancio y el mito del lactato
 - **Cansancio (fatiga)** = el músculo ya no puede seguir dando la misma fuerza. Dos causas, que pueden ir juntas: **falta de combustible** (poco común, pero puede pasar en cosas muy largas como un maratón) y **se juntan restos del trabajo** (más común). ✅
-- Que se junte **potasio** estorba a la célula para manejar el calcio, y eso desordena el ciclo de agarrar y jalar. 🟢 Revisión de la evidencia: el potasio que se junta afuera de las fibras baja sobre todo qué tan fácil se prenden; el fosfato suelto que queda de romper el ATP y la fosfocreatina es una causa importante de cansancio que estorba la salida del calcio y la fuerza del jalón (Allen 2008).
+- Que se junte **potasio** estorba a la célula para manejar el calcio, y eso desordena el ciclo de agarrar y jalar. 🟢 Revisión de la evidencia: el potasio que se junta afuera de las fibras baja sobre todo qué tan fácil se prenden; el fosfato suelto que queda de romper el ATP y la fosfocreatina (una reserva rápida de energía del músculo) es una causa importante de cansancio que estorba la salida del calcio y la fuerza del jalón (Allen 2008).
 - Los **iones de hidrógeno** vienen de romper el ATP, hacen más ácido el músculo y prenden los **receptores del dolor**. El "ardor" es un cambio de pH, no de temperatura. ✅ 🟢 Revisión de la evidencia: en experimentos con personas, el ardor necesitó protones, lactato y ATP juntos actuando sobre los nervios de los sentidos del músculo (Pollak 2014).
-- **Lactato, no ácido láctico:** Bikman dice que los humanos hacemos **lactato**, no ácido láctico. El lactato no cambia el pH y es un combustible que se puede usar: el hígado lo puede volver otra vez azúcar y el cerebro lo puede quemar directo. ✅ en cuanto al lactato como combustible (Brooks 2018). 🟡 Revisión de la evidencia sobre el pH: al pH del cuerpo, el ácido láctico está casi todo separado en lactato más un protón, así que "no hay ácido láctico" solo es cierto en ese sentido. Robergs 2004 dice que los protones vienen de romper el ATP, no del lactato; Böning & Maassen 2008 dicen que hacer ácido láctico es la causa principal de que la sangre se haga ácida con el ejercicio. Todavía se discute.
+- **Lactato, no ácido láctico:** Bikman dice que los humanos hacemos **lactato**, no ácido láctico. El lactato no cambia el pH y es un combustible que se puede usar: el hígado lo puede volver otra vez azúcar y el cerebro lo puede quemar directo. ✅ en cuanto al lactato como combustible (Brooks 2018). 🟡 Revisión de la evidencia sobre el pH: al pH del cuerpo, el ácido láctico está casi todo separado en lactato más un protón (un ion de hidrógeno, lo que hace ácido un líquido), así que "no hay ácido láctico" solo es cierto en ese sentido. Robergs 2004 dice que los protones vienen de romper el ATP, no del lactato; Böning & Maassen 2008 dicen que hacer ácido láctico es la causa principal de que la sangre se haga ácida con el ejercicio. Todavía se discute.
 - **De dónde viene el mito:** un músculo trabajando se hace más ácido y el lactato en la sangre sube al mismo tiempo, así que parece que uno causa el otro, pero los dos son solo señales de una célula muy activa. ✅
 
 ## Preguntas de los estudiantes — combustible del cerebro, cetonas y ejercicio
@@ -124,7 +126,7 @@ Que salga el calcio es solo el primer paso; prepara el apretón, no es el apret�
 - 🔴 "Apretar el músculo es una sola cosa": son tres cosas unidas (la señal eléctrica, la salida del calcio, el ciclo de los filamentos), y cada una tiene su propio punto donde puede fallar o donde se puede intervenir (por ejemplo, el Botox en la primera).
 
 ## Conclusión práctica
-La clase es de cómo funciona y no da ninguna receta de entrenamiento, así que lo práctico es entender: el ardor que se siente como dolor del músculo es una señal de pH más que un problema del lactato, la resistencia y la potencia dependen de distintos tipos de fibra con distinto gusto de combustible, y el tamaño del músculo es el tamaño de la célula. Las preguntas de los estudiantes agregan una idea que suena práctica (hacer ejercicio al empezar un ayuno lleva más rápido a la cetosis), que es algo que reporta Bikman y que conviene ver como una pista más que como un método.
+La clase es de cómo funciona y no da ninguna receta de entrenamiento, así que lo práctico es entender tres cosas. El ardor que se siente como dolor del músculo es una señal de pH más que un problema del lactato. La resistencia y la potencia dependen de distintos tipos de fibra con distinto gusto de combustible. Y el tamaño del músculo es el tamaño de la célula. Las preguntas de los estudiantes agregan una idea que suena práctica: hacer ejercicio al empezar un ayuno lleva más rápido a la cetosis (cuando el cuerpo quema grasa y hace cetonas). Es algo que reporta Bikman y que conviene ver como una pista más que como un método.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 **1. Como el ATP hace falta tanto para soltar la miosina como para que SERCA regrese el calcio, ¿qué esperarías que le pase a un músculo que se queda sin ATP a media contracción?**
@@ -161,6 +163,8 @@ C. \* Tiene una ATPasa de miosina más rápida y maneja el calcio más rápido, 
 - Comentarios personales: cuando muestra con la mano y el brazo (los dedos como neuronas, el puño como cabeza de miosina), bromas sobre el Botox y las arrugas, menciones para promover su curso anterior.
 - El resumen repetido: el resumen largo de las tres partes al final de la clase, que repetía lo de la señal, el calcio y el agarrar y jalar que ya está arriba.
 - Errores de la transcripción que se arreglaron en vez de copiarse: una línea decía que el receptor era "nicotínico, muscarínico, o el nicotínico", que él corrigió a nicotínico; una línea decía "tipo IIA lenta", que por el contexto quería decir tipo I.
+
+**La idea para recordar: el calcio enciende el apretón del músculo y el ATP lo apaga; sin energía, el músculo no puede relajarse.**
 
 ---
 **Referencias:**

@@ -3,6 +3,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 5 (transcripción). Sigue a Fisiología del corazón y los pulmones (Cap. 4); el páncreas y el glucagón se dejan claramente para la lección de Hormonas (Cap. 6).*
 
+**En palabras sencillas:** esta clase sigue la comida desde la boca hasta el final del intestino. En cada parte pregunta cuatro cosas: cómo se mueve la comida, qué se suelta, cómo se deshace y qué se absorbe. Casi todo el trabajo pasa en el intestino delgado, con ayuda del páncreas y la bilis del hígado. El azúcar y la proteína entran a la sangre y van primero al hígado; la grasa de cadena larga toma otro camino. También explica las hormonas del intestino que imitan las medicinas para bajar de peso. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
 - **ATP**: trifosfato de adenosina, la moneda de energía de la célula
@@ -15,18 +17,18 @@
 - **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
 
 ## Por qué importa
-Esta es la lección de "cómo la comida se vuelve de verdad combustible". Cada macronutriente toma un camino distinto para entrar al cuerpo: los carbohidratos y la proteína van directo a la sangre, la grasa de cadena larga se desvía por la linfa (otro sistema de tubos del cuerpo), y las grasas de cadena corta y mediana van directo al hígado. Esos caminos distintos son la base de temas que vienen después: insulina y glucagón (Cap. 6), la grasa del cuerpo (Cap. 7), las cetonas y las medicinas basadas en hormonas del intestino que hoy salen en las noticias. También explica por qué la digestión de la grasa, la bilis y la proteína están unidas, lo que contradice mucho de lo que se dice sobre comer con poca grasa.
+Esta es la lección de "cómo la comida se vuelve de verdad combustible". Cada macronutriente (carbohidrato, proteína o grasa) toma un camino distinto para entrar al cuerpo. Los carbohidratos y la proteína van directo a la sangre, la grasa de cadena larga se desvía por la linfa (otro sistema de tubos del cuerpo), y las grasas de cadena corta y mediana van directo al hígado. Esos caminos distintos son la base de temas que vienen después. Son la insulina y glucagón (Cap. 6), la grasa del cuerpo (Cap. 7), las cetonas y las medicinas basadas en hormonas del intestino que hoy salen en las noticias. También explica por qué la digestión de la grasa, la bilis y la proteína están unidas. Eso contradice mucho de lo que se dice sobre comer con poca grasa.
 
 ## La forma de verlo — cuatro preguntas en cada parada
 Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cada parte: **movimiento** (motilidad), **qué suelta la pared** (secreción), **deshacer la comida** (romper moléculas grandes en chicas, digestión), **absorber** (pasar las moléculas chicas al cuerpo). ✅ Deshacer y absorber son cosas distintas: puedes cortar una molécula sin pasar nada a la sangre.
 
 ## Frases clave y datos para recordar (Lección 5)
-- **"Casi toda la digestión... pasa en el intestino delgado, no por el intestino delgado en sí, sino por lo que está conectado a él."** — la pared del intestino no suelta enzimas de digerir propias (solo enterocinasa); el páncreas y el hígado hacen el trabajo. ✅ Corrección: el páncreas y la bilis hacen casi todo el trabajo, pero la superficie en forma de cepillo del intestino también tiene enzimas propias (lactasa, sacarasa-isomaltasa, maltasa y peptidasas) que terminan de deshacer los carbohidratos y la proteína (Guyton & Hall).
+- **"Casi toda la digestión... pasa en el intestino delgado, no por el intestino delgado en sí, sino por lo que está conectado a él."** — la pared del intestino no suelta enzimas de digerir propias (solo enterocinasa, una enzima que prende a otras); el páncreas y el hígado hacen el trabajo. ✅ Corrección: el páncreas y la bilis hacen casi todo el trabajo, pero la superficie en forma de cepillo del intestino también tiene enzimas propias (lactasa, sacarasa-isomaltasa, maltasa y peptidasas) que terminan de deshacer los carbohidratos y la proteína (Guyton & Hall).
 - **El pH del estómago humano es de más o menos 2** — Bikman lo pone cerca del de un lobo, sin llegar a lo ácido de los carroñeros, y lo toma como una pista de lo que los humanos estamos hechos para comer. 🟡 Es un comentario suyo, no un resultado medido. 🟢 Revisión de la evidencia: una revisión que compara animales pone el pH del estómago humano en ayunas en más o menos 1.5, más ácido que el de casi todos los carnívoros y más cerca del de los carroñeros; sus autores ven lo muy ácido como un filtro contra los microbios de la comida (Beasley 2015).
-- **"No vas a soltar sales de la bilis si no comes grasa."** — y la bilis también ayuda a las enzimas que deshacen la proteína, así que la proteína con grasa se digiere mejor que la proteína sola. 🟢 Revisión de la evidencia: la grasa es lo que más hace vaciarse a la vesícula (por medio de la CCK), pero la proteína también suelta CCK y vacía la vesícula (Guyton & Hall); lo de las enzimas de la proteína se vio en experimentos de laboratorio (Gass 2007).
+- **"No vas a soltar sales de la bilis si no comes grasa."** — y la bilis también ayuda a las enzimas que deshacen la proteína, así que la proteína con grasa se digiere mejor que la proteína sola. 🟢 Revisión de la evidencia: la grasa es lo que más hace vaciarse a la vesícula (por medio de la CCK, una hormona del intestino), pero la proteína también suelta CCK y vacía la vesícula (Guyton & Hall); lo de las enzimas de la proteína se vio en experimentos de laboratorio (Gass 2007).
 - **Todo lo que se absorbe en el intestino va primero al hígado** (menos la grasa de cadena larga, que va por la linfa, como se explica abajo) — el sistema de la vena porta hace del hígado "el que limpia la sangre".
-- **La grasa es el único macronutriente que no entra primero a la sangre** — la grasa de cadena larga viaja en un quilomicrón ("un camión grande") hacia la linfa.
-- **Las grasas de cadena corta y mediana "se tienen que quemar, no se pueden guardar"** — la razón por la que el aceite de coco o el vinagre pueden empujar al hígado a hacer cetonas. 🟡 Revisión de la evidencia: el aceite puro de cadena mediana (C8) sube claramente las cetonas, pero el aceite de coco es sobre todo ácido láurico (C12) y las subió solo una cuarta parte de eso (Vandenberghe 2017); no hay pruebas de que el vinagre suba las cetonas de forma que importe.
+- **La grasa es el único macronutriente que no entra primero a la sangre** — la grasa de cadena larga viaja en un quilomicrón ("un camión grande" hecho de grasa y proteína) hacia la linfa.
+- **Las grasas de cadena corta y mediana "se tienen que quemar, no se pueden guardar"** — la razón por la que el aceite de coco o el vinagre pueden empujar al hígado a hacer cetonas. 🟡 Revisión de la evidencia: el aceite puro de cadena mediana (C8) sube claramente las cetonas, pero el aceite de coco es sobre todo ácido láurico (C12, de cadena más larga) y las subió solo una cuarta parte de eso (Vandenberghe 2017); no hay pruebas de que el vinagre suba las cetonas de forma que importe.
 - **Las incretinas (hormonas del intestino que ayudan con el azúcar) se descubrieron en pacientes con bypass gástrico** — su diabetes mejoró casi de inmediato, aunque seguían con mucho sobrepeso. 🔴 Revisión de la evidencia: las incretinas se conocían décadas antes (el GIP a principios de los setenta, el GLP-1 en los ochenta; Drucker 2018). Que la diabetes mejore rápido después del bypass se reportó en 1995 (Pories 1995) y luego se relacionó con grandes subidas del GLP-1 después de la cirugía (le Roux 2006).
 
 ## El recorrido — parte por parte
@@ -43,17 +45,17 @@ Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cad
 ✅ La lógica de las válvulas (esfínteres): la de arriba del esófago y la de afuera del ano son músculo que uno controla; la de abajo del esófago y la de adentro del ano son músculo liso (van solas). El lado simpático cierra la válvula de adentro del ano; el parasimpático la abre. La válvula de abajo del esófago pasa por el diafragma.
 
 ## El estómago — ácido, pepsina y B12
-- **Las células parietales** bombean ácido clorhídrico con energía (H+ contra su diferencia, gastando ATP — la idea de "empujar la piedra cuesta arriba" de la lección de la célula). ✅
+- **Las células parietales** (células de la pared del estómago) bombean ácido clorhídrico con energía (H+ contra su diferencia, gastando ATP — la idea de "empujar la piedra cuesta arriba" de la lección de la célula). ✅
 - **El moco** protege la pared del propio estómago contra el ácido. ✅
 - **Tres trabajos del ácido:** matar microbios, desdoblar (desnaturalizar) las proteínas para que se puedan cortar, y convertir el pepsinógeno en pepsina activa. ✅
-- **Las células principales** sueltan **pepsinógeno** apagado; el ácido le corta un pedazo y lo vuelve **pepsina**, una enzima que hace los primeros cortes en la proteína y da pedacitos (péptidos). ✅
+- **Las células principales** sueltan **pepsinógeno** apagado; el ácido le corta un pedazo y lo vuelve **pepsina**, una enzima que hace los primeros cortes en la proteína y da pedacitos (péptidos, cadenas cortas de aminoácidos). ✅
 - **El factor intrínseco** (también de las células parietales) se pega a la vitamina B12 y la acompaña a la sangre. La B12 solo viene de comida de animales; sin factor intrínseco una persona puede comerla y aun así no absorberla. ✅ (La comida con vitaminas agregadas y los suplementos son las otras fuentes seguras; NIH ODS.)
 - **Quimo** es el nombre de la mezcla batida y pastosa de comida y jugo del estómago. ✅
 
 ## El intestino delgado — donde se hace el trabajo
-- **Tres partes:** duodeno (la primera y la más importante), yeyuno, íleon. ✅
+- **Tres partes:** duodeno (la primera y la más importante), yeyuno (la de en medio), íleon (la última). ✅
 - **Superficie:** la pared tiene vellosidades, y las vellosidades tienen microvellosidades ("dedos sobre dedos", la superficie en cepillo), y eso agranda muchísimo el área para absorber. Cada vellosidad tiene **capilares** (hacia la sangre) y un **quilífero** (el tubito más chico del sistema de la linfa, hecho para la grasa). ✅
-- **El bypass gástrico en Y de Roux como ejemplo para aprender:** el estómago se engrapa y queda una bolsita, y se salta el duodeno. Resultado: se come mucho menos, y lo que se come se digiere y absorbe mal (diarrea y malestar del estómago), además de que se pierde el factor intrínseco, así que hacen falta **inyecciones de B12 de por vida**. 🟢 Revisión de la evidencia: la B12 de por vida sí hace falta, pero las guías dejan usar formas tomadas en dosis altas, por la nariz o inyectadas (Mechanick 2019).
+- **El bypass gástrico en Y de Roux como ejemplo para aprender:** el estómago se engrapa y queda una bolsita, y se salta el duodeno. Resultado: se come mucho menos, y lo que se come se digiere y absorbe mal (diarrea y malestar del estómago). Además se pierde el factor intrínseco, así que hacen falta **inyecciones de B12 de por vida**. 🟢 Revisión de la evidencia: la B12 de por vida sí hace falta, pero las guías dejan usar formas tomadas en dosis altas, por la nariz o inyectadas (Mechanick 2019).
 
 ## Los órganos que ayudan
 ### Páncreas
@@ -78,7 +80,7 @@ Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cad
 
 | Nutriente | En qué forma se absorbe | Cómo | A dónde va |
 | --- | --- | --- | --- |
-| **Glucosa** | Glucosa | El transportador SGLT1, que la mete junto con el sodio (la glucosa aprovecha la diferencia del sodio) | Capilar de la sangre, luego vena porta, luego hígado |
+| **Glucosa** | Glucosa | El transportador SGLT1 (una puerta de la pared del intestino), que la mete junto con el sodio (la glucosa aprovecha la diferencia del sodio) | Capilar de la sangre, luego vena porta, luego hígado |
 | **Fructosa** | Fructosa | GLUT5 (solo para la fructosa; la glucosa no lo usa aunque el nombre lo parezca) | Capilar de la sangre |
 | **Proteína** | Aminoácidos, pares y tríos | Entra junto con sodio o hidrógeno; los pedazos más grandes en una bolsita (transcitosis) | Capilar de la sangre |
 | **Grasa de cadena larga** | Ácidos grasos más monoglicérido | Pasan solos por la pared, se **vuelven a armar** como triglicérido dentro de la célula, y se empacan con colesterol y proteína en un **quilomicrón** | **Quilífero (linfa)**, luego a la sangre donde la linfa entra a ella |
@@ -91,8 +93,8 @@ Bikman recorre el tubo de arriba abajo y hace las mismas cuatro preguntas en cad
 
 ## Incretinas y GLP-1 — por qué el bypass gástrico curó la diabetes tan rápido
 - **Cómo se descubrió:** en pacientes con Y de Roux, la diabetes tipo 2 mejoró casi de inmediato, aunque seguían con obesidad, y los análisis de sangre mostraron grandes cambios en hormonas del intestino delgado llamadas **incretinas**. ✅ en cuanto a lo que se vio en los pacientes (Pories 1995; le Roux 2006). 🔴 Las incretinas en sí se descubrieron antes y no en pacientes con bypass (vea la revisión en Frases clave).
-- **Lo que hace el GLP-1 (péptido parecido al glucagón tipo 1):** sube la quema de grasa y el deshacer grasa; prende los centros del cerebro de "ya estoy lleno"; **hace más lento el movimiento del intestino**; y **frena el glucagón**, y eso baja el azúcar en la sangre. ✅ 🟢 Revisión de la evidencia: lo que define a una incretina, y que aquí no se dice, es subir la salida de insulina cuando el azúcar está alto; lo que hace directo en quemar y deshacer grasa en personas no está claro (Drucker 2018).
-- **Las medicinas para bajar de peso (que actúan como el GLP-1):** primero se usaron en dosis más bajas por lo del glucagón y la diabetes; se notó que bajaban de peso, así que las dosis se subieron más o menos cinco veces. 🟡 Revisión de la evidencia: las primeras dosis para obesidad eran de 1.2 a 2.4 veces las de diabetes (liraglutida 1.8 → 3.0 mg al día, Pi-Sunyer 2015; semaglutida 1–2 → 2.4 mg a la semana, Wilding 2021). Solo la dosis de 7.2 mg a la semana de semaglutida que aprobó la FDA en marzo de 2026 es varias veces más alta (AP 2026).
+- **Lo que hace el GLP-1 (péptido parecido al glucagón tipo 1):** sube la quema de grasa y el deshacer grasa; prende los centros del cerebro de "ya estoy lleno"; **hace más lento el movimiento del intestino**; y **frena el glucagón** (la hormona que sube el azúcar), y eso baja el azúcar en la sangre. ✅ 🟢 Revisión de la evidencia: lo que define a una incretina, y que aquí no se dice, es subir la salida de insulina cuando el azúcar está alto; lo que hace directo en quemar y deshacer grasa en personas no está claro (Drucker 2018).
+- **Las medicinas para bajar de peso (que actúan como el GLP-1):** primero se usaron en dosis más bajas por lo del glucagón y la diabetes; se notó que bajaban de peso, así que las dosis se subieron más o menos cinco veces. 🟡 Revisión de la evidencia: las primeras dosis para obesidad eran de 1.2 a 2.4 veces las de diabetes (liraglutida 1.8 → 3.0 mg al día, Pi-Sunyer 2015; semaglutida 1–2 → 2.4 mg a la semana, Wilding 2021). Solo la dosis de 7.2 mg a la semana de semaglutida que aprobó la FDA (la agencia de medicinas de EE. UU.) en marzo de 2026 es varias veces más alta (AP 2026).
 - **Lo que cuesta, según Bikman:** el intestino se puede quedar casi parado; la comida puede quedarse en el estómago hasta ~24 horas (contra las 4–5 normales), y da eructos con mal olor; en casos raros el intestino se "congela" del todo, lo que él dice que puede matar en unos días. 🟡 Cosas fuertes sin cifras ni fuentes en la lección; revisarlas antes de confiar en ellas. 🟢 Revisión de la evidencia: un gran estudio con bases de datos encontró más riesgo de estómago lento (gastroparesia), intestino tapado y pancreatitis con las medicinas GLP-1 usadas para bajar de peso, aunque los riesgos reales fueron bajos (Sodhi 2023); lo de 24 horas y lo de "puede matar en unos días" no están comprobados.
 
 ## Correcciones clave para recordar
@@ -141,6 +143,8 @@ C. \* El bypass quita la parte del estómago que hace el factor intrínseco (por
 - Detalles de la anemia por falta de B12 (el propio Bikman no quiso entrar en eso).
 - Ideas repetidas de la célula (bombear con energía, entrar junto con otra cosa) más allá de un recordatorio de una línea.
 - Nombrar medicinas para bajar de peso en particular (Bikman a propósito no lo hizo).
+
+**La idea para recordar: cada tipo de comida entra al cuerpo por su propio camino, y casi todo se digiere en el intestino delgado con ayuda del páncreas y la bilis.**
 
 ---
 **Referencias:**

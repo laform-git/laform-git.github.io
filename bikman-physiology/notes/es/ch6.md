@@ -3,6 +3,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Fundamentals of Physiology", Lección 6 (transcripción). El mismo maestro de las series "Why We Get Sick" y "Essentials of Endocrinology" — esta es la versión corta, a nivel de fisiología, de las hormonas, usando las enfermedades como ejemplos para aprender.*
 
+**En palabras sencillas:** esta clase explica las hormonas, los mensajes químicos que un órgano le manda a otro por la sangre. Hay tres tipos, según de qué están hechas, y eso decide cómo viajan y cómo dan su mensaje. El cerebro manda una cadena de órdenes a la hipófisis y de ahí a la tiroides o las suprarrenales, y casi todo se frena solo cuando ya hay suficiente. Luego repasa enfermedades de cada glándula y termina con cómo la resistencia a la insulina se vuelve diabetes tipo 2. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **TSH**: hormona estimulante de la tiroides, la señal del cerebro a la tiroides
 - **IGF-1**: factor de crecimiento similar a la insulina tipo 1, por medio del cual actúa la hormona del crecimiento
@@ -16,16 +18,16 @@
 - **DHEA**: hormona de las glándulas suprarrenales que el cuerpo convierte en hormonas sexuales
 
 ## Por qué importa
-Es la única lección del curso que no trata de un solo órgano — trata de mensajes que viajan de un órgano a otro. Sus dos ideas que más sirven en otros temas: (1) **el freno automático (retroalimentación negativa) te deja adivinar si una hormona va a subir o bajar**, y (2) **de qué está hecha una hormona (proteína, aminoácido o colesterol) decide cómo viaja y cómo da su mensaje**. Además termina con la explicación corta más clara de cómo la resistencia a la insulina crece hasta volverse diabetes tipo 2.
+Es la única lección del curso que no trata de un solo órgano. Trata de mensajes que viajan de un órgano a otro. Sus dos ideas que más sirven en otros temas son estas. (1) **el freno automático (retroalimentación negativa) te deja adivinar si una hormona va a subir o bajar**. (2) **de qué está hecha una hormona (proteína, aminoácido o colesterol) decide cómo viaja y cómo da su mensaje**. Además termina con la explicación corta más clara de cómo la resistencia a la insulina crece hasta volverse diabetes tipo 2.
 
 ## De qué trata — qué es una hormona
 Una hormona deja que un tipo de célula de un órgano le mande un mensaje a otro tipo de célula de otro órgano — "el telegrama o el correo electrónico". ✅ Ejemplo: no hay un nervio directo del músculo a la grasa, así que el músculo que hace ejercicio suelta hormonas que le dicen a la grasa "necesitamos energía", y la grasa deshace lo que tiene guardado.
 
 ## Frases clave y datos para recordar
 - **"Si puedes recordar la retroalimentación negativa, casi siempre podrás anticipar la dirección en que van estas hormonas."**
-- **Libre contra pegada: más o menos 1,000 veces más hormona de las que se disuelven en grasa va pegada que libre** — la parte pegada es una reserva protegida; solo la parte libre hace efecto. 🟡 Revisión de la evidencia: la proporción cambia mucho según la hormona: más o menos el 0.03% de la T4 está libre (varios miles a uno), pero cerca del 2% de la testosterona y del 5 al 10% del cortisol (Guyton & Hall; Mendel 1989).
+- **Libre contra pegada: más o menos 1,000 veces más hormona de las que se disuelven en grasa va pegada que libre** — la parte pegada es una reserva protegida; solo la parte libre hace efecto. 🟡 Revisión de la evidencia: la proporción cambia mucho según la hormona: más o menos el 0.03% de la T4 (la hormona de tiroides apagada) está libre (varios miles a uno), pero cerca del 2% de la testosterona y del 5 al 10% del cortisol (Guyton & Hall; Mendel 1989).
 - **La hormona del crecimiento también maneja la energía, no solo el crecimiento** — saca grasa y el azúcar guardado del hígado para pagar el crecimiento. 🟢 Revisión de la evidencia: lo que más hace con la energía es deshacer grasa (lipólisis); sube el azúcar sobre todo porque hace que el hígado y el músculo le hagan menos caso a la insulina, y tiende a *cuidar* el azúcar guardado (glucógeno) en vez de soltarlo (Møller & Jørgensen 2009).
-- **La TSH manda dos órdenes distintas: hacer hormona de tiroides Y hacer crecer la glándula** — la clave para entender el bocio.
+- **La TSH (la hormona de la hipófisis que manda a la tiroides) manda dos órdenes distintas: hacer hormona de tiroides Y hacer crecer la glándula** — la clave para entender el bocio.
 - **La grasa parda es la que más hace T3 activa cuando la prende el frío** — pero la T4 sigue saliendo de la tiroides. 🔴 Revisión de la evidencia: en ratas y ratones, la grasa parda prendida por el frío hace T3 para usarla ella misma; en humanos, casi toda la T3 de la sangre sale de la T4 en el músculo y el hígado, y no está comprobado que la grasa parda humana sea la fuente principal (Maia 2005; Bianco 2019).
 - **"Sal, azúcar, sexo. Entre más profundo vas, más dulce se pone."** — las tres capas de la parte de afuera de la glándula suprarrenal.
 - **La insulina siempre gana el pleito insulina-glucagón** — apaga directo a la célula alfa.
@@ -39,7 +41,7 @@ Una hormona deja que un tipo de célula de un órgano le mande un mensaje a otro
 | **Hecha de** | Una cadena de aminoácidos | Uno o dos aminoácidos (tirosina o triptófano) | Colesterol (la base de los esteroides) |
 | **Ejemplos** | Hormonas del páncreas, hipotálamo, hipófisis e intestino (la mayoría de todas las hormonas) | Hormona de tiroides, adrenalina y noradrenalina (de la tirosina); melatonina (del triptófano) | Cortisol y otras hormonas de la parte de afuera de la suprarrenal; todos los estrógenos y andrógenos |
 | **Se disuelve en agua o en grasa** | En agua | Adrenalina y noradrenalina: en agua. Hormona de tiroides: en grasa | En grasa |
-| **Cómo viaja en la sangre** | Libre, sin control (excepciones: el IGF-1 y parte de la hormona del crecimiento viajan pegados) | Adrenalina y noradrenalina: libres. Tiroides: necesita quien la lleve | **Necesita quien la lleve** (una proteína que la acompaña) |
+| **Cómo viaja en la sangre** | Libre, sin control (excepciones: el IGF-1, una hormona de crecimiento que hace el hígado, y parte de la hormona del crecimiento viajan pegados) | Adrenalina y noradrenalina: libres. Tiroides: necesita quien la lleve | **Necesita quien la lleve** (una proteína que la acompaña) |
 | **Cómo da su mensaje** | Toca la puerta de un receptor de afuera de la célula; otros mensajeros de adentro (segundos mensajeros) hacen el trabajo | Adrenalina y noradrenalina: receptor de afuera. Tiroides: entra a la célula | **Se mete por la pared de la célula** — se pega a un receptor de adentro o va al núcleo y prende genes |
 
 ✅ La comparación de "tocar la puerta" contra "ladrón en la noche": las hormonas que se disuelven en agua no pueden pasar la pared grasosa de la célula, así que una cadena de mensajeros (el perro ladra, los niños corren, alguien me llama) lleva el mensaje. Las hormonas que se disuelven en grasa pasan la pared y ELLAS SON el mensajero — no hace falta un segundo mensajero.
@@ -61,7 +63,7 @@ Una hormona deja que un tipo de célula de un órgano le mande un mensaje a otro
 - El páncreas está **fuera** de esta cadena — trabaja por su cuenta. ✅
 
 ## Hormona del crecimiento
-**GHRH (hipotálamo) → hormona del crecimiento (hipófisis) → efectos directos más IGF-1 del hígado.** La hormona del crecimiento es la única hormona de la hipófisis que actúa directo, y además le dice al hígado que suelte **somatomedinas (IGF, sobre todo IGF-1)**. ✅
+**GHRH (la hormona del hipotálamo que pide hormona del crecimiento) → hormona del crecimiento (hipófisis) → efectos directos más IGF-1 del hígado.** La hormona del crecimiento es la única hormona de la hipófisis que actúa directo, y además le dice al hígado que suelte **somatomedinas (IGF, sobre todo IGF-1)**. ✅
 - **Efectos de crecimiento:** crecen los músculos, crecen los huesos largos y el cuerpo se pone "más grande y más grueso" por la hormona del crecimiento más el IGF-1. ✅
 - **Efectos en la energía:** prende el **deshacer grasa (lipólisis)** (suben los ácidos grasos libres) y le dice al hígado que suelte el **azúcar guardado (glucógeno)** (sube el azúcar en la sangre) — energía para pagar el crecimiento. ✅ en cuanto a deshacer grasa. 🟢 Revisión de la evidencia: la hormona del crecimiento sube el azúcar sobre todo porque va en contra de la insulina en el hígado y el músculo, mientras cuida el azúcar guardado (Møller & Jørgensen 2009).
 
@@ -73,7 +75,7 @@ Una hormona deja que un tipo de célula de un órgano le mande un mensaje a otro
 ✅ La parte de la acromegalia que mata: la **miocardiopatía hipertrófica** — la pared del corazón se hace tan gruesa que el espacio de adentro se aprieta y no se puede llenar (el problema de llenado de la lección del corazón y los pulmones). Que salga azúcar guardado todo el tiempo también mantiene altos el azúcar y la insulina, y empuja hacia la **resistencia a la insulina y la diabetes tipo 2**. ✅ 🟢 Revisión de la evidencia: el problema del corazón en la acromegalia suele llamarse miocardiopatía acromegálica (se hacen gruesos los dos lados del corazón, cuesta llenarse y puede llegar a fallar el corazón) y es de las causas principales de muerte cuando no se trata (Colao 2004); el riesgo de diabetes viene de que la hormona del crecimiento va en contra de la insulina (Møller & Jørgensen 2009).
 
 ## La cadena de la tiroides
-**TRH (hipotálamo) → TSH (parte de adelante de la hipófisis) → tiroides → sobre todo T4, algo de T3.**
+**TRH (la hormona del hipotálamo que pide TSH) → TSH (parte de adelante de la hipófisis) → tiroides → sobre todo T4, algo de T3.**
 - **La T4 es la forma apagada, la T3 la forma activa.** Los tejidos cambian la T4 en T3 después de recibirla. ✅
 - **La grasa parda** (gasta mucha energía, está regada por el pecho) se vuelve la que más hace T3 cuando la prende el frío. 🔴 Revisión de la evidencia: esto se vio en ratas y ratones; en humanos casi toda la T3 de la sangre sale del músculo y del hígado (Maia 2005; Bianco 2019). Bikman dice que en general le gusta meterse en agua fría.
 - **La TSH hace dos cosas:** prende la producción de hormona de tiroides Y hace crecer la tiroides. ✅
@@ -103,12 +105,12 @@ Piensa en una naranja: la **corteza** (la cáscara gruesa) y la **médula** (lo 
 
 | Capa (de afuera hacia adentro) | Familia | Para acordarte |
 | --- | --- | --- |
-| De afuera | Mineralocorticoides | **Sal** |
+| De afuera | Mineralocorticoides | **Sal** (cuida el sodio y el agua; la principal es la aldosterona) |
 | De en medio | Glucocorticoides (cortisol) | **Azúcar** |
 | De adentro (zona reticular) | Hormonas sexuales | **Sexo** — pasa a ser la fuente principal de hormonas sexuales en mujeres que ya pasaron la menopausia |
 
 ### Síndrome de Cushing — demasiado cortisol
-Por un tumor de la hipófisis que empuja la ACTH o por un tumor de la misma corteza suprarrenal. ✅ La causa más común de todas son las medicinas de cortisona (glucocorticoides) (Nieman 2008). Cinco efectos: ✅
+Por un tumor de la hipófisis que empuja la ACTH (la hormona que le pide cortisol a la suprarrenal) o por un tumor de la misma corteza suprarrenal. ✅ La causa más común de todas son las medicinas de cortisona (glucocorticoides, como la prednisona) (Nieman 2008). Cinco efectos: ✅
 - **Adrenalina y noradrenalina:** no las sube, pero **hace que el cuerpo responda más fuerte** a ellas (la misma adrenalina sube más el pulso).
 - **Hormonas sexuales:** les dice a los ovarios o testículos "estoy demasiado estresado para tener hijos" — bajan los estrógenos y los andrógenos, puede parar la ovulación y puede fallar la producción de espermatozoides.
 - **Grasa:** escoge dónde — **deshace grasa en brazos y piernas, guarda grasa en el tronco, el cuello y la cara** (panza grande, joroba de búfalo).
@@ -125,10 +127,10 @@ Por un tumor de la hipófisis que empuja la ACTH o por un tumor de la misma cort
 - La insulina sale cuando el azúcar está alto, y lo baja; el glucagón sale cuando el azúcar está bajo, y lo sube. ✅
 
 ## De la resistencia a la insulina a la diabetes tipo 2
-- Qué tan grande es (cifras de Bikman): más o menos la mitad de los adultos del mundo tiene sobrepeso, **más de la mitad tiene resistencia a la insulina**, y en EE. UU. "hasta cerca del 80%" la tiene en algún grado. 🟡 Las da como cálculos suyos; peor en México, Medio Oriente, Asia y las islas del Pacífico. 🟡 Revisión de la evidencia: la OMS calcula que el 45% de los adultos tenía sobrepeso (contando la obesidad) en 2024 (OMS 2026). En NHANES (una encuesta grande de salud de EE. UU.), entre el 40 y el 45% de los adultos estadounidenses de 18 a 44 años sin diabetes tenía resistencia a la insulina según el HOMA-IR (Parcha 2022); la cifra del 80% no está comprobada y depende de dónde se pone el límite.
+- Qué tan grande es (cifras de Bikman): más o menos la mitad de los adultos del mundo tiene sobrepeso, **más de la mitad tiene resistencia a la insulina**, y en EE. UU. "hasta cerca del 80%" la tiene en algún grado. 🟡 Las da como cálculos suyos; peor en México, Medio Oriente, Asia y las islas del Pacífico. 🟡 Revisión de la evidencia: la OMS calcula que el 45% de los adultos tenía sobrepeso (contando la obesidad) en 2024 (OMS 2026). En NHANES (una encuesta grande de salud de EE. UU.), entre el 40 y el 45% de los adultos estadounidenses de 18 a 44 años sin diabetes tenía resistencia a la insulina según el HOMA-IR, un cálculo con la insulina y el azúcar en ayunas (Parcha 2022); la cifra del 80% no está comprobada y depende de dónde se pone el límite.
 - **Qué es:** algunas células (no todas) le hacen menos caso a la insulina, y **la insulina en la sangre sube (hiperinsulinemia)** para compensar — el toquido amable en la puerta se vuelve una bola de gente enojada. ✅
 - **Lo más famoso que hace la insulina no es lo más importante.** Abre las puertas del azúcar en el **músculo y la grasa** (los otros tejidos no necesitan insulina para meter azúcar). ✅
-- **No se ve porque todos miran el azúcar:** la insulina sube por años mientras el azúcar sigue normal; la diabetes tipo 2 se descubre 10 a 20 años después, cuando ya no alcanza a compensar. Medir la insulina la descubriría cuando todavía se puede corregir. 🟢 Revisión de la evidencia: en el estudio Whitehall II, la respuesta a la insulina bajó mucho en los 5 años antes del diagnóstico y el azúcar subió de golpe solo en los últimos 3 (Tabák 2009). 🟡 Lo de "10 a 20 años" y que convenga medir la insulina de rutina son opiniones suyas; la insulina en ayunas no es una prueba de revisión aceptada en las guías de hoy.
+- **No se ve porque todos miran el azúcar:** la insulina sube por años mientras el azúcar sigue normal. La diabetes tipo 2 se descubre 10 a 20 años después, cuando ya no alcanza a compensar. Medir la insulina la descubriría cuando todavía se puede corregir. 🟢 Revisión de la evidencia: en el estudio Whitehall II (un estudio largo con empleados del gobierno británico), la respuesta a la insulina bajó mucho en los 5 años antes del diagnóstico y el azúcar subió de golpe solo en los últimos 3 (Tabák 2009). 🟡 Lo de "10 a 20 años" y que convenga medir la insulina de rutina son opiniones suyas; la insulina en ayunas no es una prueba de revisión aceptada en las guías de hoy.
 
 | Causa de la resistencia a la insulina | Cómo pasa |
 | --- | --- |
@@ -137,7 +139,7 @@ Por un tumor de la hipófisis que empuja la ACTH o por un tumor de la misma cort
 | **Demasiada insulina** | Harinas refinadas y azúcares todo el tiempo; demasiado de algo da resistencia a eso. 🟡 Revisión de la evidencia: los experimentos muestran que la insulina alta puede causar resistencia a la insulina, pero se discute si casi siempre es la causa o el resultado (Shanik 2008) |
 
 **Las fichas de dominó en orden (lo que piensa Bikman: la grasa primero):** la célula de grasa se vuelve resistente primero, y luego tres fichas más deciden cómo se controla el azúcar: 🟡 El orden "la grasa primero" es su idea; el modelo de los libros incluye el músculo, el hígado, la grasa, las células alfa y las células beta que fallan entre ocho causas, sin un orden fijo (DeFronzo 2009).
-- **El músculo** se queda con más o menos el **80%** del azúcar de una comida con harina o azúcar (🟢 esta cifra viene de estudios donde se mete insulina por la vena (estudios de pinza); después de una comida normal, el hígado y otros tejidos se quedan con una parte más grande; DeFronzo 2009); el músculo resistente no abre sus puertas del azúcar, así que el azúcar se queda en la sangre.
+- **El músculo** se queda con más o menos el **80%** del azúcar de una comida con harina o azúcar (🟢 esta cifra viene de estudios donde se mete insulina por la vena (estudios de pinza, que miden cuánto azúcar absorbe el cuerpo con la insulina fija); después de una comida normal, el hígado y otros tejidos se quedan con una parte más grande; DeFronzo 2009); el músculo resistente no abre sus puertas del azúcar, así que el azúcar se queda en la sangre.
 - **Hígado:** el hígado resistente suelta el azúcar guardado en vez de guardarlo — "un niño desobediente".
 - **Células alfa:** las células alfa resistentes no hacen caso a la orden de alto de la insulina y siguen soltando glucagón, que le dice al hígado que suelte todavía más azúcar.
 - Cuando las tres ya están metidas, el azúcar sube muchísimo — la resistencia a la insulina creció hasta volverse **diabetes tipo 2**. No hay diabetes tipo 2 sin que primero haya resistencia a la insulina. 🟡 Revisión de la evidencia: la diabetes sale solo cuando las células beta ya no alcanzan a compensar, así que la falla en soltar insulina es la otra mitad necesaria; en algunos pacientes delgados es la falla principal (DeFronzo 2009).
@@ -187,6 +189,8 @@ C. \* La orden de alto de la insulina ya no le llega a la célula alfa, así que
 - La lista de metas de aprendizaje del inicio y el resumen del final, que repiten lo de antes
 - El detalle de cada hormona de la hipófisis aparte de la hormona del crecimiento, la TSH y la ACTH (solo esas se ven en la lección)
 - Explicaciones repetidas del freno automático, dejando solo el ejemplo del yodo y la idea del principio
+
+**La idea para recordar: las hormonas se frenan solas cuando ya hay suficiente, y la insulina alta avisa del problema años antes que el azúcar alto.**
 
 ---
 **Referencias:**
