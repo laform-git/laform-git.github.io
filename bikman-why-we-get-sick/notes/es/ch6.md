@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" ("Por qué nos enfermamos"), Clase 6 + preguntas y respuestas (clase final, transcripción). Con esto se cierra la historia de seis capítulos: qué es la resistencia a la insulina (Cap.1–2), por qué importa (Cap.3–4) y ahora cómo ponerlo todo en práctica (Cap.5–6).*
 
+**En palabras sencillas:** esta última clase da el plan práctico de Bikman en cuatro pilares de la comida: controlar los carbohidratos, darle prioridad a la proteína, no tenerle miedo a la grasa natural y fijarse en el horario de las comidas. Insiste en el orden: primero bajar la insulina y después, si hace falta, comer menos. También habla del calor (sauna) y del frío, y da metas en números para los análisis. Algunas de esas metas son más estrictas que los rangos normales, y la revisión de fuentes lo señala. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **OMS**: Organización Mundial de la Salud
 - **GLP-1**: hormona del intestino que baja el apetito y el azúcar; también un tipo de medicamento (como la semaglutida)
@@ -18,7 +20,7 @@
 
 ## Por qué importa
 
-Este es el verdadero capítulo del "cómo": los cuatro pilares de la alimentación en un orden concreto y pensado, más lo que se puede hacer con el calor y el frío, más metas concretas en números, como "tarea", que por fin le dan objetivos claros a todo lo que se construyó en los cinco capítulos anteriores.
+Este es el verdadero capítulo del "cómo". Da los cuatro pilares de la alimentación en un orden concreto y pensado, lo que se puede hacer con el calor y el frío, y metas concretas en números, como "tarea", que por fin le dan objetivos claros a todo lo que se construyó en los cinco capítulos anteriores.
 
 ## La idea que ordena todo: qué va primero
 
@@ -46,7 +48,7 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares de la alimentaci�
 - **El orden en que comes importa, aunque sea la misma comida:** en un estudio citado, comer la proteína y la grasa *antes* que los carbohidratos (en vez de los carbohidratos primero) bajó **50%** la subida de azúcar con *la misma* comida — algo de verdad gratis, que no cuesta nada. 🟢 En un estudio pequeño en adultos con diabetes tipo 2, comer las verduras y la proteína antes que los carbohidratos bajó claramente el azúcar y la insulina después de comer (Shukla 2015); 🟡 cuánto baja depende del momento en que se mida
 - **Fermentar como herramienta para bajar carbohidratos:** las bacterias se comen los almidones y azúcares de los alimentos fermentados (lácteos, verduras) sin tocar la proteína ni la grasa; además fabrican grasas de cadena corta que hacen bien
 - **Vinagre de manzana (ácido acético, una grasa de cadena corta de 2 carbonos):** baja la subida de azúcar porque cambia cómo se digieren el almidón y el azúcar *y* hace que el músculo tome el azúcar más rápido; Bikman lo señala como uno de los "trucos" con evidencia que más se pasan por alto. 🟢 Un análisis que juntó estudios encontró que el vinagre bajó el azúcar y la insulina después de comer (Shishehbor 2017)
-- **Endulzantes, en orden:** los polialcoholes (xilitol, eritritol, etc.) suben algo la insulina, menos que el azúcar; la alulosa, el aspartame, la stevia y la fruta del monje casi no la suben — pero cuidado con el relleno de dextrosa (un azúcar) en los productos de stevia empaquetados, que puede quitarle el sentido a elegirla
+- **Endulzantes, en orden:** los polialcoholes (xilitol, eritritol, etc.: endulzantes que se parecen químicamente al azúcar y al alcohol) suben algo la insulina, menos que el azúcar; la alulosa, el aspartame, la stevia y la fruta del monje casi no la suben — pero cuidado con el relleno de dextrosa (un azúcar) en los productos de stevia empaquetados, que puede quitarle el sentido a elegirla
 
 **2. Darle prioridad a la proteína**
 
@@ -94,10 +96,10 @@ Este es el verdadero capítulo del "cómo": los cuatro pilares de la alimentaci�
 | --- | --- | --- |
 | Insulina en ayunas | **unos 6 µUI/mL** o menos |  |
 | HOMA-IR | **unos 1.5**, ajustado por origen étnico (más cerca de 1 o de 2 en algunos grupos) |  |
-| Índice de resistencia a la insulina de la grasa (Adipose-IR) | Hombres menos de 5, mujeres menos de 8 | Necesita medir ácidos grasos libres (AGL/NEFA) en ayunas — no viene en los análisis normales |
+| Índice de resistencia a la insulina de la grasa (Adipose-IR) | Hombres menos de 5, mujeres menos de 8 | Necesita medir ácidos grasos libres (AGL/NEFA, la grasa suelta en la sangre) en ayunas — no viene en los análisis normales |
 | Relación TG/HDL | **unos 1.5**, ajustada por origen étnico |  |
-| Puntaje de calcio coronario (CAC) | **unos 0** | Lo que recomienda Bikman claramente: hacerlo *antes* de empezar una medicina para el colesterol, para saber si de verdad hay placa |
-| Cetonas en la mañana (aparato con piquete en el dedo) | **3 mmol/L o más**, varias mañanas a la semana | Si no se logra en una semana de controlar la cena y las botanas, seguramente la insulina sigue muy alta |
+| Puntaje de calcio coronario (CAC: una tomografía que cuenta el calcio en las arterias del corazón) | **unos 0** | Lo que recomienda Bikman claramente: hacerlo *antes* de empezar una medicina para el colesterol, para saber si de verdad hay placa |
+| Cetonas en la mañana (aparato con piquete en el dedo) | **3 mmol/L o más** (milimoles por litro), varias mañanas a la semana | Si no se logra en una semana de controlar la cena y las botanas, seguramente la insulina sigue muy alta |
 
 Esta tabla te da un tablero de números de verdad completo.
 
@@ -105,7 +107,7 @@ Esta tabla te da un tablero de números de verdad completo.
 
 ## Lo más importante de las preguntas y respuestas: varias cierran directamente temas abiertos de capítulos anteriores
 
-**Dieta carnívora:** Bikman lo dice claro — **no hay estudios clínicos serios publicados**; su apoyo se basa en casos sueltos, aunque le convence lo que se repite en esos casos (la psoriasis, la presión alta y los problemas de fertilidad mejoran rápido). La presenta como una forma de comer válida y completa (sobre todo la carne de res, borrego y otros rumiantes), pero señala que el verdadero límite es si se puede mantener en la vida social y familiar, no si da todos los nutrientes. En esa misma respuesta rechaza claramente que la fibra sea un nutriente esencial. 🟢 Comer fibra se relaciona siempre con mejor salud (Reynolds 2019).
+**Dieta carnívora:** Bikman lo dice claro: **no hay estudios clínicos serios publicados**. Su apoyo se basa en casos sueltos, aunque le convence lo que se repite en esos casos (la psoriasis, la presión alta y los problemas de fertilidad mejoran rápido). La presenta como una forma de comer válida y completa (sobre todo la carne de res, borrego y otros rumiantes), pero señala que el verdadero límite es si se puede mantener en la vida social y familiar, no si da todos los nutrientes. En esa misma respuesta rechaza claramente que la fibra sea un nutriente esencial. 🟢 Comer fibra se relaciona siempre con mejor salud (Reynolds 2019).
 
 **La pregunta del "estancamiento" — resuelve directamente la sección de dieta del Cap.5:** que la báscula se detenga con la dieta baja en carbohidratos no quiere decir que la dieta "dejó de funcionar"; es la señal esperada para *agregar* el ayuno intermitente a un cuerpo que ya se acostumbró a quemar grasa, según la idea de qué va primero que se explicó arriba.
 
@@ -130,6 +132,8 @@ Esta tabla te da un tablero de números de verdad completo.
 - Pensar que con la edad se necesita menos proteína: este capítulo dice lo contrario (🟢 va de acuerdo con lo que recomiendan los expertos para adultos mayores — Bauer 2013).
 
 ## Conclusión práctica
+
+Empieza por lo más sencillo: quita las botanas, sobre todo las de la noche, come la proteína y la verdura antes que los carbohidratos, y no hagas jugos con la fruta. Si te van a hacer una curva de tolerancia a la glucosa, avisa al médico si comes bajo en carbohidratos.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 
@@ -158,6 +162,8 @@ C. Quiere decir que los aceites de semillas en realidad son mejores porque suben
 
 - Comentarios personales: la historia de Bikman sobre la cena en familia, su comentario de que "nunca ha probado una gota de alcohol" al hablar de fermentar, el tono emotivo de su cierre del curso, las cortesías largas con los participantes en las preguntas y respuestas
 - Lo que ya se vio en los Cap.1–5: cómo funcionan en general los aceites de semillas y las grasas poliinsaturadas, cómo funcionan en general la grasa parda y la UCP1 (solo se conservó como nuevo lo de la insulina contra las cetonas), y los mecanismos generales del óxido nítrico y la inflamación, que se mencionan sin volver a explicarlos
+
+**La idea para recordar: primero baja la insulina con lo que comes y cuándo lo comes; comer menos viene después y cuesta mucho menos.**
 
 ---
 

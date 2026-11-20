@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 3 (transcripción). Sigue de los Cap.1–2: este capítulo pasa de "qué es la resistencia a la insulina" a "qué enfermedades causa de verdad", empezando por la diabetes tipo 2 y las enfermedades del corazón.*
 
+**En palabras sencillas:** esta clase explica por qué casi nunca se detecta la resistencia a la insulina: desde siempre medimos el azúcar, que es fácil, y no la insulina. Luego muestra, órgano por órgano (músculo, hígado y páncreas), cómo la resistencia a la insulina se convierte en diabetes tipo 2. Después Bikman critica la idea común de que el colesterol LDL causa las enfermedades del corazón; esa es una postura de minoría, y la revisión de fuentes lo señala. Al final explica tres formas en que la insulina alta sube la presión. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
 - **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
@@ -21,12 +23,12 @@
 
 ## Por qué importa
 
-Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. Este capítulo responde **por qué seguimos sin detectar la resistencia a la insulina en la consulta** (medimos lo que no es, por razones de historia y de técnica), luego explica exactamente cómo la resistencia a la insulina se convierte en diabetes tipo 2, órgano por órgano, y presenta una crítica detallada y con evidencia a la idea común de que el LDL causa las enfermedades del corazón.
+Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. Este capítulo responde **por qué seguimos sin detectar la resistencia a la insulina en la consulta** (medimos lo que no es, por razones de historia y de técnica), Luego explica exactamente cómo la resistencia a la insulina se convierte en diabetes tipo 2, órgano por órgano. Y presenta una crítica detallada y con evidencia a la idea común de que el LDL causa las enfermedades del corazón.
 
 ## La idea central: por qué seguimos sin detectarla
 
 - **Razón histórica:** "Diabetes" quiere decir "pasar a través": se le puso ese nombre por orinar demasiado, y "mellitus" (dulce como la miel) se agregó mucho después, en el siglo XVII, cuando Thomas Willis describió el sabor dulce de la orina (Karamanou 2016); los médicos antiguos ya habían notado que la orina tenía azúcar. Desde la Antigüedad, la enfermedad se ha definido por el *azúcar*.
-- **Razón científica o técnica:** el azúcar es facilísimo de medir (una gota de sangre, un aparato barato y ahora parches que miden todo el día). La insulina no: hizo falta el **trabajo de Rosalyn Yalow, premiado con el Nobel**, sobre una técnica llamada radioinmunoanálisis (con Solomon Berson, 1960; Nobel en 1977), para que se pudiera medir la insulina siquiera (Yalow 1960), y todavía hoy no se mide de rutina en la consulta.
+- **Razón científica o técnica:** el azúcar es facilísimo de medir (una gota de sangre, un aparato barato y ahora parches que miden todo el día). La insulina no: hizo falta el **trabajo de Rosalyn Yalow, premiado con el Nobel**, sobre una técnica llamada radioinmunoanálisis (medir hormonas con anticuerpos y una pequeña marca radiactiva; con Solomon Berson, 1960; Nobel en 1977), para que se pudiera medir la insulina siquiera (Yalow 1960), y todavía hoy no se mide de rutina en la consulta.
 - **La consecuencia, que viene del Cap.1:** la insulina puede estar alta *décadas* antes de que el azúcar cambie, pero como siempre hemos buscado solo el azúcar y solo el azúcar es fácil de medir, la resistencia a la insulina pasa sin que nadie la note hasta que ya se convirtió en diabetes completa.
 
 ## Frases clave y datos para recordar (Clase 3)
@@ -68,7 +70,7 @@ Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. E
 - Registro dirigido por la UCLA, unas 137,000 hospitalizaciones por enfermedad del corazón: casi la mitad tenía el LDL por debajo de 100 mg/dL al llegar al hospital, mientras que 55% tenía el HDL bajo (menos de 40 mg/dL) (Sachdeva 2009); el LDL al llegar no señalaba a estos pacientes. 🟡 Es una sola foto al momento de llegar al hospital, no un estudio de cómo el LDL predice el riesgo con el tiempo
 - Estudio de población: las muertes más bajas se dieron con un LDL de unos 140 mg/dL, cerca de 40% *por encima* del límite "ideal" de siempre; a medida que la gente bajaba más el LDL, subían las muertes. Por cada 1 mmol/L (unos 30 mg/dL) que bajaba el colesterol, el riesgo de morir subía cerca de 15% en estos datos. 🟢 Un estudio danés de unas 108,000 personas encontró las muertes por cualquier causa más bajas con un LDL de unos 140 mg/dL, en una curva en forma de U (Johannesen 2020); 🟡 la cifra de 15% no se pudo verificar, y el colesterol bajo en estos estudios refleja en parte que la persona ya estaba enferma o débil (la enfermedad baja el colesterol, no al revés).
 - Estudio de Shanghái: el LDL más bajo se relacionó con el riesgo **más alto** de Alzheimer
-- **Estos son estudios de observación**, no estudios con sorteo al azar; el propio Bikman señala este límite. Las dos líneas de evidencia existen; aquí no se terminan de poner de acuerdo. ✅ Revisión de la evidencia: los estudios con sorteo al azar de estatinas e inhibidores de PCSK9 (medicinas que bajan el LDL) y los estudios genéticos (aleatorización mendeliana) muestran que bajar el LDL reduce los infartos y las embolias en proporción a cuánto baja el LDL (Ference 2017).
+- **Estos son estudios de observación**, no estudios con sorteo al azar; el propio Bikman señala este límite. Las dos líneas de evidencia existen; aquí no se terminan de poner de acuerdo. ✅ Revisión de la evidencia: los estudios con sorteo al azar de estatinas e inhibidores de PCSK9 (medicinas que bajan el LDL) y los estudios genéticos (aleatorización mendeliana: comparar a personas que nacieron con genes que bajan el LDL) muestran que bajar el LDL reduce los infartos y las embolias en proporción a cuánto baja el LDL (Ference 2017).
 
 **LDL tipo A y tipo B:**
 
@@ -80,7 +82,7 @@ Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. E
 **Grasa saturada y aceites de semillas: evidencia de estudios, no solo opinión:**
 
 - Una revisión publicada en el Journal of the American College of Cardiology (escrita por los propios cardiólogos) no encontró un beneficio claro en comer menos grasa saturada, y señaló que la grasa saturada tiende a pasar el LDL al tipo A, el más inofensivo (Astrup 2020). 🟡 Revisión de la evidencia: una revisión Cochrane de 15 estudios con sorteo al azar encontró que comer menos grasa saturada bajó 17% los problemas del corazón y las arterias en total, con poco o ningún efecto en las muertes (Hooper 2020).
-- **Sydney Diet Heart Study** y **Minnesota Coronary Experiment** (los dos, estudios con sorteo al azar de los años sesenta; los dos se quedaron sin publicar por décadas y se recuperaron y volvieron a analizar en los últimos 10 años, más o menos): cambiar la grasa saturada por aceites de semillas poliinsaturados **bajó el LDL pero subió las muertes por cualquier causa**: 22% más riesgo de morir por cada 30 mg/dL que bajaba el colesterol (total) en el estudio de Minnesota. Son estudios con sorteo al azar de verdad, no de observación: la evidencia más fuerte de este capítulo, y de verdad incómoda para la idea simple de "menos LDL = mejor". 🟡 Revisión de la evidencia: Sydney (1966–73) encontró más muertes por cualquier causa en el grupo de aceite de cártamo (Ramsden 2013). Minnesota (1968–73) no encontró menos muertes al comparar los grupos sorteados; la cifra de 22% es una relación dentro del estudio, no un resultado del sorteo, y solo cerca de una cuarta parte de las personas siguió las dietas un año o más (Ramsden 2016). Los análisis que juntan muchos estudios encuentran que comer menos grasa saturada baja un poco los problemas del corazón y las arterias (Hooper 2020).
+- **Sydney Diet Heart Study** y **Minnesota Coronary Experiment** (los dos, estudios con sorteo al azar de los años sesenta; los dos se quedaron sin publicar por décadas y se recuperaron y volvieron a analizar en los últimos 10 años, más o menos): cambiar la grasa saturada por aceites de semillas poliinsaturados **bajó el LDL pero subió las muertes por cualquier causa**. Hubo 22% más riesgo de morir por cada 30 mg/dL que bajaba el colesterol (total) en el estudio de Minnesota. Son estudios con sorteo al azar de verdad, no de observación: la evidencia más fuerte de este capítulo, y de verdad incómoda para la idea simple de "menos LDL = mejor". 🟡 Revisión de la evidencia: Sydney (1966–73) encontró más muertes por cualquier causa en el grupo de aceite de cártamo (Ramsden 2013). Minnesota (1968–73) no encontró menos muertes al comparar los grupos sorteados; la cifra de 22% es una relación dentro del estudio, no un resultado del sorteo, y solo cerca de una cuarta parte de las personas siguió las dietas un año o más (Ramsden 2016). Los análisis que juntan muchos estudios encuentran que comer menos grasa saturada baja un poco los problemas del corazón y las arterias (Hooper 2020).
 - **Posible explicación:** los aceites de semillas refinados (poliinsaturados, procesados en fábricas, que se echan a perder y se oxidan fácilmente) podrían hacer que los macrófagos (células de defensa) reaccionen distinto al LDL que los lleva: una "carga podrida" que convierte a un macrófago normal en una "célula espumosa" (la que forma la placa), en vez de la reacción normal e inofensiva con el LDL que lleva grasa saturada. Bikman lo presenta como algo razonable, pero no demostrado del todo; marcado como interpretación. 🔴
 
 **La idea de la infección / el LDL como el que llega primero a ayudar:**
@@ -123,6 +125,8 @@ Los Cap.1–2 explicaron el mecanismo y la idea del límite personal de grasa. E
 
 ## Conclusión práctica
 
+Como la insulina sube años antes que el azúcar, vale la pena preguntarle al médico por medirla, no solo el azúcar. Para la presión y el corazón, esta clase sugiere mirar también la respuesta a la insulina; las guías del LDL siguen vigentes y conviene hablarlas con el médico.
+
 ## Preguntas para aprender (socráticas), con opciones de respuesta
 
 **1. Si en el estudio de lo contradictorio de la sal no hubo efecto en personas con buena respuesta a la insulina y sí un efecto fuerte en personas con resistencia, comiendo la misma sal, ¿qué quiere decir esto sobre aplicar las reglas generales de sal a una persona en particular?**
@@ -151,6 +155,8 @@ C. El glucagón en realidad no responde para nada a la insulina, así que esto n
 - Historias personales: el apodo cariñoso persa "hígado de oro", cuando Bikman se hace pasar por presentador de concurso ("la rueda de la desgracia"), su comentario sobre el juego de palabras de Isaías/Antiguo Testamento sobre la grasa saturada
 - Lo que ya se vio completo en los Cap.1–2: cómo funcionan las ceramidas en general, qué es agrandar células y hacer células nuevas (solo se conservó lo nuevo para cada órgano)
 - Las comparaciones completas del LDL como "autobús" y de la "pelota de playa contra pelota de golf" se resumieron a los datos (tipo A/B, qué tanto se meten en la arteria) en vez de contarlas completas, porque lo que había que aprender era el mecanismo, no las palabras de la comparación
+
+**La idea para recordar: la insulina alta daña mucho antes de que suba el azúcar, y también sube la presión por tres caminos distintos.**
 
 ---
 

@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick", Clase 2 + preguntas y respuestas (transcripción). Sigue del Cap.1 — revisa esa nota para la cadena básica, las ceramidas y la diferencia entre agrandar células (hipertrofia) y hacer células nuevas (hiperplasia), que es la base de este capítulo.*
 
+**En palabras sencillas:** cada cuerpo tiene un límite de cuánta grasa puede guardar de forma sana, y ese límite cambia de una persona a otra. Depende de si la grasa puede hacer células nuevas o solo agrandar las que ya tiene, y eso lo deciden los genes y la comida. Por eso dos personas con la misma grasa pueden estar sanas o enfermas. La clase también explica la grasa parda, la grasa de entre los órganos, dos hormonas de la grasa y por qué no toda resistencia a la insulina es mala. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **IMC**: índice de masa corporal, el peso comparado con la estatura
 - **PPAR**: familia de interruptores que controlan cómo las células queman y guardan grasa
@@ -41,7 +43,7 @@ Todo cuerpo tiene un máximo de grasa que puede guardar: el **límite personal d
 
 **La prueba en la vida real — Estudio de hombres del sur de Asia y hombres blancos:**
 
-- Hombres jóvenes con un IMC parecido, comparados según su origen (en realidad, los del sur de Asia tenían más grasa: 22% contra 15%) (Chandalia 2007)
+- Hombres jóvenes con un IMC (índice de masa corporal: peso comparado con estatura) parecido, comparados según su origen (en realidad, los del sur de Asia tenían más grasa: 22% contra 15%) (Chandalia 2007)
 - Las células de grasa de los hombres del sur de Asia eran **cerca del doble de grandes** (unos 3,500 contra unos 1,650 micrómetros cuadrados de área en promedio) que las de los hombres blancos, y la diferencia seguía al compararlos con la misma cantidad de grasa bajo la piel de la barriga (Chandalia 2007) — o sea, la grasa de los hombres blancos lograba hacer más células nuevas (más células y más pequeñas); la grasa de los del sur de Asia tenía que agrandar sus células (menos células y mucho más grandes)
 - Resultado: aunque tenían un IMC parecido, los hombres del sur de Asia tenían claramente más resistencia a la insulina en la prueba de laboratorio (la "pinza"), y las células de grasa más grandes iban con peor respuesta a la insulina y menos adiponectina (Chandalia 2007)
 - Esto explica directamente el mapa mundial del Cap.1 (donde el sur de Asia aparece como la región más afectada) — no es solo la dieta, es una diferencia en cómo cada cuerpo guarda la grasa
@@ -107,7 +109,7 @@ Bikman dice que existe una forma real de hacer que la grasa que solo agranda sus
 
 - Le avisa al cerebro que ya hay llenura; también hace fabricar mitocondrias nuevas (🟡 lo de las mitocondrias no está verificado)
 - Al revés que la adiponectina, la leptina **sube** cuando sube la grasa — y cuando está alta todo el tiempo causa **resistencia a la leptina**, el mismo principio de tolerancia que con la insulina ("demasiado de algo produce resistencia a ese algo", la frase clave del Cap.1).
-- **Cómo se relacionan la insulina y la leptina:** normalmente la leptina le dice al páncreas que fabrique *menos* insulina (un freno sano). Cuando aparece la resistencia a la leptina, ese freno se debilita — el páncreas fabrica más y más insulina sin control, y eso empeora la resistencia a la insulina. Un segundo círculo hormonal, aparte, que se suma al mecanismo de las ceramidas y la ACC ya explicado. 🟢 La leptina sí frena la salida de insulina (Kieffer 2000); 🟡 no está claro cuánto causa la resistencia a la leptina la resistencia a la insulina en las personas.
+- **Cómo se relacionan la insulina y la leptina:** normalmente la leptina le dice al páncreas que fabrique *menos* insulina (un freno sano). Cuando aparece la resistencia a la leptina, ese freno se debilita — el páncreas fabrica más y más insulina sin control, y eso empeora la resistencia a la insulina. Un segundo círculo hormonal, aparte, que se suma al mecanismo de las ceramidas y la ACC (una enzima que pone a fabricar grasa) ya explicado. 🟢 La leptina sí frena la salida de insulina (Kieffer 2000); 🟡 no está claro cuánto causa la resistencia a la leptina la resistencia a la insulina en las personas.
 
 ## Causas secundarias (reales, pero menos comprobadas que las tres principales)
 
@@ -164,7 +166,7 @@ Bikman lo dice claro: no toda resistencia a la insulina es enfermedad. Hay un ti
 
 - La progesterona sube mucho después de la ovulación → aparece una resistencia a la insulina pasajera que se puede medir y que sigue la misma curva → se quita cuando baja la progesterona. 🟡 Efecto pequeño y que no siempre aparece en los estudios
 - Esa misma subida de progesterona también da hambre desde el cerebro — el cuerpo preparando reservas de energía "por si acaso" hubo embarazo
-- **Pregunta de seguimiento — anticonceptivos hormonales con progesterona:** como mantienen la progesterona alta sin el embarazo que normalmente va con ella, pueden dar en parte la misma tendencia a la resistencia a la insulina y a subir de peso, como una versión más leve, sin embarazo, de lo que pasa en el embarazo. Bikman lo presenta como un efecto real pero no exagerado, aparte de los temas de riesgo de cáncer de los anticonceptivos con estrógeno (de los que claramente no quiso opinar más). 🟡 Revisión de la evidencia: una revisión Cochrane encontró poca evidencia de aumento de peso con la mayoría de los métodos que solo tienen progestina; la inyección de DMPA mostró más aumento en algunos estudios (Lopez 2016).
+- **Pregunta de seguimiento — anticonceptivos hormonales con progesterona:** como mantienen la progesterona alta sin el embarazo que normalmente va con ella, pueden dar en parte la misma tendencia a la resistencia a la insulina y a subir de peso, como una versión más leve, sin embarazo, de lo que pasa en el embarazo. Bikman lo presenta como un efecto real pero no exagerado, aparte de los temas de riesgo de cáncer de los anticonceptivos con estrógeno (de los que claramente no quiso opinar más). 🟡 Revisión de la evidencia: una revisión Cochrane encontró poca evidencia de aumento de peso con la mayoría de los métodos que solo tienen progestina; la inyección de DMPA (la inyección anticonceptiva de cada tres meses) mostró más aumento en algunos estudios (Lopez 2016).
 
 ## Las células de grasa a lo largo de la vida (preguntas y respuestas)
 
@@ -182,7 +184,7 @@ Bikman lo dice claro: no toda resistencia a la insulina es enfermedad. Hay un ti
 
 ## Conclusión práctica
 
-Medir la cintura tiene una razón concreta, más allá de ser "una señal general de salud" — es una forma indirecta de saber cuánta grasa hay entre los órganos, que por falta de espacio tiene que agrandar sus células y por eso causa mucho más la cadena de ceramidas e inflamación del Cap.1 que la misma cantidad de grasa guardada bajo la piel.
+Medir la cintura tiene una razón concreta, más allá de ser "una señal general de salud". Es una forma indirecta de saber cuánta grasa hay entre los órganos. Esa grasa, por falta de espacio, tiene que agrandar sus células, y por eso causa mucho más la cadena de ceramidas e inflamación del Cap.1 que la misma cantidad de grasa guardada bajo la piel.
 
 ## Preguntas para aprender (socráticas) — con opciones de respuesta
 
@@ -228,6 +230,8 @@ C. La liposucción no tiene ningún efecto en dónde se guardará la grasa despu
 - Historias personales: la de Bikman sobre su Subaru de cambios manuales, lo que vio de sus hijos tiritando en la tina, sus bromas de "peso welter", las presentaciones de los participantes y las cortesías de la sesión de preguntas en vivo
 - Toda la sesión de preguntas en vivo palabra por palabra — se resumió solo a la ciencia importante y a las preguntas, no a la conversación de ida y vuelta
 - Comparaciones repetidas una vez que la idea ya estaba explicada de forma sencilla (por ejemplo, la del camión de combustible se conserva porque de verdad ayuda a entender y no se había visto antes; la del carro de cambios manuales para la grasa parda se resume en vez de contarla completa)
+
+**La idea para recordar: lo que pesa no es solo cuánta grasa tienes, sino si tu cuerpo todavía tiene lugar sano donde guardarla.**
 
 ---
 

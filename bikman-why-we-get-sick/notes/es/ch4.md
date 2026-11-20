@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick", Clase 4 + preguntas y respuestas (transcripción). Completa la lista de enfermedades que se anunció en el Cap. 1: Alzheimer/demencia, migrañas, SOP, disfunción eréctil/testosterona baja y cáncer.*
 
+**En palabras sencillas:** esta clase aplica la idea de la resistencia a la insulina al cerebro, a la fertilidad y al cáncer. Bikman ve el Alzheimer como "resistencia a la insulina del cerebro": el cerebro deja de usar bien el azúcar, pero todavía puede usar cetonas, un combustible que sale de quemar grasa. Explica cómo la insulina alta se relaciona con el SOP, con la testosterona baja y con la disfunción eréctil, y por qué, según él, le "echa gasolina" al cáncer. Varias de estas ideas son posturas de minoría, y así se marcan. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **SOP**: síndrome de ovario poliquístico, un trastorno hormonal en mujeres
 - **LDL**: lipoproteína de baja densidad, el transportador del colesterol "malo"
@@ -21,7 +23,7 @@
 
 ## Por qué importa
 
-Este capítulo toma la misma pregunta de "¿es la causa o solo está ahí?" que el Cap. 3 hizo sobre el LDL y la aplica a las placas de amiloide en el Alzheimer, con una historia de verdad sorprendente detrás, sobre las autoridades que aprueban medicinas y sobre la honestidad en la ciencia.
+Este capítulo toma la misma pregunta de "¿es la causa o solo está ahí?" que el Cap. 3 hizo sobre el LDL. La aplica a las placas de amiloide (una proteína que se junta en el cerebro) en el Alzheimer, con una historia de verdad sorprendente detrás, sobre las autoridades que aprueban medicinas y sobre la honestidad en la ciencia.
 
 ## La idea que marca todo — Lo parecido entre las placas y el LDL
 
@@ -59,7 +61,7 @@ Bikman usa claramente la misma lógica del "camión de bomberos frente a la casa
 
 **Lo que propone Bikman en su lugar — el Alzheimer como resistencia a la insulina del cerebro:**
 
-- La **variante del gen APOE4** da más riesgo de Alzheimer, algo bien comprobado una y otra vez — cerca de 3 veces más con una copia y cerca de 15 veces más con dos, en poblaciones blancas (Farrer 1997); normalmente se explica porque limpia peor las placas
+- La **variante del gen APOE4** (una forma de un gen que lleva grasas en la sangre y el cerebro) da más riesgo de Alzheimer, algo bien comprobado una y otra vez — cerca de 3 veces más con una copia y cerca de 15 veces más con dos, en poblaciones blancas (Farrer 1997); normalmente se explica porque limpia peor las placas
 - La otra explicación de Bikman: el APOE4 podría, más bien, estorbar directamente el funcionamiento de las "antenas" de insulina en el cerebro, aparte de su papel en limpiar placas (es su interpretación, no la explicación principal). 🔴
 - **El cerebro toma claramente menos azúcar (cerca de 13% menos) aun cuando la pérdida de memoria apenas empieza** — un hallazgo real y medido. 🟢 Está bien descrito que, al principio, algunas zonas del cerebro usan menos azúcar mientras siguen tomando cetonas normalmente (Cunnane 2020); 🟡 la cifra exacta de 13% no se verificó
 - **El estudio del propio laboratorio de Bikman** (cerebros de personas ya fallecidas, comparadas por edad, sexo, origen étnico, obesidad y forma de vivir, con y sin Alzheimer confirmado): todos los genes de la maquinaria del cerebro para quemar azúcar estaban claramente apagados en los cerebros con Alzheimer; los genes para quemar cetonas estaban completamente normales. Una comparación directa y controlada, con evidencia más fuerte que los estudios de observación de placas mencionados arriba. 🟡 Revisión de la evidencia: el estudio publicado (que analizó el ARN de cerebros de personas fallecidas, de tres bancos de cerebros) encontró alterados los genes para quemar azúcar; los genes para quemar cetonas no cambiaron en las neuronas, los astrocitos y la microglía (tipos de células del cerebro), pero sí estaban alterados en los oligodendrocitos (otro tipo de célula del cerebro) (Saito 2021). Mide qué tan activos están los genes, no cuánto combustible se usa de verdad.
@@ -69,7 +71,7 @@ Bikman usa claramente la misma lógica del "camión de bomberos frente a la casa
 ## Cetonas — El combustible preferido del cerebro (no un respaldo)
 
 - **Qué es de verdad una cetona:** algo que sale cuando se quema grasa por un buen rato. Cuando la insulina se queda baja unas 12 a 16 horas, se quema tanta grasa que el hígado empieza a convertir lo que sobra en cetonas.
-- **Corrección importante:** "el cerebro necesita o prefiere azúcar" es **falso, y se puede demostrar**. En ayunas, el azúcar puede estar en unos 5 mmol/L y las cetonas en solo unos 2 mmol/L; aun así, el cerebro saca cerca de 65 a 70% de su energía de las cetonas, aunque haya menos. El cerebro prefiere las cetonas cuando hay de las dos; no solo las usa como respaldo. Es una medición directa, no una suposición. 🔴 Revisión de la evidencia: la medición clásica se hizo después de 5 a 6 semanas sin comer nada, cuando las cetonas en la sangre están mucho más altas que 2 mmol/L; en ese caso, las cetonas reemplazaron al azúcar como el combustible principal del cerebro (Owen 1967). Con los niveles de una noche sin comer o de una dieta cetogénica normal, las cetonas dan una parte menor, más o menos según cuántas haya en la sangre, y el cerebro siempre necesita algo de azúcar (Cunnane 2020).
+- **Corrección importante:** "el cerebro necesita o prefiere azúcar" es **falso, y se puede demostrar**. En ayunas, el azúcar puede estar en unos 5 mmol/L (milimoles por litro, una forma de medir cuánto hay en la sangre) y las cetonas en solo unos 2 mmol/L; aun así, el cerebro saca cerca de 65 a 70% de su energía de las cetonas, aunque haya menos. El cerebro prefiere las cetonas cuando hay de las dos; no solo las usa como respaldo. Es una medición directa, no una suposición. 🔴 Revisión de la evidencia: la medición clásica se hizo después de 5 a 6 semanas sin comer nada, cuando las cetonas en la sangre están mucho más altas que 2 mmol/L; en ese caso, las cetonas reemplazaron al azúcar como el combustible principal del cerebro (Owen 1967). Con los niveles de una noche sin comer o de una dieta cetogénica normal, las cetonas dan una parte menor, más o menos según cuántas haya en la sangre, y el cerebro siempre necesita algo de azúcar (Cunnane 2020).
 - **Por qué esto importa para el Alzheimer:** la maquinaria para quemar cetonas sigue completa aunque los genes para quemar azúcar estén apagados (según el estudio del laboratorio de Bikman de arriba); o sea, un cerebro con hambre y con resistencia a la insulina todavía tiene otro camino de combustible que funciona, si de verdad hay cetonas.
 - **El problema:** la mayoría de la gente casi nunca tiene muchas cetonas, porque la insulina alta todo el tiempo (el problema de la forma moderna de comer de los Cap. 2–3) mantiene apagada la quema de grasa y, por lo tanto, la fabricación de cetonas.
 
@@ -87,7 +89,7 @@ Bikman usa claramente la misma lógica del "camión de bomberos frente a la casa
 | **Cadena media** | Casi no se puede guardar; casi siempre se quema | Aceite de coco, lácteos de cabra (ácidos caprílico/cáprico/caproico — su nombre viene de "cabra") | Más; se quema sin importar la insulina |
 | **Cadena corta** | No se puede guardar; se tiene que quemar | Alimentos fermentados (yogur, kimchi, leche agria) | Lo más; no tiene otra opción que quemarse |
 
-Esto explica por qué el aceite MCT tiene un efecto mucho mayor en las cetonas y el metabolismo de lo que se esperaría por la cantidad: no depende de que la insulina decida si se guarda o se quema, como pasa con las grasas de cadena larga. 🟡 Revisión de la evidencia: el aceite de coco es cerca de la mitad ácido láurico (de 12 carbonos), que el cuerpo maneja casi como grasa de cadena larga; el aceite MCT purificado (de 8 a 10 carbonos) es el que de verdad hace cetonas. La mayoría de las grasas de cadena corta del cuerpo las fabrican las bacterias del intestino a partir de la fibra, no vienen de la comida.
+Esto explica por qué el aceite MCT (aceite de triglicéridos de cadena media) tiene un efecto mucho mayor en las cetonas y el metabolismo de lo que se esperaría por la cantidad: no depende de que la insulina decida si se guarda o se quema, como pasa con las grasas de cadena larga. 🟡 Revisión de la evidencia: el aceite de coco es cerca de la mitad ácido láurico (de 12 carbonos), que el cuerpo maneja casi como grasa de cadena larga; el aceite MCT purificado (de 8 a 10 carbonos) es el que de verdad hace cetonas. La mayoría de las grasas de cadena corta del cuerpo las fabrican las bacterias del intestino a partir de la fibra, no vienen de la comida.
 
 ## Resistencia a la insulina en mujeres jóvenes — No es solo cosa de la edad
 
@@ -139,7 +141,7 @@ Esto explica por qué el aceite MCT tiene un efecto mucho mayor en las cetonas y
 - Insulina alta = una señal de crecimiento que llega a todas las células, también a las de cáncer
 - Azúcar alta = el combustible que va con esa señal de crecimiento, y alimenta a la célula de cáncer que depende de fermentar azúcar
 - **Tumores de mama: unas 7 veces más receptores de insulina que el tejido normal del pecho; los tumores de próstata también tienen de más** (🟢 más de 6 veces en el cáncer de mama, según Papa 1990) — parece que las células de cáncer aumentan por su cuenta su respuesta a la insulina.
-- **Hombres con resistencia a la insulina: 3 veces más probabilidad de morir de cáncer.** Un aumento parecido de muertes en mujeres con resistencia a la insulina y cáncer de mama, sin importar la obesidad, las enfermedades del corazón o fumar. 🟡 Revisión de la evidencia: en datos de la encuesta NHANES de EE. UU., los adultos sin diabetes con la insulina en ayunas en 10 µU/mL o más tuvieron cerca del doble de muertes por cáncer (Tsujimoto 2017); estudio de observación. Lo de 3 veces en hombres no se verificó.
+- **Hombres con resistencia a la insulina: 3 veces más probabilidad de morir de cáncer.** Un aumento parecido de muertes en mujeres con resistencia a la insulina y cáncer de mama, sin importar la obesidad, las enfermedades del corazón o fumar. 🟡 Revisión de la evidencia: en datos de la encuesta NHANES de EE. UU., los adultos sin diabetes con la insulina en ayunas en 10 µU/mL (microunidades por mililitro, la unidad de la insulina) o más tuvieron cerca del doble de muertes por cáncer (Tsujimoto 2017); estudio de observación. Lo de 3 veces en hombres no se verificó.
 
 **La postura cuidadosa y clara de Bikman (vale la pena conservarla fiel a su sentido):** **no** dice que la resistencia a la insulina cause el cáncer; seguramente otra cosa lo empieza (quizá el daño a las mitocondrias, según Seyfried). Pero la resistencia a la insulina claramente **acelera** mucho un cáncer que ya existe. "Quizá no encendió el fuego, pero de seguro le está echando gasolina."
 
@@ -150,9 +152,9 @@ Esto explica por qué el aceite MCT tiene un efecto mucho mayor en las cetonas y
 
 ## Lo más importante de las preguntas y respuestas
 
-**De dónde viene la proteína (suero de leche o vegetal) y la insulina:** lo que le hace a la insulina depende de los aminoácidos (las piezas de la proteína) que tiene, no de dónde viene la proteína. La proteína animal se describe como completa siempre; las proteínas vegetales (incluso la soya, que se considera la vegetal más completa) pueden tener pocos de algunos aminoácidos y traer "antinutrientes" (ácido fítico, taninos, inhibidores de tripsina) que estorban la digestión, algo que se corrige en parte fermentándolas a la manera tradicional.
+**De dónde viene la proteína (suero de leche o vegetal) y la insulina:** lo que le hace a la insulina depende de los aminoácidos (las piezas de la proteína) que tiene, no de dónde viene la proteína. La proteína animal se describe como completa siempre; las proteínas vegetales (incluso la soya, que se considera la vegetal más completa) pueden tener pocos de algunos aminoácidos y traer "antinutrientes" (ácido fítico, taninos, inhibidores de tripsina) que estorban la digestión. Eso se corrige en parte fermentándolas a la manera tradicional.
 
-**Suplementos de cetonas — a quién le sirven de verdad:** sirven sobre todo para personas con pérdida de memoria o riesgo de Alzheimer (le dan combustible directo al cerebro) o deportistas de resistencia (un combustible extra); pero para una persona con sobrepeso o diabetes que quiere mejorar su metabolismo, el beneficio viene de *bajar la insulina*, no de tomar cetonas como suplemento; las cetonas en suplemento no dan ese beneficio de bajar la insulina. Un matiz importante: tomar cetonas no reemplaza resolver de verdad la insulina alta.
+**Suplementos de cetonas — a quién le sirven de verdad:** sirven sobre todo para personas con pérdida de memoria o riesgo de Alzheimer (le dan combustible directo al cerebro) o deportistas de resistencia (un combustible extra); pero para una persona con sobrepeso o diabetes que quiere mejorar su metabolismo, el beneficio viene de *bajar la insulina*, no de tomar cetonas como suplemento. Las cetonas en suplemento no dan ese beneficio de bajar la insulina. Un matiz importante: tomar cetonas no reemplaza resolver de verdad la insulina alta.
 
 **Problemas de salud mental y resistencia a la insulina:** Bikman menciona el libro *Brain Energy* del Dr. Chris Palmer, que aplica la idea de enfermedad del metabolismo en el cerebro a la esquizofrenia, el trastorno bipolar, la ansiedad y la depresión. Bikman cree que es un efecto real y reconocido en esa área, aunque no es lo que él investiga directamente. 🔴 Idea nueva; la evidencia se limita a estudios piloto pequeños.
 
@@ -205,6 +207,8 @@ C. Los análisis de insulina de todo el cuerpo no sirven para nada y nunca se de
 
 - Comentarios personales: lo que dice Bikman sobre Coleridge y la Balada del viejo marinero (se conservó la idea central de "azúcar por todas partes y el cerebro con hambre" porque de verdad ayuda a entender; se quitó la discusión larga del poema), su chiste sobre los hombres veganos y la reproducción, y las cortesías largas de las preguntas y respuestas
 - Lo que ya se vio en los Cap. 1–3: qué es en general la resistencia a la insulina, cómo funcionan en general el óxido nítrico y la presión alta (solo se menciona, no se vuelve a explicar, porque la disfunción eréctil usa exactamente el mismo mecanismo ya visto en el Cap. 3)
+
+**La idea para recordar: la insulina alta no se queda en el azúcar; puede afectar al cerebro, a la fertilidad y al crecimiento del cáncer.**
 
 ---
 

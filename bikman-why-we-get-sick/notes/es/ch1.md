@@ -4,6 +4,8 @@
 
 *Fuente: Dr. Benjamin Bikman, curso de Peterson Academy "Why We Get Sick" (Por qué enfermamos), Clase 1 (transcripción). Bikman es científico y profesor de metabolismo (BYU): una fuente académica seria, no una figura de los medios.*
 
+**En palabras sencillas:** esta primera clase presenta la resistencia a la insulina: cuando el cuerpo deja de hacerle caso a la insulina y la fabrica de más para compensar. Bikman la ve como la raíz común de muchas enfermedades crónicas, desde la diabetes tipo 2 hasta problemas del corazón y del cerebro. Explica tres causas principales (el estrés, la inflamación y la misma insulina alta) y cómo una célula de grasa que crece demasiado empieza a dañar al resto del cuerpo. La insulina sube años antes que el azúcar, y casi nunca se mide. Lo comprobado va marcado ✅ y lo que se discute 🟡; una revisión de fuentes corrige algunos puntos de la clase.
+
 **Palabras de esta nota:**
 - **NHANES**: gran encuesta de salud y nutrición del gobierno de EE. UU.
 - **HDL**: lipoproteína de alta densidad, el transportador del colesterol "bueno"
@@ -31,14 +33,14 @@ Esta es la idea que marca el tamaño de todo el curso: la resistencia a la insul
 
 Frases cortas y fuertes que vale la pena recordar tal cual: las que resumen todo un mecanismo en una sola oración.
 
-- **"Es imposible que una célula de grasa crezca si la insulina no está alta. No puede pasar. Es imposible."** — la frase más tajante de la clase; la insulina como la que manda de forma absoluta en guardar grasa, no solo como una ayuda. 🔴 Revisión de la evidencia: la insulina es la señal principal para guardar grasa, pero "imposible" es exagerar; en un estudio en el que se controló todo lo que comían, bajar la insulina con una dieta cetogénica con las mismas calorías no hizo perder grasa más rápido (Hall 2016).
+- **"Es imposible que una célula de grasa crezca si la insulina no está alta. No puede pasar. Es imposible."** — la frase más tajante de la clase; la insulina como la que manda de forma absoluta en guardar grasa, no solo como una ayuda. 🔴 Revisión de la evidencia: la insulina es la señal principal para guardar grasa, pero "imposible" es exagerar; en un estudio en el que se controló todo lo que comían, bajar la insulina con una dieta cetogénica (muy baja en carbohidratos, que hace fabricar cetonas) con las mismas calorías no hizo perder grasa más rápido (Hall 2016).
 - **"No existe diabetes tipo 2 sin resistencia a la insulina."** — dicho como algo que tiene que estar antes, no como algo que solo va junto. 🟡 Revisión de la evidencia: es cierto en la mayoría de los casos, pero un grupo de personas que desarrollan diabetes de adultos la tienen sobre todo por falta de insulina, no por resistencia (Ahlqvist 2018).
 - **"Una dieta baja en insulina no es lo mismo que una dieta baja en calorías."** — el resumen en una línea de toda la sección de "cuando la insulina y la energía se separan"; la insulina y las calorías son dos palancas distintas.
 - **"La resistencia a la insulina empieza en las células de grasa."** — la primera ficha de dominó; todo lo demás sale de la grasa, no primero del músculo ni del hígado. 🔴 Hipótesis de Bikman; la resistencia a la insulina en el músculo ya aparece en adultos jóvenes y delgados que tienen resistencia a la insulina (Petersen 2007), y todavía se discute qué tejido falla primero.
 - **"[Bajar el azúcar en la sangre] es lo más famoso que hace la insulina, pero está lejos de ser lo más importante."** — un reto directo a la idea de que la insulina solo tiene que ver con el azúcar.
 - **"Demasiado de algo produce resistencia a ese algo."** — la regla general de Bikman, que vale igual para la insulina, la cafeína y los antibióticos: la idea que explica por qué la insulina alta todo el tiempo causa resistencia.
 - **"[En la diabetes] la insulina no baja a cero. Ni siquiera baja a como estaba cuando la persona respondía bien a la insulina."** — corrige directamente la idea común de que los diabéticos tienen "la insulina baja". 🟢 Cierto en la mayoría de los casos de diabetes tipo 2 al principio; 🟡 con los años el páncreas fabrica menos insulina porque sus células beta se van dañando (DeFronzo 2009).
-- **"No es porque comamos mucho palmitato… el hígado es muy bueno fabricándolo."** — para no echarle toda la culpa a la grasa saturada de la comida por el daño de las ceramidas; el problema lo fabrica el propio hígado.
+- **"No es porque comamos mucho palmitato… el hígado es muy bueno fabricándolo."** (El palmitato es una grasa saturada.) Sirve toda la culpa a la grasa saturada de la comida por el daño de las ceramidas (unas grasas dañinas que se explican abajo). El problema lo fabrica el propio hígado.
 - **Una mala noche de sueño → cerca de 25% más resistencia a la insulina al día siguiente, por el cortisol** — el número más concreto de toda la clase sobre la relación entre el sueño y el metabolismo. 🟢 Una noche de unas 4 horas de sueño bajó la respuesta a la insulina cerca de 25% en 9 adultos sanos (Donga 2010); 🟡 ese estudio no demostró que la causa fuera el cortisol.
 - **88% de los adultos de EE. UU. no tienen un metabolismo sano; solo 12% están completamente sanos** — la cifra que marca el tamaño del problema que todo el curso quiere responder. 🟢 Encuesta nacional NHANES 2009–2016: solo 12.2% de los adultos de EE. UU. tenían bien los cinco marcadores (Araújo 2019).
 - **"Fíjense que uso la palabra 'algunas'."** — Bikman mismo lo subraya: la resistencia a la insulina nunca es total ni igual en todas las células y tejidos.
@@ -71,7 +73,7 @@ Bikman lo dice claramente: bajar el azúcar en la sangre es lo **más famoso** q
 - La fabricación de proteínas en el músculo y en otros tejidos (señal de crecimiento)
 - El movimiento de sales minerales: el sodio y el potasio entrando y saliendo de las células
 
-Por eso, cuando la insulina falla, se nota mucho más allá del azúcar y del peso: es una hormona que controla todo el cuerpo, y la resistencia a ella afecta en cadena a las defensas, a los tejidos y a las sales minerales, no solo al metabolismo. La fabrican las células beta del páncreas, en cantidades diminutas, y aun así tiene una influencia enorme; lo que Bikman quiere decir es que la fuerza no depende de la cantidad.
+Por eso, cuando la insulina falla, se nota mucho más allá del azúcar y del peso. Es una hormona que controla todo el cuerpo, y la resistencia a ella afecta en cadena a las defensas, a los tejidos y a las sales minerales, no solo al metabolismo. La fabrican las células beta del páncreas, en cantidades diminutas, y aun así tiene una influencia enorme; lo que Bikman quiere decir es que la fuerza no depende de la cantidad.
 
 ## Resistencia a la insulina — Las dos caras de la moneda
 
@@ -113,8 +115,8 @@ Para Bikman, una causa es "principal" si se ha comprobado en células en el labo
 
 - Las citocinas son pequeñas proteínas que mandan mensajes, fabricadas sobre todo por las células de defensa, que encienden la inflamación en todo el cuerpo. Cualquier fuente de inflamación (infecciones, ataques de enfermedades autoinmunes, aire contaminado o las propias células de grasa) empeora rápido la respuesta a la insulina.
 - Dato destacado: las personas con artritis reumatoide tienen una resistencia a la insulina claramente peor cuando la enfermedad está activa que cuando está calmada; prueba en tiempo real de que la inflamación y la resistencia a la insulina se mueven juntas, no solo que van juntas a largo plazo. 🟡 El estudio exacto no se verificó; 🟢 está bien comprobado que las citocinas inflamatorias estorban la señal de la insulina (Hotamisligil 2006).
-- **Enfermarse en tiempo real:** las personas que usan un medidor continuo de azúcar muchas veces pueden darse cuenta de que se están enfermando antes de tener síntomas, porque el azúcar se vuelve inestable y sube a medida que aumentan las citocinas por la infección; una relación práctica, que se puede ver, entre inflamación y resistencia a la insulina.
-- **Cómo afecta el aire contaminado, en concreto:** solo hay dos caminos para que algo del ambiente llegue a la sangre: la piel (poco común; la piel está hecha para no dejar pasar las cosas) o tragarlo o respirarlo. Las partículas finas que se respiran se acumulan en los pulmones y causan ahí inflamación; los pulmones responden fabricando citocinas que luego viajan por todo el cuerpo y empeoran la respuesta a la insulina en todas partes, solo por haber respirado. 🟡 Mecanismo razonable, con datos en animales y personas; no se sabe bien qué tan grande es el efecto en las personas.
+- **Enfermarse en tiempo real:** las personas que usan un medidor continuo de azúcar (un sensor pegado a la piel que mide el azúcar todo el día) muchas veces pueden darse cuenta de que se están enfermando antes de tener síntomas, porque el azúcar se vuelve inestable y sube a medida que aumentan las citocinas por la infección; una relación práctica, que se puede ver, entre inflamación y resistencia a la insulina.
+- **Cómo afecta el aire contaminado, en concreto:** solo hay dos caminos para que algo del ambiente llegue a la sangre: la piel (poco común; la piel está hecha para no dejar pasar las cosas) o tragarlo o respirarlo. Las partículas finas que se respiran se acumulan en los pulmones y causan ahí inflamación. Los pulmones responden fabricando citocinas que luego viajan por todo el cuerpo y empeoran la respuesta a la insulina en todas partes, solo por haber respirado. 🟡 Mecanismo razonable, con datos en animales y personas; no se sabe bien qué tan grande es el efecto en las personas.
 
 **3. La misma insulina alta** (el círculo vicioso)
 
@@ -166,7 +168,7 @@ Si la insulina se queda baja aunque entre mucha energía, las células de grasa 
 ## Ceramidas — El puente entre la grasa y el resto del cuerpo
 
 - Las ceramidas se forman con **palmitato** (una grasa saturada) + **serina** (un aminoácido, una pieza de las proteínas); los dos son inofensivos por separado, pero dañinos cuando se juntan con la señal adecuada.
-- **El palmitato lo fabrica sobre todo el hígado; no viene principalmente de la comida**: el hígado lo fabrica de cero (lipogénesis de novo), y la insulina es la señal principal que le dice que lo fabrique. Insulina alta → más palmitato del hígado → más material para hacer ceramidas. 🟡 Revisión de la evidencia: el palmitato también es la grasa saturada más común en la comida, y en personas con hígado graso cerca de 26% de la grasa del hígado venía de grasa fabricada por el propio hígado, contra cerca de 59% que venía de la grasa que circulaba en la sangre (Donnelly 2005).
+- **El palmitato lo fabrica sobre todo el hígado; no viene principalmente de la comida**: el hígado lo fabrica de cero (lipogénesis de novo: fabricar grasa nueva a partir de azúcar), y la insulina es la señal principal que le dice que lo fabrique. Insulina alta → más palmitato del hígado → más material para hacer ceramidas. 🟡 Revisión de la evidencia: el palmitato también es la grasa saturada más común en la comida, y en personas con hígado graso cerca de 26% de la grasa del hígado venía de grasa fabricada por el propio hígado, contra cerca de 59% que venía de la grasa que circulaba en la sangre (Donnelly 2005).
 - Las tres causas principales (estrés, inflamación, insulina alta) son las que de verdad encienden el interruptor que convierte el palmitato + la serina en ceramidas.
 - Cuando las ceramidas se acumulan justamente en las células alfa del páncreas, el hígado y el músculo, ese es el punto en que se pasa de "tener resistencia a la insulina" a tener diabetes tipo 2 completa. 🔴 Hipótesis de Bikman; 🟢 las ceramidas están muy ligadas a la resistencia a la insulina en estudios con animales y personas (Chavez 2012), pero este punto exacto de cambio no está comprobado.
 - **Consecuencias que se mencionan en la clase:** cuando las ceramidas se riegan desde la grasa por todo el cuerpo, Bikman enumera efectos "de pies a cabeza": vasos sanguíneos que no funcionan bien y presión alta, infertilidad y pérdida de memoria y capacidad mental, entre otros que se verán en clases posteriores. Este es el puente que explica *cómo* un problema de la célula de grasa se convierte en la lista de enfermedades de muchos órganos del principio: las ceramidas son el mensajero que lleva el daño de la grasa a órganos lejanos.
@@ -183,13 +185,15 @@ Bikman presenta todo el curso como "una historia de terror con final feliz", y d
 
 ## Conclusión práctica
 
-La cadena de la célula de grasa (crece demasiado, se queda sin oxígeno, fabrica ceramidas) da un segundo argumento, independiente (además del camino del hígado y los tres marcadores de grasas en la sangre ya explicado), de por qué importan el ejercicio de fuerza y no comer de más todo el tiempo: los dos quitan presión directamente a cada célula de grasa para que no crezca de más hasta llegar al estado de célula demasiado grande, sin oxígeno y que fabrica citocinas.
+La cadena de la célula de grasa (crece demasiado, se queda sin oxígeno, fabrica ceramidas) da un segundo argumento, independiente del camino del hígado y de los tres marcadores de grasas en la sangre ya explicado. Explica por qué importan el ejercicio de fuerza y no comer de más todo el tiempo: los dos quitan presión directamente a cada célula de grasa para que no crezca de más hasta llegar al estado de célula demasiado grande, sin oxígeno y que fabrica citocinas.
 
 ## Temas abiertos
 
 - Al curso le faltan más clases (la Clase 2: "Understanding Insulin Resistance" explica más a fondo la insulina alta, la inflamación y el límite personal de grasa); seguir a medida que lleguen los capítulos.
 - Si se pueden medir las ceramidas en un laboratorio: sin resolver, vale la pena investigarlo.
 - La idea del límite personal de grasa (se mencionó para la Clase 2): todavía no se ha visto, queda anotada para la siguiente entrega.
+
+**La idea para recordar: la resistencia a la insulina empieza años antes que el azúcar alto, y el estrés, la inflamación y la insulina alta la alimentan.**
 
 ---
 
