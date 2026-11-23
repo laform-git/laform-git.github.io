@@ -17,12 +17,12 @@
  },
  "film": {
   "en": {
-   "src": "media/mass-heaven-and-earth.mp4",
+   "src": "media/mass-heaven-and-earth.mp4?v=2",
    "poster": "media/film-poster.jpg",
    "label": "Short introduction"
   },
   "es": {
-   "src": "media/mass-heaven-and-earth.mp4",
+   "src": "media/mass-heaven-and-earth.mp4?v=2",
    "poster": "media/film-poster.jpg",
    "label": "Introducción breve (en inglés; la versión en español viene pronto)"
   }
