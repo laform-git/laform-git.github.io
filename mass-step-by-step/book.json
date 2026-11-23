@@ -17,12 +17,12 @@
  },
  "film": {
   "en": {
-   "src": "media/mass-heaven-and-earth.mp4?v=3",
+   "src": "media/mass-heaven-and-earth.mp4?v=4",
    "poster": "media/film-poster.jpg?v=3",
    "label": "Short introduction"
   },
   "es": {
-   "src": "media/misa-cielo-y-tierra.mp4?v=3",
+   "src": "media/misa-cielo-y-tierra.mp4?v=4",
    "poster": "media/film-poster-es.jpg?v=3",
    "label": "Introducción breve"
   }
