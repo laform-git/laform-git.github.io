@@ -15,6 +15,18 @@
   "en": "What happens at Mass, from the door to the dismissal, and why it matters: plain words for anyone who was raised Catholic and is finding the way back.",
   "es": "Qué pasa en la Misa, desde la puerta hasta la despedida, y por qué importa: palabras sencillas para quien creció católico y está buscando el camino de regreso."
  },
+ "film": {
+  "en": {
+   "src": "media/mass-heaven-and-earth.mp4",
+   "poster": "media/film-poster.jpg",
+   "label": "Short introduction"
+  },
+  "es": {
+   "src": "media/mass-heaven-and-earth.mp4",
+   "poster": "media/film-poster.jpg",
+   "label": "Introducción breve (en inglés; la versión en español viene pronto)"
+  }
+ },
  "langs": [
   "en",
   "es"
