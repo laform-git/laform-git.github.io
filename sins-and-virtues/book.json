@@ -1,0 +1,49 @@
+{
+ "langs": [
+  "en",
+  "es"
+ ],
+ "title": {
+  "en": "Sins & Virtues",
+  "es": "Pecados y Virtudes"
+ },
+ "titleHtml": {
+  "en": "Sins <span>&amp; Virtues</span>",
+  "es": "Pecados <span>y Virtudes</span>"
+ },
+ "eyebrow": {
+  "en": "Study series · draft for review",
+  "es": "Serie de estudio · borrador para revisar"
+ },
+ "lede": {
+  "en": "The seven deadly sins and the lively virtues that heal them, with Bishop Barron, the Catechism and the saints.",
+  "es": "Los siete pecados capitales y las virtudes vivas que los sanan, con el obispo Barron, el Catecismo y los santos."
+ },
+ "sections": [
+  {
+   "title": {
+    "en": "The seven pairs",
+    "es": "Los siete pares"
+   },
+   "notes": [
+    {
+     "id": "pride",
+     "en": {
+      "file": "en/pride.md",
+      "title": "Pride & Humility",
+      "aka": [
+       "Sin-Virtue-1 Pride & Humility"
+      ]
+     },
+     "es": {
+      "file": "es/pride.md",
+      "title": "Soberbia y humildad",
+      "aka": [
+       "Sin-Virtue-1 Pride & Humility"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
