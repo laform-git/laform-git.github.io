@@ -5,6 +5,8 @@
 **In plain words:** pride is putting yourself in God's place: *my plan, my rules, my life.* It is the oldest sin and the root of all the others. It promises greatness but leaves us small, anxious and, as Bishop Barron says, *bored*. Humility is not thinking badly of yourself. It is seeing the truth: everything good in you is a gift, and God has a great adventure for your life. The humble person is free, light and fully alive.
 
 > 🎧 **Listen free:** Bishop Robert Barron's talk "Pride & Humility" from *Seven Deadly Sins, Seven Lively Virtues*, shared free by Word on Fire as [The Word on Fire Show, episode 188](https://www.wordonfire.org/?p=3081) (about 18 min, English). Also in any podcast app: search "Word on Fire Show 188". The full series is available from [Word on Fire](https://bookstore.wordonfire.org/collections/seven-deadly-sins-seven-lively-virtues) and on FORMED.
+>
+> 🎬 **Watch free:** Bishop Barron's sermon on all seven, "Seven Deadly Sins; Seven Lively Virtues," on [YouTube](https://www.youtube.com/watch?v=DNHKTkvXqyk).
 
 ## Where pride sits
 
