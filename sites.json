@@ -461,5 +461,21 @@
     "sym": "Ms",
     "num": 28,
     "icon": "<path d=\"M20 10h24c0 14-5 22-12 22s-12-8-12-22z\"/><path d=\"M32 32v14\"/><path d=\"M22 54h20\"/><path d=\"M26 48h12\"/><circle cx=\"32\" cy=\"18\" r=\"4\"/>"
+  },
+  {
+    "name": "Sins & Virtues",
+    "section": "Faith",
+    "path": "sins-and-virtues/",
+    "label": "Bishop Robert Barron",
+    "blurb": "The seven deadly sins and the lively virtues that heal them, with the Catechism and the saints. Pride & Humility first; more coming.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Pecados y Virtudes",
+    "label_es": "Obispo Robert Barron",
+    "blurb_es": "Los siete pecados capitales y las virtudes vivas que los sanan, con el Catecismo y los santos. Primero: soberbia y humildad; vienen más.",
+    "path_es": "sins-and-virtues/#es/",
+    "sym": "Sv",
+    "num": 31,
+    "icon": "<path d=\"M32 8l20 40H12z\"/><path d=\"M32 22v14M26 30h12\"/>"
   }
 ]
