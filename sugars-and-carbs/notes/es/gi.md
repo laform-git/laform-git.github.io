@@ -74,6 +74,30 @@ aliases:
 | Nuez de la India | 25 | 1 oz (28 g) | 2 |
 | Cacahuates | 18 | 1 oz (28 g) | 1 |
 
+### Los 10 que más suben el azúcar
+
+Promedios de muchos estudios de distintos laboratorios (Atkinson 2008, Tabla 1, glucosa = 100). Son los alimentos que suben el azúcar en sangre más rápido.
+
+| # | Alimento | IG |
+|---|---|---|
+| 1 | Glucosa (azúcar de referencia) | 103 |
+| 2 | Galletas o tostadas de arroz inflado | 87 |
+| 3 | Puré de papa instantáneo | 87 |
+| 4 | Leche de arroz | 86 |
+| 5 | Hojuelas de maíz (cornflakes) | 81 |
+| 6 | Avena instantánea | 79 |
+| 7 | Papa hervida | 78 |
+| 8 | Papilla de arroz (congee) | 78 |
+| 9 | Sandía | 76 |
+| 10 | Pan blanco de trigo | 75 |
+
+Justo debajo: pan integral 74 y arroz blanco hervido 73. ✅
+
+- **El más alto de esta nota:** la papa russet al horno, IG 111 (tabla de arriba). Es una sola prueba, no un promedio, por eso no entra en el top 10. 🟡
+- **Fíjate en el patrón:** 4 de los 10 son productos de arroz y 3 de papa. El procesado (instantáneo, inflado, molido, en puré) sube el número. ✅
+- **El IG no lo es todo:** la sandía está en el top 10, pero una taza tiene una carga glucémica baja (8) porque es casi toda agua. La porción decide el golpe real. ✅
+- **Por qué cambian los números:** la tabla de arriba usa porciones típicas de un estudio (arroz blanco 66, integral 50); este top 10 usa el promedio de muchos laboratorios (arroz blanco 73, integral 68). La variedad, el tiempo de cocción y el laboratorio cambian el resultado. 🟡
+
 Azúcares para comparar: glucosa 100 · sacarosa ~63–65 · miel 58 · lactosa ~46 · fructosa ~25 · maltitol 35 · xilitol 13 · eritritol 0 (ver [[Cada azúcar y endulzante]]).
 
 ## 3 · Lo bueno y lo malo: la regla real

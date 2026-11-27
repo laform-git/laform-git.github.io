@@ -74,6 +74,30 @@ aliases:
 | Cashews | 25 | 1 oz | 2 |
 | Peanuts | 18 | 1 oz | 1 |
 
+### Top 10: highest glycemic response
+
+Averages of many studies from different labs (Atkinson 2008, Table 1, glucose = 100). These are the foods that raise blood sugar fastest.
+
+| # | Food | GI |
+|---|---|---|
+| 1 | Glucose (reference sugar) | 103 |
+| 2 | Rice crackers / rice crisps | 87 |
+| 3 | Instant mashed potato | 87 |
+| 4 | Rice milk | 86 |
+| 5 | Cornflakes | 81 |
+| 6 | Instant oat porridge | 79 |
+| 7 | Potato, boiled | 78 |
+| 8 | Rice porridge (congee) | 78 |
+| 9 | Watermelon | 76 |
+| 10 | White wheat bread | 75 |
+
+Just below: whole wheat bread 74 and boiled white rice 73. ✅
+
+- **Single highest in this note:** a baked russet potato, GI 111 (the table above). One test, not an average, so it is not in the top 10. 🟡
+- **Watch the pattern:** 4 of the 10 are rice products and 3 are potato. Processing (instant, puffed, milled, mashed) pushes the number up. ✅
+- **GI is not the whole story:** watermelon is in the top 10, but a cup has a low glycemic load (8) because it is mostly water. Portion decides the real hit. ✅
+- **Why numbers differ:** the food table above uses single typical servings (white rice 66, brown rice 50); this top 10 uses the average across many labs (white rice 73, brown rice 68). Variety, cooking time and the lab all change the result. 🟡
+
 Sugars for comparison: glucose 100 · sucrose ~63–65 · honey 58 · lactose ~46 · fructose ~25 · maltitol 35 · xylitol 13 · erythritol 0 (see [[Every Sugar and Sweetener]]).
 
 ## 3 · Good and bad: the real rule
