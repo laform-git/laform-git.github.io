@@ -4,10 +4,6 @@
 
 **En palabras sencillas:** la soberbia es ponerse en el lugar de Dios: *mi plan, mis reglas, mi vida.* Es el pecado más antiguo y la raíz de todos los demás. Promete grandeza, pero nos deja pequeños, ansiosos y, como dice el obispo Barron, *aburridos*. La humildad no es pensar mal de uno mismo. Es ver la verdad: todo lo bueno que hay en ti es un regalo, y Dios tiene una gran aventura para tu vida. La persona humilde es libre, ligera y está plenamente viva.
 
-> 🎧 **Escuchar gratis:** la charla del obispo Robert Barron "Soberbia y humildad" de *Siete pecados capitales, siete virtudes vivas* (*Seven Deadly Sins, Seven Lively Virtues*), compartida gratis por Word on Fire como [The Word on Fire Show, episodio 188](https://www.wordonfire.org/?p=3081) (unos 18 min, **audio en inglés**). También en cualquier app de podcasts: busca "Word on Fire Show 188". La serie completa, con audio en español, está en [Word on Fire](https://bookstore.wordonfire.org/collections/seven-deadly-sins-seven-lively-virtues) y en FORMED.
->
-> 🎬 **Ver gratis:** el sermón del obispo Barron sobre los siete, "Seven Deadly Sins; Seven Lively Virtues", en [YouTube](https://www.youtube.com/watch?v=DNHKTkvXqyk) (en inglés).
-
 ## Dónde está la soberbia
 
 La soberbia es **el primero y el peor** de los siete pecados capitales, "raíz y reina" de todos. 🟡 Santo Tomás de Aquino la llama "el principio de todo pecado": dentro de cada pecado hay un corazón que se aparta de Dios y se vuelve hacia sí mismo, y eso es la soberbia en semilla.
