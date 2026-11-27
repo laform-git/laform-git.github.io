@@ -4,7 +4,7 @@
 
 **In plain words:** pride is putting yourself in God's place: *my plan, my rules, my life.* It is the oldest sin and the root of all the others. It promises greatness but leaves us small, anxious and, as Bishop Barron says, *bored*. Humility is not thinking badly of yourself. It is seeing the truth: everything good in you is a gift, and God has a great adventure for your life. The humble person is free, light and fully alive.
 
-> 🎬 **Watch the talk:** Bishop Robert Barron, *Seven Deadly Sins, Seven Lively Virtues*, talk 2 "Pride & Humility" (16 min), from Word on Fire, in English and Spanish. Available from [Word on Fire](https://bookstore.wordonfire.org/collections/seven-deadly-sins-seven-lively-virtues) and on FORMED.
+> 🎧 **Listen free:** Bishop Robert Barron's talk "Pride & Humility" from *Seven Deadly Sins, Seven Lively Virtues*, shared free by Word on Fire as [The Word on Fire Show, episode 188](https://www.wordonfire.org/?p=3081) (about 18 min, English). Also in any podcast app: search "Word on Fire Show 188". The full series is available from [Word on Fire](https://bookstore.wordonfire.org/collections/seven-deadly-sins-seven-lively-virtues) and on FORMED.
 
 ## Where pride sits
 
@@ -116,7 +116,7 @@ On Dante's mountain, the proud carry huge boulders on their backs. The stone is 
 
 ## Sources
 
-- Bishop Robert Barron, *Seven Deadly Sins, Seven Lively Virtues* (Word on Fire), talk 2 "Pride & Humility."
+- Bishop Robert Barron, *Seven Deadly Sins, Seven Lively Virtues* (Word on Fire), talk 2 "Pride & Humility"; free audio: The Word on Fire Show, episode 188 (2019).
 - Catechism of the Catholic Church 397-400, 1456-1458, 1866, 2544-2559.
 - St. Thomas Aquinas, *Summa Theologiae* II-II, q.162.
 - St. Augustine, *City of God* XIV.28.
