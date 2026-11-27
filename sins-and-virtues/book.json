@@ -12,8 +12,8 @@
   "es": "Pecados <span>y Virtudes</span>"
  },
  "eyebrow": {
-  "en": "Study series · Bishop Barron · 1 of 7",
-  "es": "Serie de estudio · obispo Barron · 1 de 7"
+  "en": "Bishop Barron · 7 notes",
+  "es": "Obispo Barron · 7 notas"
  },
  "lede": {
   "en": "The seven deadly sins and the lively virtues that heal them, with Bishop Barron, the Catechism and the saints.",
@@ -22,8 +22,8 @@
  "sections": [
   {
    "title": {
-    "en": "The seven pairs",
-    "es": "Los siete pares"
+    "en": "The seven pairs, bottom to top of Dante's mountain",
+    "es": "Los siete pares, de la base a la cima de la montaña de Dante"
    },
    "notes": [
     {
@@ -39,7 +39,116 @@
       "file": "es/pride.md",
       "title": "Soberbia y humildad",
       "aka": [
-       "Sin-Virtue-1 Pride & Humility"
+       "Sin-Virtue-1 Pride & Humility",
+       "Pride & Humility"
+      ]
+     }
+    },
+    {
+     "id": "envy",
+     "en": {
+      "file": "en/envy.md",
+      "title": "Envy & Admiration",
+      "aka": [
+       "Sin-Virtue-2 Envy & Brotherly Love"
+      ]
+     },
+     "es": {
+      "file": "es/envy.md",
+      "title": "Envidia y admiración",
+      "aka": [
+       "Sin-Virtue-2 Envy & Brotherly Love",
+       "Envy & Admiration"
+      ]
+     }
+    },
+    {
+     "id": "anger",
+     "en": {
+      "file": "en/anger.md",
+      "title": "Anger & Forgiveness",
+      "aka": [
+       "Sin-Virtue-3 Wrath & Meekness"
+      ]
+     },
+     "es": {
+      "file": "es/anger.md",
+      "title": "Ira y perdón",
+      "aka": [
+       "Sin-Virtue-3 Wrath & Meekness",
+       "Anger & Forgiveness"
+      ]
+     }
+    },
+    {
+     "id": "sloth",
+     "en": {
+      "file": "en/sloth.md",
+      "title": "Sloth & Zeal",
+      "aka": [
+       "Sin-Virtue-4 Sloth & Diligence"
+      ]
+     },
+     "es": {
+      "file": "es/sloth.md",
+      "title": "Pereza y fervor",
+      "aka": [
+       "Sin-Virtue-4 Sloth & Diligence",
+       "Sloth & Zeal"
+      ]
+     }
+    },
+    {
+     "id": "avarice",
+     "en": {
+      "file": "en/avarice.md",
+      "title": "Avarice & Generosity",
+      "aka": [
+       "Sin-Virtue-5 Greed & Generosity"
+      ]
+     },
+     "es": {
+      "file": "es/avarice.md",
+      "title": "Avaricia y generosidad",
+      "aka": [
+       "Sin-Virtue-5 Greed & Generosity",
+       "Avarice & Generosity"
+      ]
+     }
+    },
+    {
+     "id": "gluttony",
+     "en": {
+      "file": "en/gluttony.md",
+      "title": "Gluttony & Temperance",
+      "aka": [
+       "Sin-Virtue-6 Gluttony & Temperance"
+      ]
+     },
+     "es": {
+      "file": "es/gluttony.md",
+      "title": "Gula y templanza",
+      "aka": [
+       "Sin-Virtue-6 Gluttony & Temperance",
+       "Gluttony & Temperance"
+      ]
+     }
+    },
+    {
+     "id": "lust",
+     "en": {
+      "file": "en/lust.md",
+      "title": "Lust & Chastity",
+      "aka": [
+       "Sin-Virtue-7 Lust & Chastity"
+      ]
+     },
+     "es": {
+      "file": "es/lust.md",
+      "title": "Lujuria y castidad",
+      "aka": [
+       "Sin-Virtue-7 Lust & Chastity",
+       "Lust & Chastity"
       ]
      }
     }
