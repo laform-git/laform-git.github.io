@@ -196,6 +196,20 @@
     "icon": "<path d=\"M32 6C24 20 16 28 16 38a16 16 0 0 0 32 0C48 28 40 20 32 6z\"/><path d=\"M24 40a8 8 0 0 0 8 8\"/>"
   },
   {
+    "name": "Sugars & Carbs",
+    "section": "Health",
+    "path": "sugars-and-carbs/",
+    "blurb": "Carbs, every sugar and sweetener, the glycemic index, what too much sugar does to the body, and wheat. 6 notes.",
+    "langs": "English · Español",
+    "status": "Live",
+    "name_es": "Azúcares y Carbohidratos",
+    "blurb_es": "Carbohidratos, cada azúcar y endulzante, el índice glucémico, lo que el exceso de azúcar le hace al cuerpo y el trigo. 6 notas.",
+    "path_es": "sugars-and-carbs/#es/",
+    "sym": "Sg",
+    "num": 30,
+    "icon": "<rect x=\"14\" y=\"26\" width=\"16\" height=\"16\" rx=\"2\"/><rect x=\"34\" y=\"22\" width=\"16\" height=\"16\" rx=\"2\"/><rect x=\"24\" y=\"40\" width=\"16\" height=\"16\" rx=\"2\"/><path d=\"M44 8v8M40 12h8\"/>"
+  },
+  {
     "name": "Perfect Sleep",
     "section": "Health",
     "path": "perfect-sleep/",

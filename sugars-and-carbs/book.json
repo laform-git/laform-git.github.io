@@ -1,0 +1,158 @@
+{
+ "langs": [
+  "en",
+  "es"
+ ],
+ "title": {
+  "en": "Sugars & Carbs",
+  "es": "Azúcares y Carbohidratos"
+ },
+ "titleHtml": {
+  "en": "Sugars <span>&amp; Carbs</span>",
+  "es": "Azúcares <span>y Carbohidratos</span>"
+ },
+ "eyebrow": {
+  "en": "Study series · 6 notes",
+  "es": "Serie de estudio · 6 notas"
+ },
+ "lede": {
+  "en": "What carbohydrates are, every sugar and sweetener, the glycemic index, what too much sugar does to the body, and the truth about wheat.",
+  "es": "Qué son los carbohidratos, cada azúcar y endulzante, el índice glucémico, lo que el exceso de azúcar le hace al cuerpo y la verdad sobre el trigo."
+ },
+ "sections": [
+  {
+   "title": {
+    "en": "The basics",
+    "es": "Lo básico"
+   },
+   "notes": [
+    {
+     "id": "carbs",
+     "en": {
+      "file": "en/carbs.md",
+      "title": "Carbohydrates",
+      "aka": [
+       "Carbohydrates — Master Note"
+      ]
+     },
+     "es": {
+      "file": "es/carbs.md",
+      "title": "Carbohidratos",
+      "aka": [
+       "Carbohidratos — Nota maestra",
+       "Carbohydrates — Master Note"
+      ]
+     }
+    },
+    {
+     "id": "the-case",
+     "en": {
+      "file": "en/the-case.md",
+      "title": "The Case Against Added Sugar",
+      "aka": [
+       "Sugar — The Case Against Added Sugar",
+       "Sugar",
+       "Sugar — Fructose vs Glucose"
+      ]
+     },
+     "es": {
+      "file": "es/the-case.md",
+      "title": "El caso contra el azúcar añadida",
+      "aka": [
+       "Sugar — The Case Against Added Sugar"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "Choosing",
+    "es": "Para elegir"
+   },
+   "notes": [
+    {
+     "id": "sweeteners",
+     "en": {
+      "file": "en/sweeteners.md",
+      "title": "Every Sugar and Sweetener",
+      "aka": [
+       "Every Sugar and Sweetener",
+       "Sugars and Sweeteners"
+      ]
+     },
+     "es": {
+      "file": "es/sweeteners.md",
+      "title": "Cada azúcar y endulzante",
+      "aka": [
+       "Cada azúcar y endulzante",
+       "Every Sugar and Sweetener"
+      ]
+     }
+    },
+    {
+     "id": "gi",
+     "en": {
+      "file": "en/gi.md",
+      "title": "Glycemic Index — Good and Bad",
+      "aka": [
+       "Glycemic Index — Good and Bad"
+      ]
+     },
+     "es": {
+      "file": "es/gi.md",
+      "title": "Índice glucémico — lo bueno y lo malo",
+      "aka": [
+       "Índice glucémico — lo bueno y lo malo",
+       "Glycemic Index — Good and Bad"
+      ]
+     }
+    },
+    {
+     "id": "wheat",
+     "en": {
+      "file": "en/wheat.md",
+      "title": "Wheat and Gluten",
+      "aka": [
+       "Wheat and Gluten"
+      ]
+     },
+     "es": {
+      "file": "es/wheat.md",
+      "title": "Trigo y gluten",
+      "aka": [
+       "Trigo y gluten",
+       "Wheat and Gluten"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "en": "The body",
+    "es": "El cuerpo"
+   },
+   "notes": [
+    {
+     "id": "too-much-sugar",
+     "en": {
+      "file": "en/too-much-sugar.md",
+      "title": "Too Much Sugar — What It Does to the Body",
+      "aka": [
+       "Too Much Sugar — What It Does to the Body"
+      ]
+     },
+     "es": {
+      "file": "es/too-much-sugar.md",
+      "title": "Demasiada azúcar — lo que le hace al cuerpo",
+      "aka": [
+       "Demasiada azúcar — lo que le hace al cuerpo",
+       "Too Much Sugar — What It Does to the Body"
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
